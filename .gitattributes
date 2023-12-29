@@ -1,0 +1,22 @@
+configs/text/eng/*.xml text encoding=Windows-1252 working-tree-encoding=Windows-1252 eol=crlf
+configs/text/fra/*.xml text encoding=Windows-1252 working-tree-encoding=Windows-1252 eol=crlf
+configs/text/ger/*.xml text encoding=Windows-1252 working-tree-encoding=Windows-1252 eol=crlf
+configs/text/ita/*.xml text encoding=Windows-1252 working-tree-encoding=Windows-1252 eol=crlf
+configs/text/pol/*.xml text encoding=Windows-1250 working-tree-encoding=Windows-1250 eol=crlf
+configs/text/rus/*.xml text encoding=Windows-1251 working-tree-encoding=Windows-1251 eol=crlf
+configs/text/spa/*.xml text encoding=Windows-1252 working-tree-encoding=Windows-1252 eol=crlf
+configs/text/ukr/*.xml text encoding=Windows-1251 working-tree-encoding=Windows-1251 eol=crlf
+
+*.json text encoding=UTF-8 eol=lf
+*.md text encoding=UTF-8 eol=lf
+*.sh text encoding=UTF-8 eol=lf
+*.ts text encoding=UTF-8 eol=lf
+*.yml text encoding=UTF-8 eol=lf
+
+# special case: non-Cyrillic locales with Cyrillic strings
+gamedata/configs/text/eng/st_ui_ts_credits.xml text encoding=Windows-1251 working-tree-encoding=Windows-1251 eol=crlf
+gamedata/configs/text/fra/st_ui_ts_credits.xml text encoding=Windows-1251 working-tree-encoding=Windows-1251 eol=crlf
+gamedata/configs/text/ger/st_ui_ts_credits.xml text encoding=Windows-1251 working-tree-encoding=Windows-1251 eol=crlf
+gamedata/configs/text/ita/st_ui_ts_credits.xml text encoding=Windows-1251 working-tree-encoding=Windows-1251 eol=crlf
+gamedata/configs/text/pol/st_ui_ts_credits.xml text encoding=Windows-1251 working-tree-encoding=Windows-1251 eol=crlf
+gamedata/configs/text/spa/st_ui_ts_credits.xml text encoding=Windows-1251 working-tree-encoding=Windows-1251 eol=crlf

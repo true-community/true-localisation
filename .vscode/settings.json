@@ -1,0 +1,26 @@
+{
+  "files.encoding": "windows1251",
+  "[json]":{
+    "files.encoding": "utf8"
+  },
+  "[md]":{
+    "files.encoding": "utf8"
+  },
+  "[sh]":{
+    "files.encoding": "utf8"
+  },
+  "[ts]":{
+    "files.encoding": "utf8"
+  },
+  "[yml]":{
+    "files.encoding": "utf8"
+  },
+  "files.associations": {
+    "*.script": "lua"
+  },
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true
+}
