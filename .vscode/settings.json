@@ -1,4 +1,5 @@
 {
-  // "files.autoGuessEncoding": true,
-  "files.encoding": "windows1251"
+  "[xml]":{
+    "files.encoding": "windows1251"
+  }
 }

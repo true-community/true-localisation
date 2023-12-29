@@ -14,8 +14,8 @@ case $1 in
     # .dbtool/utils/db_pack.sh language
     ;;
   *)
-    echo "  unpack - extract DB archives"
-    echo "  pack - create DB archives"
-    echo "  help - show this text"
+    echo "  unpack — extract DB archives"
+    echo "  pack — create DB archives"
+    echo "  help — show this text"
     ;;
 esac
