@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<string_table>
+  <string id="actor_inventory_box_use">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN PERSONAL STASH</text>
+  </string>
+  <string id="car_character_use">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN THE DOOR</text>
+  </string>
+  <string id="character_use">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TALK</text>
+  </string>
+  <string id="dead_character_use">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SEARCH THE CORPSE</text>
+  </string>
+  <string id="dead_monster_use">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SEARCH THE CARCASS</text>
+  </string>
+  <string id="dead_character_use_or_drag">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SEARCH THE CORPSE\n%c[info_orange][SHIFT+$$ACTION_USE$$] %c[info_title]DRAG THE CORPSE</text>
+  </string>
+  <string id="inventory_box_use">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SEARCH THE STASH</text>
+  </string>
+  <string id="st_use_inventory_ruck">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SEARCH THE BACKPACK</text>
+  </string>
+  <string id="st_use_inventory_box_treasure">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SEARCH THE CACHE</text>
+  </string>
+  <string id="inventory_item_use">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE OBJECT</text>
+  </string>
+  <string id="sleep_zone_tip">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SLEEP</text>
+  </string>
+  <string id="st_codelock">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]CODE LOCK</text>
+  </string>
+  <string id="st_search_treasure">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SEARCH THE CACHE</text>
+  </string>
+  <string id="st_search_stump">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SEARCH THE STUM</text>
+  </string>
+  <string id="tip_door_blocked">
+    <text>%c[ts_ui_red]THE DOOR IS LOCKED</text>
+  </string>
+  <string id="tip_door_close">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]CLOSE THE DOOR</text>
+  </string>
+  <string id="tip_door_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN THE DOOR</text>
+  </string>
+  <string id="esc_actor_treasure_tip">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TAKE THE LOOT</text>
+  </string>
+  <string id="tip_radio_on">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TURN ON THE RADIO</text>
+  </string>
+  <string id="tip_radio_off">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TURN OFF THE RADIO</text>
+  </string>
+  <string id="take_dinamit">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TAKE THE DYNAMITE</text>
+  </string>
+  <string id="put_dinamit">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PUT THE DYNAMIT</text>
+  </string>
+  <string id="esc_scients_take_pribor">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TAKE THE DEVICE</text>
+  </string>
+  <string id="put_scients_pribor">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PUT THE DEVICE</text>
+  </string>
+  <string id="put_scients_pribor_on">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TURN ON THE DEVICE</text>
+  </string>
+  <string id="agr_diggers_box_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN THE BOX</text>
+  </string>
+  <string id="agr_diggers_shitok_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN THE ELECTRICAL BOARD</text>
+  </string>
+  <string id="camp_use_0">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PUT OUT THE CAMPFIRE</text>
+  </string>
+  <string id="camp_use_1">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]LIGHT THE CAMPFIRE</text>
+  </string>
+  <string id="val_scientist_place_scaner">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PLACE THE SCANNER</text>
+  </string>
+  <string id="val_treasure_task_kitchen_go">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]ADD SLEEPING PILLS</text>
+  </string>
+  <string id="val_explosive_place_go">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PLACE THE EXPLOSIVE</text>
+  </string>
+  <string id="nsp_place_scanners_text">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PLACE THE SCANNER</text>
+  </string>
+  <string id="nsp_village_home_check_text">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]INSPECT</text>
+  </string>
+  <string id="nsp_masters_flashback_take_ruck_text">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE BACKPACK</text>
+  </string>
+  <string id="nsp_masters_bury_text">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]BURY THE STALKERS</text>
+  </string>
+  <string id="nsp_military_base_off_anoms">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TURN OFF ELECTRICITY</text>
+  </string>
+  <string id="nsp_soldier_polter_notes_text">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE TABLET</text>
+  </string>
+  <string id="nsp_soldier_polter_treasure_box_locked">
+    <text>%c[ts_ui_red]CLOSED WITH A KEY</text>
+  </string>
+  <string id="nsp_soldier_polter_treasure_box_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN THE SAFE</text>
+  </string>
+  <string id="nsp_soldier_polter_treasure_key_take">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE KEY</text>
+  </string>
+  <string id="nsp_take_guitar">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE GUITAR</text>
+  </string>
+  <string id="nsp_soldier_polter_reward_artefact_take">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE ARTIFACT</text>
+  </string>
+  <string id="nsp_place_artefacts_text">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]START TRANSMUTATION</text>
+  </string>
+  <string id="nsp_final_scientific_task_artefact_text_take">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE SAMPLE</text>
+  </string>
+  <string id="nsp_brawl_place_artefact_text">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]BURY THE TRANSMUTE</text>
+  </string>
+  <string id="nsp_bell_use_text">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]RING THE BELL</text>
+  </string>
+  <string id="val_bandits_base_store_door_locked">
+    <text>%c[ts_ui_red]LOCKED</text>
+  </string>
+  <string id="gar_drunk_medic_try_to_wake">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TRY TO WAKE HIM UP</text>
+  </string>
+  <string id="bar_play_guitar_tip">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PLAY THE GUITAR</text>
+  </string>
+  <string id="bar_stalkers_arena_manager_box_locked">
+    <text>%c[ts_ui_red]LOCKED</text>
+  </string>
+  <string id="nsp_hunters_hunter_corp_pda_take">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE PDA</text>
+  </string>
+  <string id="esc_scientists_task_device_take_tip">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE DEVICE</text>
+  </string>
+  <string id="esc_stalker_lair_artefact_take_tip">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE ARTIFACT</text>
+  </string>
+  <string id="yan_jurok_friend_inspect">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]INSPECT THE STALKER'S CORPSE</text>
+  </string>
+  <string id="yan_scientist_corp_inspect">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]INSPECT THE SCIENTIST'S CORPSE</text>
+  </string>
+  <string id="yan_bunker_info_item_pda_take">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE PDA</text>
+  </string>
+  <string id="yan_bunker_info_item_pc_hard_take">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]REMOVE THE HARD DRIVE</text>
+  </string>
+  <string id="yan_bunker_info_item_notebook_take">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TAKE THE LAPTOP</text>
+  </string>
+  <string id="yan_bunker_info_item_flash_take">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TAKE THE FLASH DRIVE</text>
+  </string>
+  <string id="yan_bunker_info_item_docs_take">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TAKE DOCUMENTS</text>
+  </string>
+  <string id="yan_labx16_task_angar_switcher_tip">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]INTERACT</text>
+  </string>
+  <string id="yan_labx16_transiver_tip">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]LISTEN TO THE RECORDING</text>
+  </string>
+  <string id="yan_bunker_zombie_door_try_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PULL THE DOOR HARD</text>
+  </string>
+  <string id="yan_factory_emitter_switcher_off">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SHUT DOWN THE ANTENNA</text>
+  </string>
+  <string id="bar_actor_box_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN THE BOX</text>
+  </string>
+  <string id="agr_washboard_use_tip">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]WASH FACE</text>
+  </string>
+  <string id="gar_bandits_treasure_box_tip">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SEARCH THE BOX</text>
+  </string>
+  <string id="val_bandits_base_prison_pult_message">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN THE CAGE</text>
+  </string>
+  <string id="agr_tonnel_scientist_remains_take_text">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]COLLECT REMAINS</text>
+  </string>
+  <string id="esc_army_base_prison_safe_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN THE SAFE</text>
+  </string>
+  <string id="bar_prison_task_projectors_control_panel_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN THE PANEL</text>
+  </string>
+  <string id="bar_prison_task_projectors_control_panel_off">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TURN OFF THE SWITCH AND CUT THE WIRES</text>
+  </string>
+  <string id="mil_mercs_base_actor_box_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN BACKPACK</text>
+  </string>
+  <string id="mil_mercs_base_stalkers_box_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN THE CASE</text>
+  </string>
+  <string id="mil_stalkers_farm_sleep_message">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SLEEP</text>
+  </string>
+  <string id="mil_bloodsuckers_village_ladder_take">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TAKE THE LADDER</text>
+  </string>
+  <string id="mil_army_base_warehouse_door_try_open">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TRY TO OPEN THE DOOR</text>
+  </string>
+  <string id="mil_soldier_warehouse_vodka_message">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]THROW A BOTTLE OF VODKA</text>
+  </string>
+  <string id="mlab_start_device_message">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TURN ON THE EQUIPMENT</text>
+  </string>
+  <string id="nsp_take_xabar">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TAKE THE LOOT</text>
+  </string>
+  <string id="nsp_take_zapiska">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TAKE THE LETTER</text>
+  </string>
+  <string id="val_take_case">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]TAKE THE CASE</text>
+  </string>
+  <string id="val_vent_to_labx18_place_message">
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PLACE THE EXPLOSIVE</text>
+  </string>
+</string_table>
