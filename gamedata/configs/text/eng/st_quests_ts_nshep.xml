@@ -1,0 +1,564 @@
+п»ї<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<string id="nsp_scientific_job_place_scanners">
+		<text>ANOMALOUS ACTIVITY</text>
+	</string>
+
+	<string id="nsp_scientific_job_place_scanners_name">
+		<text>Install the five scanners in the marked areas</text>
+	</string>
+
+	<string id="nsp_scientific_job_place_scanners_text">
+		<text>Before getting on with transmuting, I should find the most potent anomalous zone possible. For that, I should install the scanners in the marked spots.</text>
+	</string>
+
+	<string id="nsp_scientific_job_full">
+		<text>TRANSMUTATION</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_place_artefacts_name">
+		<text>Commence the transmutation</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_place_artefacts_text">
+		<text>I have everything necessary for transmuting the artifact. Let's get cooking!</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_wait_process_name">
+		<text>Wait for the process to finish</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_wait_process_text">
+		<text>It seems the transmutation has begun. I should wait a bit.</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_take_artefact_name">
+		<text>Grab the artifact</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_take_artefact_text">
+		<text>Something appeared during the process. It seems the transmutation is a success.</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_go_agroprom_name">
+		<text>Take the transmuted artifact to Dubinin</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_go_agroprom_text">
+		<text>The processor appears to be a success. Time to return to Agroprom and receive a reward.</text>
+	</string>
+
+	<string id="nsp_scientific_job_find_artefact">
+		<text>TRANSMUTATION</text>
+	</string>
+
+	<string id="nsp_scientific_job_find_artefact_name">
+		<text>Find the Altered Insulator in the military base</text>
+	</string>
+
+	<string id="nsp_scientific_job_find_artefact_text">
+		<text>To successfully carry out the transmutation, I'll have to find a unique artifact dubbed the В«Concrete ChipВ». It should be located somewhere within the abandoned military base.</text>
+	</string>
+
+	<string id="nsp_scientific_job_generators">
+		<text>GENERATORS</text>
+	</string>
+
+	<string id="nsp_scientific_job_generators_start_name">
+		<text>Find a way to deactivate the electricity</text>
+	</string>
+
+	<string id="nsp_scientific_job_generators_start_text">
+		<text>The generators turned out to be operational, and their power source isn't quite clear. I should find a way to get inside the control room, where the artifact should be located. But how do I turn off the electricity? I should examine everything carefully. Going in head-on is not an option.</text>
+	</string>
+
+	<string id="nsp_mysterious_death">
+		<text>MYSTERIOUS DEATH</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_corpse_name">
+		<text>Examine the stalker corpse</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_corpse_text">
+		<text>Some stalker fell down right in front of me with no life signs. I'll check his body - might contain something useful.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_go_village_name">
+		<text>Ask the locals about the dead stalker</text>
+	</string>
+
+	<string id="nsp_mysterious_death_go_village_text">
+		<text>The stalker, named Kite, left a note before death mentioning some type of manhunt. I should ask the local stalkers dwelling in the village about this poor guy. I'll visit their leader.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_home_name">
+		<text>Examine the scene of Ferret's suicide</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_home_text">
+		<text>Eustace told me that Kite wasn't the only one who did away with himself. Some stalker named Ferret shot himself in one of the houses six months ago. I should examine his place of death, see if I can dig something up.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_home_letter_end_name">
+		<text>Show the note to Eustace</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_home_letter_end_text">
+		<text>I was able to find Ferret's note in the house he shot himself in. This is worth showing to Eustace.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_with_stalkers_name">
+		<text>Ask the local stalkers</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_with_stalkers_text">
+		<text>I found a note on the scene of Ferret's suicide, but this only brings more questions. Who is hunting down stalkers before their death? I'll try questioning the locals - perhaps they know something. In the meantime, Eustace set off to the craftsmen Kite was working for. They might have some information.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_suicide_stalker_informator_name">
+		<text>Find Zarmut and talk about Ferret</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_suicide_stalker_informator_text">
+		<text>A young stalker named Zarmut might know more about Ferret's death. I should track him down near a camp by some abandoned cabin.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_leader_suicide_name">
+		<text>Return to Eustace</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_leader_suicide_text">
+		<text>Seems like a dead end. I have no new information. I should have a discussion with Eustace - he's likely to have learned something from the craftsmen and returned by now.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_take_leader_letter_name">
+		<text>Read Eustace's suicide note</text>
+	</string>
+
+	<string id="nsp_mysterious_death_take_leader_letter_text">
+		<text>Eustace is dead. Next to his body is a note.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_relax_leader_suicide_name">
+		<text>Discuss recent events</text>
+	</string>
+
+	<string id="nsp_mysterious_death_relax_leader_suicide_text">
+		<text>Son of a gun! How is this even happening? I need to discuss what to do next with the stalkers.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_masters_name">
+		<text>Ask the stalker masters about Eustace</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_masters_text">
+		<text>One of the last people to see the now-dead stalkers while they were alive were the seasoned stalkers at the bridge. I need to scout around this evening and figure out what to do next.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_run_away_name">
+		<text>Run</text>
+	</string>
+
+	<string id="nsp_mysterious_death_run_away_text">
+		<text>...</text>
+	</string>
+
+	<string id="nsp_mysterious_death_suicide_actor_name">
+		<text>Jump from the bridge</text>
+	</string>
+
+	<string id="nsp_mysterious_death_suicide_actor_text">
+		<text>I no longer see any other option. Those black shadows are inside me. If I don't kill myself, I will not kill them.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_search_killer_name">
+		<text>Find the stalker assassin</text>
+	</string>
+
+	<string id="nsp_mysterious_death_search_killer_text">
+		<text>The stalker killer who brought the curse upon the whole village reeked of motor oil. What could that be? I'll go to the village and find out.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_deliver_killer_name">
+		<text>Take Pancras to the shore</text>
+	</string>
+
+	<string id="nsp_mysterious_death_deliver_killer_text">
+		<text>Pancras took my bait. Now I only have to take him to the bridge, where I hope everything will end.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_final_name">
+		<text>Bury the five stalkers</text>
+	</string>
+
+	<string id="nsp_mysterious_death_final_text">
+		<text>Five stalkers died because of someone's quest for profit. Among them was Nazgul, who somehow managed to help me crack this case. May they now have eternal rest as the stalker camp no longer suffers from the curse.</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task">
+		<text>EASY PICKINGS</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_kill_stalkers_name">
+		<text>Get rid of the sleeping stalkers</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_kill_stalkers_text">
+		<text>Just in case, I need to get rid of those stalkers.</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_take_items_name">
+		<text>Get the loot</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_take_items_text">
+		<text>Here's the backpack with the supplies...</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_speak_stalker_car_help_name">
+		<text>Talk to the decoy</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_speak_stalker_car_help_text">
+		<text>Time to discuss things with the decoy.</text>
+	</string>
+
+	<string id="nsp_village_gain_confidence">
+		<text>VILLAGE SCANNER</text>
+	</string>
+
+	<string id="nsp_village_gain_confidence_start_name">
+		<text>Gain the stalkers' trust</text>
+	</string>
+
+	<string id="nsp_village_gain_confidence_start_text">
+		<text>The local stalkers wouldn't be happy by unknown equipment being placed in their camp. First I need to gain their trust. After solving their problems, perhaps things will change.</text>
+	</string>
+
+	<string id="nsp_village_gain_confidence_place_scaner_name">
+		<text>Install the scanner</text>
+	</string>
+
+	<string id="nsp_village_gain_confidence_place_scaner_text">
+		<text>It seems the stalkers are starting to treat me as one of their own. I hope now I can install the scanner in the village.</text>
+	</string>
+
+	<string id="nsp_suicide_stalker_treasure_task">
+		<text>KITE'S LOOT</text>
+	</string>
+
+	<string id="nsp_suicide_stalker_treasure_task_start_name">
+		<text>Examine the area</text>
+	</string>
+
+	<string id="nsp_suicide_stalker_treasure_task_start_text">
+		<text>I found out where Kite kept his loot. Perhaps I'll find something useful there.</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task">
+		<text>POLTERGEIST</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_start_name">
+		<text>Find out what keeps the mutant at the station</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_start_text">
+		<text>An unusual poltergeist is hovering at the station and doesn't want to leave. Perhaps that is its lair? If so, why isn't it attacking me? Strange... I should examine the area, as installing the scanner in its lair wouldn't be a good idea. I need to get rid of the mutant somehow.</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_search_items_name">
+		<text>Find the soldier's possessions</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_search_items_text">
+		<text>By the look of it, the hovering creature at the station was once a soldier from the nearby military base, now turned into a poltergeist. His notes indicate a place where he kept his belongings. I'd better go there and try to find out something.</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_follow_polter_name">
+		<text>Follow the creature</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_follow_polter_text">
+		<text>The strange poltergeist decided to traverse over here. I don't think him has any hostile intentions, and is trying to tell me something. Perhaps I should follow him?</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_take_reward_name">
+		<text>Take the reward</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_take_reward_text">
+		<text>Is this supposed to be a reward for the soldier's belongings? I'm confused.</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner">
+		<text>HUNT</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_start_speak_name">
+		<text>Talk to Zakhar</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_start_speak_text">
+		<text>The leader of the local hunters took my scanner for inspection. While waiting, I agreed to go on a hunt. Jug told me that it's a good source of money. Why not try?</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_wait_night_name">
+		<text>Wait for daylight</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_wait_night_text">
+		<text>Zakhar tells me the forest is dangerous at night. I should wait and go hunting during daylight.</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_search_shotgun_name">
+		<text>Acquire a shotgun</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_search_shotgun_text">
+		<text>Zakhar demands I get a shotgun. He says the military base might have some firearms. I should take a look there and try to find something.</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_start_hunt_name">
+		<text>Go on a hunt with Zakhar</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_start_hunt_text">
+		<text>I'm setting off with Zakhar on a hunt. Should be easy: shoot and provide cover if anything happens.</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_kill_monsters_name">
+		<text>Eliminate the mutants</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_kill_monsters_text">
+		<text>I should help Zakhar shoot down the mutants.</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_help_boss_name">
+		<text>Help Zakhar</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_help_boss_text">
+		<text>...</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_take_scanner_name">
+		<text>Grab the scanner</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_take_scanner_text">
+		<text>...</text>
+	</string>
+
+	<string id="nsp_brawl_task">
+		<text>INCIDENT</text>
+	</string>
+
+	<string id="nsp_brawl_task_start_name">
+		<text>Hide from the attackers</text>
+	</string>
+
+	<string id="nsp_brawl_task_start_text">
+		<text>I was ambushed where I was supposed to meet with the scientists. What's the meaning of this?</text>
+	</string>
+
+	<string id="nsp_brawl_task_hide_in_village_name">
+		<text>Take cover in the village</text>
+	</string>
+
+	<string id="nsp_brawl_task_hide_in_village_text">
+		<text>Trusting the ambushers is a no-go, having opened fire on me a few minutes ago. The only safe spot in the area is the stalker camp in the abandoned village. No matter how tough those guys are, they won't poke their nose there.</text>
+	</string>
+
+	<string id="nsp_brawl_task_hide_artefact_name">
+		<text>Bury the transmuted artifact</text>
+	</string>
+
+	<string id="nsp_brawl_task_hide_artefact_text">
+		<text>Something strange is happening. I should get rid of the artifact. Burying it in the tunnel ruins would be a good idea - plenty of room to hide it there, and from there I'll go to the Cordon.</text>
+	</string>
+
+	<string id="nsp_brawl_task_leave_the_territory_name">
+		<text>Leave Novoshepelychi</text>
+	</string>
+
+	<string id="nsp_brawl_task_leave_the_territory_text">
+		<text>It's time to get out of here. I also need to get in contact with Yurok. I need to leave the Zone.</text>
+	</string>
+
+	<string id="nsp_brawl_task_speak_jurok_name">
+		<text>Talk to Yurok</text>
+	</string>
+
+	<string id="nsp_brawl_task_speak_jurok_text">
+		<text>I'm leaving the Zone. One last thing: I'll see Yurok and tell him about everything.</text>
+	</string>
+
+	<string id="nsp_general_boar_task">
+		<text>GENERAL SHTOK</text>
+	</string>
+
+	<string id="nsp_general_boar_task_go_last_meeting_place_name">
+		<text>Return to the clearing</text>
+	</string>
+
+	<string id="nsp_general_boar_task_go_last_meeting_place_text">
+		<text>I should return to the clearing, where we last met the general. Zakhar and I did some decent damage on him. Perhaps we'll find some traces.</text>
+	</string>
+
+	<string id="nsp_general_boar_task_following_bloody_drops_name">
+		<text>Follow the blood trail</text>
+	</string>
+
+	<string id="nsp_general_boar_task_following_bloody_drops_text">
+		<text>Zakhar wounded a boar. I should try following the blood trail that will lead me to its lair.</text>
+	</string>
+
+	<string id="nsp_general_boar_task_check_boar_home_name">
+		<text>Examine the hole</text>
+	</string>
+
+	<string id="nsp_general_boar_task_check_boar_home_text">
+		<text>It seems this is general Shtok's place of residence. I should examine the lair and settle things with the mutant while it's wounded.</text>
+	</string>
+
+	<string id="nsp_general_boar_task_kill_boar_name">
+		<text>Kill the mutant</text>
+	</string>
+
+	<string id="nsp_general_boar_task_kill_boar_text">
+		<text>I found the colossal boar. Now I just have to dispose of it.</text>
+	</string>
+
+	<string id="nsp_general_boar_task_search_corp_name">
+		<text>Search the hunter's body</text>
+	</string>
+
+	<string id="nsp_general_boar_task_search_corp_text">
+		<text>I found the body of the missing hunters in the cave. I should examine it.</text>
+	</string>
+
+	<string id="nsp_general_boar_task_hunter_pot_go_reward_name">
+		<text>Inform Jug about recent events</text>
+	</string>
+
+	<string id="nsp_general_boar_task_hunter_pot_go_reward_text">
+		<text>I managed to kill general Shtok. I'll tell Jug about everything.</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task">
+		<text>MUSICIAN FROM NOVOSHEPELYCHI</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_start_talk_name">
+		<text>Find out why the stalker is having trouble playing</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_start_talk_text">
+		<text>I came across a small stalker encampment. One of them is having a hard time playing the guitar. Great opportunity for a joke!</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_find_item_name">
+		<text>Find a guitar for Yurets</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_find_item_text">
+		<text>I promised the stalker to look for a new guitar. There should be something suitable in the village of Novoshepelychi. I should ask the village residents.</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_take_reward_name">
+		<text>Give the guitar to Yurets</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_take_reward_text">
+		<text>I at least managed to get my hands on an intact instrument. I hope this is what the stalker's looking for.</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_search_stalker_name">
+		<text>Take the guitar to Yurets</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_search_stalker_text">
+		<text>Not long ago, I met some poor musician with a broken guitar. I think he'll be glad to see what I've found. Why let it go to waste?</text>
+	</string>
+
+	<string id="nsp_freedom_meet_task">
+		<text>FREEDOM SQUAD</text>
+	</string>
+
+	<string id="nsp_freedom_meet_task_name">
+		<text>Talk to the leader</text>
+	</string>
+
+	<string id="nsp_freedom_meet_task_text">
+		<text>A certain Crab from Freedom asked me for help with something. Why not see what he wants?</text>
+	</string>
+
+	<string id="nsp_freedom_bandits_task">
+		<text>OIL DEPOT</text>
+	</string>
+
+	<string id="nsp_freedom_bandits_task_start_name">
+		<text>Help Crab deal with the bandits</text>
+	</string>
+
+	<string id="nsp_freedom_bandits_task_start_text">
+		<text>Crab and his men are some of the remnants of Freedom in the Zone. They've asked me to clear out the bandits from the oil depot so that they can settle there for a while.</text>
+	</string>
+
+	<string id="nsp_freedom_bandits_task_take_reward_name">
+		<text>Talk to Crab</text>
+	</string>
+
+	<string id="nsp_freedom_bandits_task_take_reward_text">
+		<text>Bandits eliminated. I'll talk to the Freedom squad leader about a reward.</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task">
+		<text>BIG PROBLEM</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_start_talk_name">
+		<text>Talk to Crab</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_start_talk_text">
+		<text>The Freedom fighters need help with something again. This might be interesting. If I find myself in those parts, I could check it out.</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_need_to_think_name">
+		<text>Prepare to hunt the chimera</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_need_to_think_text">
+		<text>The Freedom squad needs help. Crab asked me to participate in a hunt on a chimera that's hanging around near their camp. I've never met one of those before, so I need to prepare.</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_follow_leader_name">
+		<text>Follow Crab</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_follow_leader_text">
+		<text>We're almost there. Now I should carefully approach the chimera and unleash the firestorm.</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_kill_monster_name">
+		<text>Kill the chimera</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_kill_monster_text">
+		<text>Hardest part has come: deal with the chimera. Hope we come out alive.</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_final_talk_name">
+		<text>Talk to Crab</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_final_talk_text">
+		<text>The chimera's dead and the area is safer. Time to talk to the Freedom squad leader about my reward.</text>
+	</string>
+
+</string_table>

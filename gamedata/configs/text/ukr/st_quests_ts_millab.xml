@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<string_table>
+
+	<string id="mlab_stalker_fate_task">
+		<text>ДОЛЯ СТАЛКЕРА</text>
+	</string>
+
+	<string id="mlab_stalker_fate_task_name">
+		<text>Поговорити з Термітом</text>
+	</string>
+
+    <string id="mlab_stalker_fate_task_text">
+		<text>Калінський розповів мені про те, що Терміт нібито вбив сталкера на прізвисько Сокира, після того як той допоміг нам провести селекцію артефакту. Мене дуже обурює цей факт. Нам не можна тринькати такі цінні кадри, здатні надати нам сприяння в роботі. Я хочу в цьому розібратися, тому прямую до секції охорони.</text>
+	</string>
+
+	<string id="mlab_trials_task">
+		<text>Випробування</text>
+	</string>
+
+	<string id="mlab_trials_task_start_name">
+		<text>Запустити обладнання</text>
+	</string>
+
+	<string id="mlab_trials_task_start_text">
+		<text>Керівництвом нашої лабораторії поставлена мета вивчити можливість повертати назад мутації в Зоні. Як піддослідних було знайдено кілька цивільних зомбованих, які вже кілька років блукають Чорнобильською Зоною. Можливо, їх вдасться хоча б частково повернути до звичайного життя. Утім, сьогодні ми проводимо тільки перші випробування. Попереду чекає копітка робота.</text>
+	</string>
+
+	<string id="mlab_trials_task_wait_name">
+		<text>Дочекатися закінчення</text>
+	</string>
+
+	<string id="mlab_trials_task_wait_text">
+		<text> Обладнання запущено. Залишилося дочекатися закінчення випробувань і отримати довгоочікувані результати.</text>
+	</string>
+
+	<string id="mlab_trials_task_talk_name">
+		<text>Поговорити з асистентом</text>
+	</string>
+
+	<string id="mlab_trials_task_talk_text">
+		<text>Випробування завершено. Про результати слід поговорити з асистентом.</text>
+	</string>
+	
+	<string id="mlab_trials_task_final_name">
+		<text>Відповісти на дзвінок у своєму кабінеті</text>
+	</string>
+
+	<string id="mlab_trials_task_final_text">
+		<text>Мне надійшов дзвінок, імовірно, від керівництва з приводу минулих випробувань. Потрібно вирушити до свого кабінету і взяти слухавку.</text>
+	</string>
+
+	<string id="mlab_final_task">
+		<text>ПРОРИВ</text>
+	</string>
+
+	<string id="mlab_final_task_start_name">
+		<text>Просуватися вглиб лабораторії</text>
+	</string>
+
+	<string id="mlab_final_task_start_text">
+		<text>Я проник у підземелля, де влаштувалися невідомі. Судячи з усього, вони організували тут лабораторію. Напевно тут є кілька пасток, тому варто бути напоготові при просуванні вглиб підземелля. Моє завдання тут - знайти Дубініна і розібратися в тому, що це за місце.</text>
+	</string>
+
+	<string id="mlab_final_task_scientist_boss_sprint_name">
+		<text>Наздогнати професора</text>
+	</string>
+
+	<string id="mlab_final_task_scientist_boss_sprint_text">
+		<text>Професор Дубінін відмовився здаватися. Потрібно його наздогнати і здійснити арешт.</text>
+	</string>
+
+	<string id="mlab_final_task_search_merc_leader_name">
+		<text> Розібратися з найманцями</text>
+	</string>
+
+	<string id="mlab_final_task_search_merc_leader_text">
+		<text>Професор мертвий. Не знаю, чи правильний я зробив вибір, але здаватися він явно не бажав. Тепер потрібно закінчити огляд лабораторії, розібратися з найманцями і, по можливості, знайти Терміта.</text>
+	</string>
+
+	<string id="mlab_final_task_search_merc_leader_second_name">
+		<text>Розобратися з найманцями</text>
+	</string>
+
+	<string id="mlab_final_task_search_merc_leader_second_text">
+		<text>Живлення вимкнено. Тепер потрібно закінчити огляд лабораторії, розібратися з найманцями і провести евакуацію тих, хто вижив.</text>
+	</string>
+
+	<string id="mlab_final_save_alives_name">
+		<text>Евакуювати тих, хто вижив</text>
+	</string>
+
+	<string id="mlab_final_save_alives_text">
+		<text>Терміта знайти не вдалося, проте його головорізи тепер мертві. Залишилося провести евакуацію тих, хто вижив.</text>
+	</string>
+
+	<string id="mlab_final_task_follow_scientist_laborant_name">
+		<text>Слідувати за вченим</text>
+	</string>
+
+	<string id="mlab_final_task_follow_scientist_laborant_text">
+		<text>Лаборант сказав, що Дубінін та інша частина персоналу збираються покинути лабораторію через телепорт. Потрібно слідувати за головатим - він покаже, як відключити живлення в підземеллі.</text>
+	</string>
+
+	<string id="mlab_final_task_teleport_off_name">
+		<text>Знеструмити телепорт</text>
+	</string>
+
+	<string id="mlab_final_task_teleport_off_text">
+		<text>Вчений показав, як вимкнути електрику в лабораторії. Тепер Дубінін далеко не піде.</text>
+	</string>
+
+	<string id="mlab_final_task_talk_final_name">
+		<text>Поговорити з Дубініним</text>
+	</string>
+
+	<string id="mlab_final_task_talk_final_text">
+		<text>Електрики в лабораторії більше немає. Тепер професор нікуди не повинен дітися.</text>
+	</string>
+
+</string_table>

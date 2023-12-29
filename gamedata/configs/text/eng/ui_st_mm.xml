@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<string id="Clear">
+		<text>Clear</text>
+	</string>
+
+	<string id="Cloudy">
+		<text>Cloudy</text>
+	</string>
+
+	<string id="Default">
+		<text>MEDIUM</text>
+	</string>
+
+	<string id="Extreme">
+		<text>MAXIMUM</text>
+	</string>
+
+	<string id="High">
+		<text>HIGH</text>
+	</string>
+
+	<string id="Low">
+		<text>LOW</text>
+	</string>
+
+	<string id="Minimum">
+		<text>MINIMAL</text>
+	</string>
+
+	<string id="Night">
+		<text>Night</text>
+	</string>
+
+	<string id="Rain">
+		<text>Rain</text>
+	</string>
+
+	<string id="game type">
+		<text>GAME TYPE</text>
+	</string>
+
+	<string id="gd_master">
+		<text>MASTER</text>
+	</string>
+
+	<string id="gd_novice">
+		<text>ROOKIE</text>
+	</string>
+
+	<string id="gd_veteran">
+		<text>VETERAN</text>
+	</string>
+
+	<string id="renderer_r1">
+		<text>DIRECTX 9</text>
+	</string>
+
+	<string id="renderer_r2">
+		<text>DIRECTX 9</text>
+	</string>
+
+	<string id="renderer_r2.5">
+		<text>DIRECTX 9+</text>
+	</string>
+
+	<string id="renderer_r3">
+		<text>DIRECTX 10</text>
+	</string>
+
+	<string id="renderer_r4">
+		<text>DIRECTX 11</text>
+	</string>
+
+	<string id="st_opt_high">
+		<text>HIGH</text>
+	</string>
+
+	<string id="st_opt_low">
+		<text>LOW</text>
+	</string>
+
+	<string id="st_opt_medium">
+		<text>MEDIUM</text>
+	</string>
+
+	<string id="st_opt_off">
+		<text>OFF</text>
+	</string>
+
+	<string id="st_opt_windowed">
+		<text>WINDOWED</text>
+	</string>
+
+	<string id="st_opt_borderless">
+		<text>BORDERLESS WINDOW</text>
+	</string>
+
+	<string id="st_opt_fullscreen">
+		<text>FULLSCREEN</text>
+	</string>
+
+	<string id="ui_mm_60_hz">
+		<text>60 HZ FREQUENCY</text>
+	</string>
+
+	<string id="ui_mm_r2_reflections">
+		<text>WATER REFLECTIONS</text>
+	</string>
+
+	<string id="ui_mm_r2_wet_surface">
+		<text>PUDDLES</text>
+	</string>
+
+	<string id="ui_mm_r3_grass_interactive">
+		<text>INTERACTIVE VEGETATION</text>
+	</string>
+
+	<string id="ui_mm_r3_new_rain_drops">
+		<text>NEW RAINDROPS</text>
+	</string>
+
+	<string id="ui_mm_action">
+		<text>ACTION</text>
+	</string>
+
+	<string id="ui_mm_advanced">
+		<text>ADVANCED</text>
+	</string>
+
+	<string id="ui_mm_alternative">
+		<text>ALTERNATIVE</text>
+	</string>
+
+	<string id="ui_mm_anisotropic">
+		<text>ANISOTROPIC FILTERING</text>
+	</string>
+
+	<string id="ui_mm_apply">
+		<text>APPLY</text>
+	</string>
+
+	<string id="ui_mm_back">
+		<text>BACK</text>
+	</string>
+
+	<string id="ui_mm_blood">
+		<text>BLOOD</text>
+	</string>
+
+	<string id="ui_mm_brightness">
+		<text>BRIGHTNESS</text>
+	</string>
+
+	<string id="ui_mm_cancel">
+		<text>CANCEL</text>
+	</string>
+
+	<string id="ui_mm_contrast">
+		<text>CONTRAST</text>
+	</string>
+
+	<string id="ui_mm_controls">
+		<text>CONTROLS</text>
+	</string>
+
+	<string id="ui_mm_credits">
+		<text>CREDITS</text>
+	</string>
+
+	<string id="ui_mm_crosshair_distance">
+		<text>CROSSHAIR TARGET DISTANCE</text>
+	</string>
+
+	<string id="ui_mm_default">
+		<text>DEFAULT</text>
+	</string>
+
+	<string id="ui_mm_delete">
+		<text>DELETE</text>
+	</string>
+
+	<string id="ui_mm_delete_existing_file_q">
+		<text>DELETE SAVE FILE</text>
+	</string>
+
+	<string id="ui_mm_filling_save_list">
+		<text>LOADING A LIST OF SAVE FILES...</text>
+	</string>
+
+	<string id="ui_mm_detail_density">
+		<text>GRASS DETAIL DENSITY</text>
+	</string>
+
+	<string id="ui_mm_difficulty">
+		<text>DIFFICULTY</text>
+	</string>
+
+	<string id="ui_mm_dof">
+		<text>DEPTH OF FIELD</text>
+	</string>
+
+	<string id="ui_mm_vignette">
+		<text>VIGNETTING</text>
+	</string>
+
+	<string id="ui_mm_vibrance">
+		<text>SATURATION</text>
+	</string>
+
+	<string id="ui_mm_vibrance_intensity">
+		<text>SATURATION INTENSITY</text>
+	</string>
+
+	<string id="ui_mm_dyn_crosshair">
+		<text>DYNAMIC CROSSHAIR</text>
+	</string>
+
+	<string id="ui_mm_dynamic_music">
+		<text>DYNAMIC MUSIC</text>
+	</string>
+
+	<string id="ui_mm_eax">
+		<text>EAX</text>
+	</string>
+
+	<string id="ui_mm_streamer_mode">
+		<text>STREAMER MODE</text>
+	</string>
+
+	<string id="ui_mm_monitor">
+		<text>MONITOR</text>
+	</string>
+
+	<string id="ui_mm_screenmode">
+		<text>FULLSCREEN</text>
+	</string>
+
+	<string id="ui_mm_gameplay">
+		<text>GAME</text>
+	</string>
+
+	<string id="ui_mm_gamma">
+		<text>GAMMA</text>
+	</string>
+
+	<string id="ui_mm_geometry_lod">
+		<text>OBJECT DETAIL</text>
+	</string>
+
+	<string id="ui_mm_invert_mouse">
+		<text>INVERT MOUSE</text>
+	</string>
+
+	<string id="ui_mm_key">
+		<text>BUTTON</text>
+	</string>
+
+	<string id="ui_mm_keyboard_setup">
+		<text>KEYBOARD SETUP</text>
+	</string>
+
+	<string id="ui_mm_last_save">
+		<text>LAST SAVE</text>
+	</string>
+
+	<string id="ui_mm_light_distance">
+		<text>LIGHTING DISTANCE</text>
+	</string>
+
+	<string id="ui_mm_load">
+		<text>LOAD</text>
+	</string>
+
+	<string id="ui_mm_load_game_menu">
+		<text>LOAD</text>
+	</string>
+
+	<string id="ui_mm_load_game_menu_caption">
+		<text>LOAD GAME</text>
+	</string>
+
+	<string id="ui_mm_save_game_menu_caption">
+		<text>SAVE GAME</text>
+	</string>
+
+	<string id="ui_mm_load_game">
+		<text>LOAD</text>
+	</string>
+
+	<string id="ui_mm_master">
+		<text>MASTER</text>
+	</string>
+
+	<string id="ui_mm_master_volume">
+		<text>SFX VOLUME</text>
+	</string>
+
+	<string id="ui_mm_hud_weapon_volume">
+		<text>CHARACTER WEAPON VOLUME</text>
+	</string>
+
+	<string id="ui_mm_mouse_sense">
+		<text>MOUSE SENSITIVITY</text>
+	</string>
+
+	<string id="ui_mm_msaa_alphatest">
+		<text>SMOOTH A-TEST OBJECTS</text>
+	</string>
+
+	<string id="ui_mm_msaa_opt">
+		<text>OPTIMIZE MSAA</text>
+	</string>
+
+	<string id="ui_mm_multiplayer">
+		<text>MULTIPLAYER</text>
+	</string>
+
+	<string id="ui_mm_music_volume">
+		<text>BACKGROUND MUSIC VOLUME</text>
+	</string>
+
+	<string id="ui_mm_need_restart">
+		<text>GAME RESTART REQUIRED</text>
+	</string>
+
+	<string id="ui_mm_network_game">
+		<text>MULTIPLAYER</text>
+	</string>
+
+	<string id="ui_mm_play">
+		<text>PLAY</text>
+	</string>
+
+	<string id="ui_mm_newgame">
+		<text>NEW GAME</text>
+	</string>
+
+	<string id="ui_mm_novice">
+		<text>ROOKIE</text>
+	</string>
+
+	<string id="ui_mm_npc_torch">
+		<text>NPC FLASHLIGHTS</text>
+	</string>
+
+	<string id="ui_mm_options">
+		<text>OPTIONS</text>
+	</string>
+
+	<string id="ui_mm_options_n">
+		<text>OPTIONS</text>
+	</string>
+
+	<string id="ui_mm_particles_distance">
+		<text>PARTICLE DISTANCE</text>
+	</string>
+
+	<string id="ui_mm_quality_presets">
+		<text>QUALITY SETTINGS</text>
+	</string>
+
+	<string id="ui_mm_quit2windows">
+		<text>QUIT</text>
+	</string>
+
+	<string id="ui_mm_quit_game">
+		<text>MAIN MENU</text>
+	</string>
+
+	<string id="ui_mm_quit_game_message">
+		<text>QUIT TO MENU</text>
+	</string>
+
+	<string id="ui_mm_quit_windows_message">
+		<text>QUIT GAME</text>
+	</string>
+
+	<string id="ui_mm_r2_detail_bump">
+		<text>DETAIL BUMP</text>
+	</string>
+
+	<string id="ui_mm_r2_steep_parallax">
+		<text>STEEP PARALLAX</text>
+	</string>
+
+	<string id="ui_mm_r2_sun">
+		<text>SUN SHADOW</text>
+	</string>
+
+	<string id="ui_mm_r2_sun_details">
+		<text>GRASS SHADOW</text>
+	</string>
+
+	<string id="ui_mm_r2_sun_quality">
+		<text>SUN QUALITY</text>
+	</string>
+
+	<string id="ui_mm_r3_DX10_1">
+		<text>USE DX10.1</text>
+	</string>
+
+	<string id="ui_mm_r3_MSAA">
+		<text>FULL SCREEN SMOOTHING</text>
+	</string>
+
+	<string id="ui_mm_r3_dynamic_wet_surfaces">
+		<text>WET SURFACES</text>
+	</string>
+
+	<string id="ui_mm_r3_gbuffer_opt">
+		<text>OPTIMIZE GEOMETRIC BUFFER</text>
+	</string>
+
+	<string id="ui_mm_r3_volumetric_smoke">
+		<text>VOLUMETRIC SMOKE</text>
+	</string>
+
+	<string id="ui_mm_render_2">
+		<text>RENDER 2</text>
+	</string>
+
+	<string id="ui_mm_renderer">
+		<text>RENDER TYPE</text>
+	</string>
+
+	<string id="ui_mm_resolution">
+		<text>RESOLUTION</text>
+	</string>
+
+	<string id="ui_mm_return_game">
+		<text>CONTINUE</text>
+	</string>
+
+	<string id="ui_mm_save">
+		<text>SAVE</text>
+	</string>
+
+	<string id="ui_mm_save_game">
+		<text>SAVE</text>
+	</string>
+
+	<string id="ui_mm_save_game_menu">
+		<text>SAVE</text>
+	</string>
+
+	<string id="ui_mm_show_crosshair">
+		<text>DRAW CROSSHAIR</text>
+	</string>
+
+	<string id="ui_mm_crosshair_build">
+		<text>CROSSHAIR DOT</text>
+	</string>
+
+	<string id="ui_mm_fov_val">
+		<text>FIELD OF VIEW</text>
+	</string>
+
+	<string id="ui_mm_show_weapon">
+		<text>SHOW WEAPON</text>
+	</string>
+
+	<string id="ui_mm_simply">
+		<text>BASIC</text>
+	</string>
+
+	<string id="ui_mm_snd_device">
+		<text>SOUND DEVICE</text>
+	</string>
+
+	<string id="ui_mm_soft_particles">
+		<text>SOFT PARTICLES</text>
+	</string>
+
+	<string id="ui_mm_soft_water">
+		<text>SOFT WATER</text>
+	</string>
+
+	<string id="ui_mm_sound">
+		<text>SOUND</text>
+	</string>
+
+	<string id="ui_mm_sound_quality">
+		<text>SOUND QUALITY</text>
+	</string>
+
+	<string id="ui_mm_stalker">
+		<text>STALKER</text>
+	</string>
+
+	<string id="ui_mm_sun_quality">
+		<text>SHADOW QUALITY</text>
+	</string>
+
+	<string id="ui_mm_particles_opt">
+		<text>PARTICLE OPTIMIZATION</text>
+	</string>
+
+	<string id="ui_mm_particles_distance">
+		<text>PARTICLE RENDER DISTANCE</text>
+	</string>
+
+	<string id="ui_mm_sun_shafts">
+		<text>SUN RAYS</text>
+	</string>
+
+	<string id="ui_mm_r3_msaa">
+		<text>MSAA</text>
+	</string>
+
+	<string id="ui_mm_switch_torch">
+		<text>AI USES FLASHLIGHTS</text>
+	</string>
+
+	<string id="ui_mm_texture_quality">
+		<text>TEXTURE DETAIL</text>
+	</string>
+
+	<string id="ui_mm_tips">
+		<text>NPC IDENTIFICATION</text>
+	</string>
+
+	<string id="ui_mm_wpn_auto_reload">
+		<text>AUTOMATIC WEAPON RELOAD</text>
+	</string>
+
+	<string id="ui_mm_veteran">
+		<text>VETERAN</text>
+	</string>
+
+	<string id="ui_mm_video">
+		<text>VIDEO</text>
+	</string>
+
+	<string id="ui_mm_vis_distance">
+		<text>VISION DISTANCE</text>
+	</string>
+
+	<string id="ui_mm_volumetric_light">
+		<text>VOLUMETRIC LIGHT</text>
+	</string>
+
+	<string id="ui_mm_vsync">
+		<text>VERTICAL SYNC</text>
+	</string>
+
+	<string id="ui_st_invalid_saved_game">
+		<text>INCOMPATIBLE VERSIONS</text>
+	</string>
+
+	<string id="ui_st_invalid_saved_file_name">
+		<text>INVALID CHARACTERS IN FILE NAME</text>
+	</string>
+
+	<string id="ui_st_reset">
+		<text>Reset</text>
+	</string>
+
+	<string id="ui_st_sell_all">
+		<text>Sell all</text>
+	</string>
+
+	<string id="version">
+		<text>Version</text>
+	</string>
+
+	<string id="ui_mm_crouch_toggle">
+		<text>CROUCH MODE</text>
+	</string>
+
+	<string id="ui_mm_sprint_toggle">
+		<text>SPRINT MODE</text>
+	</string>
+
+	<string id="ui_mm_aim_toggle">
+		<text>AIM MODE</text>
+	</string>
+
+	<string id="ui_mm_active_task_toggle">
+		<text>ACTIVE TASK MODE</text>
+	</string>
+
+	<string id="ui_mm_important_save">
+		<text>AUTOSAVE</text>
+	</string>
+
+	<string id="ui_mm_r1_detail_textures">
+		<text>DETAILED TEXTURES</text>
+	</string>
+
+	<string id="ui_mm_ssao_quality">
+		<text>SSAO QUALITY</text>
+	</string>
+
+	<string id="ui_mm_ssao_text">
+		<text>SSAO MODE</text>
+	</string>
+
+	<string id="st_opt_default">
+		<text>SSAO (DEFAULT)</text>
+	</string>
+
+	<string id="st_opt_hdao">
+		<text>HDAO (AMD)</text>
+	</string>
+
+	<string id="st_opt_hbao">
+		<text>HBAO (NVIDIA)</text>
+	</string>
+
+	<string id="ui_st_disable_hud">
+		<text>SHOW INTERFACE</text>
+	</string>
+
+	<string id="gd_stalker">
+		<text>STALKER</text>
+	</string>
+
+	<string id="st_opt_extreme">
+		<text>EXTREME</text>
+	</string>
+
+	<string id="st_opt_ultra">
+		<text>ULTRA</text>
+	</string>
+
+	<string id="ui_mm_r4_enable_tessellation">
+		<text>TESSELATION</text>
+	</string>
+
+	<string id="ui_mm_confirm_changes">
+		<text>APPLY CHANGES</text>
+	</string>
+
+	<string id="ui_mm_actor_shadow">
+		<text>CHARACTER SHADOW</text>
+	</string>
+
+	<string id="ui_mm_bloodmarks">
+		<text>BLOODSTAINS ON MODELS</text>
+	</string>
+
+	<string id="ui_mm_sun_details">
+		<text>GRASS SHADOWS</text>
+	</string>
+
+	<string id="ui_mm_keypress_on_start">
+		<text>PAUSE AFTER LOADING</text>
+	</string>
+
+	<string id="ui_mm_subtitles">
+		<text>SUBTITLES</text>
+	</string>
+
+	<string id="ui_mm_subtitles_slow">
+		<text>SMOOTH FADING SUBTITLES</text>
+	</string>
+
+	<string id="ui_mm_subtitles_font">
+		<text>SUBTITLE SIZE</text>
+	</string>
+
+	<string id="ui_mm_talk_font">
+		<text>DIALOG TEXT SIZE</text>
+	</string>
+
+	<string id="st_opt_subtitles_font_small">
+		<text>SMALL</text>
+	</string>
+
+	<string id="st_opt_subtitles_font_medium">
+		<text>MEDIUM</text>
+	</string>
+
+	<string id="st_opt_subtitles_font_large">
+		<text>LARGE</text>
+	</string>
+
+	<string id="ui_st_want_to_leave_game">
+		<text>QUIT TO MENU</text>
+	</string>
+
+	<string id="st_btn_yes">
+		<text>YES</text>
+	</string>
+
+	<string id="st_btn_not">
+		<text>NO</text>
+	</string>
+
+	<string id="st_btn_ok">
+		<text>OK</text>
+	</string>
+
+	<string id="st_btn_return">
+		<text>RETURN BACK</text>
+	</string>
+
+	<string id="ui_st_load_game_warning">
+		<text>UNSAVED DATA WILL BE LOST</text>
+	</string>
+
+	<string id="ui_st_save_file_name_is_empty">
+		<text>NO NAME ENTERED</text>
+	</string>
+
+	<string id="ui_st_save_file_exist_owerwrite">
+		<text>THIS NAME ALREADY EXISTS</text>
+	</string>
+
+	<string id="st_btn_overwrite">
+		<text>OVERWRITE</text>
+	</string>
+
+	<string id="ui_st_save_save_name_exist">
+		<text>THIS SAVE NAME IS ALREADY IN USE</text>
+	</string>
+
+	<string id="st_btn_save_more">
+		<text>SAVE MORE</text>
+	</string>
+
+	<string id="ui_st_mm_error">
+		<text>ERROR</text>
+	</string>
+
+	<string id="st_mm_lock_save">
+		<text>CANNOT SAVE GAME NOW</text>
+	</string>
+
+	<string id="ui_st_off">
+		<text>OFF</text>
+	</string>
+
+	<string id="ui_st_on">
+		<text>ON</text>
+	</string>
+
+	<string id="ui_st_press">
+		<text>PRESS</text>
+	</string>
+
+	<string id="ui_st_hold">
+		<text>HOLD</text>
+	</string>
+
+	<string id="mouse1">
+		<text>LMB</text>
+	</string>
+
+	<string id="mouse2">
+		<text>RMB</text>
+	</string>
+
+	<string id="ui_mm_hud_strafes">
+		<text>WEAPON INTERTIA</text>
+	</string>
+
+	<string id="ui_mm_hud_bobbing">
+		<text>WEAPON BOBBING (BUILDS)</text>
+	</string>
+
+	<string id="ui_mm_hud_collision">
+		<text>HUD COLLISSION</text>
+	</string>
+
+	<string id="ui_mm_multi_item_pickup">
+		<text>MULTI-ITEM PICKUP</text>
+	</string>
+
+	<string id="ui_mm_slow_crouch">
+		<text>SMOOTH CROUCHING</text>
+	</string>
+
+	<string id="ui_mm_reload_dof">
+		<text>DEPTH OF FIELD WHEN RELOADING</text>
+	</string>
+
+	<string id="ui_mm_show_actor_helmet">
+		<text>SHOW HELMET ON THE CHARACTER</text>
+	</string>
+
+	<string id="st_mm_cant_find_saves">
+		<text>SAVES NOT FOUND</text>
+	</string>
+
+</string_table>

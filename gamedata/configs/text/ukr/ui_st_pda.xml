@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="st_tab_tasks">
+		<text>ЗАВДАННЯ</text>
+	</string>
+
+	<string id="st_tab_map">
+		<text>МАПА</text>
+	</string>
+
+	<string id="st_tab_inventory">
+		<text>ІНВЕНТАР</text>
+	</string>
+
+	<string id="st_tab_notes">
+		<text>ПРИМІТКИ</text>
+	</string>
+
+	<string id="st_tab_encyclopedia">
+		<text>ЕНЦИКЛОПЕДІЯ</text>
+	</string>
+
+	<string id="st_tab_history">
+		<text>ІСТОРІЯ</text>
+	</string>
+
+	<string id="Time">
+		<text>Час</text>
+	</string>
+
+	<string id="actor">
+		<text>Вільний сталкер</text>
+	</string>
+
+	<string id="army">
+		<text>Військовий</text>
+	</string>
+
+	<string id="bandit">
+		<text>Бандит</text>
+	</string>
+
+	<string id="trader">
+		<text>Крамар</text>
+	</string>
+
+	<string id="dolg">
+		<text>«Долг»</text>
+	</string>
+
+	<string id="ecolog">
+		<text>Вчений</text>
+	</string>
+
+	<string id="hunter">
+		<text>Мисливець</text>
+	</string>
+
+	<string id="unknown">
+		<text>Невідомо</text>
+	</string>
+
+	<string id="filter_secondary_tasks_text">
+		<text>Побічні завдання</text>
+	</string>
+
+	<string id="filter_treasures_text">
+		<text>Сховки</text>
+	</string>
+
+	<string id="freedom">
+		<text>«Воля»</text>
+	</string>
+
+	<string id="killer">
+		<text>Найманець</text>
+	</string>
+
+	<string id="missions_list">
+		<text>Список завданнь</text>
+	</string>
+
+	<string id="monolith">
+		<text>«Моноліт»</text>
+	</string>
+
+	<string id="monster">
+		<text>Мутант</text>
+	</string>
+
+	<string id="month_april">
+		<text>Квітень</text>
+	</string>
+
+	<string id="month_august">
+		<text>Серпень</text>
+	</string>
+
+	<string id="month_december">
+		<text>Грудень</text>
+	</string>
+
+	<string id="month_february">
+		<text>Лютий</text>
+	</string>
+
+	<string id="month_january">
+		<text>Січень</text>
+	</string>
+
+	<string id="month_july">
+		<text>Липень</text>
+	</string>
+
+	<string id="month_june">
+		<text>Червень</text>
+	</string>
+
+	<string id="month_march">
+		<text>Березень</text>
+	</string>
+
+	<string id="month_may">
+		<text>Травень</text>
+	</string>
+
+	<string id="month_november">
+		<text>Листопад</text>
+	</string>
+
+	<string id="month_october">
+		<text>Жовтень</text>
+	</string>
+
+	<string id="month_september">
+		<text>Вересень</text>
+	</string>
+
+	<string id="pda_btn_close">
+		<text>Вимкнути КПК</text>
+	</string>
+
+	<string id="pda_btn_logs">
+		<text>Історія повідомлень</text>
+	</string>
+
+	<string id="pda_btn_logs_hint">
+		<text>Показати історію повідомлень</text>
+	</string>
+
+	<string id="pda_btn_quests">
+		<text>Мапа місцевості</text>
+	</string>
+
+	<string id="pda_btn_quests_hint">
+		<text>Показати мапу Зони та список завдань</text>
+	</string>
+
+	<string id="pda_btn_ranking">
+		<text>Статистика</text>
+	</string>
+
+	<string id="pda_btn_ranking_hint">
+		<text>Показати особисту переписку</text>
+	</string>
+
+	<string id="pda_cur_time">
+		<text>Поточний час:</text>
+	</string>
+
+	<string id="pda_date_filter">
+		<text>Фільтр дати</text>
+	</string>
+
+	<string id="pda_filter_news">
+		<text>Показати новини</text>
+	</string>
+
+	<string id="pda_filter_talk">
+		<text>Показати діалоги</text>
+	</string>
+
+	<string id="pda_legend_caption">
+		<text>Умовні позначення</text>
+	</string>
+
+	<string id="pda_stat_1">
+		<text>Час у Зоні:</text>
+	</string>
+
+	<string id="pda_stat_2">
+		<text>Пережито викидів:</text>
+	</string>
+
+	<string id="pda_stat_3">
+		<text>Виконано завдань:</text>
+	</string>
+
+	<string id="pda_stat_4">
+		<text>Убито мутантів:</text>
+	</string>
+
+	<string id="pda_stat_5">
+		<text>Убито сталкерів:</text>
+	</string>
+
+	<string id="pda_stat_6">
+		<text>Знайдено артефактів:</text>
+	</string>
+
+	<string id="pda_stat_7">
+		<text>Знайдено сховків:</text>
+	</string>
+
+	<string id="pda_stat_favorite_weapon">
+		<text>Улюблена зброя:</text>
+	</string>
+
+	<string id="pda_stat_mutant_killed">
+		<text>Найсильніший вбитий мутант:</text>
+	</string>
+
+	<string id="st_location">
+		<text>Місцезнаходження:</text>
+	</string>
+
+	<string id="st_target">
+		<text>Ціль</text>
+	</string>
+
+	<string id="st_ui_pda_legend_additional_task">
+		<text>Побічне завдання</text>
+	</string>
+
+	<string id="st_ui_pda_legend_enemies">
+		<text>Вороги</text>
+	</string>
+
+	<string id="st_ui_pda_legend_friends">
+		<text>Друзі</text>
+	</string>
+
+	<string id="st_ui_pda_legend_leader">
+		<text>Лідер угруповання</text>
+	</string>
+
+	<string id="st_ui_pda_legend_main_task">
+		<text>Основне завдання</text>
+	</string>
+
+	<string id="st_ui_pda_legend_neutrals">
+		<text>Нейтрали</text>
+	</string>
+
+	<string id="st_ui_pda_legend_scout">
+		<text>Проводир</text>
+	</string>
+
+	<string id="st_ui_pda_legend_secrets">
+		<text>Сховки</text>
+	</string>
+
+	<string id="st_ui_pda_legend_squad">
+		<text>Командир загону</text>
+	</string>
+
+	<string id="st_ui_pda_legend_trader">
+		<text>Крамар</text>
+	</string>
+
+	<string id="stalker">
+		<text>Вільний сталкер</text>
+	</string>
+
+	<string id="ui_logs_center_caption">
+		<text>Історія повідомлень</text>
+	</string>
+
+	<string id="ui_map_btn_center">
+		<text>Центрувати на гравці</text>
+	</string>
+
+	<string id="ui_map_btn_down">
+		<text>Перемістити вниз</text>
+	</string>
+
+	<string id="ui_map_btn_left">
+		<text>Перемістити ліворуч</text>
+	</string>
+
+	<string id="ui_map_btn_legend">
+		<text>Показати позначення</text>
+	</string>
+
+	<string id="ui_map_btn_right">
+		<text>Перемістити праворуч</text>
+	</string>
+
+	<string id="ui_map_btn_up">
+		<text>Перемістити вгору</text>
+	</string>
+
+	<string id="ui_map_btn_zmreset">
+		<text>Максимальне віддалення</text>
+	</string>
+
+	<string id="ui_map_btn_zoom_in">
+		<text>Наблизити</text>
+	</string>
+
+	<string id="ui_map_btn_zoom_out">
+		<text>Віддалити</text>
+	</string>
+
+	<string id="ui_ranking_center_caption">
+		<text>Досягнення</text>
+	</string>
+
+	<string id="ui_task_btn_focus_center">
+		<text>Центрувати мапу на завданні</text>
+	</string>
+
+	<string id="ui_task_btn_focus_center2">
+		<text>Центрувати мапу на завданні</text>
+	</string>
+
+	<string id="zombied">
+		<text>Зомбований</text>
+	</string>
+
+	<string id="zoom_in_btn_hint">
+		<text>маштаб +</text>
+	</string>
+
+	<string id="zoom_out_btn_hint">
+		<text>маштаб -</text>
+	</string>
+
+	<string id="st_ui_pda_legend_vip">
+		<text>Важливий персонаж</text>
+	</string>
+
+	<string id="st_ui_pda_legend_mechanic">
+		<text>Технік</text>
+	</string>
+
+	<string id="st_ui_pda_legend_medic">
+		<text>Медик</text>
+	</string>
+
+	<string id="st_ui_pda_legend_smuggler">
+		<text>Контрабандист</text>
+	</string>
+
+	<string id="ui_pda_secondary_task">
+		<text>Поточні завдання</text>
+	</string>
+
+	<string id="ui_show_second_task_wnd">
+		<text>Приховати чи показати список завдань</text>
+	</string>
+
+	<string id="st_ui_pda_actor_box">
+		<text>Особистий ящик</text>
+	</string>
+
+	<string id="zaton">
+		<text>Затон</text>
+	</string>
+
+	<string id="jupiter">
+		<text>Околиці «Юпітера»</text>
+	</string>
+
+	<string id="pripyat">
+		<text>Прип'ять</text>
+	</string>
+
+	<string id="jupiter_underground">
+		<text>Шляхопровід «Прип'ять-1»</text>
+	</string>
+
+	<string id="labx8">
+		<text>Лабораторія Х8</text>
+	</string>
+
+	<string id="filter_primary_objects_text">
+		<text>Локації</text>
+	</string>
+
+	<string id="filter_quest_npcs_text">
+		<text>Важливі об'єкти</text>
+	</string>
+
+	<string id="st_ui_pda_legend_primary_objects">
+		<text>Локація</text>
+	</string>
+
+	<string id="st_jup_b32_has_af">
+		<text>Сканери реєструють присутність артефактів:</text>
+	</string>
+
+	<string id="st_jup_b32_no_af">
+		<text>Згідно із даними сканерів, артефакти відсутні</text>
+	</string>
+
+	<string id="st_ui_pda_secret">
+		<text>Сховок</text>
+	</string>
+
+	<string id="st_ui_pda_sleep_place">
+		<text>Місце сну</text>
+	</string>
+
+	<string id="st_actor_global_treasure">
+		<text>Особистий ящик</text>
+	</string>
+
+	<string id="st_user_spot">
+		<text>Своя мітка</text>
+	</string>
+
+	<string id="st_ui_global_map_task_position">
+		<text>%c[info_orange][V] %c[info_title]Показати поточне завдання</text>
+	</string>
+
+	<string id="st_ui_global_map_task_position_h">
+		<text>%c[info_orange][V] Показати поточне завдання</text>
+	</string>
+
+	<string id="st_ui_global_map_actor_position">
+		<text>%c[info_orange][C] %c[info_title]Центрувати</text>
+	</string>
+
+	<string id="st_ui_global_map_actor_position_h">
+		<text>%c[info_orange][C] Центрувати</text>
+	</string>
+
+	<string id="st_ui_global_map_toggle_spots">
+		<text>%c[info_orange][X] %c[info_title]Сховати/Показати мітки</text>
+	</string>
+
+	<string id="st_ui_global_map_toggle_spots_h">
+		<text>%c[info_orange][X] Сховати/Показати мітки</text>
+	</string>
+
+	<string id="st_ui_global_map_toggle">
+		<text>%c[info_orange][SPACE] %c[info_title]Місцевість</text>
+	</string>
+
+	<string id="st_ui_global_map_toggle_h">
+		<text>%c[info_orange][SPACE] Місцевість</text>
+	</string>
+
+	<string id="st_ui_global_map_place_spot_hint">
+		<text>%c[info_orange][ПКМ] %c[info_title]Поставити/Зняти мітку</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_main_task">
+		<text>Основне\nзавдання</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_second_task">
+		<text>Додаткове\nзавдання</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_location">
+		<text>Локація</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_unknown_location">
+		<text>Незнайдена\nлокація</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_base">
+		<text>База\nсталкерів</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_lair">
+		<text>Лігво\nмутантів</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_spot">
+		<text>Своя мітка</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_bought_treasure">
+		<text>Куплений\nсхрон</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_dead_man_treasure">
+		<text>Схрон мерця</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_treasure">
+		<text>Сховок</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_level_changer">
+		<text>Перехідnна локацію</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_level_changer_underground">
+		<text>Перехід у\nпідземелля</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_level_changer_disabled">
+		<text>Закритий\nперехід</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_task_board">
+		<text>Дошка завдань</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_actor_box">
+		<text>Особистий\nсхрон</text>
+	</string>
+
+
+
+	<string id="st_ui_global_map_filter_sleep">
+		<text>Місце\nсну</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_trader">
+		<text>Крамар</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_technic">
+		<text>Технік</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_medic">
+		<text>Медик</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_smuggler">
+		<text>Контрабандист</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_guider">
+		<text>Проводир</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_dialog">
+		<text>Доступний\nдіалог</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_actor">
+		<text>Ви</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_radioactive_anomaly">
+		<text>Радіоактивна\nзона</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_gravi_anomaly">
+		<text>Гравітаційна\nаномалія</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_chemical_anomaly">
+		<text>Хімічна\nаномалія</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_psy_anomaly">
+		<text>Псі\nвипромінювання</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_burn_anomaly">
+		<text>Термо\nаномалія</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_electric_anomaly">
+		<text>Електро\nаномалія</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_zone">
+		<text>Область\nпошуку</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_scanner">
+		<text>Сканер</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_kill_target">
+		<text>Ціль для\nвбивства</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_neutral_npc">
+		<text>Нейтрал</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_friend_npc">
+		<text>Друг</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_enemy_npc">
+		<text>Ворог</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_dead_man">
+		<text>Мрець</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_underground">
+		<text>Спуск\nу підземелля</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_LIFT">
+		<text>Ліфт</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_codedoor">
+		<text>Кодовий замок</text>
+	</string>
+
+	<string id="st_ui_global_map_filter_ladder">
+		<text>Драбина</text>
+	</string>
+
+</string_table>

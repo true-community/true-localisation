@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="st_yan_actor_check_bunker_territory">
+		<text>Ми поки що оглянемо двір.</text>
+	</string>
+
+	<string id="st_yan_actor_check_monsters_1">
+		<text>Що ж. Несолодко їм тут,\nмабуть, довелося.</text>
+	</string>
+
+	<string id="st_yan_actor_check_monsters_2">
+		<text>Навряд чи хтось міг уціліти\nпісля такого.</text>
+	</string>
+
+	<string id="st_yan_actor_check_scientist_corp_1">
+		<text>А ось і перший\nдвохсотий вчений.</text>
+	</string>
+
+	<string id="st_yan_actor_check_scientist_corp_2">
+		<text>І що його могло так розірвати?</text>
+	</string>
+
+	<string id="st_yan_actor_final_scene_heli_start">
+		<text>Швидше, швидше! Злітаємо.</text>
+	</string>
+
+	<string id="st_yan_actor_kill_aver_1">
+		<text>Нам не потрібні\nзайві проблеми.</text>
+	</string>
+
+	<string id="st_yan_actor_kill_aver_2">
+		<text>А він мав шанс вибратися звідси,\nале не допоміг нам.</text>
+	</string>
+
+	<string id="st_yan_actor_kill_aver_3">
+		<text>З такими упирями\nу мене розмова коротка.</text>
+	</string>
+
+	<string id="st_yan_actor_kill_aver_4">
+		<text>Все, давайте на базу.</text>
+	</string>
+
+	<string id="st_yan_actor_koval_lost">
+		<text>Сука. Так і знав,\nщо з ним будуть проблеми!</text>
+	</string>
+
+	<string id="st_yan_actor_koval_start_connect_1">
+		<text>Коваль, прийом. Ти закінчив зі своїм обладнанням?</text>
+	</string>
+
+	<string id="st_yan_actor_koval_start_connect_2">
+		<text>Прийом. Як чуєш?</text>
+	</string>
+
+	<string id="st_yan_actor_psy_talk_1">
+		<text>Це все випромінювач.</text>
+	</string>
+
+	<string id="st_yan_actor_psy_talk_2">
+		<text>Тут половина співробітників\nна подібні симптоми скаржилася.</text>
+	</string>
+
+	<string id="st_yan_actor_psy_talk_3">
+		<text>Так що давайте скоріш\nйого вирубимо. Вперед!</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_1">
+		<text>Все, мужики, ми на місці.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_2">
+		<text>Пропоную тут і облаштувати\nтимчасовий табір.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_3">
+		<text>Тут високо,\nдобре проглядається вся місцевість.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_4">
+		<text>Скай, залишишся з пілотом.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_5">
+		<text>Поки нас не буде,\nпідготуйте мобільний штаб.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_6">
+		<text>Сподіваюся, ти зможеш\nпід'єднатися до супутника,</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_7">
+		<text>щоб ми були в курсі\nвсього того, що відбувається на цій території.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_8">
+		<text>Решта, рухаємось разом\nдо мобільного бункеру.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_9">
+		<text>Будьте напоготові. Погнали!</text>
+	</string>
+
+	<string id="st_yan_actor_to_vuslich_condolence_1">
+		<text>Вони знали, на що йшли,\nколи підписували контракт.</text>
+	</string>
+
+	<string id="st_yan_actor_to_vuslich_condolence_2">
+		<text>Упевнений, що навіть якби вони знали\nнаперед, що з ними буде в кінці,</text>
+	</string>
+
+	<string id="st_yan_actor_to_vuslich_condolence_3">
+		<text>все одно б до Зони прийшли.</text>
+	</string>
+
+	<string id="st_yan_aver_start_fuck_off_1">
+		<text>Зараза! Відпусти мене!</text>
+	</string>
+
+	<string id="st_yan_aver_start_fuck_off_2">
+		<text>Заради бога, благаю!</text>
+	</string>
+
+	<string id="st_yan_aver_start_fuck_off_3">
+		<text>А-а, ні!</text>
+	</string>
+
+	<string id="st_yan_aver_start_fuck_off_4">
+		<text>Відчепись, відчепись!</text>
+	</string>
+
+	<string id="st_yan_subtitles_stalker">
+		<text>Сталкер</text>
+	</string>
+
+	<string id="st_yan_aver_start_help_1">
+		<text>Допоможи мені!</text>
+	</string>
+
+	<string id="st_yan_aver_start_help_2">
+		<text>Воно там, у тумані!</text>
+	</string>
+
+	<string id="st_yan_aver_start_help_3">
+		<text>Стріляйте у неї, ну ж!</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_1">
+		<text>І давно ти з ними разом?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_2_1">
+		<text>Все ж під контролем.\nТи сам бачив план запуску, розрахунки.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_2_2">
+		<text>Жодної шкоди не буде.\nСахаров знає свою справу.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_3_1">
+		<text>Гаразд, припустимо.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_3_2">
+		<text>Давай тоді просто звалимо,</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_3_3">
+		<text>і нехай вони тут самі\nрозбираються з цим механізмом.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_4_1">
+		<text>Здурів?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_4_2">
+		<text>Тебе ж посадять, бовдур, а то ще приб'є хтось з охорони.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_4_3">
+		<text>Вони тільки й чекають,\nщоб спустити на нас курок!</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_5">
+		<text>Та я не знаю. А раптом...</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_1_1">
+		<text>Ні з ким я не разом.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_1_2">
+		<text>Цей механізм невипадково вирубили сталкери.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_1_3">
+		<text>Треба було законсервувати всі двері\nта більше сюди ніколи не спускатися.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_1_4">
+		<text>Як взагалі додумалися\nпроводити повторні випробування?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_2_1">
+		<text>Ти прикидаєшся.\nНе відчуваєш, що з нами відбувається?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_2_2">
+		<text>Та половина бункера\nскаржиться на головний біль!</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_2_3">
+		<text>Ти гадаєш, це не пов'язано з мозком?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_3_1">
+		<text>Е, ні.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_3_2">
+		<text>А як же решта наших?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_3_3">
+		<text>Ми ж із ними стільки\nцю Зону вивчаємо.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_3_4">
+		<text>Просто кинути їх тут вмирати?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_3_5">
+		<text>Ні. Я спробую знищити механізм.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_4_1">
+		<text>Мене не спіймають,\nякщо все зробити тихо.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_4_2">
+		<text>До того ж ще кілька хлопців\nготові мені допомогти.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_4_3">
+		<text>Ну, ти зі мною?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_5_1">
+		<text>Тсс. Тихо!</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_5_2">
+		<text>Тут хтось є.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_5_3">
+		<text>Чув шарудіння у кутку?</text>
+	</string>
+
+	<string id="st_yan_koval_actor_long_dist_1">
+		<text>Командиру, не відставай!</text>
+	</string>
+
+	<string id="st_yan_koval_actor_long_dist_2">
+		<text>Наздоганяй, босе! Ти де там загубився?</text>
+	</string>
+
+	<string id="st_yan_koval_actor_long_dist_3">
+		<text>Давай наздоганяй. Чого там гальмуєш?</text>
+	</string>
+
+	<string id="st_yan_koval_bye_1">
+		<text>До зв'язку.</text>
+	</string>
+
+	<string id="st_yan_koval_bye_2">
+		<text>Ну, бувай. Побачимося.</text>
+	</string>
+
+	<string id="st_yan_koval_bye_3">
+		<text>Бувай, босе.</text>
+	</string>
+
+	<string id="st_yan_koval_bye_4">
+		<text>Ти, цей,\nмаякни там, якщо що.</text>
+	</string>
+
+	<string id="st_yan_koval_bye_5">
+		<text>Ну давай. Щасти.</text>
+	</string>
+
+	<string id="st_yan_koval_can_handle">
+		<text>Ідіть, я впораюся сам. За мене не хвилюйтесь.</text>
+	</string>
+
+	<string id="st_yan_koval_devices_start">
+		<text>Зараз розставлю потрібне обладнання. Ти поки що, цей, пильнуй, ага?</text>
+	</string>
+
+	<string id="st_yan_koval_dogs_death">
+		<text>Оце ти вчасно!</text>
+	</string>
+
+	<string id="st_yan_koval_hello_1">
+		<text>Викладай. Що там у тебе?</text>
+	</string>
+
+	<string id="st_yan_koval_hello_2">
+		<text>Слухаю, командире.</text>
+	</string>
+
+	<string id="st_yan_koval_hello_3">
+		<text>Що у тебе, командире?</text>
+	</string>
+
+	<string id="st_yan_koval_hello_4">
+		<text>Вітаю.</text>
+	</string>
+
+	<string id="st_yan_koval_hello_5">
+		<text>Ти по справі, чи так?</text>
+	</string>
+
+	<string id="st_yan_koval_sorry">
+		<text>Не бурчи, командире.\nБільше такого не повториться.</text>
+	</string>
+
+	<string id="st_yan_vuslich_actor_go_off_switcher">
+		<text>Командире, давай нагору, ми прикриємо. Тільки швидше, їх тут дуже багато!</text>
+	</string>
+
+	<string id="st_yan_vuslich_actor_kill_aver">
+		<text>Командире, навіщо? Просто відпустив би його і хай далі блукає Янтарем. Тут і так надто багато людей загинуло...</text>
+	</string>
+
+	<string id="st_yan_vuslich_actor_switcher_compl">
+		<text>Ти як, командире? Ще б трохи, і нам точно був би кінець. Вчасно ти вирубив цю головоломку.</text>
+	</string>
+
+	<string id="st_yan_vuslich_bye_1">
+		<text>Давай, до зустрічі.</text>
+	</string>
+
+	<string id="st_yan_vuslich_bye_2">
+		<text>Побачимося.</text>
+	</string>
+
+	<string id="st_yan_vuslich_bye_3">
+		<text>Бувай, командире.</text>
+	</string>
+
+	<string id="st_yan_vuslich_condolence_1">
+		<text>Шкода їх... Усіх цих вчених, охорону, сталкерів... Так і залишаться тепер тут. Навіть поховати нема кому...</text>
+	</string>
+
+	<string id="st_yan_vuslich_condolence_2">
+		<text>Та так і так прикро. Прикро, що все це трапилось через якусь нісенітницю...</text>
+	</string>
+
+	<string id="st_yan_vuslich_hello_1">
+		<text>Здоров, командире!</text>
+	</string>
+
+	<string id="st_yan_vuslich_hello_2">
+		<text>Вітаю.</text>
+	</string>
+
+	<string id="st_yan_vuslich_hello_3">
+		<text>Радий тебе бачити!</text>
+	</string>
+
+	<string id="st_yan_vuslich_psy_talk">
+		<text>Командиру, тут справді щось не так. Мене теж трохи хитає.</text>
+	</string>
+
+	<string id="st_yan_vuslich_see_oddities">
+		<text>Командире, я зараз спостерігаю за околицями та здається, що я щось бачив. Щось дивне...</text>
+	</string>
+
+	<string id="st_yan_vuslich_see_zombie">
+		<text>Командире, зомбовані!</text>
+	</string>
+
+	<string id="st_yan_vuslich_stop_koval_sleep">
+		<text>Гей, сталкере! Вставай давай, час працювати!</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_final_1">
+		<text>Ну ось, двері з петель.</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_final_2">
+		<text>Можна й заходити.</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_in_process_1">
+		<text>Стривай, командире.\nДвері поки не піддаються.</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_in_process_2">
+		<text>Не підганяй тут.\nВсе не так просто.</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_in_process_3">
+		<text>Не хоче відчинятися, зараза.\nЗаймися поки що своїми справами.</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_start">
+		<text>Спробую розібратися з дверима.</text>
+	</string>
+
+	<string id="st_yan_xottab_bye_1">
+		<text>До зв'язку.</text>
+	</string>
+
+	<string id="st_yan_xottab_bye_2">
+		<text>Побачимося.</text>
+	</string>
+
+	<string id="st_yan_xottab_bye_3">
+		<text>Бувай, командире.</text>
+	</string>
+
+	<string id="st_yan_xottab_bye_4">
+		<text>Чекатиму вказівок.</text>
+	</string>
+
+	<string id="st_yan_xottab_bye_5">
+		<text>Буде справа — зв'яжися зі мною.</text>
+	</string>
+
+	<string id="st_yan_xottab_hello_1">
+		<text>Командире, радий бачити!</text>
+	</string>
+
+	<string id="st_yan_xottab_hello_2">
+		<text>Вітаю, босе.</text>
+	</string>
+
+	<string id="st_yan_xottab_hello_3">
+		<text>Ну, чудово.</text>
+	</string>
+
+	<string id="st_yan_xottab_hello_4">
+		<text>Слухаю, командире.</text>
+	</string>
+
+	<string id="st_yan_xottab_hello_5">
+		<text>Викладай. Справа є?</text>
+	</string>
+
+	<string id="st_yan_xottab_question_about_bunker">
+		<text>Ну, що в бункері діється?</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_1">
+		<text>Сьогодні у нас останній день роботи над підготовкою до повноцінного запуску установки.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_2">
+		<text>Її включення допоможе нам просунутися у вивченні псі-активності.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_3">
+		<text>Однак тепер ми повністю контролюємо роботу мозку,</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_4">
+		<text>тому його випромінювання не виходитиме за межі виділеної зони.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_5">
+		<text>Отже, ми зможемо повністю керувати його потужністю,</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_6">
+		<text>а що ще краще: вибирати конкретні цілі для впливу.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_7">
+		<text>Гидким сноркам на озері це точно сподобається.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_1">
+		<text>Хай мене хоч посадять чи розстріляють — начхати.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_2">
+		<text>Я більше не можу заплющувати очі на те, що відбувається в лабораторії.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_3">
+		<text>Вже кожен другий скаржиться на головний біль,</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_4">
+		<text>а установка ж працює тільки в режимі очікування.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_5">
+		<text>Якщо вони її запустять, кранти нам усім буде.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_6">
+		<text>Я почитав документацію, знаю, як вивести її з ладу так,</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_7">
+		<text>що мозок атрофується і більше працювати вже ніколи не буде.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_8">
+		<text>Більшість мені ще потім дякувати будуть.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_9">
+		<text>Я сподіваюся, вдасться без зайвих проблем викрасти ключ від кімнати управління</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_10">
+		<text>і зробити все тихо та непомітно.</text>
+	</string>
+
+	<string id="st_yan_help_message_1">
+		<text>Допоможіть!</text>
+	</string>
+
+	<string id="st_yan_help_message_2">
+		<text>Всім, хто чує нас!</text>
+	</string>
+
+	<string id="st_yan_help_message_3">
+		<text>[повідомлення з перешкодами]</text>
+	</string>
+
+	<string id="st_yan_help_message_3_cc">
+		<text>[повідомлення з перешкодами]</text>
+	</string>
+
+	<string id="st_yan_help_message_4">
+		<text>Чуєте мене?</text>
+	</string>
+
+	<string id="st_yan_labx16_task_fly_stalker_record_1">
+		<text>Перевірка радіаційного зараження на поверхні пройшла успішно.</text>
+	</string>
+
+	<string id="st_yan_labx16_task_fly_stalker_record_2">
+		<text>Рівень радіації відповідає нормі, тому можете не хвилюватися.</text>
+	</string>
+
+	<string id="st_yan_labx16_task_fly_stalker_record_3">
+		<text>Залишилося тільки перевірити анг...</text>
+	</string>
+
+	<string id="st_yan_labx16_task_fly_stalker_record_4_cc">
+		<text>[вибух]</text>
+	</string>
+
+	<string id="st_yan_sky_connect_koval_seen_1">
+		<text>Журавльов, прийом!</text>
+	</string>
+
+	<string id="st_yan_sky_connect_koval_seen_2">
+		<text>Я засік сигнал Коваля. Він за заводом, неподалік від архіаномалії.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_go_check_pda_1">
+		<text>Так, чудово! Випромінювання практично на нулі.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_go_check_pda_2">
+		<text>Біля пролому тепер безпечно. Дій!</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_1">
+		<text>Журавльов, зі знайдених у бункері даних мені вдалося дещо дізнатися.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_2">
+		<text>Є можливість дістатися тіла одного сталкера.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_3">
+		<text>Це поряд з тим місцем, де обвалився головний зал лабораторії Х16.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_4">
+		<text>Для цього необхідно увімкнути охолоджувальну установку, яка знаходиться в ангарі на території заводу.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_5">
+		<text>Тоді випромінювання біля пролому має стабілізуватися і ми зможемо дістатися тіла бідолахи.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_6">
+		<text>А ще я не можу до кінця зрозуміти, чому воно взагалі є, адже головне його джерело фактично знищене.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_7">
+		<text>Ну, втім, добре, всяке можливе. Лови координати.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_8">
+		<text>А, і ще: настроюванням системи охолодження свого часу займався якийсь сталкер Лівша,</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_9">
+		<text>так що надовго ти там не затримаєшся: тобі її потрібно просто увімкнути.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_10">
+		<text>Там одна кнопка, як я дізнався зі схеми на ноуті Сахарова.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_11">
+		<text>Все, щасти!</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_1">
+		<text>Група, прийом!</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_2">
+		<text>Я намагався налаштувати з'єднання із супутником, але це дохла справа.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_3">
+		<text>Тому зв'язок лише по рації.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_4">
+		<text>Ймовірно, з цієї ж причини до бази не доходили сигнали від тих, хто вижив. Якщо вони були, звісно.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_5">
+		<text>Я запустив дрон: він буде сканувати місцевість стосовно руху аномальної активності.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_6">
+		<text>Картинку з нього отримати не вдається: якісь сильні перешкоди. Щось тут явно глушить сигнал.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_7">
+		<text>Датчики показують, що поки що все спокійно. Якщо щось зміниться, повідомлю.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_8">
+		<text>Кінець зв'язку.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_someone_alive_1">
+		<text>Група, прийом!</text>
+	</string>
+
+	<string id="st_yan_sky_connect_someone_alive_2">
+		<text>На північний захід від вас зафіксовано слабкий сигнал від КПК.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_someone_alive_3">
+		<text>Більше даних дати не можу, але це точно хтось живий!</text>
+	</string>
+
+	<string id="st_yan_sky_connect_someone_alive_4">
+		<text>Позначив на карті приблизне місце.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_more_accurate_pda">
+		<text>Журавльов, акуратніше! Джерело сигналу почало швидкий рух у твою сторону. Рухається просто на тебе!</text>
+	</string>
+
+	<string id="st_yan_sky_connect_200_pda">
+		<text>До цілі двісті метрів.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_100_pda">
+		<text>Сто метрів. Бачиш когось?</text>
+	</string>
+
+	<string id="st_yan_sky_connect_koval_lost_1">
+		<text>У таборі його теж немає, і сигнал його я поки що зловити не можу.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_koval_lost_2">
+		<text>Якщо щось буде, то повідомлю.</text>
+	</string>
+
+	<string id="st_yan_collect_info_solo_zombie_record_1">
+		<text>Щойно на заводі щось рвонуло.</text>
+	</string>
+
+	<string id="st_yan_collect_info_solo_zombie_record_2">
+		<text>Земля аж під ногами затремтіла, а мене наче битою по голові приклало.</text>
+	</string>
+
+	<string id="st_yan_collect_info_solo_zombie_record_3">
+		<text>Можливо, це пов'язано з нашим проєктом. Хоча, що там могло піти не так?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_record_1">
+		<text>Роман Сергійович відправив перевірити ангар стосовно радіаційного зараження.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_record_2">
+		<text>Декілька співробітників нашого бункера скаржилися на лічильники, що зашкалюють.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_record_3">
+		<text>Взяв із собою у напарники Вольнова. Він останнім часом ставив багато питань щодо роботи установки.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_record_4">
+		<text>Одразу дізнаюсь у нього, що його так зацікавило.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_record_5">
+		<text>Раптом Сахаров недарма висловлював побоювання стосовно можливого зриву експериментів?</text>
+	</string>
+
+	<string id="yan_labx16_second_task_transiver_record_name">
+		<text>Диспетчерська</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_transiver_record_1">
+		<text>Охорона, у нас НС!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_transiver_record_2">
+		<text>Щойно Прохоров залетів до мене в кабінет і розсадив голову.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_transiver_record_3">
+		<text>Поки я лежав без свідомості, він забрав ключі від кімнати управління.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_transiver_record_4">
+		<text>Не знаю, що він задумав, але його треба зупинити.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_transiver_record_5">
+		<text>Там же установка. Якщо він щось з нею зробить, то нам усім тут кінець!</text>
+	</string>
+
+	<string id="st_yan_collect_info_bunker_zombie_scientist_record_1">
+		<text>Як же я замудохався з цим випромінювачем. На хіба його взагалі сюди поставили?</text>
+	</string>
+
+	<string id="st_yan_collect_info_bunker_zombie_scientist_record_2">
+		<text>Мало того, що він не працює як слід, то ще й зв'язок з науковим комплексом не працює.</text>
+	</string>
+
+	<string id="st_yan_collect_info_bunker_zombie_scientist_record_3">
+		<text>Надсилайте вже свого хваленого техніка. Він її створив, то нехай сам своє лайно розгрібає.</text>
+	</string>
+
+	<string id="st_yan_collect_info_bunker_zombie_scientist_record_4">
+		<text>Чуєте? Прийом, чуєте мене? Собаки!</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_complete">
+		<text>Я відкрив двері. Шуруйте сюди.</text>
+	</string>
+
+	<string id="st_yan_koval_go_factory_psy_hit_1">
+		<text>А-а-а!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_1">
+		<text>Група 7 і 9, швидко до кімнати управління! </text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_2">
+		<text>Тут у нас один придурок яйцеголовий по людях з автомата шмаляє.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_3">
+		<text>Вже троє двохсотих!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_4">
+		<text>Зрозумів вас, висуваємося!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_5">
+		<text>Биренько давайте, мужики!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_6">
+		<text>Не пускайте його до установки!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_7">
+		<text>Наразі не можна проводити жодні дії з мозком!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_8">
+		<text>Установка нестабільна і може призвести до фатальних наслідків!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_9">
+		<text>Ну то йди звідси, бовдуре, і зупини його!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_10">
+		<text>Напнув халатик і командує там, сука.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_11">
+		<text>Ви не розумієте! Якщо він добереться до пульта - нам усім кінець!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_12">
+		<text>Всім! Розумієте?</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_13">
+		<text>Все, не кричи. Придумаємо що-небудь.</text>
+	</string>
+
+</string_table>

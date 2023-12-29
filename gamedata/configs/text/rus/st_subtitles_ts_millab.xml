@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="st_mlab_merc_leader_scientist_hello">
+		<text>Приветствую, док.\nКакими судьбами в нашем отделе?</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_scientist_start_talk">
+		<text>Профессор,\nна минуту. Срочно!</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_kill_actor_1">
+		<text>Куда ж ты прёшь,\nбестолковый?</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_kill_actor_2">
+		<text>Вот и всё!</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_1">
+		<text>А вот и наша военная шавка!</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_2">
+		<text>Мы здесь только тебя ждём,</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_3">
+		<text>прежде чем эффектно\nраствориться в пространстве!</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_4">
+		<text>Ты знаешь, я бы мог\nвсадить тебе пулю</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_5">
+		<text>или придумать любую другую\nживописную смерть,</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_6">
+		<text>но мне так хочется\nудивить твоих дружков,</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_7">
+		<text>когда они прибудут тебя спасать!</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_8">
+		<text>Поэтому на тебя у меня\nдругие планы, чем просто смерть.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_first_hello">
+		<text>Профессор!</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_first_bye">
+		<text>До встречи\nна испытаниях, профессор.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_1">
+		<text>Колба номер 1 вышла из строя.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_2">
+		<text>Подопытный номер 2 скончался.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_3">
+		<text>Подопытный номер 3 скончался.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_4_1">
+		<text>Состояние 4-го объекта\nнормализовалось.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_4_2">
+		<text>Подопытный номер 4 мёртв.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_final">
+		<text>Отмучились.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_1">
+		<text>Коллеги, сегодня мы\nприступаем к первым испытаниям</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_2">
+		<text>по нашему новому\nнаправлению разработок.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_3">
+		<text>Наша цель — изучить возможность\nобратимости мутаций в Зоне.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_4">
+		<text>Мы шли к этому несколько недель,</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_5">
+		<text>и сегодня сможем получить\nпервые результаты.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_6">
+		<text>Да, возможно, не сразу,</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_7">
+		<text>но со временем\nу нас всё может получиться.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_8">
+		<text>Начинаем.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_9">
+		<text>Испытание проводим\nсогласно утверждённым инструкциям.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_actor_panic">
+		<text>Зря Вы так, Журавлёв!</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_suicide">
+		<text>Счастливо оставаться.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_name">
+		<text>Система</text>
+	</string>
+
+	<string id="st_mlab_wsystem_danger_1">
+		<text>Тревога!\nПроникновение в лабораторию!</text>
+	</string>
+
+	<string id="st_mlab_wsystem_danger_2">
+		<text>\nНесанкционированный доступ!</text>
+	</string>
+
+	<string id="st_mlab_wsystem_danger_3">
+		<text>Внимание! Всему персоналу\nнемедленно покинуть лабораторию!</text>
+	</string>
+
+	<string id="st_mlab_wsystem_electronics_off_1">
+		<text>Энергетическая\nсистема отключена.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_electronics_off_2">
+		<text>Переход на резервное питание.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_reserve_unavailable">
+		<text>Система\nрезервного питания недоступна.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_restart_try">
+		<text>Попытка перезапуска.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_trials_complete_1">
+		<text>Испытания завершены.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_trials_complete_2">
+		<text>Результаты доступны на компьютере администратора.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_trials_prepare_1">
+		<text>Загрузка стимуляторов\nв отсеки.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_trials_prepare_2">
+		<text>Пожалуйста, подождите.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_trials_ready">
+		<text>Все показатели в норме.\nОборудование готово к работе.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_1_1">
+		<text>Добрый день.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_1_2">
+		<text>Неделю назад мы отправили артефакт.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_1_3">
+		<text>К этому моменту заказчики\nуже должны были его получить.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_2">
+		<text>Да, закончились\nнесколько минут назад.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_3_1">
+		<text>Пока результатов нет,\nно это только начало.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_3_2">
+		<text>Впереди ещё достаточно работы.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_4">
+		<text>В плане?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_5_1">
+		<text>Нет, всё замечательно. Дело не в этом.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_5_2">
+		<text>Просто на это нужно время.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_5_3">
+		<text>Попытки обратить мутации —\nгораздо более серьёзная задача,</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_5_4">
+		<text>чем скрещивание артефактов.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_5_5">
+		<text>Но мы приложим все усилия.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_6">
+		<text>Разрешите поинтересоваться?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_7_1">
+		<text>Почему эти исследования\nтак важны для руководства?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_7_2">
+		<text>Я прекрасно понимаю\nнасчёт селекции артефактов.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_7_3">
+		<text>В мире очень много людей,\nкому они могут помочь и спасти жизнь.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_7_4">
+		<text>Но мутации? У вас есть какой-то план,\nо котором я не в курсе?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_8">
+		<text>Данные про мутацию верны?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_9">
+		<text>Я вас услышал.\nУ меня есть ещё один вопрос.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_10">
+		<text>Термит.\nВы уверены в этом человеке?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_11">
+		<text>Его методы.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_12">
+		<text>Нет, это всё.</text>
+	</string>	
+
+	<string id="st_mlab_phone_voice_name">
+		<text>Руководство</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_1_1">
+		<text>Здравствуйте, профессор.</text>
+	</string>	
+
+	<string id="st_mlab_phone_voice_1_2">
+		<text>Ну что, порадуете меня сегодня?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_2_1">
+		<text>Да, они его получили.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_2_2">
+		<text>Действия артефакта вызвали у них шок.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_2_3">
+		<text>В хорошем смысле слова, конечно.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_2_4">
+		<text>Поэтому уверен, что они не в последний раз\nпользуются нашими услугами.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_2_5">
+		<text>Но я звоню не за этим.\nУ вас сегодня были испытания?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_3">
+		<text>Ну так порадуете меня\nсегодня, профессор?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_4">
+		<text>Вам чего-то не хватает?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_5_1">
+		<text>В плане\nоборудования, финансирования,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_5_2">
+		<text>комфорта во время работы?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_6_1">
+		<text>Хорошо.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_6_2">
+		<text>Но я надеюсь, что в ближайшее время\nу Вас будут результаты,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_6_3">
+		<text>которые меня действительно порадуют.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_7_1">
+		<text>Не спрашивайте разрешения, профессор.</text>
+	</string>
+	
+	<string id="st_mlab_phone_voice_7_2">
+		<text>Мы же договаривались, что если будете работать с нами,</text>
+	</string>	
+
+	<string id="st_mlab_phone_voice_7_3">
+		<text>у вас будет полная свобода действий.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_7_4">
+		<text>В том числе в информационном плане.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_7_5">
+		<text>Так что не стесняйтесь.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_1">
+		<text>Поскольку я обещал\nбыть с вами честным,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_2">
+		<text>я скажу как есть.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_3">
+		<text>Артефакты, которые мы отправляем\nна Большую землю,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_4">
+		<text>действительно помогают людям.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_5">
+		<text>Но одновременно с этим они меняются.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_6">
+		<text>Мы заметили раннюю стадию мутации\nу большинства наших клиентов.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_7">
+		<text>Если мы не сможем это контролировать,</text>
+	</string>	
+
+	<string id="st_mlab_phone_voice_8_8">
+		<text>вся та гадость, которую мы видим\nв Чернобыльской зоне,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_9">
+		<text>выйдет за её пределы в остальной мир.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_10">
+		<text>Я этого не хочу.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_11">
+		<text>Я ценю это место,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_12">
+		<text>но оно не должно как зараза\nраспространяться по всему миру.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_9_1">
+		<text>Абсолютно.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_9_2">
+		<text>Поэтому ваше исследование\nкрайне важно для нас.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_9_3">
+		<text>Приложите для этого\nвсе усилия, профессор.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_10">
+		<text>Задавайте.</text>
+	</string>
+	
+	<string id="st_mlab_phone_voice_11_1">
+		<text>Больше, чем в ком-либо.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_11_2">
+		<text>Без него нам бы не удалось\nсоздать проект</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_11_3">
+		<text>и организовать всю работу.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_11_4">
+		<text>Он многое сделал.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_11_5">
+		<text>А что Вас тревожит?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_1">
+		<text>Да, его методы\nмогут быть жестоки.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_2">
+		<text>Прекрасно про это осведомлён.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_3">
+		<text>Как раз по этой причине\nя и пригласил его в проект.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_4">
+		<text>Он знает, что делает.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_5">
+		<text>В любом случае Вам точно\nне стоит беспокоиться.</text>
+	</string>
+	
+	<string id="st_mlab_phone_voice_12_6">
+		<text>По крайней мере до тех пор,\nпока Вы не являетесь угрозой.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_7">
+		<text>Что-то ещё, профессор?</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_complete_way_1">
+		<text>Вот здесь рубильник.\nЗаканчивайте с этим.</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_complete_way_2">
+		<text>Только не убивайте: я просто лаборант!</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_follow_me">
+		<text>Следуйте за мной, скорее!</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_panic_1">
+		<text>Зачем я на это подписался?</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_panic_2">
+		<text>Мне же крышка теперь.</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_panic_3">
+		<text>Что же делать, что же делать...</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_panic_4">
+		<text>Только бы пронесло всё,\nтолько бы пронесло!</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_panic_5">
+		<text>Натворил я делов...</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_wait_1">
+		<text>Времени мало, ну же!</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_wait_2">
+		<text>Отключайте питание\nи уходите!</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_wait_3">
+		<text>Давайте,\nделайте что собрались!</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_actor_angry">
+		<text>Задержите его!\nМне нужно запустить телепорт!</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_actor_let_leave_1">
+		<text>Спасибо за понимание,\nЖуравлёв. Ступайте.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_actor_let_leave_2">
+		<text>И никогда больше\nпро это не вспоминайте.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_final_teleport">
+		<text>Коллеги, быстрее, быстрее!</text>
+	</string>
+
+</string_table>
