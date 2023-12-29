@@ -1,0 +1,31 @@
+{
+  "content_order": [
+    "resources",
+    "language",
+    "patches"
+  ],
+  "converter": "./converter.exe",
+  "converter_command_templates": {
+    "unpack": [
+      "-unpack",
+      "-xdb",
+      "**PATH_INPUT**",
+      "-dir",
+      "**PATH_OUTPUT**"
+    ],
+    "pack": [
+      "-pack",
+      "-xdb",
+      "**PATH_INPUT**",
+      "-out",
+      "**PATH_OUTPUT**"
+    ]
+  },
+  "launcher": "./PlayGame.exe",
+  "launcher_arguments": "",
+  "xml_options": {
+    "prettify_unpacked": true,
+    "minify_repacked": true
+  },
+  "i_verified_settings": false
+}

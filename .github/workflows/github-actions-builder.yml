@@ -1,0 +1,91 @@
+name: Build and Deploy
+
+run-name: ${{ github.actor }} is compiling new content
+
+on:
+  push:
+    branches:
+      - staging  # when there is need to actually create artifact, its commit has to be pushed to "staging"
+      - ci-run  # or when we explicitly want to trigger ci run
+
+jobs:
+  build-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Build and publish artifact
+        env:
+          CONVERTER_URL: ${{ secrets.CONVERTER_URL }}
+        run: |
+          bash -c .ci/language_pack.sh
+
+      - name: Upload artifact "eng"
+        uses: actions/upload-artifact@v4
+        with:
+          name: English
+          path: ./output/English.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "fra"
+        uses: actions/upload-artifact@v4
+        with:
+          name: francés
+          path: ./output/francés.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "ger"
+        uses: actions/upload-artifact@v4
+        with:
+          name: Deutsch
+          path: ./output/Deutsch.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "ita"
+        uses: actions/upload-artifact@v4
+        with:
+          name: italiano
+          path: ./output/italiano.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "pol"
+        uses: actions/upload-artifact@v4
+        with:
+          name: polski
+          path: ./output/polski.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "rus"
+        uses: actions/upload-artifact@v4
+        with:
+          name: русский
+          path: ./output/русский.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "spa"
+        uses: actions/upload-artifact@v4
+        with:
+          name: español
+          path: ./output/español.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "ukr"
+        uses: actions/upload-artifact@v4
+        with:
+          name: українська
+          path: ./output/українська.7z
+          if-no-files-found: ignore
+          compression-level: 0
+
+      # - name: Pull request artifacts
+      #   uses: gavv/pull-request-artifacts@v2
+      #   with:
+      #     # Commit hash that triggered PR
+      #     commit: ${{ github.event.pull_request.head.sha }}
+
+      #     # Token for current repo (used to post PR comment)
+      #     repo-token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Whitespace-separated list of files to upload
+          artifacts: |
+            ./content.7z
