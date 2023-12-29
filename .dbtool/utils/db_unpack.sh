@@ -47,8 +47,7 @@ else
     mv ${file} ${file}.tmp
     # xmllint --format --recover ${file}.tmp > ${file} #2> /dev/null
 
-    # sed -E 's/(&[^#]|[^&])/\1amp;/g' <filename> # maybe?
-    sed 's/&/\&amp;/g' ${file}.tmp | xmllint --format - > ${file} #2> /dev/null
+    sed -E 's/(&[^#]|[^&])/\1amp;/g' ${file}.tmp | xmllint --format - > ${file} #2> /dev/null
     exit_code=$?
     if [ "$exit_code" -ne "0" ]; then
       echo ${file}
