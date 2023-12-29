@@ -14,7 +14,7 @@ Current repository has extracted XML files ready for translation in [gamedata/co
 
 - If your game is already in the game, just switch to it from the menu.
 
-- If not � change language code at `your userdata/user.ltx`.<br/>
+- If not — change language code at your `userdata/user.ltx`.<br/>
   For example, for German: `g_language rus` > `g_language ger`
 
 ---
