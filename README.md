@@ -6,9 +6,16 @@ Current repository has extracted XML files ready for translation in [gamedata/co
 
 ## Translation flow
 
-1. Make edits in text strings
+1. Make edits in text strings (make sure to replace `&` with `&amp;` if you use ampersands!)
 2. Test changes in game
 3. Submit your changes via pull request
+
+## Changing language
+
+- If your game is already in the game, just switch to it from the menu.
+
+- If not � change language code at `your userdata/user.ltx`.<br/>
+  For example, for German: `g_language rus` > `g_language ger`
 
 ---
 
