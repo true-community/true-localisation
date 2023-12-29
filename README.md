@@ -1,9 +1,12 @@
-# true-localisation | True Stalker
+# true-localisation | [True Stalker](https://ap-pro.ru/forums/topic/102-true-stalker/)
+
+![alt text](https://i.ibb.co/02mzMj2/62463b1abe776a3-1.png)
 
 ## Translation flow
 
-1. Make edits in lines
+1. Make edits in text strings
 2. Test changes in game
+3. Submit your changes via pull request
 
 
 ## (optionally) Extract DB entries yourself
