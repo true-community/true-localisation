@@ -1,0 +1,2 @@
+#!/usr/bin/env sh
+find . -type f -name "*.xml" -print0 | xargs -0 todos

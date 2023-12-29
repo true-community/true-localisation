@@ -1,0 +1,11 @@
+* text eol=crlf
+/.gitattributes eol=lf
+*.md eol=lf
+
+*.sh text encoding=UTF-8 eol=LF
+/pre-commit encoding=UTF-8 eol=LF
+
+*.xml text encoding=Windows-1251 eol=crlf
+*.xml	text working-tree-encoding=Windows-1251 eol=crlf
+
+/gamedata/configs/text/*/*.xml encoding=Windows-1251 eol=crlf
