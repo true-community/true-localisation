@@ -1,1972 +1,1479 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="val_bandits_garbage_dialog_0">
-		<text>Ну і шо це ти тут забув, пацане?</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_1_1">
-		<text>Та я що, просто гуляю...</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_1_2">
-		<text>Гуляй в іншому місці, фраєре. Тут тобі робити нічого!</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_1_3">
-		<text>Все-все, йду.</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_1_4">
-		<text>Та пішов ти!</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_2_1">
-		<text>Я до вашого головного від Костура. Мені треба забрати посилку.</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_2_2">
-		<text>А, зрозумів. Жени бабосики й можеш проходити.</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_2_3">
-		<text>Які ще бабосики? Торговець мені про це нічого не казав.</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_2_4">
-		<text>А я тобі говорю. Давай бабки, тоді пропустимо. Якщо не хочеш платити  -  чеши в обхід. Твоє право.</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_2_5">
-		<text>І де обхід?</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_2_6">
-		<text>А я знаю? Не мої проблеми.</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_2_7">
-		<text>Гаразд. Обхід я знайду, але як доберусь до бази  -  пахан ваш дізнається, що ви в його колеса палки встромляєте.</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_2_8">
-		<text>Чуєш, ти чого пір'я розпустив? Проходь, ми не будемо тебе чіпати. Лише погрожувати нам не треба.</text>
-	</string>
-
-	<string id="val_bandits_garbage_dialog_2_9">
-		<text>Зрозумів. Проходжу.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_dialog_case_0">
-		<text>Що треба?</text>
-	</string>
-
-	<string id="val_bandits_base_leader_dialog_case_1">
-		<text>Здоров, я від Костура. Прийшов за посилкою.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_dialog_case_2">
-		<text>Новенький? Тоді слухай: це наша база, а отже, ти тут гість. Пам'ятай про це. Щоб не буянив тут! Второпав?</text>
-	</string>
-
-	<string id="val_bandits_base_leader_dialog_case_3">
-		<text>Все зрозуміло, я лише візьму кейс й звалю звідси.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_dialog_case_4">
-		<text>Гроші вперед.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_dialog_case_5_1">
-		<text>Тримай.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_dialog_case_5_2">
-		<text>У мене не вистачає. Я скоро повернусь.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_dialog_case_6">
-		<text>Все, можеш валити звідси. Раджу без потреби тут особливо не крутитися.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_dialog_case_7">
-		<text>Все зрозумів. Йду.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_dialog_case_two_0">
-		<text>Гроші приніс?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_0">
-		<text>Чого трешся тут?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_1">
-		<text>Мимохіть. Вже йду.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_2">
-		<text>Бачу, засцяв?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_3">
-		<text>Чому це?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_4">
-		<text>У тебе ноги ледь не трусяться, дивись, не обгидься тут! Чого напружився? Думаєш, бандити, значить, будуть пресувати тебе тут?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_5">
-		<text>Чесно? Думаю, з вами треба бути акуратно.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_6">
-		<text>Ну, загалом, правильно ти думаєш, але ти не сци. Ти, як я зрозумів, будеш посилки тягати від звалищного бариги?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_7">
-		<text>Поки так.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_8">
-		<text>Ну, ясно. Я тут це... бригаду збираю для однієї справи й, якщо тобі торгаш таке діло довірив, отже, сталкер ти путній. Не бажаєш приєднатися?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_9">
-		<text>А що за справа? Наліт, гоп-стоп, грабунки?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_10">
-		<text>Чуєш, ти нас з бандосами зі смітнику не порівнюй! Ті  -  вкрай відморожені. Ми ж тут, можна сказати, більш лояльні.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_11">
-		<text>Що у вас за справа така?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_12">
-		<text>Я збираю групу, щоб розвідати одне місце.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_13">
-		<text>І що за місце?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_14">
-		<text>Знаєш про закинутий завод, тут, неподалік?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_15_1">
-		<text>Ні, не чув.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_15_2">
-		<text>Пробігав повз.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_16_1">
-		<text>Ну, коротше, він тут поблизу. Там ще вхід в лабораторію X-18 знаходиться. Раніше ми його контролювали, пресували всяких сталкерів, які любили закинутими лабораторіями шастати  -  який-не-який заробіток був. Потім в тому місці сталася якась хрінотінь: одного разу зв'язались з пацанами, як вони там, а у відповідь  -  тиша. Ну, думаємо, може, зв'язок після викиду барахлить. Послали пару хлопців перевірити те місце. Повертаються за годину, всі захекані, перелякані, я запитую: «Ви чого? Що трапилось?» А вони мені й почали втирати: «Там пацани висять, мертві всі!» Я питаю: «Ви курили? В сенсі, висять?»</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_16_2">
-		<text>Отже, чув, мабуть, що там вхід в лабораторію X-18 знаходиться. Так от, раніше ми його контролювали, пресували всяких сталкерів, які любили закинутими лабораторіями шастати  -  який-не-який заробіток був. Потім в тому місці сталася якась хрінотінь: одного разу зв'язались з пацанами, як вони там, а у відповідь  -  тиша. Ну, думаємо, може, зв'язок після викиду барахлить. Послали пару хлопців перевірити те місце. Повертаються за годину, всі захекані, перелякані, я запитую: «Ви чого? Що трапилось?» А вони мені й почали втирати: «Там пацани висять, мертві всі!» Я питаю: «Ви курили? В сенсі, висять?»</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_17">
-		<text>А вони що?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_18">
-		<text>Ну, відхекались і почали розповідати, мовляв, прийшли на завод, а там тиша. Заходять до середини і там всі пацани наші мертві, та ще й розкидані навколо. Хтось на балці під дахом висить, хтось  -  на стіні... Наче їх хтось взяв і як ялинкові прикраси розвішав. Я, звичайно, не відразу повірив  -  пішов сам зганяв. Близько підходити не став, підійшов до воріт  -  дійсно, хрінь якась. Думаю, гаразд, мало чи що там трапилось. Зберу пацанів, сходимо, розвідаємо місце. Прийшов на базу, а зі мною ніхто йти не хоче  -  чути швидко розбіглися, і у нас це місце потрапило до чорного списку. Ніхто туди нізащо йти не хоче.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_19">
-		<text>Отакої... Ну і що, вдалось когось в бригаду зібрати?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_20">
-		<text>Трьох зібрав. Якщо ти ще погодишся, то рушимо.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_21">
-		<text>Який мій інтерес?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_22">
-		<text>Я заплачу. Чотири косарі є. Раптом що, потім ще підкину, якщо будуть труднощі.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_23">
-		<text>Гаразд, годиться. Коли вирушаємо?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_24">
-		<text>Мої пацани чергують неподалік від заводу. Підемо туди, згрупуємося і зайдемо.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_25_1">
-		<text>Зрозумів. Ну, тоді ходімо.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_quest_dialog_25_2">
-		<text>Прямо зараз? У мене деякі справи. Ти йди, а я здожену.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_angry_dialog_0">
-		<text>Бляха, ну де ти ходиш? Ми тут задовбались сраки відсиджувати.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_angry_dialog_1_1">
-		<text>Я готовий. Ходімо.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_angry_dialog_1_2">
-		<text>Почекайте ще трохи.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_0">
-		<text>Нічогенька така прогулянка!</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_1">
-		<text>Овва! Це що за тварюка така?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_2">
-		<text>Та хєр її знає! На звичайного полтергейста вона геть не схожа, шкіра навіть іншого кольору. Звідки вона тільки тут взялась?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_3">
-		<text>Ти ж сам казав, що тут вхід до підземелля. Може, звідти вона родом?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_4">
-		<text>Не знаю. Можливо.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_5">
-		<text>Сподіваюсь, вона безплідна, і дітей в неї немає.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_6">
-		<text>Перевірити б це напевне... Я не зможу тут вести справи, якщо під боком у нас буде мешкати така нечисть.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_7">
-		<text>Підірвімо прохід у підземку, та й годі?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_8">
-		<text>А на хріна ми тоді зачистили це місце? Завалимо прохід  -  сюди ніхто ходити не буде, а отже, ні з кого нам буде бабоси рубати.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_9">
-		<text>Не думав я, що сталкерів цікавлять підземки. Що там цікавого може бути? Мені мій друган розповідав, що X-18 ще кілька років тому знайшли. За цей час там вже все розтягли, мабуть.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_10">
-		<text>Без образ, хлопче, але я думав, що з досвідчених. Питання в тебе геть дурні. Це не просто підземелля, а закинута лабораторія. Скільки б там не винесли, ще купа всього цікавого може бути. А легенду про те, що в підземеллях можна відшукати дорогі артефакти, чув? Думаю, це не просто легенда. Був у нас тут один сталкер, часто навідувався до підземки, платив великі кошти, але однак приходив знову і знову. Значить, була йому вигода, логічно? Лише з останньої ходки до підземелля він не повернувся. Помер, мабуть.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_11">
-		<text>В будь-якому разі, мені байдуже щодо цього. Я свою частину роботи виконав?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_12">
-		<text>Я за свій базар відповідаю. Попрацював  -  тримай обіцяні бабки. І, раптом що, заходь до нас. Роботу для тебе завжди знайдемо.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_13">
-		<text>Дякую. Хай щастить вашому бізнесу!</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_14">
-		<text>І тобі навзаєм! Невеличка порада, і сподіваюсь, не будеш мене мати за шестірку після цього: отже, якщо й надалі будеш мати справи з Монголом, то раджу завжди все перевіряти. Просто будь акуратним з ним. Це тобі просто така невеличка порада у якості нагороди за допомогу.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_15">
-		<text>Що ти маєш на увазі?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_16">
-		<text>Лише те, що сказав. Йому взути таких сталкерів як ти,  -  раз плюнути.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_final_quest_dialog_17">
-		<text>Дякую за попередження, щасти.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_idle_dialog_0">
-		<text>Овва! А ось і наш спеціаліст з нечисті! Чого бажаємо?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_idle_dialog_two_0">
-		<text>Вітаю. Що треба?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_idle_dialog_three_0">
-		<text>Є новини?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_idle_dialog_three_1_0">
-		<text>Поки нічого цікавого.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_idle_dialog_four_0">
-		<text>Не затягуй. Треба забрати дурь і засунути козлам у їжу.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_idle_dialog_four_1">
-		<text>Іду.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_idle_dialog_three_1_1">
-		<text>Дізнався інфу про вхід, але піду спочатку перевірю.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_angry_dialog_0">
-		<text>Що за діла? Всередині вашого кейса нема артефактів!</text>
-	</string>
-
-	<string id="val_bandits_base_leader_angry_dialog_1">
-		<text>Шо? Ти здурів?</text>
-	</string>
-
-	<string id="val_bandits_base_leader_angry_dialog_2">
-		<text>Я віддав гроші, гроші торговця, а ви свою частину угоди не виконали. Артефактів у кейсі немає.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_angry_dialog_3">
-		<text>Мізків в тебе немає, оленю. Тобі дали кейс з артефактами, а те, що ти їх не доніс до торговця  -  лише твої проблеми. Де ти був весь цей час? Відразу все перевіряти треба, франте, бо пішов їх пропив, а тепер пред'яву мені кидаєш. За це я б тобі роги збив, та шкода стосунки з торговцем псувати. Вали звідси!</text>
-	</string>
-
-	<string id="val_bandits_base_leader_angry_dialog_4">
-		<text>Але мені потрібні ці артефакти.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_angry_dialog_5">
-		<text>Без проблем. Тягни п'ятдесят косарів, ми тобі їх зберемо.</text>
-	</string>
-
-	<string id="val_bandits_base_leader_angry_dialog_6">
-		<text>Все ясно...</text>
-	</string>
-
-	<string id="val_bandits_base_leader_idle_dialog_0">
-		<text>Чого тобі, сталкерочку?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_0">
-		<text>Привіт, це знову я. Загалом, твоя пропозиція про роботу ще в силі?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_1">
-		<text>Звісно, в силі. У нас є певні плани на це місце, тому справ багато. А ти чого не на Смітнику?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_2">
-		<text>Якщо коротко, ти мав слушність щодо Монгола, тому робота мені не завадить.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_3">
-		<text>Та пішов він. Скажу тобі по секрету. Ми хочемо злиняти від нього: дістав. Але треба це провернути мирним способом: все ж там братків на базі багато. Якщо щось зайве ляпнеш йому, нас вони за раз порішають. Але то таке, думки вголос. Нумо ближче до справи.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_4">
-		<text>Відразу прояснімо, що я не буду займатись різного роду мокрухою та йти проти вільних сталкерів.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_5">
-		<text>А я тобі цього й не пропоную. За це ми самі візьмемось, якщо доведеться. Ми тобі можемо й іншу роботу запропонувати. Станеш нашим спільником. Гроші лопатою гребти не будеш, але й голодранцем з нами не зостанешся.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_6">
-		<text>Пропозиція цікава, але б мені хотілось краще знати, на що я підписуюсь.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_7">
-		<text>Для початку треба розв'язати нашу проблему,  -  перевірити чи немає в підземеллі лігва цих тварюк. Я з тобою відправлю двох хлопців. Ось тобі ключ для входу. Розвідайте ситуацію, і якщо помітите щось, схоже на цю тварюку  -  відразу драпайте звідти, бо втрачати більше людей я не хочу. Ми тут поки що на поверхні займемось справами.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_8">
-		<text>Добре. Якщо лише розвідка, то я згоден.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_idle_0">
-		<text>Дуй до лабораторії!</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_idle_1">
-		<text>Угу.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_0">
-		<text>Невже! Я вже думав, щось трапилось. Що вдалося дізнатись?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_1">
-		<text>Наштовхнувся на схожу тварюку. Вдалось здолати.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_2">
-		<text>Чому один? Де хлопці?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_3">
-		<text>Свободівець... Не знаю, як він там опинився, але він напав на нас без попередження.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_4">
-		<text>Який ще свободівець? Ми весь час були тут і нічого не впускали! Якого хєра там сталося?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_5">
-		<text>Якщо не віриш мені, подивись цей КПК. Я знайшов його в трупі. Там є про якийсь запасний вхід.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_6">
-		<text>Дивно... Не знаю я ніякого додаткового входу.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_7">
-		<text>А втім, він якось туди потрапив  -  ще й озброєний до зубів  -  і шукав мапу сховку. Схоже, цим же займався той багатий сталкер, про якого ти говорив. Я знайшов його труп. Тепер зрозуміло, чому він в підземку так часто навідувався.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_8">
-		<text>Що за мапа?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_9">
-		<text>Сам подивись, я її зі сталкера зняв. Там відмічено розташування якогось сховку угрупування «Воля», який залишився ще з часів їхнього перебування у Темній долині.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_10">
-		<text>Дивно. Нічого про це не чув, і він прямо під нашою базою. Впевнений, Монгол про це навіть не знає. А що з хлопцями, не вижили?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_11">
-		<text>Ми розділились. Коли я повернувся, їхні тіла вже обшукував свободівець.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_12">
-		<text>Шкода хлопців. А ти молодець: і з тварюкою розібрався, і дуже цікаву інформацію підкинув. Раптом що, моя пропозиція ще дійсна. Підеш до нас в бригаду?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_13">
-		<text>Відмовлюсь, напевно. Не вважай за образу, але я не хотів би бути зарахований до бандитів.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_14">
-		<text>Розслабся, я тебе й не змушую. Просто пропоную далі співпрацювати. Якщо в нас буде робота, я обіцяю вчасно платити за її виконання. Обіцяю мокруху не підкидати.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_15">
-		<text>Декілька днів мені й так доведеться стовбичити у Темній долині, тож попрацювати не завадить. Я згоден.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_16">
-		<text>От і чудово. Саме зараз нам потрібно якнайбільше дізнатися про той секретний вхід до лабораторії, крізь який проникнув свободівець. Якщо ми його не запечатаємо і про нього хтось взнає, то весь наш бізнес коту під хвіст.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_17">
-		<text>Є якісь думки?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_18">
-		<text>Є. На фермі засіли сталкери. Вони тут ще до нас були, тож околиці знають краще. Може, у них вдасться щось дізнатись? Ти у нас пацан, наче як, з хорошою репутацією. Ліпше тобі піти до них.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_job_dialog_final_19">
-		<text>Гаразд. Навідаюсь.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_0">
-		<text>Слухай, класна пушка треба? Я на Янтарі чийсь сховок зняв, так там гаусівка, як нова. Віддам всього за 1 500 рублів! Набоїв до неї, однак, немає, а гроші дуже потрібні.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_1">
-		<text>Якась ліва схема. Я відмовлюсь, мабуть. Я насправді до вас у справі.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_2">
-		<text>Купиш пушку  -  буде справа.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_3">
-		<text>Нема у тебе ніякої пушки, що ти мені втираєш?</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_4">
-		<text>Зате 1 500 рубликів у тебе точно є. Заплати й буде розмова.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_5_1">
-		<text>Тримай. Ну й барига ж ти!</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_5_2">
-		<text>От зараза, нема в мене зараз грошей...</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_6_1">
-		<text>Ну от, інша справа. Що хотів?</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_6_2">
-		<text>Розживешся  -  приходь. До інших зі своєю справою без бабок можеш не лізти, я їм передам.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_7_1">
-		<text>Я шукаю інформацію про секретний вхід до лабораторії X-18. Точно знаю, що такий десь є.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_7_2">
-		<text>Бувай.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_8">
-		<text>А тобі воно навіщо, чоловіче?</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_9">
-		<text>Та там бандити по три шкури деруть! Хочу знайти обхідну, щоб можна було за хабарем приходити.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_10">
-		<text>Там же окрім мотлоху нічого нема. Що ти там зібрався шукати?</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_11">
-		<text>Для кого мотлох, а для кого  -  багатство. Стару техніку шукаю.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_12">
-		<text>Тоді зрозуміло, але я не знаю, де такий вхід. Вперше чую.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_13">
-		<text>Ну, жук! Отримав плату за не знаю. Далеко підеш!</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_14">
-		<text>Не гарячкуй. Запитай у Невмійка. Він неподалік від багаття сидить. Має щось знати.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_start_15">
-		<text>Зрозуміло.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_two_0">
-		<text>Ну що, приніс гроші?</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_two_1_1">
-		<text>Забирай.</text>
-	</string>
-
-	<string id="val_stalker_base_sentence_dialog_two_1_2">
-		<text>Ще ні.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_0_1">
-		<text>Що треба? Геть з очей, мужик.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_0_2">
-		<text>Не мішайся під ногами. Йди у своїх справа.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_0_3">
-		<text>Чого ти тут трешся? Йди погуляй.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_0_4">
-		<text>Я тебе слухаю.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_0_5">
-		<text>Говори.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_0_6">
-		<text>Що хотів?</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_1_1">
-		<text>Якийсь ти нервовий.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_1_2">
-		<text>Привіт. Ти Невмійко? Мені сказали, що ти можеш допомогти мені з одним питанням.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_2">
-		<text>Це я. Що за питання?</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_3">
-		<text>Я шукаю таємний вхід до лабораторії X-18. Бандити, суки, деруть бабло  -  невигідно через них.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_4">
-		<text>Я тобі теж задарма не допоможу, вже вибачай. Зараз задурно ділитись інформацією  -  заборонена розкіш, особливо для нас. Бандити навколо, теж від них постраждали немало.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_5">
-		<text>Що ти хочеш за інформацію? Гаус-пушку я у вас вже купив...</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_6">
-		<text>Гроші мені не потрібні. Допоможи мені краще в одній справі. Ти на вигляд бувалий, тож, гадаю, впораєшся.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_7">
-		<text>Що треба зробити?</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_8">
-		<text>Тут за пару сотню метрів від ферми є аномалія «розлом». Поблизу неї я помітив цікавий артефакт, але дістати не зміг: намагався його взяти, а ніяк. Потім ще голова розболілась і я пішов. Дивне якесь місце, раніше там такого не помічав. Може, тобі вдасться?</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_start_dialog_9">
-		<text>Досвід видобутку артефактів наче є. Схожу, спробую дістати, але гляди: якщо інформацію не даси, то я його собі лишу.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_wait_dialog_0">
-		<text>Що там з артефактом?</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_wait_dialog_1">
-		<text>Поки не дістав.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_final_dialog_0">
-		<text>Ти де так довго тиняєшся? Дістав артефакт?</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_final_dialog_1">
-		<text>Ось твій артефакт. Такої чортівні я раніше не зустрічав...</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_final_dialog_2">
-		<text>Овва, який незвичайний... Що ще за чортівня? На тобі лиця немає. Обгидився там чи що?</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_final_dialog_3">
-		<text>Коли я намагався взяти артефакт, він переміщався на кілька метрів від мене. Потім стали з'являтись якісь примарні сталкери, а під кінець на мене напали тварюки, що нагадували контролерів.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_final_dialog_4">
-		<text>Не здалось все тоді мені, що там щось не так. Що ж далі було?</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_final_dialog_5">
-		<text>Коли вдалось розібратися з тварюками, в очах все потьмяніло. Прийшов до тями вже вранці, всього цього вже не було, був лише артефакт, що мирно лежав переді мною.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_final_dialog_6">
-		<text>Еге ж. У мене минулого разу там башка розболілась, більш-менш опам'ятався через кілька годин. Гаразд, як і домовлялись, скидаю тобі на КПК приблизне розташування входу. Акуратніше там: Всередині повно всілякої нечисті.</text>
-	</string>
-
-	<string id="val_stalker_base_quest_stalker_final_dialog_7">
-		<text>Дякую. Бувай.</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_0">
-		<text>Ну нарешті!</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_1">
-		<text>Що сталося?</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_2">
-		<text>Ми подумали щодо знайденої тобою карти сховку «Волі». Народився план, як непомітно й без зайвого шуму його обчистити.</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_3">
-		<text>В сенсі, обчистити? А як же Монгол? Я думав, ви розкажете своєму лідеру, що під базою знаходяться припаси, затим спокійно їх дістанете.</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_4">
-		<text>Пішли ми від нього. Більше ми до їхньої банди не належимо і віднині самі по собі.</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_5">
-		<text>Ось воно що. З цим будуть пов'язані якісь наслідки?</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_6">
-		<text>Не думаю. Ми підтягнули ще пацанів, тож тепер наш табір не так просто буде взяти, навіть якщо Монгол щось таке задумає... але не стане він нічого робити, я в цьому переконаний.</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_7">
-		<text>Але як ви збираєтесь сховок без шуму та без жертв обнести? Там з два десятки голів на базі!</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_8">
-		<text>Проявимо кмітливість. І ти нам у цьому допоможеш.</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_9">
-		<text>Чому я?</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_10">
-		<text>Тому що ти по факту працюєш з групою Монгола, і твоя поява на базі не буде дивною. А якщо ми там з'явимося, після того, як звалили від нього, це вже буде дивно.</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_11">
-		<text>А який план взагалі?</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_12">
-		<text>Отже, слухай: ми тут одного розумника знаємо, він готовий нам продати одну наркоту. Ми нею накачаємо весь табір, а потім непомітно, доки вони дрихнуть, обнесемо сховок. Як план? Геніально ж?</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_13">
-		<text>Сумнівно. Яким чином це все збираєшся провернути?</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_14">
-		<text>Все просто. Я там не один місяць чалився на цій базі, все знаю, типа. Можна сипанути наркоту в польову кухню: вони похавають, потім на бокову. Хто від обіду відмовиться  -  прикладом по мармизі спіймає і все. Ніхто навіть не дізнається, хто їх усіх надурив, а тобі обіцяю гідну винагороду. Я тебе коли-небудь ображав з цим?</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_15">
-		<text>Не ображав... Я тут хоч на спорягу заробив. Що я маю зробити?</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_16">
-		<text>Зустрічаєшся з вченим, купуєш наркоту і на базу чешеш. Там непомітно сипонеш порошок і все. Решту ми робимо самі.</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_17">
-		<text>Я згоден, у мене з ним давні рахунки. Але у мене свої умови: я не претендую на свободівський сховок. Мені просто потрібна одна річ, яка знаходиться у Монгола. Якщо ви допоможете мені її здобути, то я з вами.</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_18">
-		<text>Я в тобі й не сумнівався! З твоїм питанням, звичайно, допоможемо  -  забереш ти свою річ. А тепер про справи: я зараз готую хлопців і дам їм інструкції. Треба ще буде вибухівку притарабанити, щоб двері до сховку підірвати... якщо ніяк не зможемо їх відчинити. А ти тим часом йди до вченого: він саме у службових справах у Долині. Ось тобі бабки, купиш у нього дурь. Після цього йдеш на базу і тут вже будь дуже обережним. Щоб жодний щур не бачив, як ти щось сиплеш. Щойно вони поляжуть, ми зайдемо і спокійно обчистимо сховок. Все зрозумів?</text>
-	</string>
-
-	<string id="val_bandit_desertir_bandit_alarm_message_dialog_19">
-		<text>Зрозумів! Вирушаю.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_0">
-		<text>Так?</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_1">
-		<text>Привіт! Я за товаром. Вас мали попередити.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_2">
-		<text>О, привіт! Так, мені повідомили, що ви прийдете. Ось ваш пакет.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_3">
-		<text>Це ваша охорона?</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_4">
-		<text>Звичайно. Без охорони співробітники нашого комплексу нікуди не виходять.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_5">
-		<text>А що ви так далеко забули від бази? Вона ж на «Агропромі», так?</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_6">
-		<text>Правильно. Треба терміново виконати певні заміри, а, як на зло, у розпорядженні керівництва не виявилось жодного найманого сталкера. Доводиться у таких випадках нам таку роботу виконувати. А загалом, я люблю такі вилазки. Від лабораторних робіт потрібні подібні перерви. Щоправда, сьогодні задачка у мене не з простих.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_7">
-		<text>А в чому річ?</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_8">
-		<text>Тут утворилась унікальна аномалія. Подібні з'являються дуже рідко, тому її хотілося б детально дослідити.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_9">
-		<text>«Електра» як «Електра», на вигляд...</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_10">
-		<text>Їх тут дуже багато. Ще мене тривожить, що вона утворилась поруч з болотом, біля хімічної аномалії. Мені буде цікава їхня взаємодія. Може, у процесі з'являться якісь нові артефакти. Треба якось поставити сканер, щонайближче до епіцентру, а вона мене не пускає.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_11">
-		<text>Поставити збоку не вдасться?</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_12">
-		<text>Вдасться, але тоді з'явиться привід сумніватись у якості отриманих даних.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_13_1">
-		<text>Ану я спробую? Я чув, що «Електри» можна розряджати, закидуючи її болтами. Може, щось вдасться.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_13_2">
-		<text>Зрозумів. Ну, хай вам тут щастить, а мені пора.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_14">
-		<text>Ви дуже нам допоможете.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_first_dialog_15">
-		<text>Спробую.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_idle_dialog_0_1">
-		<text>Здрастуйте.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_idle_dialog_0_2">
-		<text>Так?</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_idle_dialog_1_1">
-		<text>Всього найкращого.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_idle_dialog_1_2">
-		<text>До зустрічі.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_wait_scaner_dialog_0">
-		<text>Вам вдається?</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_wait_scaner_dialog_1">
-		<text>Зараз, хвилину.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_final_scaner_dialog_0">
-		<text>Бачу, вам вдалося!</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_final_scaner_dialog_1">
-		<text>Еге ж, непроста була задачка. Нормально поставив сканер?</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_final_scaner_dialog_2">
-		<text>Все чудово! Дякую за допомогу. Знаєте, що? Я поки не можу нічим заплатити, але ви обов'язково приходьте до нас в комплекс й знайдіть там мене. Наступного тижня я буду працювати у відділі вивчення рослинності. Обов'язково буде для вас робота... звичайно ж, оплачувана.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_final_scaner_dialog_3">
-		<text>Скопати города?</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_final_scaner_dialog_4">
-		<text>Ха-ха! Думаю, ви не того рангу сталкер, щоб працювати лопатою. Ми знайдемо для вас гіднішу роботу.</text>
-	</string>
-
-	<string id="val_scientist_smart_scientist_final_scaner_dialog_5">
-		<text>Дякую. До зустрічі.</text>
-	</string>
-
-	<string id="val_bandits_base_barmen_kitchen_dialog_0">
-		<text>Що ти тут робиш?</text>
-	</string>
-
-	<string id="val_bandits_base_barmen_kitchen_dialog_1">
-		<text>Так я це, працюю на торговця зі Смітника. За посилкою прийшов.</text>
-	</string>
-
-	<string id="val_bandits_base_barmen_kitchen_dialog_2">
-		<text>Це я зрозумів. А чого ти тут трешся, ходиш тут по всій базі? Винюхуєш щось?</text>
-	</string>
-
-	<string id="val_bandits_base_barmen_kitchen_dialog_3">
-		<text>Я це... Не знаю, як сказати. У мене з баблом зараз напряг, а пожерти дуже хочеться. Бачу, кухня стоїть, та ще й пахне так смачно, думав, вхоплю щось.</text>
-	</string>
-
-	<string id="val_bandits_base_barmen_kitchen_dialog_4">
-		<text>А-ха-ха, ну ти й чортяка. Гаразд, ти приходь за годинку. Нагодуємо ми тебе, бомжаро. А поки що не крутися під ногами.</text>
-	</string>
-
-	<string id="val_bandits_base_barmen_kitchen_dialog_5">
-		<text>А що на вечерю?</text>
-	</string>
-
-	<string id="val_bandits_base_barmen_kitchen_dialog_6">
-		<text>А от і дізнаєшся. Чеши поки звідси.</text>
-	</string>
-
-	<string id="val_bandits_base_barmen_kitchen_dialog_7">
-		<text>До зустрічі.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_0">
-		<text>Які новини?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_1">
-		<text>Справу виконано.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_2">
-		<text>Так швидко? Молодець! Все пройшло чітко?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_3">
-		<text>Думаю, що так.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_4">
-		<text>Що значить «думаю, що так»? Точно все добре?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_5">
-		<text>Один з бандитів мене помітив. Але те, як я підсипав у польову кухню порошок, він не бачив.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_6">
-		<text>Це найголовніше. Так, гаразд, висуваємось до сховку приблизно за пару годин. На заправці навпроти бази наша людина, він непомітно спостерігає за нею. Щойно подасть сигнал, ми рушимо.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_7">
-		<text>З вибухівкою питання вирішили?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_8">
-		<text>Я тобі більше скажу: ми знаємо, як відчинити двері, тому підривати її не доведеться. А от вибухівку ми потратимо на іншу справу.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_9">
-		<text>На яку?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_10">
-		<text>Ну як на яку? Ти ж відшукав ще один вхід у лабораторію. Непогано було б його запечатати, враховуючи, що чутки Зоною ширяться швидко, і скоро про нього вже кожна собака знати буде. Доки в нас є час, даю завдання зробити це тобі. Ось тобі вибуховий пакет, йди, рвони там все добряче. Коли знадобиться домомога, я тобі маякну.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_dynamite_dialog_11">
-		<text>Добре. Вирушаю.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_ready_dialog_0">
-		<text>Усі зібрались.</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_ready_dialog_1">
-		<text>Ну що? Все готово?</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_ready_dialog_2">
-		<text>Та сплять вони всі, як рідненькі! А хто не заснув  -  його проблеми. Будемо обережні. У нас не так багато часу, тож діємо максимально швидко. Все, погнали!</text>
-	</string>
-
-	<string id="val_bandits_base_desertir_ready_dialog_3">
-		<text>Погнали.</text>
-	</string>
-
-	<string id="val_bandit_desertir_treasure_start_dialog_0">
-		<text>Так, поки ми будемо розбиратись з дверима, ти шукай те, що тобі треба. З тобою піде мій приятель: так безпечніше. Потім кулею сюди. Зрозумів?</text>
-	</string>
-
-	<string id="val_bandit_desertir_treasure_start_dialog_1">
-		<text>Зрозумів. Вже біжу.</text>
-	</string>
-
-	<string id="val_bandit_desertir_treasure_start_dialog_2">
-		<text>Стривай. Нещодавно купка відморозків зачинила у підвалі одного сталкера. Німим кличуть, здається. Я хоч і з бандитами, але не всі їхні вчинки розумію та поділяю. Невідомо, що з ним вчинять. Зазирни туди по дорозі, якщо вдасться. Може, звільниш. Лише не затягуй: у нас занадто мало часу!</text>
-	</string>
-
-	<string id="val_bandit_desertir_treasure_start_dialog_3_1">
-		<text>Так, а брата-сталкера кидати тут геть не хочеться. Варто спробувати. Я пішов.</text>
-	</string>
-
-	<string id="val_bandit_desertir_treasure_start_dialog_3_2">
-		<text>Він вже на свободі, за це не хвилюйся. Ну, я пішов.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_11">
-		<text>Даров, мужик! Не хош по воронам пострілять?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_111">
-		<text>Хочу.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_1111">
-		<text>Отлічна. Із варіантів у меня тут ігра на інтерес, на гроші ілі на рекорд. Шо з етого до душі?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_112">
-		<text>Ні, щось не тягне.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_1121">
-		<text>Ну, як хош. Як шо, я сігда тут.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_21">
-		<text>Оце твої бабоси, як обіщав. Усьо чесно. Ну шо, хош іще пострілять?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_31">
-		<text>Та всім не фарт буває. Може, ще попробувати хош?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_41">
-		<text>Куди ж ето ти звалив, мужик? Стрільба за оградой  -  це уже твоя лічна справа. Може, все-таки тут за всємі правилами пострілять хош?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_51">
-		<text>Триндєть потім будем  -  у тя ж время цокає, рубиш?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_511">
-		<text>Зрозумів.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_0">
-		<text>На гроші.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_1">
-		<text>От еті слова я люблю! Ну, по правилам тобі уже затирать не треба, да?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_11">
-		<text>Так. Стріляймо вже.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_111">
-		<text>Не базар, мужик! Ну, як думаєш, скільки ворон за хвилину встигнеш винести?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_111111">
-		<text>Згода.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_1111111">
-		<text>Зашибісь. Ну, мужик, готуй ствол.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_11111111">
-		<text>Угу.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_111112">
-		<text>У мене нема таких грошей.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_1111121">
-		<text>Ну, може, вибереш шо собі по карману?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_11111211">
-		<text>Так, виберу іншу кількість гав.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_11111212">
-		<text>Ні, не цікаво.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_111112121">
-		<text>Ну так можна на інтерес зіграти. Або на рекорд, тіки це реально б'є по кишені. Шо скажеш?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_12">
-		<text>Ні, все ж розкажи.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_121">
-		<text>На гроші  -  це найвеселіше. Говориш мені, скіко ворон кінчиш за хвилину, ставиш бабоси й вперьод. Якшо всьо як треба, пацан сказав  -  пацан сдєлав, то получаєш назад свої й ще стільки ж згори. Якшо ні  -  гроші мої. І врахуй, чим більше птічок, тим вищі ставки.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_money_13">
-		<text>Щось мені перехотілося грати.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_questions_0">
-		<text>Є якісь загальні правила?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_questions_1">
-		<text>Та, щітай, ніяких. Я засікаю врем'я, ти готуєшся і по сигналу починаєш гасить. Успієш за минуту зняти стока, скока треба  -  молодця, герой. А вже як ти їх будеш гасить, це твойо діло. Тока врахуй, вийдеш за цю ограду  -  гру завершено. Ну так шо: на інтерес, на гроші, на рекорд?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_quit_0">
-		<text>Щось нічого не приваблює.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_quit_1">
-		<text>Як хош. Якшо шо, я сігда тут.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_record_0">
-		<text>На рекорд.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_record_11">
-		<text>Почнімо.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_record_1111">
-		<text>Згоден.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_record_11111">
-		<text>Ну шо, зара глянем, який з тебя чемпіон!</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_record_1112">
-		<text>Згоден, але грошей нема.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_record_11121">
-		<text>Ну так є варіанти попрощє: на гроши або вобщє на інтерес. Шо скажеш?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_record_1113">
-		<text>Я... передумав.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_record_12">
-		<text>Нагадай правила.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_record_121">
-		<text>Це для настоящих отцов. Якшо чуствуєш, шо можеш побить старий рекорд  -  робиш ставку, ну, адекватно рекорду. Якшо ти в натурє рекорд перешибаєш, я тобі ці бабки в двойном розмірі оддаю. Ну й титул чемпіона тобі  -  не хрєн собачий. Ну а як ні, так тут уже бабоси мені остануться.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_record_13">
-		<text>Я... передумав.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_training_0">
-		<text>На інтерес.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_training_1">
-		<text>Тренуваннячко? Правила шариш?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_training_11">
-		<text>Угу. Стріляймо вже.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_training_111">
-		<text>Згода. Ну, скока ворон подужаєш?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_training_11111">
-		<text>Добре. Ану розчехляйся.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_training_111111">
-		<text>Угу.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_training_21">
-		<text>Ні. Розкажи.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_training_211">
-		<text>Ну, на інтерес  -  це якшо ти бабла получить не хош. Так, потренуроваться, або якшо настрій плохий. Рішаєш, скока ворон соб'єш за хвилину, і пробуєш це здєлать.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_training_31">
-		<text>Я передумав.</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_training_311">
-		<text>Не вопрос. Ну, вибір усьо тот же: на гроші ілі на рекорд. Шо скажеш?</text>
-	</string>
-
-	<string id="val_bandit_bookmaker_hello_61">
-		<text>Ващє нормально пострєляв! Тобі б на бабос іграть  -  самоє оно. Ну, ще пострєлять хош?</text>
-	</string>
-
-	<string id="val_bandits_commentators_11">
-		<text>Бляха, от ета пір'я летять, када з вертикалки гасиш! Ну ващє!..</text>
-	</string>
-
-	<string id="val_bandits_commentators_111">
-		<text>Кхм... Піду я, чи що.</text>
-	</string>
-
-	<string id="val_bandits_commentators_12">
-		<text>Шо, мужик, тоже пєрнатих ненавидиш? Та ти не напрягайся, тут таких нас много!</text>
-	</string>
-
-	<string id="val_bandits_commentators_13">
-		<text>Ну, шо стоїш? Давай, бєй тварюк, шоб шмаття кроваві в усі боки!</text>
-	</string>
-
-	<string id="val_bandits_trader_start_dialog_0">
-		<text>Розкажи про себе.</text>
-	</string>
-
-	<string id="val_bandits_trader_start_dialog_1">
-		<text>Е-е, брат, я іщо при Союзі комерцію двигав! Був етім самим... которі «прокляті спекулянти». Погорів на серйозній сдєлці, ну й получив по полной. Одмотав, шо присудили, а заодно і знайомих завів серед народу воровського. Як одкинувся, почав із крадунами працювать, їхнє хапане брати. За три роки знову пов'язали, а вийшов, так «совок» уже пару років як накрився. Не зрослось шось в мене із новими порядками, довго по мілочі всякой працювати пришлось, бідний став зовсім, а тут бац  -  Зона нарисувалась. Я давай сюди, а тут лафа: майже всьо як в старі врємєна! Із моїм опитом тут щас торгувать  -  саме то. Сначала на Свалкє тусив з мужиками, потом сюда перебрався. Двох паханов уже пережив! Монгол мене напоминає Йогу, той ше змійониш. Чую, жде його судьба така же, шо і мого первого пахана.</text>
-	</string>
-
-	<string id="val_bandits_trader_start_dialog_2">
-		<text>Дякую.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_1_phrase_0_1">
-		<text>Чуєш, фраєре, котився б ти звідси! За прохід всяких волоцюг на базу я відповідати не збираюсь, тобі до парадного входу.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_1_phrase_0_2">
-		<text>Мужик, ти зі входом трохи наплутав. Чеши-но ти крізь парадний, щоб мені зайвих проблем не отримати через всяке сміття, типу тебе.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_1_phrase_0_3">
-		<text>Вали звідси, бомжаро! Якщо тобі до бугра треба, так через головний вхід проходь: тут лише наші пацани можуть ходити.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_1_phrase_0_4">
-		<text>Ану ти звалюєш звідси, фраєре, доки я сам тебе не стер. Якщо до бугра треба  -  вали до головного входу.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_1_phrase_0_5">
-		<text>Геть сталкірня страх втратила! Ти шо забув тут? Вхід на базу з цього боку всяким голодранцям зачинений, тобі  -  крізь головний!</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_1_phrase_1_1">
-		<text>Не гарякуй. Вже йду.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_1_phrase_1_2">
-		<text>Вважай, ти мене не бачив.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_1_phrase_1_3">
-		<text>Іду.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_1_phrase_1_4">
-		<text>Все, я пішов.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_1_phrase_1_5">
-		<text>Зрозумів. Спокійніше.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_2_phrase_0_1">
-		<text>Чуєш, зальотний, ти шо тут трешся? Якщо до бурга треба, так тобі з іншого боку заходити треба: тут виключно наші авторитети можуть пройти, січеш?</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_2_phrase_0_2">
-		<text>Фраєре, вали звідси, поки ноги цілі! Зайти на нашу територію можна лише через головний вхід... якщо тебе туди пустять, звісно.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_2_phrase_0_3">
-		<text>Розвертайся і чеши, звідки прийшов, сталкерок. Якщо до Монгола прийшов, так тобі з іншого боку заходити: тут ми чужих не пускаєм.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_2_phrase_0_4">
-		<text>Ану вали, шо вилупився? З вапросами до бугра чеши, а потрапити до нього можна з іншого боку.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_2_phrase_0_5">
-		<text>Вали отсудова, сталкере, не до тебе зараз. Якщо є діло до Монгола, то попасти на базу можеш лише з боку заправки... якщо наші тебе не обдеруть, хе-хе!</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_2_phrase_1_1">
-		<text>Не буду вас турбувати.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_2_phrase_1_2">
-		<text>Лише не гарячкуйте. Я вже розвертаюсь.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_2_phrase_1_3">
-		<text>Все-все, я вже йду.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_2_phrase_1_4">
-		<text>Вже звалюю.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_2_phrase_1_5">
-		<text>Нехай щастить.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_3_phrase_0_1">
-		<text>Чуєш, зальотний, розвертайся й вали отсудова, доки я добрий! Якщо до Монгола діло, так це тобі правіше, через головний вхід: ми чужих не пускаєм.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_3_phrase_0_2">
-		<text>Фраєре, йшов би ти отсюда подалі, бо раптом шльопнем. Якщо тобі дуже треба бугор, то домовляйся з пацанами біля парадного входу, січеш?</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_3_phrase_0_3">
-		<text>Ти б валив куди подалі, сталкере! З усіма вашими дипломатичними ділами вали через головний вхід. Мене лише відривати не треба, січеш?</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_3_phrase_0_4">
-		<text>Ти шо тут швендяєш, пес бродячий? Ти до бугра? Тоді тобі через парадний, домовляйся там з пацанами, не зі мною.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_3_phrase_0_5">
-		<text>Зовсім страх втратив, сталкере? Не в тому ти місці, щоб одному тинятись. Вали, поки ноги цілі! А якщо ти по ділу до Монгола, то тобі до пацанів біля головного входу. Добрі будуть  -  пустять. Все, зникни.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_3_phrase_1_1">
-		<text>Вже розвертаюсь.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_3_phrase_1_2">
-		<text>Вважай, мене тут не було.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_3_phrase_1_3">
-		<text>Все, вже йду.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_3_phrase_1_4">
-		<text>Звалюю. Не гарячкуй.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_dialog_3_phrase_1_5">
-		<text>Вже звалюю.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_0">
-		<text>Пригальмуй, фраєре. Ти часом не до бугра нашого? Тоді доведеться забашляти!</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_1_1">
-		<text>Не було такої угоди. Я прийшов забрати артефакти для торговця.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_1_2">
-		<text>Я тут випадково. Вже йду.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_2">
-		<text>Нам зараз не до угод. Наші пацани збираються в рейд через радіоактивні поля, а у нас дефіцит з препаратами від радіації. Якщо дістанеш десяток антирадів, зможеш забрати свої срані артефакти, ми своє слово тримаємо.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_3_1">
-		<text>Тримай антиради.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_3_2">
-		<text>У мене самого дефіцит з антирадами...</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_4_1">
-		<text>Ну от, можеш же, коли хочеш! Можеш проходити. Решту теж попереджу, щоб не пресували тебе. Все, давай швидше!</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_4_2">
-		<text>Ну... можемо й інакше домовитися: або башляєш нам гроші замість антирадів, тисячі чотири, або тягнеш якийсь артефакт, який виводить радіацію, а можеш і антиради спробувати роздобути. У місцевих з ферми можна дізнатись про це, але ми з ними не ладимо.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_5_1">
-		<text>Іду я, іду.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_5_2_1">
-		<text>Ех, ось тобі антиради.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_5_2_2">
-		<text>Візьми гроші.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_5_2_3">
-		<text>Ось артефакт.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_first_dialog_5_2_4">
-		<text>Гараз, подивлюсь, що можна придумати...</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_0">
-		<text>Ти куди так хутко чешеш, баклане? Ти до бугра нашого? Нє, так не годиться, дядю. Придеться тобі дещо для нас зробити.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_1_1">
-		<text>Такої угоди взагалі не було. Мені треба лише забрати артефакти.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_1_2">
-		<text>Я тут випадково. Вважай, ти мене не бачив.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_2">
-		<text>Плювати нам зараз на ваші сталкерські угоди. Притягни нам десяток антирадів, тоді й поговоримо. Одна з наших груп на днях збирається в рейд, там місця радіоактивні, а у нас недостача препаратів. Притягнеш  -  забереш свої атефакти, нам чужого не треба.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_3_1">
-		<text>Ось антиради.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_3_2">
-		<text>Та у мене самого проблеми з препаратами...</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_4_1">
-		<text>Прекрасно, а ти був проти! Ну все, зарулюй давай, а я нашим передам, щоб тебе не трогали.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_4_2">
-		<text>В принципі, є ще пара варіантів: або башляєш нам гроші замість антирадів, тисячі чотири, або тягнеш якийсь артефакт, який виводить радіацію, а можеш і антиради спробувати роздобути. У місцевих з ферми можна дізнатись про це, але ми з ними не ладимо.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_5_1">
-		<text>Спасибі.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_5_2_1">
-		<text>Гаразд, ось антиради.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_5_2_2">
-		<text>Візьми грошима.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_5_2_3">
-		<text>Забирай артефакт.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_task_second_dialog_5_2_4">
-		<text>Добре, спробую щось вигадати.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_search_task_first_dialog_0">
-		<text>Дістав, що тебе просили?</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_search_task_second_dialog_0">
-		<text>Ну шо, найшов антиради?</text>
-	</string>
-
-	<string id="val_bandits_base_passage_lock_search_task_dialog_none">
-		<text>Ще ні...</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_0">
-		<text>Сталкере! Невже хтось зі своїх!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_1">
-		<text>Ти хто такий будеш, як тут опинився?</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_2">
-		<text>Німим мене звуть. Бандити притисли практично у долговського КПП перед баром, сволоти! Мені навіть соромно, що якась наволоч в дірявих куртках змогла завалити досвідченого сталкера. Все забрали, покидьки, одягли на мене цей чортів светр, а броньку мою дорогу кудись вже збагрили... Сиджу тепер тут, чахну за цією решіткою.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_3_1">
-		<text>Так ти той самий Німий з групи Лютого? Мужики ж тебе шукають!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_3_2">
-		<text>Так. Буває, що ж. Давно вже тут сидиш?</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_4_1">
-		<text>Нічого собі, який світ тісний! Так, з його групи я, але зараз не найкращий час про це говорити. Зможеш мені допомогти вибратись? Вже третій тиждень тут стирчу!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_4_2">
-		<text>Третій тиждень у цьому сирому підвалі стирчу. Поможи мені вибратись, сталкере!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_5">
-		<text>Я навіть не знаю, як допомогти. У мене немає довіри з боку бандитів.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_6">
-		<text>Вигадай щось, будь ласка! Тут лише один покидьок згори мене стереже.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_7_1">
-		<text>Там просто звідси вибратись не вдасться. Я постараюсь допомогти, коли випаде нагода. Обіцяю.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_start_dialog_7_2">
-		<text>Зараз саме всі мають заснути по одній хитрій схемі. Я спробую тебе витягнуть, чекай.</text>
-	</string>
-
-	<string id="val_bandits_base_prison_watcher_angry_dialog_0">
-		<text>Ану вали звідси, доки не загримів до клітки, як той мудило!</text>
-	</string>
-
-	<string id="val_bandits_base_prison_watcher_angry_dialog_1">
-		<text>Все-все, я вже йду.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_idle_dialog_0_1">
-		<text>Відчини клітку, сталкере! Пульт керування на стіні!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_idle_dialog_0_2">
-		<text>Сталкере, витягни мене звідси!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_idle_dialog_0_3">
-		<text>Мужик, відкрий цю бісову клітку, прошу!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_idle_dialog_1_1">
-		<text>Не панікуй. Зараз.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_idle_dialog_1_2">
-		<text>Зажди, зараз відчиню.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_idle_dialog_1_3">
-		<text>Чекай.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_0">
-		<text>Мужик, красно тобі дякую! Якби не ти...</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_1">
-		<text>Вітаю з виходом на свободу!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_2">
-		<text>Знав би ти, які плани втечі я будував... Думав, все вже, здохну в цій смердючій клітці  -  не стане Німого, і тут з'являєшся ти!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_3_1">
-		<text>Ану вибирайся звідси, мужик. Тобі є куди рухатись далі без споряги?</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_3_2">
-		<text>Так от він хто такий Німий! Тебе твої товариші шукають, я їх на Кордоні бачив. Група Лютого, так?</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_4_1">
-		<text>Є, звичайно! До бару я махну, до своєї групи, до Лютого та решти. Відчуття, наче вічність їх не бачив... От тільки на Кордон заскочу у справах: однак через бандитів на виході з Долини в бар не пройти.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_4_2">
-		<text>А світ то тісний, скільки раз вже переконувався... Так, люди з моєї групи. На Кордоні, говориш? Вони в бар вже напевне рушили, тож я направляюсь туди. От лиш на Кордон заскочу по ділу: одначе через бандитів на виході з Долини до бару не пройти.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_5_1">
-		<text>Розумію тебе. Сам потрапляв у подібні ситуації, але так сильно, звісно, загриміти не вдавалось.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_5_2">
-		<text>Як же ти примудрився сюди потрапити?</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_6_1">
-		<text>Слухай, підрулюй до бару. Ми як правило засідаємо за долговським КПП, що біля дикої території. У мене лишилась дуже жирна заначка, тож дещо я тобі звідти віддам на пам'ять. Приходь, буду радий тебе бачити, та й хлопці з групи теж!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_6_2">
-		<text>Та йшов в бік армійських складів, вже був майже біля долговського КПП в барі, як мене бандитське кодло притиснуло. Соромно навіть, не зміг з ними впоратись. Забули про це... Слухай, підрулюй до бару. Ми зазвичай засідаємо за долговським КПП, що біля дикої території. У мене лишилась дуже жирна заначка, тож дещо я тобі звідти віддам на пам'ять. Приходь, буду радий тебе бачити, та й народ з групи теж!</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_7">
-		<text>Обов'язково прийду.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_8">
-		<text>Стривай, а як тобі вдалося сюди взагалі потрапити? Що згори, де бандити?</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_9">
-		<text>Довга історія. Головне, бандити дуже міцно сплять, тому тобі час звідси валити, доки вони не прокинулись.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_10">
-		<text>Що ж, щасти тобі. Побачимось в барі.</text>
-	</string>
-
-	<string id="val_stalker_prisoner_final_dialog_11">
-		<text>До зустрічі.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_0">
-		<text>Ну, здоров. Вантаж в тебе?</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_1">
-		<text>Привіт. Якісь ви нервові. Вантажу немає, зате є ось цей КПК.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_2">
-		<text>А що на місці було? Там, де КПК знайшов.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_3">
-		<text>Трупи там... Бій був, напевне. Декілька мутантів, сталкерів та найманців. Наче спочатку мутантів постріляли, а потім одне одного.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_4">
-		<text>Зрозуміло... Хоча, що зрозуміло? Вантажу немає, є купа трупів і є ти. Ти, до речі, як там взагалі опинився?</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_5">
-		<text>Люди кинули сигнал SOS, ну мене Костур і послав.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_6">
-		<text>От дебіли! Гаразд, спаситель хрінів, тримай невеличку нагороду за КПК.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_7">
-		<text>Дякую, ввічлива людино.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_8">
-		<text>Не стібись, сталкере. Мені конче потрібно знайти вантаж, а тобі напевне зайнятись нічим і бабки потрібні, ну й шукати когось з боку мені зараз ніколи. Слухай уважно: ось тобі запасне місце зустрічі на випадок непередбачуваних обставин, туди колона мала вирушити у випадку якихось непоняток. Підеш з моєю людиною, він тебе прикриє. Придете, оглянетесь, потім доповісте.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_9">
-		<text>Зрозуміло. А сам чому не сходиш з підручним?</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_10">
-		<text>А тому, розумнику, що мені треба бути тут на той випадок, якщо все ж частина групи вирішить сюди повернутись. Досить розмов. З тобою піде Гриня.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_leader_start_dialog_11">
-		<text>Вибору у мене, напевно, немає. Гаразд, ходімо прогуляємося з ним.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_follower_final_dialog_0">
-		<text>Вибач, сталкере, але у мене щодо тебе конкретні вказівки.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_follower_final_dialog_1">
-		<text>От воно що... І навіщо сюди волочились? Не місці прикінчити не судилося? Дарма лише топали.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_follower_final_dialog_2">
-		<text>Чому ж дарма? Я дійсно перевірив, порожній табір чи ні, а ти мені був замість відмички від аномалій по дорозі.</text>
-	</string>
-
-	<string id="val_composer_task_stalker_follower_final_dialog_3">
-		<text>Покидьки!</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_0">
-		<text>Ну, шо вилупився? Вставай, можеш навіть спасибі сказати, хи-хи!</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_1">
-		<text>Спасибі... А ти хто?</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_2">
-		<text>Хто-хто, дід Пихто, бляха. Моя погрємуха  -  Купа.</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_3">
-		<text>Яка ще купа? А ти як... Чого ти тут?</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_4">
-		<text>Як, чого, куди?! Ти прям слідак якийсь! Я, щоб ти знав, пацан чьоткий, бєспрєдєл не люблю. Бачу, людина потрапила в біду  -  ну чого типу не помогти, воно ж потім защитається. Правильно я кажу?</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_5">
-		<text>Ніколи не бачив таких порядних бандитів.</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_6">
-		<text>Чуєш, ти це, зара обідно було, коротше! Ну я ж тобі говорю, Купа  -  пацан нормальний, бєспрєдєла не любить, з неба зірок не хапає, але й сам не лох, поняв?</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_7">
-		<text>Та поняв я, поняв. Лише не дуже вірю я в добрих самаритян у бандитських комбезах...</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_8">
-		<text>Та мені ващє побоку, в кого ти там віриш. Вір хоч в табуретку, тока не забудь, що Купа твою шкуру зара спас і, як розумієш, сподівається на цю... послугу у відповідь.</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_9">
-		<text>Не здивував. Що за послуга?</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_10">
-		<text>Коротше, диви сюди: зараз Візира валити взагалі не варіант, тим паче неясно, хто його кришує, але й тусити тут теж не варіант: вони ж скоро за твоїм конвоїром припруться. Тепер ти у них на прицілі за будь-яких розкладів!</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_11">
-		<text>Це зрозуміло, але тобі ж яка з цього вигода, Купо? Тебе разом зі мною грохнуть!</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_12">
-		<text>А тема така: бачив я, що було на тому місці, де група сталкерів коробку тягнули і, походу, в ній ніштяки важливі лежать, якщо сам Візир у кіпіші. Чуйка в мене на це. І світить ці ніштяки вони явно не хочуть, якщо надумали грохнути тебе. Типа менше челів в темі  -  менше лівого кіпіша і непотрібної балаканини. Заодно й бабла на рило більше виходить.</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_13">
-		<text>Так я й не претендував. Ти що конкретно пропонуєш?</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_14">
-		<text>Загалом, нам коробку по-любому знайти треба. Були їхні ніштяки  -  стали наші, сам я це не допру, тому ти мені підсобиш у якості відповідної послуги. А ще я знаю, куди приблизно йти, а як знайдемо, так відразу майнемо до потрібних людей. Січеш?</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_15">
-		<text>Січу. Куди треба йти?</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_16">
-		<text>На Смітник. Я притирив один КПК з трупа сталкера ще до того, як ти приперся. Коротше, схрон у мене там невеличкий намалювався. Почитати треба, що в цьому КПК, бо ти з цими двіжухами ні фіга не встиг.</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_start_dialog_17">
-		<text>Пішли.</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_info_dialog_0">
-		<text>Розкажи про себе.</text>
-	</string>
-
-	<string id="val_composer_task_bandit_savior_info_dialog_1">
-		<text>Ну, хе-хе, нормальний пацан про себе не тріпається зайвий раз, шоб не зглазили!</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_dialog_0">
-		<text>Матері його ковінька, налякав!</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_dialog_1">
-		<text>Привіт. А дозволь питання одне: хто ти й що тут відбувається?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_dialog_2">
-		<text>Фух, аж серце в п'яти пішло! І тобі не хворати, мандрівниче. Ох, дістав вже... Та от, який-не-який пристрій намагаюсь зробити, а деталі однієї не вистачає... точніше, кількох деталей. Звати мене Гарпуном. Слухай, допоможеш мені? Нагорода буде щедрою.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_dialog_3">
-		<text>Допомогти поможу, але мені цікаво, що ти намагаєшся зробити?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_dialog_4">
-		<text>Радіоприймач. Точніше, щось на нього подібне і потужніше. Для цього мені, власне, потрібно саме радіо. І світильник електричний.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_dialog_5">
-		<text>А світильник навіщо?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_dialog_6">
-		<text>Розумієш, щоб посилити сигнал, треба хоч якась напруга. Дивись, скільки тут пристроїв. З цього всього я збираюсь робити й генератор, а для його створення не вистачає світильника.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_dialog_7">
-		<text>Ну, добре. А в чому пастка? Ти сказав, що заплатиш щедро.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_dialog_8">
-		<text>Так, пастка є. Я знаю місця, де все це роздобути. Світильник, як і радіо, можна пошукати в гаражі, що біля входу до закинутої лабораторії знаходиться  -  там напевне багато всілякого сміття та старої електроніки. Лише от я посилав вже до тебе одного хлопчину  -  не повернувся. Може, забив, а може... а може, й сталося щось з ним.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_dialog_9">
-		<text>Гаразд, спробую розв'язати твою проблему, але ніяких гарантій давати не буду.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_idle_dialog_0_1_1">
-		<text>Знайшов щось?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_idle_dialog_0_2_1">
-		<text>Як ідуть пошуки?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_idle_dialog_0_3_1">
-		<text>Ну що, як успіхи?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_idle_dialog_1_1_1">
-		<text>У процесі.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_idle_dialog_1_2_1">
-		<text>Поки нічого не знайшов.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_idle_dialog_1_3_1">
-		<text>Буде що показати  -  дам знати.</text>
-	</string>
-
-	<string id="val_stalker_technic_friend_task_start_dialog_0">
-		<text>Привіт, нове обличчя. Чогось хотів?</text>
-	</string>
-
-	<string id="val_stalker_technic_friend_task_start_dialog_1">
-		<text>Привіт. Так, хотілося б дещо дізнатись. Хто ви?</text>
-	</string>
-
-	<string id="val_stalker_technic_friend_task_start_dialog_2">
-		<text>Дуже незвичне і, певною мірою, ідіотське питання. Ми  -  група сталкерів, які просто тут живуть. Точніше, тепер живемо. Займаємось звичайними речами, збираємо артефакти, заробляємо гроші... та як і кожен. Мене от Рилом звати.</text>
-	</string>
-
-	<string id="val_stalker_technic_friend_task_start_dialog_3">
-		<text>Добре. Хто цей Гарпун? Що за людина?</text>
-	</string>
-
-	<string id="val_stalker_technic_friend_task_start_dialog_4">
-		<text>Та від початку з нами в принципі. Людина непогана, лише замкнута. Він у нас в ролі своєрідного інженера.</text>
-	</string>
-
-	<string id="val_stalker_technic_friend_task_start_dialog_5">
-		<text>Тобто, він через замкнутість «проживає» окремо?</text>
-	</string>
-
-	<string id="val_stalker_technic_friend_task_start_dialog_6">
-		<text>Не зовсім. Сказав, що ми будемо йому заважати, тому грає тут образ істинного самітника.</text>
-	</string>
-
-	<string id="val_stalker_technic_friend_task_start_dialog_7">
-		<text>А він завжди з вами був?</text>
-	</string>
-
-	<string id="val_stalker_technic_friend_task_start_dialog_8">
-		<text>Ні. Колись давно існувало таке угрупування. Забув вже... дослідженнями займались. Коли розпалось, то зустрівся з ними випадково. В принципі, це все, що ми знаємо про нього.</text>
-	</string>
-
-	<string id="val_stalker_technic_friend_task_start_dialog_9">
-		<text>Зрозуміло. Я піду, мабуть.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_0">
-		<text>Приніс? У тебе все гаразд? І що сталося з попереднім?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_1">
-		<text>Тримай свої хріновини. А зниклого шукати не варто. Там він, обсмоктаний кровопивцями лежить. І все ж, у мене до тебе питання...</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_2">
-		<text>Валяй. Ох, так, про нагороду... Візьми грошенят. Думаю, згодяться.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_3">
-		<text>Дякую. Тепер до питання: чому така велика сума за звичайне кур'єрське прохання?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_4">
-		<text>По-перше, я сказав, що плата буде щедрою. По-друге, ти мене розкусив: світильник мені потрібен не для радіоприймача. Я свого роду колекціонер. Різного роду техніку та іншу лабуду збираю. Ось це, наприклад, один з найрідкісніших екземплярів.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_5">
-		<text>Я зрозумів. Це вже не моя справа. А у тебе ще є щось? Ну, може, ще щось пошукати для тебе?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_6">
-		<text>Грошенят захотілось? Розумію. Дай-но подумаю... Є одне діло, лише от зараз я про це не хотів би говорити.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_7">
-		<text>Це якась таємниця?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_8">
-		<text>Певним чином. Ти приходь сюди ж, але згодом, коли я завершу деякі справи. Я тобі маякну.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_9">
-		<text>Добре. Ти мене заінтригував.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_10">
-		<text>Повір, це того вартує.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_dialog_11">
-		<text>До зустрічі.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_0">
-		<text>А, це ти. Отже, справа така...</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_1">
-		<text>Не придурюйся і не тупи. Пума теж старався.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_2">
-		<text>Та я й не збирався.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_3">
-		<text>Що сталося на фермі й хто ти такий? Я в курсі, що ти не колекціонер.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_4">
-		<text>Правильно. Гадаю, якщо не скажу, то помру?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_5">
-		<text>Ти до біса правий.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_6">
-		<text>Моя історія починається з угрупування «Чисте небо». Був рядовим бійцем і захоплювався всілякими технічними пристроями. Я вчився у техніка Новікова... думаю, ти не знаєш, хто це. Загалом, примудрився я якось підслухати одну розмову нашого головнокомандувача з підмайстром, і проскочило там дещо про «псі-випромінювання», «О-Свідомість», «Стрілець». Як виявилось, головний був колишнім робітником цього «О-Свідомості». Це вже завдяки чуткам та пліткам, що поширились, стало відомо після того, як угрупування розпалось. І якось я подумав: А чому б не створити власний, кишеньковий псі-випромінювач? Це ж яка зброя, подумай. Тут розпочався набір до невеликої групи сталкерів. Подумавши, я долучився. Потім, коли облаштувались тут, зрозумів, що це ідеальне місце  -  і от, сьогодні історичний день настав. Отже, я не проти продовжити справи цих вже видатних людей, тому сталкери перетворились на ці овочі. А Пума мені потрібен був для ліквідації свідка... тобто, тебе.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_7">
-		<text>Ну, дякую за пояснення. Як ти живий лишився?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_8">
-		<text>Шолом, дитинко. У ньому вся суть.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_9">
-		<text>Як ти його перенести збирався? Воно ж здоровенне, я бачив, що ти будував.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_10">
-		<text>А яка вже різниця? Тепер у мене питання: що далі?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_11_1">
-		<text>Думаю, відповідь очевидна: я не потрібен тобі, як зайві очі твоїх вчинків. У мене ж нема приводу тобі довіряти й немає вірогідності, що ти мені не пустиш кулю, коли я відвернусь від тебе.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_11_2_1">
-		<text>Отже, так: зараз ти йдеш, вирубаєш цю хрінь, щоб ніхто більше не вляпався. Навіть ні: ти її при мені рвонеш. А я збережу твою таємницю: мені проблеми не потрібні. Але якщо ще раз тебе побачу  -  всі дізнаються, хто ти. Повір, у мене є тут друзі, які донесуть інформацію кому треба, якщо зі мною щось станеться. Все ясно?</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_first_dialog_11_2_2">
-		<text>Я дізнався все, що хотів. Випромінювач твій мені вдалось розвалити, і зараз ми спокійно розійдемось. Якщо ще колись тебе зустріну  -  пристрелю.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_second_dialog_0">
-		<text>Ех...</text>
-	</string>
-
-	<string id="val_stalker_technic_task_final_second_dialog_1">
-		<text>Що «ех»? Радій, що живий лишився! Будь-який інший би тебе давно пристрелив! А тепер розходимось. Одне одного не знаємо.</text>
-	</string>
-
-	<string id="val_bandits_base_bandits_idle_dialog_0_1">
-		<text>Що шашки вилупив?</text>
-	</string>
-
-	<string id="val_bandits_base_bandits_idle_dialog_0_2">
-		<text>Чуєш, тобі че треба, фраєр?</text>
-	</string>
-
-	<string id="val_bandits_base_bandits_idle_dialog_0_3">
-		<text>Не штовхайся під ногами, мавпа!</text>
-	</string>
-
-	<string id="val_bandits_base_bandits_idle_dialog_0_4">
-		<text>Зроби кабіну простіше, так і хочеться на неї бак злити.</text>
-	</string>
-
-	<string id="val_bandits_base_bandits_idle_dialog_0_5">
-		<text>Ти окропом давно ссався? Ніколи? Отже, почнеш, дефективний, якщо зараз не зникнеш з мого поля зору.</text>
-	</string>
-
+  <string id="val_bandits_garbage_dialog_0">
+    <text>Ну і шо це ти тут забув, пацане?</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_1_1">
+    <text>Та я що, просто гуляю...</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_1_2">
+    <text>Гуляй в іншому місці, фраєре. Тут тобі робити нічого!</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_1_3">
+    <text>Все-все, йду.</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_1_4">
+    <text>Та пішов ти!</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_2_1">
+    <text>Я до вашого головного від Костура. Мені треба забрати посилку.</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_2_2">
+    <text>А, зрозумів. Жени бабосики й можеш проходити.</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_2_3">
+    <text>Які ще бабосики? Торговець мені про це нічого не казав.</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_2_4">
+    <text>А я тобі говорю. Давай бабки, тоді пропустимо. Якщо не хочеш платити  —  чеши в обхід. Твоє право.</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_2_5">
+    <text>І де обхід?</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_2_6">
+    <text>А я знаю? Не мої проблеми.</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_2_7">
+    <text>Гаразд. Обхід я знайду, але як доберусь до бази  —  пахан ваш дізнається, що ви в його колеса палки встромляєте.</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_2_8">
+    <text>Чуєш, ти чого пір'я розпустив? Проходь, ми не будемо тебе чіпати. Лише погрожувати нам не треба.</text>
+  </string>
+  <string id="val_bandits_garbage_dialog_2_9">
+    <text>Зрозумів. Проходжу.</text>
+  </string>
+  <string id="val_bandits_base_leader_dialog_case_0">
+    <text>Що треба?</text>
+  </string>
+  <string id="val_bandits_base_leader_dialog_case_1">
+    <text>Здоров, я від Костура. Прийшов за посилкою.</text>
+  </string>
+  <string id="val_bandits_base_leader_dialog_case_2">
+    <text>Новенький? Тоді слухай: це наша база, а отже, ти тут гість. Пам'ятай про це. Щоб не буянив тут! Второпав?</text>
+  </string>
+  <string id="val_bandits_base_leader_dialog_case_3">
+    <text>Все зрозуміло, я лише візьму кейс й звалю звідси.</text>
+  </string>
+  <string id="val_bandits_base_leader_dialog_case_4">
+    <text>Гроші вперед.</text>
+  </string>
+  <string id="val_bandits_base_leader_dialog_case_5_1">
+    <text>Тримай.</text>
+  </string>
+  <string id="val_bandits_base_leader_dialog_case_5_2">
+    <text>У мене не вистачає. Я скоро повернусь.</text>
+  </string>
+  <string id="val_bandits_base_leader_dialog_case_6">
+    <text>Все, можеш валити звідси. Раджу без потреби тут особливо не крутитися.</text>
+  </string>
+  <string id="val_bandits_base_leader_dialog_case_7">
+    <text>Все зрозумів. Йду.</text>
+  </string>
+  <string id="val_bandits_base_leader_dialog_case_two_0">
+    <text>Гроші приніс?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_0">
+    <text>Чого трешся тут?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_1">
+    <text>Мимохіть. Вже йду.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_2">
+    <text>Бачу, засцяв?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_3">
+    <text>Чому це?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_4">
+    <text>У тебе ноги ледь не трусяться, дивись, не обгидься тут! Чого напружився? Думаєш, бандити, значить, будуть пресувати тебе тут?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_5">
+    <text>Чесно? Думаю, з вами треба бути акуратно.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_6">
+    <text>Ну, загалом, правильно ти думаєш, але ти не сци. Ти, як я зрозумів, будеш посилки тягати від звалищного бариги?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_7">
+    <text>Поки так.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_8">
+    <text>Ну, ясно. Я тут це... бригаду збираю для однієї справи й, якщо тобі торгаш таке діло довірив, отже, сталкер ти путній. Не бажаєш приєднатися?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_9">
+    <text>А що за справа? Наліт, гоп-стоп, грабунки?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_10">
+    <text>Чуєш, ти нас з бандосами зі смітнику не порівнюй! Ті  —  вкрай відморожені. Ми ж тут, можна сказати, більш лояльні.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_11">
+    <text>Що у вас за справа така?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_12">
+    <text>Я збираю групу, щоб розвідати одне місце.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_13">
+    <text>І що за місце?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_14">
+    <text>Знаєш про закинутий завод, тут, неподалік?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_15_1">
+    <text>Ні, не чув.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_15_2">
+    <text>Пробігав повз.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_16_1">
+    <text>Ну, коротше, він тут поблизу. Там ще вхід в лабораторію X-18 знаходиться. Раніше ми його контролювали, пресували всяких сталкерів, які любили закинутими лабораторіями шастати  —  який-не-який заробіток був. Потім в тому місці сталася якась хрінотінь: одного разу зв'язались з пацанами, як вони там, а у відповідь  —  тиша. Ну, думаємо, може, зв'язок після викиду барахлить. Послали пару хлопців перевірити те місце. Повертаються за годину, всі захекані, перелякані, я запитую: «Ви чого? Що трапилось?» А вони мені й почали втирати: «Там пацани висять, мертві всі!» Я питаю: «Ви курили? В сенсі, висять?»</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_16_2">
+    <text>Отже, чув, мабуть, що там вхід в лабораторію X-18 знаходиться. Так от, раніше ми його контролювали, пресували всяких сталкерів, які любили закинутими лабораторіями шастати  —  який-не-який заробіток був. Потім в тому місці сталася якась хрінотінь: одного разу зв'язались з пацанами, як вони там, а у відповідь  —  тиша. Ну, думаємо, може, зв'язок після викиду барахлить. Послали пару хлопців перевірити те місце. Повертаються за годину, всі захекані, перелякані, я запитую: «Ви чого? Що трапилось?» А вони мені й почали втирати: «Там пацани висять, мертві всі!» Я питаю: «Ви курили? В сенсі, висять?»</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_17">
+    <text>А вони що?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_18">
+    <text>Ну, відхекались і почали розповідати, мовляв, прийшли на завод, а там тиша. Заходять до середини і там всі пацани наші мертві, та ще й розкидані навколо. Хтось на балці під дахом висить, хтось  —  на стіні... Наче їх хтось взяв і як ялинкові прикраси розвішав. Я, звичайно, не відразу повірив  —  пішов сам зганяв. Близько підходити не став, підійшов до воріт  —  дійсно, хрінь якась. Думаю, гаразд, мало чи що там трапилось. Зберу пацанів, сходимо, розвідаємо місце. Прийшов на базу, а зі мною ніхто йти не хоче  —  чути швидко розбіглися, і у нас це місце потрапило до чорного списку. Ніхто туди нізащо йти не хоче.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_19">
+    <text>Отакої... Ну і що, вдалось когось в бригаду зібрати?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_20">
+    <text>Трьох зібрав. Якщо ти ще погодишся, то рушимо.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_21">
+    <text>Який мій інтерес?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_22">
+    <text>Я заплачу. Чотири косарі є. Раптом що, потім ще підкину, якщо будуть труднощі.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_23">
+    <text>Гаразд, годиться. Коли вирушаємо?</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_24">
+    <text>Мої пацани чергують неподалік від заводу. Підемо туди, згрупуємося і зайдемо.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_25_1">
+    <text>Зрозумів. Ну, тоді ходімо.</text>
+  </string>
+  <string id="val_bandits_base_desertir_quest_dialog_25_2">
+    <text>Прямо зараз? У мене деякі справи. Ти йди, а я здожену.</text>
+  </string>
+  <string id="val_bandits_base_desertir_angry_dialog_0">
+    <text>Бляха, ну де ти ходиш? Ми тут задовбались сраки відсиджувати.</text>
+  </string>
+  <string id="val_bandits_base_desertir_angry_dialog_1_1">
+    <text>Я готовий. Ходімо.</text>
+  </string>
+  <string id="val_bandits_base_desertir_angry_dialog_1_2">
+    <text>Почекайте ще трохи.</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_0">
+    <text>Нічогенька така прогулянка!</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_1">
+    <text>Овва! Це що за тварюка така?</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_2">
+    <text>Та хєр її знає! На звичайного полтергейста вона геть не схожа, шкіра навіть іншого кольору. Звідки вона тільки тут взялась?</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_3">
+    <text>Ти ж сам казав, що тут вхід до підземелля. Може, звідти вона родом?</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_4">
+    <text>Не знаю. Можливо.</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_5">
+    <text>Сподіваюсь, вона безплідна, і дітей в неї немає.</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_6">
+    <text>Перевірити б це напевне... Я не зможу тут вести справи, якщо під боком у нас буде мешкати така нечисть.</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_7">
+    <text>Підірвімо прохід у підземку, та й годі?</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_8">
+    <text>А на хріна ми тоді зачистили це місце? Завалимо прохід  —  сюди ніхто ходити не буде, а отже, ні з кого нам буде бабоси рубати.</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_9">
+    <text>Не думав я, що сталкерів цікавлять підземки. Що там цікавого може бути? Мені мій друган розповідав, що X-18 ще кілька років тому знайшли. За цей час там вже все розтягли, мабуть.</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_10">
+    <text>Без образ, хлопче, але я думав, що з досвідчених. Питання в тебе геть дурні. Це не просто підземелля, а закинута лабораторія. Скільки б там не винесли, ще купа всього цікавого може бути. А легенду про те, що в підземеллях можна відшукати дорогі артефакти, чув? Думаю, це не просто легенда. Був у нас тут один сталкер, часто навідувався до підземки, платив великі кошти, але однак приходив знову і знову. Значить, була йому вигода, логічно? Лише з останньої ходки до підземелля він не повернувся. Помер, мабуть.</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_11">
+    <text>В будь-якому разі, мені байдуже щодо цього. Я свою частину роботи виконав?</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_12">
+    <text>Я за свій базар відповідаю. Попрацював  —  тримай обіцяні бабки. І, раптом що, заходь до нас. Роботу для тебе завжди знайдемо.</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_13">
+    <text>Дякую. Хай щастить вашому бізнесу!</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_14">
+    <text>І тобі навзаєм! Невеличка порада, і сподіваюсь, не будеш мене мати за шестірку після цього: отже, якщо й надалі будеш мати справи з Монголом, то раджу завжди все перевіряти. Просто будь акуратним з ним. Це тобі просто така невеличка порада у якості нагороди за допомогу.</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_15">
+    <text>Що ти маєш на увазі?</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_16">
+    <text>Лише те, що сказав. Йому взути таких сталкерів як ти,  —  раз плюнути.</text>
+  </string>
+  <string id="val_bandits_base_desertir_final_quest_dialog_17">
+    <text>Дякую за попередження, щасти.</text>
+  </string>
+  <string id="val_bandits_base_desertir_idle_dialog_0">
+    <text>Овва! А ось і наш спеціаліст з нечисті! Чого бажаємо?</text>
+  </string>
+  <string id="val_bandits_base_desertir_idle_dialog_two_0">
+    <text>Вітаю. Що треба?</text>
+  </string>
+  <string id="val_bandits_base_desertir_idle_dialog_three_0">
+    <text>Є новини?</text>
+  </string>
+  <string id="val_bandits_base_desertir_idle_dialog_three_1_0">
+    <text>Поки нічого цікавого.</text>
+  </string>
+  <string id="val_bandits_base_desertir_idle_dialog_four_0">
+    <text>Не затягуй. Треба забрати дурь і засунути козлам у їжу.</text>
+  </string>
+  <string id="val_bandits_base_desertir_idle_dialog_four_1">
+    <text>Іду.</text>
+  </string>
+  <string id="val_bandits_base_desertir_idle_dialog_three_1_1">
+    <text>Дізнався інфу про вхід, але піду спочатку перевірю.</text>
+  </string>
+  <string id="val_bandits_base_leader_angry_dialog_0">
+    <text>Що за діла? Всередині вашого кейса нема артефактів!</text>
+  </string>
+  <string id="val_bandits_base_leader_angry_dialog_1">
+    <text>Шо? Ти здурів?</text>
+  </string>
+  <string id="val_bandits_base_leader_angry_dialog_2">
+    <text>Я віддав гроші, гроші торговця, а ви свою частину угоди не виконали. Артефактів у кейсі немає.</text>
+  </string>
+  <string id="val_bandits_base_leader_angry_dialog_3">
+    <text>Мізків в тебе немає, оленю. Тобі дали кейс з артефактами, а те, що ти їх не доніс до торговця  —  лише твої проблеми. Де ти був весь цей час? Відразу все перевіряти треба, франте, бо пішов їх пропив, а тепер пред'яву мені кидаєш. За це я б тобі роги збив, та шкода стосунки з торговцем псувати. Вали звідси!</text>
+  </string>
+  <string id="val_bandits_base_leader_angry_dialog_4">
+    <text>Але мені потрібні ці артефакти.</text>
+  </string>
+  <string id="val_bandits_base_leader_angry_dialog_5">
+    <text>Без проблем. Тягни п'ятдесят косарів, ми тобі їх зберемо.</text>
+  </string>
+  <string id="val_bandits_base_leader_angry_dialog_6">
+    <text>Все ясно...</text>
+  </string>
+  <string id="val_bandits_base_leader_idle_dialog_0">
+    <text>Чого тобі, сталкерочку?</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_0">
+    <text>Привіт, це знову я. Загалом, твоя пропозиція про роботу ще в силі?</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_1">
+    <text>Звісно, в силі. У нас є певні плани на це місце, тому справ багато. А ти чого не на Смітнику?</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_2">
+    <text>Якщо коротко, ти мав слушність щодо Монгола, тому робота мені не завадить.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_3">
+    <text>Та пішов він. Скажу тобі по секрету. Ми хочемо злиняти від нього: дістав. Але треба це провернути мирним способом: все ж там братків на базі багато. Якщо щось зайве ляпнеш йому, нас вони за раз порішають. Але то таке, думки вголос. Нумо ближче до справи.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_4">
+    <text>Відразу прояснімо, що я не буду займатись різного роду мокрухою та йти проти вільних сталкерів.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_5">
+    <text>А я тобі цього й не пропоную. За це ми самі візьмемось, якщо доведеться. Ми тобі можемо й іншу роботу запропонувати. Станеш нашим спільником. Гроші лопатою гребти не будеш, але й голодранцем з нами не зостанешся.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_6">
+    <text>Пропозиція цікава, але б мені хотілось краще знати, на що я підписуюсь.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_7">
+    <text>Для початку треба розв'язати нашу проблему,  —  перевірити чи немає в підземеллі лігва цих тварюк. Я з тобою відправлю двох хлопців. Ось тобі ключ для входу. Розвідайте ситуацію, і якщо помітите щось, схоже на цю тварюку  —  відразу драпайте звідти, бо втрачати більше людей я не хочу. Ми тут поки що на поверхні займемось справами.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_8">
+    <text>Добре. Якщо лише розвідка, то я згоден.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_idle_0">
+    <text>Дуй до лабораторії!</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_idle_1">
+    <text>Угу.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_0">
+    <text>Невже! Я вже думав, щось трапилось. Що вдалося дізнатись?</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_1">
+    <text>Наштовхнувся на схожу тварюку. Вдалось здолати.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_2">
+    <text>Чому один? Де хлопці?</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_3">
+    <text>Свободівець... Не знаю, як він там опинився, але він напав на нас без попередження.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_4">
+    <text>Який ще свободівець? Ми весь час були тут і нічого не впускали! Якого хєра там сталося?</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_5">
+    <text>Якщо не віриш мені, подивись цей КПК. Я знайшов його в трупі. Там є про якийсь запасний вхід.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_6">
+    <text>Дивно... Не знаю я ніякого додаткового входу.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_7">
+    <text>А втім, він якось туди потрапив  —  ще й озброєний до зубів  —  і шукав мапу сховку. Схоже, цим же займався той багатий сталкер, про якого ти говорив. Я знайшов його труп. Тепер зрозуміло, чому він в підземку так часто навідувався.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_8">
+    <text>Що за мапа?</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_9">
+    <text>Сам подивись, я її зі сталкера зняв. Там відмічено розташування якогось сховку угрупування «Воля», який залишився ще з часів їхнього перебування у Темній долині.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_10">
+    <text>Дивно. Нічого про це не чув, і він прямо під нашою базою. Впевнений, Монгол про це навіть не знає. А що з хлопцями, не вижили?</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_11">
+    <text>Ми розділились. Коли я повернувся, їхні тіла вже обшукував свободівець.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_12">
+    <text>Шкода хлопців. А ти молодець: і з тварюкою розібрався, і дуже цікаву інформацію підкинув. Раптом що, моя пропозиція ще дійсна. Підеш до нас в бригаду?</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_13">
+    <text>Відмовлюсь, напевно. Не вважай за образу, але я не хотів би бути зарахований до бандитів.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_14">
+    <text>Розслабся, я тебе й не змушую. Просто пропоную далі співпрацювати. Якщо в нас буде робота, я обіцяю вчасно платити за її виконання. Обіцяю мокруху не підкидати.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_15">
+    <text>Декілька днів мені й так доведеться стовбичити у Темній долині, тож попрацювати не завадить. Я згоден.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_16">
+    <text>От і чудово. Саме зараз нам потрібно якнайбільше дізнатися про той секретний вхід до лабораторії, крізь який проникнув свободівець. Якщо ми його не запечатаємо і про нього хтось взнає, то весь наш бізнес коту під хвіст.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_17">
+    <text>Є якісь думки?</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_18">
+    <text>Є. На фермі засіли сталкери. Вони тут ще до нас були, тож околиці знають краще. Може, у них вдасться щось дізнатись? Ти у нас пацан, наче як, з хорошою репутацією. Ліпше тобі піти до них.</text>
+  </string>
+  <string id="val_bandits_base_desertir_job_dialog_final_19">
+    <text>Гаразд. Навідаюсь.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_0">
+    <text>Слухай, класна пушка треба? Я на Янтарі чийсь сховок зняв, так там гаусівка, як нова. Віддам всього за 1 500 рублів! Набоїв до неї, однак, немає, а гроші дуже потрібні.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_1">
+    <text>Якась ліва схема. Я відмовлюсь, мабуть. Я насправді до вас у справі.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_2">
+    <text>Купиш пушку  —  буде справа.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_3">
+    <text>Нема у тебе ніякої пушки, що ти мені втираєш?</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_4">
+    <text>Зате 1 500 рубликів у тебе точно є. Заплати й буде розмова.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_5_1">
+    <text>Тримай. Ну й барига ж ти!</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_5_2">
+    <text>От зараза, нема в мене зараз грошей...</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_6_1">
+    <text>Ну от, інша справа. Що хотів?</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_6_2">
+    <text>Розживешся  —  приходь. До інших зі своєю справою без бабок можеш не лізти, я їм передам.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_7_1">
+    <text>Я шукаю інформацію про секретний вхід до лабораторії X-18. Точно знаю, що такий десь є.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_7_2">
+    <text>Бувай.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_8">
+    <text>А тобі воно навіщо, чоловіче?</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_9">
+    <text>Та там бандити по три шкури деруть! Хочу знайти обхідну, щоб можна було за хабарем приходити.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_10">
+    <text>Там же окрім мотлоху нічого нема. Що ти там зібрався шукати?</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_11">
+    <text>Для кого мотлох, а для кого  —  багатство. Стару техніку шукаю.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_12">
+    <text>Тоді зрозуміло, але я не знаю, де такий вхід. Вперше чую.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_13">
+    <text>Ну, жук! Отримав плату за не знаю. Далеко підеш!</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_14">
+    <text>Не гарячкуй. Запитай у Невмійка. Він неподалік від багаття сидить. Має щось знати.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_start_15">
+    <text>Зрозуміло.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_two_0">
+    <text>Ну що, приніс гроші?</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_two_1_1">
+    <text>Забирай.</text>
+  </string>
+  <string id="val_stalker_base_sentence_dialog_two_1_2">
+    <text>Ще ні.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_0_1">
+    <text>Що треба? Геть з очей, мужик.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_0_2">
+    <text>Не мішайся під ногами. Йди у своїх справа.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_0_3">
+    <text>Чого ти тут трешся? Йди погуляй.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_0_4">
+    <text>Я тебе слухаю.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_0_5">
+    <text>Говори.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_0_6">
+    <text>Що хотів?</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_1_1">
+    <text>Якийсь ти нервовий.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_1_2">
+    <text>Привіт. Ти Невмійко? Мені сказали, що ти можеш допомогти мені з одним питанням.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_2">
+    <text>Це я. Що за питання?</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_3">
+    <text>Я шукаю таємний вхід до лабораторії X-18. Бандити, суки, деруть бабло  —  невигідно через них.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_4">
+    <text>Я тобі теж задарма не допоможу, вже вибачай. Зараз задурно ділитись інформацією  —  заборонена розкіш, особливо для нас. Бандити навколо, теж від них постраждали немало.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_5">
+    <text>Що ти хочеш за інформацію? Гаус-пушку я у вас вже купив...</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_6">
+    <text>Гроші мені не потрібні. Допоможи мені краще в одній справі. Ти на вигляд бувалий, тож, гадаю, впораєшся.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_7">
+    <text>Що треба зробити?</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_8">
+    <text>Тут за пару сотню метрів від ферми є аномалія «розлом». Поблизу неї я помітив цікавий артефакт, але дістати не зміг: намагався його взяти, а ніяк. Потім ще голова розболілась і я пішов. Дивне якесь місце, раніше там такого не помічав. Може, тобі вдасться?</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_start_dialog_9">
+    <text>Досвід видобутку артефактів наче є. Схожу, спробую дістати, але гляди: якщо інформацію не даси, то я його собі лишу.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_wait_dialog_0">
+    <text>Що там з артефактом?</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_wait_dialog_1">
+    <text>Поки не дістав.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_final_dialog_0">
+    <text>Ти де так довго тиняєшся? Дістав артефакт?</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_final_dialog_1">
+    <text>Ось твій артефакт. Такої чортівні я раніше не зустрічав...</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_final_dialog_2">
+    <text>Овва, який незвичайний... Що ще за чортівня? На тобі лиця немає. Обгидився там чи що?</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_final_dialog_3">
+    <text>Коли я намагався взяти артефакт, він переміщався на кілька метрів від мене. Потім стали з'являтись якісь примарні сталкери, а під кінець на мене напали тварюки, що нагадували контролерів.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_final_dialog_4">
+    <text>Не здалось все тоді мені, що там щось не так. Що ж далі було?</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_final_dialog_5">
+    <text>Коли вдалось розібратися з тварюками, в очах все потьмяніло. Прийшов до тями вже вранці, всього цього вже не було, був лише артефакт, що мирно лежав переді мною.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_final_dialog_6">
+    <text>Еге ж. У мене минулого разу там башка розболілась, більш-менш опам'ятався через кілька годин. Гаразд, як і домовлялись, скидаю тобі на КПК приблизне розташування входу. Акуратніше там: Всередині повно всілякої нечисті.</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_final_dialog_7">
+    <text>Дякую. Бувай.</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_0">
+    <text>Ну нарешті!</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_1">
+    <text>Що сталося?</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_2">
+    <text>Ми подумали щодо знайденої тобою карти сховку «Волі». Народився план, як непомітно й без зайвого шуму його обчистити.</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_3">
+    <text>В сенсі, обчистити? А як же Монгол? Я думав, ви розкажете своєму лідеру, що під базою знаходяться припаси, затим спокійно їх дістанете.</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_4">
+    <text>Пішли ми від нього. Більше ми до їхньої банди не належимо і віднині самі по собі.</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_5">
+    <text>Ось воно що. З цим будуть пов'язані якісь наслідки?</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_6">
+    <text>Не думаю. Ми підтягнули ще пацанів, тож тепер наш табір не так просто буде взяти, навіть якщо Монгол щось таке задумає... але не стане він нічого робити, я в цьому переконаний.</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_7">
+    <text>Але як ви збираєтесь сховок без шуму та без жертв обнести? Там з два десятки голів на базі!</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_8">
+    <text>Проявимо кмітливість. І ти нам у цьому допоможеш.</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_9">
+    <text>Чому я?</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_10">
+    <text>Тому що ти по факту працюєш з групою Монгола, і твоя поява на базі не буде дивною. А якщо ми там з'явимося, після того, як звалили від нього, це вже буде дивно.</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_11">
+    <text>А який план взагалі?</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_12">
+    <text>Отже, слухай: ми тут одного розумника знаємо, він готовий нам продати одну наркоту. Ми нею накачаємо весь табір, а потім непомітно, доки вони дрихнуть, обнесемо сховок. Як план? Геніально ж?</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_13">
+    <text>Сумнівно. Яким чином це все збираєшся провернути?</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_14">
+    <text>Все просто. Я там не один місяць чалився на цій базі, все знаю, типа. Можна сипанути наркоту в польову кухню: вони похавають, потім на бокову. Хто від обіду відмовиться  —  прикладом по мармизі спіймає і все. Ніхто навіть не дізнається, хто їх усіх надурив, а тобі обіцяю гідну винагороду. Я тебе коли-небудь ображав з цим?</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_15">
+    <text>Не ображав... Я тут хоч на спорягу заробив. Що я маю зробити?</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_16">
+    <text>Зустрічаєшся з вченим, купуєш наркоту і на базу чешеш. Там непомітно сипонеш порошок і все. Решту ми робимо самі.</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_17">
+    <text>Я згоден, у мене з ним давні рахунки. Але у мене свої умови: я не претендую на свободівський сховок. Мені просто потрібна одна річ, яка знаходиться у Монгола. Якщо ви допоможете мені її здобути, то я з вами.</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_18">
+    <text>Я в тобі й не сумнівався! З твоїм питанням, звичайно, допоможемо  —  забереш ти свою річ. А тепер про справи: я зараз готую хлопців і дам їм інструкції. Треба ще буде вибухівку притарабанити, щоб двері до сховку підірвати... якщо ніяк не зможемо їх відчинити. А ти тим часом йди до вченого: він саме у службових справах у Долині. Ось тобі бабки, купиш у нього дурь. Після цього йдеш на базу і тут вже будь дуже обережним. Щоб жодний щур не бачив, як ти щось сиплеш. Щойно вони поляжуть, ми зайдемо і спокійно обчистимо сховок. Все зрозумів?</text>
+  </string>
+  <string id="val_bandit_desertir_bandit_alarm_message_dialog_19">
+    <text>Зрозумів! Вирушаю.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_0">
+    <text>Так?</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_1">
+    <text>Привіт! Я за товаром. Вас мали попередити.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_2">
+    <text>О, привіт! Так, мені повідомили, що ви прийдете. Ось ваш пакет.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_3">
+    <text>Це ваша охорона?</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_4">
+    <text>Звичайно. Без охорони співробітники нашого комплексу нікуди не виходять.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_5">
+    <text>А що ви так далеко забули від бази? Вона ж на «Агропромі», так?</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_6">
+    <text>Правильно. Треба терміново виконати певні заміри, а, як на зло, у розпорядженні керівництва не виявилось жодного найманого сталкера. Доводиться у таких випадках нам таку роботу виконувати. А загалом, я люблю такі вилазки. Від лабораторних робіт потрібні подібні перерви. Щоправда, сьогодні задачка у мене не з простих.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_7">
+    <text>А в чому річ?</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_8">
+    <text>Тут утворилась унікальна аномалія. Подібні з'являються дуже рідко, тому її хотілося б детально дослідити.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_9">
+    <text>«Електра» як «Електра», на вигляд...</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_10">
+    <text>Їх тут дуже багато. Ще мене тривожить, що вона утворилась поруч з болотом, біля хімічної аномалії. Мені буде цікава їхня взаємодія. Може, у процесі з'являться якісь нові артефакти. Треба якось поставити сканер, щонайближче до епіцентру, а вона мене не пускає.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_11">
+    <text>Поставити збоку не вдасться?</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_12">
+    <text>Вдасться, але тоді з'явиться привід сумніватись у якості отриманих даних.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_13_1">
+    <text>Ану я спробую? Я чув, що «Електри» можна розряджати, закидуючи її болтами. Може, щось вдасться.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_13_2">
+    <text>Зрозумів. Ну, хай вам тут щастить, а мені пора.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_14">
+    <text>Ви дуже нам допоможете.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_first_dialog_15">
+    <text>Спробую.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_idle_dialog_0_1">
+    <text>Здрастуйте.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_idle_dialog_0_2">
+    <text>Так?</text>
+  </string>
+  <string id="val_scientist_smart_scientist_idle_dialog_1_1">
+    <text>Всього найкращого.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_idle_dialog_1_2">
+    <text>До зустрічі.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_wait_scaner_dialog_0">
+    <text>Вам вдається?</text>
+  </string>
+  <string id="val_scientist_smart_scientist_wait_scaner_dialog_1">
+    <text>Зараз, хвилину.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_final_scaner_dialog_0">
+    <text>Бачу, вам вдалося!</text>
+  </string>
+  <string id="val_scientist_smart_scientist_final_scaner_dialog_1">
+    <text>Еге ж, непроста була задачка. Нормально поставив сканер?</text>
+  </string>
+  <string id="val_scientist_smart_scientist_final_scaner_dialog_2">
+    <text>Все чудово! Дякую за допомогу. Знаєте, що? Я поки не можу нічим заплатити, але ви обов'язково приходьте до нас в комплекс й знайдіть там мене. Наступного тижня я буду працювати у відділі вивчення рослинності. Обов'язково буде для вас робота... звичайно ж, оплачувана.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_final_scaner_dialog_3">
+    <text>Скопати города?</text>
+  </string>
+  <string id="val_scientist_smart_scientist_final_scaner_dialog_4">
+    <text>Ха-ха! Думаю, ви не того рангу сталкер, щоб працювати лопатою. Ми знайдемо для вас гіднішу роботу.</text>
+  </string>
+  <string id="val_scientist_smart_scientist_final_scaner_dialog_5">
+    <text>Дякую. До зустрічі.</text>
+  </string>
+  <string id="val_bandits_base_barmen_kitchen_dialog_0">
+    <text>Що ти тут робиш?</text>
+  </string>
+  <string id="val_bandits_base_barmen_kitchen_dialog_1">
+    <text>Так я це, працюю на торговця зі Смітника. За посилкою прийшов.</text>
+  </string>
+  <string id="val_bandits_base_barmen_kitchen_dialog_2">
+    <text>Це я зрозумів. А чого ти тут трешся, ходиш тут по всій базі? Винюхуєш щось?</text>
+  </string>
+  <string id="val_bandits_base_barmen_kitchen_dialog_3">
+    <text>Я це... Не знаю, як сказати. У мене з баблом зараз напряг, а пожерти дуже хочеться. Бачу, кухня стоїть, та ще й пахне так смачно, думав, вхоплю щось.</text>
+  </string>
+  <string id="val_bandits_base_barmen_kitchen_dialog_4">
+    <text>А-ха-ха, ну ти й чортяка. Гаразд, ти приходь за годинку. Нагодуємо ми тебе, бомжаро. А поки що не крутися під ногами.</text>
+  </string>
+  <string id="val_bandits_base_barmen_kitchen_dialog_5">
+    <text>А що на вечерю?</text>
+  </string>
+  <string id="val_bandits_base_barmen_kitchen_dialog_6">
+    <text>А от і дізнаєшся. Чеши поки звідси.</text>
+  </string>
+  <string id="val_bandits_base_barmen_kitchen_dialog_7">
+    <text>До зустрічі.</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_0">
+    <text>Які новини?</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_1">
+    <text>Справу виконано.</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_2">
+    <text>Так швидко? Молодець! Все пройшло чітко?</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_3">
+    <text>Думаю, що так.</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_4">
+    <text>Що значить «думаю, що так»? Точно все добре?</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_5">
+    <text>Один з бандитів мене помітив. Але те, як я підсипав у польову кухню порошок, він не бачив.</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_6">
+    <text>Це найголовніше. Так, гаразд, висуваємось до сховку приблизно за пару годин. На заправці навпроти бази наша людина, він непомітно спостерігає за нею. Щойно подасть сигнал, ми рушимо.</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_7">
+    <text>З вибухівкою питання вирішили?</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_8">
+    <text>Я тобі більше скажу: ми знаємо, як відчинити двері, тому підривати її не доведеться. А от вибухівку ми потратимо на іншу справу.</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_9">
+    <text>На яку?</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_10">
+    <text>Ну як на яку? Ти ж відшукав ще один вхід у лабораторію. Непогано було б його запечатати, враховуючи, що чутки Зоною ширяться швидко, і скоро про нього вже кожна собака знати буде. Доки в нас є час, даю завдання зробити це тобі. Ось тобі вибуховий пакет, йди, рвони там все добряче. Коли знадобиться домомога, я тобі маякну.</text>
+  </string>
+  <string id="val_bandits_base_desertir_dynamite_dialog_11">
+    <text>Добре. Вирушаю.</text>
+  </string>
+  <string id="val_bandits_base_desertir_ready_dialog_0">
+    <text>Усі зібрались.</text>
+  </string>
+  <string id="val_bandits_base_desertir_ready_dialog_1">
+    <text>Ну що? Все готово?</text>
+  </string>
+  <string id="val_bandits_base_desertir_ready_dialog_2">
+    <text>Та сплять вони всі, як рідненькі! А хто не заснув  —  його проблеми. Будемо обережні. У нас не так багато часу, тож діємо максимально швидко. Все, погнали!</text>
+  </string>
+  <string id="val_bandits_base_desertir_ready_dialog_3">
+    <text>Погнали.</text>
+  </string>
+  <string id="val_bandit_desertir_treasure_start_dialog_0">
+    <text>Так, поки ми будемо розбиратись з дверима, ти шукай те, що тобі треба. З тобою піде мій приятель: так безпечніше. Потім кулею сюди. Зрозумів?</text>
+  </string>
+  <string id="val_bandit_desertir_treasure_start_dialog_1">
+    <text>Зрозумів. Вже біжу.</text>
+  </string>
+  <string id="val_bandit_desertir_treasure_start_dialog_2">
+    <text>Стривай. Нещодавно купка відморозків зачинила у підвалі одного сталкера. Німим кличуть, здається. Я хоч і з бандитами, але не всі їхні вчинки розумію та поділяю. Невідомо, що з ним вчинять. Зазирни туди по дорозі, якщо вдасться. Може, звільниш. Лише не затягуй: у нас занадто мало часу!</text>
+  </string>
+  <string id="val_bandit_desertir_treasure_start_dialog_3_1">
+    <text>Так, а брата-сталкера кидати тут геть не хочеться. Варто спробувати. Я пішов.</text>
+  </string>
+  <string id="val_bandit_desertir_treasure_start_dialog_3_2">
+    <text>Він вже на свободі, за це не хвилюйся. Ну, я пішов.</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_11">
+    <text>Даров, мужик! Не хош по воронам пострілять?</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_111">
+    <text>Хочу.</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_1111">
+    <text>Отлічна. Із варіантів у меня тут ігра на інтерес, на гроші ілі на рекорд. Шо з етого до душі?</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_112">
+    <text>Ні, щось не тягне.</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_1121">
+    <text>Ну, як хош. Як шо, я сігда тут.</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_21">
+    <text>Оце твої бабоси, як обіщав. Усьо чесно. Ну шо, хош іще пострілять?</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_31">
+    <text>Та всім не фарт буває. Може, ще попробувати хош?</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_41">
+    <text>Куди ж ето ти звалив, мужик? Стрільба за оградой  —  це уже твоя лічна справа. Може, все-таки тут за всємі правилами пострілять хош?</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_51">
+    <text>Триндєть потім будем  —  у тя ж время цокає, рубиш?</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_511">
+    <text>Зрозумів.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_0">
+    <text>На гроші.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_1">
+    <text>От еті слова я люблю! Ну, по правилам тобі уже затирать не треба, да?</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_11">
+    <text>Так. Стріляймо вже.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_111">
+    <text>Не базар, мужик! Ну, як думаєш, скільки ворон за хвилину встигнеш винести?</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_111111">
+    <text>Згода.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_1111111">
+    <text>Зашибісь. Ну, мужик, готуй ствол.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_11111111">
+    <text>Угу.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_111112">
+    <text>У мене нема таких грошей.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_1111121">
+    <text>Ну, може, вибереш шо собі по карману?</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_11111211">
+    <text>Так, виберу іншу кількість гав.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_11111212">
+    <text>Ні, не цікаво.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_111112121">
+    <text>Ну так можна на інтерес зіграти. Або на рекорд, тіки це реально б'є по кишені. Шо скажеш?</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_12">
+    <text>Ні, все ж розкажи.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_121">
+    <text>На гроші  —  це найвеселіше. Говориш мені, скіко ворон кінчиш за хвилину, ставиш бабоси й вперьод. Якшо всьо як треба, пацан сказав  —  пацан сдєлав, то получаєш назад свої й ще стільки ж згори. Якшо ні  —  гроші мої. І врахуй, чим більше птічок, тим вищі ставки.</text>
+  </string>
+  <string id="val_bandit_bookmaker_money_13">
+    <text>Щось мені перехотілося грати.</text>
+  </string>
+  <string id="val_bandit_bookmaker_questions_0">
+    <text>Є якісь загальні правила?</text>
+  </string>
+  <string id="val_bandit_bookmaker_questions_1">
+    <text>Та, щітай, ніяких. Я засікаю врем'я, ти готуєшся і по сигналу починаєш гасить. Успієш за минуту зняти стока, скока треба  —  молодця, герой. А вже як ти їх будеш гасить, це твойо діло. Тока врахуй, вийдеш за цю ограду  —  гру завершено. Ну так шо: на інтерес, на гроші, на рекорд?</text>
+  </string>
+  <string id="val_bandit_bookmaker_quit_0">
+    <text>Щось нічого не приваблює.</text>
+  </string>
+  <string id="val_bandit_bookmaker_quit_1">
+    <text>Як хош. Якшо шо, я сігда тут.</text>
+  </string>
+  <string id="val_bandit_bookmaker_record_0">
+    <text>На рекорд.</text>
+  </string>
+  <string id="val_bandit_bookmaker_record_11">
+    <text>Почнімо.</text>
+  </string>
+  <string id="val_bandit_bookmaker_record_1111">
+    <text>Згоден.</text>
+  </string>
+  <string id="val_bandit_bookmaker_record_11111">
+    <text>Ну шо, зара глянем, який з тебя чемпіон!</text>
+  </string>
+  <string id="val_bandit_bookmaker_record_1112">
+    <text>Згоден, але грошей нема.</text>
+  </string>
+  <string id="val_bandit_bookmaker_record_11121">
+    <text>Ну так є варіанти попрощє: на гроши або вобщє на інтерес. Шо скажеш?</text>
+  </string>
+  <string id="val_bandit_bookmaker_record_1113">
+    <text>Я... передумав.</text>
+  </string>
+  <string id="val_bandit_bookmaker_record_12">
+    <text>Нагадай правила.</text>
+  </string>
+  <string id="val_bandit_bookmaker_record_121">
+    <text>Це для настоящих отцов. Якшо чуствуєш, шо можеш побить старий рекорд  —  робиш ставку, ну, адекватно рекорду. Якшо ти в натурє рекорд перешибаєш, я тобі ці бабки в двойном розмірі оддаю. Ну й титул чемпіона тобі  —  не хрєн собачий. Ну а як ні, так тут уже бабоси мені остануться.</text>
+  </string>
+  <string id="val_bandit_bookmaker_record_13">
+    <text>Я... передумав.</text>
+  </string>
+  <string id="val_bandit_bookmaker_training_0">
+    <text>На інтерес.</text>
+  </string>
+  <string id="val_bandit_bookmaker_training_1">
+    <text>Тренуваннячко? Правила шариш?</text>
+  </string>
+  <string id="val_bandit_bookmaker_training_11">
+    <text>Угу. Стріляймо вже.</text>
+  </string>
+  <string id="val_bandit_bookmaker_training_111">
+    <text>Згода. Ну, скока ворон подужаєш?</text>
+  </string>
+  <string id="val_bandit_bookmaker_training_11111">
+    <text>Добре. Ану розчехляйся.</text>
+  </string>
+  <string id="val_bandit_bookmaker_training_111111">
+    <text>Угу.</text>
+  </string>
+  <string id="val_bandit_bookmaker_training_21">
+    <text>Ні. Розкажи.</text>
+  </string>
+  <string id="val_bandit_bookmaker_training_211">
+    <text>Ну, на інтерес  —  це якшо ти бабла получить не хош. Так, потренуроваться, або якшо настрій плохий. Рішаєш, скока ворон соб'єш за хвилину, і пробуєш це здєлать.</text>
+  </string>
+  <string id="val_bandit_bookmaker_training_31">
+    <text>Я передумав.</text>
+  </string>
+  <string id="val_bandit_bookmaker_training_311">
+    <text>Не вопрос. Ну, вибір усьо тот же: на гроші ілі на рекорд. Шо скажеш?</text>
+  </string>
+  <string id="val_bandit_bookmaker_hello_61">
+    <text>Ващє нормально пострєляв! Тобі б на бабос іграть  —  самоє оно. Ну, ще пострєлять хош?</text>
+  </string>
+  <string id="val_bandits_commentators_11">
+    <text>Бляха, от ета пір'я летять, када з вертикалки гасиш! Ну ващє!..</text>
+  </string>
+  <string id="val_bandits_commentators_111">
+    <text>Кхм... Піду я, чи що.</text>
+  </string>
+  <string id="val_bandits_commentators_12">
+    <text>Шо, мужик, тоже пєрнатих ненавидиш? Та ти не напрягайся, тут таких нас много!</text>
+  </string>
+  <string id="val_bandits_commentators_13">
+    <text>Ну, шо стоїш? Давай, бєй тварюк, шоб шмаття кроваві в усі боки!</text>
+  </string>
+  <string id="val_bandits_trader_start_dialog_0">
+    <text>Розкажи про себе.</text>
+  </string>
+  <string id="val_bandits_trader_start_dialog_1">
+    <text>Е-е, брат, я іщо при Союзі комерцію двигав! Був етім самим... которі «прокляті спекулянти». Погорів на серйозній сдєлці, ну й получив по полной. Одмотав, шо присудили, а заодно і знайомих завів серед народу воровського. Як одкинувся, почав із крадунами працювать, їхнє хапане брати. За три роки знову пов'язали, а вийшов, так «совок» уже пару років як накрився. Не зрослось шось в мене із новими порядками, довго по мілочі всякой працювати пришлось, бідний став зовсім, а тут бац  —  Зона нарисувалась. Я давай сюди, а тут лафа: майже всьо як в старі врємєна! Із моїм опитом тут щас торгувать  —  саме то. Сначала на Свалкє тусив з мужиками, потом сюда перебрався. Двох паханов уже пережив! Монгол мене напоминає Йогу, той ше змійониш. Чую, жде його судьба така же, шо і мого первого пахана.</text>
+  </string>
+  <string id="val_bandits_trader_start_dialog_2">
+    <text>Дякую.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_1_phrase_0_1">
+    <text>Чуєш, фраєре, котився б ти звідси! За прохід всяких волоцюг на базу я відповідати не збираюсь, тобі до парадного входу.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_1_phrase_0_2">
+    <text>Мужик, ти зі входом трохи наплутав. Чеши-но ти крізь парадний, щоб мені зайвих проблем не отримати через всяке сміття, типу тебе.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_1_phrase_0_3">
+    <text>Вали звідси, бомжаро! Якщо тобі до бугра треба, так через головний вхід проходь: тут лише наші пацани можуть ходити.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_1_phrase_0_4">
+    <text>Ану ти звалюєш звідси, фраєре, доки я сам тебе не стер. Якщо до бугра треба  —  вали до головного входу.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_1_phrase_0_5">
+    <text>Геть сталкірня страх втратила! Ти шо забув тут? Вхід на базу з цього боку всяким голодранцям зачинений, тобі  —  крізь головний!</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_1_phrase_1_1">
+    <text>Не гарякуй. Вже йду.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_1_phrase_1_2">
+    <text>Вважай, ти мене не бачив.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_1_phrase_1_3">
+    <text>Іду.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_1_phrase_1_4">
+    <text>Все, я пішов.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_1_phrase_1_5">
+    <text>Зрозумів. Спокійніше.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_2_phrase_0_1">
+    <text>Чуєш, зальотний, ти шо тут трешся? Якщо до бурга треба, так тобі з іншого боку заходити треба: тут виключно наші авторитети можуть пройти, січеш?</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_2_phrase_0_2">
+    <text>Фраєре, вали звідси, поки ноги цілі! Зайти на нашу територію можна лише через головний вхід... якщо тебе туди пустять, звісно.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_2_phrase_0_3">
+    <text>Розвертайся і чеши, звідки прийшов, сталкерок. Якщо до Монгола прийшов, так тобі з іншого боку заходити: тут ми чужих не пускаєм.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_2_phrase_0_4">
+    <text>Ану вали, шо вилупився? З вапросами до бугра чеши, а потрапити до нього можна з іншого боку.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_2_phrase_0_5">
+    <text>Вали отсудова, сталкере, не до тебе зараз. Якщо є діло до Монгола, то попасти на базу можеш лише з боку заправки... якщо наші тебе не обдеруть, хе-хе!</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_2_phrase_1_1">
+    <text>Не буду вас турбувати.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_2_phrase_1_2">
+    <text>Лише не гарячкуйте. Я вже розвертаюсь.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_2_phrase_1_3">
+    <text>Все-все, я вже йду.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_2_phrase_1_4">
+    <text>Вже звалюю.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_2_phrase_1_5">
+    <text>Нехай щастить.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_3_phrase_0_1">
+    <text>Чуєш, зальотний, розвертайся й вали отсудова, доки я добрий! Якщо до Монгола діло, так це тобі правіше, через головний вхід: ми чужих не пускаєм.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_3_phrase_0_2">
+    <text>Фраєре, йшов би ти отсюда подалі, бо раптом шльопнем. Якщо тобі дуже треба бугор, то домовляйся з пацанами біля парадного входу, січеш?</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_3_phrase_0_3">
+    <text>Ти б валив куди подалі, сталкере! З усіма вашими дипломатичними ділами вали через головний вхід. Мене лише відривати не треба, січеш?</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_3_phrase_0_4">
+    <text>Ти шо тут швендяєш, пес бродячий? Ти до бугра? Тоді тобі через парадний, домовляйся там з пацанами, не зі мною.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_3_phrase_0_5">
+    <text>Зовсім страх втратив, сталкере? Не в тому ти місці, щоб одному тинятись. Вали, поки ноги цілі! А якщо ти по ділу до Монгола, то тобі до пацанів біля головного входу. Добрі будуть  —  пустять. Все, зникни.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_3_phrase_1_1">
+    <text>Вже розвертаюсь.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_3_phrase_1_2">
+    <text>Вважай, мене тут не було.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_3_phrase_1_3">
+    <text>Все, вже йду.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_3_phrase_1_4">
+    <text>Звалюю. Не гарячкуй.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_dialog_3_phrase_1_5">
+    <text>Вже звалюю.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_0">
+    <text>Пригальмуй, фраєре. Ти часом не до бугра нашого? Тоді доведеться забашляти!</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_1_1">
+    <text>Не було такої угоди. Я прийшов забрати артефакти для торговця.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_1_2">
+    <text>Я тут випадково. Вже йду.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_2">
+    <text>Нам зараз не до угод. Наші пацани збираються в рейд через радіоактивні поля, а у нас дефіцит з препаратами від радіації. Якщо дістанеш десяток антирадів, зможеш забрати свої срані артефакти, ми своє слово тримаємо.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_3_1">
+    <text>Тримай антиради.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_3_2">
+    <text>У мене самого дефіцит з антирадами...</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_4_1">
+    <text>Ну от, можеш же, коли хочеш! Можеш проходити. Решту теж попереджу, щоб не пресували тебе. Все, давай швидше!</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_4_2">
+    <text>Ну... можемо й інакше домовитися: або башляєш нам гроші замість антирадів, тисячі чотири, або тягнеш якийсь артефакт, який виводить радіацію, а можеш і антиради спробувати роздобути. У місцевих з ферми можна дізнатись про це, але ми з ними не ладимо.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_5_1">
+    <text>Іду я, іду.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_5_2_1">
+    <text>Ех, ось тобі антиради.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_5_2_2">
+    <text>Візьми гроші.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_5_2_3">
+    <text>Ось артефакт.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_first_dialog_5_2_4">
+    <text>Гараз, подивлюсь, що можна придумати...</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_0">
+    <text>Ти куди так хутко чешеш, баклане? Ти до бугра нашого? Нє, так не годиться, дядю. Придеться тобі дещо для нас зробити.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_1_1">
+    <text>Такої угоди взагалі не було. Мені треба лише забрати артефакти.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_1_2">
+    <text>Я тут випадково. Вважай, ти мене не бачив.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_2">
+    <text>Плювати нам зараз на ваші сталкерські угоди. Притягни нам десяток антирадів, тоді й поговоримо. Одна з наших груп на днях збирається в рейд, там місця радіоактивні, а у нас недостача препаратів. Притягнеш  —  забереш свої атефакти, нам чужого не треба.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_3_1">
+    <text>Ось антиради.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_3_2">
+    <text>Та у мене самого проблеми з препаратами...</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_4_1">
+    <text>Прекрасно, а ти був проти! Ну все, зарулюй давай, а я нашим передам, щоб тебе не трогали.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_4_2">
+    <text>В принципі, є ще пара варіантів: або башляєш нам гроші замість антирадів, тисячі чотири, або тягнеш якийсь артефакт, який виводить радіацію, а можеш і антиради спробувати роздобути. У місцевих з ферми можна дізнатись про це, але ми з ними не ладимо.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_5_1">
+    <text>Спасибі.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_5_2_1">
+    <text>Гаразд, ось антиради.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_5_2_2">
+    <text>Візьми грошима.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_5_2_3">
+    <text>Забирай артефакт.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_task_second_dialog_5_2_4">
+    <text>Добре, спробую щось вигадати.</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_search_task_first_dialog_0">
+    <text>Дістав, що тебе просили?</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_search_task_second_dialog_0">
+    <text>Ну шо, найшов антиради?</text>
+  </string>
+  <string id="val_bandits_base_passage_lock_search_task_dialog_none">
+    <text>Ще ні...</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_0">
+    <text>Сталкере! Невже хтось зі своїх!</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_1">
+    <text>Ти хто такий будеш, як тут опинився?</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_2">
+    <text>Німим мене звуть. Бандити притисли практично у долговського КПП перед баром, сволоти! Мені навіть соромно, що якась наволоч в дірявих куртках змогла завалити досвідченого сталкера. Все забрали, покидьки, одягли на мене цей чортів светр, а броньку мою дорогу кудись вже збагрили... Сиджу тепер тут, чахну за цією решіткою.</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_3_1">
+    <text>Так ти той самий Німий з групи Лютого? Мужики ж тебе шукають!</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_3_2">
+    <text>Так. Буває, що ж. Давно вже тут сидиш?</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_4_1">
+    <text>Нічого собі, який світ тісний! Так, з його групи я, але зараз не найкращий час про це говорити. Зможеш мені допомогти вибратись? Вже третій тиждень тут стирчу!</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_4_2">
+    <text>Третій тиждень у цьому сирому підвалі стирчу. Поможи мені вибратись, сталкере!</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_5">
+    <text>Я навіть не знаю, як допомогти. У мене немає довіри з боку бандитів.</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_6">
+    <text>Вигадай щось, будь ласка! Тут лише один покидьок згори мене стереже.</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_7_1">
+    <text>Там просто звідси вибратись не вдасться. Я постараюсь допомогти, коли випаде нагода. Обіцяю.</text>
+  </string>
+  <string id="val_stalker_prisoner_start_dialog_7_2">
+    <text>Зараз саме всі мають заснути по одній хитрій схемі. Я спробую тебе витягнуть, чекай.</text>
+  </string>
+  <string id="val_bandits_base_prison_watcher_angry_dialog_0">
+    <text>Ану вали звідси, доки не загримів до клітки, як той мудило!</text>
+  </string>
+  <string id="val_bandits_base_prison_watcher_angry_dialog_1">
+    <text>Все-все, я вже йду.</text>
+  </string>
+  <string id="val_stalker_prisoner_idle_dialog_0_1">
+    <text>Відчини клітку, сталкере! Пульт керування на стіні!</text>
+  </string>
+  <string id="val_stalker_prisoner_idle_dialog_0_2">
+    <text>Сталкере, витягни мене звідси!</text>
+  </string>
+  <string id="val_stalker_prisoner_idle_dialog_0_3">
+    <text>Мужик, відкрий цю бісову клітку, прошу!</text>
+  </string>
+  <string id="val_stalker_prisoner_idle_dialog_1_1">
+    <text>Не панікуй. Зараз.</text>
+  </string>
+  <string id="val_stalker_prisoner_idle_dialog_1_2">
+    <text>Зажди, зараз відчиню.</text>
+  </string>
+  <string id="val_stalker_prisoner_idle_dialog_1_3">
+    <text>Чекай.</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_0">
+    <text>Мужик, красно тобі дякую! Якби не ти...</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_1">
+    <text>Вітаю з виходом на свободу!</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_2">
+    <text>Знав би ти, які плани втечі я будував... Думав, все вже, здохну в цій смердючій клітці  —  не стане Німого, і тут з'являєшся ти!</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_3_1">
+    <text>Ану вибирайся звідси, мужик. Тобі є куди рухатись далі без споряги?</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_3_2">
+    <text>Так от він хто такий Німий! Тебе твої товариші шукають, я їх на Кордоні бачив. Група Лютого, так?</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_4_1">
+    <text>Є, звичайно! До бару я махну, до своєї групи, до Лютого та решти. Відчуття, наче вічність їх не бачив... От тільки на Кордон заскочу у справах: однак через бандитів на виході з Долини в бар не пройти.</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_4_2">
+    <text>А світ то тісний, скільки раз вже переконувався... Так, люди з моєї групи. На Кордоні, говориш? Вони в бар вже напевне рушили, тож я направляюсь туди. От лиш на Кордон заскочу по ділу: одначе через бандитів на виході з Долини до бару не пройти.</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_5_1">
+    <text>Розумію тебе. Сам потрапляв у подібні ситуації, але так сильно, звісно, загриміти не вдавалось.</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_5_2">
+    <text>Як же ти примудрився сюди потрапити?</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_6_1">
+    <text>Слухай, підрулюй до бару. Ми як правило засідаємо за долговським КПП, що біля дикої території. У мене лишилась дуже жирна заначка, тож дещо я тобі звідти віддам на пам'ять. Приходь, буду радий тебе бачити, та й хлопці з групи теж!</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_6_2">
+    <text>Та йшов в бік армійських складів, вже був майже біля долговського КПП в барі, як мене бандитське кодло притиснуло. Соромно навіть, не зміг з ними впоратись. Забули про це... Слухай, підрулюй до бару. Ми зазвичай засідаємо за долговським КПП, що біля дикої території. У мене лишилась дуже жирна заначка, тож дещо я тобі звідти віддам на пам'ять. Приходь, буду радий тебе бачити, та й народ з групи теж!</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_7">
+    <text>Обов'язково прийду.</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_8">
+    <text>Стривай, а як тобі вдалося сюди взагалі потрапити? Що згори, де бандити?</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_9">
+    <text>Довга історія. Головне, бандити дуже міцно сплять, тому тобі час звідси валити, доки вони не прокинулись.</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_10">
+    <text>Що ж, щасти тобі. Побачимось в барі.</text>
+  </string>
+  <string id="val_stalker_prisoner_final_dialog_11">
+    <text>До зустрічі.</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_0">
+    <text>Ну, здоров. Вантаж в тебе?</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_1">
+    <text>Привіт. Якісь ви нервові. Вантажу немає, зате є ось цей КПК.</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_2">
+    <text>А що на місці було? Там, де КПК знайшов.</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_3">
+    <text>Трупи там... Бій був, напевне. Декілька мутантів, сталкерів та найманців. Наче спочатку мутантів постріляли, а потім одне одного.</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_4">
+    <text>Зрозуміло... Хоча, що зрозуміло? Вантажу немає, є купа трупів і є ти. Ти, до речі, як там взагалі опинився?</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_5">
+    <text>Люди кинули сигнал SOS, ну мене Костур і послав.</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_6">
+    <text>От дебіли! Гаразд, спаситель хрінів, тримай невеличку нагороду за КПК.</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_7">
+    <text>Дякую, ввічлива людино.</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_8">
+    <text>Не стібись, сталкере. Мені конче потрібно знайти вантаж, а тобі напевне зайнятись нічим і бабки потрібні, ну й шукати когось з боку мені зараз ніколи. Слухай уважно: ось тобі запасне місце зустрічі на випадок непередбачуваних обставин, туди колона мала вирушити у випадку якихось непоняток. Підеш з моєю людиною, він тебе прикриє. Придете, оглянетесь, потім доповісте.</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_9">
+    <text>Зрозуміло. А сам чому не сходиш з підручним?</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_10">
+    <text>А тому, розумнику, що мені треба бути тут на той випадок, якщо все ж частина групи вирішить сюди повернутись. Досить розмов. З тобою піде Гриня.</text>
+  </string>
+  <string id="val_composer_task_stalker_leader_start_dialog_11">
+    <text>Вибору у мене, напевно, немає. Гаразд, ходімо прогуляємося з ним.</text>
+  </string>
+  <string id="val_composer_task_stalker_follower_final_dialog_0">
+    <text>Вибач, сталкере, але у мене щодо тебе конкретні вказівки.</text>
+  </string>
+  <string id="val_composer_task_stalker_follower_final_dialog_1">
+    <text>От воно що... І навіщо сюди волочились? Не місці прикінчити не судилося? Дарма лише топали.</text>
+  </string>
+  <string id="val_composer_task_stalker_follower_final_dialog_2">
+    <text>Чому ж дарма? Я дійсно перевірив, порожній табір чи ні, а ти мені був замість відмички від аномалій по дорозі.</text>
+  </string>
+  <string id="val_composer_task_stalker_follower_final_dialog_3">
+    <text>Покидьки!</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_0">
+    <text>Ну, шо вилупився? Вставай, можеш навіть спасибі сказати, хи-хи!</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_1">
+    <text>Спасибі... А ти хто?</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_2">
+    <text>Хто-хто, дід Пихто, бляха. Моя погрємуха  —  Купа.</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_3">
+    <text>Яка ще купа? А ти як... Чого ти тут?</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_4">
+    <text>Як, чого, куди?! Ти прям слідак якийсь! Я, щоб ти знав, пацан чьоткий, бєспрєдєл не люблю. Бачу, людина потрапила в біду  —  ну чого типу не помогти, воно ж потім защитається. Правильно я кажу?</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_5">
+    <text>Ніколи не бачив таких порядних бандитів.</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_6">
+    <text>Чуєш, ти це, зара обідно було, коротше! Ну я ж тобі говорю, Купа  —  пацан нормальний, бєспрєдєла не любить, з неба зірок не хапає, але й сам не лох, поняв?</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_7">
+    <text>Та поняв я, поняв. Лише не дуже вірю я в добрих самаритян у бандитських комбезах...</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_8">
+    <text>Та мені ващє побоку, в кого ти там віриш. Вір хоч в табуретку, тока не забудь, що Купа твою шкуру зара спас і, як розумієш, сподівається на цю... послугу у відповідь.</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_9">
+    <text>Не здивував. Що за послуга?</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_10">
+    <text>Коротше, диви сюди: зараз Візира валити взагалі не варіант, тим паче неясно, хто його кришує, але й тусити тут теж не варіант: вони ж скоро за твоїм конвоїром припруться. Тепер ти у них на прицілі за будь-яких розкладів!</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_11">
+    <text>Це зрозуміло, але тобі ж яка з цього вигода, Купо? Тебе разом зі мною грохнуть!</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_12">
+    <text>А тема така: бачив я, що було на тому місці, де група сталкерів коробку тягнули і, походу, в ній ніштяки важливі лежать, якщо сам Візир у кіпіші. Чуйка в мене на це. І світить ці ніштяки вони явно не хочуть, якщо надумали грохнути тебе. Типа менше челів в темі  —  менше лівого кіпіша і непотрібної балаканини. Заодно й бабла на рило більше виходить.</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_13">
+    <text>Так я й не претендував. Ти що конкретно пропонуєш?</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_14">
+    <text>Загалом, нам коробку по-любому знайти треба. Були їхні ніштяки  —  стали наші, сам я це не допру, тому ти мені підсобиш у якості відповідної послуги. А ще я знаю, куди приблизно йти, а як знайдемо, так відразу майнемо до потрібних людей. Січеш?</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_15">
+    <text>Січу. Куди треба йти?</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_16">
+    <text>На Смітник. Я притирив один КПК з трупа сталкера ще до того, як ти приперся. Коротше, схрон у мене там невеличкий намалювався. Почитати треба, що в цьому КПК, бо ти з цими двіжухами ні фіга не встиг.</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_start_dialog_17">
+    <text>Пішли.</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_info_dialog_0">
+    <text>Розкажи про себе.</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_info_dialog_1">
+    <text>Ну, хе-хе, нормальний пацан про себе не тріпається зайвий раз, шоб не зглазили!</text>
+  </string>
+  <string id="val_stalker_technic_task_start_dialog_0">
+    <text>Матері його ковінька, налякав!</text>
+  </string>
+  <string id="val_stalker_technic_task_start_dialog_1">
+    <text>Привіт. А дозволь питання одне: хто ти й що тут відбувається?</text>
+  </string>
+  <string id="val_stalker_technic_task_start_dialog_2">
+    <text>Фух, аж серце в п'яти пішло! І тобі не хворати, мандрівниче. Ох, дістав вже... Та от, який-не-який пристрій намагаюсь зробити, а деталі однієї не вистачає... точніше, кількох деталей. Звати мене Гарпуном. Слухай, допоможеш мені? Нагорода буде щедрою.</text>
+  </string>
+  <string id="val_stalker_technic_task_start_dialog_3">
+    <text>Допомогти поможу, але мені цікаво, що ти намагаєшся зробити?</text>
+  </string>
+  <string id="val_stalker_technic_task_start_dialog_4">
+    <text>Радіоприймач. Точніше, щось на нього подібне і потужніше. Для цього мені, власне, потрібно саме радіо. І світильник електричний.</text>
+  </string>
+  <string id="val_stalker_technic_task_start_dialog_5">
+    <text>А світильник навіщо?</text>
+  </string>
+  <string id="val_stalker_technic_task_start_dialog_6">
+    <text>Розумієш, щоб посилити сигнал, треба хоч якась напруга. Дивись, скільки тут пристроїв. З цього всього я збираюсь робити й генератор, а для його створення не вистачає світильника.</text>
+  </string>
+  <string id="val_stalker_technic_task_start_dialog_7">
+    <text>Ну, добре. А в чому пастка? Ти сказав, що заплатиш щедро.</text>
+  </string>
+  <string id="val_stalker_technic_task_start_dialog_8">
+    <text>Так, пастка є. Я знаю місця, де все це роздобути. Світильник, як і радіо, можна пошукати в гаражі, що біля входу до закинутої лабораторії знаходиться  —  там напевне багато всілякого сміття та старої електроніки. Лише от я посилав вже до тебе одного хлопчину  —  не повернувся. Може, забив, а може... а може, й сталося щось з ним.</text>
+  </string>
+  <string id="val_stalker_technic_task_start_dialog_9">
+    <text>Гаразд, спробую розв'язати твою проблему, але ніяких гарантій давати не буду.</text>
+  </string>
+  <string id="val_stalker_technic_task_idle_dialog_0_1_1">
+    <text>Знайшов щось?</text>
+  </string>
+  <string id="val_stalker_technic_task_idle_dialog_0_2_1">
+    <text>Як ідуть пошуки?</text>
+  </string>
+  <string id="val_stalker_technic_task_idle_dialog_0_3_1">
+    <text>Ну що, як успіхи?</text>
+  </string>
+  <string id="val_stalker_technic_task_idle_dialog_1_1_1">
+    <text>У процесі.</text>
+  </string>
+  <string id="val_stalker_technic_task_idle_dialog_1_2_1">
+    <text>Поки нічого не знайшов.</text>
+  </string>
+  <string id="val_stalker_technic_task_idle_dialog_1_3_1">
+    <text>Буде що показати  —  дам знати.</text>
+  </string>
+  <string id="val_stalker_technic_friend_task_start_dialog_0">
+    <text>Привіт, нове обличчя. Чогось хотів?</text>
+  </string>
+  <string id="val_stalker_technic_friend_task_start_dialog_1">
+    <text>Привіт. Так, хотілося б дещо дізнатись. Хто ви?</text>
+  </string>
+  <string id="val_stalker_technic_friend_task_start_dialog_2">
+    <text>Дуже незвичне і, певною мірою, ідіотське питання. Ми  —  група сталкерів, які просто тут живуть. Точніше, тепер живемо. Займаємось звичайними речами, збираємо артефакти, заробляємо гроші... та як і кожен. Мене от Рилом звати.</text>
+  </string>
+  <string id="val_stalker_technic_friend_task_start_dialog_3">
+    <text>Добре. Хто цей Гарпун? Що за людина?</text>
+  </string>
+  <string id="val_stalker_technic_friend_task_start_dialog_4">
+    <text>Та від початку з нами в принципі. Людина непогана, лише замкнута. Він у нас в ролі своєрідного інженера.</text>
+  </string>
+  <string id="val_stalker_technic_friend_task_start_dialog_5">
+    <text>Тобто, він через замкнутість «проживає» окремо?</text>
+  </string>
+  <string id="val_stalker_technic_friend_task_start_dialog_6">
+    <text>Не зовсім. Сказав, що ми будемо йому заважати, тому грає тут образ істинного самітника.</text>
+  </string>
+  <string id="val_stalker_technic_friend_task_start_dialog_7">
+    <text>А він завжди з вами був?</text>
+  </string>
+  <string id="val_stalker_technic_friend_task_start_dialog_8">
+    <text>Ні. Колись давно існувало таке угрупування. Забув вже... дослідженнями займались. Коли розпалось, то зустрівся з ними випадково. В принципі, це все, що ми знаємо про нього.</text>
+  </string>
+  <string id="val_stalker_technic_friend_task_start_dialog_9">
+    <text>Зрозуміло. Я піду, мабуть.</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_0">
+    <text>Приніс? У тебе все гаразд? І що сталося з попереднім?</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_1">
+    <text>Тримай свої хріновини. А зниклого шукати не варто. Там він, обсмоктаний кровопивцями лежить. І все ж, у мене до тебе питання...</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_2">
+    <text>Валяй. Ох, так, про нагороду... Візьми грошенят. Думаю, згодяться.</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_3">
+    <text>Дякую. Тепер до питання: чому така велика сума за звичайне кур'єрське прохання?</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_4">
+    <text>По-перше, я сказав, що плата буде щедрою. По-друге, ти мене розкусив: світильник мені потрібен не для радіоприймача. Я свого роду колекціонер. Різного роду техніку та іншу лабуду збираю. Ось це, наприклад, один з найрідкісніших екземплярів.</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_5">
+    <text>Я зрозумів. Це вже не моя справа. А у тебе ще є щось? Ну, може, ще щось пошукати для тебе?</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_6">
+    <text>Грошенят захотілось? Розумію. Дай-но подумаю... Є одне діло, лише от зараз я про це не хотів би говорити.</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_7">
+    <text>Це якась таємниця?</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_8">
+    <text>Певним чином. Ти приходь сюди ж, але згодом, коли я завершу деякі справи. Я тобі маякну.</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_9">
+    <text>Добре. Ти мене заінтригував.</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_10">
+    <text>Повір, це того вартує.</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_dialog_11">
+    <text>До зустрічі.</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_0">
+    <text>А, це ти. Отже, справа така...</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_1">
+    <text>Не придурюйся і не тупи. Пума теж старався.</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_2">
+    <text>Та я й не збирався.</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_3">
+    <text>Що сталося на фермі й хто ти такий? Я в курсі, що ти не колекціонер.</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_4">
+    <text>Правильно. Гадаю, якщо не скажу, то помру?</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_5">
+    <text>Ти до біса правий.</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_6">
+    <text>Моя історія починається з угрупування «Чисте небо». Був рядовим бійцем і захоплювався всілякими технічними пристроями. Я вчився у техніка Новікова... думаю, ти не знаєш, хто це. Загалом, примудрився я якось підслухати одну розмову нашого головнокомандувача з підмайстром, і проскочило там дещо про «псі-випромінювання», «О-Свідомість», «Стрілець». Як виявилось, головний був колишнім робітником цього «О-Свідомості». Це вже завдяки чуткам та пліткам, що поширились, стало відомо після того, як угрупування розпалось. І якось я подумав: А чому б не створити власний, кишеньковий псі-випромінювач? Це ж яка зброя, подумай. Тут розпочався набір до невеликої групи сталкерів. Подумавши, я долучився. Потім, коли облаштувались тут, зрозумів, що це ідеальне місце  —  і от, сьогодні історичний день настав. Отже, я не проти продовжити справи цих вже видатних людей, тому сталкери перетворились на ці овочі. А Пума мені потрібен був для ліквідації свідка... тобто, тебе.</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_7">
+    <text>Ну, дякую за пояснення. Як ти живий лишився?</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_8">
+    <text>Шолом, дитинко. У ньому вся суть.</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_9">
+    <text>Як ти його перенести збирався? Воно ж здоровенне, я бачив, що ти будував.</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_10">
+    <text>А яка вже різниця? Тепер у мене питання: що далі?</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_11_1">
+    <text>Думаю, відповідь очевидна: я не потрібен тобі, як зайві очі твоїх вчинків. У мене ж нема приводу тобі довіряти й немає вірогідності, що ти мені не пустиш кулю, коли я відвернусь від тебе.</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_11_2_1">
+    <text>Отже, так: зараз ти йдеш, вирубаєш цю хрінь, щоб ніхто більше не вляпався. Навіть ні: ти її при мені рвонеш. А я збережу твою таємницю: мені проблеми не потрібні. Але якщо ще раз тебе побачу  —  всі дізнаються, хто ти. Повір, у мене є тут друзі, які донесуть інформацію кому треба, якщо зі мною щось станеться. Все ясно?</text>
+  </string>
+  <string id="val_stalker_technic_task_final_first_dialog_11_2_2">
+    <text>Я дізнався все, що хотів. Випромінювач твій мені вдалось розвалити, і зараз ми спокійно розійдемось. Якщо ще колись тебе зустріну  —  пристрелю.</text>
+  </string>
+  <string id="val_stalker_technic_task_final_second_dialog_0">
+    <text>Ех...</text>
+  </string>
+  <string id="val_stalker_technic_task_final_second_dialog_1">
+    <text>Що «ех»? Радій, що живий лишився! Будь-який інший би тебе давно пристрелив! А тепер розходимось. Одне одного не знаємо.</text>
+  </string>
+  <string id="val_bandits_base_bandits_idle_dialog_0_1">
+    <text>Що шашки вилупив?</text>
+  </string>
+  <string id="val_bandits_base_bandits_idle_dialog_0_2">
+    <text>Чуєш, тобі че треба, фраєр?</text>
+  </string>
+  <string id="val_bandits_base_bandits_idle_dialog_0_3">
+    <text>Не штовхайся під ногами, мавпа!</text>
+  </string>
+  <string id="val_bandits_base_bandits_idle_dialog_0_4">
+    <text>Зроби кабіну простіше, так і хочеться на неї бак злити.</text>
+  </string>
+  <string id="val_bandits_base_bandits_idle_dialog_0_5">
+    <text>Ти окропом давно ссався? Ніколи? Отже, почнеш, дефективний, якщо зараз не зникнеш з мого поля зору.</text>
+  </string>
 </string_table>

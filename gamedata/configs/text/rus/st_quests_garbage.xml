@@ -1,612 +1,459 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="gar_mishgan_corpse">
-		<text>НЕПРИЯТНАЯ ВСТРЕЧА</text>
-	</string>
-	
-	<string id="gar_mishgan_corpse_start_name">
-		<text>Узнать, куда пропал Мишган</text>
-	</string>
-
-	<string id="gar_mishgan_corpse_start_text">
-		<text>Твою ж мать... Ну и огрел же он меня по башке... Похоже, он собрался спасать в одиночку своих друзей на кладбище техники, идиот... Как бы дров не наломал, проверить надо...</text>
-	</string>
-
-	<string id="gar_find_local_trader">
-		<text>ТОРГОВЕЦ СО СВАЛКИ</text>
-	</string>	
-
-	<string id="gar_find_local_trader_start_name">
-		<text>Найти работу на базе сталкеров</text>
-	</string>
-
-	<string id="gar_find_local_trader_text_good">
-		<text>По словам Мишгана ближайший лагерь сталкеров находится в ангаре. Надо бы туда наведаться и подыскать работу у местного торговца.</text>
-	</string>
-
-	<string id="gar_find_local_trader_text_bad">
-		<text>Так, что же делать дальше? Думаю, нужно найти ближайший лагерь сталкеров и подыскать там работу у торговца.</text>
-	</string>
-
-	<string id="gar_wait_trader_name">
-		<text>Подождать, пока Костыль освободится</text>
-	</string>
-
-	<string id="gar_wait_trader_text">
-		<text>Патрон попросил подождать какое-то время, пока торговец занят своими делами. Прогуляюсь пока по окрестностям. Может, работу кто подкинет.</text>
-	</string>
-
-	<string id="gar_speak_trader_name">
-		<text>Поговорить с Костылём</text>
-	</string>
-
-	<string id="gar_speak_trader_text">
-		<text>Вероятно, торговец уже освободился, пока я шарился по окрестностям.</text>
-	</string>
-
-	<string id="gar_mishgan_attack_bandits">
-		<text>ПЛЕННИКИ</text>
-	</string>
-
-	<string id="gar_mishgan_distract_bandits_start_name">
-		<text>Отвлечь внимание бандитов</text>
-	</string>
-
-	<string id="gar_mishgan_distract_bandits_start_text">
-		<text>Нужно как-то отвлечь внимание бандитов, пока Мишган заходит им в спину.</text>
-	</string>
-
-	<string id="gar_mishgan_kill_bandits_name">
-		<text>Добить оставшихся бандитов</text>
-	</string>
-
-	<string id="gar_mishgan_kill_bandits_text">
-		<text>Осталась ещё кучку отморозков. Скорее всего, они смотрят за пленными.</text>
-	</string>
-
-	<string id="gar_mishgan_task_final_speak_name">
-		<text>Поговорить с Мишганом</text>
-	</string>
-
-	<string id="gar_mishgan_task_final_speak_text">
-		<text>Было жарко, пора пообщаться с Мишганом.</text>
-	</string>
-
-	<string id="gar_mishgan_defence_kladbishe_name">
-		<text>Отбить атаку наступающих бандитов или сбежать</text>
-	</string>
-
-	<string id="gar_mishgan_defence_kladbishe_text">
-		<text>Чёрт, к бандитам идёт подкрепление! Нужно с ними разобраться.</text>
-	</string>
-
-	<string id="gar_inspect_level">
-		<text>ОСМОТРЕТЬ ОКРЕСТНОСТИ</text>
-	</string>	
-
-	<string id="gar_inspect_level_text">
-		<text>Прогуляюсь по окрестностям, пока торговец занят своими делами. Может, что-то интересное найду.</text>
-	</string>
-
-	<string id="gar_inspect_level_forest_name">
-		<text>Лес</text>
-	</string>
-
-	<string id="gar_inspect_level_forest_text">
-		<text>Прогуляюсь по окрестностям, пока торговец занят своими делами. Может, что-то интересное найду. Например, не помешает заглянуть в небольшой лесок на окраинах Свалки.</text>
-	</string>
-
-	<string id="gar_inspect_level_baraholka_name">
-		<text>Барахолка</text>
-	</string>
-
-	<string id="gar_inspect_level_baraholka_text">
-		<text>Прогуляюсь по окрестностям, пока торговец занят своими делами. Может, удастся найти что-то интересное и полезное. Судя по карте, неподалёку от ангара есть какие-то развалины. Желаю их осмотреть.</text>
-	</string>
-
-	<string id="gar_inspect_level_dolg_zastava_name">
-		<text>Застава «Долга»</text>
-	</string>
-
-	<string id="gar_inspect_level_dolg_zastava_text">
-		<text>Прогуляюсь по окрестностям, пока торговец занят своими делами. Может, что-то интересное найду. Я слышал, что на севере Свалки расположился КПП группировки «Долг». Ещё ни разу их не встречал, хотел бы познакомиться и, по возможности, найти у них работу.</text>
-	</string>
-
-	<string id="spend_desertir">
-		<text>ДЕЗЕРТИР</text>
-	</string>
-
-	<string id="spend_desertir_start_name">
-		<text>Проводить дезертира к Юрку</text>
-	</string>
-
-	<string id="spend_desertir_start_text">
-		<text>Решил подкинуть работёнку Юрку. Вояка обещал не обидеть монетой.</text>
-	</string>
-
-	<string id="dyatlov_zastava_secret">
-		<text>ТАЙНА ЗАСТАВЫ ДЯТЛОВА</text>
-	</string>	
-
-	<string id="gar_dyatlov_zastava_start_name">
-		<text>Поговорить с командиром заставы</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_start_text">
-		<text>Командир заставы «Долга» рассказал, что у него в лагере происходит что-то странное. Он просил подойти, когда появится время.</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_secret_name">
-		<text>Установить наблюдение за лагерем после полуночи</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_secret_text">
-		<text>На заставе «Долга» происходит какая-то чертовщина. Постараюсь разобраться во всем этом.</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_secret_speak_leader_name">
-		<text>Поговорить с командиром</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_secret_speak_leader_text">
-		<text>Жесть! Что это было? Не по себе даже стало! На заставе действительно творятся какие-то мистические вещи! Надо обо всем доложить командиру.</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_secret_speak_stalkers_name">
-		<text>Опросить сталкеров о ночных странностях</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_secret_speak_stalkers_text">
-		<text>Ключ к разгадке странностей - информация. Надо спросить местных. У них может быть важная информация по моему делу.</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_find_corvalol_name">
-		<text>Найти сталкера по кличке Корвалол</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_find_corvalol_text">
-		<text>Корвалол может помочь в разгадке мистической тайны на заставе «Долга». По словам опрошенного сталкера, он ищет артефакты на полянке за барахолкой.</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_secret_find_unknown_soldier_name">
-		<text>Найти неизвестного долговца</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_secret_find_unknown_soldier_text">
-		<text>Некто из «Долга» не желает, чтобы сталкеры рыскали в поисках правды. Нужно выяснить, кто был этот человек. Поскольку я работаю под предводительством командира, то угрожать мне в открытую он не осмелится, поэтому придется мне найти его самому. Дятлов должен что-то подсказать по этому вопросу.</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_secret_speak_aver_name">
-		<text>Поговорить с Аверьяновым</text>
-	</string>
-
-	<string id="gar_dyatlov_zastava_secret_speak_aver_text">
-		<text>Нужно поговорить с последним свидетелем пропажи рядового долговца. Не знаю, как это может быть связано с расследованием мистики, но попытаться стоит.</text>
-	</string>
-
-	<string id="gar_dolg_zastava_inspect_forest_name">
-		<text>Следовать к месту пропажи Галушкина</text>
-	</string>
-
-	<string id="gar_dolg_zastava_inspect_forest_text">
-		<text>Аверьянов оказался очень вспыльчивым и нервным человеком, и я не думаю, что он по натуре такой. Вероятно, ему есть что скрывать, и я более чем уверен, что это именно он угрожал Карвалолу. Отправлюсь-ка я к лесу. Может, получится что-то найти на месте пропажи Галушкина.</text>
-	</string>
-
-	<string id="gar_dolg_zastava_scene_forest_speak_dyatlov_name">
-		<text>Рассказать о случившемся командиру</text>
-	</string>
-
-	<string id="gar_dolg_zastava_scene_forest_speak_dyatlov_text">
-		<text>Пропавший долговец оказался на дне колодца. Его убили свои же сослуживцы! Видно, они совсем не были рады его повышению. Надо рассказать обо всем Дятлову.</text>
-	</string>
-
-	<string id="gar_dolg_zastava_search_aver_name">
-		<text>Догнать Аверьянова</text>
-	</string>
-
-	<string id="gar_dolg_zastava_search_aver_text">
-		<text>Аверьянов покинул заставу, но его КПК ещё пеленгуется на территории Свалки. Мне предстоит нагнать беглеца.</text>
-	</string>
-
-	<string id="gar_dolg_zastava_search_in_forest_name">
-		<text>Следовать к лесу</text>
-	</string>
-
-	<string id="gar_dolg_zastava_search_in_forest_text">
-		<text>Аверьянов ушёл в лес. Его нужно догнать.</text>
-	</string>
-
-	<string id="gar_dolg_zastava_final_speak_name">
-		<text>Доложить Дятлову об исчезновении Аверьянова</text>
-	</string>
-
-	<string id="gar_dolg_zastava_final_speak_text">
-		<text>Возмездие, кажется, состоялось. Аверьянова больше нет. Надо доложить об этом командиру заставы.</text>
-	</string>
-
-	<string id="gar_dolg_zastava_final_speak2_name">
-		<text>Доложить Дятлову о смерти Аверьянова</text>
-	</string>
-
-	<string id="gar_dolg_zastava_final_speak2_text">
-		<text>Дело сделано. Осталось доложить Дятлову.</text>
-	</string>
-
-	<string id="gar_duty_bandits_kill_task">
-		<text>ПОМОЩЬ «ДОЛГУ»</text>
-	</string>
-
-	<string id="gar_duty_bandits_kill_task_main_name">
-		<text>Разобраться с бандитами на хуторе</text>
-	</string>
-
-	<string id="gar_duty_bandits_kill_task_main_text">
-		<text>Дятлов попросил убрать бандитов с хутора неподалёку от леса. Думаю, это поднимет мою репутацию среди его группировки.</text>
-	</string>
-
-	<string id="gar_duty_bandits_kill_task_dyatlov_talk_name">
-		<text>Доложить Дятлову</text>
-	</string>
-
-	<string id="gar_duty_bandits_kill_task_dyatlov_talk_text">
-		<text>Пора доложить командиру заставы, что он может отправлять своих людей на хутор.</text>
-	</string>
-
-	<string id="kill_tonnel_bandits">
-		<text>ТОННЕЛЬ НА СВАЛКЕ</text>
-	</string>
-
-	<string id="gar_kill_tonnel_bandits_start_name">
-		<text>Разобраться с бандитами</text>
-	</string>
-
-	<string id="gar_kill_tonnel_bandits_start_text">
-		<text>В ж/д тоннеле на Свалке обосновались бандиты. Необходимо с ними разобраться.</text>
-	</string>
-
-	<string id="gar_kill_tonnel_bandits_reward_name">
-		<text>Вернуться за наградой</text>
-	</string>
-
-	<string id="gar_kill_tonnel_bandits_reward_text">
-		<text>Дело сделано. Пора забирать награду.</text>
-	</string>
-
-	<string id="speak_gamzat">
-		<text>МЕСТНЫЙ ЛЕКАРЬ</text>
-	</string>	
-
-	<string id="gar_speak_gamzat_start_name">
-		<text>Познакомиться с Гамзатом</text>
-	</string>
-
-	<string id="gar_speak_gamzat_start_text">
-		<text>Некий медик по кличке Гамзат, судя по словам Костыля, может подкинуть мне работу. Нужно с ним познакомиться. Надеюсь, не придется выносить утки за больными.</text>
-	</string>
-
-	<string id="gar_gamzat_task_hunt">
-		<text>ОПАСНАЯ ВЫЛАЗКА</text>
-	</string>	
-
-	<string id="gar_medic_hunt_ready_name">
-		<text>Сообщить Гамзату о готовности</text>
-	</string>
-
-	<string id="gar_medic_hunt_ready_text">
-		<text>Гамзату требуется помощь в одном непростом и крайне опасном деле, зато плату обещает подобающую.</text>
-	</string>
-
-	<string id="gar_medic_hunt_go_bloodsucker_name">
-		<text>Выманить кровососа на Гамзата</text>
-	</string>
-
-	<string id="gar_medic_hunt_go_bloodsucker_text">
-		<text>Нужно аккуратно выманить кровососа на Гамзата, чтобы тот его уложил.</text>
-	</string>
-
-	<string id="restore_health_task">
-		<text>РАНЕНИЕ</text>
-	</string>
-
-	<string id="gar_restore_health_task_start_name">
-		<text>Поправить здоровье</text>
-	</string>
-
-	<string id="gar_restore_health_task_start_text">
-		<text>После такой взбучки надо немного прийти в себя. А что лучше всего повышает настроение? Конечно же, покупки! К тому же, у меня появились деньги. Пойду к торговцу, присмотрю себе новое снаряжение.</text>
-	</string>
-
-	<string id="go_to_darkvalley">
-		<text>ТЁМНАЯ ДОЛИНА</text>
-	</string>	
-
-	<string id="gar_go_to_darkvalley_start_name">
-		<text>Отправиться за артефактами</text>
-	</string>
-
-	<string id="gar_go_to_darkvalley_start_text">
-		<text>Впереди новые места, в которых я ещё не бывал! Заберу кейс торговца, заодно постараюсь изучить окрестности долины и порыскать в поисках хабара.</text>
-	</string>
-
-	<string id="gar_go_to_darkvalley_speak_bandit_leader_name">
-		<text>Забрать кейс с артефактами у лидера бандитов</text>
-	</string>
-
-	<string id="gar_go_to_darkvalley_speak_bandit_leader_text">
-		<text>Костыль просил метнуться в Тёмную Долину за кейсом, который находится у лидера бандитов.</text>
-	</string>
-
-	<string id="gar_go_to_darkvalley_wait_trader_name">
-		<text>Дождаться появления Костыля и отдать ему кейс</text>
-	</string>
-
-	<string id="gar_go_to_darkvalley_wait_trader_text">
-		<text>Костыль куда-то отлучился со Свалки и сказал, что маякнёт, когда появится.</text>
-	</string>
-
-	<string id="to_meet_stalker_messenger">
-		<text>СВЯЗНОЙ</text>
-	</string>
-
-	<string id="gar_to_meet_stalker_messenger_start_name">
-		<text>Встретиться с Мыславом</text>
-	</string>
-
-	<string id="gar_to_meet_stalker_messenger_start_text">
-		<text>Патрон отправил меня к Мыславу - его товарищу. С ним нужно уточнить детали нашего дела.</text>
-	</string>
-
-	<string id="task_for_stalker_messenger">
-		<text>ЗАМАНЧИВОЕ ПРЕДЛОЖЕНИЕ</text>
-	</string>
-
-	<string id="gar_task_for_stalker_messenger_start_name">
-		<text>Поговорить с Патроном</text>
-	</string>
-
-	<string id="gar_task_for_stalker_messenger_start_text">
-		<text>У Патрона есть какое-то предложение ко мне.</text>
-	</string>
-
-	<string id="meet_stalkers_for_agroprom_case">
-		<text>В ПОИСКАХ КОДА</text>
-	</string>
-
-	<string id="gar_meet_stalkers_for_agroprom_case_start_name">
-		<text>Встретиться со сталкерами</text>
-	</string>
-
-	<string id="gar_meet_stalkers_for_agroprom_case_one_text">
-		<text>Мыслав дал наводки на трёх своих знакомых, что ушли из клана диггеров. Возможно, кто-то из них знает код от сейфа. По словами Мыслава, Хвост торчит где-то на Свалке, а Митяй и Барин - на Агропроме и Кордоне.</text>
-	</string>
-
-	<string id="gar_meet_stalkers_for_agroprom_case_two_text">
-		<text>Из информации с тела Мыслава известно о трех его товарищах, что ушли из клана диггеров, который базируется на Агропроме с недавней добычей - кейсом. Возможно, кто-то из этих сталкеров знает код от сейфа, в котором кейс. Хвост торчит где-то на Свалке, а Митяй и Барин - на Агропроме и Кордоне.</text>
-	</string>
-
-	<string id="known_stalker_messenger">
-		<text>МЁРТВЫЙ СВЯЗНОЙ</text>
-	</string>
-
-	<string id="gar_known_stalker_messenger_start_name">
-		<text>Обыскать тело Мыслава</text>
-	</string>
-
-	<string id="gar_known_stalker_messenger_start_text">
-		<text>Патрон направил меня поговорить с Мыславом, однако тот погиб. Нужно обыскать его тело в поисках информации по нашему делу.</text>
-	</string>
-
-	<string id="gar_start_speak_dolg">
-		<text>ЗАСТАВА «ДОЛГА»</text>
-	</string>
-
-	<string id="gar_start_speak_dolg_start_name">
-		<text>Познакомиться с командиром отряда</text>
-	</string>
-
-	<string id="gar_start_speak_dolg_start_text">
-		<text>Интересные мужики эти долговцы. Познакомлюсь, может, узнаю что-то новое или даже найду работу.</text>
-	</string>
-
-	<string id="gar_case_final_task">
-		<text>ВОЗВРАЩЕНИЕ</text>
-	</string>
-
-	<string id="gar_case_final_task_start_name">
-		<text>Отдать кейс Костылю</text>
-	</string>
-
-	<string id="gar_case_final_task_start_text">
-		<text>Непростая выдалась прогулка в Темную Долину. Но кейс у меня. Пора сдать его торговцу и получить награду.</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts">
-		<text>ПОВЕЛИТЕЛЬ МОНСТРОВ</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_start_name">
-		<text>Поговорить с Гамзатом</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_start_text">
-		<text>Гамзат просил заглянуть к нему по какому-то вопросу, когда разберусь с делами. Посмотрим, что этот охотник на кровососов мне предложит.</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_go_medic_home_name">
-		<text>Добраться до убежища Гамзата</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_go_medic_home_text">
-		<text>У Гамзата есть для меня новая работа. Говорит, бегать от мутантов больше не придется. Нужно встретиться с ним в его убежище.</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_start_task_name">
-		<text>Отправиться на поляну со слепыми псами</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_start_task_text">
-		<text>Гамзат рассказал мне о своих исследования по подавлению агрессивности монстров. На это можно повлиять при помощи артефакта. Действует ли это, проверим на собаках.</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_task_kill_monsters_name">
-		<text>Отбиться от мутантов</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_task_kill_monsters_text">
-		<text>Артефакт подвёл. Придется ввязываться в бой с монстрами.</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_final_speak_name">
-		<text>Поговорить с Гамзатом</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_final_speak_text">
-		<text>Кажется, отбились... Пора пообщаться.</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_search_treasure_name">
-		<text>Забрать записи в убежище Гамзата</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_search_treasure_text">
-		<text>Умирающий Гамзат просил передать его записи Дубинину в научный комлпекс на «Агропроме», нужно забрать их у него в убежище.</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_kill_bloodsucker_name">
-		<text>Убить кровососа или оставить его в живых</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_kill_bloodsucker_text">
-		<text>Пока артефакт ещё действует, надо убить кровососа. Недалеко лагерь, и было бы лучше устранить потенциальную угрозу.</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_go_to_agroprom_name">
-		<text>Отнести документы в научный комплекс</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_go_to_agroprom_text">
-		<text>Гамзат мертв... Его эксперименты оказались не совсем успешными. Отнесу его записи в научный комплекс на «Агропроме», как и обещал.</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_speak_task_scientist_name">
-		<text>Встретиться с Дубининым</text>
-	</string>
-
-	<string id="gar_stalker_medic_artefacts_speak_task_scientist_text">
-		<text>Дубинин дал знать о себе. Его надо найти неподалёку от комплекса.</text>
-	</string>
-
-	<string id="gar_drunk_medic_start_task">
-		<text>НОВЫЙ МЕДИК</text>
-	</string>
-
-	<string id="gar_drunk_medic_start_task_start_name">
-		<text>Зайти к Сане</text>
-	</string>
-
-	<string id="gar_drunk_medic_start_task_start_text">
-		<text>Саня все-таки добрался до базы сталкеров. Нужно встретиться и спросить, как он устроился.</text>
-	</string>
-
-	<string id="gar_drunk_medic_supplies_task">
-		<text>ПРОСЬБА</text>
-	</string>
-
-	<string id="gar_drunk_medic_supplies_task_speak_duty_name">
-		<text>Добыть медикаменты у «Долга»</text>
-	</string>
-
-	<string id="gar_drunk_medic_supplies_task_speak_duty_text">
-		<text>Новому медику нужны медикаменты. Можно попробовать спросить у «Долга» - может, у них есть лишние на продажу.</text>
-	</string>
-
-	<string id="gar_drunk_medic_supplies_task_kill_boars_name">
-		<text>Зачистить местность от мутантов</text>
-	</string>
-
-	<string id="gar_drunk_medic_supplies_task_kill_boars_text">
-		<text>Долговцы пообещали выделить медикаменты, если я устраню стаю кабанов неподалеку.</text>
-	</string>
-
-	<string id="gar_drunk_medic_supplies_task_kill_go_back_name">
-		<text>Вернуться к Дятлову</text>
-	</string>
-
-	<string id="gar_drunk_medic_supplies_task_kill_go_back_text">
-		<text>Кабаны уничтожены. Можно возвращаться к Дятлову за наградой.</text>
-	</string>
-
-	<string id="gar_drunk_medic_supplies_task_final_speak_name">
-		<text>Отнести Сане медикаменты</text>
-	</string>
-
-	<string id="gar_drunk_medic_supplies_task_final_speak_text">
-		<text>К моему удивлению, удалось достать у долговцев медикаменты. Пора отдать их Сане.</text>
-	</string>
-
-	<string id="gar_start_bar_task">
-		<text>БАР</text>
-	</string>
-
-	<string id="gar_start_bar_task_go_lchanger_name">
-		<text>Посетить новые окрестности</text>
-	</string>
-
-	<string id="gar_start_bar_task_go_lchanger_text">
-		<text>После помощи отряду Дятлова у меня появилась возможность посетить самое большое пристанище сталкеров - легендарный Бар. Эта территория находится под контролем группировки «Долг», так что нужно вести себя приемлемо. Как мне сказали, там можно неплохо отдохнуть и подыскать какую-нибудь работу.</text>
-	</string>
-
-	<string id="gar_military_task">
-		<text>НА АРМЕЙСКИЕ СКЛАДЫ</text>
-	</string>
-
-	<string id="gar_military_task_start_name">
-		<text>Добраться до Бара</text>
-	</string>
-
-	<string id="gar_military_task_start_text">
-		<text>Коваль подкинул информацию, что людей, похожих на тех, кого видели на Агропроме в день исчезновения профессора, видели на Армейских складах. Верна эта информация или нет - покажет время. В любом случае, сейчас это единственная зацепка. Дорога до складов предстоит через Бар. Там следует быть очень аккуратным.</text>
-	</string>
-
-	<string id="gar_start_bar_task_go_military_name">
-		<text>Миновать Бар</text>
-	</string>
-
-	<string id="gar_start_bar_task_go_military_text">
-		<text>В Баре стоит вести себя осторожно и стараться не отсвечивать. К военным тут точно не очень здоровские.</text>
-	</string>
-
-	<string id="gar_stalker_nimble_wait_order_task">
-		<text>ОСОБЫЙ ЗАКАЗ</text>
-	</string>
-
-	<string id="gar_stalker_nimble_wait_order_task_name">
-		<text>Дождаться получения товара</text>
-	</string>	
-
-	<string id="gar_stalker_nimble_wait_order_task_text">
-		<text>Нужно дождаться, пока Витька Степак достанет нужный товар.\nОриентировочное время доставки:</text>
-	</string>
-
-	<string id="gar_stalker_nimble_wait_order_task_one_day">
-		<text>сутки.</text>
-	</string>
-
-	<string id="gar_stalker_nimble_wait_order_task_two_days">
-		<text>двое суток.</text>
-	</string>
-
-	<string id="gar_stalker_nimble_wait_order_task_item">
-		<text>Ожидаемый товар:</text>
-	</string>
-
-	<string id="gar_stalker_nimble_wait_order_task_ready_name">
-		<text>Забрать товар</text>
-	</string>
-
-	<string id="gar_stalker_nimble_wait_order_task_ready_text">
-		<text>Витька Степак сообщил об успешной доставке заказа. Пора забирать товар:</text>
-	</string>
-
+  <string id="gar_mishgan_corpse">
+    <text>НЕПРИЯТНАЯ ВСТРЕЧА</text>
+  </string>
+  <string id="gar_mishgan_corpse_start_name">
+    <text>Узнать, куда пропал Мишган</text>
+  </string>
+  <string id="gar_mishgan_corpse_start_text">
+    <text>Твою ж мать... Ну и огрел же он меня по башке... Похоже, он собрался спасать в одиночку своих друзей на кладбище техники, идиот... Как бы дров не наломал, проверить надо...</text>
+  </string>
+  <string id="gar_find_local_trader">
+    <text>ТОРГОВЕЦ СО СВАЛКИ</text>
+  </string>
+  <string id="gar_find_local_trader_start_name">
+    <text>Найти работу на базе сталкеров</text>
+  </string>
+  <string id="gar_find_local_trader_text_good">
+    <text>По словам Мишгана ближайший лагерь сталкеров находится в ангаре. Надо бы туда наведаться и подыскать работу у местного торговца.</text>
+  </string>
+  <string id="gar_find_local_trader_text_bad">
+    <text>Так, что же делать дальше? Думаю, нужно найти ближайший лагерь сталкеров и подыскать там работу у торговца.</text>
+  </string>
+  <string id="gar_wait_trader_name">
+    <text>Подождать, пока Костыль освободится</text>
+  </string>
+  <string id="gar_wait_trader_text">
+    <text>Патрон попросил подождать какое-то время, пока торговец занят своими делами. Прогуляюсь пока по окрестностям. Может, работу кто подкинет.</text>
+  </string>
+  <string id="gar_speak_trader_name">
+    <text>Поговорить с Костылём</text>
+  </string>
+  <string id="gar_speak_trader_text">
+    <text>Вероятно, торговец уже освободился, пока я шарился по окрестностям.</text>
+  </string>
+  <string id="gar_mishgan_attack_bandits">
+    <text>ПЛЕННИКИ</text>
+  </string>
+  <string id="gar_mishgan_distract_bandits_start_name">
+    <text>Отвлечь внимание бандитов</text>
+  </string>
+  <string id="gar_mishgan_distract_bandits_start_text">
+    <text>Нужно как-то отвлечь внимание бандитов, пока Мишган заходит им в спину.</text>
+  </string>
+  <string id="gar_mishgan_kill_bandits_name">
+    <text>Добить оставшихся бандитов</text>
+  </string>
+  <string id="gar_mishgan_kill_bandits_text">
+    <text>Осталась ещё кучку отморозков. Скорее всего, они смотрят за пленными.</text>
+  </string>
+  <string id="gar_mishgan_task_final_speak_name">
+    <text>Поговорить с Мишганом</text>
+  </string>
+  <string id="gar_mishgan_task_final_speak_text">
+    <text>Было жарко, пора пообщаться с Мишганом.</text>
+  </string>
+  <string id="gar_mishgan_defence_kladbishe_name">
+    <text>Отбить атаку наступающих бандитов или сбежать</text>
+  </string>
+  <string id="gar_mishgan_defence_kladbishe_text">
+    <text>Чёрт, к бандитам идёт подкрепление! Нужно с ними разобраться.</text>
+  </string>
+  <string id="gar_inspect_level">
+    <text>ОСМОТРЕТЬ ОКРЕСТНОСТИ</text>
+  </string>
+  <string id="gar_inspect_level_text">
+    <text>Прогуляюсь по окрестностям, пока торговец занят своими делами. Может, что-то интересное найду.</text>
+  </string>
+  <string id="gar_inspect_level_forest_name">
+    <text>Лес</text>
+  </string>
+  <string id="gar_inspect_level_forest_text">
+    <text>Прогуляюсь по окрестностям, пока торговец занят своими делами. Может, что-то интересное найду. Например, не помешает заглянуть в небольшой лесок на окраинах Свалки.</text>
+  </string>
+  <string id="gar_inspect_level_baraholka_name">
+    <text>Барахолка</text>
+  </string>
+  <string id="gar_inspect_level_baraholka_text">
+    <text>Прогуляюсь по окрестностям, пока торговец занят своими делами. Может, удастся найти что-то интересное и полезное. Судя по карте, неподалёку от ангара есть какие-то развалины. Желаю их осмотреть.</text>
+  </string>
+  <string id="gar_inspect_level_dolg_zastava_name">
+    <text>Застава «Долга»</text>
+  </string>
+  <string id="gar_inspect_level_dolg_zastava_text">
+    <text>Прогуляюсь по окрестностям, пока торговец занят своими делами. Может, что-то интересное найду. Я слышал, что на севере Свалки расположился КПП группировки «Долг». Ещё ни разу их не встречал, хотел бы познакомиться и, по возможности, найти у них работу.</text>
+  </string>
+  <string id="spend_desertir">
+    <text>ДЕЗЕРТИР</text>
+  </string>
+  <string id="spend_desertir_start_name">
+    <text>Проводить дезертира к Юрку</text>
+  </string>
+  <string id="spend_desertir_start_text">
+    <text>Решил подкинуть работёнку Юрку. Вояка обещал не обидеть монетой.</text>
+  </string>
+  <string id="dyatlov_zastava_secret">
+    <text>ТАЙНА ЗАСТАВЫ ДЯТЛОВА</text>
+  </string>
+  <string id="gar_dyatlov_zastava_start_name">
+    <text>Поговорить с командиром заставы</text>
+  </string>
+  <string id="gar_dyatlov_zastava_start_text">
+    <text>Командир заставы «Долга» рассказал, что у него в лагере происходит что-то странное. Он просил подойти, когда появится время.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_name">
+    <text>Установить наблюдение за лагерем после полуночи</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_text">
+    <text>На заставе «Долга» происходит какая-то чертовщина. Постараюсь разобраться во всем этом.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_leader_name">
+    <text>Поговорить с командиром</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_leader_text">
+    <text>Жесть! Что это было? Не по себе даже стало! На заставе действительно творятся какие-то мистические вещи! Надо обо всем доложить командиру.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_stalkers_name">
+    <text>Опросить сталкеров о ночных странностях</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_stalkers_text">
+    <text>Ключ к разгадке странностей — информация. Надо спросить местных. У них может быть важная информация по моему делу.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_find_corvalol_name">
+    <text>Найти сталкера по кличке Корвалол</text>
+  </string>
+  <string id="gar_dyatlov_zastava_find_corvalol_text">
+    <text>Корвалол может помочь в разгадке мистической тайны на заставе «Долга». По словам опрошенного сталкера, он ищет артефакты на полянке за барахолкой.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_find_unknown_soldier_name">
+    <text>Найти неизвестного долговца</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_find_unknown_soldier_text">
+    <text>Некто из «Долга» не желает, чтобы сталкеры рыскали в поисках правды. Нужно выяснить, кто был этот человек. Поскольку я работаю под предводительством командира, то угрожать мне в открытую он не осмелится, поэтому придется мне найти его самому. Дятлов должен что-то подсказать по этому вопросу.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_aver_name">
+    <text>Поговорить с Аверьяновым</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_aver_text">
+    <text>Нужно поговорить с последним свидетелем пропажи рядового долговца. Не знаю, как это может быть связано с расследованием мистики, но попытаться стоит.</text>
+  </string>
+  <string id="gar_dolg_zastava_inspect_forest_name">
+    <text>Следовать к месту пропажи Галушкина</text>
+  </string>
+  <string id="gar_dolg_zastava_inspect_forest_text">
+    <text>Аверьянов оказался очень вспыльчивым и нервным человеком, и я не думаю, что он по натуре такой. Вероятно, ему есть что скрывать, и я более чем уверен, что это именно он угрожал Карвалолу. Отправлюсь-ка я к лесу. Может, получится что-то найти на месте пропажи Галушкина.</text>
+  </string>
+  <string id="gar_dolg_zastava_scene_forest_speak_dyatlov_name">
+    <text>Рассказать о случившемся командиру</text>
+  </string>
+  <string id="gar_dolg_zastava_scene_forest_speak_dyatlov_text">
+    <text>Пропавший долговец оказался на дне колодца. Его убили свои же сослуживцы! Видно, они совсем не были рады его повышению. Надо рассказать обо всем Дятлову.</text>
+  </string>
+  <string id="gar_dolg_zastava_search_aver_name">
+    <text>Догнать Аверьянова</text>
+  </string>
+  <string id="gar_dolg_zastava_search_aver_text">
+    <text>Аверьянов покинул заставу, но его КПК ещё пеленгуется на территории Свалки. Мне предстоит нагнать беглеца.</text>
+  </string>
+  <string id="gar_dolg_zastava_search_in_forest_name">
+    <text>Следовать к лесу</text>
+  </string>
+  <string id="gar_dolg_zastava_search_in_forest_text">
+    <text>Аверьянов ушёл в лес. Его нужно догнать.</text>
+  </string>
+  <string id="gar_dolg_zastava_final_speak_name">
+    <text>Доложить Дятлову об исчезновении Аверьянова</text>
+  </string>
+  <string id="gar_dolg_zastava_final_speak_text">
+    <text>Возмездие, кажется, состоялось. Аверьянова больше нет. Надо доложить об этом командиру заставы.</text>
+  </string>
+  <string id="gar_dolg_zastava_final_speak2_name">
+    <text>Доложить Дятлову о смерти Аверьянова</text>
+  </string>
+  <string id="gar_dolg_zastava_final_speak2_text">
+    <text>Дело сделано. Осталось доложить Дятлову.</text>
+  </string>
+  <string id="gar_duty_bandits_kill_task">
+    <text>ПОМОЩЬ «ДОЛГУ»</text>
+  </string>
+  <string id="gar_duty_bandits_kill_task_main_name">
+    <text>Разобраться с бандитами на хуторе</text>
+  </string>
+  <string id="gar_duty_bandits_kill_task_main_text">
+    <text>Дятлов попросил убрать бандитов с хутора неподалёку от леса. Думаю, это поднимет мою репутацию среди его группировки.</text>
+  </string>
+  <string id="gar_duty_bandits_kill_task_dyatlov_talk_name">
+    <text>Доложить Дятлову</text>
+  </string>
+  <string id="gar_duty_bandits_kill_task_dyatlov_talk_text">
+    <text>Пора доложить командиру заставы, что он может отправлять своих людей на хутор.</text>
+  </string>
+  <string id="kill_tonnel_bandits">
+    <text>ТОННЕЛЬ НА СВАЛКЕ</text>
+  </string>
+  <string id="gar_kill_tonnel_bandits_start_name">
+    <text>Разобраться с бандитами</text>
+  </string>
+  <string id="gar_kill_tonnel_bandits_start_text">
+    <text>В ж/д тоннеле на Свалке обосновались бандиты. Необходимо с ними разобраться.</text>
+  </string>
+  <string id="gar_kill_tonnel_bandits_reward_name">
+    <text>Вернуться за наградой</text>
+  </string>
+  <string id="gar_kill_tonnel_bandits_reward_text">
+    <text>Дело сделано. Пора забирать награду.</text>
+  </string>
+  <string id="speak_gamzat">
+    <text>МЕСТНЫЙ ЛЕКАРЬ</text>
+  </string>
+  <string id="gar_speak_gamzat_start_name">
+    <text>Познакомиться с Гамзатом</text>
+  </string>
+  <string id="gar_speak_gamzat_start_text">
+    <text>Некий медик по кличке Гамзат, судя по словам Костыля, может подкинуть мне работу. Нужно с ним познакомиться. Надеюсь, не придется выносить утки за больными.</text>
+  </string>
+  <string id="gar_gamzat_task_hunt">
+    <text>ОПАСНАЯ ВЫЛАЗКА</text>
+  </string>
+  <string id="gar_medic_hunt_ready_name">
+    <text>Сообщить Гамзату о готовности</text>
+  </string>
+  <string id="gar_medic_hunt_ready_text">
+    <text>Гамзату требуется помощь в одном непростом и крайне опасном деле, зато плату обещает подобающую.</text>
+  </string>
+  <string id="gar_medic_hunt_go_bloodsucker_name">
+    <text>Выманить кровососа на Гамзата</text>
+  </string>
+  <string id="gar_medic_hunt_go_bloodsucker_text">
+    <text>Нужно аккуратно выманить кровососа на Гамзата, чтобы тот его уложил.</text>
+  </string>
+  <string id="restore_health_task">
+    <text>РАНЕНИЕ</text>
+  </string>
+  <string id="gar_restore_health_task_start_name">
+    <text>Поправить здоровье</text>
+  </string>
+  <string id="gar_restore_health_task_start_text">
+    <text>После такой взбучки надо немного прийти в себя. А что лучше всего повышает настроение? Конечно же, покупки! К тому же, у меня появились деньги. Пойду к торговцу, присмотрю себе новое снаряжение.</text>
+  </string>
+  <string id="go_to_darkvalley">
+    <text>ТЁМНАЯ ДОЛИНА</text>
+  </string>
+  <string id="gar_go_to_darkvalley_start_name">
+    <text>Отправиться за артефактами</text>
+  </string>
+  <string id="gar_go_to_darkvalley_start_text">
+    <text>Впереди новые места, в которых я ещё не бывал! Заберу кейс торговца, заодно постараюсь изучить окрестности долины и порыскать в поисках хабара.</text>
+  </string>
+  <string id="gar_go_to_darkvalley_speak_bandit_leader_name">
+    <text>Забрать кейс с артефактами у лидера бандитов</text>
+  </string>
+  <string id="gar_go_to_darkvalley_speak_bandit_leader_text">
+    <text>Костыль просил метнуться в Тёмную Долину за кейсом, который находится у лидера бандитов.</text>
+  </string>
+  <string id="gar_go_to_darkvalley_wait_trader_name">
+    <text>Дождаться появления Костыля и отдать ему кейс</text>
+  </string>
+  <string id="gar_go_to_darkvalley_wait_trader_text">
+    <text>Костыль куда-то отлучился со Свалки и сказал, что маякнёт, когда появится.</text>
+  </string>
+  <string id="to_meet_stalker_messenger">
+    <text>СВЯЗНОЙ</text>
+  </string>
+  <string id="gar_to_meet_stalker_messenger_start_name">
+    <text>Встретиться с Мыславом</text>
+  </string>
+  <string id="gar_to_meet_stalker_messenger_start_text">
+    <text>Патрон отправил меня к Мыславу — его товарищу. С ним нужно уточнить детали нашего дела.</text>
+  </string>
+  <string id="task_for_stalker_messenger">
+    <text>ЗАМАНЧИВОЕ ПРЕДЛОЖЕНИЕ</text>
+  </string>
+  <string id="gar_task_for_stalker_messenger_start_name">
+    <text>Поговорить с Патроном</text>
+  </string>
+  <string id="gar_task_for_stalker_messenger_start_text">
+    <text>У Патрона есть какое-то предложение ко мне.</text>
+  </string>
+  <string id="meet_stalkers_for_agroprom_case">
+    <text>В ПОИСКАХ КОДА</text>
+  </string>
+  <string id="gar_meet_stalkers_for_agroprom_case_start_name">
+    <text>Встретиться со сталкерами</text>
+  </string>
+  <string id="gar_meet_stalkers_for_agroprom_case_one_text">
+    <text>Мыслав дал наводки на трёх своих знакомых, что ушли из клана диггеров. Возможно, кто-то из них знает код от сейфа. По словами Мыслава, Хвост торчит где-то на Свалке, а Митяй и Барин — на Агропроме и Кордоне.</text>
+  </string>
+  <string id="gar_meet_stalkers_for_agroprom_case_two_text">
+    <text>Из информации с тела Мыслава известно о трех его товарищах, что ушли из клана диггеров, который базируется на Агропроме с недавней добычей — кейсом. Возможно, кто-то из этих сталкеров знает код от сейфа, в котором кейс. Хвост торчит где-то на Свалке, а Митяй и Барин — на Агропроме и Кордоне.</text>
+  </string>
+  <string id="known_stalker_messenger">
+    <text>МЁРТВЫЙ СВЯЗНОЙ</text>
+  </string>
+  <string id="gar_known_stalker_messenger_start_name">
+    <text>Обыскать тело Мыслава</text>
+  </string>
+  <string id="gar_known_stalker_messenger_start_text">
+    <text>Патрон направил меня поговорить с Мыславом, однако тот погиб. Нужно обыскать его тело в поисках информации по нашему делу.</text>
+  </string>
+  <string id="gar_start_speak_dolg">
+    <text>ЗАСТАВА «ДОЛГА»</text>
+  </string>
+  <string id="gar_start_speak_dolg_start_name">
+    <text>Познакомиться с командиром отряда</text>
+  </string>
+  <string id="gar_start_speak_dolg_start_text">
+    <text>Интересные мужики эти долговцы. Познакомлюсь, может, узнаю что-то новое или даже найду работу.</text>
+  </string>
+  <string id="gar_case_final_task">
+    <text>ВОЗВРАЩЕНИЕ</text>
+  </string>
+  <string id="gar_case_final_task_start_name">
+    <text>Отдать кейс Костылю</text>
+  </string>
+  <string id="gar_case_final_task_start_text">
+    <text>Непростая выдалась прогулка в Темную Долину. Но кейс у меня. Пора сдать его торговцу и получить награду.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts">
+    <text>ПОВЕЛИТЕЛЬ МОНСТРОВ</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_start_name">
+    <text>Поговорить с Гамзатом</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_start_text">
+    <text>Гамзат просил заглянуть к нему по какому-то вопросу, когда разберусь с делами. Посмотрим, что этот охотник на кровососов мне предложит.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_go_medic_home_name">
+    <text>Добраться до убежища Гамзата</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_go_medic_home_text">
+    <text>У Гамзата есть для меня новая работа. Говорит, бегать от мутантов больше не придется. Нужно встретиться с ним в его убежище.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_start_task_name">
+    <text>Отправиться на поляну со слепыми псами</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_start_task_text">
+    <text>Гамзат рассказал мне о своих исследования по подавлению агрессивности монстров. На это можно повлиять при помощи артефакта. Действует ли это, проверим на собаках.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_task_kill_monsters_name">
+    <text>Отбиться от мутантов</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_task_kill_monsters_text">
+    <text>Артефакт подвёл. Придется ввязываться в бой с монстрами.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_final_speak_name">
+    <text>Поговорить с Гамзатом</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_final_speak_text">
+    <text>Кажется, отбились... Пора пообщаться.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_search_treasure_name">
+    <text>Забрать записи в убежище Гамзата</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_search_treasure_text">
+    <text>Умирающий Гамзат просил передать его записи Дубинину в научный комлпекс на «Агропроме», нужно забрать их у него в убежище.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_kill_bloodsucker_name">
+    <text>Убить кровососа или оставить его в живых</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_kill_bloodsucker_text">
+    <text>Пока артефакт ещё действует, надо убить кровососа. Недалеко лагерь, и было бы лучше устранить потенциальную угрозу.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_go_to_agroprom_name">
+    <text>Отнести документы в научный комплекс</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_go_to_agroprom_text">
+    <text>Гамзат мертв... Его эксперименты оказались не совсем успешными. Отнесу его записи в научный комплекс на «Агропроме», как и обещал.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_speak_task_scientist_name">
+    <text>Встретиться с Дубининым</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_speak_task_scientist_text">
+    <text>Дубинин дал знать о себе. Его надо найти неподалёку от комплекса.</text>
+  </string>
+  <string id="gar_drunk_medic_start_task">
+    <text>НОВЫЙ МЕДИК</text>
+  </string>
+  <string id="gar_drunk_medic_start_task_start_name">
+    <text>Зайти к Сане</text>
+  </string>
+  <string id="gar_drunk_medic_start_task_start_text">
+    <text>Саня все-таки добрался до базы сталкеров. Нужно встретиться и спросить, как он устроился.</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task">
+    <text>ПРОСЬБА</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_speak_duty_name">
+    <text>Добыть медикаменты у «Долга»</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_speak_duty_text">
+    <text>Новому медику нужны медикаменты. Можно попробовать спросить у «Долга» — может, у них есть лишние на продажу.</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_kill_boars_name">
+    <text>Зачистить местность от мутантов</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_kill_boars_text">
+    <text>Долговцы пообещали выделить медикаменты, если я устраню стаю кабанов неподалеку.</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_kill_go_back_name">
+    <text>Вернуться к Дятлову</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_kill_go_back_text">
+    <text>Кабаны уничтожены. Можно возвращаться к Дятлову за наградой.</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_final_speak_name">
+    <text>Отнести Сане медикаменты</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_final_speak_text">
+    <text>К моему удивлению, удалось достать у долговцев медикаменты. Пора отдать их Сане.</text>
+  </string>
+  <string id="gar_start_bar_task">
+    <text>БАР</text>
+  </string>
+  <string id="gar_start_bar_task_go_lchanger_name">
+    <text>Посетить новые окрестности</text>
+  </string>
+  <string id="gar_start_bar_task_go_lchanger_text">
+    <text>После помощи отряду Дятлова у меня появилась возможность посетить самое большое пристанище сталкеров — легендарный Бар. Эта территория находится под контролем группировки «Долг», так что нужно вести себя приемлемо. Как мне сказали, там можно неплохо отдохнуть и подыскать какую-нибудь работу.</text>
+  </string>
+  <string id="gar_military_task">
+    <text>НА АРМЕЙСКИЕ СКЛАДЫ</text>
+  </string>
+  <string id="gar_military_task_start_name">
+    <text>Добраться до Бара</text>
+  </string>
+  <string id="gar_military_task_start_text">
+    <text>Коваль подкинул информацию, что людей, похожих на тех, кого видели на Агропроме в день исчезновения профессора, видели на Армейских складах. Верна эта информация или нет — покажет время. В любом случае, сейчас это единственная зацепка. Дорога до складов предстоит через Бар. Там следует быть очень аккуратным.</text>
+  </string>
+  <string id="gar_start_bar_task_go_military_name">
+    <text>Миновать Бар</text>
+  </string>
+  <string id="gar_start_bar_task_go_military_text">
+    <text>В Баре стоит вести себя осторожно и стараться не отсвечивать. К военным тут точно не очень здоровские.</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task">
+    <text>ОСОБЫЙ ЗАКАЗ</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_name">
+    <text>Дождаться получения товара</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_text">
+    <text>Нужно дождаться, пока Витька Степак достанет нужный товар.\nОриентировочное время доставки:</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_one_day">
+    <text>сутки.</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_two_days">
+    <text>двое суток.</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_item">
+    <text>Ожидаемый товар:</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_ready_name">
+    <text>Забрать товар</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_ready_text">
+    <text>Витька Степак сообщил об успешной доставке заказа. Пора забирать товар:</text>
+  </string>
 </string_table>

@@ -1,24 +1,18 @@
-п»ї<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <string_table>
-
-    <string id="ui_upgrade_window_modification_installed">
-        <text>INSTALLED</text>
-    </string>
-
-    <string id="ui_upgrade_window_modification_unavailable">
-        <text>NOT AVAILABLE</text>
-    </string>
-
-    <string id="ui_upgrade_window_modification_unavailable_for_technic">
-        <text>NOT AVAILABLE TO TECHNICIAN</text>
-    </string>
-
-    <string id="ui_upgrade_window_modification_unavailable_need_previous_module">
-        <text>REQ. PREVIOUS MODULE</text>
-    </string>
-
-    <string id="ui_upgrade_window_repair">
-        <text>REPAIR</text>
-    </string>
-
+  <string id="ui_upgrade_window_modification_installed">
+    <text>INSTALLED</text>
+  </string>
+  <string id="ui_upgrade_window_modification_unavailable">
+    <text>NOT AVAILABLE</text>
+  </string>
+  <string id="ui_upgrade_window_modification_unavailable_for_technic">
+    <text>NOT AVAILABLE TO TECHNICIAN</text>
+  </string>
+  <string id="ui_upgrade_window_modification_unavailable_need_previous_module">
+    <text>REQ. PREVIOUS MODULE</text>
+  </string>
+  <string id="ui_upgrade_window_repair">
+    <text>REPAIR</text>
+  </string>
 </string_table>

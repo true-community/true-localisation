@@ -1,268 +1,201 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="gar_treasure_1_name">
-		<text>Люк</text>
-	</string>
-
-	<string id="gar_treasure_1_descr">
-		<text>Простежив за сталкером, доки він йшов до своєї нички. Якось нагряну.</text>
-	</string>
-
-	<string id="gar_treasure_2_name">
-		<text>Купа труб</text>
-	</string>
-
-	<string id="gar_treasure_2_descr">
-		<text>З одного фраєрка витяг інфу про сховок, в який він з корішем скидає барахло. Ох заживу!</text>
-	</string>
-
-	<string id="gar_treasure_3_name">
-		<text>Яр біля застави</text>
-	</string>
-
-	<string id="gar_treasure_3_descr">
-		<text>Прихватизував рюкзак одного лошка, коли той відливав у кущах. Заховаю на якийсь час.</text>
-	</string>
-
-	<string id="gar_treasure_4_name">
-		<text>Покинутий рюкзак</text>
-	</string>
-
-	<string id="gar_treasure_4_descr">
-		<text>Боюся, я не стягну з такою раною... Треба скинути частину шмоток...</text>
-	</string>
-
-	<string id="gar_treasure_5_name">
-		<text>Хрест біля каменю</text>
-	</string>
-
-	<string id="gar_treasure_5_descr">
-		<text>Ідеальне місце для заначки  -  одинокий хрест з сильним фоном довкола.</text>
-	</string>
-
-	<string id="gar_treasure_6_name">
-		<text>Рюкзак на геліку</text>
-	</string>
-
-	<string id="gar_treasure_6_descr">
-		<text>Недалеко від хімічного болота можна сховати трохи хабара на кладовищі гелікоптерів.</text>
-	</string>
-
-	<string id="gar_treasure_7_name">
-		<text>Недалеко від хутора</text>
-	</string>
-
-	<string id="gar_treasure_7_descr">
-		<text>Вибач, Вітька, зараз у мене криза. Я заберу наш хабар. Твою долю поверну після чергового рейду.</text>
-	</string>
-
-	<string id="gar_treasure_8_name">
-		<text>Болото</text>
-	</string>
-
-	<string id="gar_treasure_8_descr">
-		<text>Ну ніфіга собі вчора вежу затягнуло! Чудове місце для мого хабара.</text>
-	</string>
-
-	<string id="gar_treasure_9_name">
-		<text>Електрощиток</text>
-	</string>
-
-	<string id="gar_treasure_9_descr">
-		<text>Час забирати нажите непосильною працею в лохів, ги-ги!</text>
-	</string>
-
-	<string id="gar_treasure_10_name">
-		<text>Псяча буда</text>
-	</string>
-
-	<string id="gar_treasure_10_descr">
-		<text>Побачив, як бандит обшукував труп сталкера. Кудись тягне його хабар. Простежу.</text>
-	</string>
-
-	<string id="gar_treasure_11_name">
-		<text>Кабіна крана</text>
-	</string>
-
-	<string id="gar_treasure_11_descr">
-		<text>Бляха, знову цей непотріб за мною причепився... Треба скинути частину речей, не можу йти...</text>
-	</string>
-
-	<string id="gar_treasure_12_name">
-		<text>Схований сейф</text>
-	</string>
-
-	<string id="gar_treasure_12_descr">
-		<text>Ха-ха, щось хєрове у бандюків спостереження  -  спокійно шастаю по кладовищу техніки. О, а тут сейф, саме для мого хабара!</text>
-	</string>
-
-	<string id="gar_treasure_13_name">
-		<text>Ящичок в автобусі</text>
-	</string>
-
-	<string id="gar_treasure_13_descr">
-		<text>Завалити кількох бандитів. З одного з них зняли координати сховку.</text>
-	</string>
-
-	<string id="gar_treasure_14_name">
-		<text>Кабіна УАЗу</text>
-	</string>
-
-	<string id="gar_treasure_14_descr">
-		<text>Доки шукаю арти, скину рюкзачок недалечко. Лиш би бандити туди не нагрянули, бо пропаде моє добро...</text>
-	</string>
-
-	<string id="gar_treasure_15_name">
-		<text>Спотворене дерево</text>
-	</string>
-
-	<string id="gar_treasure_15_descr">
-		<text>Хіба є щось краще за місце на сміттєвій купі під спотвореним деревом?</text>
-	</string>
-
-	<string id="gar_treasure_16_name">
-		<text>Кран</text>
-	</string>
-
-	<string id="gar_treasure_16_descr">
-		<text>Знайшов класне місце на території ангара: і не видно, і свої поряд  -  ніхто не залізе.</text>
-	</string>
-
-	<string id="gar_treasure_17_name">
-		<text>Сейф в ангарі</text>
-	</string>
-
-	<string id="gar_treasure_17_descr">
-		<text>Мля, ці срані сталкери зайняли наш ангар! Цікаво, сейф ще не обчистили?</text>
-	</string>
-
-	<string id="gar_treasure_18_name">
-		<text>Рюкзак в обломках</text>
-	</string>
-
-	<string id="gar_treasure_18_descr">
-		<text>Сховав свій рюкзачок на нашій базі. Якщо хто й знайде, то, думаю, не візьме.</text>
-	</string>
-
-	<string id="gar_treasure_19_name">
-		<text>Сховок силача</text>
-	</string>
-
-	<string id="gar_treasure_19_descr">
-		<text>Був у нас один кореш, зараз жмур, на заклад трубу закинув на дах якоїсь хріні в ангарі. Ну, а я в ній хабар свій заникав. Були ж часи...</text>
-	</string>
-
-	<string id="gar_treasure_20_name">
-		<text>Сховок у вентиляції</text>
-	</string>
-
-	<string id="gar_treasure_20_descr">
-		<text>До ангара примикає якась вентиляційна хрінь. Здається, хороше місце для мого барахла.</text>
-	</string>
-
-	<string id="gar_treasure_21_name">
-		<text>Колода біля болота</text>
-	</string>
-
-	<string id="gar_treasure_21_descr">
-		<text>Помітив сталкерів. Один щось никав у колоді. Якось залізу  -  вичищу їм там усе, до біса.</text>
-	</string>
-
-	<string id="gar_treasure_22_name">
-		<text>Ничка жмота</text>
-	</string>
-
-	<string id="gar_treasure_22_descr">
-		<text>Нормально я вчора затарився! Бляха, зараз до своїх прийду  -  вмить усе розтягнуть. Нє, краще я своє добро приховаю.</text>
-	</string>
-
-	<string id="gar_treasure_23_name">
-		<text>Біля ангара</text>
-	</string>
-
-	<string id="gar_treasure_23_descr">
-		<text>У лісі знайшов рюкзачок. Непогана, скажу я, знахідка: зброя та медикаменти. А дивлячись на останні, рюкзак цей був явно не сталкерський.</text>
-	</string>
-
-	<string id="gar_treasure_24_name">
-		<text>Аномальна ничка</text>
-	</string>
-
-	<string id="gar_treasure_24_descr">
-		<text>Ходив по аномаліях в пошуках артефактів і наткнувся на місцину, де можна заховати троха речей про всяк випадок.</text>
-	</string>
-
-	<string id="gar_treasure_25_name">
-		<text>Сміттєва купа</text>
-	</string>
-
-	<string id="gar_treasure_25_descr">
-		<text>А неслабо так фонить на смітнику  -  ніхто ж туди не полізе за моїм добром?</text>
-	</string>
-
-	<string id="gar_treasure_26_name">
-		<text>Барахло в електрощитку</text>
-	</string>
-
-	<string id="gar_treasure_26_descr">
-		<text>Ну, ніфіга собі тут катакомби, йосип драний! Та тут можна що завгодно зберігати: і їжа не псується довгий час, і патрони не відсиріють.</text>
-	</string>
-
-	<string id="gar_treasure_27_name">
-		<text>Речі вбитого</text>
-	</string>
-
-	<string id="gar_treasure_27_descr">
-		<text>Закатрупили бандити якогось сталкера, сволота. Добре, що хоч не до кінця обчистили. Решта  -  моє.</text>
-	</string>
-
-	<string id="gar_treasure_28_name">
-		<text>«Вода газована»</text>
-	</string>
-
-	<string id="gar_treasure_28_descr">
-		<text>Чого тільки немає в цих катакомбах. Знайшов кілька радянських автоматів для купівлі газованої води, сховаю там скромненько дещо.</text>
-	</string>
-
-	<string id="gar_treasure_29_name">
-		<text>Крадений рюкзак</text>
-	</string>
-
-	<string id="gar_treasure_29_descr">
-		<text>Ха-ха, давно я так не іржав: цей придурок залишив рюкзак, коли в аномалію поліз, і забув забрати його! Було ваше, стало наше!</text>
-	</string>
-
-	<string id="gar_treasure_30_name">
-		<text>Ящик біля КПП</text>
-	</string>
-
-	<string id="gar_treasure_30_descr">
-		<text>Саня, я сховав твої речі на КПП біля ангара, своїм я щось не довіряю. Оклигаєш  -  забирай, але не тягни.</text>
-	</string>
-
-	<string id="gar_treasure_31_name">
-		<text>Летючий рюкзак</text>
-	</string>
-
-	<string id="gar_treasure_31_descr">
-		<text>Доки всі спали, заникав рюкзак нашого приколіста на дереві, хай тепер шукає.</text>
-	</string>
-
-	<string id="gar_quest_treasure_1_name">
-		<text>Сховок Хрома</text>
-	</string>
-
-	<string id="gar_quest_treasure_1_descr">
-		<text>Сховок сталкера Хроми. Невідомо, що там знаходиться.</text>
-	</string>
-
-	<string id="gar_quest_treasure_11_name">
-		<text>Залишки минулого</text>
-	</string>
-
-	<string id="gar_quest_treasure_11_descr">
-		<text>Скину, мабуть, я своє назбиране добро в аномальній цистерні. Однаково мою тему прикрили, а кидати добро в ненадійному місці шкода.</text>
-	</string>
-
+  <string id="gar_treasure_1_name">
+    <text>Люк</text>
+  </string>
+  <string id="gar_treasure_1_descr">
+    <text>Простежив за сталкером, доки він йшов до своєї нички. Якось нагряну.</text>
+  </string>
+  <string id="gar_treasure_2_name">
+    <text>Купа труб</text>
+  </string>
+  <string id="gar_treasure_2_descr">
+    <text>З одного фраєрка витяг інфу про сховок, в який він з корішем скидає барахло. Ох заживу!</text>
+  </string>
+  <string id="gar_treasure_3_name">
+    <text>Яр біля застави</text>
+  </string>
+  <string id="gar_treasure_3_descr">
+    <text>Прихватизував рюкзак одного лошка, коли той відливав у кущах. Заховаю на якийсь час.</text>
+  </string>
+  <string id="gar_treasure_4_name">
+    <text>Покинутий рюкзак</text>
+  </string>
+  <string id="gar_treasure_4_descr">
+    <text>Боюся, я не стягну з такою раною... Треба скинути частину шмоток...</text>
+  </string>
+  <string id="gar_treasure_5_name">
+    <text>Хрест біля каменю</text>
+  </string>
+  <string id="gar_treasure_5_descr">
+    <text>Ідеальне місце для заначки  —  одинокий хрест з сильним фоном довкола.</text>
+  </string>
+  <string id="gar_treasure_6_name">
+    <text>Рюкзак на геліку</text>
+  </string>
+  <string id="gar_treasure_6_descr">
+    <text>Недалеко від хімічного болота можна сховати трохи хабара на кладовищі гелікоптерів.</text>
+  </string>
+  <string id="gar_treasure_7_name">
+    <text>Недалеко від хутора</text>
+  </string>
+  <string id="gar_treasure_7_descr">
+    <text>Вибач, Вітька, зараз у мене криза. Я заберу наш хабар. Твою долю поверну після чергового рейду.</text>
+  </string>
+  <string id="gar_treasure_8_name">
+    <text>Болото</text>
+  </string>
+  <string id="gar_treasure_8_descr">
+    <text>Ну ніфіга собі вчора вежу затягнуло! Чудове місце для мого хабара.</text>
+  </string>
+  <string id="gar_treasure_9_name">
+    <text>Електрощиток</text>
+  </string>
+  <string id="gar_treasure_9_descr">
+    <text>Час забирати нажите непосильною працею в лохів, ги-ги!</text>
+  </string>
+  <string id="gar_treasure_10_name">
+    <text>Псяча буда</text>
+  </string>
+  <string id="gar_treasure_10_descr">
+    <text>Побачив, як бандит обшукував труп сталкера. Кудись тягне його хабар. Простежу.</text>
+  </string>
+  <string id="gar_treasure_11_name">
+    <text>Кабіна крана</text>
+  </string>
+  <string id="gar_treasure_11_descr">
+    <text>Бляха, знову цей непотріб за мною причепився... Треба скинути частину речей, не можу йти...</text>
+  </string>
+  <string id="gar_treasure_12_name">
+    <text>Схований сейф</text>
+  </string>
+  <string id="gar_treasure_12_descr">
+    <text>Ха-ха, щось хєрове у бандюків спостереження  —  спокійно шастаю по кладовищу техніки. О, а тут сейф, саме для мого хабара!</text>
+  </string>
+  <string id="gar_treasure_13_name">
+    <text>Ящичок в автобусі</text>
+  </string>
+  <string id="gar_treasure_13_descr">
+    <text>Завалити кількох бандитів. З одного з них зняли координати сховку.</text>
+  </string>
+  <string id="gar_treasure_14_name">
+    <text>Кабіна УАЗу</text>
+  </string>
+  <string id="gar_treasure_14_descr">
+    <text>Доки шукаю арти, скину рюкзачок недалечко. Лиш би бандити туди не нагрянули, бо пропаде моє добро...</text>
+  </string>
+  <string id="gar_treasure_15_name">
+    <text>Спотворене дерево</text>
+  </string>
+  <string id="gar_treasure_15_descr">
+    <text>Хіба є щось краще за місце на сміттєвій купі під спотвореним деревом?</text>
+  </string>
+  <string id="gar_treasure_16_name">
+    <text>Кран</text>
+  </string>
+  <string id="gar_treasure_16_descr">
+    <text>Знайшов класне місце на території ангара: і не видно, і свої поряд  —  ніхто не залізе.</text>
+  </string>
+  <string id="gar_treasure_17_name">
+    <text>Сейф в ангарі</text>
+  </string>
+  <string id="gar_treasure_17_descr">
+    <text>Мля, ці срані сталкери зайняли наш ангар! Цікаво, сейф ще не обчистили?</text>
+  </string>
+  <string id="gar_treasure_18_name">
+    <text>Рюкзак в обломках</text>
+  </string>
+  <string id="gar_treasure_18_descr">
+    <text>Сховав свій рюкзачок на нашій базі. Якщо хто й знайде, то, думаю, не візьме.</text>
+  </string>
+  <string id="gar_treasure_19_name">
+    <text>Сховок силача</text>
+  </string>
+  <string id="gar_treasure_19_descr">
+    <text>Був у нас один кореш, зараз жмур, на заклад трубу закинув на дах якоїсь хріні в ангарі. Ну, а я в ній хабар свій заникав. Були ж часи...</text>
+  </string>
+  <string id="gar_treasure_20_name">
+    <text>Сховок у вентиляції</text>
+  </string>
+  <string id="gar_treasure_20_descr">
+    <text>До ангара примикає якась вентиляційна хрінь. Здається, хороше місце для мого барахла.</text>
+  </string>
+  <string id="gar_treasure_21_name">
+    <text>Колода біля болота</text>
+  </string>
+  <string id="gar_treasure_21_descr">
+    <text>Помітив сталкерів. Один щось никав у колоді. Якось залізу  —  вичищу їм там усе, до біса.</text>
+  </string>
+  <string id="gar_treasure_22_name">
+    <text>Ничка жмота</text>
+  </string>
+  <string id="gar_treasure_22_descr">
+    <text>Нормально я вчора затарився! Бляха, зараз до своїх прийду  —  вмить усе розтягнуть. Нє, краще я своє добро приховаю.</text>
+  </string>
+  <string id="gar_treasure_23_name">
+    <text>Біля ангара</text>
+  </string>
+  <string id="gar_treasure_23_descr">
+    <text>У лісі знайшов рюкзачок. Непогана, скажу я, знахідка: зброя та медикаменти. А дивлячись на останні, рюкзак цей був явно не сталкерський.</text>
+  </string>
+  <string id="gar_treasure_24_name">
+    <text>Аномальна ничка</text>
+  </string>
+  <string id="gar_treasure_24_descr">
+    <text>Ходив по аномаліях в пошуках артефактів і наткнувся на місцину, де можна заховати троха речей про всяк випадок.</text>
+  </string>
+  <string id="gar_treasure_25_name">
+    <text>Сміттєва купа</text>
+  </string>
+  <string id="gar_treasure_25_descr">
+    <text>А неслабо так фонить на смітнику  —  ніхто ж туди не полізе за моїм добром?</text>
+  </string>
+  <string id="gar_treasure_26_name">
+    <text>Барахло в електрощитку</text>
+  </string>
+  <string id="gar_treasure_26_descr">
+    <text>Ну, ніфіга собі тут катакомби, йосип драний! Та тут можна що завгодно зберігати: і їжа не псується довгий час, і патрони не відсиріють.</text>
+  </string>
+  <string id="gar_treasure_27_name">
+    <text>Речі вбитого</text>
+  </string>
+  <string id="gar_treasure_27_descr">
+    <text>Закатрупили бандити якогось сталкера, сволота. Добре, що хоч не до кінця обчистили. Решта  —  моє.</text>
+  </string>
+  <string id="gar_treasure_28_name">
+    <text>«Вода газована»</text>
+  </string>
+  <string id="gar_treasure_28_descr">
+    <text>Чого тільки немає в цих катакомбах. Знайшов кілька радянських автоматів для купівлі газованої води, сховаю там скромненько дещо.</text>
+  </string>
+  <string id="gar_treasure_29_name">
+    <text>Крадений рюкзак</text>
+  </string>
+  <string id="gar_treasure_29_descr">
+    <text>Ха-ха, давно я так не іржав: цей придурок залишив рюкзак, коли в аномалію поліз, і забув забрати його! Було ваше, стало наше!</text>
+  </string>
+  <string id="gar_treasure_30_name">
+    <text>Ящик біля КПП</text>
+  </string>
+  <string id="gar_treasure_30_descr">
+    <text>Саня, я сховав твої речі на КПП біля ангара, своїм я щось не довіряю. Оклигаєш  —  забирай, але не тягни.</text>
+  </string>
+  <string id="gar_treasure_31_name">
+    <text>Летючий рюкзак</text>
+  </string>
+  <string id="gar_treasure_31_descr">
+    <text>Доки всі спали, заникав рюкзак нашого приколіста на дереві, хай тепер шукає.</text>
+  </string>
+  <string id="gar_quest_treasure_1_name">
+    <text>Сховок Хрома</text>
+  </string>
+  <string id="gar_quest_treasure_1_descr">
+    <text>Сховок сталкера Хроми. Невідомо, що там знаходиться.</text>
+  </string>
+  <string id="gar_quest_treasure_11_name">
+    <text>Залишки минулого</text>
+  </string>
+  <string id="gar_quest_treasure_11_descr">
+    <text>Скину, мабуть, я своє назбиране добро в аномальній цистерні. Однаково мою тему прикрили, а кидати добро в ненадійному місці шкода.</text>
+  </string>
 </string_table>

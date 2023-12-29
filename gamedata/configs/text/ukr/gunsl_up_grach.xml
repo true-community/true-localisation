@@ -1,135 +1,135 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-<string id="gunsl_grach_up_light_ramka_name">
-     <text>Полегшена рамка</text>
-</string>
-<string id="gunsl_grach_up_light_ramka_descr">
-	<text>Заміна стандартної рамки зброї на полегшений аналог дозволяє виграти у масі зброї, при цьому  не програючи у надійності та решті характеристик.</text>
-</string>
-<string id="gunsl_grach_up_rail_name">
-     <text>Рейкове кріплення</text>
-</string>
-<string id="gunsl_grach_up_rail_descr">
-	<text>Дозволяє встановлювати на зброю тактичні аксесуари.</text>
-</string>
-<string id="gunsl_grach_up_flashlaser_name">
-     <text>Комбінований тактичний модуль</text>
-</string>
-<string id="gunsl_grach_up_flashlaser_descr">
-     <text>Поєднує у собі функції вузьконаправленого тактичного ліхтаря та ЛЦВ. Особливо корисний за нічних умов.</text>
-</string>
-<string id="gunsl_grach_up_hard_ramka_name">
-     <text>Посилення рамки</text>
-</string>
-<string id="gunsl_grach_up_hard_ramka_descr">
-	<text>Посилення рамки дозволяє продовжити строк служби зброї.</text>
-</string>
-<string id="gunsl_grach_up_body_reliability_name">
-     <text>Захисне покриття</text>
-</string>
-<string id="gunsl_grach_up_body_reliability_descr">
-     <text>Нанесення спеціального напилення на деталі зброї збільшує строк її служби.</text>
-</string>
-<string id="gunsl_grach_up_barrel_sil_name">
-     <text>Ствол з різьбою під глушник</text>
-</string>
-<string id="gunsl_grach_up_barrel_sil_descr">
-     <text>Заміна ствола на подовжений з різьбою для встановлення саундмодератора.</text>
-</string>
-<string id="gunsl_grach_up_barrel_accuracy_name">
-     <text>Юстирування ствола</text>
-</string>
-<string id="gunsl_grach_up_barrel_accuracy_descr">
-	<text>Дозволяє знизити розкид куль при стрільбі зі зброї, що підвищує купність та точність ведення вогню.</text>
-</string>
-<string id="gunsl_grach_up_barrel_speed_name">
-     <text>Ствол зі зміненим кроком нарізки</text>
-</string>
-<string id="gunsl_grach_up_barrel_speed_descr">
-	<text>Зміна кроку нарізів у каналі ствола дозволяє підвищити початкову швидкість кулі та знизити розкид влучань при стрільбі.</text>
-</string>
-<string id="gunsl_grach_up_usm_rpm_name">
-     <text>Форсування УСМ</text>
-</string>
-<string id="gunsl_grach_up_usm_rpm_descr">
-	<text>Переналаштування УСМ з дообробкою деяких його деталей дозволяє стрільцеві вести вогонь з більш високим темпом. На жаль, зброя від цього починає зношуватися трохи швидше.</text>
-</string>
-<string id="gunsl_grach_up_usm_recoil_name">
-     <text>М'який спуск УСМ</text>
-</string>
-<string id="gunsl_grach_up_usm_recoil_descr">
-     <text>Дозволяє знизити віддачу, дозволяючи стріляти точніше.</text>
-</string>
-<string id="gunsl_grach_up_int_bulletspeed_name">
-     <text>Герметизація патронника</text>
-</string>
-<string id="gunsl_grach_up_int_bulletspeed_descr">
-     <text>Дозволяє підвищити тиск, що виникає при пострілі в каналі ствола, і тим самим збільшити початкову швидкість кулі.</text>
-</string>
-<string id="gunsl_grach_up_int_recoil_name">
-	<text>Система компенсації віддачі</text>
-</string>
-<string id="gunsl_grach_up_int_recoil_descr">
-	<text>Розміщення всередині зброї складного механізму швейцарського виробництва, що переміщається у протифазі з затвором і знижує відчутну після пострілів віддачу.</text>
-</string>
-<string id="gunsl_grach_up_zatvor_recoil_name">
-     <text>Балансуваня затвора</text>
-</string>
-<string id="gunsl_grach_up_zatvor_recoil_descr">
-     <text>Балансування деталей затворної групи зменшує ведення ствола з лінії прицілювання при пострілі та знижує відчутну віддачу.</text>
-</string>
-<string id="gunsl_grach_up_zatvor_rpm_name">
-     <text>Форсований зворотний механізм</text>
-</string>
-<string id="gunsl_grach_up_zatvor_rpm_descr">
-	<text>Дозволяє стрільцеві вести вогонь з більшим темпом. На жаль, зброя через це зношується трохи швидше.</text>
-</string>
-<string id="gunsl_grach_up_zatvor_zapiratel_name">
-     <text>Покращений механізм запирания каналу ствола</text>
-</string>
-<string id="gunsl_grach_up_zatvor_zapiratel_descr">
-	<text>Мінімізувє люфти та щілини, дозволяючи підвищити тиск у каналі ствола та збільшити початкову швидкість кулі.</text>
-</string>
-<string id="gunsl_grach_up_patronnik_accuracy_name">
-     <text>Юстирування патронника</text>
-</string>
-<string id="gunsl_grach_up_patronnik_accuracy_descr">
-     <text>Дозволяє покращити обтюрацію та досягти вищої точності стрільби.</text>
-</string>
-<string id="gunsl_grach_up_handle_name">
-     <text>Прогумоване руків'я</text>
-</string>
-<string id="gunsl_grach_up_handle_descr">
-	<text>Дозволяє зробити утримування утримування зброї набагато зручнішим, а стрільбу комфортнішою.</text>
-</string>
-<string id="gunsl_grach_up_sights_name">
-      <text>Тритієві вставки</text>
-</string>
-<string id="gunsl_grach_up_sights_descr">
-     <text>Встановлення світних вставок у прицільні засоби дозволяє підвищити швидкість прицілювання й зручність бою в темряві.</text>
-</string>
-<string id="gunsl_grach_up_light_mag_name">
-     <text>Легкий магазин</text>
-</string>
-<string id="gunsl_grach_up_light_mag_descr">
-	<text>Заміна штатного магазину зброї на полегшений варіант дозволяє трохи знизити повну масу зброї.</text>
-</string>
-<string id="gunsl_grach_up_light_details_name">
-     <text>Легкосплавні деталі</text>
-</string>
-<string id="gunsl_grach_up_light_details_descr">
-	 <text>Заміна стандартних деталей на аналоги з легких сплавів дозволяє знизити масу зброї без значної шкоди для решти тактико-технічних характеристик.</text>
-</string>
-<string id="gunsl_grach_up_titan_details_name">
-     <text>Деталі підвищеної міцності</text>
-</string>
-<string id="gunsl_grach_up_titan_details_descr">
-	<text>Заміна стандартних деталей на аналоги з тугоплавких сплавів дозволяє підвищити зносостійкість зброї.</text>
-</string>
-<string id="gunsl_grach_up_barrel_recoil_name">
-     <text>Компенсатор віддачі</text>
-</string>
-<string id="gunsl_grach_up_barrel_recoil_descr">
-     <text>Ствол с інтегрованим компенсатором зменшує відчутну від пострілу віддачу.</text>
-</string>
+  <string id="gunsl_grach_up_light_ramka_name">
+    <text>Полегшена рамка</text>
+  </string>
+  <string id="gunsl_grach_up_light_ramka_descr">
+    <text>Заміна стандартної рамки зброї на полегшений аналог дозволяє виграти у масі зброї, при цьому  не програючи у надійності та решті характеристик.</text>
+  </string>
+  <string id="gunsl_grach_up_rail_name">
+    <text>Рейкове кріплення</text>
+  </string>
+  <string id="gunsl_grach_up_rail_descr">
+    <text>Дозволяє встановлювати на зброю тактичні аксесуари.</text>
+  </string>
+  <string id="gunsl_grach_up_flashlaser_name">
+    <text>Комбінований тактичний модуль</text>
+  </string>
+  <string id="gunsl_grach_up_flashlaser_descr">
+    <text>Поєднує у собі функції вузьконаправленого тактичного ліхтаря та ЛЦВ. Особливо корисний за нічних умов.</text>
+  </string>
+  <string id="gunsl_grach_up_hard_ramka_name">
+    <text>Посилення рамки</text>
+  </string>
+  <string id="gunsl_grach_up_hard_ramka_descr">
+    <text>Посилення рамки дозволяє продовжити строк служби зброї.</text>
+  </string>
+  <string id="gunsl_grach_up_body_reliability_name">
+    <text>Захисне покриття</text>
+  </string>
+  <string id="gunsl_grach_up_body_reliability_descr">
+    <text>Нанесення спеціального напилення на деталі зброї збільшує строк її служби.</text>
+  </string>
+  <string id="gunsl_grach_up_barrel_sil_name">
+    <text>Ствол з різьбою під глушник</text>
+  </string>
+  <string id="gunsl_grach_up_barrel_sil_descr">
+    <text>Заміна ствола на подовжений з різьбою для встановлення саундмодератора.</text>
+  </string>
+  <string id="gunsl_grach_up_barrel_accuracy_name">
+    <text>Юстирування ствола</text>
+  </string>
+  <string id="gunsl_grach_up_barrel_accuracy_descr">
+    <text>Дозволяє знизити розкид куль при стрільбі зі зброї, що підвищує купність та точність ведення вогню.</text>
+  </string>
+  <string id="gunsl_grach_up_barrel_speed_name">
+    <text>Ствол зі зміненим кроком нарізки</text>
+  </string>
+  <string id="gunsl_grach_up_barrel_speed_descr">
+    <text>Зміна кроку нарізів у каналі ствола дозволяє підвищити початкову швидкість кулі та знизити розкид влучань при стрільбі.</text>
+  </string>
+  <string id="gunsl_grach_up_usm_rpm_name">
+    <text>Форсування УСМ</text>
+  </string>
+  <string id="gunsl_grach_up_usm_rpm_descr">
+    <text>Переналаштування УСМ з дообробкою деяких його деталей дозволяє стрільцеві вести вогонь з більш високим темпом. На жаль, зброя від цього починає зношуватися трохи швидше.</text>
+  </string>
+  <string id="gunsl_grach_up_usm_recoil_name">
+    <text>М'який спуск УСМ</text>
+  </string>
+  <string id="gunsl_grach_up_usm_recoil_descr">
+    <text>Дозволяє знизити віддачу, дозволяючи стріляти точніше.</text>
+  </string>
+  <string id="gunsl_grach_up_int_bulletspeed_name">
+    <text>Герметизація патронника</text>
+  </string>
+  <string id="gunsl_grach_up_int_bulletspeed_descr">
+    <text>Дозволяє підвищити тиск, що виникає при пострілі в каналі ствола, і тим самим збільшити початкову швидкість кулі.</text>
+  </string>
+  <string id="gunsl_grach_up_int_recoil_name">
+    <text>Система компенсації віддачі</text>
+  </string>
+  <string id="gunsl_grach_up_int_recoil_descr">
+    <text>Розміщення всередині зброї складного механізму швейцарського виробництва, що переміщається у протифазі з затвором і знижує відчутну після пострілів віддачу.</text>
+  </string>
+  <string id="gunsl_grach_up_zatvor_recoil_name">
+    <text>Балансуваня затвора</text>
+  </string>
+  <string id="gunsl_grach_up_zatvor_recoil_descr">
+    <text>Балансування деталей затворної групи зменшує ведення ствола з лінії прицілювання при пострілі та знижує відчутну віддачу.</text>
+  </string>
+  <string id="gunsl_grach_up_zatvor_rpm_name">
+    <text>Форсований зворотний механізм</text>
+  </string>
+  <string id="gunsl_grach_up_zatvor_rpm_descr">
+    <text>Дозволяє стрільцеві вести вогонь з більшим темпом. На жаль, зброя через це зношується трохи швидше.</text>
+  </string>
+  <string id="gunsl_grach_up_zatvor_zapiratel_name">
+    <text>Покращений механізм запирания каналу ствола</text>
+  </string>
+  <string id="gunsl_grach_up_zatvor_zapiratel_descr">
+    <text>Мінімізувє люфти та щілини, дозволяючи підвищити тиск у каналі ствола та збільшити початкову швидкість кулі.</text>
+  </string>
+  <string id="gunsl_grach_up_patronnik_accuracy_name">
+    <text>Юстирування патронника</text>
+  </string>
+  <string id="gunsl_grach_up_patronnik_accuracy_descr">
+    <text>Дозволяє покращити обтюрацію та досягти вищої точності стрільби.</text>
+  </string>
+  <string id="gunsl_grach_up_handle_name">
+    <text>Прогумоване руків'я</text>
+  </string>
+  <string id="gunsl_grach_up_handle_descr">
+    <text>Дозволяє зробити утримування утримування зброї набагато зручнішим, а стрільбу комфортнішою.</text>
+  </string>
+  <string id="gunsl_grach_up_sights_name">
+    <text>Тритієві вставки</text>
+  </string>
+  <string id="gunsl_grach_up_sights_descr">
+    <text>Встановлення світних вставок у прицільні засоби дозволяє підвищити швидкість прицілювання й зручність бою в темряві.</text>
+  </string>
+  <string id="gunsl_grach_up_light_mag_name">
+    <text>Легкий магазин</text>
+  </string>
+  <string id="gunsl_grach_up_light_mag_descr">
+    <text>Заміна штатного магазину зброї на полегшений варіант дозволяє трохи знизити повну масу зброї.</text>
+  </string>
+  <string id="gunsl_grach_up_light_details_name">
+    <text>Легкосплавні деталі</text>
+  </string>
+  <string id="gunsl_grach_up_light_details_descr">
+    <text>Заміна стандартних деталей на аналоги з легких сплавів дозволяє знизити масу зброї без значної шкоди для решти тактико-технічних характеристик.</text>
+  </string>
+  <string id="gunsl_grach_up_titan_details_name">
+    <text>Деталі підвищеної міцності</text>
+  </string>
+  <string id="gunsl_grach_up_titan_details_descr">
+    <text>Заміна стандартних деталей на аналоги з тугоплавких сплавів дозволяє підвищити зносостійкість зброї.</text>
+  </string>
+  <string id="gunsl_grach_up_barrel_recoil_name">
+    <text>Компенсатор віддачі</text>
+  </string>
+  <string id="gunsl_grach_up_barrel_recoil_descr">
+    <text>Ствол с інтегрованим компенсатором зменшує відчутну від пострілу віддачу.</text>
+  </string>
 </string_table>

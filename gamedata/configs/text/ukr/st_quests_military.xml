@@ -1,388 +1,291 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="mil_search_unknowns_task">
-		<text>ПОШУКИ НЕВІДОМИХ</text>
-	</string>
-
-	<string id="mil_search_unknowns_task_talk_with_trader_name">
-		<text>Дістатися до крамаря</text>
-	</string>
-
-	<string id="mil_search_unknowns_task_talk_with_trader_text">
-		<text>Коваль мертвий. Він врятував мене ціною свого життя. Але мені в будь-якому разі треба довести справу до кінця. Можливо, я вже поряд з істиною. Зараз потрібно знайти місцевого крамаря, який повинен допомогти мені вийти на сталкерів, які зіткнулися з невідомою групою... а ця група, можливо, причетна до зіткнення професора.</text>
-	</string>
-
-	<string id="mil_search_unknowns_task_stalkers_lager_name">
-		<text>Відправитися в табір Акорда</text>
-	</string>
-
-	<string id="mil_search_unknowns_task_stalkers_lager_text">
-		<text>Крамар вказав на приблизне розташування укриття групи сталкерів на чолі з Акордом, які мені й потрібні для розслідування. Потрібно перевірити місце.</text>
-	</string>
-
-	<string id="mil_mercs_prison_task">
-		<text>ПОЛОН В ПОЛОНІ</text>
-	</string>
-
-	<string id="mil_mercs_prison_task_start_name">
-		<text>Йти за найманцями</text>
-	</string>
-
-	<string id="mil_mercs_prison_task_start_text">
-		<text>Невідомий, на пошуки якого я прибув на Армійські склади, застав мене зненацька. Однак під час нашої люб'язної розмови нас схопили найманці. Цікаво, навіщо ми їм потрібні?</text>
-	</string>
-
-	<string id="mil_after_katakomb_task">
-		<text>СПРАВА ДОХОДИТЬ КІНЦЯ</text>
-	</string>
-
-	<string id="mil_after_katakomb_task_talk_with_merc_leader_name">
-		<text>Поговорити з Термітом</text>
-	</string>
-
-	<string id="mil_after_katakomb_task_talk_with_merc_leader_text">
-		<text>Вдалося вибратися живим із підземель разом із Термітом. Потрібно з ним поговорити та рухатися за своїми речами, які у нас відібрали найманці.</text>
-	</string>
-
-	<string id="mil_after_katakomb_task_kill_mercs_with_merc_leader_name">
-		<text>Вбити найманців разом із Термітом</text>
-	</string>
-
-	<string id="mil_after_katakomb_task_kill_mercs_with_merc_leader_text">
-		<text>Нам вдалося вижити. Тепер наше завдання  -  забрати своє добро, а після цього вже розберемося, хто такий цей Терміт і як він пов'язаний з професором Дубинцем.</text>
-	</string>
-
-	<string id="mil_after_katakomb_task_kill_mercs_name">
-		<text>Вбити найманців самотужки</text>
-	</string>
-
-	<string id="mil_after_katakomb_task_kill_mercs_text">
-		<text>Терміт ніби випарувався після отримання непоганої кулі. Впевнений, рано чи пізно ми зустрінемося. Так чи інакше, він якось пов'язаний із професором Дубинцем.</text>
-	</string>
-
-	<string id="mil_after_katakomb_take_actor_items_name">
-		<text>Забрати свої речі</text>
-	</string>
-
-	<string id="mil_after_katakomb_take_actor_items_text">
-		<text>Настав час забирати свої речі та звалювати звідси.</text>
-	</string>
-
-	<string id="mil_after_katakomb_search_code_name">
-		<text>Знайти код від сейфа найманців</text>
-	</string>
-
-	<string id="mil_after_katakomb_search_code_text">
-		<text>Сейф з речами закритий. Треба перевірити трупи найманців.</text>
-	</string>
-
-	<string id="mil_after_katakomb_open_safe_name">
-		<text>Відкрити сейф</text>
-	</string>
-
-	<string id="mil_after_katakomb_open_safe_text">
-		<text>Код від сейфа був на тілі одного із найманців. Тепер можна забрати свої речі.</text>
-	</string>
-
-	<string id="mil_after_katakomb_trader_task">
-		<text>НЕОПЛАЧЕНИЙ БОРГ</text>
-	</string>
-
-	<string id="mil_after_katakomb_trader_task_start_name">
-		<text>Повернутися до крамаря</text>
-	</string>
-
-	<string id="mil_after_katakomb_trader_task_start_text">
-		<text>Поки чекаю на свою групу, треба повернутися до крамаря. Не завадить дізнатися більше інформації про Армійські склади й заразом повідомити йому погані новини  -  борг йому вже ніхто не поверне.</text>
-	</string>
-
-	<string id="mil_after_katakomb_trader_alternative_task">
-		<text>МІСЦЕВИЙ БАРИГА</text>
-	</string>
-
-	<string id="mil_after_katakomb_trader_alternative_task_start_name">
-		<text>Поспілкуватись з крамарем</text>
-	</string>
-
-	<string id="mil_after_katakomb_trader_alternative_task_start_text">
-		<text>Досі не заглянув до місцевого крамаря. Потрібно дізнатися більше про ці місця, оскільки всі зачіпки, пов'язані з професором Дубинцем, випарувалися із Термітом.</text>
-	</string>
-
-	<string id="mil_after_katakomb_trader_sleep_task">
-		<text>ВІДПОЧИНОК</text>
-	</string>
-
-	<string id="mil_after_katakomb_trader_sleep_task_start_name">
-		<text>Поспати кілька годин</text>
-	</string>
-
-	<string id="mil_after_katakomb_trader_sleep_task_start_text">
-		<text>Я на ногах вже кілька днів поспіль. Поки мій загін добирається до Армійських складів, треба трохи перепочити.</text>
-	</string>
-
-	<string id="mil_plan_interception_task">
-		<text>ПЛАН ПЕРЕХОПЛЕННЯ</text>
-	</string>
-
-	<string id="mil_plan_interception_task_start_name">
-		<text>Вирушити на військову базу</text>
-	</string>
-
-	<string id="mil_plan_interception_task_start_text">
-		<text>Ми вирішили перехопити сигнали невідомих, щоб дізнатися про їхнє розташування. Для того, щоб обладнання, що перехоплює охопило найбільший радіус, потрібно знайти високу точку. Вишки на покинутій військовій базі чудово для цього підходять, але не варто забувати про попередження крамаря щодо цього місця.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_sky_tower_name">
-		<text>Поговорити зі Скаєм</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_sky_tower_text">
-		<text>Здається, ми знайшли необхідну вежу для встановлення обладнання. Потрібно поговорити зі Скаєм.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_device_place_name">
-		<text>Встановити обладнання на вежі</text>
-	</string>
-
-	<string id="mil_plan_interception_task_device_place_text">
-		<text>Ми на місці. Тепер потрібно встановити обладнання на вежі та почати сканування.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_leave_the_base_name">
-		<text>Покинути військову базу</text>
-	</string>
-
-	<string id="mil_plan_interception_task_leave_the_base_text">
-		<text>Після встановлення обладнання ми змогли перехопити декілька сигналів. Потрібно спершу якнайшвидше піти з військової бази, а потім перевірити певні місця.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_sky_after_leave_name">
-		<text>Дізнатись у Ская про отримані дані</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_sky_after_leave_text">
-		<text>Те, що відбулося на військовій базі позаду, і поставлене завдання щодо встановлення приладу успішно виконане. Залишилося дізнатися у Ская, які дані вдалося отримати.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_check_heli_zone_name">
-		<text>Слідувати за загоном до гелікоптера</text>
-	</string>
-
-	<string id="mil_plan_interception_task_check_heli_zone_text">
-		<text>Ми засікли потужний зашифрований сигнал, що йде від гелікоптера, що впав. Потрібно перевірити це місце.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_sky_heli_name">
-		<text>Поговорити зі Скаєм</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_sky_heli_text">
-		<text>До гелікоптера, схоже, так просто не підібратися. Потрібно обговорити деталі зі Скаєм.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_trader_heli_name">
-		<text>Розпитати крамаря про гелікоптер</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_trader_heli_text">
-		<text>Ми виявили прихований прохід під гелікоптером. Дістатись туди заважає потужне псі-випромінювання. Нам потрібно знайти спосіб пройти його або знайти інший вхід. Підказати про це, мабуть, може крамар Зубр.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_sky_technic_pda_name">
-		<text>Дізнатись у Ская місцеперебування сталкера</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_sky_technic_pda_text">
-		<text>Крамар дав мені ID-номер КПК сталкера, який може допомогти пробратися крізь псі-випромінювання. Залишилося лише знайти його. Скай повинен допомогти.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_search_stalker_technic_name">
-		<text>Вирушити на сигнал сталкера</text>
-	</string>
-
-	<string id="mil_plan_interception_task_search_stalker_technic_text">
-		<text>Народний умілець, який здатний щось підказати нам про гелікоптер, помічений на території села. Серед сталкерів це місце називають «Кровососівка»...</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_stalker_name">
-		<text>Дізнатись у сталкера про псі-випромінювання у гелікоптера</text>
-	</string>
-
-	<string id="mil_plan_interception_task_talk_with_stalker_text">
-		<text>При першій же нагоді потрібно буде дізнатися у місцевого сталкера-умільця про псі-випромінювання у гелікоптера, до якого нам потрібно пробратися.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_get_psy_helm_name">
-		<text>Зібрати псі-шолом</text>
-	</string>
-
-	<string id="mil_plan_interception_task_get_psy_helm_text">
-		<text>Для доступу до гелікоптера необхідно зібрати псі-шолом, а краще декілька, щоб із загоном докладніше вивчити все, що знаходиться там.</text>
-	</string>
-
-	<string id="mil_plan_interception_task_final_name">
-		<text>Дістатись до невідомих</text>
-	</string>
-
-	<string id="mil_plan_interception_task_final_text">
-		<text>Все необхідне, щоб підібратися до гелікоптера, у мене є. Залишилось дізнатися, що затаїв в собі той замаскований вхід у кабіні. Швидше за все, там і осіло це таємниче угруповання на чолі з Термітом.</text>
-	</string>
-
-	<string id="mil_village_prisoner_task">
-		<text>ПІДПІДЛОЖНИЙ ПОЛОН</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_kill_bloodsuckers_name">
-		<text>Вбити кровососів у селі</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_kill_bloodsuckers_text">
-		<text>Сталкер, якого я шукаю, провалився під підлогу одного з будинків, тікаючи від кровососів. Потрібно зачистити місцевість та повернутися допомогти бідоласі.</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_talk_with_technic_name">
-		<text>Повернутись до сталкера</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_talk_with_technic_text">
-		<text>Кровососи мертві. Тепер треба якось витягнути сталкера, який невдало провалився під підлогу.</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_search_ladder_name">
-		<text>Знайти у селі драбину</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_search_ladder_text">
-		<text>Щоб витягнути рукатого сталкера, потрібно десь у селі відшукати драбину.</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_ladder_compl_name">
-		<text>Витягнути сталкера</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_ladder_compl_text">
-		<text>Драбина знайдена. Залишилося витягти сталкера з під підлоги.</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_follow_stalker_name">
-		<text>Довести Бабака до трансформатора</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_follow_stalker_text">
-		<text>У селі утворилася дивна аномалія. Техніка, яку залишили тут місцеві жителі ще у 1986 році, раптово знову запрацювала. Село почало знову виглядати живим  -  правда, замість людей тут оселилися кровососи. Сталкер на прізвисько Бабак намагається розібратися у природі цієї аномалії. Потрібно допомогти йому, щоб потім він допоміг мені.</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_talk_final_name">
-		<text>Поговорити із Бабаком</text>
-	</string>
-
-	<string id="mil_village_prisoner_task_talk_final_text">
-		<text>Здається, Бабак знайшов якийсь артефакт. Мабуть, за цим він і прийшов. Час з ним обговорити наше подальше пересування.</text>
-	</string>
-
-	<string id="mil_psy_helm_task">
-		<text>ПСІ-ШОЛОМ</text>
-	</string>
-
-	<string id="mil_psy_helm_task_start_name">
-		<text>Піти з Бабаком на військову базу</text>
-	</string>
-
-	<string id="mil_psy_helm_task_start_text">
-		<text>Бабак погодився допомогти мені зібрати шолом, який повинен захистити від випромінювання у гелікоптера. Однак для зібрання потрібно знайти необхідні компоненти. Вони можуть бути на покинутій військовій базі... але чи будуть раді гостям місцеві мешканці?</text>
-	</string>
-
-	<string id="mil_psy_helm_task_warehouse_go_name">
-		<text>Потрапити на склад</text>
-	</string>
-
-	<string id="mil_psy_helm_task_warehouse_go_text">
-		<text>Потрібно дістатись складу і прошерстити його щодо необхідних для створення псі-шолома компонентів.</text>
-	</string>
-
-	<string id="mil_psy_helm_task_warehouse_drop_vodka_name">
-		<text>Дати комірнику горілки</text>
-	</string>
-
-	<string id="mil_psy_helm_task_warehouse_drop_vodka_text">
-		<text>Двері на склад замкнені, а дух комірника скаржиться на відсутність випивки. Варто спробувати дати йому горілки, оскільки ламати двері  -  заняття не зі швидких.</text>
-	</string>
-
-	<string id="mil_psy_helm_task_cover_technic_name">
-		<text>Прикрити Бабака</text>
-	</string>
-
-	<string id="mil_psy_helm_task_cover_technic_text">
-		<text>Потрібно побути із Бабаком, поки той обчищає склад. Заодно і собі щось корисне знайду.</text>
-	</string>
-
-	<string id="mil_psy_helm_task_warehouse_compl_name">
-		<text>Поговорити із Бабаком</text>
-	</string>
-
-	<string id="mil_psy_helm_task_warehouse_compl_text">
-		<text>Склад обчищений. Потрібно спитати Бабака, чи можна повертатися.</text>
-	</string>
-
-	<string id="mil_psy_helm_task_go_technic_home_name">
-		<text>Повернутись із Бабаком у його хатину</text>
-	</string>
-
-	<string id="mil_psy_helm_task_go_technic_home_text">
-		<text>Ми знайшли всі необхідні деталі для збирання шолома... на жаль, лише для одного. Залишається лише дочекатися, поки Бабак його збере.</text>
-	</string>
-
-	<string id="mil_psy_helm_task_kill_mercs_name">
-		<text>Вбити нападників</text>
-	</string>
-
-	<string id="mil_psy_helm_task_kill_mercs_text">
-		<text>На нас напали невідомі. Очевидно, це люди Терміта. Потрібно з ними розібратися, інакше звідси живими піти не вийде.</text>
-	</string>
-
-	<string id="mil_psy_helm_task_wait_final_name">
-		<text>Дочекатися, поки Бабак закінчить роботу</text>
-	</string>
-
-	<string id="mil_psy_helm_task_wait_final_text">
-		<text>Все майже готово. Залишилося тільки дочекатися, доки технік збере шолом.</text>
-	</string>
-
-	<string id="mil_heli_final_task">
-		<text>У ЦІЛІ</text>
-	</string>
-
-	<string id="mil_heli_final_task_start_name">
-		<text>Відправитися до гелікоптера</text>
-	</string>
-
-	<string id="mil_heli_final_task_start_text">
-		<text>Псі-шолом зібраний. Час збирати загін і рухатися до гелікоптера.</text>
-	</string>
-
-	<string id="mil_helicopter_defence_task">
-		<text>ПРИКРИТТЯ</text>
-	</string>
-
-	<string id="mil_helicopter_defence_task_start_name">
-		<text>Утримувати позиції біля гелікоптера</text>
-	</string>
-
-	<string id="mil_helicopter_defence_task_start_text">
-		<text>Журавльов вирушив під гелікоптер. Наше завдання зараз  -  контролювати вхід і бути на сторожі.</text>
-	</string>
-
-	<string id="mil_skylight_error_task">
-		<text>НЕСПРАВНОСТІ</text>
-	</string>
-
-	<string id="mil_skylight_error_task_start_name">
-		<text>Перевірити обладнання на військовій базі</text>
-	</string>
-
-	<string id="mil_skylight_error_task_start_text">
-		<text>Встановлене нами обладнання на вежі раптово вийшло з ладу. Потрібно перевірити, що з ним.</text>
-	</string>
-
+  <string id="mil_search_unknowns_task">
+    <text>ПОШУКИ НЕВІДОМИХ</text>
+  </string>
+  <string id="mil_search_unknowns_task_talk_with_trader_name">
+    <text>Дістатися до крамаря</text>
+  </string>
+  <string id="mil_search_unknowns_task_talk_with_trader_text">
+    <text>Коваль мертвий. Він врятував мене ціною свого життя. Але мені в будь-якому разі треба довести справу до кінця. Можливо, я вже поряд з істиною. Зараз потрібно знайти місцевого крамаря, який повинен допомогти мені вийти на сталкерів, які зіткнулися з невідомою групою... а ця група, можливо, причетна до зіткнення професора.</text>
+  </string>
+  <string id="mil_search_unknowns_task_stalkers_lager_name">
+    <text>Відправитися в табір Акорда</text>
+  </string>
+  <string id="mil_search_unknowns_task_stalkers_lager_text">
+    <text>Крамар вказав на приблизне розташування укриття групи сталкерів на чолі з Акордом, які мені й потрібні для розслідування. Потрібно перевірити місце.</text>
+  </string>
+  <string id="mil_mercs_prison_task">
+    <text>ПОЛОН В ПОЛОНІ</text>
+  </string>
+  <string id="mil_mercs_prison_task_start_name">
+    <text>Йти за найманцями</text>
+  </string>
+  <string id="mil_mercs_prison_task_start_text">
+    <text>Невідомий, на пошуки якого я прибув на Армійські склади, застав мене зненацька. Однак під час нашої люб'язної розмови нас схопили найманці. Цікаво, навіщо ми їм потрібні?</text>
+  </string>
+  <string id="mil_after_katakomb_task">
+    <text>СПРАВА ДОХОДИТЬ КІНЦЯ</text>
+  </string>
+  <string id="mil_after_katakomb_task_talk_with_merc_leader_name">
+    <text>Поговорити з Термітом</text>
+  </string>
+  <string id="mil_after_katakomb_task_talk_with_merc_leader_text">
+    <text>Вдалося вибратися живим із підземель разом із Термітом. Потрібно з ним поговорити та рухатися за своїми речами, які у нас відібрали найманці.</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_with_merc_leader_name">
+    <text>Вбити найманців разом із Термітом</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_with_merc_leader_text">
+    <text>Нам вдалося вижити. Тепер наше завдання  —  забрати своє добро, а після цього вже розберемося, хто такий цей Терміт і як він пов'язаний з професором Дубинцем.</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_name">
+    <text>Вбити найманців самотужки</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_text">
+    <text>Терміт ніби випарувався після отримання непоганої кулі. Впевнений, рано чи пізно ми зустрінемося. Так чи інакше, він якось пов'язаний із професором Дубинцем.</text>
+  </string>
+  <string id="mil_after_katakomb_take_actor_items_name">
+    <text>Забрати свої речі</text>
+  </string>
+  <string id="mil_after_katakomb_take_actor_items_text">
+    <text>Настав час забирати свої речі та звалювати звідси.</text>
+  </string>
+  <string id="mil_after_katakomb_search_code_name">
+    <text>Знайти код від сейфа найманців</text>
+  </string>
+  <string id="mil_after_katakomb_search_code_text">
+    <text>Сейф з речами закритий. Треба перевірити трупи найманців.</text>
+  </string>
+  <string id="mil_after_katakomb_open_safe_name">
+    <text>Відкрити сейф</text>
+  </string>
+  <string id="mil_after_katakomb_open_safe_text">
+    <text>Код від сейфа був на тілі одного із найманців. Тепер можна забрати свої речі.</text>
+  </string>
+  <string id="mil_after_katakomb_trader_task">
+    <text>НЕОПЛАЧЕНИЙ БОРГ</text>
+  </string>
+  <string id="mil_after_katakomb_trader_task_start_name">
+    <text>Повернутися до крамаря</text>
+  </string>
+  <string id="mil_after_katakomb_trader_task_start_text">
+    <text>Поки чекаю на свою групу, треба повернутися до крамаря. Не завадить дізнатися більше інформації про Армійські склади й заразом повідомити йому погані новини  —  борг йому вже ніхто не поверне.</text>
+  </string>
+  <string id="mil_after_katakomb_trader_alternative_task">
+    <text>МІСЦЕВИЙ БАРИГА</text>
+  </string>
+  <string id="mil_after_katakomb_trader_alternative_task_start_name">
+    <text>Поспілкуватись з крамарем</text>
+  </string>
+  <string id="mil_after_katakomb_trader_alternative_task_start_text">
+    <text>Досі не заглянув до місцевого крамаря. Потрібно дізнатися більше про ці місця, оскільки всі зачіпки, пов'язані з професором Дубинцем, випарувалися із Термітом.</text>
+  </string>
+  <string id="mil_after_katakomb_trader_sleep_task">
+    <text>ВІДПОЧИНОК</text>
+  </string>
+  <string id="mil_after_katakomb_trader_sleep_task_start_name">
+    <text>Поспати кілька годин</text>
+  </string>
+  <string id="mil_after_katakomb_trader_sleep_task_start_text">
+    <text>Я на ногах вже кілька днів поспіль. Поки мій загін добирається до Армійських складів, треба трохи перепочити.</text>
+  </string>
+  <string id="mil_plan_interception_task">
+    <text>ПЛАН ПЕРЕХОПЛЕННЯ</text>
+  </string>
+  <string id="mil_plan_interception_task_start_name">
+    <text>Вирушити на військову базу</text>
+  </string>
+  <string id="mil_plan_interception_task_start_text">
+    <text>Ми вирішили перехопити сигнали невідомих, щоб дізнатися про їхнє розташування. Для того, щоб обладнання, що перехоплює охопило найбільший радіус, потрібно знайти високу точку. Вишки на покинутій військовій базі чудово для цього підходять, але не варто забувати про попередження крамаря щодо цього місця.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_tower_name">
+    <text>Поговорити зі Скаєм</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_tower_text">
+    <text>Здається, ми знайшли необхідну вежу для встановлення обладнання. Потрібно поговорити зі Скаєм.</text>
+  </string>
+  <string id="mil_plan_interception_task_device_place_name">
+    <text>Встановити обладнання на вежі</text>
+  </string>
+  <string id="mil_plan_interception_task_device_place_text">
+    <text>Ми на місці. Тепер потрібно встановити обладнання на вежі та почати сканування.</text>
+  </string>
+  <string id="mil_plan_interception_task_leave_the_base_name">
+    <text>Покинути військову базу</text>
+  </string>
+  <string id="mil_plan_interception_task_leave_the_base_text">
+    <text>Після встановлення обладнання ми змогли перехопити декілька сигналів. Потрібно спершу якнайшвидше піти з військової бази, а потім перевірити певні місця.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_after_leave_name">
+    <text>Дізнатись у Ская про отримані дані</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_after_leave_text">
+    <text>Те, що відбулося на військовій базі позаду, і поставлене завдання щодо встановлення приладу успішно виконане. Залишилося дізнатися у Ская, які дані вдалося отримати.</text>
+  </string>
+  <string id="mil_plan_interception_task_check_heli_zone_name">
+    <text>Слідувати за загоном до гелікоптера</text>
+  </string>
+  <string id="mil_plan_interception_task_check_heli_zone_text">
+    <text>Ми засікли потужний зашифрований сигнал, що йде від гелікоптера, що впав. Потрібно перевірити це місце.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_heli_name">
+    <text>Поговорити зі Скаєм</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_heli_text">
+    <text>До гелікоптера, схоже, так просто не підібратися. Потрібно обговорити деталі зі Скаєм.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_trader_heli_name">
+    <text>Розпитати крамаря про гелікоптер</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_trader_heli_text">
+    <text>Ми виявили прихований прохід під гелікоптером. Дістатись туди заважає потужне псі-випромінювання. Нам потрібно знайти спосіб пройти його або знайти інший вхід. Підказати про це, мабуть, може крамар Зубр.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_technic_pda_name">
+    <text>Дізнатись у Ская місцеперебування сталкера</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_technic_pda_text">
+    <text>Крамар дав мені ID-номер КПК сталкера, який може допомогти пробратися крізь псі-випромінювання. Залишилося лише знайти його. Скай повинен допомогти.</text>
+  </string>
+  <string id="mil_plan_interception_task_search_stalker_technic_name">
+    <text>Вирушити на сигнал сталкера</text>
+  </string>
+  <string id="mil_plan_interception_task_search_stalker_technic_text">
+    <text>Народний умілець, який здатний щось підказати нам про гелікоптер, помічений на території села. Серед сталкерів це місце називають «Кровососівка»...</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_stalker_name">
+    <text>Дізнатись у сталкера про псі-випромінювання у гелікоптера</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_stalker_text">
+    <text>При першій же нагоді потрібно буде дізнатися у місцевого сталкера-умільця про псі-випромінювання у гелікоптера, до якого нам потрібно пробратися.</text>
+  </string>
+  <string id="mil_plan_interception_task_get_psy_helm_name">
+    <text>Зібрати псі-шолом</text>
+  </string>
+  <string id="mil_plan_interception_task_get_psy_helm_text">
+    <text>Для доступу до гелікоптера необхідно зібрати псі-шолом, а краще декілька, щоб із загоном докладніше вивчити все, що знаходиться там.</text>
+  </string>
+  <string id="mil_plan_interception_task_final_name">
+    <text>Дістатись до невідомих</text>
+  </string>
+  <string id="mil_plan_interception_task_final_text">
+    <text>Все необхідне, щоб підібратися до гелікоптера, у мене є. Залишилось дізнатися, що затаїв в собі той замаскований вхід у кабіні. Швидше за все, там і осіло це таємниче угруповання на чолі з Термітом.</text>
+  </string>
+  <string id="mil_village_prisoner_task">
+    <text>ПІДПІДЛОЖНИЙ ПОЛОН</text>
+  </string>
+  <string id="mil_village_prisoner_task_kill_bloodsuckers_name">
+    <text>Вбити кровососів у селі</text>
+  </string>
+  <string id="mil_village_prisoner_task_kill_bloodsuckers_text">
+    <text>Сталкер, якого я шукаю, провалився під підлогу одного з будинків, тікаючи від кровососів. Потрібно зачистити місцевість та повернутися допомогти бідоласі.</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_with_technic_name">
+    <text>Повернутись до сталкера</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_with_technic_text">
+    <text>Кровососи мертві. Тепер треба якось витягнути сталкера, який невдало провалився під підлогу.</text>
+  </string>
+  <string id="mil_village_prisoner_task_search_ladder_name">
+    <text>Знайти у селі драбину</text>
+  </string>
+  <string id="mil_village_prisoner_task_search_ladder_text">
+    <text>Щоб витягнути рукатого сталкера, потрібно десь у селі відшукати драбину.</text>
+  </string>
+  <string id="mil_village_prisoner_task_ladder_compl_name">
+    <text>Витягнути сталкера</text>
+  </string>
+  <string id="mil_village_prisoner_task_ladder_compl_text">
+    <text>Драбина знайдена. Залишилося витягти сталкера з під підлоги.</text>
+  </string>
+  <string id="mil_village_prisoner_task_follow_stalker_name">
+    <text>Довести Бабака до трансформатора</text>
+  </string>
+  <string id="mil_village_prisoner_task_follow_stalker_text">
+    <text>У селі утворилася дивна аномалія. Техніка, яку залишили тут місцеві жителі ще у 1986 році, раптово знову запрацювала. Село почало знову виглядати живим  —  правда, замість людей тут оселилися кровососи. Сталкер на прізвисько Бабак намагається розібратися у природі цієї аномалії. Потрібно допомогти йому, щоб потім він допоміг мені.</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_final_name">
+    <text>Поговорити із Бабаком</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_final_text">
+    <text>Здається, Бабак знайшов якийсь артефакт. Мабуть, за цим він і прийшов. Час з ним обговорити наше подальше пересування.</text>
+  </string>
+  <string id="mil_psy_helm_task">
+    <text>ПСІ-ШОЛОМ</text>
+  </string>
+  <string id="mil_psy_helm_task_start_name">
+    <text>Піти з Бабаком на військову базу</text>
+  </string>
+  <string id="mil_psy_helm_task_start_text">
+    <text>Бабак погодився допомогти мені зібрати шолом, який повинен захистити від випромінювання у гелікоптера. Однак для зібрання потрібно знайти необхідні компоненти. Вони можуть бути на покинутій військовій базі... але чи будуть раді гостям місцеві мешканці?</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_go_name">
+    <text>Потрапити на склад</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_go_text">
+    <text>Потрібно дістатись складу і прошерстити його щодо необхідних для створення псі-шолома компонентів.</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_drop_vodka_name">
+    <text>Дати комірнику горілки</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_drop_vodka_text">
+    <text>Двері на склад замкнені, а дух комірника скаржиться на відсутність випивки. Варто спробувати дати йому горілки, оскільки ламати двері  —  заняття не зі швидких.</text>
+  </string>
+  <string id="mil_psy_helm_task_cover_technic_name">
+    <text>Прикрити Бабака</text>
+  </string>
+  <string id="mil_psy_helm_task_cover_technic_text">
+    <text>Потрібно побути із Бабаком, поки той обчищає склад. Заодно і собі щось корисне знайду.</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_compl_name">
+    <text>Поговорити із Бабаком</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_compl_text">
+    <text>Склад обчищений. Потрібно спитати Бабака, чи можна повертатися.</text>
+  </string>
+  <string id="mil_psy_helm_task_go_technic_home_name">
+    <text>Повернутись із Бабаком у його хатину</text>
+  </string>
+  <string id="mil_psy_helm_task_go_technic_home_text">
+    <text>Ми знайшли всі необхідні деталі для збирання шолома... на жаль, лише для одного. Залишається лише дочекатися, поки Бабак його збере.</text>
+  </string>
+  <string id="mil_psy_helm_task_kill_mercs_name">
+    <text>Вбити нападників</text>
+  </string>
+  <string id="mil_psy_helm_task_kill_mercs_text">
+    <text>На нас напали невідомі. Очевидно, це люди Терміта. Потрібно з ними розібратися, інакше звідси живими піти не вийде.</text>
+  </string>
+  <string id="mil_psy_helm_task_wait_final_name">
+    <text>Дочекатися, поки Бабак закінчить роботу</text>
+  </string>
+  <string id="mil_psy_helm_task_wait_final_text">
+    <text>Все майже готово. Залишилося тільки дочекатися, доки технік збере шолом.</text>
+  </string>
+  <string id="mil_heli_final_task">
+    <text>У ЦІЛІ</text>
+  </string>
+  <string id="mil_heli_final_task_start_name">
+    <text>Відправитися до гелікоптера</text>
+  </string>
+  <string id="mil_heli_final_task_start_text">
+    <text>Псі-шолом зібраний. Час збирати загін і рухатися до гелікоптера.</text>
+  </string>
+  <string id="mil_helicopter_defence_task">
+    <text>ПРИКРИТТЯ</text>
+  </string>
+  <string id="mil_helicopter_defence_task_start_name">
+    <text>Утримувати позиції біля гелікоптера</text>
+  </string>
+  <string id="mil_helicopter_defence_task_start_text">
+    <text>Журавльов вирушив під гелікоптер. Наше завдання зараз  —  контролювати вхід і бути на сторожі.</text>
+  </string>
+  <string id="mil_skylight_error_task">
+    <text>НЕСПРАВНОСТІ</text>
+  </string>
+  <string id="mil_skylight_error_task_start_name">
+    <text>Перевірити обладнання на військовій базі</text>
+  </string>
+  <string id="mil_skylight_error_task_start_text">
+    <text>Встановлене нами обладнання на вежі раптово вийшло з ладу. Потрібно перевірити, що з ним.</text>
+  </string>
 </string_table>

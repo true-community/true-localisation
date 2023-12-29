@@ -1,389 +1,291 @@
-<?xml version="1.0" encoding="windows-1251" ?>
-
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="yan_start_task">
-		<text>ОЗЕРО ЯНТАРЬ</text>
-	</string>
-
-	<string id="yan_start_task_go_name">
-		<text>Добраться до мобильного бункера учёных</text>
-	</string>
-
-	<string id="yan_start_task_go_text">
-		<text>Мы прибыли на место операции. Принято решение оставить Ская на охрану пилота. Он постарается настроить связь со спутником, чтобы удаленно держать нас в курсе всего, что тут происходит. Мы же должны осмотреть бункер ученых. Надеюсь, что именно там мы узнаем все, что нам нужно, ибо рыскать по всей территории нет никакого желания.</text>
-	</string>
-
-	<string id="yan_start_task_check_territory_name">
-		<text>Осмотреть территорию вокруг бункера</text>
-	</string>
-
-	<string id="yan_start_task_check_territory_text">
-		<text>Пока Хоттабыч занимается открытием двери в бункер, нам следует хорошенько обшарить территорию, может, найдём что-то интересное.</text>
-	</string>
-
-	<string id="yan_start_task_xottab_back_name">
-		<text>Вернуться к Хоттабычу</text>
-	</string>
-
-	<string id="yan_start_task_xottab_back_text">
-		<text>Кажется, дверь в бункер больше не преграда. Пора возвращаться к Хоттабычу.</text>
-	</string>
-
-	<string id="yan_start_task_check_bunker_name">
-		<text>Собрать всю информацию в бункере</text>
-	</string>
-
-	<string id="yan_start_task_check_bunker_text">
-		<text>Центральной задачей руководства является сбор информации об исследованиях ученых на озере Янтарь. Требуется собрать всю документацию, личные КПК ученых и носители информации. Начну с бункера. Отправляюсь в одиночку, так спокойнее.</text>
-	</string>
-
-	<string id="yan_start_task_go_back_name">
-		<text>Передать добытую информацию Скаю</text>
-	</string>
-
-	<string id="yan_start_task_go_back_text">
-		<text>Я собрал всю информацию, которую удалось найти в бункере ученых. Все, кто находились внутри, были мертвы или зомбировались. Сахаров - в их числе. Теперь найденные данные нужно передать Скаю. По результатам расшифровки некоторых из них примем решение, как действовать дальше.</text>
-	</string>
-
-	<string id="yan_something_in_silence">
-		<text>НЕЧТО В ТИШИНЕ</text>
-	</string>
-	
-	<string id="yan_something_in_silence_start_talk_name">
-		<text>Переговорить с Вуслычем</text>
-	</string>
-
-	<string id="yan_something_in_silence_start_talk_text">
-		<text>Вуслыч, занявший наблюдательную точку, что-то увидел. Расспрошу у него об этом.</text>
-	</string>
-
-	<string id="yan_something_in_silence_talk_koval_name">
-		<text>Переговорить с Ковалем</text>
-	</string>
-
-	<string id="yan_something_in_silence_talk_koval_text">
-		<text>На болоте за мобильным бункером замечена странная аномалия. Мы с Ковалем отправимся ее осмотреть. Заодно проверю его в деле.</text>
-	</string>
-
-	<string id="yan_something_in_silence_go_koval_name">
-		<text>Отправиться с Ковалем на место аномалии</text>
-	</string>
-
-	<string id="yan_something_in_silence_go_koval_text">
-		<text>Одной из задач руководства был сбор всей информации о происходящем на озере Янтарь, в том числе и об аномальных образованиях. Думаю, по этой причине к нам в отряд и приставили Коваля, хорошо разбирающегося в аномалиях.</text>
-	</string>
-
-	<string id="yan_something_in_silence_second_talk_koval_name">
-		<text>Поговорить с Ковалем</text>
-	</string>
-
-	<string id="yan_something_in_silence_second_talk_koval_text">
-		<text>Странный дым исчез, когда мы приблизились. Надо обсудить с Ковалем, что будем делать дальше.</text>
-	</string>
-
-	<string id="yan_something_in_silence_cover_koval_name">
-		<text>Прикрывать Коваля</text>
-	</string>
-
-	<string id="yan_something_in_silence_cover_koval_text">
-		<text>Коваль утверждает, что ещё никогда не видел такую аномалию. И аномалия ли это была? Не помешает собрать о ней любые сведения. Пока Коваль настраивает оборудование, нужно обеспечить прикрытие.</text>
-	</string>
-
-	<string id="yan_someone_alive">
-		<text>ВЫЖИВШИЙ</text>
-	</string>
-
-	<string id="yan_someone_alive_start_name">
-		<text>Проследовать к источнику сигнала</text>
-	</string>
-
-	<string id="yan_someone_alive_start_text">
-		<text>Возможно, кому-то удалось уцелеть. Сигнал его КПК был зафиксирован неподалеку от нас. Стоит проверить.</text>
-	</string>
-
-	<string id="yan_someone_alive_follow_stalker_name">
-		<text>Отвести сталкера в лагерь</text>
-	</string>
-
-	<string id="yan_someone_alive_follow_stalker_text">
-		<text>На Янтаре найден первый выживший, который должен прояснить произошедшее и помочь нам собрать полную картину всего этого. Для начала стоит отвести его в лагерь и дать немного прийти в себя. Видно, что его изрядно потрепало.</text>
-	</string>
-
-	<string id="yan_someone_alive_talk_with_stalker_name">
-		<text>Допросить сталкера</text>
-	</string>
-
-	<string id="yan_someone_alive_talk_with_stalker_text">
-		<text>Нужно добыть от выжившего сталкера как можно больше информации. Что он знает о работе ученых на Янтаре, что за черный дым за ним гнался? Вопросов достаточно.</text>
-	</string>
-
-	<string id="yan_missing_koval">
-		<text>ПРОПАЖА</text>
-	</string>
-
-	<string id="yan_missing_koval_start_name">
-		<text>Найти Коваля</text>
-	</string>
-
-	<string id="yan_missing_koval_start_text">
-		<text>Коваль не отвечает по рации. Нужно осмотреть место, где я видел его в последний раз.</text>
-	</string>
-
-	<string id="yan_missing_koval_wait_name">
-		<text>Подождать появления Коваля</text>
-	</string>
-
-	<string id="yan_missing_koval_wait_text">
-		<text>Этот придурок куда-то пропал. Не думаю, что с ним что-то случилось. Подождём, пока он объявится. Пока можно заняться выполнением поставленных задач.</text>
-	</string>
-
-	<string id="yan_missing_koval_spot_seen_name">
-		<text>Найти Коваля по сигналу</text>
-	</string>
-
-	<string id="yan_missing_koval_spot_seen_text">
-		<text>Коваль не выходит на связь, но его сигнал засекли неподалеку от архианомалии. Проверю это место. Что его только туда понесло?</text>
-	</string>
-
-	<string id="yan_missing_koval_dogs_attack_name">
-		<text>Помочь Ковалю отбиться от мутантов</text>
-	</string>
-
-	<string id="yan_missing_koval_dogs_attack_text">
-		<text>Возле аномалии Коваль нарвался на мутантов. Нужно ему помочь отбиться.</text>
-	</string>
-
-	<string id="yan_missing_koval_talk_name">
-		<text>Поговорить с Ковалем</text>
-	</string>
-
-	<string id="yan_missing_koval_talk_text">
-		<text>Мутанты мертвы. Теперь нужно узнать, какого лешего Коваля понесло к аномалии.</text>
-	</string>
-
-	<string id="yan_collect_info">
-		<text>СБОР ИНФОРМАЦИИ</text>
-	</string>
-
-	<string id="yan_collect_info_start_name">
-		<text>Поговорить со Скаем</text>
-	</string>
-
-	<string id="yan_collect_info_start_text">
-		<text>За время моего отсутствия Скай мог что-то откопать из полученных данных. Надо с ним поговорить.</text>
-	</string>
-
-	<string id="yan_collect_info_search_name">
-		<text>Добыть информацию в отмеченных зонах</text>
-	</string>
-
-	<string id="yan_collect_info_search_text">
-		<text>Скай сбросил на мой КПК приблизительные зоны, где могут находиться тела ученых. Нужно их осмотреть и добыть любую информацию. Хоттабыч и Вуслыч отправились проверять территорию со стороны Агропрома. Я проверю окрестности завода.</text>
-	</string>
-
-	<string id="yan_collect_info_talk_with_sky_name">
-		<text>Отнести полученные данные Скаю</text>
-	</string>
-
-	<string id="yan_collect_info_talk_with_sky_text">
-		<text>Что-то мне удалось узнать на месте, а что-то придётся ковырять Скаю. Отнесу ему всё это дело, пусть разбирается.</text>
-	</string>
-
-	<string id="yan_labx16_task">
-		<text>ПРОЛОМ</text>
-	</string>
-
-	<string id="yan_labx16_task_start_name">
-		<text>Включить охладительную установку</text>
-	</string>
-
-	<string id="yan_labx16_task_start_text">
-		<text>Скаю удалось узнать, как снизить воздействие пси-излучения возле провала главного зала лаборатории Х-16, чтобы добраться до тела одного из сталкеров неподалёку. У него могут быть полезные данные, проливающие свет на произошедшее здесь.</text>
-	</string>
-
-	<string id="yan_labx16_task_go_check_corp_name">
-		<text>Подобраться к трупу сталкера</text>
-	</string>
-
-	<string id="yan_labx16_task_go_check_corp_text">
-		<text>Мне удалось включить охладительную остановку. Излучение практически сошло на нет. Теперь можно подобраться к телу сталкера возле разлома.</text>
-	</string>
-
-	<string id="yan_labx16_task_check_corp_name">
-		<text>Обыскать труп сталкера</text>
-	</string>
-
-	<string id="yan_labx16_task_check_corp_text">
-		<text>Свалился вместе с трупом в руины лаборатории... Что ж, посмотрим, что у него есть по нашему делу.</text>
-	</string>
-
-	<string id="yan_labx16_second_task">
-		<text>В ЗАПАДНЕ</text>
-	</string>
-
-	<string id="yan_labx16_task_second_escape_lab_name">
-		<text>Найти выход из подземелий</text>
-	</string>
-
-	<string id="yan_labx16_task_second_escape_lab_text">
-		<text>Угораздило провалиться в руины лаборатории. Со мной, вроде, все в порядке, переломов нет, а вот рация разбита вдребезги. Придется выбираться на поверхность самостоятельно. Зато именно здесь мне, вероятно, удастся восстановить всю картину произошедшего на Янтаре.</text>
-	</string>
-
-	<string id="yan_labx16_task_second_search_key_name">
-		<text>Найти способ попасть в комнату управления</text>
-	</string>
-
-	<string id="yan_labx16_task_second_search_key_text">
-		<text>Вероятнее всего, за дверью находится главный пульт управления этой грозной системой. Возможно, там удастся найти что-то интересное. Вот только надо туда сначала попасть.</text>
-	</string>
-
-	<string id="yan_labx16_task_second_check_dispatcher_room_name">
-		<text>Осмотреть диспетчерскую</text>
-	</string>
-
-	<string id="yan_labx16_task_second_check_dispatcher_room_text">
-		<text>В диспетчерской могут храниться записи последних переговоров или ещё какая-то полезная информация.</text>
-	</string>
-
-	<string id="yan_labx16_task_second_check_brain_control_room_name">
-		<text>Осмотреть комнату управления</text>
-	</string>
-
-	<string id="yan_labx16_task_second_check_brain_control_room_text">
-		<text>Мне удалось достать какой-то ключ с тела военного диспетчера. Будем надеяться, что он от комнаты управления, ведь закрытых дверей тут не очень-то и много...</text>
-	</string>
-
-	<string id="yan_labx16_task_second_escape_lab_two_name">
-		<text>Найти выход из подземелий</text>
-	</string>
-
-	<string id="yan_labx16_task_second_escape_lab_two_text">
-		<text>Удалось найти кое-какую информацию по поводу произошедшего в лаборатории Х-16. Теперь нужно отсюда сваливать.</text>
-	</string>
-
-	<string id="yan_labx16_task_talk_with_sky_name">
-		<text>Поговорить со Скаем</text>
-	</string>
-
-	<string id="yan_labx16_task_talk_with_sky_text">
-		<text>Пора поговорить с нашим спецом по взлому. Вероятно, он смог что-то выудить из полученных ранее данных.</text>
-	</string>
-
-	<string id="yan_mysterious_stranger_task">
-		<text>ЗАГАДОЧНЫЙ НЕЗНАКОМЕЦ</text>
-	</string>
-
-	<string id="yan_mysterious_stranger_task_start_name">
-		<text>Найти ночлежку в коллекторах</text>
-	</string>
-
-	<string id="yan_mysterious_stranger_task_start_text">
-		<text>Неожиданной получилась встреча с Иванычем. Я уже и не думал, что доведется когда либо увидеть его живым. Он сказал мне, что человеку, которого мы тут встретили, нельзя доверять. Откуда только узнал про это? Нужно будет ещё раз допросить этого сталкера. Уверен, речь идет о нем. А пока буду искать выход, загляну и в его ночлежку. Иваныч сказал, что она где-то в коллекторах.</text>
-	</string>
-
-	<string id="yan_mysterious_stranger_task_back_to_lager_name">
-		<text>Вернуться в лагерь и решить, что предпринять</text>
-	</string>
-
-	<string id="yan_mysterious_stranger_task_back_to_lager_text">
-		<text>Сталкер по прозвищу Матвей все рассказал про загадочного незнакомца. Он врал с самого начала, имея лишь цель быстрее отсюда выбраться. По возвращении в лагерь нужно решить, что с ним делать. Оставить здесь? Забрать с собой и представить его перед судом? Или же самому взять на себя роль судьи?</text>
-	</string>
-
-	<string id="yan_source_of_interference">
-		<text>ИСТОЧНИК ПОМЕХ</text>
-	</string>
-
-	<string id="yan_source_of_interference_talk_with_vuslich_name">
-		<text>Поговорить с Вуслычем</text>
-	</string>
-
-	<string id="yan_source_of_interference_talk_with_vuslich_text">
-		<text>Мы смогли добыть почти всю информацию о произошедшем на Янтаре. Осталось решить вопрос с неисправным излучателем. Со мной на вылазку отправится Вуслыч и Коваль. Не хочется оставлять его в лагере.</text>
-	</string>
-
-	<string id="yan_source_of_interference_open_angar_name">
-		<text>Открыть ангар</text>
-	</string>
-
-	<string id="yan_source_of_interference_open_angar_text">
-		<text>Профессор Сытянов может находиться среди запертых зомбированных в ангаре около мобильного бункера ученых. Нужно вскрыть ангар, убить зомбированных и добыть его КПК.</text>
-	</string>
-
-	<string id="yan_source_of_interference_take_pda_name">
-		<text>Найти ПДА Сытянова</text>
-	</string>
-
-	<string id="yan_source_of_interference_take_pda_text">
-		<text>Ангар открыт. Осталось только разобраться с зомбированными и найти носитель информации у профессора Сытянова.</text>
-	</string>
-
-	<string id="yan_source_of_interference_wait_decryption_name">
-		<text>Дождаться расшифровки данных</text>
-	</string>
-
-	<string id="yan_source_of_interference_wait_decryption_text">
-		<text>Удалось найти ПДА на теле профессора Сытянова. Подождем, пока оттуда вытаскиваются данные.</text>
-	</string>
-
-	<string id="yan_source_of_interference_go_factory_name">
-		<text>Добраться до места</text>
-	</string>
-
-	<string id="yan_source_of_interference_go_factory_text">
-		<text>Стало известно местоположение излучателя. С отрядом требуется добраться до места и выключить его.</text>
-	</string>
-
-	<string id="yan_source_of_interference_koval_need_help_name">
-		<text>Узнать, что с Ковалем</text>
-	</string>
-
-	<string id="yan_source_of_interference_koval_need_help_text">
-		<text>Коваль внезапно остановился. Нужно узнать, что случилось.</text>
-	</string>
-
-	<string id="yan_source_of_interference_off_emitter_name">
-		<text>Отключить излучатель</text>
-	</string>
-
-	<string id="yan_source_of_interference_off_emitter_text">
-		<text>Мы у цели. Осталось только выключить излучатель. Будем надеяться, что всё пройдёт гладко...</text>
-	</string>
-
-	<string id="yan_source_of_interference_talk_with_squad_name">
-		<text>Вернуться к отряду</text>
-	</string>
-
-	<string id="yan_source_of_interference_talk_with_squad_text">
-		<text>Излучатель отключен. Нужно вернуться к отряду и проверить, как они.</text>
-	</string>
-
-	<string id="yan_source_of_interference_go_back_name">
-		<text>Вернуться во временный лагерь</text>
-	</string>
-
-	<string id="yan_source_of_interference_go_back_text">
-		<text>Информация по инциденту полностью собрана. Мы смогли восстановить всю картину произошедшего. Связь с Агропромом налажена. Пора возвращаться в лагерь и собираться на базу.</text>
-	</string>
-
-	<string id="yan_source_of_interference_talk_with_sky_name">
-		<text>Поговорить со Скаем</text>
-	</string>
-
-	<string id="yan_source_of_interference_talk_with_sky_text">
-		<text>Нужно передать Скаю всю оставшуюся информацию и готовиться к отправке на Агропром.</text>
-	</string>
-
-	<string id="yan_final_task">
-		<text>ГОНЕЦ ПРАВОСУДИЯ</text>
-	</string>
-
-	<string id="yan_final_task_main_title_name">
-		<text>Решить, что делать с беглым долговцем</text>
-	</string>
-
-	<string id="yan_final_task_main_title_text">
-		<text>Перед отправкой домой поболтаю с беглецом. Нужно решить, что с ним делать.</text>
-	</string>
-
+  <string id="yan_start_task">
+    <text>ОЗЕРО ЯНТАРЬ</text>
+  </string>
+  <string id="yan_start_task_go_name">
+    <text>Добраться до мобильного бункера учёных</text>
+  </string>
+  <string id="yan_start_task_go_text">
+    <text>Мы прибыли на место операции. Принято решение оставить Ская на охрану пилота. Он постарается настроить связь со спутником, чтобы удаленно держать нас в курсе всего, что тут происходит. Мы же должны осмотреть бункер ученых. Надеюсь, что именно там мы узнаем все, что нам нужно, ибо рыскать по всей территории нет никакого желания.</text>
+  </string>
+  <string id="yan_start_task_check_territory_name">
+    <text>Осмотреть территорию вокруг бункера</text>
+  </string>
+  <string id="yan_start_task_check_territory_text">
+    <text>Пока Хоттабыч занимается открытием двери в бункер, нам следует хорошенько обшарить территорию, может, найдём что-то интересное.</text>
+  </string>
+  <string id="yan_start_task_xottab_back_name">
+    <text>Вернуться к Хоттабычу</text>
+  </string>
+  <string id="yan_start_task_xottab_back_text">
+    <text>Кажется, дверь в бункер больше не преграда. Пора возвращаться к Хоттабычу.</text>
+  </string>
+  <string id="yan_start_task_check_bunker_name">
+    <text>Собрать всю информацию в бункере</text>
+  </string>
+  <string id="yan_start_task_check_bunker_text">
+    <text>Центральной задачей руководства является сбор информации об исследованиях ученых на озере Янтарь. Требуется собрать всю документацию, личные КПК ученых и носители информации. Начну с бункера. Отправляюсь в одиночку, так спокойнее.</text>
+  </string>
+  <string id="yan_start_task_go_back_name">
+    <text>Передать добытую информацию Скаю</text>
+  </string>
+  <string id="yan_start_task_go_back_text">
+    <text>Я собрал всю информацию, которую удалось найти в бункере ученых. Все, кто находились внутри, были мертвы или зомбировались. Сахаров — в их числе. Теперь найденные данные нужно передать Скаю. По результатам расшифровки некоторых из них примем решение, как действовать дальше.</text>
+  </string>
+  <string id="yan_something_in_silence">
+    <text>НЕЧТО В ТИШИНЕ</text>
+  </string>
+  <string id="yan_something_in_silence_start_talk_name">
+    <text>Переговорить с Вуслычем</text>
+  </string>
+  <string id="yan_something_in_silence_start_talk_text">
+    <text>Вуслыч, занявший наблюдательную точку, что-то увидел. Расспрошу у него об этом.</text>
+  </string>
+  <string id="yan_something_in_silence_talk_koval_name">
+    <text>Переговорить с Ковалем</text>
+  </string>
+  <string id="yan_something_in_silence_talk_koval_text">
+    <text>На болоте за мобильным бункером замечена странная аномалия. Мы с Ковалем отправимся ее осмотреть. Заодно проверю его в деле.</text>
+  </string>
+  <string id="yan_something_in_silence_go_koval_name">
+    <text>Отправиться с Ковалем на место аномалии</text>
+  </string>
+  <string id="yan_something_in_silence_go_koval_text">
+    <text>Одной из задач руководства был сбор всей информации о происходящем на озере Янтарь, в том числе и об аномальных образованиях. Думаю, по этой причине к нам в отряд и приставили Коваля, хорошо разбирающегося в аномалиях.</text>
+  </string>
+  <string id="yan_something_in_silence_second_talk_koval_name">
+    <text>Поговорить с Ковалем</text>
+  </string>
+  <string id="yan_something_in_silence_second_talk_koval_text">
+    <text>Странный дым исчез, когда мы приблизились. Надо обсудить с Ковалем, что будем делать дальше.</text>
+  </string>
+  <string id="yan_something_in_silence_cover_koval_name">
+    <text>Прикрывать Коваля</text>
+  </string>
+  <string id="yan_something_in_silence_cover_koval_text">
+    <text>Коваль утверждает, что ещё никогда не видел такую аномалию. И аномалия ли это была? Не помешает собрать о ней любые сведения. Пока Коваль настраивает оборудование, нужно обеспечить прикрытие.</text>
+  </string>
+  <string id="yan_someone_alive">
+    <text>ВЫЖИВШИЙ</text>
+  </string>
+  <string id="yan_someone_alive_start_name">
+    <text>Проследовать к источнику сигнала</text>
+  </string>
+  <string id="yan_someone_alive_start_text">
+    <text>Возможно, кому-то удалось уцелеть. Сигнал его КПК был зафиксирован неподалеку от нас. Стоит проверить.</text>
+  </string>
+  <string id="yan_someone_alive_follow_stalker_name">
+    <text>Отвести сталкера в лагерь</text>
+  </string>
+  <string id="yan_someone_alive_follow_stalker_text">
+    <text>На Янтаре найден первый выживший, который должен прояснить произошедшее и помочь нам собрать полную картину всего этого. Для начала стоит отвести его в лагерь и дать немного прийти в себя. Видно, что его изрядно потрепало.</text>
+  </string>
+  <string id="yan_someone_alive_talk_with_stalker_name">
+    <text>Допросить сталкера</text>
+  </string>
+  <string id="yan_someone_alive_talk_with_stalker_text">
+    <text>Нужно добыть от выжившего сталкера как можно больше информации. Что он знает о работе ученых на Янтаре, что за черный дым за ним гнался? Вопросов достаточно.</text>
+  </string>
+  <string id="yan_missing_koval">
+    <text>ПРОПАЖА</text>
+  </string>
+  <string id="yan_missing_koval_start_name">
+    <text>Найти Коваля</text>
+  </string>
+  <string id="yan_missing_koval_start_text">
+    <text>Коваль не отвечает по рации. Нужно осмотреть место, где я видел его в последний раз.</text>
+  </string>
+  <string id="yan_missing_koval_wait_name">
+    <text>Подождать появления Коваля</text>
+  </string>
+  <string id="yan_missing_koval_wait_text">
+    <text>Этот придурок куда-то пропал. Не думаю, что с ним что-то случилось. Подождём, пока он объявится. Пока можно заняться выполнением поставленных задач.</text>
+  </string>
+  <string id="yan_missing_koval_spot_seen_name">
+    <text>Найти Коваля по сигналу</text>
+  </string>
+  <string id="yan_missing_koval_spot_seen_text">
+    <text>Коваль не выходит на связь, но его сигнал засекли неподалеку от архианомалии. Проверю это место. Что его только туда понесло?</text>
+  </string>
+  <string id="yan_missing_koval_dogs_attack_name">
+    <text>Помочь Ковалю отбиться от мутантов</text>
+  </string>
+  <string id="yan_missing_koval_dogs_attack_text">
+    <text>Возле аномалии Коваль нарвался на мутантов. Нужно ему помочь отбиться.</text>
+  </string>
+  <string id="yan_missing_koval_talk_name">
+    <text>Поговорить с Ковалем</text>
+  </string>
+  <string id="yan_missing_koval_talk_text">
+    <text>Мутанты мертвы. Теперь нужно узнать, какого лешего Коваля понесло к аномалии.</text>
+  </string>
+  <string id="yan_collect_info">
+    <text>СБОР ИНФОРМАЦИИ</text>
+  </string>
+  <string id="yan_collect_info_start_name">
+    <text>Поговорить со Скаем</text>
+  </string>
+  <string id="yan_collect_info_start_text">
+    <text>За время моего отсутствия Скай мог что-то откопать из полученных данных. Надо с ним поговорить.</text>
+  </string>
+  <string id="yan_collect_info_search_name">
+    <text>Добыть информацию в отмеченных зонах</text>
+  </string>
+  <string id="yan_collect_info_search_text">
+    <text>Скай сбросил на мой КПК приблизительные зоны, где могут находиться тела ученых. Нужно их осмотреть и добыть любую информацию. Хоттабыч и Вуслыч отправились проверять территорию со стороны Агропрома. Я проверю окрестности завода.</text>
+  </string>
+  <string id="yan_collect_info_talk_with_sky_name">
+    <text>Отнести полученные данные Скаю</text>
+  </string>
+  <string id="yan_collect_info_talk_with_sky_text">
+    <text>Что-то мне удалось узнать на месте, а что-то придётся ковырять Скаю. Отнесу ему всё это дело, пусть разбирается.</text>
+  </string>
+  <string id="yan_labx16_task">
+    <text>ПРОЛОМ</text>
+  </string>
+  <string id="yan_labx16_task_start_name">
+    <text>Включить охладительную установку</text>
+  </string>
+  <string id="yan_labx16_task_start_text">
+    <text>Скаю удалось узнать, как снизить воздействие пси-излучения возле провала главного зала лаборатории Х-16, чтобы добраться до тела одного из сталкеров неподалёку. У него могут быть полезные данные, проливающие свет на произошедшее здесь.</text>
+  </string>
+  <string id="yan_labx16_task_go_check_corp_name">
+    <text>Подобраться к трупу сталкера</text>
+  </string>
+  <string id="yan_labx16_task_go_check_corp_text">
+    <text>Мне удалось включить охладительную остановку. Излучение практически сошло на нет. Теперь можно подобраться к телу сталкера возле разлома.</text>
+  </string>
+  <string id="yan_labx16_task_check_corp_name">
+    <text>Обыскать труп сталкера</text>
+  </string>
+  <string id="yan_labx16_task_check_corp_text">
+    <text>Свалился вместе с трупом в руины лаборатории... Что ж, посмотрим, что у него есть по нашему делу.</text>
+  </string>
+  <string id="yan_labx16_second_task">
+    <text>В ЗАПАДНЕ</text>
+  </string>
+  <string id="yan_labx16_task_second_escape_lab_name">
+    <text>Найти выход из подземелий</text>
+  </string>
+  <string id="yan_labx16_task_second_escape_lab_text">
+    <text>Угораздило провалиться в руины лаборатории. Со мной, вроде, все в порядке, переломов нет, а вот рация разбита вдребезги. Придется выбираться на поверхность самостоятельно. Зато именно здесь мне, вероятно, удастся восстановить всю картину произошедшего на Янтаре.</text>
+  </string>
+  <string id="yan_labx16_task_second_search_key_name">
+    <text>Найти способ попасть в комнату управления</text>
+  </string>
+  <string id="yan_labx16_task_second_search_key_text">
+    <text>Вероятнее всего, за дверью находится главный пульт управления этой грозной системой. Возможно, там удастся найти что-то интересное. Вот только надо туда сначала попасть.</text>
+  </string>
+  <string id="yan_labx16_task_second_check_dispatcher_room_name">
+    <text>Осмотреть диспетчерскую</text>
+  </string>
+  <string id="yan_labx16_task_second_check_dispatcher_room_text">
+    <text>В диспетчерской могут храниться записи последних переговоров или ещё какая-то полезная информация.</text>
+  </string>
+  <string id="yan_labx16_task_second_check_brain_control_room_name">
+    <text>Осмотреть комнату управления</text>
+  </string>
+  <string id="yan_labx16_task_second_check_brain_control_room_text">
+    <text>Мне удалось достать какой-то ключ с тела военного диспетчера. Будем надеяться, что он от комнаты управления, ведь закрытых дверей тут не очень-то и много...</text>
+  </string>
+  <string id="yan_labx16_task_second_escape_lab_two_name">
+    <text>Найти выход из подземелий</text>
+  </string>
+  <string id="yan_labx16_task_second_escape_lab_two_text">
+    <text>Удалось найти кое-какую информацию по поводу произошедшего в лаборатории Х-16. Теперь нужно отсюда сваливать.</text>
+  </string>
+  <string id="yan_labx16_task_talk_with_sky_name">
+    <text>Поговорить со Скаем</text>
+  </string>
+  <string id="yan_labx16_task_talk_with_sky_text">
+    <text>Пора поговорить с нашим спецом по взлому. Вероятно, он смог что-то выудить из полученных ранее данных.</text>
+  </string>
+  <string id="yan_mysterious_stranger_task">
+    <text>ЗАГАДОЧНЫЙ НЕЗНАКОМЕЦ</text>
+  </string>
+  <string id="yan_mysterious_stranger_task_start_name">
+    <text>Найти ночлежку в коллекторах</text>
+  </string>
+  <string id="yan_mysterious_stranger_task_start_text">
+    <text>Неожиданной получилась встреча с Иванычем. Я уже и не думал, что доведется когда либо увидеть его живым. Он сказал мне, что человеку, которого мы тут встретили, нельзя доверять. Откуда только узнал про это? Нужно будет ещё раз допросить этого сталкера. Уверен, речь идет о нем. А пока буду искать выход, загляну и в его ночлежку. Иваныч сказал, что она где-то в коллекторах.</text>
+  </string>
+  <string id="yan_mysterious_stranger_task_back_to_lager_name">
+    <text>Вернуться в лагерь и решить, что предпринять</text>
+  </string>
+  <string id="yan_mysterious_stranger_task_back_to_lager_text">
+    <text>Сталкер по прозвищу Матвей все рассказал про загадочного незнакомца. Он врал с самого начала, имея лишь цель быстрее отсюда выбраться. По возвращении в лагерь нужно решить, что с ним делать. Оставить здесь? Забрать с собой и представить его перед судом? Или же самому взять на себя роль судьи?</text>
+  </string>
+  <string id="yan_source_of_interference">
+    <text>ИСТОЧНИК ПОМЕХ</text>
+  </string>
+  <string id="yan_source_of_interference_talk_with_vuslich_name">
+    <text>Поговорить с Вуслычем</text>
+  </string>
+  <string id="yan_source_of_interference_talk_with_vuslich_text">
+    <text>Мы смогли добыть почти всю информацию о произошедшем на Янтаре. Осталось решить вопрос с неисправным излучателем. Со мной на вылазку отправится Вуслыч и Коваль. Не хочется оставлять его в лагере.</text>
+  </string>
+  <string id="yan_source_of_interference_open_angar_name">
+    <text>Открыть ангар</text>
+  </string>
+  <string id="yan_source_of_interference_open_angar_text">
+    <text>Профессор Сытянов может находиться среди запертых зомбированных в ангаре около мобильного бункера ученых. Нужно вскрыть ангар, убить зомбированных и добыть его КПК.</text>
+  </string>
+  <string id="yan_source_of_interference_take_pda_name">
+    <text>Найти ПДА Сытянова</text>
+  </string>
+  <string id="yan_source_of_interference_take_pda_text">
+    <text>Ангар открыт. Осталось только разобраться с зомбированными и найти носитель информации у профессора Сытянова.</text>
+  </string>
+  <string id="yan_source_of_interference_wait_decryption_name">
+    <text>Дождаться расшифровки данных</text>
+  </string>
+  <string id="yan_source_of_interference_wait_decryption_text">
+    <text>Удалось найти ПДА на теле профессора Сытянова. Подождем, пока оттуда вытаскиваются данные.</text>
+  </string>
+  <string id="yan_source_of_interference_go_factory_name">
+    <text>Добраться до места</text>
+  </string>
+  <string id="yan_source_of_interference_go_factory_text">
+    <text>Стало известно местоположение излучателя. С отрядом требуется добраться до места и выключить его.</text>
+  </string>
+  <string id="yan_source_of_interference_koval_need_help_name">
+    <text>Узнать, что с Ковалем</text>
+  </string>
+  <string id="yan_source_of_interference_koval_need_help_text">
+    <text>Коваль внезапно остановился. Нужно узнать, что случилось.</text>
+  </string>
+  <string id="yan_source_of_interference_off_emitter_name">
+    <text>Отключить излучатель</text>
+  </string>
+  <string id="yan_source_of_interference_off_emitter_text">
+    <text>Мы у цели. Осталось только выключить излучатель. Будем надеяться, что всё пройдёт гладко...</text>
+  </string>
+  <string id="yan_source_of_interference_talk_with_squad_name">
+    <text>Вернуться к отряду</text>
+  </string>
+  <string id="yan_source_of_interference_talk_with_squad_text">
+    <text>Излучатель отключен. Нужно вернуться к отряду и проверить, как они.</text>
+  </string>
+  <string id="yan_source_of_interference_go_back_name">
+    <text>Вернуться во временный лагерь</text>
+  </string>
+  <string id="yan_source_of_interference_go_back_text">
+    <text>Информация по инциденту полностью собрана. Мы смогли восстановить всю картину произошедшего. Связь с Агропромом налажена. Пора возвращаться в лагерь и собираться на базу.</text>
+  </string>
+  <string id="yan_source_of_interference_talk_with_sky_name">
+    <text>Поговорить со Скаем</text>
+  </string>
+  <string id="yan_source_of_interference_talk_with_sky_text">
+    <text>Нужно передать Скаю всю оставшуюся информацию и готовиться к отправке на Агропром.</text>
+  </string>
+  <string id="yan_final_task">
+    <text>ГОНЕЦ ПРАВОСУДИЯ</text>
+  </string>
+  <string id="yan_final_task_main_title_name">
+    <text>Решить, что делать с беглым долговцем</text>
+  </string>
+  <string id="yan_final_task_main_title_text">
+    <text>Перед отправкой домой поболтаю с беглецом. Нужно решить, что с ним делать.</text>
+  </string>
 </string_table>

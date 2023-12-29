@@ -1,140 +1,105 @@
-п»ї<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <string_table>
-
-	<string id="side_tasks_dialog_start">
-		<text>I need a job. Do you have something for me?</text>
-	</string>
-
-	<string id="side_tasks_dialog_has_tasks_1">
-		<text>I have something:</text>
-	</string>
-
-	<string id="side_tasks_dialog_has_tasks_2">
-		<text>I can offer the following:</text>
-	</string>
-
-	<string id="side_tasks_dialog_has_tasks_3">
-		<text>I've got this:</text>
-	</string>
-
-	<string id="side_tasks_dialog_has_tasks_back">
-		<text>I've changed my mind.</text>
-	</string>
-
-	<string id="side_tasks_dialog_hasnt_tasks_1">
-		<text>There's no work at the moment.</text>
-	</string>
-
-	<string id="side_tasks_dialog_hasnt_tasks_2">
-		<text>I can't offer anything right now.</text>
-	</string>
-
-	<string id="side_tasks_dialog_hasnt_tasks_3">
-		<text>There's no work right now.</text>
-	</string>
-
-	<string id="side_tasks_dialog_hasnt_tasks_back">
-		<text>I'll come by another time.</text>
-	</string>
-
-	<string id="side_tasks_dialog_task_take">
-		<text>I'll take it.</text>
-	</string>
-
-	<string id="side_tasks_dialog_task_wont_take">
-		<text>Not interested in such work.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_start">
-		<text>I'm here about the task.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_about_task">
-		<text>Which task?</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_about_task_cancel">
-		<text>I'll come by another time.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_question_task_1">
-		<text>How's the task going?</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_question_task_2">
-		<text>I'm all ears.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_question_task_3">
-		<text>Tell me. I'm listening.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_question_task_cancel">
-		<text>Nothing. I'll drop by later.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_complete_task">
-		<text>I've finished it.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_reversed_task">
-		<text>I refuse to do the task.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_complete_task_ok_1">
-		<text>Excellent. Here's your reward!</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_complete_task_ok_2">
-		<text>Splendid. Here's the payment!</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_complete_task_ok_3">
-		<text>If that's the case, here's honest pay for honest work!</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_reversed_task_ok_1">
-		<text>Shame. Well, it's your call.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_reversed_task_ok_2">
-		<text>As you wish.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_reversed_task_ok_3">
-		<text>Suit yourself.</text>
-	</string>
-
-	<string id="side_tasks_type_find_artefact">
-		<text>ARTIFACT HUNT</text>
-	</string>
-
-	<string id="side_tasks_type_find_item">
-		<text>FIND ITEM</text>
-	</string>
-
-	<string id="side_tasks_type_find_uniq">
-		<text>UNIQUE ITEM</text>
-	</string>
-
-	<string id="side_tasks_type_kill_stalker">
-		<text>CONTRACT</text>
-	</string>
-
-	<string id="side_tasks_type_kill_stalkers">
-		<text>CONTRACT</text>
-	</string>
-
-	<string id="side_tasks_type_kill_monster">
-		<text>MUTANT HUNT</text>
-	</string>
-
-	<string id="side_tasks_type_kill_monsters">
-		<text>CLEAR MUTANT LAIR</text>
-	</string>
-
-	<string id="side_tasks_type_monster_part">
-		<text>MONSTER PART</text>
-	</string>
-
+  <string id="side_tasks_dialog_start">
+    <text>I need a job. Do you have something for me?</text>
+  </string>
+  <string id="side_tasks_dialog_has_tasks_1">
+    <text>I have something:</text>
+  </string>
+  <string id="side_tasks_dialog_has_tasks_2">
+    <text>I can offer the following:</text>
+  </string>
+  <string id="side_tasks_dialog_has_tasks_3">
+    <text>I've got this:</text>
+  </string>
+  <string id="side_tasks_dialog_has_tasks_back">
+    <text>I've changed my mind.</text>
+  </string>
+  <string id="side_tasks_dialog_hasnt_tasks_1">
+    <text>There's no work at the moment.</text>
+  </string>
+  <string id="side_tasks_dialog_hasnt_tasks_2">
+    <text>I can't offer anything right now.</text>
+  </string>
+  <string id="side_tasks_dialog_hasnt_tasks_3">
+    <text>There's no work right now.</text>
+  </string>
+  <string id="side_tasks_dialog_hasnt_tasks_back">
+    <text>I'll come by another time.</text>
+  </string>
+  <string id="side_tasks_dialog_task_take">
+    <text>I'll take it.</text>
+  </string>
+  <string id="side_tasks_dialog_task_wont_take">
+    <text>Not interested in such work.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_start">
+    <text>I'm here about the task.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_about_task">
+    <text>Which task?</text>
+  </string>
+  <string id="side_tasks_reward_dialog_about_task_cancel">
+    <text>I'll come by another time.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_question_task_1">
+    <text>How's the task going?</text>
+  </string>
+  <string id="side_tasks_reward_dialog_question_task_2">
+    <text>I'm all ears.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_question_task_3">
+    <text>Tell me. I'm listening.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_question_task_cancel">
+    <text>Nothing. I'll drop by later.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_complete_task">
+    <text>I've finished it.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_reversed_task">
+    <text>I refuse to do the task.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_complete_task_ok_1">
+    <text>Excellent. Here's your reward!</text>
+  </string>
+  <string id="side_tasks_reward_dialog_complete_task_ok_2">
+    <text>Splendid. Here's the payment!</text>
+  </string>
+  <string id="side_tasks_reward_dialog_complete_task_ok_3">
+    <text>If that's the case, here's honest pay for honest work!</text>
+  </string>
+  <string id="side_tasks_reward_dialog_reversed_task_ok_1">
+    <text>Shame. Well, it's your call.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_reversed_task_ok_2">
+    <text>As you wish.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_reversed_task_ok_3">
+    <text>Suit yourself.</text>
+  </string>
+  <string id="side_tasks_type_find_artefact">
+    <text>ARTIFACT HUNT</text>
+  </string>
+  <string id="side_tasks_type_find_item">
+    <text>FIND ITEM</text>
+  </string>
+  <string id="side_tasks_type_find_uniq">
+    <text>UNIQUE ITEM</text>
+  </string>
+  <string id="side_tasks_type_kill_stalker">
+    <text>CONTRACT</text>
+  </string>
+  <string id="side_tasks_type_kill_stalkers">
+    <text>CONTRACT</text>
+  </string>
+  <string id="side_tasks_type_kill_monster">
+    <text>MUTANT HUNT</text>
+  </string>
+  <string id="side_tasks_type_kill_monsters">
+    <text>CLEAR MUTANT LAIR</text>
+  </string>
+  <string id="side_tasks_type_monster_part">
+    <text>MONSTER PART</text>
+  </string>
 </string_table>
