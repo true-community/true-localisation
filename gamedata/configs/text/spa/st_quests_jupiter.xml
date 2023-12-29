@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="jup_a10_actor_agree_back_vano_duties_name">
+		<text>Deudas: lleva el dinero a los bandidos</text>
+	</string>
+	<string id="jup_a10_actor_agree_back_vano_duties_text">
+		<text>Vano debe dinero a los bandidos por un traje y no puede saldar la deuda porque los intereses se han disparado. Te ha pedido que le soluciones la papeleta.</text>
+	</string>
+	<string id="jup_a10_actor_back_vano_duties_name">
+		<text>Deudas: regresa junto a Vano</text>
+	</string>
+	<string id="jup_a10_actor_back_vano_duties_text">
+		<text>Cuйntale a Vano cуmo has zanjado su deuda.</text>
+	</string>
+	<string id="jup_a10_kill_all_bandit_name">
+		<text>Deudas: habla con los bandidos</text>
+	</string>
+	<string id="jup_a10_kill_all_bandit_text">
+		<text>Las negociaciones por la deuda de Vano se han complicado. Acaba con los bandidos.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_get_reward_name">
+		<text>Rehйn: pide la recompensa a los amigos de Mitay</text>
+	</string>
+	<string id="jup_a12_free_prisoner_get_reward_text">
+		<text>Mitay ha sido liberado. Reъnete con sus amigos en el bar para recibir tu recompensa.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_name">
+		<text>Rehйn: libera a Mitay</text>
+	</string>
+	<string id="jup_a12_free_prisoner_not_ready_name">
+		<text>Rehйn: habla con Osopardo para asegurarte de que estб listo</text>
+	</string>
+	<string id="jup_a12_free_prisoner_not_ready_text">
+		<text>Debes hablar con Osopardo antes de intentar liberar al rehйn.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_name">
+		<text>Rehйn: libera a Mitay por la fuerza</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_text">
+		<text>Debes eliminar a los bandidos para liberar al stalker Mitay.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_wait_name">
+		<text>Rehйn: reъnete con los stalkers</text>
+	</string>
+	<string id="jup_a12_free_prisoner_power_wait_text">
+		<text>Los stalkers te ayudarбn a liberar al rehйn. Tienes que reunirte con ellos por la noche para atacar todos juntos a los bandidos.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_ransom_name">
+		<text>Rehйn: acuerda el precio del rescate de Mitay</text>
+	</string>
+	<string id="jup_a12_free_prisoner_ransom_text">
+		<text>Acuerda con el lнder de los bandidos el rescate a pagar por el stalker llamado Mitay.</text>
+	</string>
+	<string id="jup_a12_free_prisoner_text">
+		<text>Libera a un stalker llamado Mitay que ha sido capturado por los bandidos.</text>
+	</string>
+	<string id="jup_a12_guide_prisoner_name">
+		<text>Rehйn: saca a Mitay del campamento de los bandidos</text>
+	</string>
+	<string id="jup_a12_guide_prisoner_text">
+		<text>Quedarse en el campamento de los bandidos es demasiado peligroso. Debes escoltar a Mitay fuera del campamento.</text>
+	</string>
+	<string id="jup_a12_talk_with_prisoner_name">
+		<text>Rehйn: habla con Mitay</text>
+	</string>
+	<string id="jup_a12_talk_with_prisoner_text">
+		<text>Mitay estб relativamente seguro. Discute con йl vuestro prуximo paso.</text>
+	</string>
+	<string id="jup_a9_way_to_pripyat_tech_name">
+		<text>Camino a Pripyat: habla con el tйcnico sobre el paso subterrбneo</text>
+	</string>
+	<string id="jup_a9_way_to_pripyat_tech_text">
+		<text>Los documentos que has encontrado seсalan la existencia de un paso subterrбneo hacia Pripyat situado bajo la central de Jъpiter. No hay energнa en el paso, estб lleno de gas y la entrada ha sido bloqueada. Debes encontrar un tйcnico que pueda activar el generador y abrir la cerradura de entrada.</text>
+	</string>
+	<string id="jup_b10_ufo_memory_at_text">
+		<text>El mуdulo de memoria estб en manos expertas. Tienes que esperar a que lo desbloqueen.</text>
+	</string>
+	<string id="jup_b10_ufo_memory_name">
+		<text>Aparato no tripulado: desbloquea el mуdulo de memoria</text>
+	</string>
+	<string id="jup_b10_ufo_memory_nitro_name">
+		<text>Aparato no tripulado: recupera el mуdulo de memoria que le diste a Nitro</text>
+	</string>
+	<string id="jup_b10_ufo_memory_novikov_name">
+		<text>Aparato no tripulado: recupera el mуdulo de memoria que le diste a Novikov</text>
+	</string>
+	<string id="jup_b10_ufo_memory_repaired_by_nitro_text">
+		<text>Nitro ha desbloqueado el mуdulo de memoria. Deberнas recuperarlo para ver la informaciуn que contiene.</text>
+	</string>
+	<string id="jup_b10_ufo_memory_repaired_by_novikov_text">
+		<text>Novikov ha desbloqueado el mуdulo de memoria. Deberнas recuperarlo para ver la informaciуn que contiene.</text>
+	</string>
+	<string id="jup_b10_ufo_memory_started_text">
+		<text>Has logrado recuperar un mуdulo de memoria del aparato no tripulado. Debes desbloquearlo para acceder a su informaciуn.</text>
+	</string>
+	<string id="jup_b10_ufo_memory_wait_name">
+		<text>Aparato no tripulado: espera a que el mуdulo de memoria sea desbloqueado</text>
+	</string>
+	<string id="jup_b16_oasis_art_name">
+		<text>Oasis: consigue pruebas</text>
+	</string>
+	<string id="jup_b16_oasis_art_text">
+		<text>El oasis ha sido encontrado, y realmente tiene propiedades curativas. Tienes que encontrar pruebas para los cientнficos.</text>
+	</string>
+	<string id="jup_b16_oasis_artifact_back_name">
+		<text>El oasis: lleva las pruebas a los cientнficos</text>
+	</string>
+	<string id="jup_b16_oasis_artifact_back_text">
+		<text>El oasis ha sido encontrado, y realmente tiene propiedades curativas. Como prueba, tienes que llevarles a los cientнficos el artefacto que has encontrado.</text>
+	</string>
+	<string id="jup_b16_oasis_name">
+		<text>El oasis: comprueba si la leyenda es cierta</text>
+	</string>
+	<string id="jup_b16_oasis_text">
+		<text>Ozersky, el cientнfico del bъnker, te ha pedido que busques el oasis, un lugar legendario dentro de la Zona. Segъn los rumores hay un manantial de aguas curativas en йl, pero nadie sabe con certeza si existe o no.</text>
+	</string>
+	<string id="jup_b19_agreed_to_go_name">
+		<text>Kopachy: acompaсa al tнo Yar</text>
+	</string>
+	<string id="jup_b19_agreed_to_go_text">
+		<text>El tнo Yar necesita ayuda con un asunto. Ve al pueblo de Kopachy con йl.</text>
+	</string>
+	<string id="jup_b19_destroy_mercs_name">
+		<text>Kopachy: elimina a los mercenarios</text>
+	</string>
+	<string id="jup_b19_destroy_mercs_text">
+		<text>Parece que el tнo Yar habнa previsto la llegada de los mercenarios. Debes eliminarlos.</text>
+	</string>
+	<string id="jup_b19_following_yar_name">
+		<text>Kopachy: no te separes del tнo Yar</text>
+	</string>
+	<string id="jup_b19_following_yar_text">
+		<text>El tнo Yar te ha pedido que te quedes junto a йl sin hacer ruido.</text>
+	</string>
+	<string id="jup_b19_talk_to_yar_name">
+		<text>Kopachy: habla con el tнo Yar</text>
+	</string>
+	<string id="jup_b19_talk_to_yar_text">
+		<text>Los mercenarios estбn muertos. Deberнas hablar con el tнo Yar para que te explique lo que ha pasado.</text>
+	</string>
+	<string id="jup_b1_bring_art_back_name">
+		<text>Emisiones psнquicas intermitentes: lleva la formaciуn anуmala a los cientнficos</text>
+	</string>
+	<string id="jup_b1_bring_art_back_text">
+		<text>Llйvale a Hermann la muestra que has encontrado. Este objeto medio transformado por la exposiciуn a las anomalнas parece ser el origen de las emisiones psнquicas intermitentes.</text>
+	</string>
+	<string id="jup_b1_get_art_name">
+		<text>Emisiones psнquicas intermitentes: investiga el origen</text>
+	</string>
+	<string id="jup_b1_get_art_text">
+		<text>Investiga el tъnel en busca de alguna formaciуn anуmala. Los cientнficos creen que el campo psнquico intermitente tiene un origen, probablemente similar a un artefacto.</text>
+	</string>
+	<string id="jup_b1_join_squad_name">
+		<text>Emisiones psнquicas intermitentes: reъnete con el escuadrуn de Topol</text>
+	</string>
+	<string id="jup_b1_join_squad_text">
+		<text>El escuadrуn de Topol fue al tъnel de las emisiones psнquicas intermitentes. Debes reunirte con ellos allн.</text>
+	</string>
+	<string id="jup_b1_meet_squad_name">
+		<text>Emisiones psнquicas intermitentes: habla con Topol</text>
+	</string>
+	<string id="jup_b1_meet_squad_text">
+		<text>Acompaсa al escuadrуn de Topol al tъnel de las emisiones psнquicas intermitentes. Los stalkers vigilarбn el tъnel mientras tъ buscas lo que quieren los cientнficos.</text>
+	</string>
+	<string id="jup_b200_tech_materials_brought_all_text">
+		<text>Deberнas llevarle a Nitro todo el material de radio que has encontrado.</text>
+	</string>
+	<string id="jup_b200_tech_materials_brought_some_text">
+		<text>Nitro necesita material de radio. Puedes darle lo que ya tienes o ir a buscar mбs.</text>
+	</string>
+	<string id="jup_b200_tech_materials_name">
+		<text>Equipo de radio: encuentra materiales para Nitro</text>
+	</string>
+	<string id="jup_b200_tech_materials_text">
+		<text>Nitro necesita material de radio. Dice que deberнas buscarlo en la fбbrica de cemento.</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_01_name">
+		<text>Robo: descubre quiйn ha sido el responsable del robo</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_01_text">
+		<text>Pregъntale a los stalkers de Yanov si han visto a alguien sospechoso que podrнa haber robado el contenido de una caja personal.</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_02_name">
+		<text>Robo: investiga la subestaciуn</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_02_text">
+		<text>Tienes que investigar la subestaciуn; el stalker presuntamente responsable del robo se dirigнa hacia allн.</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_03_name">
+		<text>Robo: coge tus cosas</text>
+	</string>
+	<string id="jup_b202_actor_items_stolen_03_text">
+		<text>Todos los objetos robados por Snag deberнan estar en su escondite de las cloacas, detrбs de la subestaciуn.</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_get_plant_name">
+		<text>Planta anуmala: consigue una muestra de la planta</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_get_plant_text">
+		<text>Una zona llena de vegetaciуn anуmala ha aparecido junto al borde de la cantera. Ozersky te ha pedido que obtengas una muestra para su investigaciуn.</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_have_plant_name">
+		<text>Planta anуmala: dale la muestra a Ozersky</text>
+	</string>
+	<string id="jup_b206_anomalous_grove_have_plant_text">
+		<text>Debes llevarle la muestra de la planta a Ozersky. A cambio, Ozersky convencerб a Hermann de que te entregue un traje cientнfico.</text>
+	</string>
+	<string id="jup_b208_burers_hunt_kill_burers_name">
+		<text>Cacerнa: elimina a los mutantes no identificados</text>
+	</string>
+	<string id="jup_b208_burers_hunt_kill_burers_text">
+		<text>Un grupo de stalkers se ha topado con mutantes no identificados en los tъneles que hay al norte de la central de Jъpiter. Investiga la zona y elimina a los mutantes.</text>
+	</string>
+	<string id="jup_b208_burers_hunt_take_reward_name">
+		<text>Cacerнa: cobra la recompensa que ofrecнa Trapper por matar a los mutantes del tъnel</text>
+	</string>
+	<string id="jup_b208_burers_hunt_take_reward_text">
+		<text>Los mutantes de los tъneles del norte de la central de Jъpiter han sido eliminados. Deberнas informar a Trapper y cobrar tu recompensa.</text>
+	</string>
+	<string id="jup_b209_hypotheses_1_name">
+		<text>Hipуtesis: coloca el escбner en el centro del derrumbamiento</text>
+	</string>
+	<string id="jup_b209_hypotheses_1_text">
+		<text>Coloca el escбner en el centro del derrumbamiento para corroborar la hipуtesis de Ozersky.</text>
+	</string>
+	<string id="jup_b209_hypotheses_2_name">
+		<text>Hipуtesis: espera a que termine el experimento</text>
+	</string>
+	<string id="jup_b209_hypotheses_2_text">
+		<text>El escбner ha sido activado y estб empezando a captar la presencia de mutantes. Debes esperar a que se haya recabado suficiente informaciуn para confirmar o refutar la hipуtesis.</text>
+	</string>
+	<string id="jup_b209_hypotheses_3_name">
+		<text>Hipуtesis: coge el escбner</text>
+	</string>
+	<string id="jup_b209_hypotheses_3_text">
+		<text>Se han obtenido suficientes datos para confirmar la hipуtesis de Ozersky. Coge el escбner.</text>
+	</string>
+	<string id="jup_b209_hypotheses_4_name">
+		<text>Hipуtesis: dale el escбner a Ozersky</text>
+	</string>
+	<string id="jup_b209_hypotheses_4_text">
+		<text>Debes darle el escбner a Ozersky. Los datos obtenidos deberнan bastar para confirmar su hipуtesis.</text>
+	</string>
+	<string id="jup_b211_kill_bloodsuckers_name">
+		<text>Cacerнa: mata a los chupasangres de pantano</text>
+	</string>
+	<string id="jup_b211_kill_bloodsuckers_text">
+		<text>Un grupo de chupasangres de pantano ha sido avistado en la Ciйnaga, detrбs de la fбbrica de cemento. Los stalkers locales te han pedido que los elimines.</text>
+	</string>
+	<string id="jup_b211_take_reward_name">
+		<text>Cacerнa: cobra la recompensa que ofrecнa Trapper por matar a los chupasangres de pantano</text>
+	</string>
+	<string id="jup_b211_take_reward_text">
+		<text>Los chupasangres de pantano estбn muertos. Deberнas hablar con Trapper para cobrar la recompensa ofrecida por los stalkers locales.</text>
+	</string>
+	<string id="jup_b212_jupiter_kill_chimera_name">
+		<text>Cacerнa nocturna: mata a la quimera</text>
+	</string>
+	<string id="jup_b212_jupiter_kill_chimera_text">
+		<text>Las quimeras son depredadores nocturnos; nadie sabe dуnde se oculta йsta durante el dнa. Mбtala por la noche, cuando salga a cazar junto al complejo de ventilaciуn.</text>
+	</string>
+	<string id="jup_b212_jupiter_tell_animalboy_about_chimera_name">
+		<text>Cacerнa nocturna: dile a Trapper que la quimera estб muerta</text>
+	</string>
+	<string id="jup_b212_jupiter_tell_animalboy_about_chimera_text">
+		<text>La quimera asesina estб muerta; el cazador Fox ha sido vengado. Dнselo a Trapper.</text>
+	</string>
+	<string id="jup_b217_get_tools_1_2_name">
+		<text>Herramientas: llйvale herramientas a Nitro</text>
+	</string>
+	<string id="jup_b217_get_tools_1_2_text">
+		<text>Nitro te ha pedido que le consigas dos juegos de herramientas: uno para tareas bбsicas y otro para tareas de precisiуn. Te pagarб por ellas, y podrб realizar modificaciones mбs avanzadas en armas y blindajes.</text>
+	</string>
+	<string id="jup_b217_get_tools_1_3_name">
+		<text>Herramientas: llйvale herramientas a Nitro</text>
+	</string>
+	<string id="jup_b217_get_tools_1_3_text">
+		<text>Nitro te ha pedido que le consigas dos juegos de herramientas: uno para tareas bбsicas y otro de calibraciуn. Te pagarб por ellas, y podrб realizar modificaciones mбs avanzadas en armas y blindajes.</text>
+	</string>
+	<string id="jup_b217_get_tools_1_name">
+		<text>Herramientas: llйvale herramientas a Nitro</text>
+	</string>
+	<string id="jup_b217_get_tools_1_text">
+		<text>Nitro te ha pedido que le consigas un juego de herramientas para tareas bбsicas. Te pagarб por ellas, y podrб realizar modificaciones mбs avanzadas en armas y blindajes.</text>
+	</string>
+	<string id="jup_b217_get_tools_2_3_name">
+		<text>Herramientas: llйvale herramientas a Nitro</text>
+	</string>
+	<string id="jup_b217_get_tools_2_3_text">
+		<text>Nitro te ha pedido que le consigas dos juegos de herramientas: uno para tareas de precisiуn y otro de calibraciуn. Te pagarб por ellas, y podrб realizar modificaciones mбs avanzadas en armas y blindajes.</text>
+	</string>
+	<string id="jup_b217_get_tools_2_name">
+		<text>Herramientas: llйvale herramientas a Nitro</text>
+	</string>
+	<string id="jup_b217_get_tools_2_text">
+		<text>Nitro te ha pedido que le consigas un juego de herramientas para tareas de precisiуn. Te pagarб por ellas, y podrб realizar modificaciones mбs avanzadas en armas y blindajes.</text>
+	</string>
+	<string id="jup_b217_get_tools_3_name">
+		<text>Herramientas: llйvale herramientas a Nitro</text>
+	</string>
+	<string id="jup_b217_get_tools_3_text">
+		<text>Nitro te ha pedido que le consigas un juego de herramientas de calibraciуn. Te pagarб por ellas, y podrб realizar modificaciones mбs avanzadas en armas y blindajes.</text>
+	</string>
+	<string id="jup_b217_mechanic_toolkit_search_name">
+		<text>Herramientas: llйvale herramientas a Nitro</text>
+	</string>
+	<string id="jup_b217_mechanic_toolkit_search_text">
+		<text>Nitro te ha pedido que le consigas tres juegos de herramientas: uno para tareas bбsicas, otro para tareas de precisiуn y otro de calibraciуn. Te pagarб por ellas, y podrб realizar modificaciones mбs avanzadas en armas y blindajes.</text>
+	</string>
+	<string id="jup_b218_actor_outfit_name">
+		<text>Pripyat 1: encuentra un traje con un mуdulo de respiraciуn de ciclo cerrado</text>
+	</string>
+	<string id="jup_b218_actor_outfit_text">
+		<text>Necesitas un traje con mуdulo de respiraciуn de ciclo cerrado para atravesar el paso subterrбneo Pripyat 1; estб inundado de diуxido de carbono mezclado con una sustancia desconocida.</text>
+	</string>
+	<string id="jup_b218_monolith_guide_to_zulus_name">
+		<text>Pripyat 1: lleva a Strider ante Zulu</text>
+	</string>
+	<string id="jup_b218_monolith_guide_to_zulus_text">
+		<text>Debes llevar a Strider ante Zulu y presentarlo como nuevo miembro del escuadrуn. Zulu podrнa no tomarse a bien la visita de un soldado vestido con un traje del Monolito.</text>
+	</string>
+	<string id="jup_b218_monolith_name">
+		<text>Pripyat 1: habla con Strider sobre un traje protector</text>
+	</string>
+	<string id="jup_b218_monolith_text">
+		<text>El paso subterrбneo Pripyat 1 estб inundado de diуxido de carbono mezclado con una sustancia desconocida. Debes decirle a Strider que necesitarб un traje con un mуdulo de respiraciуn de ciclo cerrado para pasar.</text>
+	</string>
+	<string id="jup_b218_pripyat_group_gathering_name">
+		<text>Pripyat 1: organiza un escuadrуn para ir a Pripyat</text>
+	</string>
+	<string id="jup_b218_pripyat_group_gathering_text">
+		<text>Nitro podrнa abrir la cerradura del paso de Pripyat 1, pero se niega a entrar en la central de Jъpiter sin protecciуn. Te ha recomendado que reъnas a varios hombres para atravesar el paso subterrбneo. Ya tienes a Zulu, y йl te ha sugerido que le envнes nuevos reclutas.</text>
+	</string>
+	<string id="jup_b218_pripyat_group_zulus_talk_name">
+		<text>Pripyat 1: habla con Zulu sobre ir a Pripyat</text>
+	</string>
+	<string id="jup_b218_pripyat_group_zulus_talk_text">
+		<text>Nitro podrнa abrir la cerradura del paso de Pripyat 1, pero se niega a entrar en la central de Jъpiter sin protecciуn. Te ha recomendado que reъnas a varios hombres para atravesar el paso subterrбneo. Sugiere que hables con Zulu para que te ayude a reunir un escuadrуn.</text>
+	</string>
+	<string id="jup_b218_soldier_guide_to_zulus_name">
+		<text>Pripyat 1: lleva a Sokolov ante Zulu</text>
+	</string>
+	<string id="jup_b218_soldier_guide_to_zulus_text">
+		<text>Sokolov ha accedido a ir a Pripyat y podrнa llevarse un traje cientнfico del bъnker. Deberнas llevarlo ante Zulu y presentarlo como nuevo miembro del escuadrуn.</text>
+	</string>
+	<string id="jup_b218_soldier_name">
+		<text>Pripyat 1: habla con Sokolov sobre un traje protector</text>
+	</string>
+	<string id="jup_b218_soldier_talk_to_scientist_name">
+		<text>Pripyat 1: habla con Ozersky sobre un traje para Sokolov</text>
+	</string>
+	<string id="jup_b218_soldier_talk_to_scientist_text">
+		<text>Sokolov estб dispuesto a protegerse con un traje cientнfico, pero Hermann no dejarб que se lo lleve del bъnker. Deberнas hablar con Ozersky; es mбs simpбtico y receptivo.</text>
+	</string>
+	<string id="jup_b218_soldier_tell_outfit_name">
+		<text>Pripyat 1: habla con Sokolov sobre el traje cientнfico</text>
+	</string>
+	<string id="jup_b218_soldier_tell_outfit_text">
+		<text>Ozersky estб muy contento con la muestra de planta. Te ha pedido que le digas a Sokolov que Hermann le dejarб llevarse el traje cientнfico.</text>
+	</string>
+	<string id="jup_b218_soldier_text">
+		<text>El paso subterrбneo Pripyat 1 estб inundado de diуxido de carbono mezclado con una sustancia desconocida. Debes decirle a Sokolov que necesitarб un traje con un mуdulo de respiraciуn de ciclo cerrado para pasar.</text>
+	</string>
+	<string id="jup_b218_stalker_bring_money_name">
+		<text>Pripyat 1: consнguele dinero a Vano para el traje</text>
+	</string>
+	<string id="jup_b218_stalker_bring_money_text">
+		<text>El traje que Vano debe pagar a los bandidos tiene un mуdulo de respiraciуn de ciclo cerrado. Vano tuvo que empeсarlo para saldar sus deudas, y necesita 3.000 para recuperarlo.</text>
+	</string>
+	<string id="jup_b218_stalker_guide_to_zulus_name">
+		<text>Pripyat 1: lleva a Vano ante Zulu</text>
+	</string>
+	<string id="jup_b218_stalker_guide_to_zulus_text">
+		<text>Vano estб dispuesto a ir a Pripyat. Debes llevarlo ante Zulu y presentarlo como nuevo miembro del escuadrуn. Vano puede recuperar su traje por el camino.</text>
+	</string>
+	<string id="jup_b218_stalker_name">
+		<text>Pripyat 1: habla con Vano sobre un traje protector</text>
+	</string>
+	<string id="jup_b218_stalker_text">
+		<text>El paso subterrбneo Pripyat 1 estб inundado de diуxido de carbono mezclado con una sustancia desconocida. Debes decirle a Vano que necesitarб un traje con un mуdulo de respiraciуn de ciclo cerrado para pasar.</text>
+	</string>
+	<string id="jup_b25_accuse_flint_end_text">
+		<text>Pedernal, alias Urraca, es un cabrуn escurridizo. Debes revelar su paradero a los stalkers de Zaton o a otras facciones. Asн aprenderб.</text>
+	</string>
+	<string id="jup_b25_accuse_flint_first_text">
+		<text>Estб claro que Pedernal estб presumiendo de cosas que ni siquiera ha visto. Estarнa bien dejarlo en evidencia delante de todos.</text>
+	</string>
+	<string id="jup_b25_accuse_flint_name">
+		<text>Afirmaciones falsas: encбrgate de Pedernal</text>
+	</string>
+	<string id="jup_b25_accuse_flint_second_text">
+		<text>Es evidente que Pedernal se estб llevando el mйrito por los logros de otros. Debe aprender a morderse la lengua.</text>
+	</string>
+	<string id="jup_b25_accuse_flint_third_text">
+		<text>Pedernal se estб pasando con sus alardes; deberнas hablar con йl y hacerle ver tu opiniуn.</text>
+	</string>
+	<string id="jup_b25_senya_accuse_flint_text">
+		<text>Pedernal, alias Urraca, es un cabrуn escurridizo. Debes revelar su paradero a los stalkers de Zaton o a otras facciones; serнa una buena venganza.</text>
+	</string>
+	<string id="jup_b32_get_scanners_task_name">
+		<text>Investigaciуn de anomalнas: consigue los escбneres del tйcnico</text>
+	</string>
+	<string id="jup_b32_get_scanners_task_text">
+		<text>Dile a Novikov que te entregue los escбneres. Hermann quiere obtener datos sobre la formaciуn de anomalнas, y para eso hay que colocar los escбneres en el centro de varias de ellas.</text>
+	</string>
+	<string id="jup_b32_task_name">
+		<text>Investigaciуn de anomalнas: coloca el escбner en la anomalнa</text>
+	</string>
+	<string id="jup_b32_task_reward_name">
+		<text>Investigaciуn de anomalнas: cobra la recompensa</text>
+	</string>
+	<string id="jup_b32_task_reward_text">
+		<text>Cobra la recompensa que te prometieron por colocar escбneres en las anomalнas. Ahora que estбn en posiciуn, Hermann podrб recabar los datos que querнa.</text>
+	</string>
+	<string id="jup_b32_task_text">
+		<text>Coloca el escбner en el centro de la anomalнa. Hermann quiere obtener datos sobre la formaciуn de anomalнas, y para eso hay que colocar los escбneres en el centro de varias de ellas.</text>
+	</string>
+	<string id="jup_b43_bring_fuzz_kolobok_name">
+		<text>Contrato con los cientнficos: lleva el artefacto Kolobok a Garry</text>
+	</string>
+	<string id="jup_b43_bring_fuzz_kolobok_text">
+		<text>Garry necesita el artefacto Kolobok para cumplir su contrato con los cientнficos. Llйvaselo.</text>
+	</string>
+	<string id="jup_b43_bring_mincer_meat_name">
+		<text>Contrato con los cientнficos: lleva el artefacto Trozo de carne a Garry</text>
+	</string>
+	<string id="jup_b43_bring_mincer_meat_text">
+		<text>Garry necesita el artefacto Trozo de carne para cumplir su contrato con los cientнficos. Llйvaselo.</text>
+	</string>
+	<string id="jup_b43_contract_started_name">
+		<text>Contrato con los cientнficos: lleva los artefactos Trozo de carne y Kolobok a Garry</text>
+	</string>
+	<string id="jup_b43_contract_started_text">
+		<text>Garry necesita los artefactos Trozo de carne y Kolobok para cumplir su contrato con los cientнficos. Llйvaselos.</text>
+	</string>
+	<string id="jup_b43_thanks_for_2_artifacts_name">
+		<text>Contrato con los cientнficos: artefactos entregados</text>
+	</string>
+	<string id="jup_b43_thanks_for_2_artifacts_text">
+		<text>Garry tiene ambos artefactos; su contrato ha sido cumplido.</text>
+	</string>
+	<string id="jup_b46_duty_founder_pda_name">
+		<text>Historia de Deber: dale la PDA del fundador de Deber a quien pueda interesar</text>
+	</string>
+	<string id="jup_b46_duty_founder_pda_text">
+		<text>Has encontrado la PDA personal del fundador de Deber, que muriу en la anomalнa. Deberнas dбrsela a quien puedan interesar los ъltimos instantes del lнder de la facciуn.</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_name">
+		<text>Actividad anуmala: investiga el lugar usando un detector mejorado</text>
+	</string>
+	<string id="jup_b46_spatial_bubble_text">
+		<text>Los escбneres de los cientнficos han captado una actividad inusual al norte del bъnker. Investiga esa zona usando un detector mejorado.</text>
+	</string>
+	<string id="jup_b47_bunker_guards_01_name">
+		<text>Proteger a los cientнficos: encuentra gente de confianza</text>
+	</string>
+	<string id="jup_b47_bunker_guards_01_text">
+		<text>El bъnker de los cientнficos estб indefenso. Debes encontrar gente de confianza para protegerlo.</text>
+	</string>
+	<string id="jup_b47_bunker_guards_02_name">
+		<text>Proteger a los cientнficos: regresa junto a Hermann para cobrar la recompensa</text>
+	</string>
+	<string id="jup_b47_bunker_guards_02_text">
+		<text>Has encontrado guardias para el bъnker de los cientнficos. Deberнas regresar junto a Hermann para cobrar la recompensa merecida.</text>
+	</string>
+	<string id="jup_b47_jupiter_products_01_name">
+		<text>Ъltimas innovaciones: encuentra los documentos en la central de Jъpiter</text>
+	</string>
+	<string id="jup_b47_jupiter_products_01_text">
+		<text>Hermann estб interesado en las ъltimas innovaciones de la central de Jъpiter. Encuentra los documentos en la secciуn administrativa.</text>
+	</string>
+	<string id="jup_b47_jupiter_products_02_name">
+		<text>Ъltimas innovaciones: llйvale los documentos a Hermann</text>
+	</string>
+	<string id="jup_b47_jupiter_products_02_text">
+		<text>Los documentos que has encontrado indican que todos los registros tйcnicos han sido trasladados. Aunque no es mucho, deberнas darle la informaciуn a Hermann.</text>
+	</string>
+	<string id="jup_b47_jupiter_products_03_name">
+		<text>Ъltimas innovaciones: llйvale los documentos y la PDA de Negro a Hermann</text>
+	</string>
+	<string id="jup_b47_jupiter_products_03_text">
+		<text>Unos mercenarios nos atacaron mientras buscabas los documentos. Segъn la PDA que le cogiste a Negro, su lнder, fueron contratados para evitar que los cientнficos consiguieran esos documentos. Por otro lado, los datos que has obtenido indican que los registros tйcnicos fueron trasladados fuera de la central. Deberнas comunicбrselo a Hermann y enseсarle la PDA de Negro.</text>
+	</string>
+	<string id="jup_b4_monolith_squad_help_name">
+		<text>Supervivientes del Monolito: habla con los habitantes de Yanov sobre el refugio</text>
+	</string>
+	<string id="jup_b4_monolith_squad_help_text">
+		<text>Un escuadrуn de soldados del Monolito se ha liberado del embrujo que los habнa poseнdo. Estбn buscando un refugio donde protegerse de emisiones y mutantes. Tienes que hablar con los habitantes de la estaciуn de Yanov para que permitan a los soldados refugiarse allн.</text>
+	</string>
+	<string id="jup_b4_stalkers_come_duty_text">
+		<text>Lleva a los oficiales de reclutamiento de Deber al anterior escuadrуn del Monolito. Si se unen a Deber, podrбn protegerse de las emisiones y los mutantes en la estaciуn de Yanov.</text>
+	</string>
+	<string id="jup_b4_stalkers_come_freedom_text">
+		<text>Lleva a los oficiales de reclutamiento de Libertad al anterior escuadrуn del Monolito. Si se unen a Libertad, podrбn protegerse de las emisiones y los mutantes en la estaciуn de Yanov.</text>
+	</string>
+	<string id="jup_b4_stalkers_come_name">
+		<text>Supervivientes del Monolito: lleva a los oficiales de reclutamiento al anterior escuadrуn del Monolito</text>
+	</string>
+	<string id="jup_b6_anom_1_guard_name">
+		<text>Investigaciуn de anomalнas: protege a los stalkers</text>
+	</string>
+	<string id="jup_b6_anom_1_guard_text">
+		<text>Parece que la mediciуn de datos en la anomalнa ha atraнdo a varios mutantes. Debes proteger a los stalkers hasta que hayan obtenido los datos requeridos.</text>
+	</string>
+	<string id="jup_b6_anom_2_guard_name">
+		<text>Investigaciуn de anomalнas: protege a los stalkers</text>
+	</string>
+	<string id="jup_b6_anom_2_guard_text">
+		<text>Parece que la mediciуn de datos en la anomalнa ha atraнdo a varios zombis de Kopachy. Debes proteger a los stalkers hasta que hayan obtenido los datos requeridos.</text>
+	</string>
+	<string id="jup_b6_get_reward_name">
+		<text>Investigaciуn de anomalнas: habla con Hermann</text>
+	</string>
+	<string id="jup_b6_get_reward_text">
+		<text>Ya se han obtenido todas las medidas de la anomalнa. Informa a los cientнficos y cobra tu recompensa.</text>
+	</string>
+	<string id="jup_b6_get_to_anomal_place_name">
+		<text>Investigaciуn de anomalнas: habla con los stalkers</text>
+	</string>
+	<string id="jup_b6_get_to_anomal_place_text">
+		<text>Habla con el escuadrуn de stalkers responsable de la obtenciуn de medidas; tienes que decidir a quй anomalнa dirigirte.</text>
+	</string>
+	<string id="jup_b6_travel_home_name">
+		<text>Investigaciуn de anomalнas: habla con los stalkers</text>
+	</string>
+	<string id="jup_b6_travel_home_text">
+		<text>Ya se han obtenido todas las medidas de la anomalнa; puedes volver al bъnker de los cientнficos con el escuadrуn.</text>
+	</string>
+	<string id="jup_b6_travel_name">
+		<text>Investigaciуn de anomalнas: habla con los stalkers</text>
+	</string>
+	<string id="jup_b6_travel_text">
+		<text>Se han obtenido medidas de la anomalнa; habla con el resto del escuadrуn para saber adуnde ir ahora.</text>
+	</string>
+	<string id="jup_b6_watch_topol_squad_six_name">
+		<text>Investigaciуn de anomalнas: protege a los stalkers</text>
+	</string>
+	<string id="jup_b6_watch_topol_squad_six_text">
+		<text>Hermann te ha ofrecido trabajo protegiendo a los stalkers mientras recogen datos en las anomalнas.</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_name">
+		<text>Pez Raya 4: investiga el lugar del accidente</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_name_2">
+		<text>Pez Raya 4: averigua por quй se han quemado los aparatos</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_text">
+		<text>Investiga el lugar del accidente del Pez Raya 4.</text>
+	</string>
+	<string id="jup_b8_heli_4_crash_text_2">
+		<text>Debes encontrar el origen de la potente descarga elйctrica que alcanzу al helicуptero Pez Raya 4.</text>
+	</string>
+	<string id="jup_b9_blackbox_decrypting_name">
+		<text>Pez Raya 1: dale la caja negra a un tйcnico para que la desencripte</text>
+	</string>
+	<string id="jup_b9_blackbox_decrypting_text">
+		<text>La caja negra del Pez Raya 1 sigue intacta. Debes llevбrsela a un tйcnico para que te la desencripte y puedas acceder a los datos que contiene.</text>
+	</string>
+	<string id="jup_b9_blackbox_descrypted_after_3_name">
+		<text>Pez Raya 1: espera a que se complete el desencriptado de la caja negra</text>
+	</string>
+	<string id="jup_b9_blackbox_descrypted_after_3_text">
+		<text>Nitro ha accedido a desencriptar la caja negra. Dijo que tardarнa unas tres horas. Debes esperar a que termine.</text>
+	</string>
+	<string id="jup_b9_go_for_blackbox_descryption_name">
+		<text>Pez Raya 1: vuelve junto a Nitro para obtener la informaciуn de la caja negra</text>
+	</string>
+	<string id="jup_b9_go_for_blackbox_descryption_text">
+		<text>Nitro ya deberнa haber terminado de desencriptar la caja negra. Ve a verle para averiguar quй contiene.</text>
+	</string>
+	<string id="jup_b9_heli_1_crash_name">
+		<text>Pez Raya 1: investiga el lugar del accidente</text>
+	</string>
+	<string id="jup_b9_heli_1_crash_text">
+		<text>Investiga el lugar del accidente del Pez Raya 1.</text>
+	</string>
+	<string id="pas_b400_pripyat_name">
+		<text>Pripyat 1: ve a Pripyat</text>
+	</string>
+	<string id="pas_b400_pripyat_text">
+		<text>Debes atravesar el paso subterrбneo Pripyat 1 y alcanzar el punto de evacuaciуn militar de Pripyat.</text>
+	</string>
+	<string id="zat_a9_way_gases_check_chemistry_workshop_name">
+		<text>Camino a Pripyat: investiga el laboratorio quнmico de la central de Jъpiter</text>
+	</string>
+	<string id="zat_a9_way_gases_check_chemistry_workshop_text">
+		<text>En el laboratorio quнmico deberнa haber informaciуn que explique por quй se inundу el paso subterrбneo Pripyat 1 con una especie de gas.</text>
+	</string>
+	<string id="zat_a9_way_gates_check_corps_name">
+		<text>Camino a Pripyat: investiga la secciуn administrativa de la central de Jъpiter</text>
+	</string>
+	<string id="zat_a9_way_gates_check_corps_text">
+		<text>El guнa no conoce ninguna ruta segura a Pripyat, pero te ha indicado dуnde buscar informaciуn sobre los tъneles subterrбneos que conectan la central de Jъpiter con la ciudad. Deberнas empezar por la secciуn administrativa.</text>
+	</string>
+	<string id="zat_a9_way_gates_check_electrical_workshop_name">
+		<text>Camino a Pripyat: investiga la secciуn del laboratorio de la central de Jъpiter</text>
+	</string>
+	<string id="zat_a9_way_gates_check_electrical_workshop_text">
+		<text>Los documentos que has encontrado en la secciуn administrativa mencionan la evacuaciуn del personal de la central de Jъpiter. Los registros de este procedimiento deberнan estar en la secciуn del laboratorio.</text>
+	</string>
+	<string id="zat_a9_way_gates_check_transport_workshop_name">
+		<text>Camino a Pripyat: comprueba la cerradura de transporte del paso subterrбneo Pripyat 1</text>
+	</string>
+	<string id="zat_a9_way_gates_check_transport_workshop_text">
+		<text>La entrada al paso subterrбneo se halla tras el cierre de transporte. Busca informaciуn sobre el paso en esta zona.</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_archives_name">
+		<text>Camino a Pripyat: investiga el Departamento 1 de la central de Jъpiter</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_archives_text">
+		<text>En el Departamento 1 deberнa haber informaciуn sobre el paso subterrбneo Pripyat 1. Deberнas buscarla, podrнa resultarte ъtil.</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_delivery_department_name">
+		<text>Camino a Pripyat: investiga el departamento de entregas de la central de Jъpiter</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_delivery_department_text">
+		<text>A juzgar por la nota del laboratorio, los encargados de la evacuaciуn fueron los miembros del departamento de entregas; deberнas buscar allн tambiйn.</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_repair_workshop_name">
+		<text>Camino a Pripyat: investiga el taller de reparaciones de la central de Jъpiter</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_check_repair_workshop_text">
+		<text>El departamento de entregas tenнa informaciуn sobre las pйrdidas ocurridas durante el transporte de algo denominado objeto 62. Segъn los informes, los del taller de reparaciones tenнan que encargarse de ello; deberнas ir a mirar.</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_name">
+		<text>Camino a Pripyat: habla con el guнa</text>
+	</string>
+	<string id="zat_a9_way_to_pripyat_tell_stalker_guide_text">
+		<text>Segъn la grabaciуn de la caja negra de uno de los helicуpteros, las unidades del ejйrcito tenнan que encontrarse en el punto de evacuaciуn B28. A juzgar por los mapas hallados en el otro helicуptero que participу en la misiуn, este punto estб en Pripyat. Tendrбs que encontrar un modo de llegar hasta allн; habla con el guнa.</text>
+	</string>
+	<string id="zat_b207_depot_reward_task_name">
+		<text>Almacйn de Deber: coge lo que te has ganado</text>
+	</string>
+	<string id="zat_b207_morgan_depot_task_name">
+		<text>Almacйn de Deber: reъnete con Morgan</text>
+	</string>
+	<string id="zat_b207_morgan_depot_task_text">
+		<text>El comerciante Morgan te ha proporcionado acceso al almacйn de Deber como pago por tu silencio. Tienes que reunirte con йl junto a la cantera.</text>
+	</string>
+	<string id="pas_b400_pripyat_gate_text">
+		<text>Debes abrir la puerta para continuar.</text>
+	</string>
+	<string id="pas_b400_pripyat_door_text">
+		<text>Debes abrir la puerta para continuar.</text>
+	</string>
+	<string id="pas_b400_pripyat_hall_door_text">
+		<text>Debes activar la corriente de la puerta para continuar.</text>
+	</string>
+	<string id="pas_b400_pripyat_control_text">
+		<text>Debes desbloquear la puerta para continuar. Probablemente puedas hacerlo desde la sala de control.</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_name">
+		<text>Grupo de investigaciуn: contrata a la gente adecuada</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_text">
+		<text>Un grupo de trabajo que trabajaba para los cientнficos ha perecido. Tienes que formar un nuevo grupo para que la investigaciуn siga.</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_reward_name">
+		<text>Grupo de investigaciуn: vuelve con Hermann para recoger la recompensa</text>
+	</string>
+	<string id="jup_b6_employ_stalkers_reward_text">
+		<text>Has encontrado a la gente adecuada para un nuevo grupo de investigaciуn. Ahora vuelve con Hermann y recoge tu recompensa.</text>
+	</string>
+	<string id="jup_b218_soldier_do_scientist_quest_name">
+		<text>Pripyat 1: completa la misiуn de Ozersky</text>
+	</string>
+	<string id="jup_b218_soldier_do_scientist_quest_text">
+		<text>Tienes que completar la misiуn de Ozersky en la planta anуmala y conseguir un traje protector para Sokolov.</text>
+	</string>
+	<string id="jup_b200_tech_materials_inside_text">
+		<text>Nitro necesita material de radio. Lo encontrarбs en la fбbrica de cemento.</text>
+	</string>
+	<string id="jup_b25_flint_and_senya_text">
+		<text>Fue Pedernal quien dejу morir al disidente en la anomalнa. Habla con йl y averigua por quй lo hizo.</text>
+	</string>
+	<string id="jup_b25_revenge_senya_name">
+		<text>Retribuciуn: venga al disidente</text>
+	</string>
+	<string id="jup_b25_revenge_senya_text">
+		<text>Encuentra a quien dejу morir al disidente en la anomalнa y despuйs se marchу con su artefacto. Por desgracia, el disidente no logrу decir de quiйn se trataba, solo se sabe que pertenece a Libertad.</text>
+	</string>
+	<string id="zat_b207_depot_reward_task_duty_text">
+		<text>El teniente coronel Shulga te ha permitido llevarte cualquier equipo que quieras del almacйn de Deber si consigues cogerlo.</text>
+	</string>
+	<string id="zat_b207_depot_reward_task_freedom_text">
+		<text>Loki te ha permitido llevarte cualquier equipo que quieras del almacйn de Deber mientras lo controlen los soldados de Libertad.</text>
+	</string>
+</string_table>

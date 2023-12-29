@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_pda_name_kutek">
+    <text>ПДА Кутька</text>
+  </string>
+  <string id="st_pda_descr_kutek">
+    <text>ПДА сталкера по кличке Кутёк. Последнее записанное задание: «Найти артефакт в тоннеле».</text>
+  </string>
+  <string id="st_corpse_racia_name">
+    <text>Рация</text>
+  </string>
+  <string id="st_corpse_racia_descr">
+    <text>Неплохая армейская рация. Может ловить переговоры в радиусе 30 км.</text>
+  </string>
+  <string id="st_dynamite">
+    <text>Динамит</text>
+  </string>
+  <string id="st_fanat_dinamit_desc">
+    <text>Восемь килограммов динамита. Этого достаточно, чтобы к чёртовой матери разнести любое логово.</text>
+  </string>
+  <string id="st_pda_name_elevator_corpse">
+    <text>ПДА Стёпы Разбойника</text>
+  </string>
+  <string id="st_pda_desc_elevator_corpse">
+    <text>Пустой ПДА, ничего интересного.</text>
+  </string>
+  <string id="st_esc_scientists_task_device_name">
+    <text>Устройство учёных</text>
+  </string>
+  <string id="st_esc_scientists_task_device_text">
+    <text>Непонятный прибор. По всей видимости принадлежит учёным, прибывшим на Кордон для проведения полевых работ.</text>
+  </string>
+  <string id="trader_notebook_name">
+    <text>Ноутбук торговца</text>
+  </string>
+  <string id="trader_notebook_text">
+    <text>Ноутбук Сидоровича, который Михалыч привёл в рабочее состояние.</text>
+  </string>
+  <string id="car_benz_name">
+    <text>Канистра</text>
+  </string>
+  <string id="car_benz_text">
+    <text>Канистра. Как минимум наполовину заполнена бензином.</text>
+  </string>
+  <string id="st_pda_name_mishgan">
+    <text>ПДА Мишгана</text>
+  </string>
+  <string id="st_pda_descr_mishgan">
+    <text>ПДА сталкера по имени Мишган. Есть недавняя запись с просьбой отнести этот ПДА в деревню новичков.</text>
+  </string>
+  <string id="st_dictophone">
+    <text>Диктофон</text>
+  </string>
+  <string id="st_dictophone_descr">
+    <text>Диктофон</text>
+  </string>
+  <string id="st_diggers_case_name">
+    <text>Кейс с документами</text>
+  </string>
+  <string id="st_diggers_case_descr">
+    <text>В этом кейсе, судя по его прочности, хранятся какие-то важные документы.</text>
+  </string>
+  <string id="st_diggers_box_key">
+    <text>Ключ</text>
+  </string>
+  <string id="st_diggers_box_key_descr">
+    <text>Ключ, открывающий ящик и щиток на территории базы диггеров.</text>
+  </string>
+  <string id="st_bandits_case_name">
+    <text>Кейс торговца</text>
+  </string>
+  <string id="st_bandits_case_descr">
+    <text>Кейс с артефактами для торговца Костыля.</text>
+  </string>
+  <string id="st_bandits_case_new_descr">
+    <text>Кейс с артефактами для торговца Костыля. Теперь там точно не камни.</text>
+  </string>
+  <string id="st_freedom_map_treasure_name">
+    <text>Карта с ПДА</text>
+  </string>
+  <string id="st_freedom_map_treasure_descr">
+    <text>Карта, на которой отмечено расположение тайника группировки «Свобода» и какой-то ПДА с записями.</text>
+  </string>
+  <string id="st_labx18_freedom_stalker_pda_name">
+    <text>ПДА Свободовца</text>
+  </string>
+  <string id="st_labx18_freedom_stalker_pda_descr">
+    <text>«Привет, Саня. Я слышал, ты сейчас недалеко от Тёмной долины. У нас для тебя есть спецзадание: нужно найти карту, на которой отмечен склад припасов на нашей бывшей базе. Предположительно, она находится в тайнике в X18. Воспользуйся дополнительным входом, ты о нём знаешь. Основной контролируют бандиты, и лучше им о тебе не знать. Понимаю, что многого прошу, да ещё и в одиночку посылаю, но сам знаешь: новое снаряжение нам не помешает. Осталось только найти его. Удачи!»</text>
+  </string>
+  <string id="mutant_chimera_clow">
+    <text>Коготь химеры</text>
+  </string>
+  <string id="mutant_chimera_clow_description">
+    <text>На вид обыкновенный коготь химеры, но при ближайшем скрупулёзном рассмотрении видно, что он покрыт каким-то подозрительным жёлтым веществом.</text>
+  </string>
+  <string id="mutant_burer_hand">
+    <text>Рука бюрера</text>
+  </string>
+  <string id="mutant_burer_hand_description">
+    <text>Рука бюрера приобрела ряд свойств, самым полезным из которых является сильная устойчивость к радиации. Детали этого механизма точно неизвестны. Вы можете внести свой вклад в науку, продав руку бюрера учёным для исследований.</text>
+  </string>
+  <string id="mutant_zombie_hand">
+    <text>Рука зомби</text>
+  </string>
+  <string id="mutant_zombie_hand_description">
+    <text>Рука зомби, заражённого насекомыми. При странном симбиозе с насекомыми геном зомби изменился. Для учёных представляет особый интерес.</text>
+  </string>
+  <string id="mutant_tushkano_head">
+    <text>Голова тушкана</text>
+  </string>
+  <string id="mutant_tushkano_head_description">
+    <text>У тушканчиков сильно развит интеллект, и учёные пытаются разобраться, как в крошечном мозге помещается большое количество информации, и всего прочего. Из их мозга учёные делают лекарства, но они вывозят их из Зоны, и сталкерам неизвестно, что они делают.</text>
+  </string>
+  <string id="mutant_poltergeist_eye">
+    <text>Глаз полтергейста</text>
+  </string>
+  <string id="mutant_poltergeist_eye_description">
+    <text>Никому неизвестно, зачем учёным глаз полтергейста, но они за него хорошо платят.</text>
+  </string>
+  <string id="mutant_controller_hand">
+    <text>Рука контролёра</text>
+  </string>
+  <string id="mutant_controller_hand_description">
+    <text>Контролёр обладает пси-способностями. На расстоянии он может внушать ужас и создавать различные галлюцинации. Если же приблизиться к нему, наносит серьёзный урон. Учёные предполагают, что сила таится в руке мутанта, однако достоверно никто этого не знает.</text>
+  </string>
+  <string id="mutant_giant_hand">
+    <text>Рука псевдогиганта</text>
+  </string>
+  <string id="mutant_giant_hand_description">
+    <text>Рука псевдогиганта обладает свойствами, которые учёные ещё не рассказали, но за неё они хорошо могут заплатить.</text>
+  </string>
+  <string id="st_wpn_groza_nimble_broken_descr">
+    <text>Уникальный образец винтовки ОЦ-14 «Гроза», имеющий увеличенный магазин и калибр 5.45х39 мм. Винтовке требуется серьёзный ремонт.</text>
+  </string>
+  <string id="st_box_money">
+    <text>Пачка денег</text>
+  </string>
+  <string id="st_gar_trader_money_descr">
+    <text>Деньги торговца Костыля. Нужно передать бандитам в Тёмной Долине.</text>
+  </string>
+  <string id="st_wpn_ak74u_fanat_broken_descr">
+    <text>АКС-74УМ — модернизированный АКС-74У. Оснащён увеличенным магазином на 45 патронов и креплением для оптических прицелов. Оружию требуется серьёзный ремонт.</text>
+  </string>
+  <string id="st_af_ice_task_name">
+    <text>Неизвестный артефакт</text>
+  </string>
+  <string id="st_af_ice_task_descr">
+    <text>Артефакт неизвестного происхождения. Свойства не изучены. Радиоактивен.</text>
+  </string>
+  <string id="st_af_soul_task_name">
+    <text>Неизвестный артефакт</text>
+  </string>
+  <string id="st_af_soul_task_two_name">
+    <text>«Болотник»</text>
+  </string>
+  <string id="st_af_soul_task_descr">
+    <text>Рукотворный артефакт, созданный профессором Дубининым в аномалии при помощи трансмутации других артефактов.</text>
+  </string>
+  <string id="st_val_bandit_desertir_money_descr">
+    <text>Деньги, которые надо передать учёному Дубинину.</text>
+  </string>
+  <string id="st_val_scientist_package">
+    <text>Пакет с дурью</text>
+  </string>
+  <string id="st_val_scientist_package_descr">
+    <text>Пакет от учёного Дубинина с каким-то снотворным веществом.</text>
+  </string>
+  <string id="st_val_scientist_scaner">
+    <text>Сканер аномалий</text>
+  </string>
+  <string id="st_val_scientist_scaner_descr">
+    <text>Прибор учёного Дубинина. Нужно установить в аномалии.</text>
+  </string>
+  <string id="st_val_bandits_explosive">
+    <text>Взрывчатка</text>
+  </string>
+  <string id="st_val_bandits_explosive_descr">
+    <text>Взрывпакет бандитов. Нужен для запечатки второго входа в лабораторию X18.</text>
+  </string>
+  <string id="st_kat_boss_notes">
+    <text>Записка Хозяина</text>
+  </string>
+  <string id="st_kat_boss_notes_descr">
+    <text>Записка Хозяина подземелий. По всей видимости, оставлена им для его дочери.</text>
+  </string>
+  <string id="st_gar_stalker_medic_docs">
+    <text>Записи Гамзата</text>
+  </string>
+  <string id="st_gar_stalker_medic_docs_descr">
+    <text>Папка с записями профессора Гамзатова. Содержит сплошные формулы, зарисовки цепочек химических преобразований, концепты разных технических устройств и многое прочее, в чем не разобраться обычному человеку. Судя по толщине папки, Гамзатов потратил на свою работу немало времени и сил.</text>
+  </string>
+  <string id="st_agru_corpse_pda">
+    <text>ПДА Стервятника</text>
+  </string>
+  <string id="st_agru_corpse_pda_descr">
+    <text>ПДА сталкера по прозвищу Стервятник. Возможно, на нём есть какая-то информация.</text>
+  </string>
+  <string id="st_agr_scientists_base_pass">
+    <text>Пропуск</text>
+  </string>
+  <string id="st_agr_scientists_base_pass_descr">
+    <text>Пропуск на базу учёных на Агропроме. Выдан профессором Дубининым.</text>
+  </string>
+  <string id="st_agr_scientists_base_scanner">
+    <text>Сканер</text>
+  </string>
+  <string id="st_agr_scientists_base_scanner_descr">
+    <text>Научный прибор, выданный профессором Дубининым. Нужно его разместить в окрестностях Новошепеличей.</text>
+  </string>
+  <string id="st_gar_duty_supplies">
+    <text>Медикаменты</text>
+  </string>
+  <string id="st_gar_duty_supplies_descr">
+    <text>Медикаменты, выданные командиром заставы «Долга» на Свалке.</text>
+  </string>
+  <string id="nsp_half_artefact">
+    <text>«Обломок»</text>
+  </string>
+  <string id="nsp_half_artefact_descr">
+    <text>Этот предмет некогда был куском стены здания. Теперь он почти превратился в артефакт, отличающийся нестабильными свойствами. Скорее всего, именно он был источником переменного пси-излучения.</text>
+  </string>
+  <string id="st_nsp_suicide_stalker_notes">
+    <text>Записка Коршуна</text>
+  </string>
+  <string id="st_nsp_suicide_stalker_notes_descr">
+    <text>«Я не могу. БОЛЬШЕ ТАК НЕ МОГУ! Они преследуют меня. Они будто бы во мне! Жизнь здесь стала не выносимой, они не выпускают меня за пределы этих мест. Кажется, есть только один выход. Умрите! Пусть и я умру вместе с вами!»</text>
+  </string>
+  <string id="st_nsp_village_letter">
+    <text>Записка Хорька</text>
+  </string>
+  <string id="st_nsp_village_letter_descr">
+    <text>«Пять теней... Они придут за каждым...»</text>
+  </string>
+  <string id="st_nsp_village_suicide_leader_letter">
+    <text>Записка Юстаса</text>
+  </string>
+  <string id="st_nsp_village_suicide_leader_letter_descr">
+    <text>«Спасайтесь, пока не поздно!»</text>
+  </string>
+  <string id="st_nsp_masters_flashback_ruck_item">
+    <text>Рюкзак с вещами</text>
+  </string>
+  <string id="st_nsp_masters_flashback_ruck_item_descr">
+    <text>Вещи сталкеров-мастеров из окрестностей Новошепеличей. Очень жирный хабар.</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_key">
+    <text>Ключ от сейфа</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_key_descr">
+    <text>Ключ, по всей видимости, от сейфа, возле которого он найден.</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_compass">
+    <text>Компас</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_compass_descr">
+    <text>Какой-то необычный компас. Похоже, раритетная вещица. Точно не из 21-го века.</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_notes">
+    <text>Записи военного</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_notes_descr">
+    <text>Записи военного, объясняющие некоторые вопросы после увиденного на остановке.</text>
+  </string>
+  <string id="nsp_final_scientific_task_artefact">
+    <text>Трансмутат</text>
+  </string>
+  <string id="nsp_final_scientific_task_artefact_descr">
+    <text>Трансмутат, полученный путём скрещивания двух артефактов — «Обломок» и «Болотника».</text>
+  </string>
+  <string id="st_nsp_artefact_container">
+    <text>Контейнер</text>
+  </string>
+  <string id="st_nsp_artefact_container_descr">
+    <text>Вполне обычный контейнер. Нужно в него положить трансмутат и закопать где-нибудь.</text>
+  </string>
+  <string id="st_nsp_hunters_hunter_corp_device_pda">
+    <text>ПДА Грека</text>
+  </string>
+  <string id="st_nsp_hunters_hunter_corp_device_pda_descr">
+    <text>ПДА охотника по прозвищу Грек, который был найден мёртвым в логове огромного кабана.</text>
+  </string>
+  <string id="st_nsp_musician_stalker_guitar">
+    <text>Гитара</text>
+  </string>
+  <string id="st_nsp_musician_stalker_guitar_descr">
+    <text>Классическая шестиструнная гитара. Даже в Зоне такую найти не составит особого труда. Есть у многих сталкеров.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pda">
+    <text>ПДА</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pda_descr">
+    <text>Найденный в мобильном бункере учёных ПДА. Данные не поддаются к прочтению без расшифровки.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pc_hard_1">
+    <text>Жёсткий диск</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pc_hard_1_descr">
+    <text>Один из жёстких дисков, вытащенных из компьютера в бункере учёных на Янтаре. Данные, скорее всего, просто так не прочитать.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pc_hard_2">
+    <text>Жёсткий диск</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pc_hard_2_descr">
+    <text>Покорёженный временем жёсткий диск. Информация, должно быть, зашифрована, поскольку получен этот девайс из компьютера в бункере учёных на Янтаре.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_notebook">
+    <text>Ноутбук</text>
+  </string>
+  <string id="st_yan_bunker_info_item_notebook_descr">
+    <text>Найденный в бункере учёных ноутбук. Чтобы достать из него данные, придётся его как минимум зарядить.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_flash">
+    <text>Флешка</text>
+  </string>
+  <string id="st_yan_bunker_info_item_flash_descr">
+    <text>Обыкновенная флешка. Данные можно будет попробовать прочитать, когда под рукой будет компьютер.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_1">
+    <text>Заметки Сахарова</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_1_descr">
+    <text>Толстая книжка с заметками профессора Сахарова за время его работы в мобильном бункере учёных на Янтаре.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_2">
+    <text>Журнал поставок</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_2_descr">
+    <text>Документы, содержащие информацию о поставках провизии и амуниции в бункер учёных на Янтаре.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_3">
+    <text>Папка с заметками</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_3_descr">
+    <text>Внутри находятся какие-то заметки, в которых упоминается исследование последних аномальных образований на территории озера Янтарь.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_4">
+    <text>Список заказов</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_4_descr">
+    <text>Бумаги, содержащие список необходимых для исследования учёными артефактов. Также упоминаются возможные их месторождения.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_scientist_boss_notes">
+    <text>Записка Сахарова</text>
+  </string>
+  <string id="st_yan_bunker_info_item_scientist_boss_notes_descr">
+    <text>По всей видимости, это последние записи Сахарова о происходящем на территории бункера.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_scientist_notes">
+    <text>Записи Круглова</text>
+  </string>
+  <string id="st_yan_bunker_info_item_scientist_notes_descr">
+    <text>Разного рода записи, принадлежавшие профессору Круглову.</text>
+  </string>
+  <string id="st_yan_collect_info_angar_scientist_pda">
+    <text>ПДА Шумихина</text>
+  </string>
+  <string id="st_yan_collect_info_solo_zombie_pda">
+    <text>ПДА Гончарова</text>
+  </string>
+  <string id="st_yan_collect_info_lab_zombie_scientist_pda">
+    <text>ПДА Шишина</text>
+  </string>
+  <string id="st_yan_collect_info_scientists_pda_descr">
+    <text>ПДА одного из учёных, работавших на территории озера Янтарь. Данные зашифрованы.</text>
+  </string>
+  <string id="st_yan_labx16_fly_stalker_corp_pda">
+    <text>ПДА Юрина</text>
+  </string>
+  <string id="st_yan_labx16_fly_stalker_corp_pda_descr">
+    <text>ПДА одного из сталкеров, работавших на территории озера Янтарь.</text>
+  </string>
+  <string id="st_yan_labx16_second_task_scientist_corp_1_pda">
+    <text>ПДА Блошкина</text>
+  </string>
+  <string id="st_yan_labx16_second_task_scientist_corp_2_pda">
+    <text>ПДА Прохорова</text>
+  </string>
+  <string id="st_yan_labx16_second_task_soldier_corp_pda">
+    <text>ПДА Остапенко</text>
+  </string>
+  <string id="st_yan_labx16_second_task_soldier_corp_pda_descr">
+    <text>ПДА одного из членов охраны комплекса Х-16.</text>
+  </string>
+  <string id="st_yan_labx16_brainlab_key">
+    <text>Ключ от комнаты управления</text>
+  </string>
+  <string id="st_yan_labx16_brainlab_key_descr">
+    <text>Ключ, найденный на теле одного из военных, охраняющих территорию комплекса Х-16</text>
+  </string>
+  <string id="st_yan_bunker_zombie_scientist_pda">
+    <text>ПДА Сытянова</text>
+  </string>
+  <string id="st_gar_corvalol_duty_friend_token">
+    <text>Жетон</text>
+  </string>
+  <string id="st_gar_corvalol_duty_friend_token_descr">
+    <text>Жетон долговца, принадлежащий, судя по всему, сержанту Любезнову.</text>
+  </string>
+  <string id="st_bar_help_duty_treasure_key">
+    <text>Ключ</text>
+  </string>
+  <string id="st_bar_help_duty_treasure_key_descr">
+    <text>Ключ от тайника бандитов, найденный сержантом Любезновым при обыске бандитов на территории бара.</text>
+  </string>
+  <string id="st_agr_tonnel_scientist_remains_item">
+    <text>Останки учёного</text>
+  </string>
+  <string id="st_agr_tonnel_scientist_remains_item_descr">
+    <text>Найденные в тоннеле на Агропроме останки учёного. Чтобы определить личность, потребуется сдать их на экспертизу в научный комплекс.</text>
+  </string>
+  <string id="st_mil_army_base_sky_device">
+    <text>Радиоприёмник</text>
+  </string>
+  <string id="st_mil_army_base_sky_device_descr">
+    <text>Устройство для отлова и дешифровки различного рода сигналов в радиусе нескольких километров.</text>
+  </string>
+  <string id="st_mil_actor_psy_helm">
+    <text>Пси-шлем</text>
+  </string>
+  <string id="st_mil_actor_psy_helm_descr">
+    <text>Настроенный прототип для защиты от пси-излучения, воссозданный сталкером-умельцем на основе схемы профессора Сахарова.</text>
+  </string>
+  <string id="st_mlab_door_pass_card">
+    <text>Карта доступа</text>
+  </string>
+  <string id="st_mlab_door_pass_card_descr">
+    <text>Карта, при помощи которой можно попасть на нижний уровень лаборатории.</text>
+  </string>
+  <string id="st_mlab_door_pass_elite_card">
+    <text>Карта доступа</text>
+  </string>
+  <string id="st_mlab_door_pass_elite_card_descr">
+    <text>Карта, при помощи которой можно попасть в помещения, доступные только для уполномоченных лиц лаборатории.</text>
+  </string>
+  <string id="st_water_bottle">
+    <text>Минеральная вода</text>
+  </string>
+  <string id="st_water_bottle_descr">
+    <text>Чистая минеральная вода. Из-за того, что в Зоне нет чистых источников, приходится использовать привозную.</text>
+  </string>
+  <string id="st_batteries">
+    <text>Батарейки</text>
+  </string>
+  <string id="st_batteries_descr">
+    <text>Обычные пальчиковые батарейки. Отлично подходят для питания налобных фонарей и других устройств.</text>
+  </string>
+  <string id="st_gar_composer_task_merc_pda">
+    <text>ПДА наёмника</text>
+  </string>
+  <string id="st_gar_composer_task_merc_pda_descr">
+    <text>ПДА одного из наёмников, тело которого было найдено рядом с телами группы сталкеров.</text>
+  </string>
+  <string id="st_gar_composer_task_stalker_pda">
+    <text>ПДА сталкера</text>
+  </string>
+  <string id="st_gar_composer_task_stalker_pda_descr">
+    <text>ПДА, найденный бандитом Кучей на месте гибели сталкеров на Свалке.</text>
+  </string>
+  <string id="st_labx18_rakoffka_stalker_pda">
+    <text>Старый ПДА Лемура</text>
+  </string>
+  <string id="st_labx18_rakoffka_stalker_pda_descr">
+    <text>Найденный в помещениях лаборатории Х-18 ПДА сталкера по прозвищу Лемур. Доступна одна запись.</text>
+  </string>
+  <string id="st_nuts">
+    <text>Арахис «Григорешек»</text>
+  </string>
+  <string id="st_nuts_descr">
+    <text>Арахис с солью — излюбленное лакомство гурманов, популярны не только в Зоне, но и на большой земле. Герметичную баночку удобно брать с собой в дорогу, а также хранить орехи после открытия, для этого имеется удобная пластиковая крышка. Продукт готов к употреблению. Примечание: Если у вас имеется аллергия на какие-либо ингредиенты в составе данного продукта, употребляйте с осторожностью.</text>
+  </string>
+  <string id="st_olives">
+    <text>Маслины «ПатроновЪ»</text>
+  </string>
+  <string id="st_olives_descr">
+    <text>Маслины «ПатроновЪ» с косточкой имеют насыщенный яркий вкус, который раскрывается по особенному, благодаря рассолу с морской солью, пропитывающему каждую ягоду изнутри и снаружи. Маслины — незаменимый ингредиент рациона каждого сталкера, крупный размер и мягкая маслянистая структура самого плода понравится даже тем, кто не очень любит соленья.</text>
+  </string>
+  <string id="st_vegetables">
+    <text>Овощи «Ap-Pronduelle»</text>
+  </string>
+  <string id="st_vegetables_descr">
+    <text>Смесь овощей «Ap-Pronduelle» лёгкая и игривая, абсолютно с итальянским характером! Чтобы почувствовать вкус Средиземноморья, теперь достаточно просто открыть банку. Рекомендуется употреблять с батоном, запивая энергетиком «СЧС».</text>
+  </string>
+  <string id="st_sardines">
+    <text>Сардины в масле</text>
+  </string>
+  <string id="st_sardines_descr">
+    <text>Большая банка сардин — эта маленькая рыбка не только вкусна и ароматна, но и обладает множеством полезных свойств. Аппетитные тушки сардин в особом пряном маринаде, с ярко-выраженной кислинкой — сочетание, которое оценят любители ярких необычных ощущений. В процессе производства продукции используются только рыбное сырье высочайшего качества и натуральные ингредиенты.</text>
+  </string>
+  <string id="st_cheese">
+    <text>Сырок «Скуратов Дворик»</text>
+  </string>
+  <string id="st_cheese_descr">
+    <text>Легендарный плавленный сыр, от легендарной компании! Изготовлен из твёрдых сыров высокого качества с добавлением свежих пастеризованных сливок. На протяжении 15 лет остается визитной карточкой завода «Скуратов Дворик»: тот самый вкус и высококачественный состав, знакомый с ранних лет Зоны! </text>
+  </string>
+  <string id="st_cringe_bread">
+    <text>Булочка для Клим Бодянович</text>
+  </string>
+  <string id="st_cringe_bread_descr">
+    <text>Каравай. На запах как ромовая баба, по вкусу, наверное, как сигаретный пепел. Отвратительнее него может быть только пицца с ананасами.</text>
+  </string>
+  <string id="st_val_stalker_technic_radio">
+    <text>Радиоприёмник</text>
+  </string>
+  <string id="st_val_stalker_technic_radio_descr">
+    <text>Обыкновенный радиоприёмник, найденный на просторах Зоны. Работает или нет, предстоит ещё выяснить.</text>
+  </string>
+  <string id="st_val_stalker_technic_light">
+    <text>Электросветильник</text>
+  </string>
+  <string id="st_val_stalker_technic_light_descr">
+    <text>Еле живой электросветильник. Чтобы убедиться в работоспособности, нужно его запитать.</text>
+  </string>
+  <string id="st_val_stalker_technic_task_merc_pda">
+    <text>ПДА Пумы</text>
+  </string>
+  <string id="st_val_stalker_technic_task_merc_pda_descr">
+    <text>Найденный на трупе наёмника ПДА. Доступно одно сообщение с пометкой «от заказчика».</text>
+  </string>
+  <string id="st_val_stalker_technic_psy_helm">
+    <text>Пси-шлем</text>
+  </string>
+  <string id="st_val_stalker_technic_psy_helm_descr">
+    <text>Этот шлем, похоже, позволяет защитить владельца от пси-излучения. Однако надеяться на его надёжность не стоит — видно, что он слеплен из того что было и на скорую руку.</text>
+  </string>
+  <string id="st_bar_stalker_goose_note">
+    <text>Записка Гуся</text>
+  </string>
+  <string id="st_bar_stalker_goose_note_descr">
+    <text>Записка сталкера Гуся, которую передал Арни после его смерти.</text>
+  </string>
+  <string id="st_kat_duty_squad_soldier_leader_pda">
+    <text>ПДА генерала Таченко</text>
+  </string>
+  <string id="st_kat_duty_squad_soldier_leader_pda_descr">
+    <text>ПДА, принадлежащий генералу Таченко, — идейному основателю и первому лидеру группировки «Долг». Доступна одна запись.</text>
+  </string>
+  <string id="st_esc_actor_stalker_sos_task_pda">
+    <text>ПДА Топора</text>
+  </string>
+  <string id="st_esc_actor_stalker_sos_task_pda_descr">
+    <text>ПДА сталкера по прозвищу Топор с непрерывно отправляющимся сигналом SOS. Из последнего в записях — какая-то заметка о попытках скрыться от наёмников.</text>
+  </string>
+  <string id="st_esc_actor_stalker_sos_task_key">
+    <text>Ключ от личного ящика</text>
+  </string>
+  <string id="st_esc_actor_stalker_sos_task_key_descr">
+    <text>Ключ, открывающий доступ к содержимому личного ящика сталкера по прозвищу Топор.</text>
+  </string>
+</string_table>

@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ammo-11.43x23-fmj">
+		<text>Munitions .45 ACP</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_descr">
+		<text>Munition chemisйe de calibre .45 dont la popularitй ne faiblit pas depuis plus d'un siиcle. Sa balle lourde et sa charge propulsive rйduite limitent la vitesse de la balle tout en augmentant sa puissance d'arrкt.</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45 ACP</text>
+	</string>
+	<string id="ammo-11.43x23-hydro">
+		<text>Munitions .45 ACP hydrashock</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_descr">
+		<text>Ces cartouches de .45 ACP inhabituelles se composent d'une balle en mйtal tendre comprenant un vide d'expansion et un cњur en acier, constituant ainsi un hybride de balle chemisйe а tкte creuse et de balle perforante. Elles bйnйficient des avantages de leurs deux parents, mais aussi, йvidemment, de tous leurs dйfauts.</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45 hydro</text>
+	</string>
+	<string id="ammo-12x70-buck">
+		<text>Munitions 12x70 (grenaille)</text>
+	</string>
+	<string id="ammo-12x70-buck_descr">
+		<text>Cartouche standard de calibre 12 contenant de la grenaille de 6 mm. Mortelle а courte portйe. Utilisable exclusivement avec des canons а вme lisse.</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>12x70 (grenaille) </text>
+	</string>
+	<string id="ammo-12x76-zhekan">
+		<text>Munitions 12x76 (balle)</text>
+	</string>
+	<string id="ammo-12x76-zhekan_descr">
+		<text>Les lourdes balles de ces munitions de calibre 12 sont gйnйralement utilisйes pour la chasse au gros gibier, mais sont йgalement adaptйes а d'autres usages. Au lieu de perforer les protections, elles les traversent en les йcrasant sous leur poids. </text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>12x76 (balle)</text>
+	</string>
+	<string id="ammo-5.45x39-ap">
+		<text>Munitions 5,45x39 mm perforantes</text>
+	</string>
+	<string id="ammo-5.45x39-ap_descr">
+		<text>Munitions militaires 5,45x39 7N22 perforantes pour les fusils d'assaut des pays du Pacte de Varsovie. La balle contient une ogive perforante en alliage durci, trиs efficace contre les protections corporelles.</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5,45x39 perforante</text>
+	</string>
+	<string id="ammo-5.45x39-fmj">
+		<text>Munitions 5,45x39 mm</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_descr">
+		<text>Munitions militaires 5,45x39 7N10 perforantes amйliorйes pour les fusils d'assaut des pays du Pacte de Varsovie. Bien plus prйcises que les munitions 7,62 mm grвce а leur recul rйduit et leur portйe allongйe de 100 m.</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5,45x39</text>
+	</string>
+	<string id="ammo-5.56x45-ap">
+		<text>Munitions 5,56x45 mm perforantes</text>
+	</string>
+	<string id="ammo-5.56x45-ap_descr">
+		<text>Munitions militaires 5,56x45 mm (index OTAN SS109 / Armйe amйricaine M855) perforantes, utilisйes par la plupart des forces armйes et spйciales occidentales. Trиs efficaces contre les protections corporelles.</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5,56x45 mm perforantes</text>
+	</string>
+	<string id="ammo-5.56x45-ss190">
+		<text>Munitions 5,56x45 mm</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_descr">
+		<text>Munitions 5,56x45 standard de l'OTAN йgalement connues sous leur nom d'index, SS109. Conзues pour permettre des tirs automatiques de prйcision. Leurs excellentes qualitйs balistiques sont un hйritage de leurs origines comme munitions de chasse.</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5,56x45</text>
+	</string>
+	<string id="ammo-7.62x54-7h14">
+		<text>Munitions 7,62x54 mm 7N14</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_descr">
+		<text>Munitions de prйcision calibre 7,62 avec ogive perforante en acier, conзues pour le SVD. Contrairement а la version pour mitrailleuse, la 7N14 prйsente d'excellentes caractйristiques de pйnйtration et une dispersion trиs limitйe.</text>
+	</string>
+	<string id="ammo-7.62x54-7h14_s">
+		<text>7,62x54 7H1</text>
+	</string>
+	<string id="ammo-7.62x54-ap">
+		<text>Munitions 7,62x54 mm PP</text>
+	</string>
+	<string id="ammo-7.62x54-ap_descr">
+		<text>Munitions peu coыteuses pour mitrailleuses de calibre 7,62. Ne peuvent кtre utilisйes avec les fusils de prйcision et sont donc uniquement destinйes а la mitrailleuse RP-74.</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7,62x54 PP</text>
+	</string>
+	<string id="ammo-9x18-fmj">
+		<text>Munitions 9x18 mm</text>
+	</string>
+	<string id="ammo-9x18-fmj_descr">
+		<text>Munitions blindйes avec ogive perforante en acier sous une chemise en mйtal. Bonne puissance d'arrкt, mais inefficaces contre les protections corporelles.</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18</text>
+	</string>
+	<string id="ammo-9x18-pmm">
+		<text>Munitions 9x18 mm +P+</text>
+	</string>
+	<string id="ammo-9x18-pmm_descr">
+		<text>Ces munitions contiennent une balle а forte puissance d'arrкt. La dйsignation +P+ europйenne indique qu'il s'agit de munitions а surpression, avec une augmentation de 30 % de la vitesse initiale. Inefficaces contre les protections corporelles.</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18 +P+ </text>
+	</string>
+	<string id="ammo-9x19-fmj">
+		<text>Munitions 9x19 mm FMJ</text>
+	</string>
+	<string id="ammo-9x19-fmj_descr">
+		<text>Ces munitions chemisйes conventionnelles de 9x19 mm prйsentent de bonnes caractйristiques et sont simples а produire. Leur popularitй est liйe а l'interdiction par les conventions internationales d'utiliser de telles munitions au combat. Inefficaces contre les protections corporelles.</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+	<string id="ammo-9x19-pbp">
+		<text>Munitions 9x19mm JHP</text>
+	</string>
+	<string id="ammo-9x19-pbp_descr">
+		<text>Ces munitions 9x19 mm chemisйes а tкte creuse procurent une puissance d'arrкt considйrable et peu de ricochets. Utilisйes par la police et pour l'auto-dйfense, elles sont inefficaces contre les protections corporelles du fait de leur faible capacitй de pйnйtration.</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 JHP</text>
+	</string>
+	<string id="ammo-9x39-ap">
+		<text>Munitions 9x39 mm SP-6</text>
+	</string>
+	<string id="ammo-9x39-ap_descr">
+		<text>La SP-6 est une munition chemisйe subsonique а ogive perforante en acier pour fusil d'assaut. Un silencieux est nйcessaire pour obtenir les tirs les plus discrets possibles. Utilisйe par les services secrets des pays du pacte de Varsovie, elle est efficace contre les protections corporelles.</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+	<string id="ammo-9x39-pab9">
+		<text>Munitions 9x39 mm SP-5</text>
+	</string>
+	<string id="ammo-9x39-pab9_descr">
+		<text>La SP-5 est une munition chemisйe subsonique а tкte en plomb pour fusils de prйcision. Un silencieux est nйcessaire pour obtenir les tirs les plus discrets possibles. Utilisйe par les services secrets des pays du pacte de Varsovie.</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9x39 mm SP-5</text>
+	</string>
+	<string id="ammo-gauss">
+		<text>Batteries</text>
+	</string>
+	<string id="ammo-m209">
+		<text>Grenade M209</text>
+	</string>
+	<string id="ammo-m209_descr">
+		<text>Grenades de 40 mm pour le lance-grenades montй sous le canon M203. Ces grenades crйent une zone lйtale de 5 m de rayon. Peuvent кtre utilisйes avec le lance-grenades intйgrй du FT200M.</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M203</text>
+	</string>
+	<string id="ammo-og-7b">
+		<text>Ogive OG-7V</text>
+	</string>
+	<string id="ammo-og-7b_descr">
+		<text>Ogives antipersonnel а fragmentation utilisйes par le lance-grenades RPG-7U. Elles servent а atteindre les ennemis hors de portйe de grenades conventionnelles.</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	<string id="ammo-vog-25">
+		<text>Grenade VOG-25</text>
+	</string>
+	<string id="ammo-vog-25_descr">
+		<text>Grenades а fragmentation standard pour le lance-grenades montй sous le canon GP-25 Koster. Ces grenades crйent une zone lйtale de 5 m de rayon. Peuvent кtre utilisйes avec le lance-grenades intйgrй du Tunder S14 et le lance-grenades Bulldog 6.</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	<string id="st_addon_scope">
+		<text>Lunette PSO-1m</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>Lunette soviйtique trиs rйpandue, а zoom 5x fixe. Se fixe grвce а un support en queue d'aronde, largement utilisй par les pays du Pacte de Varsovie.</text>
+	</string>
+	<string id="st_addon_scope_detector">
+		<text>Lunette PSS-2x</text>
+	</string>
+	<string id="st_addon_scope_detector_descr">
+		<text>Lunette а zoom 5x fixe avec dйtecteur thermique intйgrй. Conзue pour les forces spйciales. Se fixe grвce а un support en queue d'aronde.</text>
+	</string>
+	<string id="st_addon_scope_night_vision">
+		<text>Lunette NSPU-3</text>
+	</string>
+	<string id="st_addon_scope_night_vision_descr">
+		<text>Lunette а zoom 5x fixe avec dispositif d'amplification de lumiиre pour les combats de nuit. Se fixe grвce а un support en queue d'aronde.</text>
+	</string>
+	<string id="st_addon_scope_susat">
+		<text>Lunette SUSAT 4x</text>
+	</string>
+	<string id="st_addon_scope_susat_custom_descr">
+		<text>Lunette а zoom variable 1,6-4x pouvant кtre modifiйe automatiquement pour procurer une meilleure puissance de feu. Se fixe а l'aide du rail Picatinny standard OTAN.</text>
+	</string>
+	<string id="st_addon_scope_susat_descr">
+		<text>Lunette а zoom fixe 4x produite dans les pays occidentaux. Se fixe а l'aide du rail Picatinny standard OTAN. Souvent utilisйe pour les tirs de prйcision а longue ou moyenne portйe avec des armes de petit calibre.</text>
+	</string>
+	<string id="st_addon_scope_susat_dusk">
+		<text>Lunette SUSAT Crйpuscule 1,6x</text>
+	</string>
+	<string id="st_addon_scope_susat_dusk_descr">
+		<text>Lunette de visйe optique SUSAT а zoom fixe 1,6x et а fort contraste pour les combats en visibilitй rйduite. Se fixe а l'aide du rail Picatinny standard OTAN.</text>
+	</string>
+	<string id="st_addon_scope_susat_night_vision">
+		<text>Lunette SUSAT Nuit 1,6x</text>
+	</string>
+	<string id="st_addon_scope_susat_night_vision_descr">
+		<text>Lunette de visйe а zoom fixe 4x, йquipйe d'un dispositif de vision nocturne pour les combats а longue portйe de nuit. Se fixe а l'aide du rail Picatinny standard OTAN.</text>
+	</string>
+	<string id="st_addon_scope_susat_x1.6">
+		<text>Lunette SUSAT 1,6x</text>
+	</string>
+	<string id="st_addon_scope_susat_x1.6_descr">
+		<text>Lunette de visйe SUSAT а zoom fixe 1,6x, conзue pour les combats а portйe courte et moyenne. Se fixe а l'aide du rail Picatinny standard OTAN.</text>
+	</string>
+	<string id="st_addon_scope_x2.7">
+		<text>Lunette PSO-1</text>
+	</string>
+	<string id="st_addon_scope_x2.7_descr">
+		<text>Lunette а zoom 2,7x conзue pour les combats urbains а portйe moyenne. Se fixe grвce а un support en queue d'aronde.</text>
+	</string>
+	<string id="st_addon_silencer">
+		<text>Silencieux</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>Silencieux rustique, mais efficace, pouvant кtre modifiй si nйcessaire. Le tube cylindrique qui se visse au canon est constituй d'un fin maillage de laiton alors que son extrйmitй opposйe se compose d'une sйrie de diaphragmes mйtalliques avec une ouverture laissant passer la balle. Cet йquipement comprend les adaptateurs et produits isolants nйcessaires а son montage sur la plupart des armes. Il est gйnйralement utilisй pour rйduire les effectifs de l'ennemi sans attirer l'attention sur son utilisateur.</text>
+	</string>
+	<string id="st_grenade_f1">
+		<text>Grenade F1</text>
+	</string>
+	<string id="st_grenade_f1_descr">
+		<text>Grenade а main dйfensive, dont les fragments peuvent traverser une protection corporelle moyenne. Dispose d'un rayon lйtal de 7 mиtres. Les stalkers les obtiennent des militaires sur le marchй noir. Ces derniers expliquent plus tard l'absence des grenades en prйtendant les avoir utilisйes contre les mutants.</text>
+	</string>
+	<string id="st_grenade_launcher">
+		<text>GP-25 Koster</text>
+	</string>
+	<string id="st_grenade_launcher_descr">
+		<text>Lance-grenades pour fusils d'assaut du Pacte de Varsovie. Chargement par l'avant, canon rayй, mйcanisme d'amorзage а pompe avec sйcuritй manuelle et sйcuritй automatique empкchant le tir si le lance-grenades n'est pas correctement installй. Utilise des grenades VOG-25.</text>
+	</string>
+	<string id="st_grenade_launcher_m203">
+		<text>M203</text>
+	</string>
+	<string id="st_grenade_launcher_m203_descr">
+		<text>Lance-grenades M203 modifiй pour кtre plus court de 7,62 cm. Se fixe а l'aide du rail Picatinny standard OTAN. Trиs populaire dans le monde entier.</text>
+	</string>
+	<string id="st_grenade_rgd5">
+		<text>Grenade RGD-5</text>
+	</string>
+	<string id="st_grenade_rgd5_descr">
+		<text>Grenade offensive а zone lйtale de 5 mиtres. Peu coыteuse et souvent utilisйe par les stalkers pour "nettoyer" les nids de mutants.</text>
+	</string>
+	<string id="st_grenade_smoke">
+		<text>Grenade fumigиne</text>
+	</string>
+	<string id="st_grenade_smoke_descr">
+		<text>Grenade fumigиne. Utile pour crйer des йcrans de fumйe. Une fois la grenade lancйe, l'йcran se constitue en environ 10 secondes.</text>
+	</string>
+	<string id="st_knife">
+		<text>Couteau</text>
+	</string>
+	<string id="st_wpn_abakan">
+		<text>AC-96/2</text>
+	</string>
+	<string id="st_wpn_ak74">
+		<text>AKM-74/2</text>
+	</string>
+	<string id="st_wpn_ak74u">
+		<text>AKM-74/2U</text>
+	</string>
+	<string id="st_wpn_beretta">
+		<text>Martha</text>
+	</string>
+	<string id="st_wpn_bm16">
+		<text>Fusil а canon sciй</text>
+	</string>
+	<string id="st_wpn_bm16_descr">
+		<text>Fusil de chasse а deux canons sciйs parallиles, ce qui le rend plus lйger et compact qu'un fusil de chasse complet. Trиs populaire auprиs des bandits en raison de son extrкme efficacitй а courte portйe et de sa discrйtion.</text>
+	</string>
+	<string id="st_wpn_colt1911">
+		<text>Kora-919</text>
+	</string>
+	<string id="st_wpn_desert_eagle_nimble">
+		<text>Steppe Eagle</text>
+	</string>
+	<string id="st_wpn_desert_eagle_nimble_descr">
+		<text>Pistolet assemblй а la main et inspirй du Black Eagle. Tous ses composants ont йtй ajustйs sйparйment pour offrir une prйcision de tir inйgalйe pour une arme de poing de ce type.</text>
+	</string>
+	<string id="st_wpn_eagle">
+		<text>Black Eagle</text>
+	</string>
+	<string id="st_wpn_fn2000">
+		<text>FT 200M</text>
+	</string>
+	<string id="st_wpn_fort">
+		<text>Fora-12</text>
+	</string>
+	<string id="st_wpn_g36">
+		<text>GP37</text>
+	</string>
+	<string id="st_wpn_gauss">
+		<text>Fusil Gauss</text>
+	</string>
+	<string id="st_wpn_groza">
+		<text>Tunder S14</text>
+	</string>
+	<string id="st_wpn_groza_descr">
+		<text>Ce fusil d'assaut а lance-grenades intйgrй, semblable aux armes de la famille AKM, a йtй spйcialement conзu pour les unitйs d'assaut. De configuration bullpup, il est chambrй en 9x39 et largement modifiable. Capable de tuer un ennemi portant une protection corporelle ou а couvert en environnement urbain, il est trиs apprйciй des militaires de la Zone, notamment pour son excellente puissance d'arrкt.</text>
+	</string>
+	<string id="st_wpn_groza_nimble">
+		<text>Storm</text>
+	</string>
+	<string id="st_wpn_groza_nimble_descr">
+		<text>Version expйrimentale d'un fusil d'assaut avec lance-grenades intйgrй, modification russe du Tunder S14, cette arme a йtй conзue pour les unitйs opйrant dans la Zone et dispose d'un chargeur d'une capacitй remarquable.</text>
+	</string>
+	<string id="st_wpn_hpsa">
+		<text>HPSS-1m</text>
+	</string>
+	<string id="st_wpn_hpsa_descr">
+		<text>Version modifiйe d'un pistolet rйputй de la premiиre moitiй du XXe siиcle, aussi fiable, puissant et prйcis que l'original. Son excellente rйputation йtant mйritйe, il est trиs demandй dans la Zone.</text>
+	</string>
+	<string id="st_wpn_l85">
+		<text>IL 86</text>
+	</string>
+	<string id="st_wpn_lr300">
+		<text>TRs 301</text>
+	</string>
+	<string id="st_wpn_mp5">
+		<text>Viper 5</text>
+	</string>
+	<string id="st_wpn_mp5_descr">
+		<text>Ce pistolet-mitrailleur est l'un des plus populaires au monde de par sa fiabilitй, sa facilitй d'utilisation et sa prйcision. Depuis plusieurs dйcennies, il est employй а toutes fins par les armйes et forces de police du monde entier. De faзon peu surprenante, il s'est trиs bien vendu sur le marchй noir et a fini par se retrouver dans la Zone.</text>
+	</string>
+	<string id="st_wpn_mp5_nimble">
+		<text>Frasier</text>
+	</string>
+	<string id="st_wpn_mp5_nimble_descr">
+		<text>Prototype de pistolet-mitrailleur basй sur l'excellent Viper 5. Conзu pour constituer la prochaine gйnйration d'armes de combat rapprochй, il est chambrй dans un plus gros calibre, est plus prйcis et dispose d'une meilleure cadence de tir.</text>
+	</string>
+	<string id="st_wpn_pb">
+		<text>PB-1s</text>
+	</string>
+	<string id="st_wpn_pkm_zulus">
+		<text>RP-74 de Zulu</text>
+	</string>
+	<string id="st_wpn_pkm_zulus_descr">
+		<text>Cette arme appartenait а Zulu. Il l'a modifiйe pour en agrandir le chargeur et rendre le systиme d'extraction des balles plus fiable, le surpoids n'йtant pas un problиme pour son propriйtaire.</text>
+	</string>
+	<string id="st_wpn_pm">
+		<text>PMm</text>
+	</string>
+	<string id="st_wpn_pm_actor">
+		<text>PMm de parade</text>
+	</string>
+	<string id="st_wpn_pm_actor_descr">
+		<text>PMm de parade offert par Degtyarev pour "Exйcution d'ordres dangereux, mais cruciaux pour la sыretй de l'йtat et pour bravoure exceptionnelle en service".</text>
+	</string>
+	<string id="st_wpn_protecta">
+		<text>Eliminator</text>
+	</string>
+	<string id="st_wpn_rg6">
+		<text>Bulldog-6</text>
+	</string>
+	<string id="st_wpn_rg6_descr">
+		<text>Lance-grenades а barillet et chargement par l'avant. Utilisй en gйnйral pour la suppression rapide des positions de tir ennemies et, а dйcouvert, pour l'assaut de positions fixes ou l'йlimination de mutants particuliиrement coriaces.</text>
+	</string>
+	<string id="st_wpn_rp">
+		<text>RP-74</text>
+	</string>
+	<string id="st_wpn_rp_descr">
+		<text>Mitrailleuse а bande portable et modifiйe avec un systиme d'alimentation complexe en deux temps. Malgrй son poids et son manque de prйcision, cette mitrailleuse lйgиre est souvent utilisйe dans la Zone pour repousser des hordes d'ennemis lors de conflits entre factions ou pour nettoyer des nids de mutants.</text>
+	</string>
+	<string id="st_wpn_rpg7">
+		<text>RPG-7u</text>
+	</string>
+	<string id="st_wpn_sig220">
+		<text>SIP-t M200</text>
+	</string>
+	<string id="st_wpn_sig220_nimble">
+		<text>Alpine</text>
+	</string>
+	<string id="st_wpn_sig220_nimble_descr">
+		<text>Modиle unique du SIP-t M200, issu d'une sйrie limitйe et conзu pour des forces spйciales de provenance inconnue. Cette arme bйnйficie d'un chargeur plus grand, d'un canon en acier trиs rйsistant et d'un bloc culasse en polymиre renforcй.</text>
+	</string>
+	<string id="st_wpn_sig550">
+		<text>SGI 5k</text>
+	</string>
+	<string id="st_wpn_sig550_descr">
+		<text>Fusil d'assaut relativement nouveau rapidement adoptй par de nombreux combattants du monde entier, bien qu'il ne suive pas les tendances du moment. Les armes de cette famille sont parmi les meilleures au monde, renommйes pour leur fiabilitй, leur prйcision et leur ergonomie. Bien que difficile а obtenir dans la Zone, ce fusil d'assaut fait souvent l'objet de commandes aussi spйciales qu'exorbitantes.</text>
+	</string>
+	<string id="st_wpn_sig550_strelok">
+		<text>SGI-5k de Strelok</text>
+	</string>
+	<string id="st_wpn_sig550_strelok_descr">
+		<text>Fusil d'assaut suisse SGI-5k. Mкme s'il est loin d'кtre neuf, il est йvident que son propriйtaire en a pris grand soin : chaque piиce a йtй dйmontйe, nettoyйe puis remontйe pour obtenir des performances optimales en termes de puissance d'arrкt. La lettre "S" a йtй gravйe sur la crosse, а cфtй de 16 encoches.</text>
+	</string>
+	<string id="st_wpn_spas12">
+		<text>SPSA-14 </text>
+	</string>
+	<string id="st_wpn_spas12_m2">
+		<text>SPSA-AUT</text>
+	</string>
+	<string id="st_wpn_spas12_m2_descr">
+		<text>Le fusil а pompe SPSA-AUT est une exclusivitй des ateliers du Devoir. Conзu pour combattre des hordes de mutants, son mйcanisme d'alimentation amйliorй assure une cadence de tir йlevйe et le magasin a йtй agrandi pour accueillir 10 cartouches. Utilise des munitions de calibre 12x70.</text>
+	</string>
+	<string id="st_wpn_spas12_nimble">
+		<text>SPSA Carabine</text>
+	</string>
+	<string id="st_wpn_spas12_nimble_descr">
+		<text>Fusil а pompe militaire conзu sur une base de SPSA-14. Dotй d'un mode de tir automatique а l'instar de son prйdйcesseur, il bйnйficie d'un recul rйduit grвce а un systиme d'absorption amйliorй.</text>
+	</string>
+	<string id="st_wpn_svd">
+		<text>SVDm -2</text>
+	</string>
+	<string id="st_wpn_svd_descr">
+		<text>Fusil de prйcision militaire en service depuis plus de 50 ans, dont la rйputation en termes de fiabilitй et de facilitй d'emploi n'est plus а faire. Le SVDm-2 est gйnйralement utilisй par l'armйe pour accroоtre la portйe effective de ses unitйs. Dans la Zone, les stalkers l'apprйcient pour ses capacitйs de perforation, efficaces contre les protections corporelles et les mutants.</text>
+	</string>
+	<string id="st_wpn_svd_nimble">
+		<text>Lynx</text>
+	</string>
+	<string id="st_wpn_svd_nimble_descr">
+		<text>Version assemblйe а la main du fusil de prйcision SVDm-2. Bien qu'identique au SVDm-2 en apparence, cette variante est idйalement йquilibrйe en termes de prйcision et de puissance d'arrкt.</text>
+	</string>
+	<string id="st_wpn_svu">
+		<text>SVUmk-2</text>
+	</string>
+	<string id="st_wpn_svu_nimble">
+		<text>SVU2-A</text>
+	</string>
+	<string id="st_wpn_svu_nimble_descr">
+		<text>Ce fusil de prйcision а canon raccourci et а cadence de tir accйlйrйe constitue une nouvelle йtape dans l'йvolution du SVUmk-2. Cette arme appartenait а Max, le lйgendaire gardien de la Libertй.</text>
+	</string>
+	<string id="st_wpn_toz34">
+		<text>Fusil de chasse</text>
+	</string>
+	<string id="st_wpn_toz34_descr">
+		<text>Dotй d'une grande prйcision et d'une puissance d'arrкt hors pair, ce fusil de chasse а canon basculant est bien plus efficace qu'un pistolet contre les mutants et est utilisй par la plupart des dйbutants dans les secteurs peu dangereux de la Zone.</text>
+	</string>
+	<string id="st_wpn_umirotvoritel">
+		<text>Arme non identifiйe</text>
+	</string>
+	<string id="st_wpn_umirotvoritel_descr">
+		<text>Arme non identifiйe, au mйcanisme de tir mystйrieux. Elle semble dйfectueuse, car il ne se passe rien lorsque l'on appuie sur la dйtente.</text>
+	</string>
+	<string id="st_wpn_usp">
+		<text>UDP Compact</text>
+	</string>
+	<string id="st_wpn_usp_descr">
+		<text>Fiabilitй et longйvitй exceptionnelles combinйes а une excellente prйcision sont les points forts de cette arme. Ses dйfauts mineurs incluent une taille non nйgligeable, un centre de gravitй йlevй et une culasse massive qui ne facilite pas sa dissimulation. Trиs populaire auprиs des vйtйrans de la Zone.</text>
+	</string>
+	<string id="st_wpn_usp_nimble">
+		<text>Mars</text>
+	</string>
+	<string id="st_wpn_usp_nimble_descr">
+		<text>Pistolet de gros calibre а culasse raccourcie et allйgйe, version modifiйe de l'UDP Compact. Appartenait au mercenaire connu sous le nom de Doberman.</text>
+	</string>
+	<string id="st_wpn_val">
+		<text>SA Avalanche</text>
+	</string>
+	<string id="st_wpn_vintorez">
+		<text>Vintar BC </text>
+	</string>
+	<string id="st_wpn_vintorez_descr">
+		<text>Fusil de prйcision militaire, conзu pour кtre permettre des tirs silencieux et invisibles au cours d'opйrations spйciales. Le Vintar BC bйnйficie d'excellentes capacitйs de perforation et d'une puissance d'arrкt hors pair. Il comprend une lunette de visйe intйgrйe. Trиs apprйciй des stalkers malgrй son chargeur limitй.</text>
+	</string>
+	<string id="st_wpn_vintorez_nimble">
+		<text>Tide</text>
+	</string>
+	<string id="st_wpn_vintorez_nimble_descr">
+		<text>Variante du fusil de prйcision silencieux Vintar BC, cette arme sacrifie la cadence de tir au bйnйfice de la puissance d'arrкt, afin de permettre au tireur d'йliminer ses ennemis un par un, sans rйvйler sa position.</text>
+	</string>
+	<string id="st_wpn_walther">
+		<text>Walker P9m</text>
+	</string>
+	<string id="st_wpn_wincheaster1300">
+		<text>Chaser 13</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_descr">
+		<text>Fusil а pompe occidental а вme lisse, trиs populaire dans la Zone de par son incroyable fiabilitй et sa grande vitesse de rechargement. Recouvert d'un composй anticorrosion, il est tout particuliиrement apprйciй par les chasseurs.</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_trapper">
+		<text>Predator</text>
+	</string>
+	<string id="st_wpn_wincheaster1300_trapper_descr">
+		<text>Fusil а pompe sur mesure qui appartenait а Trappeur. Le chasseur n'avait imposй qu'une seule condition, que cette arme puisse tuer en un seul coup, car il n'y a aucune raison de faire souffrir inutilement un animal, quel que soit le nombre de victimes qu'il ait faites.</text>
+	</string>
+	<string id="ammo-gauss_cardan">
+		<text>Batteries artisanales</text>
+	</string>
+	<string id="st_addon_scope_susat_custom">
+		<text>Lunette SUSAT Mera</text>
+	</string>
+	<string id="st_wpn_abakan_descr">
+		<text>Fusil d'assaut moderne dйveloppй pour remplacer l'AKM 74/2 obsolиte. Il dispose d'un mode de tir qui permet de placer deux balles exactement au mкme endroit sur une cible йloignйe, ce qui augmente nettement les chances d'atteindre la cible par rapport au mode de tir semi-automatique et accroоt mйcaniquement sa puissance d'arrкt ainsi que ses capacitйs lйtales et de pйnйtration.</text>
+	</string>
+	<string id="st_wpn_ak74_descr">
+		<text>Cette arme conзue en 1974 a marquй l'adoption par les pays du Pacte de Varsovie de la tendance mondiale а utiliser des munitions de petite calibre et а puissance rйduite pour les fusils d'assaut. Successeur du fusil d'assaut le plus populaire au monde, l'AKM-74/2 dispose d'un frein de bouche encore plus grand que celui de son prйdйcesseur, qui rйduit encore davantage un recul qui йtait dйjа plus que raisonnable. Prйcision et dispersion en sont grandement amйliorйes, tout particuliиrement lors de rafales ou de tirs uniques enchaоnйs rapidement. Ce fusil reste simple et fiable.</text>
+	</string>
+	<string id="st_wpn_ak74u_descr">
+		<text>Bien que relevant plus de la catйgorie des pistolets-mitrailleurs en termes de poids, de dimensions et mкme d'utilisation tactique, cette arme reste considйrйe comme un fusil d'assaut car ses mйcanismes internes sont identiques а ceux de l'AKM-74/2. L'AKM-74-2U est plus facile d'emploi au contact et dispose de bonnes capacitйs perforantes contre les protections corporelles. En revanche, sa portйe efficace est limitйe (en dйpit de celle relativement longue de ses munitions), il surchauffe rapidement en tir en rafale et ses balles ont une forte tendance а ricocher.</text>
+	</string>
+	<string id="st_wpn_colt1911_descr">
+		<text>Version amйliorйe d'un grand classique qui a survйcu а tous les conflits du XXe siиcle et perdurera sans aucun doute dans le suivant. Le modиle d'origine et des milliers de variantes sont produits par des centaines d'entreprises dans le monde entier. Son seul dйfaut est la capacitй limitйe de son chargeur, largement compensйe par la puissance d'arrкt de ses munitions.</text>
+	</string>
+	<string id="st_wpn_eagle_descr">
+		<text>Un vйritable canon portable : volumineux, lourd et incroyablement mortel. Conзu comme arme de poing spйcialisйe pour la chasse au gros gibier et pour le tir de compйtition sur cibles en acier а plus de 50 mиtres. Peu employй dans la Zone а cause de son prix, de sa taille et de son poids (quasiment le double de tous les autres pistolets).</text>
+	</string>
+	<string id="st_wpn_fn2000_descr">
+		<text>Cette arme de configuration bullpup et а l'apparence futuriste est en rйalitй un systиme militaire modulable adaptй а la production en sйrie, qui inclut un systиme de contrфle de tir informatisй et un lance-grenades de 40 mm. En dйpit de son apparence encombrante, elle est trиs ergonomique, facile d'emploi et prйsente de bonnes caractйristiques techniques.</text>
+	</string>
+	<string id="st_wpn_fort_descr">
+		<text>Pistolet ukrainien principalement utilisй par les forces de maintien de l'ordre. Plus prйcis, plus ergonomique et disposant d'un chargeur de plus grande capacitй que le PMm, il est trиs demandй dans la Zone а cause de la vente а prix dйfiant toute concurrence d'un grand nombre de modиles dйfectueux. Malgrй cela, ce pistolet reste trиs demandй pour ses bonnes caractйristiques de combat.</text>
+	</string>
+	<string id="st_wpn_g36_descr">
+		<text>Modиle rйcent d'une grande famille de fusils d'assaut occidentaux, il diffиre de ses prйdйcesseurs par sa culasse non calйe et ressemble davantage aux fusils d'assaut amйricains а piston а systиme d'emprunt de gaz а court recul. Il constitue une arme moderne d'excellente qualitй, lйgиre, fiable et ergonomique.</text>
+	</string>
+	<string id="st_wpn_l85_descr">
+		<text>La production en sйrie et les nombreux dйfauts de ce fusil expliquent sa prйsence en de nombreux exemplaires dans la Zone, alors que des versions modernisйes sont utilisйes а l'extйrieur. Les point fort de ce fusil sont sa lunette 4x intйgrйe, son excellente prйcision de tir et ses capacitйs d'amйlioration. En revanche, la prйcision chute rapidement en tir en rafale et les mйcanismes internes sont peu fiables.</text>
+	</string>
+	<string id="st_wpn_lr300_descr">
+		<text>Dernier membre en date d'une longue lignйe, ce fusil a йtй largement modifiй sur sa moitiй supйrieure, son canon, sa culasse et son systиme d'emprunt des gaz, ce qui a rйduit son poids et amйliorй son ergonomie. Extrкmement prйcis, il a cependant tendance а s'encrasser facilement, ce qui n'est guиre adaptй aux conditions difficiles de la Zone.</text>
+	</string>
+	<string id="st_wpn_pb_descr">
+		<text>Pistolet conзu au cours de la seconde moitiй du XXe siиcle pour les forces spйciales et unitйs de reconnaissance. L'une des particularitйs de cette arme est l'avant du canon couvert par le silencieux tandis que la crosse accueille le ressort rйcupйrateur trop long pour la culasse. Clairement obsolиte, cette arme est nйanmoins efficace entre de bonnes mains.</text>
+	</string>
+	<string id="st_wpn_pm_descr">
+		<text>Cet hйritage soviйtique est l'un des pistolets les plus courants de la Zone, mais йgalement l'un des plus efficaces. Compact, trиs fiable, facile d'emploi et d'entretien, il pвtit nйanmoins d'une courte portйe, d'une faible prйcision et d'une faible puissance d'arrкt. Par ailleurs, comparй а d'autres pistolets plus rйcents de la mкme catйgorie, il est relativement lourd et dispose d'un chargeur limitй.</text>
+	</string>
+	<string id="st_wpn_protecta_descr">
+		<text>Fusil а pompe а вme lisse et poignйe revolver combinant puissance de feu extrкme et cadence de tir йlevйe. Il dispose d'un magasin а grande capacitй, mais son volume et son poids considйrables, combinйs а un temps de rechargement assez long, sont le prix а payer pour ces avantages. Assez rare dans la Zone, il est en gйnйral utilisй pour nettoyer les nids de mutants.</text>
+	</string>
+	<string id="st_wpn_rpg7_descr">
+		<text>Ce lance-roquettes des annйes 60 est passй des surplus militaires а la Zone. Il constitue un systиme de lancement sans recul а tir unique et inclut une lunette de type PGO-7 2,7x optique. Mкme si sa grande taille et son poids la rendent peu maniable, cette arme a su trouver des adeptes dans la Zone grвce а sa puissance destructrice considйrable et sa facilitй d'emploi.</text>
+	</string>
+	<string id="st_wpn_sig220_descr">
+		<text>Dernier modиle produit en sйrie d'un pistolet trиs connu, cette arme s'est forgй une rйputation pour son excellente ergonomie, sa grande prйcision et ses mйcanismes internes dignes d'une montre suisse. Son seul dйfaut est son chargeur а capacitй limitйe, nйanmoins compensй par la puissance d'arrкt de ses munitions. Nombreux sont ceux qui pensent que le SIP-t M200 est le meilleur pistolet chambrй en .45 ACP jamais produit en sйrie. De nombreux stalkers et mercenaires expйrimentйs l'ont adoptй. </text>
+	</string>
+	<string id="st_wpn_spas12_descr">
+		<text>Fusil а pompe automatique а вme lisse conзu au cours de la seconde moitiй du XXe siиcle. Ses deux modes de tir, а pompe ou semi-automatique, en font une arme de choix pour les forces de police et les unitйs d'assaut. Bien que trиs fiable et polyvalent, il reste lourd, complexe et coыteux. Il est nйanmoins assez populaire dans la Zone, notamment auprиs des stalkers qui cherchent а lutter efficacement contre les mutants.</text>
+	</string>
+	<string id="st_wpn_svu_descr">
+		<text>Version modernisйe du fusil de prйcision SVDm-2, en configuration bullpup compacte, conзue pour les forces d'intervention rapides. Le tir de prйcision est plus rapide et l'arme est plus lйgиre tout en conservant l'excellente prйcision а courte et moyenne portйe de son prйdйcesseur. Toutes ces qualitйs font que ce fusil est largement convoitй par de nombreux stalkers de la Zone.</text>
+	</string>
+	<string id="st_wpn_val_descr">
+		<text>Version modifiйe pour les forces spйciales du fusil de prйcision silencieux Vintar BC. Sa principale fonction est de permettre un tir efficace contre un ennemi bien protйgй sans dйvoiler la position du tireur. Grвce aux lourdes balles subsoniques de calibre 9x39 mm et au silencieux intйgrй de cette arme, le bruit et la flamme а la bouche du canon sont rйduits au maximum.</text>
+	</string>
+	<string id="st_wpn_gauss_descr">
+		<text>Arme incroyablement prйcise et sophistiquйe connue sous le nom d'Objet 62, ce fusil a йtй conзu dans des laboratoires secrets de la Zone. Il fonctionne en accйlйrant les balles а des vitesses extrкmes par le biais d'йlectroaimants. Il en rйsulte une formidable puissance d'arrкt et quasiment aucun recul. Pour son alimentation en йnergie, il utilise des batteries contenant des fragments d'artefacts.</text>
+	</string>
+	<string id="st_wpn_beretta_descr">
+		<text>Les pistolets Martha ont la rйputation d'кtre plutфt fiables et un peu encombrants. Ils sont autant utilisйs par de nombreuses forces armйes et de police du monde entier que par les membres de la pиgre, qui apprйcient ses munitions puissantes et la capacitй de son chargeur. Les Martha trouvйs dans la Zone sont en gйnйral assez vieux, probablement issus de stocks retirйs de la circulation.</text>
+	</string>
+	<string id="st_wpn_walther_descr">
+		<text>Pistolet occidental d'excellente facture, rйputй pour sa fiabilitй, sa prйcision et la grande capacitй de son chargeur, sans oublier la meilleure ergonomie de sa catйgorie. Il s'agit de l'un des pistolets les plus utilisйs dans la Zone, autant par les vйtйrans que par les dйbutants.</text>
+	</string>
+	<string id="ammo-gauss_descr">
+		<text>Batteries utilisant un fragment encapsulй de l'artefact Flash comme source d'йnergie. Fabriquйes а l'aide d'йquipements sophistiquйs.</text>
+	</string>
+	<string id="ammo-gauss_cardan_descr">
+		<text>Batteries qui utilisent un fragment encapsulй de l'artefact Flash comme source d'йnergie. Leur faible capacitй est due а leur origine artisanale et а l'absence d'йquipement spйcialisй.</text>
+	</string>
+</string_table>

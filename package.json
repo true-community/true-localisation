@@ -1,0 +1,22 @@
+{
+  "name": "true-localisation",
+  "version": "0.0.1",
+  "description": "Toolkit to manage localisation files",
+  "author": "lehrax",
+  "years": "2023-2024",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lehrax-gaming/true-localisation.git"
+  },
+
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "dependencies": {
+    "chardet": "latest",
+    "fast-xml-parser": "latest",
+    "inquirer": "latest"
+  }
+}

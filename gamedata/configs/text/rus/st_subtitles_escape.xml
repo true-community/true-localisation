@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_esc_prov_1">
+    <text>М-да. Погода сегодня просто шепчет.</text>
+  </string>
+  <string id="st_esc_prov_2_1">
+    <text>Да что тут может быть нового?\nКаждый день как день Юрка.</text>
+  </string>
+  <string id="st_esc_prov_2_2">
+    <text>Проснулся, потопал к периметру\nвстречать новичков,</text>
+  </string>
+  <string id="st_esc_prov_2_3">
+    <text>проводил и сижу,\nжду следующий заказ.</text>
+  </string>
+  <string id="st_esc_prov_2_4">
+    <text>За Кордон почти не высовываюсь.</text>
+  </string>
+  <string id="st_esc_prov_3_1">
+    <text>Может, пара человек в день,\nа может, вообще никого.</text>
+  </string>
+  <string id="st_esc_prov_3_2">
+    <text>А когда и целой оравой\nсюда заваливаются.</text>
+  </string>
+  <string id="st_esc_prov_3_3">
+    <text>Обратно только\nмало кто возвращался.</text>
+  </string>
+  <string id="st_esc_prov_4_1">
+    <text>А чего это тебе так интересно?</text>
+  </string>
+  <string id="st_esc_prov_4_2">
+    <text>Неужто за Кордон собрался?</text>
+  </string>
+  <string id="st_esc_prov_5">
+    <text>Жаль. Такого клиента потерял.</text>
+  </string>
+  <string id="st_esc_prov_6">
+    <text>Твою мать! Бежим, бежим!</text>
+  </string>
+  <string id="st_esc_topor_actor_phrase_1">
+    <text>Что в Зоне нового, Юрок?</text>
+  </string>
+  <string id="st_esc_topor_actor_phrase_2">
+    <text>И что, много сюда новичков ходит?</text>
+  </string>
+  <string id="st_esc_topor_actor_phrase_3">
+    <text>А за Кордоном что?\nКак там сейчас обстановочка?</text>
+  </string>
+  <string id="st_esc_topor_actor_phrase_4_1">
+    <text>Ну, может и собрался.\nНадоело на Кордоне порожняки гонять.</text>
+  </string>
+  <string id="st_esc_topor_actor_phrase_4_2">
+    <text>Подсоберу только деньжат на экипировку\nи мотану вглубь Зоны.</text>
+  </string>
+  <string id="st_esc_topor_actor_phrase_5">
+    <text>Да сплюнь ты.</text>
+  </string>
+  <string id="st_esc_army_base_target_detected">
+    <text>Двое посторонних со стороны тоннеля!</text>
+  </string>
+  <string id="st_esc_army_base_target_lost_1">
+    <text>Уходят, гады.</text>
+  </string>
+  <string id="st_esc_army_base_target_lost_2">
+    <text>Дежурный, поднимай состав и прочеши сектор!</text>
+  </string>
+  <string id="st_esc_army_base_soldier">
+    <text>Военный</text>
+  </string>
+  <string id="st_esc_army_base_start_scene_tower_attack">
+    <text>Огонь на поражение!</text>
+  </string>
+  <string id="st_esc_army_base_start_scene_patrol_attack">
+    <text>Вали гондурасов!</text>
+  </string>
+  <string id="st_esc_actor_kutek_phrase_1">
+    <text>А ну-ка стой!</text>
+  </string>
+  <string id="st_esc_actor_kutek_phrase_2">
+    <text>Ты ещё кто такой?</text>
+  </string>
+  <string id="st_esc_trup_shavali_sobaki">
+    <text>Так, а вот и сборщик... Похоже, его загрызли собаки...</text>
+  </string>
+  <string id="st_esc_robbery_bandit_1_1">
+    <text>Эй, фраер,\nты бы шёл нахер отсюда!</text>
+  </string>
+  <string id="st_esc_robbery_bandit_1_2">
+    <text>И то, что с аномалии достал,\nдавай. Гони сюда.</text>
+  </string>
+  <string id="st_esc_robbery_bandit_2_1">
+    <text>Ну чё, сука?\nГоворил я тебе, а?</text>
+  </string>
+  <string id="st_esc_robbery_bandit_2_2">
+    <text>Лови маслину теперь, ушлёпок!</text>
+  </string>
+  <string id="st_esc_atp_bandits_death">
+    <text>Шухер! Мочат нас!</text>
+  </string>
+  <string id="st_esc_bridge_patrol_stop">
+    <text>Ты, стоять!</text>
+  </string>
+  <string id="st_esc_bridge_soldiers_1">
+    <text>Чего стоишь, сталкер?</text>
+  </string>
+  <string id="st_esc_bridge_soldiers_2">
+    <text>Хочешь пройти — иди сюда.\nГоворить будем.</text>
+  </string>
+  <string id="st_esc_bridge_soldiers_3">
+    <text>Нет — вали отсюда по-хорошему.</text>
+  </string>
+  <string id="st_esc_fanat_bye_1">
+    <text>Ну, бывай... сталкер.</text>
+  </string>
+  <string id="st_esc_fanat_dont_stop_nora">
+    <text>Топор, не медли.\nСтавь динамит и валим отсюда!</text>
+  </string>
+  <string id="st_esc_fanat_hello_1">
+    <text>Привет, Топор.\nКакими судьбами?</text>
+  </string>
+  <string id="st_esc_fanat_monster_attack">
+    <text>Всем, кто меня слышит: на деревню прут мутанты, срочно просим помощи!</text>
+  </string>
+  <string id="st_esc_actor_ferma_phrase">
+    <text>Ну что, упыри, попались?</text>
+  </string>
+  <string id="st_esc_novice_camp_1_phrase_1">
+    <text>А вдруг он найдёт нас?</text>
+  </string>
+  <string id="st_esc_novice_camp_1_phrase_2">
+    <text>Не по себе мне.</text>
+  </string>
+  <string id="st_esc_novice_camp_2_phrase_1">
+    <text>Да он лошок какой-то,\nа ты переживаешь!</text>
+  </string>
+  <string id="st_esc_novice_camp_2_phrase_2">
+    <text>А я говорил тебе:\nдавай его грохнем, и дело с концом!</text>
+  </string>
+  <string id="st_esc_novice_camp_2_phrase_3">
+    <text>Да не ссы ты. Прорвёмся!</text>
+  </string>
+  <string id="st_esc_sms_jurok_sound_1_1">
+    <text>Здорово, Топор! Ну что, проспался после вчерашней попойки?</text>
+  </string>
+  <string id="st_esc_sms_jurok_sound_1_2">
+    <text>Я слышал, ты вглубь Кордона ушёл. Есть для тебя дело одно:</text>
+  </string>
+  <string id="st_esc_sms_jurok_sound_1_3">
+    <text>вчерашние вояки, которых за нами послали, всем отрядом сгинули в аномалии.</text>
+  </string>
+  <string id="st_esc_sms_jurok_sound_1_4">
+    <text>Сходил бы, глянул: может, чего путёвого осталось.</text>
+  </string>
+  <string id="st_esc_sms_jurok_sound_1_5">
+    <text>Лови координаты.</text>
+  </string>
+  <string id="st_esc_shmonaem_ego">
+    <text>Быстрее!\nШмонаем его и бежим отсюда!</text>
+  </string>
+  <string id="st_esc_forestry_stalker_go_ferma_1">
+    <text>Ладно, мужики.\nНечего тут торчать.</text>
+  </string>
+  <string id="st_esc_forestry_stalker_go_ferma_2">
+    <text>Двинули дальше.</text>
+  </string>
+  <string id="st_esc_forestry_stalker_see_actor_start_check_anomaly_1">
+    <text>Эй, мужик, пошарься тут\nна предмет артефактов.</text>
+  </string>
+  <string id="st_esc_forestry_stalker_see_actor_start_check_anomaly_2">
+    <text>Не пойму: то ли\nу меня детектор не пашет,</text>
+  </string>
+  <string id="st_esc_forestry_stalker_see_actor_start_check_anomaly_3">
+    <text>то ли руки мои кривые шалят.</text>
+  </string>
+  <string id="st_esc_forestry_stalker_see_actor_artefacts_none_1">
+    <text>Ну даёшь, мужик!\nВсё, что было, вынес.</text>
+  </string>
+  <string id="st_esc_forestry_stalker_see_actor_artefacts_none_2">
+    <text>Будем куковать теперь тут,\nс кровососами.</text>
+  </string>
+  <string id="st_esc_sms_jurok_sound_2">
+    <text>Топор! Мы тут у костра решили водочки накатить. Подтягивайся!</text>
+  </string>
+  <string id="st_esc_subtitles_merc">
+    <text>Наёмник</text>
+  </string>
+  <string id="st_esc_shaiba_scientists_warning_1">
+    <text>Мужики, тут за АТП у летающих островков учёные с вояками что-то странное мутят.</text>
+  </string>
+  <string id="st_esc_shaiba_scientists_warning_2">
+    <text>Один яйцеголовый полез через телепорты устанавливать какой-то прибор в доме.</text>
+  </string>
+  <string id="st_esc_shaiba_scientists_warning_3">
+    <text>Не суйтесь лучше туда какое-то время.</text>
+  </string>
+  <string id="st_esc_jurok_buhoy_sleep_1">
+    <text>Отстань... Дай поспать...</text>
+  </string>
+  <string id="st_esc_jurok_buhoy_sleep_2">
+    <text>Дай же поспать-то!</text>
+  </string>
+  <string id="st_esc_jurok_buhoy_sleep_3">
+    <text>Отвали, это...</text>
+  </string>
+  <string id="st_esc_jurok_buhoy_sleep_4">
+    <text>Ну дай поспать!</text>
+  </string>
+  <string id="st_esc_jurok_buhoy_sleep_5">
+    <text>Ну дай поспать.</text>
+  </string>
+  <string id="st_esc_jurok_bye_1">
+    <text>До скорого!</text>
+  </string>
+  <string id="st_esc_jurok_bye_2">
+    <text>Ну давай, удачи тебе, Топор.</text>
+  </string>
+  <string id="st_esc_jurok_bye_gl">
+    <text>Ну давай, удачи тебе, Топор.</text>
+  </string>
+  <string id="st_esc_jurok_hello_1">
+    <text>Здорово, Топор!</text>
+  </string>
+  <string id="st_esc_jurok_hello_2">
+    <text>Привет, Топор!</text>
+  </string>
+  <string id="st_esc_jurok_hello_3">
+    <text>Здоров!</text>
+  </string>
+  <string id="st_esc_jurok_hello_4">
+    <text>Здоров. Какими судьбами?</text>
+  </string>
+  <string id="st_esc_jurok_perebral_1">
+    <text>Похоже, правда, перебрал.</text>
+  </string>
+  <string id="st_esc_jurok_perebral_2">
+    <text>Мужики, тащи его вниз.</text>
+  </string>
+  <string id="st_esc_jurok_perebral_3_cc">
+    <text>[резкая боль]</text>
+  </string>
+  <string id="st_esc_jurok_perebral_4">
+    <text>Похоже, палёнка оказалась.</text>
+  </string>
+  <string id="st_esc_jurok_perebral_5">
+    <text>Пойду я прилягу.</text>
+  </string>
+  <string id="st_esc_army_base_scientists_cancel_1">
+    <text>Дежурный, сообщите в штаб, что нужно отменить полевые работы:</text>
+  </string>
+  <string id="st_esc_army_base_scientists_cancel_2">
+    <text>нападение на блокпост!</text>
+  </string>
+  <string id="st_esc_mercs_task_scene_jurok_start_fire_1">
+    <text>Надо же. Не спят, ушлёпки!</text>
+  </string>
+  <string id="st_esc_mercs_task_scene_jurok_start_fire_2">
+    <text>Ну-ка бомбани по ним как следует, а?</text>
+  </string>
+  <string id="st_esc_mercs_task_scene_merc_leader_angry_1">
+    <text>Молчать!</text>
+  </string>
+  <string id="st_esc_mercs_task_scene_merc_leader_angry_2">
+    <text>Сколько надо,\nстолько и будем ждать.</text>
+  </string>
+  <string id="st_esc_mercs_task_scene_merc_leader_angry_3">
+    <text>Ещё раз вякнешь — палец вырву.</text>
+  </string>
+  <string id="st_esc_mercs_task_scene_merc_question">
+    <text>Ну сколько нам\nещё тут торчать?</text>
+  </string>
+  <string id="st_esc_mid_final_merc_leader_end_1">
+    <text>Ладно. Линяй отсюда.</text>
+  </string>
+  <string id="st_esc_mid_final_merc_leader_end_2">
+    <text>Но если соврёшь,\nняньчиться с тобой я уже не буду.</text>
+  </string>
+  <string id="st_esc_mid_final_merc_leader_start_1">
+    <text>Топор! Ну что же ты наделал, а?</text>
+  </string>
+  <string id="st_esc_mid_final_merc_leader_start_2">
+    <text>Убил своего друга!</text>
+  </string>
+  <string id="st_esc_mid_final_merc_leader_start_3">
+    <text>Да. Ты, упёртый баран,\nэто сделал!</text>
+  </string>
+  <string id="st_esc_mid_final_merc_leader_start_4">
+    <text>Отдал бы нам то,\nчто мы хотим, и всё!</text>
+  </string>
+  <string id="st_esc_mid_final_merc_leader_start_5">
+    <text>Но нет.</text>
+  </string>
+  <string id="st_esc_mid_final_merc_leader_start_6">
+    <text>Впрочем, куда ты теперь денешься?</text>
+  </string>
+  <string id="st_esc_scientist_1_actor_panic_1">
+    <text>Это вы зря. Не надо!</text>
+  </string>
+  <string id="st_esc_scientist_1_actor_panic_2">
+    <text>Товарищ! Одумайтесь.\nНе делайте этого!</text>
+  </string>
+  <string id="st_esc_scientist_1_fly_village_scene_1">
+    <text>Отлично. А что с пси-излучением\nвнутри гравитационного поля?</text>
+  </string>
+  <string id="st_esc_scientist_1_fly_village_scene_2">
+    <text>Всё, сворачиваемся.\nЯ закончил.</text>
+  </string>
+  <string id="st_esc_scientist_2_actor_panic_1">
+    <text>Молодой человек,\nзачем вам это всё? Не стреляйте!</text>
+  </string>
+  <string id="st_esc_scientist_2_actor_panic_2">
+    <text>Товарищ,\nне убивайте. Прошу!</text>
+  </string>
+  <string id="st_esc_scientist_2_fly_village_scene_1_1">
+    <text>Так, я набросал\nпримерный маршрут.</text>
+  </string>
+  <string id="st_esc_scientist_2_fly_village_scene_1_2">
+    <text>Если что-то пойдёт не так,\nмы вас поймаем, коллега.</text>
+  </string>
+  <string id="st_esc_scientist_2_fly_village_scene_2_1">
+    <text>Здесь всё в порядке.\nИзлучение стабильно и минимально.</text>
+  </string>
+  <string id="st_esc_scientist_2_fly_village_scene_2_2">
+    <text>Можете начинать.</text>
+  </string>
+  <string id="st_esc_scientist_2_fly_village_scene_3">
+    <text>Отлично.\nВыбирайтесь: телепорт рядом.</text>
+  </string>
+  <string id="st_esc_soldier_scientist_1_fly_village_danger">
+    <text>Пошевеливайтесь.\nЗдесь небезопасно.</text>
+  </string>
+  <string id="st_esc_stalker_car_help">
+    <text>Сталкер, помоги!</text>
+  </string>
+  <string id="st_esc_shaiba_bye_1">
+    <text>Ну, бывай.</text>
+  </string>
+  <string id="st_esc_shaiba_bye_2">
+    <text>Ну, давай.</text>
+  </string>
+  <string id="st_esc_shaiba_bye_3">
+    <text>Ну, счастливо.</text>
+  </string>
+  <string id="st_esc_shaiba_hello_1">
+    <text>Здорово.</text>
+  </string>
+  <string id="st_esc_shaiba_hello_2">
+    <text>Приветствую.</text>
+  </string>
+  <string id="st_esc_shaiba_hello_3">
+    <text>Здорово, сталкер.</text>
+  </string>
+  <string id="st_esc_task_for_trailer_attack_flesh_tonnel_final">
+    <text>Помогите!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_attack_shaiba_friend_1_danger">
+    <text>А-а!\nОтцепись, уродина!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_attack_shaiba_go_attack_1">
+    <text>Ни хрена себе.\nДа их там целое семейство!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_attack_shaiba_go_attack_2">
+    <text>Ну что, ребята,\nпостреляем отродье?</text>
+  </string>
+  <string id="st_esc_task_for_trailer_attack_shaiba_go_attack_3">
+    <text>Побежали!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_attack_shaiba_surge">
+    <text>Выброс!\nБежим к тоннелю, быстро!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_attack_shaiba_tonnel_final_1">
+    <text>Очнулся?\nНехило нас выбросом тряхануло.</text>
+  </string>
+  <string id="st_esc_task_for_trailer_attack_shaiba_tonnel_final_2">
+    <text>Откуда он только взялся?</text>
+  </string>
+  <string id="st_esc_task_for_trailer_attack_shaiba_tonnel_final_3">
+    <text>Нужно выбираться отсюда,\nа то и так столько ребят полегло.</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_scene_sounds_2">
+    <text>Помоги мне...</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_scene_sounds_3">
+    <text>Помоги!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_scene_sounds_4">
+    <text>Спаси!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_scene_sounds_5">
+    <text>Я здесь!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_scene_sounds_6">
+    <text>Я здесь!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_scene_sounds_7">
+    <text>Спаси...</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_scene_sounds_8">
+    <text>Помоги!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_1">
+    <text>Сталкер!</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_2">
+    <text>Эта плоть,\nона прикидывается раненым.</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_3">
+    <text>Я думал, тут кому-то нужна помощь.</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_4">
+    <text>Пошёл проверить, а тут их...</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_5">
+    <text>Она здесь не одна.\nТам, в низине за насыпью,</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_6">
+    <text>ещё...</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_7">
+    <text>сука, целое стадо.</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_8">
+    <text>Беги в деревню, расскажи нашим.</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_9">
+    <text>Сам видишь,\nсколько здесь уже трупов.</text>
+  </string>
+  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_10">
+    <text>С этими тварями надо расправиться.</text>
+  </string>
+  <string id="st_esc_trailer_elevator_flesh_fake_sound">
+    <text>Помогите!</text>
+  </string>
+  <string id="st_esc_trailer_elevator_flesh_fake_sound_1">
+    <text>Эй, кто-нибудь! Кто-нибудь!</text>
+  </string>
+  <string id="st_esc_trailer_elevator_flesh_fake_sound_2">
+    <text>Спасите!</text>
+  </string>
+  <string id="st_esc_trailer_elevator_flesh_fake_sound_3">
+    <text>Сталкер, помоги!</text>
+  </string>
+  <string id="st_esc_trailer_elevator_flesh_fake_sound_4_cc">
+    <text>[крик от боли]</text>
+  </string>
+  <string id="st_esc_trailer_elevator_flesh_fake_sound_5">
+    <text>Люди! Помираю...</text>
+  </string>
+  <string id="st_esc_trader_third_trailer_phrase">
+    <text>Иди, не мозоль глаза!</text>
+  </string>
+  <string id="st_esc_trader_bad_trade_1">
+    <text>Ты бы ещё\nконсервных банок насобирал!</text>
+  </string>
+  <string id="st_esc_trader_bad_trade_2">
+    <text>Нафига ты эту дрянь тягаешь?</text>
+  </string>
+  <string id="st_esc_trader_bad_trade_3">
+    <text>Что за бодягу ты мне приволок?</text>
+  </string>
+  <string id="st_esc_trader_bad_trade_4">
+    <text>Братан, ты не врубаешься?\nМне нужен реальный товар!</text>
+  </string>
+  <string id="st_esc_trader_bye_1">
+    <text>Иди, не мозоль глаза!</text>
+  </string>
+  <string id="st_esc_trader_bye_2">
+    <text>Ну, удачной охоты, сталкер!</text>
+  </string>
+  <string id="st_esc_trader_good_trade_1">
+    <text>Неплохо. Хороший товар!</text>
+  </string>
+  <string id="st_esc_trader_good_trade_2">
+    <text>Хорошо. Ну, будет ещё — заходи.</text>
+  </string>
+  <string id="st_esc_trader_good_trade_3">
+    <text>Молодец. Я доволен.</text>
+  </string>
+  <string id="st_esc_trader_good_trade_4">
+    <text>Вот так бы всегда!</text>
+  </string>
+  <string id="st_esc_trader_greet_1">
+    <text>Ну, здорово!</text>
+  </string>
+  <string id="st_esc_trader_greet_2">
+    <text>Вернулся?</text>
+  </string>
+  <string id="st_esc_trader_greet_3">
+    <text>Хабар принёс?</text>
+  </string>
+  <string id="st_esc_trader_greet_4">
+    <text>Есть что-то стоящее?</text>
+  </string>
+  <string id="st_esc_trader_greet_5">
+    <text>Что притащил?</text>
+  </string>
+  <string id="st_esc_trader_greet_6">
+    <text>Как дела, сталкер?</text>
+  </string>
+  <string id="st_esc_village_bad_outfit_angry_village">
+    <text>Шёл бы ты отсюда прям щас, а?</text>
+  </string>
+  <string id="st_esc_atp_bandits_angry_1_1">
+    <text>Слышишь, мужик,\nты будешь тут шариться —</text>
+  </string>
+  <string id="st_esc_atp_bandits_angry_1_2">
+    <text>так завалим.\nЭто как два пальца.</text>
+  </string>
+  <string id="st_esc_atp_bandits_angry_2">
+    <text>Ты тупой? Вали давай!</text>
+  </string>
+  <string id="st_esc_atp_bandits_angry_3">
+    <text>Ну, сам напросился.\nПацаны, вали его!</text>
+  </string>
+  <string id="st_esc_atp_bandits_angry_4">
+    <text>Ну, сам напросился.\nПацаны, вали его!</text>
+  </string>
+  <string id="st_esc_colonel_koval_help_info_1">
+    <text>Журавлёв, я вижу, ты неподалеку от Свалки.</text>
+  </string>
+  <string id="st_esc_colonel_koval_help_info_2">
+    <text>Бросай всё и дуй по координатам, которые я тебе сейчас сброшу на КПК.</text>
+  </string>
+  <string id="st_esc_colonel_koval_help_info_3">
+    <text>Там наш учёный попал в передрягу с местными бандитами.</text>
+  </string>
+  <string id="st_esc_colonel_koval_help_info_4">
+    <text>При нём очень дорогое оборудование, так что надо выручать.</text>
+  </string>
+  <string id="st_esc_soldier_hero_comment_bridge_corp_1">
+    <text>Вот дерьмо.</text>
+  </string>
+  <string id="st_esc_soldier_hero_comment_bridge_corp_2">
+    <text>Кто же тебя так, брат-сталкер?</text>
+  </string>
+  <string id="st_esc_jurok_surge_go_hide_1">
+    <text>Топор, дружище, намечается выброс. Срочно найди укрытие.</text>
+  </string>
+  <string id="st_esc_jurok_surge_go_hide_2">
+    <text>Друг, тут выброс намечается. Ищи укрытие, коли хочешь, чтоб жопа была цела.</text>
+  </string>
+  <string id="st_esc_jurok_surge_go_hide_3">
+    <text>Топор, скоро выброс. Ищи укрытие, пока не рвануло.</text>
+  </string>
+  <string id="st_esc_army_base_vova_vist_hello_1">
+    <text>Здоров.</text>
+  </string>
+  <string id="st_esc_army_base_vova_vist_hello_2">
+    <text>Чего тебе?</text>
+  </string>
+  <string id="st_esc_army_base_vova_vist_hello_3">
+    <text>Ну? Я слушаю.</text>
+  </string>
+  <string id="st_esc_composer_task_soldier_angry_1_1">
+    <text>Ну что, сталкерское отребье, допрыгались?</text>
+  </string>
+  <string id="st_esc_composer_task_soldier_angry_1_2">
+    <text>За нарушение целостности периметра Зоны Отчуждения — расстрел на месте!</text>
+  </string>
+  <string id="st_esc_composer_task_soldier_angry_2_1">
+    <text>Вот-те на!</text>
+  </string>
+  <string id="st_esc_composer_task_soldier_angry_2_2">
+    <text>Ну, раз код...</text>
+  </string>
+  <string id="st_esc_composer_task_soldier_angry_2_3">
+    <text>Отвести их на КПП!</text>
+  </string>
+  <string id="st_esc_composer_task_bandit_savior_code_1">
+    <text>Это, слышь чё, командир!</text>
+  </string>
+  <string id="st_esc_composer_task_bandit_savior_code_2">
+    <text>Код: ДР К 00 78 4529.</text>
+  </string>
+  <string id="st_esc_composer_task_bandit_savior_code_3">
+    <text>Повторяю: не стреляй!</text>
+  </string>
+  <string id="st_esc_composer_task_bandit_savior_code_4">
+    <text>Код: ДР К 00 78 4529.</text>
+  </string>
+  <string id="st_esc_composer_task_scientist_radio_1_1">
+    <text>Туров, приём!</text>
+  </string>
+  <string id="st_esc_composer_task_scientist_radio_1_2">
+    <text>На связи Смышлов, слышишь меня?</text>
+  </string>
+  <string id="st_esc_composer_task_scientist_radio_2">
+    <text>Я скоро приду к тебе в гости!</text>
+  </string>
+  <string id="st_esc_composer_task_scientist_radio_3_1">
+    <text>Подготовь пока устройство.</text>
+  </string>
+  <string id="st_esc_composer_task_scientist_radio_3_2">
+    <text>Скоро будем, конец связи.</text>
+  </string>
+  <string id="st_esc_composer_task_scientist_boss_radio_1">
+    <text>Слышу тебя, Смышлов. Что тебе нужно?</text>
+  </string>
+  <string id="st_esc_composer_task_scientist_boss_radio_2_1">
+    <text>Вот это да, наконец-то! Нам давно пора поговорить.</text>
+  </string>
+  <string id="st_esc_composer_task_scientist_boss_radio_2_2">
+    <text>Только давай без сюрпризов — мои люди и так на взводе.</text>
+  </string>
+  <string id="st_esc_maddyson_and_vova_vist_fight_record_1">
+    <text>Ну, хотя бы сквозь этот камень он не пробивает практически... я их вижу...</text>
+  </string>
+  <string id="st_esc_maddyson_and_vova_vist_fight_record_2">
+    <text>Жалко, что его не убить всё равно один хер...</text>
+  </string>
+  <string id="st_esc_actor_fake_final_1">
+    <text>И вот я снова дома...</text>
+  </string>
+  <string id="st_esc_actor_fake_final_2">
+    <text>Чернобыльская Зона Отчуждения смотрит на меня из монитора компьютера.</text>
+  </string>
+  <string id="st_esc_actor_fake_final_3">
+    <text>А мой образ амбициозного сталкера по прозвищу Топор остался теперь только на фотографии...</text>
+  </string>
+  <string id="st_esc_actor_fake_final_4">
+    <text>После того как мы с проводником чуть не погибли под обстрелами военных, в моей голове что-то щёлкнуло...</text>
+  </string>
+  <string id="st_esc_actor_fake_final_5">
+    <text>И я вдруг понял, что жизнь для меня гораздо важнее, чем загадки Чернобыля.</text>
+  </string>
+  <string id="st_esc_actor_fake_final_6">
+    <text>Может, я и струсил, но зато нахожусь в тёплой комнате, а не в радиоактивной канаве...</text>
+  </string>
+  <string id="st_esc_sms_jurok_actor_comeback_pda_1">
+    <text>Так-так-так! Кто это у нас тут засветился?</text>
+  </string>
+  <string id="st_esc_sms_jurok_actor_comeback_pda_2">
+    <text>Здорова, Топор! Какими судьбами в наших краях?</text>
+  </string>
+  <string id="st_esc_sms_jurok_actor_comeback_pda_3">
+    <text>Заглядывай в деревню, поболтаем!</text>
+  </string>
+  <string id="st_esc_true_sidor_actor_angry_village_pda_1">
+    <text>Что у вас там происходит?</text>
+  </string>
+  <string id="st_esc_true_sidor_actor_angry_village_pda_2">
+    <text>Придурок, ты прибор учёных в деревню притащил? Мозгов совсем нет!</text>
+  </string>
+  <string id="st_esc_true_sidor_actor_comeback_pda_1">
+    <text>Здорова, Топор!</text>
+  </string>
+  <string id="st_esc_true_sidor_actor_comeback_pda_2">
+    <text>Ну что, не ожидал меня услышать? Хе-хе-хе...</text>
+  </string>
+  <string id="st_esc_true_sidor_actor_comeback_pda_3">
+    <text>Значит, так. Если что, я на тебя не в обиде.</text>
+  </string>
+  <string id="st_esc_true_sidor_actor_comeback_pda_4">
+    <text>Если надо будет что-то прикупить или работу ищешь — </text>
+  </string>
+  <string id="st_esc_true_sidor_actor_comeback_pda_5">
+    <text>заходи в бункер, потолкуем.</text>
+  </string>
+  <string id="st_esc_true_sidor_actor_comeback_pda_6">
+    <text>Давай, до связи, салага.</text>
+  </string>
+</string_table>

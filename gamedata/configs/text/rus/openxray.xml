@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_loading_lights">
+    <text>Загрузка освещения</text>
+  </string>
+  <string id="st_client_connecting_to">
+    <text>Клиент: Соединение с</text>
+  </string>
+  <string id="st_client_spawning">
+    <text>Клиент: Создание</text>
+  </string>
+  <string id="st_client_synchronising">
+    <text>Клиент: Синхронизация</text>
+  </string>
+  <string id="st_creating_new_game">
+    <text>Создание новой игры</text>
+  </string>
+  <string id="ui_mm_always_active">
+    <text>ВСЕГДА АКТИВЕН</text>
+  </string>
+  <string id="ui_mm_detail_radius">
+    <text>ДАЛЬНОСТЬ ПРОРИСОВКИ ТРАВЫ</text>
+  </string>
+  <string id="ui_mm_ui_style">
+    <text>Стиль интерфейса</text>
+  </string>
+  <string id="ui_style_default">
+    <text>Зов Припяти</text>
+  </string>
+  <string id="ui_mm_loadingstages">
+    <text>Стадии загрузки</text>
+  </string>
+  <string id="renderer_gl">
+    <text>OPENGL</text>
+  </string>
+  <string id="ui_mm_r2_fxaa">
+    <text>СГЛАЖИВАНИЕ FXAA</text>
+  </string>
+  <string id="ui_mm_r2_smap_size">
+    <text>РАЗРЕШЕНИЕ ТЕНЕЙ</text>
+  </string>
+  <string id="ui_mm_r3_dynamic_wet_surfaces_opt">
+    <text>ОПТИМИЗАЦИЯ НАМОКАНИЯ</text>
+  </string>
+  <string id="ui_mm_r3_dynamic_wet_surfaces_near">
+    <text>НАМОКАНИЕ ВБЛИЗИ</text>
+  </string>
+  <string id="ui_mm_r3_dynamic_wet_surfaces_far">
+    <text>НАМОКАНИЕ ВДАЛИ</text>
+  </string>
+  <string id="ui_mm_r3_dynamic_wet_surfaces_sm_res">
+    <text>КАЧЕСТВО НАМОКАНИЯ</text>
+  </string>
+  <string id="ui_mm_fov">
+    <text>ПОЛЕ ЗРЕНИЯ</text>
+  </string>
+  <string id="ui_mm_localization">
+    <text>ЯЗЫК</text>
+  </string>
+  <string id="eng">
+    <text>АНГЛИЙСКИЙ</text>
+  </string>
+  <string id="fra">
+    <text>ФРАНЦУЗСКИЙ</text>
+  </string>
+  <string id="ger">
+    <text>НЕМЕЦКИЙ</text>
+  </string>
+  <string id="ita">
+    <text>ИТАЛЬЯНСКИЙ</text>
+  </string>
+  <string id="pol">
+    <text>ПОЛЬСКИЙ</text>
+  </string>
+  <string id="rus">
+    <text>РУССКИЙ</text>
+  </string>
+  <string id="ukr">
+    <text>УКРАЇНСЬКА</text>
+  </string>
+  <string id="spa">
+    <text>ИСПАНСКИЙ</text>
+  </string>
+</string_table>

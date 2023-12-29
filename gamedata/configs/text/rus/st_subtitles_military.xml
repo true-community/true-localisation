@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_mil_merc_leader_actor_relax_1">
+    <text>Вставай, легавый.\nСобирай свои извилинки с пола</text>
+  </string>
+  <string id="st_mil_merc_leader_actor_relax_2">
+    <text>и давай поболтаем.</text>
+  </string>
+  <string id="st_mil_merc_leader_talk_with_actor_1">
+    <text>Похитили?</text>
+  </string>
+  <string id="st_mil_merc_leader_talk_with_actor_1_cc">
+    <text>Похитили? [смех]</text>
+  </string>
+  <string id="st_mil_merc_leader_talk_with_actor_2">
+    <text>Он бежал от вас со скоростью света!</text>
+  </string>
+  <string id="st_mil_merc_leader_talk_with_actor_3">
+    <text>Ибо знал, что неблагодарное это дело,\nна правительство работать.</text>
+  </string>
+  <string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_1_1">
+    <text>Правильную? Ты же убийца!</text>
+  </string>
+  <string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_1_2">
+    <text>Ты убил людей в этом лагере\nи сталкера на Кордоне.</text>
+  </string>
+  <string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_1_3">
+    <text>И профессор, вы же похитили его?</text>
+  </string>
+  <string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_2">
+    <text>Кто вы такие?</text>
+  </string>
+  <string id="st_mil_mercs_corp_stalkers_hands_up">
+    <text>Поднять руки!\nВы пойдёте с нами!</text>
+  </string>
+  <string id="st_mil_mercs_corp_stalkers_threat">
+    <text>Шаг влево, шаг вправо —\nруку отрежу. Уяснили?</text>
+  </string>
+  <string id="st_mil_merc_leader_trolling_enemy">
+    <text>Какой грозный здоровяк!</text>
+  </string>
+  <string id="st_mil_merc_leader_trolling_enemy_cc">
+    <text>[смех] Какой грозный здоровяк!</text>
+  </string>
+  <string id="st_mil_mercs_corp_stalkers_stfu">
+    <text>Замолкни, а то\nпрямо здесь порешаем.</text>
+  </string>
+  <string id="st_mil_mercs_base_merc_1_start_battle_1">
+    <text>Ещё двоих привели.\nДумаю, можно начинать веселье.</text>
+  </string>
+  <string id="st_mil_mercs_base_merc_1_start_battle_2">
+    <text>Всё, давайте их в тоннели.</text>
+  </string>
+  <string id="st_mil_soldier_sky_connect_after_katamomb_1">
+    <text>Журавлёв, ты куда пропадал? Какое-то время от тебя совсем не было сигнала.</text>
+  </string>
+  <string id="st_mil_soldier_sky_connect_after_katamomb_2_1">
+    <text>Принял. Уже пакуем вещи.</text>
+  </string>
+  <string id="st_mil_soldier_sky_connect_after_katamomb_2_2">
+    <text>Только Коваля на связи нет.</text>
+  </string>
+  <string id="st_mil_actor_after_katakomb_connect_with_sky_1_1">
+    <text>Думаю, настало время\nнам всем встретиться.</text>
+  </string>
+  <string id="st_mil_actor_after_katakomb_connect_with_sky_1_2">
+    <text>Собирай отряд и дуйте в деревню\nторговца на Армейских складах.</text>
+  </string>
+  <string id="st_mil_actor_after_katakomb_connect_with_sky_1_3">
+    <text>Тут всё обсудим.</text>
+  </string>
+  <string id="st_mil_actor_after_katakomb_connect_with_sky_2">
+    <text>Коваль мёртв.\nПодробности при встрече.</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_actor_wake_up">
+    <text>Эй, командир, проснись!</text>
+  </string>
+  <string id="st_mil_soldier_xottab_base_start_go">
+    <text>Ну что, погнали?</text>
+  </string>
+  <string id="st_mil_soldier_xottab_base_anomaly_1">
+    <text>Аномалия!</text>
+  </string>
+  <string id="st_mil_soldier_xottab_base_anomaly_2">
+    <text>Здесь нам не забраться.</text>
+  </string>
+  <string id="st_mil_soldier_xottab_base_see_phantoms_1">
+    <text>А база точно заброшенная?</text>
+  </string>
+  <string id="st_mil_soldier_xottab_base_see_phantoms_2">
+    <text>Там прожектора горят, патрульные ходят...</text>
+  </string>
+  <string id="st_mil_soldier_xottab_base_angry_1">
+    <text>Опять нечистое что-то.</text>
+  </string>
+  <string id="st_mil_soldier_xottab_base_angry_2">
+    <text>Мать вашу!</text>
+  </string>
+  <string id="st_mil_soldier_xottab_base_go_back_1">
+    <text>Твою дивизию. Вы закончили?</text>
+  </string>
+  <string id="st_mil_soldier_xottab_base_go_back_2">
+    <text>Может, уже дёру дадим отсюда?!</text>
+  </string>
+  <string id="st_mil_soldier_xottab_base_scary">
+    <text>Жутковатое место.</text>
+  </string>
+  <string id="st_mil_soldier_xottab_actor_good_luck">
+    <text>Удачи, командир. Ни пуха!</text>
+  </string>
+  <string id="st_mil_actor_base_talk_with_xottab_reaction_1">
+    <text>Кажется, торговец это и имел в виду,\nкогда говорил про фантомов.</text>
+  </string>
+  <string id="st_mil_actor_base_talk_with_xottab_reaction_2">
+    <text>Выбора у нас нет.</text>
+  </string>
+  <string id="st_mil_actor_base_talk_with_xottab_reaction_3">
+    <text>Надо двигаться дальше.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_alarm_start">
+    <text>Тревога! Здесь враг!</text>
+  </string>
+  <string id="st_mil_army_base_soldier_boss_car_talk_1">
+    <text>Ну что там? Завёл?</text>
+  </string>
+  <string id="st_mil_army_base_soldier_boss_car_talk_2_1">
+    <text>Я ж тебе говорил,\nчтоб машина на ходу была.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_boss_car_talk_2_2">
+    <text>Я пешком до Дитяток\nплестись не собираюсь.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_boss_car_talk_2_3">
+    <text>Как хочешь, но заводи!</text>
+  </string>
+  <string id="st_mil_army_base_soldier_car_talk">
+    <text>Не получается, товарищ майор.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_fusillade_start_1">
+    <text>За продажу боеприпасов\nнашему врагу</text>
+  </string>
+  <string id="st_mil_army_base_soldier_fusillade_start_2">
+    <text>вы приговариваетесь\nк расстрелу.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_fusillade_start_3">
+    <text>Лейтенант, привести приговор\nв исполнение.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_post_angry_1">
+    <text>Рядовой Ищук, не спать!</text>
+  </string>
+  <string id="st_mil_army_base_soldier_post_angry_2">
+    <text>А то сейчас заставлю\nкруги вокруг базы наяривать.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_post_angry_3">
+    <text>В раз весь сон отобьёт.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_radar_talk_1">
+    <text>Выдвигаемся\nк антеннам завтра.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_radar_talk_2">
+    <text>Всем приказ: привести\nв порядок оружие, выспаться</text>
+  </string>
+  <string id="st_mil_army_base_soldier_radar_talk_3">
+    <text>и завтра как штык в четыре утра\nбыть на построении.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_radar_talk_4">
+    <text>Кто бы там ни был,\nих нужно оттуда выбить.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_radar_talk_5">
+    <text>А то возомнили о себе,\nпонимаешь, хозяев Зоны.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_radar_talk_6">
+    <text>Мы-то им покажем, кто тут хозяин.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_1_talk_1_1">
+    <text>Блин, зачем я только\nсюда приехал? За деньгами?</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_1_talk_1_2">
+    <text>Да нафига покойнику деньги-то?</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_1_talk_2_1">
+    <text>Три месяца...\nДа ты проживи эти три месяца ещё.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_1_talk_2_2">
+    <text>Из нашего состава\nсколько осталось? Пятеро?</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_1_talk_2_3">
+    <text>А сюда нас автобусами свозили.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_1_talk_2_4">
+    <text>Бежать надо.\nБежать и не оглядываться даже.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_2_talk_1">
+    <text>Успокойся!</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_2_talk_2">
+    <text>Ещё три месяца и домой.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_2_talk_3">
+    <text>Там ни радиации\nэтой проклятой нет,</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_2_talk_4">
+    <text>ни аномалий.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_sad_2_talk_5">
+    <text>Потерпи.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_tower_song_1">
+    <text>Я без тебя продолжу путь,</text>
+  </string>
+  <string id="st_mil_army_base_soldier_tower_song_2">
+    <text>сколь отвела судьба — не знаю...</text>
+  </string>
+  <string id="st_mil_army_base_soldier_tower_song_3">
+    <text>Я так хочу тебя вернуть,</text>
+  </string>
+  <string id="st_mil_army_base_soldier_tower_song_4">
+    <text>но не возможно — понимаю...</text>
+  </string>
+  <string id="st_mil_army_base_soldier_tower_song_final_cc">
+    <text>[напевает]</text>
+  </string>
+  <string id="st_phantom">
+    <text>Фантом</text>
+  </string>
+  <string id="st_mil_army_base_soldier_fusillade_corp_begs">
+    <text>Товарищ лейтенант, прошу, не надо!</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_actor_wake_up_compl">
+    <text>Быстро ты реагировал!</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_actor_wake_up_compl_cc">
+    <text>Быстро ты реагировал! [смех]</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_sky_bad_connect_1">
+    <text>Скай, у тебя всё в порядке?</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_sky_bad_connect_2">
+    <text>Скай, приём! Что случилось?</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_sky_bad_connect_3">
+    <text>Приём! Ответь, Скай!</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_go_quickly">
+    <text>Давайте по-быстрому пролетим это место. Здесь слишком жутко.</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_phantoms_ignore">
+    <text>Почему они на нас не реагируют? У меня мурашки от этого места!</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_actor_dist_1">
+    <text>Командир, не разбегаемся!</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_actor_dist_2">
+    <text>Эй, давай поближе к нам!</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_actor_dist_3">
+    <text>Ты где там потерялся? Давай сюда!</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_army_base_compl">
+    <text>Что-то я не доверяю этим краям. Нужно заканчивать с заданием и возвращаться на «Агропром».</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_army_base_panic">
+    <text>Твою мать... Что за чёрт?!</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_base_scary">
+    <text>Дружище, будь осторожнее! Меня от этой базы до сих пор в дрожь бросает!</text>
+  </string>
+  <string id="st_mil_soldier_sky_get_signals">
+    <text>Есть несколько мощных источников сигнала. Спускайся, прогуляемся их проверить.</text>
+  </string>
+  <string id="st_mil_soldier_sky_connection_compl">
+    <text>Пошла вода горячая, работает!</text>
+  </string>
+  <string id="st_mil_stalker_technic_actor_ladders_compl_1">
+    <text>Спасибо, мужик.</text>
+  </string>
+  <string id="st_mil_stalker_technic_actor_ladders_compl_2">
+    <text>Сейчас проверим одно место,</text>
+  </string>
+  <string id="st_mil_stalker_technic_actor_ladders_compl_3">
+    <text>и я буду готов ответить\nна любые твои вопросы.</text>
+  </string>
+  <string id="st_mil_stalker_technic_actor_ladders_info_1">
+    <text>В этой деревне\nесть несколько лестниц.</text>
+  </string>
+  <string id="st_mil_stalker_technic_actor_ladders_info_2">
+    <text>Будь так добр, принеси сюда одну</text>
+  </string>
+  <string id="st_mil_stalker_technic_actor_ladders_info_3">
+    <text>и вытащи меня отсюда.</text>
+  </string>
+  <string id="st_mil_stalker_technic_bye_1">
+    <text>Ну давай.\nЗаглядывай, если что.</text>
+  </string>
+  <string id="st_mil_stalker_technic_bye_2">
+    <text>Ну, бывай, дружище.</text>
+  </string>
+  <string id="st_mil_stalker_technic_bye_3">
+    <text>Ну, как говорится: попутного ветра в...\nВ общем, дружище, если приспичит — заходи.</text>
+  </string>
+  <string id="st_mil_stalker_technic_final_thanx_1">
+    <text>Ну, ни пуха тебе, братишка.</text>
+  </string>
+  <string id="st_mil_stalker_technic_final_thanx_2">
+    <text>И ещё раз спасибо. Выручил ты меня.</text>
+  </string>
+  <string id="st_mil_stalker_technic_hello_1">
+    <text>Здорово. Рад тебя видеть!</text>
+  </string>
+  <string id="st_mil_stalker_technic_hello_2">
+    <text>Ну, приветствую.\nДавай показывай, что у тебя там.</text>
+  </string>
+  <string id="st_mil_stalker_technic_hello_3">
+    <text>Валяй, мужик. Слушаю тебя.</text>
+  </string>
+  <string id="st_mil_stalker_technic_need_help_1">
+    <text>Народ, есть кто живой?\nПомогите мне!</text>
+  </string>
+  <string id="st_mil_stalker_technic_need_help_2">
+    <text>Твою мать.\nНеужели мне гнить в этом подвале?</text>
+  </string>
+  <string id="st_mil_stalker_technic_need_help_3">
+    <text>Эй! Люди! Есть кто живой?</text>
+  </string>
+  <string id="st_mil_stalker_technic_wait_actor_ladder_1">
+    <text>Ну где ты там потерялся?</text>
+  </string>
+  <string id="st_mil_stalker_technic_wait_actor_ladder_2">
+    <text>Друг, я тут долго\nне высижу. Помоги мне!</text>
+  </string>
+  <string id="st_mil_stalker_technic_wait_actor_ladder_3">
+    <text>Мужик, тащи сюда лестницу.\nМне уже не по себе.</text>
+  </string>
+  <string id="st_mil_stalker_technic_wait_actor_ladder_4">
+    <text>Эй! Мужик! Помоги мне!</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_warehouse_compl">
+    <text>Вроде всё. Не густо, конечно, но несколько ценностей нашёл.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_warehouse_info">
+    <text>Склад находится где-то там.</text>
+  </string>
+  <string id="st_mil_soldier_sky_fanatics_reaction">
+    <text>Интересно, как это сектанты проскочили мимо барьера?</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_start">
+    <text>Жутковато становится, правда?</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_long_dist_1">
+    <text>Мужик, давай держаться вместе.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_long_dist_2">
+    <text>Эй, сталкер, ты бы далеко не отходил.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_long_dist_3">
+    <text>Мужик, не отходи далеко. Давай держаться вместе.</text>
+  </string>
+  <string id="st_mil_stalker_technic_village_artefact_found">
+    <text>Мужик, ты видишь это? Ну и находка.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_unknowns_reaction_1">
+    <text>Твою мать, а это ещё кто такие?</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_unknowns_reaction_2">
+    <text>Не нравится мне всё это. Валить надо на хрен.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_drop_vodka_start">
+    <text>Слушай, а попробуй-ка ему бутылку кинуть.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_drop_vodka_wait_1">
+    <text>Не тормози. Брось ему пузырь.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_drop_vodka_wait_2">
+    <text>Ты тут до второго прихода торчать собрался? Друг, брось ему выпивку!</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_door_open">
+    <text>Ты гляди-ка, а дверь-то открылась. А ну залетай!</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_drop_vodka_none">
+    <text>Если нет пузыря, то подойди сюда: у меня это дело всегда имеется.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_drop_vodka_none_wait_1_1">
+    <text>Друг, подойди, у меня есть выпивка.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_drop_vodka_none_wait_1_2">
+    <text>Дашь этому кладовщику. Сам я не смогу.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_drop_vodka_none_wait_2">
+    <text>Возьми его водку, дай ему выпить. Мне стрёмно самому подойти.</text>
+  </string>
+  <string id="st_mil_stalker_technic_army_base_door_close">
+    <text>Твою мать, приехали. А дальше-то что делать?</text>
+  </string>
+  <string id="st_mil_stalker_technic_village_bloodsuckers_reaction">
+    <text>Ну и развелось тварей всяких. Жуть-то какая.</text>
+  </string>
+  <string id="st_mil_stalker_technic_village_electro_artefact_start">
+    <text>Так... Ну, сейчас глянем, что у нас тут.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_angry_1">
+    <text>Так, чего припёрся?</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_angry_2">
+    <text>Припасы?</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_angry_3">
+    <text>А приказ от полковника где?</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_angry_4">
+    <text>Ничего ты не получишь.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_angry_5">
+    <text>А если так хочешь,\nможем договориться.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_angry_6">
+    <text>Все же мы люди, верно?</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_want_vodka_1">
+    <text>Как же башка-то болит.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_want_vodka_2">
+    <text>Сейчас бы похмелиться... </text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_want_vodka_3_cc">
+    <text>[стон]</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_wait_vodka_1">
+    <text>Выпивки бы какой-нибудь сейчас...</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_wait_vodka_2">
+    <text>Мать вашу, уже всё горло пересохло.\nСпиртяжки бы сюда!</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_wait_vodka_3">
+    <text>Да уж...\nА похмелиться-то нечем.</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_wait_vodka_4">
+    <text>Вот же дрянь.\nОпять выпить нечего! Эх...</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_wait_vodka_5">
+    <text>Бутылочку бы, да под закусочку.\nВот радость бы была!</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_drunk_start_1">
+    <text>Наконец-то!</text>
+  </string>
+  <string id="st_mil_army_base_soldier_warehouse_drunk_start_2_cc">
+    <text>[выдох]</text>
+  </string>
+  <string id="st_mil_actor_talk_with_sky_psy_helm_compl">
+    <text>Отряд, двигайте к источнику!</text>
+  </string>
+  <string id="st_mil_soldier_sky_primary_info_1">
+    <text>Журавлёв, приём!</text>
+  </string>
+  <string id="st_mil_soldier_sky_primary_info_2">
+    <text>Я только что перехватил обрывки переговоров с того сигнала у вертолёта.</text>
+  </string>
+  <string id="st_mil_soldier_sky_primary_info_3">
+    <text>Весь разговор, к сожалению, я не услышал, но если вкратце:</text>
+  </string>
+  <string id="st_mil_soldier_sky_primary_info_4">
+    <text>они в курсе, что мы уже рядом, и спешно сматывают удочки.</text>
+  </string>
+  <string id="st_mil_soldier_sky_primary_info_5">
+    <text>У нас очень мало времени, если мы хотим их перехватить.</text>
+  </string>
+  <string id="st_mil_soldier_sky_actor_command_compl">
+    <text>Принял. Выдвигаемся!</text>
+  </string>
+  <string id="st_mil_soldier_sky_take_positions">
+    <text>Так, давайте займём удобные позиции\nи будем контролировать вход.</text>
+  </string>
+  <string id="st_mil_actor_heli_final_phrase">
+    <text>К чёрту!</text>
+  </string>
+  <string id="st_mil_soldier_sky_device_broken_1_1">
+    <text>Чёрт... а вот это совсем не вовремя.</text>
+  </string>
+  <string id="st_mil_soldier_sky_device_broken_1_2">
+    <text>Наше перехватывающее оборудование\nвышло из строя!</text>
+  </string>
+  <string id="st_mil_soldier_sky_device_broken_1_3">
+    <text>Чёрт его знает, что с ним!</text>
+  </string>
+  <string id="st_mil_soldier_sky_device_broken_2_1">
+    <text>Ребята, оставайтесь здесь\nи контролируйте вход. Я проверю.</text>
+  </string>
+  <string id="st_mil_soldier_sky_device_broken_2_2">
+    <text>Без такого козыря в рукаве\nнам сейчас оставаться нельзя.</text>
+  </string>
+  <string id="st_mil_merc_leader_mercs_attack_start_1">
+    <text>Сейчас вживую покажу тебе, что бывает с теми,</text>
+  </string>
+  <string id="st_mil_merc_leader_mercs_attack_start_2">
+    <text>кто переходит мне дорогу!</text>
+  </string>
+  <string id="st_mil_merc_leader_final_monolog_1">
+    <text>Больно?</text>
+  </string>
+  <string id="st_mil_merc_leader_final_monolog_2_cc">
+    <text>[цыкает]</text>
+  </string>
+  <string id="st_mil_merc_leader_final_monolog_3">
+    <text>Не утруждайся. Не надо ничего говорить!</text>
+  </string>
+  <string id="st_mil_merc_leader_final_monolog_4">
+    <text>Я знаю, что больно.</text>
+  </string>
+  <string id="st_mil_merc_leader_final_monolog_5">
+    <text>Не волнуйся: для твоего героя-дружка\nмы устроим не менее тёплый приём!</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_final_scene_phrase_1_1">
+    <text>Командир!</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_final_scene_phrase_1_2">
+    <text>Ты вернулся...</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_final_scene_phrase_1_3">
+    <text>К сожалению, ты сам всё видишь...</text>
+  </string>
+  <string id="st_mil_soldier_vuslich_final_scene_phrase_2">
+    <text>Они убили его.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_what_happened">
+    <text>Как? Что случилось?</text>
+  </string>
+  <string id="st_mil_actor_final_scene_big_mistake">
+    <text>Кажется, я совершил большую ошибку...</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_1">
+    <text>Если бы можно было\nвернуть время вспять,</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_2">
+    <text>я бы ни за что\nне отпустил профессора.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_3">
+    <text>Я бы заставил их ответить за всё,\nчто они сделали с моим другом</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_4">
+    <text>и невинными сталкерами.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_5">
+    <text>Какие бы цели не преследовала\nих организация,</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_6">
+    <text>они должны были\nпредстать перед законом.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_7">
+    <text>А Термит...</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_8">
+    <text>Его бы я не задумываясь\nскормил чернобыльским псам.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_9">
+    <text>С тех событий\nпрошло уже несколько лет.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_10">
+    <text>Мои попытки снова отыскать\nпрофессора, к сожалению,</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_11">
+    <text>не увенчались успехом.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_12">
+    <text>Моё бывшее руководство\nобъявило меня в розыск,</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_13">
+    <text>а группа окончательно распалась.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_14">
+    <text>Они так и не смогли\nпонять моё решение.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_15">
+    <text>С тех пор я вынужден\nскрываться в Зоне</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_first_end_16">
+    <text>и зарабатывать на жизнь\nсталкерством.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_second_end_1">
+    <text>Задание, которое поручил\nнашей группе полковник,</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_second_end_2">
+    <text>было выполнено.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_second_end_3">
+    <text>Мы не смогли сохранить жизнь\nпрофессора Дубинина,</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_second_end_4">
+    <text>но зато узнали всё\nо причинах его бегства.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_second_end_5">
+    <text>К сожалению, на задании\nпогиб наш друг,</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_second_end_6">
+    <text>а виновный в его смерти\nкаким-то образом смог скрыться.</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_second_end_7">
+    <text>Но мы не теряем надежды,</text>
+  </string>
+  <string id="st_mil_actor_final_scene_monolog_second_end_8">
+    <text>что Зона ещё даст возможность\nс ним расквитаться.</text>
+  </string>
+  <string id="st_gar_army_base_polygon_leader_start">
+    <text>Ну что, салаги, сейчас посмотрим, чему вы успели научиться за последний месяц!</text>
+  </string>
+  <string id="st_gar_army_base_polygon_leader_1">
+    <text>Зиновьев, очередями!</text>
+  </string>
+  <string id="st_gar_army_base_polygon_leader_2">
+    <text>Костылев, одиночными!</text>
+  </string>
+  <string id="st_gar_army_base_polygon_leader_3">
+    <text>Рубцов, теперь ты! Очередями!</text>
+  </string>
+  <string id="st_gar_army_base_polygon_leader_end">
+    <text>Эх, бездари... Вы что, вообще не просыхали, пока меня не было?! Марш оружие драить! Чтобы блестело всё, ясно?</text>
+  </string>
+  <string id="st_mil_trader_bye_1">
+    <text>Давай, до встречи.</text>
+  </string>
+  <string id="st_mil_trader_bye_2">
+    <text>Ну, пока.</text>
+  </string>
+  <string id="st_mil_trader_bye_3">
+    <text>Давай, ступай.</text>
+  </string>
+  <string id="st_mil_trader_bye_4">
+    <text>Береги себя, а то тут и так с клиентами туго.</text>
+  </string>
+  <string id="st_mil_trader_bye_5">
+    <text>Ну, давай. Заходи, если что.</text>
+  </string>
+  <string id="st_mil_trader_bye_6">
+    <text>Пивка б холодного, а не в вонючем бункере тут сидеть...</text>
+  </string>
+  <string id="st_mil_trader_bye_7">
+    <text>Как там в поговорке? Одна нога здесь, другая там. Ха-ха!\nА у меня рука: одна здесь, а другая там! Ха-ха!</text>
+  </string>
+  <string id="st_mil_trader_bye_8">
+    <text>335? Сейчас не понял...</text>
+  </string>
+  <string id="st_mil_trader_good_trade_1">
+    <text>Базар!</text>
+  </string>
+  <string id="st_mil_trader_good_trade_2">
+    <text>Пошла вода горячая!</text>
+  </string>
+  <string id="st_mil_trader_good_trade_3">
+    <text>Бери ещё пачку патронов сверху! Лишними не будут!</text>
+  </string>
+  <string id="st_mil_trader_good_trade_4">
+    <text>Давай, притаскивай ещё что-нибудь!</text>
+  </string>
+  <string id="st_mil_trader_good_trade_5">
+    <text>Всегда рад поторговать, приходи ещё!</text>
+  </string>
+  <string id="st_mil_trader_greet_1">
+    <text>Привет!</text>
+  </string>
+  <string id="st_mil_trader_greet_2">
+    <text>О, здарова!</text>
+  </string>
+  <string id="st_mil_trader_greet_3">
+    <text>Как дела, служивый?</text>
+  </string>
+  <string id="st_mil_trader_greet_4">
+    <text>Кого там опять несёт? Только пожрать хотел...</text>
+  </string>
+  <string id="st_mil_trader_greet_5">
+    <text>Так, сразу говорю: никаких «дайте в долг»!</text>
+  </string>
+  <string id="st_mil_trader_greet_6">
+    <text>Пойти пройтись, что ли... засиделся уже.</text>
+  </string>
+  <string id="st_mil_trader_greet_7">
+    <text>Жара-то какая, ёкалэмэнэ...</text>
+  </string>
+  <string id="st_mil_trader_greet_8">
+    <text>Ты покупать что-то? А то смотри, за товарами уже очередь!\nНе возьмешь сейчас — потом только соль для ружья останется!</text>
+  </string>
+  <string id="st_mil_trader_first_greet_pda_1">
+    <text>О!</text>
+  </string>
+  <string id="st_mil_trader_first_greet_pda_2">
+    <text>Ещё одно новое лицо в наших краях, заходи!</text>
+  </string>
+  <string id="st_mil_trader_first_greet_pda_3">
+    <text>Вещи, патроны, оружие, еда!</text>
+  </string>
+  <string id="st_mil_trader_first_greet_pda_4">
+    <text>Всё для сталкеров, да ещё и по низким ценам!</text>
+  </string>
+</string_table>
