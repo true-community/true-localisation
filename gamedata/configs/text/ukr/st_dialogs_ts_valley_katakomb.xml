@@ -1,224 +1,168 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="kat_unknown_stalker_wounded_dialog_0">
-		<text>Ух, сука...</text>
-	</string>
-
-	<string id="kat_unknown_stalker_wounded_dialog_1">
-		<text>Чоловіче! Ти цілий?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_wounded_dialog_2">
-		<text>Допоможи... Хріново капець...</text>
-	</string>
-
-	<string id="kat_unknown_stalker_wounded_dialog_3">
-		<text>Як допомогти? Що зробити?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_wounded_dialog_4">
-		<text>Та рану перев'язати допоможи! Кров плеще!</text>
-	</string>
-
-	<string id="kat_unknown_stalker_wounded_dialog_5">
-		<text>Зараз, потерпи секунду.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_0">
-		<text>Ох...</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_1">
-		<text>Ну що, краще?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_2">
-		<text>Житиму... Ти його бачив?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_3">
-		<text>Кого?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_4">
-		<text>Господаря! Він десь поряд. Я тікав від нього і на штир напоровся.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_5">
-		<text>Я чув чиїсь голоси. Це і є Господар?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_6">
-		<text>Він самий.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_7">
-		<text>Хто це такий? Хоча постривай, ти як взагалі тут опинився?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_8">
-		<text>Артефакти збирав, побачив пару, заліз, і тут почалося... Голова закрутилася, я в цих підземеллях заблукав. Взагалі не уявляю ні що це за місце, ні як звідси вибратися. Ось і шукаю вихід уже чорт знає скільки. А ти як тут?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_9">
-		<text>У стрілянину з бандитами встряв. Драпанув куди очі дивляться, а отямився вже тут... Потрібно вибиратися, дивне тут місце! Мало зомбованих з ярликами X-18, так ще й ці голоси. А хто такий Господар? Чому ти його так називаєш?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_10">
-		<text>Та тому, що за час, поки я тут блукав, ця істота ясно мені дала зрозуміти, хто тут господар. Він не випускає мене! Хотів би вбити  -  давно вбив би, але він немовби грається...</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_11">
-		<text>І що нам робити?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_12">
-		<text>Слухай, я бачив труп сталкера. Мабуть, він потрапив у цю пастку, як ми. У його передсмертній записці...</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_13">
-		<text>Оу, що з ним трапилося?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_14">
-		<text>Застрелився він. Мабуть, не витримав. Так от, у тій записці сказано, що Господар вимагав у нього якусь річ в обмін на волю. Тільки ось добратися до неї він чомусь не зміг. Ще з записки зрозуміло, що Господар  -  начебто звичайна людина, яка раніше жила у тутешніх краях. Хоча яка ж це людина, коли творить таке...</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_15">
-		<text>Що за річ йому потрібна?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_16">
-		<text>Торбинка якась. Що в ньому  -  незрозуміло. А знаходиться він у підземеллі цьому проклятому. Нам треба цю річ знайти, віддати та звалити звідси нах!</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_17">
-		<text>Згоден. І де шукатимемо?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_18">
-		<text>Я тут уже все оглянув. Поруч є місце, куди провалилася частина села із поверхні. Думаю, ця торбинка десь там.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_19">
-		<text>Тоді йдемо туди?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_20">
-		<text>Я не зможу. У мене кров ось тільки зупинилася, треба відсидітися. Я зараз мало кумекаю, а там аномалій купа, вляпаюсь неодмінно. Якщо не хочеш чекати, йди сам.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_dialog_21">
-		<text>Я не маю наміру стирчати тут ще довше. Піду один, чекай тут.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_wait_dialog_0">
-		<text>Ну що, дістав?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_wait_dialog_1_1">
-		<text>Дістав. Загалом, не втримався  -  прочитав записку і, здається, дещо почав розуміти.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_wait_dialog_1_2">
-		<text>Поки ні.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_wait_dialog_2">
-		<text>Це ти дарма...</text>
-	</string>
-
-	<string id="kat_unknown_stalker_wait_dialog_3">
-		<text>Що?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_0">
-		<text>Не варто було тобі читати записку.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_1">
-		<text>А в чому річ?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_2">
-		<text>Ще не вловив?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_3">
-		<text>Якого хріна, мужик? Це ти мене огрів?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_4">
-		<text>Я б відпустив тебе, але ти виявився занадто доскіпливий.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_5">
-		<text>Я нічого не розумію... Так ти... Це все ти?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_6">
-		<text>Так, я Господар. Отже, я вирішую, що робити з тими, хто сюди потрапляє.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_7">
-		<text>Я нічого поганого тобі не зробив. Я приніс твої речі. Такі були умови?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_8">
-		<text>Не хотів я, щоб ти щось дізнався, але тепер у тебе немає вибору.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_9">
-		<text>І як вчиниш? Як із тим, хто застрелився? Або як з тими бандитами, які полягли на раз два? Що ти таке? Звідки в тобі стільки злості?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_10">
-		<text>Це виключно заслуга сталкерів. Ви діти Зони. Ви її годуєте, а саме вона зробила мене таким. Вона і жадібні вчені, які начхали на все заради своїх досліджень.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_11">
-		<text>Що з тобою трапилося?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_12">
-		<text>Ми мирно жили тут, доки не з'явилися мерзотні представники влади й не влаштували тут свої дослідження. Вони просто під носом у нас будували лабораторії, а з селища почали зникати люди. Зрозуміло, нам це не сподобалось.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_13">
-		<text>Ви жили тут? Я думав, усіх евакуювали після аварії у вісімдесят шостому.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_14">
-		<text>Не всі були готові покинути рідний дім. Тут лишилися жити сотні людей, як і наше невеличке село. І жили б ми добре, і біс з нею, з радіацією, тільки потім сюди прийшли так звані найкращі голови. Почали тишком-нишком будувати підземний бункер з лабораторією, а тих, хто про це дізнавався, просто забирали... Ніхто не знав, що з цими людьми було потім, поки я сам туди не потрапив. Вони робили з нами моторошні речі. Хтось помирав від жахливих експериментів, хтось знаходив спосіб накласти на себе руки... а хтось перетворювався на незрозумілі, потворні створіння. Це було жахливо. І мене вони зробили таким. А там, поза цією смердючою лабораторією, у мене були дружина та донька. Гниди просто прийшли в наш дім, забрали наших людей і перетворили нас на тварин.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_15">
-		<text>Ти виглядаєш як звичайна людина...</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_16">
-		<text>Це не моя подоба. Вона тільки у твоїй голові.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_17">
-		<text>Може, ще можна щось зробити?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_18">
-		<text>Нічого вже не вдієш. Зараз я найбільше хочу знову побачити фотографію моєї доньки та прочитати відповідь, яку вона мені залишила.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_19">
-		<text>Мені шкода... Правда. Я міг би знайти твою доньку і передати їй відповідь. Хочеш?</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_20">
-		<text>Краще вже хай думає, що я мертвий, і не давати хибну надію. І тобі її давати я не буду. Живим ти звідси не втечеш  -  можеш не розраховувати на це, сволото! Якби не розумники, які лізуть туди, де на них не чекають, все було б добре. Тож, бувайте здорові, покійнику.</text>
-	</string>
-
-	<string id="kat_unknown_stalker_final_dialog_21">
-		<text>Тільки спробуй!</text>
-	</string>
-
+  <string id="kat_unknown_stalker_wounded_dialog_0">
+    <text>Ух, сука...</text>
+  </string>
+  <string id="kat_unknown_stalker_wounded_dialog_1">
+    <text>Чоловіче! Ти цілий?</text>
+  </string>
+  <string id="kat_unknown_stalker_wounded_dialog_2">
+    <text>Допоможи... Хріново капець...</text>
+  </string>
+  <string id="kat_unknown_stalker_wounded_dialog_3">
+    <text>Як допомогти? Що зробити?</text>
+  </string>
+  <string id="kat_unknown_stalker_wounded_dialog_4">
+    <text>Та рану перев'язати допоможи! Кров плеще!</text>
+  </string>
+  <string id="kat_unknown_stalker_wounded_dialog_5">
+    <text>Зараз, потерпи секунду.</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_0">
+    <text>Ох...</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_1">
+    <text>Ну що, краще?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_2">
+    <text>Житиму... Ти його бачив?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_3">
+    <text>Кого?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_4">
+    <text>Господаря! Він десь поряд. Я тікав від нього і на штир напоровся.</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_5">
+    <text>Я чув чиїсь голоси. Це і є Господар?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_6">
+    <text>Він самий.</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_7">
+    <text>Хто це такий? Хоча постривай, ти як взагалі тут опинився?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_8">
+    <text>Артефакти збирав, побачив пару, заліз, і тут почалося... Голова закрутилася, я в цих підземеллях заблукав. Взагалі не уявляю ні що це за місце, ні як звідси вибратися. Ось і шукаю вихід уже чорт знає скільки. А ти як тут?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_9">
+    <text>У стрілянину з бандитами встряв. Драпанув куди очі дивляться, а отямився вже тут... Потрібно вибиратися, дивне тут місце! Мало зомбованих з ярликами X-18, так ще й ці голоси. А хто такий Господар? Чому ти його так називаєш?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_10">
+    <text>Та тому, що за час, поки я тут блукав, ця істота ясно мені дала зрозуміти, хто тут господар. Він не випускає мене! Хотів би вбити  —  давно вбив би, але він немовби грається...</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_11">
+    <text>І що нам робити?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_12">
+    <text>Слухай, я бачив труп сталкера. Мабуть, він потрапив у цю пастку, як ми. У його передсмертній записці...</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_13">
+    <text>Оу, що з ним трапилося?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_14">
+    <text>Застрелився він. Мабуть, не витримав. Так от, у тій записці сказано, що Господар вимагав у нього якусь річ в обмін на волю. Тільки ось добратися до неї він чомусь не зміг. Ще з записки зрозуміло, що Господар  —  начебто звичайна людина, яка раніше жила у тутешніх краях. Хоча яка ж це людина, коли творить таке...</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_15">
+    <text>Що за річ йому потрібна?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_16">
+    <text>Торбинка якась. Що в ньому  —  незрозуміло. А знаходиться він у підземеллі цьому проклятому. Нам треба цю річ знайти, віддати та звалити звідси нах!</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_17">
+    <text>Згоден. І де шукатимемо?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_18">
+    <text>Я тут уже все оглянув. Поруч є місце, куди провалилася частина села із поверхні. Думаю, ця торбинка десь там.</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_19">
+    <text>Тоді йдемо туди?</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_20">
+    <text>Я не зможу. У мене кров ось тільки зупинилася, треба відсидітися. Я зараз мало кумекаю, а там аномалій купа, вляпаюсь неодмінно. Якщо не хочеш чекати, йди сам.</text>
+  </string>
+  <string id="kat_unknown_stalker_dialog_21">
+    <text>Я не маю наміру стирчати тут ще довше. Піду один, чекай тут.</text>
+  </string>
+  <string id="kat_unknown_stalker_wait_dialog_0">
+    <text>Ну що, дістав?</text>
+  </string>
+  <string id="kat_unknown_stalker_wait_dialog_1_1">
+    <text>Дістав. Загалом, не втримався  —  прочитав записку і, здається, дещо почав розуміти.</text>
+  </string>
+  <string id="kat_unknown_stalker_wait_dialog_1_2">
+    <text>Поки ні.</text>
+  </string>
+  <string id="kat_unknown_stalker_wait_dialog_2">
+    <text>Це ти дарма...</text>
+  </string>
+  <string id="kat_unknown_stalker_wait_dialog_3">
+    <text>Що?</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_0">
+    <text>Не варто було тобі читати записку.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_1">
+    <text>А в чому річ?</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_2">
+    <text>Ще не вловив?</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_3">
+    <text>Якого хріна, мужик? Це ти мене огрів?</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_4">
+    <text>Я б відпустив тебе, але ти виявився занадто доскіпливий.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_5">
+    <text>Я нічого не розумію... Так ти... Це все ти?</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_6">
+    <text>Так, я Господар. Отже, я вирішую, що робити з тими, хто сюди потрапляє.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_7">
+    <text>Я нічого поганого тобі не зробив. Я приніс твої речі. Такі були умови?</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_8">
+    <text>Не хотів я, щоб ти щось дізнався, але тепер у тебе немає вибору.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_9">
+    <text>І як вчиниш? Як із тим, хто застрелився? Або як з тими бандитами, які полягли на раз два? Що ти таке? Звідки в тобі стільки злості?</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_10">
+    <text>Це виключно заслуга сталкерів. Ви діти Зони. Ви її годуєте, а саме вона зробила мене таким. Вона і жадібні вчені, які начхали на все заради своїх досліджень.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_11">
+    <text>Що з тобою трапилося?</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_12">
+    <text>Ми мирно жили тут, доки не з'явилися мерзотні представники влади й не влаштували тут свої дослідження. Вони просто під носом у нас будували лабораторії, а з селища почали зникати люди. Зрозуміло, нам це не сподобалось.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_13">
+    <text>Ви жили тут? Я думав, усіх евакуювали після аварії у вісімдесят шостому.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_14">
+    <text>Не всі були готові покинути рідний дім. Тут лишилися жити сотні людей, як і наше невеличке село. І жили б ми добре, і біс з нею, з радіацією, тільки потім сюди прийшли так звані найкращі голови. Почали тишком-нишком будувати підземний бункер з лабораторією, а тих, хто про це дізнавався, просто забирали... Ніхто не знав, що з цими людьми було потім, поки я сам туди не потрапив. Вони робили з нами моторошні речі. Хтось помирав від жахливих експериментів, хтось знаходив спосіб накласти на себе руки... а хтось перетворювався на незрозумілі, потворні створіння. Це було жахливо. І мене вони зробили таким. А там, поза цією смердючою лабораторією, у мене були дружина та донька. Гниди просто прийшли в наш дім, забрали наших людей і перетворили нас на тварин.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_15">
+    <text>Ти виглядаєш як звичайна людина...</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_16">
+    <text>Це не моя подоба. Вона тільки у твоїй голові.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_17">
+    <text>Може, ще можна щось зробити?</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_18">
+    <text>Нічого вже не вдієш. Зараз я найбільше хочу знову побачити фотографію моєї доньки та прочитати відповідь, яку вона мені залишила.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_19">
+    <text>Мені шкода... Правда. Я міг би знайти твою доньку і передати їй відповідь. Хочеш?</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_20">
+    <text>Краще вже хай думає, що я мертвий, і не давати хибну надію. І тобі її давати я не буду. Живим ти звідси не втечеш  —  можеш не розраховувати на це, сволото! Якби не розумники, які лізуть туди, де на них не чекають, все було б добре. Тож, бувайте здорові, покійнику.</text>
+  </string>
+  <string id="kat_unknown_stalker_final_dialog_21">
+    <text>Тільки спробуй!</text>
+  </string>
 </string_table>

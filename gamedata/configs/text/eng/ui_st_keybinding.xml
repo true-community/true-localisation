@@ -1,284 +1,213 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <string_table>
-
-	<string id="kb_active_jobs">
-		<text>TASK LIST</text>
-	</string>
-
-	<string id="kb_alife_command">
-		<text>ORDER TO ATTACK</text>
-	</string>
-
-	<string id="kb_always_run">
-		<text>WALK</text>
-	</string>
-
-	<string id="kb_artefact">
-		<text>ARTIFACT</text>
-	</string>
-
-	<string id="kb_backward">
-		<text>BACK</text>
-	</string>
-
-	<string id="kb_binoculars">
-		<text>BINOCULARS</text>
-	</string>
-
-	<string id="kb_console">
-		<text>CONSOLE</text>
-	</string>
-
-	<string id="kb_contacts">
-		<text>CONTACTS</text>
-	</string>
-
-	<string id="kb_crouch">
-		<text>CROUCH</text>
-	</string>
-
-	<string id="kb_crouch_toggle">
-		<text>TOGGLE CROUCH</text>
-	</string>
-
-	<string id="kb_detector">
-		<text>DETECTOR</text>
-	</string>
-
-	<string id="kb_down">
-		<text>DOWN</text>
-	</string>
-
-	<string id="kb_drop">
-		<text>DROP</text>
-	</string>
-
-	<string id="kb_fire">
-		<text>FIRE</text>
-	</string>
-
-	<string id="kb_firemode_next">
-		<text>NEXT FIRING MODE</text>
-	</string>
-
-	<string id="kb_firemode_prev">
-		<text>PREVIOUS FIRING MODE</text>
-	</string>
-
-	<string id="kb_forward">
-		<text>FORWARD</text>
-	</string>
-
-	<string id="kb_func">
-		<text>UNDERBARREL GRENADE LAUNCHER</text>
-	</string>
-
-	<string id="kb_grp_all">
-		<text>_</text>
-	</string>
-
-	<string id="kb_grp_common">
-		<text>GENERAL</text>
-	</string>
-
-	<string id="kb_grp_direction">
-		<text>DIRECTION</text>
-	</string>
-
-	<string id="kb_grp_inventory">
-		<text>INVENTORY</text>
-	</string>
-
-	<string id="kb_grp_movement">
-		<text>MOVEMENT</text>
-	</string>
-
-	<string id="kb_grp_weapons">
-		<text>WEAPON</text>
-	</string>
-
-	<string id="kb_inventory">
-		<text>BACKPACK</text>
-	</string>
-
-	<string id="kb_jump">
-		<text>JUMP</text>
-	</string>
-
-	<string id="kb_left">
-		<text>LEFT</text>
-	</string>
-
-	<string id="kb_left_lookout">
-		<text>LEAN LEFT</text>
-	</string>
-
-	<string id="kb_left_strafe">
-		<text>STRAFE LEFT</text>
-	</string>
-
-	<string id="kb_current_task">
-		<text>CURRENT TASK</text>
-	</string>
-
-	<string id="kb_map">
-		<text>MAP</text>
-	</string>
-
-	<string id="kb_notes">
-		<text>NOTES</text>
-	</string>
-
-	<string id="kb_encyclopedia">
-		<text>ENCYCLOPEDIA</text>
-	</string>
-
-	<string id="kb_next_slot">
-		<text>NEXT WEAPON</text>
-	</string>
-
-	<string id="kb_night_vision">
-		<text>NIGHT VISION</text>
-	</string>
-
-	<string id="kb_pause">
-		<text>PAUSE</text>
-	</string>
-
-	<string id="kb_pda">
-		<text>PDA</text>
-	</string>
-
-	<string id="kb_prev_slot">
-		<text>PREVIOUS WEAPON</text>
-	</string>
-
-	<string id="kb_quit">
-		<text>BACK</text>
-	</string>
-
-	<string id="kb_reload">
-		<text>RELOAD</text>
-	</string>
-
-	<string id="kb_repair">
-		<text>REPAIR</text>
-	</string>
-
-	<string id="kb_right">
-		<text>RIGHT</text>
-	</string>
-
-	<string id="kb_right_lookout">
-		<text>LEAN RIGHT</text>
-	</string>
-
-	<string id="kb_right_strafe">
-		<text>STRAFE RIGHT</text>
-	</string>
-
-	<string id="kb_screenshot">
-		<text>SCREENSHOT</text>
-	</string>
-
-	<string id="kb_sprint">
-		<text>RUN</text>
-	</string>
-
-	<string id="kb_torch">
-		<text>HEADLAMP</text>
-	</string>
-
-	<string id="kb_wpn_kick">
-		<text>BAYONET STRIKE</text>
-	</string>
-
-	<string id="kb_wpn_laser">
-		<text>LASER DESIGNATOR</text>
-	</string>
-
-	<string id="kb_wpn_torch">
-		<text>TACTICAL FLASHLIGHT</text>
-	</string>
-
-	<string id="kb_turn_engine">
-		<text>ACTIVATE</text>
-	</string>
-
-	<string id="kb_up">
-		<text>UP</text>
-	</string>
-
-	<string id="kb_use">
-		<text>USE</text>
-	</string>
-
-	<string id="kb_use_bandage">
-		<text>QUICK BANDAGE</text>
-	</string>
-
-	<string id="kb_use_medkit">
-		<text>QUICK MEDKIT</text>
-	</string>
-
-	<string id="kb_weapon1">
-		<text>KNIFE</text>
-	</string>
-
-	<string id="kb_weapon2">
-		<text>PISTOL</text>
-	</string>
-
-	<string id="kb_weapon3">
-		<text>SECONDARY WEAPON</text>
-	</string>
-
-	<string id="kb_weapon4">
-		<text>PRIMARY WEAPON</text>
-	</string>
-
-	<string id="kb_weapon5">
-		<text>GRENADE</text>
-	</string>
-
-	<string id="kb_weapon6">
-		<text>BINOCULARS</text>
-	</string>
-
-	<string id="kb_weapon7">
-		<text>BOLT</text>
-	</string>
-
-	<string id="kb_wpn_next">
-		<text>CHANGE AMMO TYPE</text>
-	</string>
-
-	<string id="kb_wpn_prev">
-		<text>PREVIOUS WEAPON</text>
-	</string>
-
-	<string id="kb_zoom">
-		<text>ZOOM</text>
-	</string>
-
-	<string id="kb_quick_use_1">
-		<text>QUICK ACCESS 1</text>
-	</string>
-
-	<string id="kb_quick_use_2">
-		<text>QUICK ACCESS 2</text>
-	</string>
-
-	<string id="kb_quick_use_3">
-		<text>QUICK ACCESS 3</text>
-	</string>
-
-	<string id="kb_quick_use_4">
-		<text>QUICK ACCESS 4</text>
-	</string>
-
-	<string id="kb_quick_use_5">
-		<text>QUICK ACCESS 5</text>
-	</string>
-
+  <string id="kb_active_jobs">
+    <text>TASK LIST</text>
+  </string>
+  <string id="kb_alife_command">
+    <text>ORDER TO ATTACK</text>
+  </string>
+  <string id="kb_always_run">
+    <text>WALK</text>
+  </string>
+  <string id="kb_artefact">
+    <text>ARTIFACT</text>
+  </string>
+  <string id="kb_backward">
+    <text>BACK</text>
+  </string>
+  <string id="kb_binoculars">
+    <text>BINOCULARS</text>
+  </string>
+  <string id="kb_console">
+    <text>CONSOLE</text>
+  </string>
+  <string id="kb_contacts">
+    <text>CONTACTS</text>
+  </string>
+  <string id="kb_crouch">
+    <text>CROUCH</text>
+  </string>
+  <string id="kb_crouch_toggle">
+    <text>TOGGLE CROUCH</text>
+  </string>
+  <string id="kb_detector">
+    <text>DETECTOR</text>
+  </string>
+  <string id="kb_down">
+    <text>DOWN</text>
+  </string>
+  <string id="kb_drop">
+    <text>DROP</text>
+  </string>
+  <string id="kb_fire">
+    <text>FIRE</text>
+  </string>
+  <string id="kb_firemode_next">
+    <text>NEXT FIRING MODE</text>
+  </string>
+  <string id="kb_firemode_prev">
+    <text>PREVIOUS FIRING MODE</text>
+  </string>
+  <string id="kb_forward">
+    <text>FORWARD</text>
+  </string>
+  <string id="kb_func">
+    <text>UNDERBARREL GRENADE LAUNCHER</text>
+  </string>
+  <string id="kb_grp_all">
+    <text>_</text>
+  </string>
+  <string id="kb_grp_common">
+    <text>GENERAL</text>
+  </string>
+  <string id="kb_grp_direction">
+    <text>DIRECTION</text>
+  </string>
+  <string id="kb_grp_inventory">
+    <text>INVENTORY</text>
+  </string>
+  <string id="kb_grp_movement">
+    <text>MOVEMENT</text>
+  </string>
+  <string id="kb_grp_weapons">
+    <text>WEAPON</text>
+  </string>
+  <string id="kb_inventory">
+    <text>BACKPACK</text>
+  </string>
+  <string id="kb_jump">
+    <text>JUMP</text>
+  </string>
+  <string id="kb_left">
+    <text>LEFT</text>
+  </string>
+  <string id="kb_left_lookout">
+    <text>LEAN LEFT</text>
+  </string>
+  <string id="kb_left_strafe">
+    <text>STRAFE LEFT</text>
+  </string>
+  <string id="kb_current_task">
+    <text>CURRENT TASK</text>
+  </string>
+  <string id="kb_map">
+    <text>MAP</text>
+  </string>
+  <string id="kb_notes">
+    <text>NOTES</text>
+  </string>
+  <string id="kb_encyclopedia">
+    <text>ENCYCLOPEDIA</text>
+  </string>
+  <string id="kb_next_slot">
+    <text>NEXT WEAPON</text>
+  </string>
+  <string id="kb_night_vision">
+    <text>NIGHT VISION</text>
+  </string>
+  <string id="kb_pause">
+    <text>PAUSE</text>
+  </string>
+  <string id="kb_pda">
+    <text>PDA</text>
+  </string>
+  <string id="kb_prev_slot">
+    <text>PREVIOUS WEAPON</text>
+  </string>
+  <string id="kb_quit">
+    <text>BACK</text>
+  </string>
+  <string id="kb_reload">
+    <text>RELOAD</text>
+  </string>
+  <string id="kb_repair">
+    <text>REPAIR</text>
+  </string>
+  <string id="kb_right">
+    <text>RIGHT</text>
+  </string>
+  <string id="kb_right_lookout">
+    <text>LEAN RIGHT</text>
+  </string>
+  <string id="kb_right_strafe">
+    <text>STRAFE RIGHT</text>
+  </string>
+  <string id="kb_screenshot">
+    <text>SCREENSHOT</text>
+  </string>
+  <string id="kb_sprint">
+    <text>RUN</text>
+  </string>
+  <string id="kb_torch">
+    <text>HEADLAMP</text>
+  </string>
+  <string id="kb_wpn_kick">
+    <text>BAYONET STRIKE</text>
+  </string>
+  <string id="kb_wpn_laser">
+    <text>LASER DESIGNATOR</text>
+  </string>
+  <string id="kb_wpn_torch">
+    <text>TACTICAL FLASHLIGHT</text>
+  </string>
+  <string id="kb_turn_engine">
+    <text>ACTIVATE</text>
+  </string>
+  <string id="kb_up">
+    <text>UP</text>
+  </string>
+  <string id="kb_use">
+    <text>USE</text>
+  </string>
+  <string id="kb_use_bandage">
+    <text>QUICK BANDAGE</text>
+  </string>
+  <string id="kb_use_medkit">
+    <text>QUICK MEDKIT</text>
+  </string>
+  <string id="kb_weapon1">
+    <text>KNIFE</text>
+  </string>
+  <string id="kb_weapon2">
+    <text>PISTOL</text>
+  </string>
+  <string id="kb_weapon3">
+    <text>SECONDARY WEAPON</text>
+  </string>
+  <string id="kb_weapon4">
+    <text>PRIMARY WEAPON</text>
+  </string>
+  <string id="kb_weapon5">
+    <text>GRENADE</text>
+  </string>
+  <string id="kb_weapon6">
+    <text>BINOCULARS</text>
+  </string>
+  <string id="kb_weapon7">
+    <text>BOLT</text>
+  </string>
+  <string id="kb_wpn_next">
+    <text>CHANGE AMMO TYPE</text>
+  </string>
+  <string id="kb_wpn_prev">
+    <text>PREVIOUS WEAPON</text>
+  </string>
+  <string id="kb_zoom">
+    <text>ZOOM</text>
+  </string>
+  <string id="kb_quick_use_1">
+    <text>QUICK ACCESS 1</text>
+  </string>
+  <string id="kb_quick_use_2">
+    <text>QUICK ACCESS 2</text>
+  </string>
+  <string id="kb_quick_use_3">
+    <text>QUICK ACCESS 3</text>
+  </string>
+  <string id="kb_quick_use_4">
+    <text>QUICK ACCESS 4</text>
+  </string>
+  <string id="kb_quick_use_5">
+    <text>QUICK ACCESS 5</text>
+  </string>
 </string_table>
