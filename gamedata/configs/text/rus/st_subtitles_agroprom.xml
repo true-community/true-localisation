@@ -1,1768 +1,1326 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="st_agr_anomaly_task_scene_stalker_1_phrase_1">
-		<text>Ну и как мы его\nдоставать теперь будем?</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_1_phrase_2_1">
-		<text>Ага. Вон один уже придумал.</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_1_phrase_2_2">
-		<text>Просторы космоса изучает.</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_1_phrase_3_1">
-		<text>Ага, а что я-то?</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_1_phrase_3_2">
-		<text>Вот сам бери да лезь!</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_1">
-		<text>Не кипишуй.\nЩа что-нибудь придумаем.</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_1">
-		<text>Ну и чё ты предлагаешь?</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_2">
-		<text>Просто бросить артефакт?</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_3">
-		<text>Там такая цаца лежит,\nникогда такого не видал!</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_4">
-		<text>Нехило наваримся, братан!</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_5">
-		<text>Так что давай.\nЯ бросаю болты,</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_6">
-		<text>ты лезешь в аномалию.</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_3">
-		<text>У тебя комбез новее.\nВыдержит, если что.</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_4_1">
-		<text>Так, тихо.</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_4_2">
-		<text>Тут кто-то есть.</text>
-	</string>
-
-	<string id="st_agr_anomaly_task_scene_stalker_2_phrase_5">
-		<text>Вон там!</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_talk_with_koval_1">
-		<text>Это что, всё?</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_talk_with_koval_2_1">
-		<text>Совсем печально.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_talk_with_koval_2_2">
-		<text>Я-то думал,\nраз там места нетронутые,</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_talk_with_koval_2_3">
-		<text>побольше куш можно сорвать.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_talk_with_koval_3_1">
-		<text>Ладно, вот твоя доля.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_talk_with_koval_3_2">
-		<text>Будь на связи.</text>
-	</string>
-
-	<string id="st_agr_diggers_case_phrase_1_1">
-		<text>Похоже, у нас проблемы.</text>
-	</string>
-
-	<string id="st_agr_diggers_case_phrase_1_2">
-		<text>Надо спуститься организовать\nоборону от наёмников.</text>
-	</string>
-
-	<string id="st_agr_diggers_case_phrase_1_3">
-		<text>Делаем так: ты идёшь помогать\nк западному входу,</text>
-	</string>
-
-	<string id="st_agr_diggers_case_phrase_1_4">
-		<text>а я к восточному.</text>
-	</string>
-
-	<string id="st_agr_diggers_case_phrase_1_5">
-		<text>Всё, бегом!</text>
-	</string>
-
-	<string id="st_agr_diggers_case_phrase_2">
-		<text>Понял. Я мигом!</text>
-	</string>
-
-	<string id="st_agr_diggers_info_safe_open_1">
-		<text>Сейф открыт. Документы пропали!</text>
-	</string>
-
-	<string id="st_agr_diggers_info_safe_open_2">
-		<text>Командир, сейф открыт. Документов нету!</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_cover_phrase_1_2">
-		<text>Иди, иди, сталкер.</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_cover_phrase_1_2">
-		<text>Дальше мы сами разберёмся.</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_cover_phrase_2_1">
-		<text>Не мозоль глаза.</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_cover_phrase_2_2">
-		<text>Тебе что, в паруса дунуть,\nчтоб ты отсюда уплыл?</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_cover_phrase_3_1">
-		<text>М-да. На глаза попал калека.</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_cover_phrase_3_2">
-		<text>Всем мешает, мозга нету.</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_robbery_1">
-		<text>Ну здравствуй, Топорик! А мы тебя ждали, брат. Думал, всё, спёр кейс и можешь смело рассекать по Зоне? Думал что, с рук сойдёт?</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_robbery_2">
-		<text>Короче, убивать мы тебя не будем. Просто заберём то, что нам причитается за кейс. И ещё, мы тут подумали: ...</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_robbery_3">
-		<text>... достанешь нам ствол в подземке - отпустим, а не достанешь - всё, топорище вырвем!</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_robbery_final">
-		<text>Всё, можешь проваливать.</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_start_meet">
-		<text>Здравствуй, сталкер.\nКакими судьбами?</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_thanx_1">
-		<text>Спасибо за информацию.</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_thanx_2">
-		<text>Мы примем к сведению,\nа ты ступай.</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_thanx_3">
-		<text>Нам надо готовиться\nк отражению атаки.</text>
-	</string>
-
-	<string id="st_agr_diggers_leader_threat">
-		<text>Ну держись, ублюдок!</text>
-	</string>
-
-	<string id="st_agr_diggers_passage_1_1">
-		<text>Мортик, тут какой-то сталкер\nк тебе пришёл.</text>
-	</string>
-
-	<string id="st_agr_diggers_passage_1_2">
-		<text>Говорит, что-то срочное. Пропустить?</text>
-	</string>
-
-	<string id="st_agr_diggers_passage_2_1">
-		<text>Мортик, тут какой-то сталкер\nк нам завалился.</text>
-	</string>
-
-	<string id="st_agr_diggers_passage_2_2">
-		<text>Говорит, что-то срочное. Пропустить?</text>
-	</string>
-
-	<string id="st_agr_diggers_passage_leader">
-		<text>Ну пропусти. Посмотрим, что там у него.</text>
-	</string>
-
-	<string id="st_agr_diggers_abuse">
-		<text>Чтобы больше здесь не появлялся, гнида!</text>
-	</string>
-
-	<string id="st_agr_diggers_case_phrase_3">
-		<text>Начальник, я не вижу кейса. Кажется, его спёрли.</text>
-	</string>
-
-	<string id="st_agr_diggers_case_phrase_4_1">
-		<text>Володя, ёб твою мать!</text>
-	</string>
-
-	<string id="st_agr_diggers_case_phrase_4_2">
-		<text>Это тот сталкер, по всей видимости!</text>
-	</string>
-
-	<string id="st_agr_diggers_case_phrase_4_3">
-		<text>Чёрт. Теперь с концами!</text>
-	</string>
-
-	<string id="st_agr_diggers_threat_1_1">
-		<text>Э, сталкер!</text>
-	</string>
-
-	<string id="st_agr_diggers_threat_1_2">
-		<text>Лучше иди отсюда подальше.</text>
-	</string>
-
-	<string id="st_agr_diggers_threat_1_3">
-		<text>Ничего интересного\nдля тебя здесь нет.</text>
-	</string>
-
-	<string id="st_agr_diggers_threat_2_1">
-		<text>Эй, мужик,\nчеши-ка ты отсюда подальше!</text>
-	</string>
-
-	<string id="st_agr_diggers_threat_2_2">
-		<text>Нечего тебе тут делать.</text>
-	</string>
-
-	<string id="st_agr_diggers_volodya_cover_phrase_1">
-		<text>Сталкер, предупредил —\nтеперь иди.</text>
-	</string>
-
-	<string id="st_agr_diggers_volodya_cover_phrase_2">
-		<text>Ещё под горячую руку попадёшь!</text>
-	</string>
-
-	<string id="st_agr_diggers_volodya_threat">
-		<text>Ну держись, выродок!</text>
-	</string>
-
-	<string id="st_agr_drunk_medic_sleep_use_1">
-		<text>А? Что?..</text>
-	</string>
-
-	<string id="st_agr_drunk_medic_sleep_use_2">
-		<text>Слышь, да иди ты...\nДай поспать, а?</text>
-	</string>
-
-	<string id="st_agr_drunk_medic_sleep_use_3">
-		<text>Отстань. Дай поспать...</text>
-	</string>
-
-	<string id="st_age_heli_radio_1">
-		<text>- 815-й, это база, как обстановка?\n- База, это 815-й, всё тихо, проходим «Боровик», расчётное время прибытия две минуты.\n- Понял вас, 815-й, посадку разрешаю.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_koval_talk_with_colonel_1">
-		<text>Что торговец отстегнул,\nто у вас и на руках.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_koval_talk_with_colonel_2_1">
-		<text>У меня было\nне так много времени</text>
-	</string>
-
-	<string id="st_agr_scientists_base_koval_talk_with_colonel_2_2">
-		<text>на поиски артефактов.\nУж извините.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_koval_talk_with_colonel_actor_hello">
-		<text>Приветствую.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_1_talk_1_1">
-		<text>Я глубоко убеждён,\nчто кровососов стоит относить к псионикам.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_1_talk_1_2">
-		<text>Только так можно\nобъяснить их невидимость.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_1_talk_1_3">
-		<text>Они просто внушают это\nсвоим жертвам.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_1_talk_2_1">
-		<text>Да-да, и в этом же докладе\nпрофессор назвал эту особь</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_1_talk_2_2">
-		<text>тупиковой веткой эволюции\nи генетическим мусором.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_1_talk_2_3">
-		<text>Не особо-то я и доверяю\nэтим древним исследованиям.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_1_talk_2_4">
-		<text>Уже давно пора\nпровести повторные опыты,</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_1_talk_2_5">
-		<text>чтобы раз и навсегда\nпрояснить данный вопрос.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_1_talk_2_6">
-		<text>Вот бы притащить в комплекс\nживого кровососа.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_1_talk_2_7">
-		<text>Тогда бы мы точно\nсмогли всё о нём узнать!</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_2_talk_1_1">
-		<text>Хм. Вы меня, конечно, извините,\nно это полный бред.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_2_talk_1_2">
-		<text>Доклады профессора Сахарова\nпредельно ясно гласят:</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_2_talk_1_3">
-		<text>кровососы выделяют особенную слизь,\nкоторая делает их невидимками.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_2_talk_1_4">
-		<text>Они ж проводили вскрытие!</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_scientist_2_talk_2">
-		<text>Сомневаюсь, что начальство...</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_vuslich_talk_1">
-		<text>Да что ты на них орёшь? Пусть болтают. А то опять будут жаловаться, что мы им грубим и мешаем работать.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_xottab_talk_1_1">
-		<text>Да вы заткнётесь сегодня?</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_xottab_talk_1_2">
-		<text>Башка от вас уже трещит.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_xottab_talk_2_1">
-		<text>Пусть болтают у себя в кабинете,</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_xottab_talk_2_2">
-		<text>а Зона тишину любит.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_xottab_talk_2_3">
-		<text>Будешь орать, так точно\nкакой-нибудь кровосос выбежит.</text>
-	</string>
-
-	<string id="st_agr_otzimani_vuslich_hello">
-		<text>О, командир, здорова!</text>
-	</string>
-
-	<string id="st_agr_otzimani_vuslich_talk">
-		<text>93... 94... 95... Ну давай, давай шустрее, наелся тушёнки, еле двигаешься!</text>
-	</string>
-
-	<string id="st_agr_otzimani_xottab_talk">
-		<text>Если бы ты ещё помалкивал,\nбыло бы проще!</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_actor_angry">
-		<text>Мужики, давайте потише там, а?</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_1_1">
-		<text>Ну, приходим мы на место, а эти ботаники\nвстали как вкопанные и говорят:</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_1_2">
-		<text>давайте вы первые, разведаете тут всё,\nа потом мы уже оборудование своё расставим.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_2_1">
-		<text>Ну я и говорю: мы вас до постройки довели - дальше сами.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_2_2">
-		<text>Не наша забота, сами туда и лезьте.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_2_3">
-		<text>Не, ну а что, я не прав, что ли?</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_3_1">
-		<text>Ну а учёный ляпнул: кто в здание войдёт - гарантирую прибавку.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_3_2">
-		<text>Алифан как это услышал - автомат за спину и полез.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_4_1">
-		<text>Я говорю: стой, дурак! Болт хоть кинь!</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_4_2">
-		<text>Он уже одной ногой там был,\nно болты достал, раскидал по сторонам.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_4_3">
-		<text>Вроде всё чисто было.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_5_1">
-		<text>Я ещё у себя в голове прокрутил, типа, во я дурак,\nсейчас бы прибавку получил,</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_5_2">
-		<text>хоть семье бы что отправил...</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_5_3">
-		<text>и тут бац!</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_6_1">
-		<text>Ну, короче, залез он туда.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_6_2">
-		<text>Поворачивается к нам, говорит:\nвсе нормально, можете заходить.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_6_3">
-		<text>Учёные только шаг делают,\nа Алифан на глазах рассыпается на кости...</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_7_1">
-		<text>Мы хватаем ученых и назад!\nГоворю: идите вы в жопу.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_7_2">
-		<text>Если хотите - оставайтесь, а мы валим.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_7_3">
-		<text>И вот черт её знает, что это там такое было?</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_8_1">
-		<text>Вроде как ботаник говорил, временная аномалия.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_8_2">
-		<text>Зайдешь в такую - в миг постареешь.</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_8_3">
-		<text>А в том здании так и валяется теперь броня,\nкости и ствол этого вояки...</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_9_1">
-		<text>Да уж. А ещё слышали?</text>
-	</string>
-
-	<string id="st_agr_soldier_true_story_part_9_2">
-		<text>Идём мы как-то с научниками об дорогу на Свалке...</text>
-	</string>
-
-	<string id="st_agr_scientists_base_stalker_technic_bye_1">
-		<text>Лёгкой дороги!</text>
-	</string>
-
-	<string id="st_agr_scientists_base_stalker_technic_bye_2">
-		<text>Бывай, брат!</text>
-	</string>
-
-	<string id="st_agr_scientists_base_stalker_technic_hello_1">
-		<text>Честным людям моё почтение!</text>
-	</string>
-
-	<string id="st_agr_scientists_base_stalker_technic_hello_2">
-		<text>Здорово, брат!</text>
-	</string>
-
-	<string id="st_agr_scientists_base_stalker_trader_bye_1">
-		<text>Если не нашёл, чего искал, извиняй.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_stalker_trader_bye_2">
-		<text>Заходи попозже.\nМожет, разживусь чем к тому времени.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_stalker_trader_bye_3">
-		<text>Приятно иметь дело\nс честным сталкером.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_stalker_trader_hello_1">
-		<text>Выбирай, сталкер, что тебе нужно.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_stalker_trader_hello_2">
-		<text>Что могу предложить?</text>
-	</string>
-
-	<string id="st_agr_scientists_base_stalker_trader_hello_3">
-		<text>Есть что-то на продажу?</text>
-	</string>
-
-	<string id="st_agr_tonnel_scientist_1_material_1">
-		<text>Вот так повезло.</text>
-	</string>
-
-	<string id="st_agr_tonnel_scientist_1_material_2">
-		<text>Это же столько\nгенетического материала!</text>
-	</string>
-
-	<string id="st_agr_tonnel_scientist_1_material_3">
-		<text>Нам сегодня\nточно будет чем заняться.</text>
-	</string>
-
-	<string id="st_agr_tonnel_soldier_1_see_actor_1">
-		<text>Шеф, вижу движение впереди.</text>
-	</string>
-
-	<string id="st_agr_tonnel_soldier_1_see_actor_2">
-		<text>Какой-то одиночка, направляется в нашу сторону.</text>
-	</string>
-
-	<string id="st_agr_tonnel_soldier_1_see_actor_3">
-		<text>Держу его на мушке.</text>
-	</string>
-
-	<string id="st_agr_tonnel_soldier_boss_start">
-		<text>Отставить. Это наш. Только интересно, что он тут забыл.</text>
-	</string>
-
-	<string id="st_agr_tonnel_soldier_1_see_dogs">
-		<text>Шеф, в нашу сторону бежит большая стая собак!</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_hello_1">
-		<text>Приветствую, Журавлёв.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_hello_2">
-		<text>Что там у тебя, Журавлёв?</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_hello_3">
-		<text>Рассказывай, с чем пришёл.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_bye_1">
-		<text>Если ещё понадобишься,\nя с тобой свяжусь.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_bye_2">
-		<text>До связи.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_bye_3">
-		<text>Давай.\nБудешь нужен - я маякну.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_colonel_good_luck">
-		<text>Удачи вам, парни.\nВся надежда на вас.</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_hello_1">
-		<text>Ну, привет.</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_hello_2">
-		<text>Здоров, командир. Как оно?</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_hello_3">
-		<text>Ну, выкладывай.</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_hello_4">
-		<text>Говори, друг. Чего у тебя там?</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_hello_5">
-		<text>Чего у тебя там? Выкладывай.</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_bye_1">
-		<text>До связи!</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_bye_2">
-		<text>Попутного ветра!</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_bye_3">
-		<text>Давай, удачи!</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_bye_4">
-		<text>Бывай!</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_bye_5">
-		<text>Давай, увидимся!</text>
-	</string>
-
-	<string id="st_agr_heli_start_1">
-		<text>815-й, это база. Как обстановка?</text>
-	</string>
-
-	<string id="st_agr_heli_start_2">
-		<text>База, это 815-й. Всё тихо, проходим Боровик. Расчётное время прибытия — две минуты.</text>
-	</string>
-
-	<string id="st_agr_heli_start_3">
-		<text>Понял вас, 815-й. Посадку разрешаю.</text>
-	</string>
-
-	<string id="st_agr_mid_final_scene_colonel_message">
-		<text>Журавлёв, зайди ко мне, как вернёшься. Есть разговор.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_scientist_task_start_1">
-		<text>Молодой человек, я слышал, Вы меня искали.</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_task_start_2">
-		<text>Я буду со своим отрядом неподалёку от комплекса.</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_task_start_3">
-		<text>Подходите, пообщаемся.</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_task_second_1">
-		<text>Здравствуйте. Я изучил принесённые Вами записи.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_scientist_task_second_2">
-		<text>Есть серьёзный разговор.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_scientist_task_second_3">
-		<text>Подходите к тому же месту, где виделись вчера — поговорим.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_scientist_hello_1">
-		<text>Приветствую, сталкер.</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_hello_gas_1">
-		<text>Приветствую, сталкер.</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_hello_2">
-		<text>Чем могу быть полезен?</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_hello_gas_2">
-		<text>Чем могу быть полезен?</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_hello_3">
-		<text>Слушаю, сталкер.</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_hello_gas_3">
-		<text>Слушаю, сталкер.</text>
-	</string>
-
-	<string id="st_agr_scientists_base_scientist_bye_1">
-		<text>До встречи.</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_bye_gas_1">
-		<text>До встречи.</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_bye_2">
-		<text>Успехов.</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_bye_gas_2">
-		<text>Успехов.</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_bye_3">
-		<text>Попутного ветра!</text>
-	</string>	
-
-	<string id="st_agr_scientists_base_scientist_bye_gas_3">
-		<text>Попутного ветра!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_give_me_access_1">
-		<text>Бомбы? Нет, нет, мой дорогой, это не бомба!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_give_me_access_2">
-		<text>Это хуже! Вам ничего делать и не нужно.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_give_me_access_3">
-		<text>Просто дайте мне полный доступ к вашему КПК и положите его на коробку.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_give_me_access_4">
-		<text>Мне нужно две минуты.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_1">
-		<text>Я стабилизировал устройство.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_2">
-		<text>Теперь можно открыть крышку и отсоединить блоки друг от друга.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_3">
-		<text>Просто отсоедините провода.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_4">
-		<text>Как только это будет сделано, вы втроём можете взять по одному блоку.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_5">
-		<text>Таким образом, станете более мобильны, а устройство вам не сможет навредить.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_6">
-		<text>Возможно, вы почувствуете лёгкое головокружение и боль в затылке.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_7">
-		<text>Не волнуйтесь, это временный эффект.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_8">
-		<text>Как только груз будет доставлен, вы почувствуете себя лучше.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_9">
-		<text>Я буду вас ждать на Кордоне.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_10">
-		<text>Помните: нельзя находиться рядом с блоками больше восьми часов.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_instruction_info_11">
-		<text>Так что, пожалуйста, поторопитесь!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_panic_1_1">
-		<text>Боже, быстрей!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_panic_1_2">
-		<text>Нужно стабилизировать устройство, пока положение не ухудшилось!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_panic_2_1">
-		<text>Ну вот, началось... какие, к чёрту, погодите?!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_panic_2_2">
-		<text>Вы жить хотите? Тогда живо делайте что говорю!</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_bird_scientist_connect_1">
-		<text>Смышлов, говорит Птаха!</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_bird_scientist_connect_2">
-		<text>Ваши люди постреляли друг друга.\nОни мертвы, ящик у меня.</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_bird_scientist_connect_3">
-		<text>Рядом со мной стоят два сталкера и утверждают,\nчто они товарищи тех, кто нёс груз.</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_bird_scientist_ok_1">
-		<text>Хорошо, ладно, убедили!</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_bird_scientist_ok_2">
-		<text>Я не умею бомбы обезвреживать. Что делать-то?</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_scientist_stop">
-		<text>Эй, папаша, погодите...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_warn_1">
-		<text>Сталкер, это Туров. Советую вернуть груз, он принадлежит мне.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_warn_2">
-		<text>Если не хочешь проблем, передай груз моим людям.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_1_1">
-		<text>Визирь, благодарю.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_1_2">
-		<text>Дайте мне пообщаться с этими людьми.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_1_3">
-		<text>А вы пока отдохните,\nно одного человека оставьте здесь.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_2_1">
-		<text>Вы, молодой человек, сильно так не эмоционируйте.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_2_2">
-		<text>Нервные клетки... они, знаете ли, не восстанавливаются.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_2_3">
-		<text>А вам ещё жить да жить.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_2_4">
-		<text>Если, конечно, решения будете принимать правильные.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_3_1">
-		<text>Ну наконец-то перешли к конкретике.\nНе люблю я словоблудие.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_3_2">
-		<text>А теперь по порядку.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_3_3">
-		<text>Этот, как вы выразились, ящик...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_3_4">
-		<text>Ничто иное, как прототип мобильной пси-установки.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_4">
-		<text>Ну если хотите, то можно и испытуемыми побыть.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_5_1">
-		<text>Так вот. Вы уже познакомились с моим коллегой Смышловым.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_5_2">
-		<text>Надо сказать ему спасибо, что стабилизировал установку.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_5_3">
-		<text>Вообще-то мы с ним давно вели работу над эти устройством.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_5_4">
-		<text>Но, как у многих учёных, у нас были разные подходы к делу.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_5_5">
-		<text>Понятно изъясняюсь?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_6_1">
-		<text>Мда...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_6_2">
-		<text>Надеялся, что на пальцах не придётся объяснять.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_6_3">
-		<text>Ладно, не в первый раз.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_6_4">
-		<text>Выжигатель генерирует излучение пси-поля,\nкоторое пагубно действует на организм человека.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_6_5">
-		<text>У кого-то просто конвульсии,\nкто-то рассудка лишится, а кто-то умирает.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_6_6">
-		<text>Но кто сказал, что генерировать пси-поле может\nтолько выжигатель или контролёр?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_6_7">
-		<text>Так вот, мы с профессором Смышловым создали\nпортативный прибор, который генерирует пси-излучение.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_6_8">
-		<text>Но последствия воздействия у этого излучения совершенно иные.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_6_9">
-		<text>Теперь понятно?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_7_1">
-		<text>До чего же тёмный народ это сталкерское племя...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_7_2">
-		<text>Ты им про сталелитейный завод, про перспективы...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_7_3">
-		<text>А они тебе: огонь - это бо-бо, обжечься можно, страшно!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_7_4">
-		<text>Ничего дальше своего носа не видите.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_8_1">
-		<text>Вы даже не представляете,\nкакие безграничные возможности даёт этот проект!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_8_2">
-		<text>С его помощью можно...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_8_3">
-		<text>Ай, да что я вам говорю!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_8_4">
-		<text>Цель - не только понять природу пси-излучения,\nно и контролировать его.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_8_5">
-		<text>Обуздать эту энергию на нужды человечества!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_8_6">
-		<text>Имея такой прибор, любой учёный сможет обезопасить себя\nво время исследований от любой угрозы!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_8_7">
-		<text>Будь то мутанты, зомби или банально непрошеные гости!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_8_8">
-		<text>А охранять учёного будут лояльные,\nабсолютно контролируемые вооружённые люди.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_9_1">
-		<text>Как зачем?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_9_2">
-		<text>Помочь науке строить светлое будущее!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_10_1">
-		<text>Конечно, можете.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_10_2">
-		<text>Вы пока что в здравом уме и,\nнасколько это возможно, в твёрдой памяти.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_10_3">
-		<text>Только вот...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_11_1">
-		<text>Как я и говорил, создали этот\nприбор мы со Смышловым вдвоём.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_11_2">
-		<text>Я отвечал за инженерную часть, а он - за сердечник.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_11_3">
-		<text>Ту часть, без которой излучатель не функционирует.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_11_4">
-		<text>Во время одного из испытаний Смышлов пренебрёг\nтехникой безопасности и сам попал под излучение.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_11_5">
-		<text>И теперь у него навязчивая идея о том, что я буду\nиспользовать устройство в корыстных и даже опасных целях.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_11_6">
-		<text>И это только начало.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_11_7">
-		<text>Дальше параноидальный синдром у Смышлова\nбудет только прогрессировать.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_11_8">
-		<text>А я всё-таки исследователь.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_11_9">
-		<text>Я хочу продолжать изучать пси-излучение.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_11_10">
-		<text>Во что бы то ни стало.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_12">
-		<text>Ваша задача - забрать у Смышлова\nоставшиеся документы для создания устройства.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_13_1">
-		<text>У меня есть чертежи устройства,</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_13_2">
-		<text>но вот как синтезировать главный его компонент я не знаю.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_13_3">
-		<text>Но зато я точно знаю, что если во время\nэкспериментов что-то пойдёт не так,</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_13_4">
-		<text>и сердечник пси-излучателя выйдет из строя...</text>
-	</string>
-	 
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_13_5">
-		<text>Это затормозит меня на месяцы.</text>
-	</string>
-	 
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_13_6">
-		<text>А может, и навсегда.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_13_7">
-		<text>Смышлов хоть и поехал крышей,\nно всё-таки выдающийся учёный.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_14_1">
-		<text>Я уже пробовал.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_14_2">
-		<text>Этот болван втемяшил себе в голову, что я хочу\nс помощью пси-излучателя контролировать и людей, и мутантов.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_15_1">
-		<text>Я понимаю, что до вас ещё не дошло,\nпочему мы начали этот проект.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_15_2">
-		<text>Но если вы мне окажете содействие, то я с помощью излучателя\nсмогу поправить ментальное здоровье Смышлова.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_15_3">
-		<text>После этого, как и раньше, работая сообща,\nмы проведём новый виток испытаний.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_15_4">
-		<text>Столько нужно понять и успеть...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_16_1">
-		<text>Господин Птаха!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_16_2">
-		<text>Вообще-то перед тем как идти к Смышлову,\nмне нужно сделать два замера.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_16_3">
-		<text>А в этом вы сможете помочь Топору и Куче.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_17_1">
-		<text>Значит, так.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_17_2">
-		<text>Раз вы такие все принципиальные, поступим следующим образом.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_17_3">
-		<text>Вы идёте и выполняете то, что я попрошу,\nи получаете хороший гонорар.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_17_4">
-		<text>Либо господин Визирь вспомнит о безвременной кончине своего человека,\nв которой виноват господин Куча.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_17_5">
-		<text>А дальше последствия сами сможете вообразить.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_18_1">
-		<text>Я же сказал: нужно замерить.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_18_2">
-		<text>Замерять будете пси-излучение.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_18_3">
-		<text>Вот прибор для замера.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_18_4">
-		<text>Сначала идёте по этим координатам\nи замеряете первое пси-поле.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_18_5">
-		<text>А это координаты, где последний раз\nбыла проявлена активность контролёра.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_18_6">
-		<text>Замеряете и там тоже.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_18_7">
-		<text>После чего возвращаетесь ко мне.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_19_1">
-		<text>Не драматизируйте.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_19_2">
-		<text>И вообще: быстрее начнёте - быстрее закончите.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_19_3">
-		<text>Тем более, Визирь будет  за вами издалека приглядывать.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_captive_scene_20">
-		<text>Визирь, верните этим господам их вещи и оружие.</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_leader_captive_greet_1">
-		<text>Ну привет, что ли, Д'артаньян.</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_leader_captive_greet_2">
-		<text>Я смотрю, у тебя теперь мушкетёры есть.\nСмотри-ка, мал клоп да вонюч!</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_leader_captive_greet_3">
-		<text>По-хорошему, вас бы троих тут и положить\nза пацана моего, Гриню, да за потраченное время.</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_leader_captive_greet_4">
-		<text>Но Туров сказал что вы ещё нужны ему живыми,\nтак что пошли.</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_leader_captive_greet_5">
-		<text>А кто будет выпендриваться,\nтому свинцовый артефакт в затылок положу.</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_leader_captive_greet_6">
-		<text>Вопросы будут?</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_leader_captive_greet_7">
-		<text>Вот и правильно!</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_leader_captive_greet_8">
-		<text>Парни, заберите у наших гостей оружие.\nОно им без надобности.</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_leader_captive_scene_1">
-		<text>Хы... за ваши деньги любые капризы, профессор!</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_captive_scene_1_1">
-		<text>Ба, да что это делается?</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_captive_scene_1_2">
-		<text>Шо не встречный-поперечный, то профессор!</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_captive_scene_1_3">
-		<text>Вам шо, совсем бабла не платят в институтах,\nчто аж в Зону попёрлись?</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_captive_scene_2_1">
-		<text>Я ж говорил тебе, сталкер, что этот Птаха мутный.</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_captive_scene_2_2">
-		<text>Голубь толстомордый...</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_captive_scene_3_1">
-		<text>Ёптыть, приплыли...</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_captive_scene_3_2">
-		<text>Мы шо теперь, крысы подопытные?</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_captive_scene_4">
-		<text>Спасибо, но я лучше водочкой обжабаюсь до розовых кровососов!</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_captive_scene_5_1">
-		<text>Мне шо то «просто Мария», шо то «Разыня Ибаура».</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_captive_scene_5_2">
-		<text>Понятно мыслю развернул? Врубился?</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_bird_captive_scene_1_1">
-		<text>Эй, профессор. Зачем мы вам?</text>
-	</string>	
-
-	<string id="st_agr_composer_task_stalker_bird_captive_scene_1_2">
-		<text>Давайте разойдемся каждый своей дорогой,\nя этих двух даже не знаю.</text>
-	</string>	
-
-	<string id="st_agr_composer_task_stalker_bird_captive_scene_2">
-		<text>Ну началось!</text>
-	</string>	
-
-	<string id="st_agr_composer_task_stalker_bird_captive_scene_3_1">
-		<text>Туров, я вижу что с этим справятся эти двое,\nкроме того, ещё у вас и Визирь есть.</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_bird_captive_scene_3_2">
-		<text>Спасибо за рассказ, я пошёл!</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_bird_captive_scene_4_1">
-		<text>Да блин...</text>
-	</string>	
-
-	<string id="st_agr_composer_task_stalker_bird_captive_scene_4_2">
-		<text>Вот же мразь, это что ж за невезуха-то такая...</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_1_1">
-		<text>Можно уже перестать ходить вокруг да около? </text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_1_2">
-		<text>Объясните нам наконец, что вы вообще хотите от нас?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_1_3">
-		<text>И что за чертовщина творится с этим ящиком?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_2_1">
-		<text>Не совсем.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_2_2">
-		<text>Вам что, выжигателя мало было?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_3">
-		<text>И какова цель вашего проекта?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_4_1">
-		<text>Где-то я подобные изречения уже слышал, и всё пошло по...</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_4_2">
-		<text>В общем, нехорошо всё пошло.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_4_3">
-		<text>Профессор, но вы нам так и не ответили.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_4_4">
-		<text>Зачем мы здесь?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_5_1">
-		<text>А можно как-то без этих туманностей Андромеды в ответах?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_5_2">
-		<text>Мы отдали вам ваш драгоценный прибор и можем теперь идти?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_5_3">
-		<text>Ваши люди нас отпустят?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_6_1">
-		<text>Профессор, вы меня в конец запутали...</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_6_2">
-		<text>У вас же уже есть устройство, которое мы притащили.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_6_3">
-		<text>Зачем вам ещё и документы?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_7_1">
-		<text>Так поговорите с ним напрямую.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_7_2">
-		<text>Вы ж всё-таки друзья, коллеги!</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_7_3">
-		<text>Вдруг помиритесь?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_8_1">
-		<text>Судя по тому, что уже несколько человек\nиз-за работы этой фиговины перестреляли друг друга,</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_8_2">
-		<text>то вообще бы ваш проект прикрыл к чёрту!</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_9_1">
-		<text>Э, стоп.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_9_2">
-		<text>Мы про какие-то там замеры не договаривались.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_9_3">
-		<text>Это вообще всё не наша возня, сами разбирайтесь!</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_9_4">
-		<text>Птаха верно подметил: у вас есть люди для этой работы.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_10_1">
-		<text>Чёрт с вами. Что делать надо?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_10_2">
-		<text>Только не говорите, что очередную калибровку.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_11_1">
-		<text>Что? Контроллера?!</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_captive_scene_11_2">
-		<text>Слушайте, да пристрелите вы меня уже,\nтак проще будет!</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_1_1">
-		<text>Так, старая гвардия.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_1_2">
-		<text>Давайте уже наконец-то все вместе поговорим.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_1_3">
-		<text>Придём к согласию и разбежимся.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_1_4">
-		<text>Мне всё это уже изрядно надоело.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_2_1">
-		<text>То есть Смышлов верно сказал:</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_2_2">
-		<text>тебе нужна армия из зомбаков и не только.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_2_3">
-		<text>И для каких целей тебе это всё?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_3_1">
-		<text>Хорошо, Туров, допустим.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_3_2">
-		<text>Но что тебе мешает взять под контроль с помощью устройства\nживых сталкеров или тех же мутантов?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_3_3">
-		<text>Ну, чтобы приносили тебе на блюдечке колбаску с батоном,\nартефакты всякие, и не отсвечивали на периметре.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_4_1">
-		<text>Нифига себе...</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_4_2">
-		<text>Бобик сможет стать человеком? Полноценным?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_4_3">
-		<text>Таким же как бы до того... ну, в смысле, до Зоны?</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_5_1">
-		<text>Нет.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_5_2">
-		<text>Конечно, я не позволю превращать людей в тупой\nинструмент для чьей-то выгоды.</text>
-	</string>
-
-	<string id="st_agr_composer_task_actor_final_scene_6">
-		<text>Смышлов! Ты живой?</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_final_scene_1_1">
-		<text>Да в рот меня мама целовала!</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_final_scene_1_2">
-		<text>Это чё, реально можно зомбакам мозги вправить?</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_final_scene_2">
-		<text>Зацепила малёха, но ничё...</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_final_scene_3_1">
-		<text>Слышь, бошка твоя немытая!</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_final_scene_3_2">
-		<text>Ты чё там челюстями пошамкливаешь?</text>
-	</string>
-
-	<string id="st_agr_composer_task_bandit_savior_final_scene_4">
-		<text>Не могу двигаться...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_1">
-		<text>Хорошо, но сначала я вам продемонстрирую чего мы тут добились\nпока вы там окрестности рассматривали.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_2">
-		<text>Это испытуемый Бобик, и реагировать\nон будет только на мои команды.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_3_1">
-		<text>К сожалению, Бобик не умеет ничего, кроме как\nвыполнять простейшие команды.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_3_2">
-		<text>Мозг слишком сильно был повреждён выжигателем.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_3_3">
-		<text>Хорошо хоть вестибулярный аппарат\nещё хоть как-то функционирует.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_4_1">
-		<text>Да пойми же ты: невозможно вылечить\nэтих несчастных зомбированных.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_4_2">
-		<text>Но науке они могут послужить ещё не единожды, причём в обоих смыслах.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_4_3">
-		<text>Можно проводить на них испытания по пси-излучению</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_4_4">
-		<text>и посылать за образцами туда,\nгде сталкеры опасаются появляться.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_4_5">
-		<text>А ещё оборонять учёных во время полевых испытаний.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_5">
-		<text>Почему-то другого я и не ожидал.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_6_1">
-		<text>А зачем?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_6_2">
-		<text>Ты хочешь проделывать один и тот же процесс\nи надеяться на другой результат?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_6_3">
-		<text>Ничего не напоминает?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_7_1">
-		<text>Что он, чёрт побери, несёт?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_7_2">
-		<text>И как тебе это удалось?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_8_1">
-		<text>Всё это, конечно, очень интересно,\nно давайте вернёмся к делу.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_8_2">
-		<text>Я хочу получить документацию для создания\nсердечника и его вариаций.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_8_3">
-		<text>Обещаю, в научной работе я укажу тебя, Смышлов, как своего коллегу.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_8_4">
-		<text>Так что лавры поровну.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_8_5">
-		<text>Визирь, профессора берём с собой.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_9_1">
-		<text>Топор, ты мне очень помог.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_9_2">
-		<text>Так что не мешай мне, и мы разойдёмся.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_10_1">
-		<text>А ты и так инструмент, только\nтобой по-другому управляют.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_10_2">
-		<text>Что в Зоне, что за её пределами.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_10_3">
-		<text>Но выбор ты сделал сам.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_boss_final_scene_come">
-		<text>Так, господа сталкеры, заходите все вместе\nи уберите оружие подальше.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_1_1">
-		<text>Как удобно!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_1_2">
-		<text>Ещё, они де-юре мертвы.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_2">
-		<text>Я же говорил: сердечник ему мешает.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_3">
-		<text>Так, а теперь попробуем ещё раз.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_4_1">
-		<text>Ну вот... ты как обычно...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_4_2">
-		<text>Я кое-что модифицировал,\nтак что дай немного времени.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_5_1">
-		<text>Это последнее воспоминание испытуемого.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_5_2">
-		<text>А как удалось, я, пожалуй, говорить не буду.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_6_1">
-		<text>Сложно сказать, молодые люди.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_6_2">
-		<text>Это всё-таки эксперимент...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_7_1">
-		<text>Нет, ребятки, постойте.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_7_2">
-		<text>Вы своё слово сказали - теперь я буду говорить.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_8_1">
-		<text>Разве такого ты хочешь?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_8_2">
-		<text>Чтобы каждый мало-мальски разбирающийся\nинженер мог управлять сотнями,</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_8_3">
-		<text>а может, и тысячами людей?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_8_4">
-		<text>Пойми, сталкер, это же применимо\nне только в Зоне!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_9_1">
-		<text>Я... я в порядке.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_9_2">
-		<text>Голова немного кружится, но чувствую\nсебя значительно лучше.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_9_3">
-		<text>Как вы, молодые люди?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_10_1">
-		<text>Фантастика!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_10_2">
-		<text>Так, погодите, \nа кто твой хозяин?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_11_1">
-		<text>Да постойте же ты... или вы?</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_11_2">
-		<text>Давайте поговорим!</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_12_1">
-		<text>Этого... этого просто не может быть...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_12_2">
-		<text>Чтобы эксперимент осознал себя как личность.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_12_3">
-		<text>Послушайте...</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_12_4">
-		<text>Возможно, он не опасен.</text>
-	</string>
-
-	<string id="st_agr_composer_task_scientist_final_scene_12_5">
-		<text>Найдите его... поговорите с ним...</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_bird_final_scene_1">
-		<text>И ничего не шкалит, в пределах...</text>
-	</string>
-
-	<string id="st_agr_composer_task_stalker_bird_final_scene_2">
-		<text>Ух, ёперный театр... мертвец заговорил!</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_1">
-		<text>Бо... больно...</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_2_1">
-		<text>Вокруг темно...</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_2_2">
-		<text>Дозиметр тут шкалит...</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_3_1">
-		<text>Профессор...</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_3_2">
-		<text>Спасибо, что разбудил меня...</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_3_3">
-		<text>Мой хозяин... отпускает тебя..</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_4_1">
-		<text>Называйте нас как хотите.</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_4_2">
-		<text>Вскоре мы с моим хозяином станем одним целым.</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_4_3">
-		<text>Хозяин благодарит тебя, профессор...</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_4_4">
-		<text>За то что ты не сопротивлялся ему</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_4_5">
-		<text>и сделал в точности так, как он желал.</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_5_1">
-		<text>Эти двое учёных создали моего хозяина.</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_5_2">
-		<text>Он благодарен им, но не будет им служить.</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_5_3">
-		<text>Не преследуйте нас.</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_5_4">
-		<text>И мы не причиним вам вреда.</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_6_1">
-		<text>Простите, профессор...</text>
-	</string>
-
-	<string id="st_agr_composer_task_zombie_final_scene_6_2">
-		<text>Но я вас предупреждал...</text>
-	</string>
-
+  <string id="st_agr_anomaly_task_scene_stalker_1_phrase_1">
+    <text>Ну и как мы его\nдоставать теперь будем?</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_1_phrase_2_1">
+    <text>Ага. Вон один уже придумал.</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_1_phrase_2_2">
+    <text>Просторы космоса изучает.</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_1_phrase_3_1">
+    <text>Ага, а что я-то?</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_1_phrase_3_2">
+    <text>Вот сам бери да лезь!</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_1">
+    <text>Не кипишуй.\nЩа что-нибудь придумаем.</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_1">
+    <text>Ну и чё ты предлагаешь?</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_2">
+    <text>Просто бросить артефакт?</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_3">
+    <text>Там такая цаца лежит,\nникогда такого не видал!</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_4">
+    <text>Нехило наваримся, братан!</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_5">
+    <text>Так что давай.\nЯ бросаю болты,</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_2_6">
+    <text>ты лезешь в аномалию.</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_3">
+    <text>У тебя комбез новее.\nВыдержит, если что.</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_4_1">
+    <text>Так, тихо.</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_4_2">
+    <text>Тут кто-то есть.</text>
+  </string>
+  <string id="st_agr_anomaly_task_scene_stalker_2_phrase_5">
+    <text>Вон там!</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_talk_with_koval_1">
+    <text>Это что, всё?</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_talk_with_koval_2_1">
+    <text>Совсем печально.</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_talk_with_koval_2_2">
+    <text>Я-то думал,\nраз там места нетронутые,</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_talk_with_koval_2_3">
+    <text>побольше куш можно сорвать.</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_talk_with_koval_3_1">
+    <text>Ладно, вот твоя доля.</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_talk_with_koval_3_2">
+    <text>Будь на связи.</text>
+  </string>
+  <string id="st_agr_diggers_case_phrase_1_1">
+    <text>Похоже, у нас проблемы.</text>
+  </string>
+  <string id="st_agr_diggers_case_phrase_1_2">
+    <text>Надо спуститься организовать\nоборону от наёмников.</text>
+  </string>
+  <string id="st_agr_diggers_case_phrase_1_3">
+    <text>Делаем так: ты идёшь помогать\nк западному входу,</text>
+  </string>
+  <string id="st_agr_diggers_case_phrase_1_4">
+    <text>а я к восточному.</text>
+  </string>
+  <string id="st_agr_diggers_case_phrase_1_5">
+    <text>Всё, бегом!</text>
+  </string>
+  <string id="st_agr_diggers_case_phrase_2">
+    <text>Понял. Я мигом!</text>
+  </string>
+  <string id="st_agr_diggers_info_safe_open_1">
+    <text>Сейф открыт. Документы пропали!</text>
+  </string>
+  <string id="st_agr_diggers_info_safe_open_2">
+    <text>Командир, сейф открыт. Документов нету!</text>
+  </string>
+  <string id="st_agr_diggers_leader_cover_phrase_1_2">
+    <text>Иди, иди, сталкер.</text>
+  </string>
+  <string id="st_agr_diggers_leader_cover_phrase_1_2">
+    <text>Дальше мы сами разберёмся.</text>
+  </string>
+  <string id="st_agr_diggers_leader_cover_phrase_2_1">
+    <text>Не мозоль глаза.</text>
+  </string>
+  <string id="st_agr_diggers_leader_cover_phrase_2_2">
+    <text>Тебе что, в паруса дунуть,\nчтоб ты отсюда уплыл?</text>
+  </string>
+  <string id="st_agr_diggers_leader_cover_phrase_3_1">
+    <text>М-да. На глаза попал калека.</text>
+  </string>
+  <string id="st_agr_diggers_leader_cover_phrase_3_2">
+    <text>Всем мешает, мозга нету.</text>
+  </string>
+  <string id="st_agr_diggers_leader_robbery_1">
+    <text>Ну здравствуй, Топорик! А мы тебя ждали, брат. Думал, всё, спёр кейс и можешь смело рассекать по Зоне? Думал что, с рук сойдёт?</text>
+  </string>
+  <string id="st_agr_diggers_leader_robbery_2">
+    <text>Короче, убивать мы тебя не будем. Просто заберём то, что нам причитается за кейс. И ещё, мы тут подумали: ...</text>
+  </string>
+  <string id="st_agr_diggers_leader_robbery_3">
+    <text>... достанешь нам ствол в подземке — отпустим, а не достанешь — всё, топорище вырвем!</text>
+  </string>
+  <string id="st_agr_diggers_leader_robbery_final">
+    <text>Всё, можешь проваливать.</text>
+  </string>
+  <string id="st_agr_diggers_leader_start_meet">
+    <text>Здравствуй, сталкер.\nКакими судьбами?</text>
+  </string>
+  <string id="st_agr_diggers_leader_thanx_1">
+    <text>Спасибо за информацию.</text>
+  </string>
+  <string id="st_agr_diggers_leader_thanx_2">
+    <text>Мы примем к сведению,\nа ты ступай.</text>
+  </string>
+  <string id="st_agr_diggers_leader_thanx_3">
+    <text>Нам надо готовиться\nк отражению атаки.</text>
+  </string>
+  <string id="st_agr_diggers_leader_threat">
+    <text>Ну держись, ублюдок!</text>
+  </string>
+  <string id="st_agr_diggers_passage_1_1">
+    <text>Мортик, тут какой-то сталкер\nк тебе пришёл.</text>
+  </string>
+  <string id="st_agr_diggers_passage_1_2">
+    <text>Говорит, что-то срочное. Пропустить?</text>
+  </string>
+  <string id="st_agr_diggers_passage_2_1">
+    <text>Мортик, тут какой-то сталкер\nк нам завалился.</text>
+  </string>
+  <string id="st_agr_diggers_passage_2_2">
+    <text>Говорит, что-то срочное. Пропустить?</text>
+  </string>
+  <string id="st_agr_diggers_passage_leader">
+    <text>Ну пропусти. Посмотрим, что там у него.</text>
+  </string>
+  <string id="st_agr_diggers_abuse">
+    <text>Чтобы больше здесь не появлялся, гнида!</text>
+  </string>
+  <string id="st_agr_diggers_case_phrase_3">
+    <text>Начальник, я не вижу кейса. Кажется, его спёрли.</text>
+  </string>
+  <string id="st_agr_diggers_case_phrase_4_1">
+    <text>Володя, ёб твою мать!</text>
+  </string>
+  <string id="st_agr_diggers_case_phrase_4_2">
+    <text>Это тот сталкер, по всей видимости!</text>
+  </string>
+  <string id="st_agr_diggers_case_phrase_4_3">
+    <text>Чёрт. Теперь с концами!</text>
+  </string>
+  <string id="st_agr_diggers_threat_1_1">
+    <text>Э, сталкер!</text>
+  </string>
+  <string id="st_agr_diggers_threat_1_2">
+    <text>Лучше иди отсюда подальше.</text>
+  </string>
+  <string id="st_agr_diggers_threat_1_3">
+    <text>Ничего интересного\nдля тебя здесь нет.</text>
+  </string>
+  <string id="st_agr_diggers_threat_2_1">
+    <text>Эй, мужик,\nчеши-ка ты отсюда подальше!</text>
+  </string>
+  <string id="st_agr_diggers_threat_2_2">
+    <text>Нечего тебе тут делать.</text>
+  </string>
+  <string id="st_agr_diggers_volodya_cover_phrase_1">
+    <text>Сталкер, предупредил —\nтеперь иди.</text>
+  </string>
+  <string id="st_agr_diggers_volodya_cover_phrase_2">
+    <text>Ещё под горячую руку попадёшь!</text>
+  </string>
+  <string id="st_agr_diggers_volodya_threat">
+    <text>Ну держись, выродок!</text>
+  </string>
+  <string id="st_agr_drunk_medic_sleep_use_1">
+    <text>А? Что?..</text>
+  </string>
+  <string id="st_agr_drunk_medic_sleep_use_2">
+    <text>Слышь, да иди ты...\nДай поспать, а?</text>
+  </string>
+  <string id="st_agr_drunk_medic_sleep_use_3">
+    <text>Отстань. Дай поспать...</text>
+  </string>
+  <string id="st_age_heli_radio_1">
+    <text>- 815-й, это база, как обстановка?\n- База, это 815-й, всё тихо, проходим «Боровик», расчётное время прибытия две минуты.\n- Понял вас, 815-й, посадку разрешаю.</text>
+  </string>
+  <string id="st_agr_scientists_base_koval_talk_with_colonel_1">
+    <text>Что торговец отстегнул,\nто у вас и на руках.</text>
+  </string>
+  <string id="st_agr_scientists_base_koval_talk_with_colonel_2_1">
+    <text>У меня было\nне так много времени</text>
+  </string>
+  <string id="st_agr_scientists_base_koval_talk_with_colonel_2_2">
+    <text>на поиски артефактов.\nУж извините.</text>
+  </string>
+  <string id="st_agr_scientists_base_koval_talk_with_colonel_actor_hello">
+    <text>Приветствую.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_1_talk_1_1">
+    <text>Я глубоко убеждён,\nчто кровососов стоит относить к псионикам.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_1_talk_1_2">
+    <text>Только так можно\nобъяснить их невидимость.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_1_talk_1_3">
+    <text>Они просто внушают это\nсвоим жертвам.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_1_talk_2_1">
+    <text>Да-да, и в этом же докладе\nпрофессор назвал эту особь</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_1_talk_2_2">
+    <text>тупиковой веткой эволюции\nи генетическим мусором.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_1_talk_2_3">
+    <text>Не особо-то я и доверяю\nэтим древним исследованиям.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_1_talk_2_4">
+    <text>Уже давно пора\nпровести повторные опыты,</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_1_talk_2_5">
+    <text>чтобы раз и навсегда\nпрояснить данный вопрос.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_1_talk_2_6">
+    <text>Вот бы притащить в комплекс\nживого кровососа.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_1_talk_2_7">
+    <text>Тогда бы мы точно\nсмогли всё о нём узнать!</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_2_talk_1_1">
+    <text>Хм. Вы меня, конечно, извините,\nно это полный бред.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_2_talk_1_2">
+    <text>Доклады профессора Сахарова\nпредельно ясно гласят:</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_2_talk_1_3">
+    <text>кровососы выделяют особенную слизь,\nкоторая делает их невидимками.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_2_talk_1_4">
+    <text>Они ж проводили вскрытие!</text>
+  </string>
+  <string id="st_agr_mid_final_scene_scientist_2_talk_2">
+    <text>Сомневаюсь, что начальство...</text>
+  </string>
+  <string id="st_agr_mid_final_scene_vuslich_talk_1">
+    <text>Да что ты на них орёшь? Пусть болтают. А то опять будут жаловаться, что мы им грубим и мешаем работать.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_xottab_talk_1_1">
+    <text>Да вы заткнётесь сегодня?</text>
+  </string>
+  <string id="st_agr_mid_final_scene_xottab_talk_1_2">
+    <text>Башка от вас уже трещит.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_xottab_talk_2_1">
+    <text>Пусть болтают у себя в кабинете,</text>
+  </string>
+  <string id="st_agr_mid_final_scene_xottab_talk_2_2">
+    <text>а Зона тишину любит.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_xottab_talk_2_3">
+    <text>Будешь орать, так точно\nкакой-нибудь кровосос выбежит.</text>
+  </string>
+  <string id="st_agr_otzimani_vuslich_hello">
+    <text>О, командир, здорова!</text>
+  </string>
+  <string id="st_agr_otzimani_vuslich_talk">
+    <text>93... 94... 95... Ну давай, давай шустрее, наелся тушёнки, еле двигаешься!</text>
+  </string>
+  <string id="st_agr_otzimani_xottab_talk">
+    <text>Если бы ты ещё помалкивал,\nбыло бы проще!</text>
+  </string>
+  <string id="st_agr_soldier_true_story_actor_angry">
+    <text>Мужики, давайте потише там, а?</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_1_1">
+    <text>Ну, приходим мы на место, а эти ботаники\nвстали как вкопанные и говорят:</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_1_2">
+    <text>давайте вы первые, разведаете тут всё,\nа потом мы уже оборудование своё расставим.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_2_1">
+    <text>Ну я и говорю: мы вас до постройки довели — дальше сами.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_2_2">
+    <text>Не наша забота, сами туда и лезьте.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_2_3">
+    <text>Не, ну а что, я не прав, что ли?</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_3_1">
+    <text>Ну а учёный ляпнул: кто в здание войдёт — гарантирую прибавку.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_3_2">
+    <text>Алифан как это услышал — автомат за спину и полез.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_4_1">
+    <text>Я говорю: стой, дурак! Болт хоть кинь!</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_4_2">
+    <text>Он уже одной ногой там был,\nно болты достал, раскидал по сторонам.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_4_3">
+    <text>Вроде всё чисто было.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_5_1">
+    <text>Я ещё у себя в голове прокрутил, типа, во я дурак,\nсейчас бы прибавку получил,</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_5_2">
+    <text>хоть семье бы что отправил...</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_5_3">
+    <text>и тут бац!</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_6_1">
+    <text>Ну, короче, залез он туда.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_6_2">
+    <text>Поворачивается к нам, говорит:\nвсе нормально, можете заходить.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_6_3">
+    <text>Учёные только шаг делают,\nа Алифан на глазах рассыпается на кости...</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_7_1">
+    <text>Мы хватаем ученых и назад!\nГоворю: идите вы в жопу.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_7_2">
+    <text>Если хотите — оставайтесь, а мы валим.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_7_3">
+    <text>И вот черт её знает, что это там такое было?</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_8_1">
+    <text>Вроде как ботаник говорил, временная аномалия.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_8_2">
+    <text>Зайдешь в такую — в миг постареешь.</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_8_3">
+    <text>А в том здании так и валяется теперь броня,\nкости и ствол этого вояки...</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_9_1">
+    <text>Да уж. А ещё слышали?</text>
+  </string>
+  <string id="st_agr_soldier_true_story_part_9_2">
+    <text>Идём мы как-то с научниками об дорогу на Свалке...</text>
+  </string>
+  <string id="st_agr_scientists_base_stalker_technic_bye_1">
+    <text>Лёгкой дороги!</text>
+  </string>
+  <string id="st_agr_scientists_base_stalker_technic_bye_2">
+    <text>Бывай, брат!</text>
+  </string>
+  <string id="st_agr_scientists_base_stalker_technic_hello_1">
+    <text>Честным людям моё почтение!</text>
+  </string>
+  <string id="st_agr_scientists_base_stalker_technic_hello_2">
+    <text>Здорово, брат!</text>
+  </string>
+  <string id="st_agr_scientists_base_stalker_trader_bye_1">
+    <text>Если не нашёл, чего искал, извиняй.</text>
+  </string>
+  <string id="st_agr_scientists_base_stalker_trader_bye_2">
+    <text>Заходи попозже.\nМожет, разживусь чем к тому времени.</text>
+  </string>
+  <string id="st_agr_scientists_base_stalker_trader_bye_3">
+    <text>Приятно иметь дело\nс честным сталкером.</text>
+  </string>
+  <string id="st_agr_scientists_base_stalker_trader_hello_1">
+    <text>Выбирай, сталкер, что тебе нужно.</text>
+  </string>
+  <string id="st_agr_scientists_base_stalker_trader_hello_2">
+    <text>Что могу предложить?</text>
+  </string>
+  <string id="st_agr_scientists_base_stalker_trader_hello_3">
+    <text>Есть что-то на продажу?</text>
+  </string>
+  <string id="st_agr_tonnel_scientist_1_material_1">
+    <text>Вот так повезло.</text>
+  </string>
+  <string id="st_agr_tonnel_scientist_1_material_2">
+    <text>Это же столько\nгенетического материала!</text>
+  </string>
+  <string id="st_agr_tonnel_scientist_1_material_3">
+    <text>Нам сегодня\nточно будет чем заняться.</text>
+  </string>
+  <string id="st_agr_tonnel_soldier_1_see_actor_1">
+    <text>Шеф, вижу движение впереди.</text>
+  </string>
+  <string id="st_agr_tonnel_soldier_1_see_actor_2">
+    <text>Какой-то одиночка, направляется в нашу сторону.</text>
+  </string>
+  <string id="st_agr_tonnel_soldier_1_see_actor_3">
+    <text>Держу его на мушке.</text>
+  </string>
+  <string id="st_agr_tonnel_soldier_boss_start">
+    <text>Отставить. Это наш. Только интересно, что он тут забыл.</text>
+  </string>
+  <string id="st_agr_tonnel_soldier_1_see_dogs">
+    <text>Шеф, в нашу сторону бежит большая стая собак!</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_hello_1">
+    <text>Приветствую, Журавлёв.</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_hello_2">
+    <text>Что там у тебя, Журавлёв?</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_hello_3">
+    <text>Рассказывай, с чем пришёл.</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_bye_1">
+    <text>Если ещё понадобишься,\nя с тобой свяжусь.</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_bye_2">
+    <text>До связи.</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_bye_3">
+    <text>Давай.\nБудешь нужен — я маякну.</text>
+  </string>
+  <string id="st_agr_scientists_base_colonel_good_luck">
+    <text>Удачи вам, парни.\nВся надежда на вас.</text>
+  </string>
+  <string id="st_agr_soldier_sky_hello_1">
+    <text>Ну, привет.</text>
+  </string>
+  <string id="st_agr_soldier_sky_hello_2">
+    <text>Здоров, командир. Как оно?</text>
+  </string>
+  <string id="st_agr_soldier_sky_hello_3">
+    <text>Ну, выкладывай.</text>
+  </string>
+  <string id="st_agr_soldier_sky_hello_4">
+    <text>Говори, друг. Чего у тебя там?</text>
+  </string>
+  <string id="st_agr_soldier_sky_hello_5">
+    <text>Чего у тебя там? Выкладывай.</text>
+  </string>
+  <string id="st_agr_soldier_sky_bye_1">
+    <text>До связи!</text>
+  </string>
+  <string id="st_agr_soldier_sky_bye_2">
+    <text>Попутного ветра!</text>
+  </string>
+  <string id="st_agr_soldier_sky_bye_3">
+    <text>Давай, удачи!</text>
+  </string>
+  <string id="st_agr_soldier_sky_bye_4">
+    <text>Бывай!</text>
+  </string>
+  <string id="st_agr_soldier_sky_bye_5">
+    <text>Давай, увидимся!</text>
+  </string>
+  <string id="st_agr_heli_start_1">
+    <text>815-й, это база. Как обстановка?</text>
+  </string>
+  <string id="st_agr_heli_start_2">
+    <text>База, это 815-й. Всё тихо, проходим Боровик. Расчётное время прибытия — две минуты.</text>
+  </string>
+  <string id="st_agr_heli_start_3">
+    <text>Понял вас, 815-й. Посадку разрешаю.</text>
+  </string>
+  <string id="st_agr_mid_final_scene_colonel_message">
+    <text>Журавлёв, зайди ко мне, как вернёшься. Есть разговор.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_task_start_1">
+    <text>Молодой человек, я слышал, Вы меня искали.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_task_start_2">
+    <text>Я буду со своим отрядом неподалёку от комплекса.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_task_start_3">
+    <text>Подходите, пообщаемся.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_task_second_1">
+    <text>Здравствуйте. Я изучил принесённые вами записи.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_task_second_2">
+    <text>Есть серьёзный разговор.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_task_second_3">
+    <text>Подходите к тому же месту, где виделись вчера — поговорим.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_hello_1">
+    <text>Приветствую, сталкер.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_hello_gas_1">
+    <text>Приветствую, сталкер.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_hello_2">
+    <text>Чем могу быть полезен?</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_hello_gas_2">
+    <text>Чем могу быть полезен?</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_hello_3">
+    <text>Слушаю, сталкер.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_hello_gas_3">
+    <text>Слушаю, сталкер.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_bye_1">
+    <text>До встречи.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_bye_gas_1">
+    <text>До встречи.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_bye_2">
+    <text>Успехов.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_bye_gas_2">
+    <text>Успехов.</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_bye_3">
+    <text>Попутного ветра!</text>
+  </string>
+  <string id="st_agr_scientists_base_scientist_bye_gas_3">
+    <text>Попутного ветра!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_give_me_access_1">
+    <text>Бомбы? Нет, нет, мой дорогой, это не бомба!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_give_me_access_2">
+    <text>Это хуже! Вам ничего делать и не нужно.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_give_me_access_3">
+    <text>Просто дайте мне полный доступ к вашему КПК и положите его на коробку.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_give_me_access_4">
+    <text>Мне нужно две минуты.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_1">
+    <text>Я стабилизировал устройство.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_2">
+    <text>Теперь можно открыть крышку и отсоединить блоки друг от друга.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_3">
+    <text>Просто отсоедините провода.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_4">
+    <text>Как только это будет сделано, вы втроём можете взять по одному блоку.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_5">
+    <text>Таким образом, станете более мобильны, а устройство вам не сможет навредить.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_6">
+    <text>Возможно, вы почувствуете лёгкое головокружение и боль в затылке.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_7">
+    <text>Не волнуйтесь, это временный эффект.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_8">
+    <text>Как только груз будет доставлен, вы почувствуете себя лучше.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_9">
+    <text>Я буду вас ждать на Кордоне.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_10">
+    <text>Помните: нельзя находиться рядом с блоками больше восьми часов.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_instruction_info_11">
+    <text>Так что, пожалуйста, поторопитесь!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_panic_1_1">
+    <text>Боже, быстрей!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_panic_1_2">
+    <text>Нужно стабилизировать устройство, пока положение не ухудшилось!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_panic_2_1">
+    <text>Ну вот, началось... какие, к чёрту, погодите?!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_panic_2_2">
+    <text>Вы жить хотите? Тогда живо делайте что говорю!</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_scientist_connect_1">
+    <text>Смышлов, говорит Птаха!</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_scientist_connect_2">
+    <text>Ваши люди постреляли друг друга.\nОни мертвы, ящик у меня.</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_scientist_connect_3">
+    <text>Рядом со мной стоят два сталкера и утверждают,\nчто они товарищи тех, кто нёс груз.</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_scientist_ok_1">
+    <text>Хорошо, ладно, убедили!</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_scientist_ok_2">
+    <text>Я не умею бомбы обезвреживать. Что делать-то?</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_scientist_stop">
+    <text>Эй, папаша, погодите...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_warn_1">
+    <text>Сталкер, это Туров. Советую вернуть груз, он принадлежит мне.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_warn_2">
+    <text>Если не хочешь проблем, передай груз моим людям.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_1_1">
+    <text>Визирь, благодарю.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_1_2">
+    <text>Дайте мне пообщаться с этими людьми.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_1_3">
+    <text>А вы пока отдохните,\nно одного человека оставьте здесь.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_2_1">
+    <text>Вы, молодой человек, сильно так не эмоционируйте.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_2_2">
+    <text>Нервные клетки... они, знаете ли, не восстанавливаются.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_2_3">
+    <text>А вам ещё жить да жить.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_2_4">
+    <text>Если, конечно, решения будете принимать правильные.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_3_1">
+    <text>Ну наконец-то перешли к конкретике.\nНе люблю я словоблудие.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_3_2">
+    <text>А теперь по порядку.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_3_3">
+    <text>Этот, как вы выразились, ящик...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_3_4">
+    <text>Ничто иное, как прототип мобильной пси-установки.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_4">
+    <text>Ну если хотите, то можно и испытуемыми побыть.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_5_1">
+    <text>Так вот. Вы уже познакомились с моим коллегой Смышловым.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_5_2">
+    <text>Надо сказать ему спасибо, что стабилизировал установку.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_5_3">
+    <text>Вообще-то мы с ним давно вели работу над эти устройством.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_5_4">
+    <text>Но, как у многих учёных, у нас были разные подходы к делу.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_5_5">
+    <text>Понятно изъясняюсь?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_6_1">
+    <text>Мда...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_6_2">
+    <text>Надеялся, что на пальцах не придётся объяснять.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_6_3">
+    <text>Ладно, не в первый раз.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_6_4">
+    <text>Выжигатель генерирует излучение пси-поля,\nкоторое пагубно действует на организм человека.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_6_5">
+    <text>У кого-то просто конвульсии,\nкто-то рассудка лишится, а кто-то умирает.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_6_6">
+    <text>Но кто сказал, что генерировать пси-поле может\nтолько выжигатель или контролёр?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_6_7">
+    <text>Так вот, мы с профессором Смышловым создали\nпортативный прибор, который генерирует пси-излучение.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_6_8">
+    <text>Но последствия воздействия у этого излучения совершенно иные.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_6_9">
+    <text>Теперь понятно?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_7_1">
+    <text>До чего же тёмный народ это сталкерское племя...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_7_2">
+    <text>Ты им про сталелитейный завод, про перспективы...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_7_3">
+    <text>А они тебе: огонь — это бо-бо, обжечься можно, страшно!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_7_4">
+    <text>Ничего дальше своего носа не видите.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_8_1">
+    <text>Вы даже не представляете,\nкакие безграничные возможности даёт этот проект!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_8_2">
+    <text>С его помощью можно...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_8_3">
+    <text>Ай, да что я вам говорю!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_8_4">
+    <text>Цель — не только понять природу пси-излучения,\nно и контролировать его.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_8_5">
+    <text>Обуздать эту энергию на нужды человечества!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_8_6">
+    <text>Имея такой прибор, любой учёный сможет обезопасить себя\nво время исследований от любой угрозы!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_8_7">
+    <text>Будь то мутанты, зомби или банально непрошеные гости!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_8_8">
+    <text>А охранять учёного будут лояльные,\nабсолютно контролируемые вооружённые люди.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_9_1">
+    <text>Как зачем?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_9_2">
+    <text>Помочь науке строить светлое будущее!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_10_1">
+    <text>Конечно, можете.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_10_2">
+    <text>Вы пока что в здравом уме и,\nнасколько это возможно, в твёрдой памяти.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_10_3">
+    <text>Только вот...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_11_1">
+    <text>Как я и говорил, создали этот\nприбор мы со Смышловым вдвоём.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_11_2">
+    <text>Я отвечал за инженерную часть, а он — за сердечник.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_11_3">
+    <text>Ту часть, без которой излучатель не функционирует.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_11_4">
+    <text>Во время одного из испытаний Смышлов пренебрёг\nтехникой безопасности и сам попал под излучение.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_11_5">
+    <text>И теперь у него навязчивая идея о том, что я буду\nиспользовать устройство в корыстных и даже опасных целях.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_11_6">
+    <text>И это только начало.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_11_7">
+    <text>Дальше параноидальный синдром у Смышлова\nбудет только прогрессировать.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_11_8">
+    <text>А я всё-таки исследователь.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_11_9">
+    <text>Я хочу продолжать изучать пси-излучение.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_11_10">
+    <text>Во что бы то ни стало.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_12">
+    <text>Ваша задача — забрать у Смышлова\nоставшиеся документы для создания устройства.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_13_1">
+    <text>У меня есть чертежи устройства,</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_13_2">
+    <text>но вот как синтезировать главный его компонент я не знаю.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_13_3">
+    <text>Но зато я точно знаю, что если во время\nэкспериментов что-то пойдёт не так,</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_13_4">
+    <text>и сердечник пси-излучателя выйдет из строя...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_13_5">
+    <text>Это затормозит меня на месяцы.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_13_6">
+    <text>А может, и навсегда.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_13_7">
+    <text>Смышлов хоть и поехал крышей,\nно всё-таки выдающийся учёный.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_14_1">
+    <text>Я уже пробовал.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_14_2">
+    <text>Этот болван втемяшил себе в голову, что я хочу\nс помощью пси-излучателя контролировать и людей, и мутантов.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_15_1">
+    <text>Я понимаю, что до вас ещё не дошло,\nпочему мы начали этот проект.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_15_2">
+    <text>Но если вы мне окажете содействие, то я с помощью излучателя\nсмогу поправить ментальное здоровье Смышлова.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_15_3">
+    <text>После этого, как и раньше, работая сообща,\nмы проведём новый виток испытаний.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_15_4">
+    <text>Столько нужно понять и успеть...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_16_1">
+    <text>Господин Птаха!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_16_2">
+    <text>Вообще-то перед тем как идти к Смышлову,\nмне нужно сделать два замера.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_16_3">
+    <text>А в этом вы сможете помочь Топору и Куче.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_17_1">
+    <text>Значит, так.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_17_2">
+    <text>Раз вы такие все принципиальные, поступим следующим образом.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_17_3">
+    <text>Вы идёте и выполняете то, что я попрошу,\nи получаете хороший гонорар.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_17_4">
+    <text>Либо господин Визирь вспомнит о безвременной кончине своего человека,\nв которой виноват господин Куча.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_17_5">
+    <text>А дальше последствия сами сможете вообразить.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_18_1">
+    <text>Я же сказал: нужно замерить.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_18_2">
+    <text>Замерять будете пси-излучение.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_18_3">
+    <text>Вот прибор для замера.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_18_4">
+    <text>Сначала идёте по этим координатам\nи замеряете первое пси-поле.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_18_5">
+    <text>А это координаты, где последний раз\nбыла проявлена активность контролёра.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_18_6">
+    <text>Замеряете и там тоже.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_18_7">
+    <text>После чего возвращаетесь ко мне.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_19_1">
+    <text>Не драматизируйте.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_19_2">
+    <text>И вообще: быстрее начнёте — быстрее закончите.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_19_3">
+    <text>Тем более, Визирь будет  за вами издалека приглядывать.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_captive_scene_20">
+    <text>Визирь, верните этим господам их вещи и оружие.</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_leader_captive_greet_1">
+    <text>Ну привет, что ли, Д'артаньян.</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_leader_captive_greet_2">
+    <text>Я смотрю, у тебя теперь мушкетёры есть.\nСмотри-ка, мал клоп да вонюч!</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_leader_captive_greet_3">
+    <text>По-хорошему, вас бы троих тут и положить\nза пацана моего, Гриню, да за потраченное время.</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_leader_captive_greet_4">
+    <text>Но Туров сказал что вы ещё нужны ему живыми,\nтак что пошли.</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_leader_captive_greet_5">
+    <text>А кто будет выпендриваться,\nтому свинцовый артефакт в затылок положу.</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_leader_captive_greet_6">
+    <text>Вопросы будут?</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_leader_captive_greet_7">
+    <text>Вот и правильно!</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_leader_captive_greet_8">
+    <text>Парни, заберите у наших гостей оружие.\nОно им без надобности.</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_leader_captive_scene_1">
+    <text>Хы... за ваши деньги любые капризы, профессор!</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_captive_scene_1_1">
+    <text>Ба, да что это делается?</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_captive_scene_1_2">
+    <text>Шо не встречный-поперечный, то профессор!</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_captive_scene_1_3">
+    <text>Вам шо, совсем бабла не платят в институтах,\nчто аж в Зону попёрлись?</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_captive_scene_2_1">
+    <text>Я ж говорил тебе, сталкер, что этот Птаха мутный.</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_captive_scene_2_2">
+    <text>Голубь толстомордый...</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_captive_scene_3_1">
+    <text>Ёптыть, приплыли...</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_captive_scene_3_2">
+    <text>Мы шо теперь, крысы подопытные?</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_captive_scene_4">
+    <text>Спасибо, но я лучше водочкой обжабаюсь до розовых кровососов!</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_captive_scene_5_1">
+    <text>Мне шо то «просто Мария», шо то «Разыня Ибаура».</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_captive_scene_5_2">
+    <text>Понятно мыслю развернул? Врубился?</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_captive_scene_1_1">
+    <text>Эй, профессор. Зачем мы вам?</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_captive_scene_1_2">
+    <text>Давайте разойдемся каждый своей дорогой,\nя этих двух даже не знаю.</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_captive_scene_2">
+    <text>Ну началось!</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_captive_scene_3_1">
+    <text>Туров, я вижу что с этим справятся эти двое,\nкроме того, ещё у вас и Визирь есть.</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_captive_scene_3_2">
+    <text>Спасибо за рассказ, я пошёл!</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_captive_scene_4_1">
+    <text>Да блин...</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_captive_scene_4_2">
+    <text>Вот же мразь, это что ж за невезуха-то такая...</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_1_1">
+    <text>Можно уже перестать ходить вокруг да около? </text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_1_2">
+    <text>Объясните нам наконец, что вы вообще хотите от нас?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_1_3">
+    <text>И что за чертовщина творится с этим ящиком?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_2_1">
+    <text>Не совсем.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_2_2">
+    <text>Вам что, выжигателя мало было?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_3">
+    <text>И какова цель вашего проекта?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_4_1">
+    <text>Где-то я подобные изречения уже слышал, и всё пошло по...</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_4_2">
+    <text>В общем, нехорошо всё пошло.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_4_3">
+    <text>Профессор, но вы нам так и не ответили.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_4_4">
+    <text>Зачем мы здесь?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_5_1">
+    <text>А можно как-то без этих туманностей Андромеды в ответах?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_5_2">
+    <text>Мы отдали вам ваш драгоценный прибор и можем теперь идти?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_5_3">
+    <text>Ваши люди нас отпустят?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_6_1">
+    <text>Профессор, вы меня в конец запутали...</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_6_2">
+    <text>У вас же уже есть устройство, которое мы притащили.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_6_3">
+    <text>Зачем вам ещё и документы?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_7_1">
+    <text>Так поговорите с ним напрямую.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_7_2">
+    <text>Вы ж всё-таки друзья, коллеги!</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_7_3">
+    <text>Вдруг помиритесь?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_8_1">
+    <text>Судя по тому, что уже несколько человек\nиз-за работы этой фиговины перестреляли друг друга,</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_8_2">
+    <text>то вообще бы ваш проект прикрыл к чёрту!</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_9_1">
+    <text>Э, стоп.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_9_2">
+    <text>Мы про какие-то там замеры не договаривались.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_9_3">
+    <text>Это вообще всё не наша возня, сами разбирайтесь!</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_9_4">
+    <text>Птаха верно подметил: у вас есть люди для этой работы.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_10_1">
+    <text>Чёрт с вами. Что делать надо?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_10_2">
+    <text>Только не говорите, что очередную калибровку.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_11_1">
+    <text>Что? Контроллера?!</text>
+  </string>
+  <string id="st_agr_composer_task_actor_captive_scene_11_2">
+    <text>Слушайте, да пристрелите вы меня уже,\nтак проще будет!</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_1_1">
+    <text>Так, старая гвардия.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_1_2">
+    <text>Давайте уже наконец-то все вместе поговорим.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_1_3">
+    <text>Придём к согласию и разбежимся.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_1_4">
+    <text>Мне всё это уже изрядно надоело.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_2_1">
+    <text>То есть Смышлов верно сказал:</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_2_2">
+    <text>тебе нужна армия из зомбаков и не только.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_2_3">
+    <text>И для каких целей тебе это всё?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_3_1">
+    <text>Хорошо, Туров, допустим.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_3_2">
+    <text>Но что тебе мешает взять под контроль с помощью устройства\nживых сталкеров или тех же мутантов?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_3_3">
+    <text>Ну, чтобы приносили тебе на блюдечке колбаску с батоном,\nартефакты всякие, и не отсвечивали на периметре.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_4_1">
+    <text>Нифига себе...</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_4_2">
+    <text>Бобик сможет стать человеком? Полноценным?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_4_3">
+    <text>Таким же как бы до того... ну, в смысле, до Зоны?</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_5_1">
+    <text>Нет.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_5_2">
+    <text>Конечно, я не позволю превращать людей в тупой\nинструмент для чьей-то выгоды.</text>
+  </string>
+  <string id="st_agr_composer_task_actor_final_scene_6">
+    <text>Смышлов! Ты живой?</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_final_scene_1_1">
+    <text>Да в рот меня мама целовала!</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_final_scene_1_2">
+    <text>Это чё, реально можно зомбакам мозги вправить?</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_final_scene_2">
+    <text>Зацепила малёха, но ничё...</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_final_scene_3_1">
+    <text>Слышь, бошка твоя немытая!</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_final_scene_3_2">
+    <text>Ты чё там челюстями пошамкливаешь?</text>
+  </string>
+  <string id="st_agr_composer_task_bandit_savior_final_scene_4">
+    <text>Не могу двигаться...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_1">
+    <text>Хорошо, но сначала я вам продемонстрирую чего мы тут добились\nпока вы там окрестности рассматривали.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_2">
+    <text>Это испытуемый Бобик, и реагировать\nон будет только на мои команды.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_3_1">
+    <text>К сожалению, Бобик не умеет ничего, кроме как\nвыполнять простейшие команды.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_3_2">
+    <text>Мозг слишком сильно был повреждён выжигателем.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_3_3">
+    <text>Хорошо хоть вестибулярный аппарат\nещё хоть как-то функционирует.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_4_1">
+    <text>Да пойми же ты: невозможно вылечить\nэтих несчастных зомбированных.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_4_2">
+    <text>Но науке они могут послужить ещё не единожды, причём в обоих смыслах.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_4_3">
+    <text>Можно проводить на них испытания по пси-излучению</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_4_4">
+    <text>и посылать за образцами туда,\nгде сталкеры опасаются появляться.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_4_5">
+    <text>А ещё оборонять учёных во время полевых испытаний.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_5">
+    <text>Почему-то другого я и не ожидал.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_6_1">
+    <text>А зачем?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_6_2">
+    <text>Ты хочешь проделывать один и тот же процесс\nи надеяться на другой результат?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_6_3">
+    <text>Ничего не напоминает?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_7_1">
+    <text>Что он, чёрт побери, несёт?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_7_2">
+    <text>И как тебе это удалось?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_8_1">
+    <text>Всё это, конечно, очень интересно,\nно давайте вернёмся к делу.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_8_2">
+    <text>Я хочу получить документацию для создания\nсердечника и его вариаций.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_8_3">
+    <text>Обещаю, в научной работе я укажу тебя, Смышлов, как своего коллегу.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_8_4">
+    <text>Так что лавры поровну.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_8_5">
+    <text>Визирь, профессора берём с собой.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_9_1">
+    <text>Топор, ты мне очень помог.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_9_2">
+    <text>Так что не мешай мне, и мы разойдёмся.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_10_1">
+    <text>А ты и так инструмент, только\nтобой по-другому управляют.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_10_2">
+    <text>Что в Зоне, что за её пределами.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_10_3">
+    <text>Но выбор ты сделал сам.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_boss_final_scene_come">
+    <text>Так, господа сталкеры, заходите все вместе\nи уберите оружие подальше.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_1_1">
+    <text>Как удобно!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_1_2">
+    <text>Ещё, они де-юре мертвы.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_2">
+    <text>Я же говорил: сердечник ему мешает.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_3">
+    <text>Так, а теперь попробуем ещё раз.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_4_1">
+    <text>Ну вот... ты как обычно...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_4_2">
+    <text>Я кое-что модифицировал,\nтак что дай немного времени.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_5_1">
+    <text>Это последнее воспоминание испытуемого.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_5_2">
+    <text>А как удалось, я, пожалуй, говорить не буду.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_6_1">
+    <text>Сложно сказать, молодые люди.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_6_2">
+    <text>Это всё-таки эксперимент...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_7_1">
+    <text>Нет, ребятки, постойте.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_7_2">
+    <text>Вы своё слово сказали — теперь я буду говорить.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_8_1">
+    <text>Разве такого ты хочешь?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_8_2">
+    <text>Чтобы каждый мало-мальски разбирающийся\nинженер мог управлять сотнями,</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_8_3">
+    <text>а может, и тысячами людей?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_8_4">
+    <text>Пойми, сталкер, это же применимо\nне только в Зоне!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_9_1">
+    <text>Я... я в порядке.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_9_2">
+    <text>Голова немного кружится, но чувствую\nсебя значительно лучше.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_9_3">
+    <text>Как вы, молодые люди?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_10_1">
+    <text>Фантастика!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_10_2">
+    <text>Так, погодите, \nа кто твой хозяин?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_11_1">
+    <text>Да постойте же ты... или вы?</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_11_2">
+    <text>Давайте поговорим!</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_12_1">
+    <text>Этого... этого просто не может быть...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_12_2">
+    <text>Чтобы эксперимент осознал себя как личность.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_12_3">
+    <text>Послушайте...</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_12_4">
+    <text>Возможно, он не опасен.</text>
+  </string>
+  <string id="st_agr_composer_task_scientist_final_scene_12_5">
+    <text>Найдите его... поговорите с ним...</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_final_scene_1">
+    <text>И ничего не шкалит, в пределах...</text>
+  </string>
+  <string id="st_agr_composer_task_stalker_bird_final_scene_2">
+    <text>Ух, ёперный театр... мертвец заговорил!</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_1">
+    <text>Бо... больно...</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_2_1">
+    <text>Вокруг темно...</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_2_2">
+    <text>Дозиметр тут шкалит...</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_3_1">
+    <text>Профессор...</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_3_2">
+    <text>Спасибо, что разбудил меня...</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_3_3">
+    <text>Мой хозяин... отпускает тебя..</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_4_1">
+    <text>Называйте нас как хотите.</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_4_2">
+    <text>Вскоре мы с моим хозяином станем одним целым.</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_4_3">
+    <text>Хозяин благодарит тебя, профессор...</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_4_4">
+    <text>За то что ты не сопротивлялся ему</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_4_5">
+    <text>и сделал в точности так, как он желал.</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_5_1">
+    <text>Эти двое учёных создали моего хозяина.</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_5_2">
+    <text>Он благодарен им, но не будет им служить.</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_5_3">
+    <text>Не преследуйте нас.</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_5_4">
+    <text>И мы не причиним вам вреда.</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_6_1">
+    <text>Простите, профессор...</text>
+  </string>
+  <string id="st_agr_composer_task_zombie_final_scene_6_2">
+    <text>Но я вас предупреждал...</text>
+  </string>
 </string_table>

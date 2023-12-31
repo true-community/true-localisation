@@ -1,328 +1,246 @@
-п»ї<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="bar_duty_territory">
-		<text>DUTY TERRITORY</text>
-	</string>
-
-	<string id="bar_duty_territory_start_name">
-		<text>Gain the locals' trust</text>
-	</string>
-
-	<string id="bar_duty_territory_start_text">
-		<text>To see Duty's superiors, as well as their trader and technician, I need to gain the trust of the local stalkers. From there, there will be more opportunities for work and additional equipment. To start with, Sergeant Plichko advised me to work for Barkeep.</text>
-	</string>
-
-	<string id="bar_duty_territory_final_name">
-		<text>Talk to Sergeant Plichko</text>
-	</string>
-
-	<string id="bar_duty_territory_final_text">
-		<text>I think I've found my place in the Bar and that Sergeant Plichko will let me into Duty territory. They might offer me some work.</text>
-	</string>
-
-	<string id="bar_stalker_asshole_task">
-		<text>BANDIT MAZE</text>
-	</string>
-
-	<string id="bar_stalker_asshole_task_start_name">
-		<text>Meet the stalkers</text>
-	</string>
-
-	<string id="bar_stalker_asshole_task_start_text">
-		<text>A stalker in the Bar asked me to help rescue his friends that ended up in bandit captivity at the Garbage. I should meet with another couple of stalkers to arrange an attack.</text>
-	</string>
-
-	<string id="bar_after_robbery">
-		<text>BLACKOUT</text>
-	</string>
-
-	<string id="bar_after_robbery_start_name">
-		<text>Find out what happened</text>
-	</string>
-
-	<string id="bar_after_robbery_start_text">
-		<text>I vaguely remember getting shot... and then ending up here. I should find out where I am.</text>
-	</string>
-
-	<string id="bar_after_robbery_talk_with_duty_name">
-		<text>Talk to the Duty fighters</text>
-	</string>
-
-	<string id="bar_after_robbery_talk_with_duty_text">
-		<text>Barkeep told me that I was saved from the bandits by Duty. I should talk to the fighters and find out whether they need anything.</text>
-	</string>
-
-	<string id="bar_duty_help_present">
-		<text>UNUSUAL REQUEST</text>
-	</string>
-
-	<string id="bar_duty_help_present_start_name">
-		<text>See Korvalol for the sergeant's present</text>
-	</string>
-
-	<string id="bar_duty_help_present_start_text">
-		<text>Sergeant Lyubeznov asked me to head off to the Garbage to see our mutual acquaintance and grab his present.</text>
-	</string>
-
-	<string id="bar_duty_help_present_final_name">
-		<text>Bring the dog tag and artifact to the sergeant</text>
-	</string>
-
-	<string id="bar_duty_help_present_final_text">
-		<text>Korvalol passed on the lost dog tag, plus an artifact, to Sergeant Lyubeznov. I should bring them to the Duty fighter.</text>
-	</string>
-
-	<string id="bar_bandits_treasure_task">
-		<text>LOOT</text>
-	</string>
-
-	<string id="bar_bandits_treasure_task_start_name">
-		<text>Reach the bandit stash</text>
-	</string>
-
-	<string id="bar_bandits_treasure_task_start_text">
-		<text>Sergeant Lyubeznov gave me the key to a bandit stash at the Garbage. The bandits themselves nearly did me in during my first visit to the Bar. Still, it might contain something useful.</text>
-	</string>
-
-	<string id="bar_bandits_treasure_task_second_name">
-		<text>Search the bandit stash</text>
-	</string>
-
-	<string id="bar_bandits_treasure_task_second_text">
-		<text>I managed to enter the room with the stash. I should examine everything here real good - might find something useful.</text>
-	</string>
-
-	<string id="bar_after_robbery_box">
-		<text>PERSONAL BELONGINGS</text>
-	</string>
-
-	<string id="bar_after_robbery_box_start_name">
-		<text>Take things from the box</text>
-	</string>
-
-	<string id="bar_after_robbery_box_start_text">
-		<text>Barkeep stored all my belongings in a box in his room. I should to take them.</text>
-	</string>
-
-	<string id="bar_mystical_dogs_task">
-		<text>ALONG THE WAY</text>
-	</string>
-
-	<string id="bar_mystical_dogs_task_start_name">
-		<text>Respond to the call for help</text>
-	</string>
-
-	<string id="bar_mystical_dogs_task_start_text">
-		<text>Stalkers on the way to the Bar are asking for help. How did they even get that far with such equipment?</text>
-	</string>
-
-	<string id="bar_mystical_dogs_task_kill_dogs_name">
-		<text>Deal with the psy-dogs</text>
-	</string>
-
-	<string id="bar_mystical_dogs_task_kill_dogs_text">
-		<text>The stalker group is unable to get through to the Bar because of a pack of psy-dogs. I should clean the road - primarily for my own sake.</text>
-	</string>
-
-	<string id="bar_prison_task">
-		<text>ESCAPE</text>
-	</string>
-
-	<string id="bar_prison_task_start_name">
-		<text>Find the exit</text>
-	</string>
-
-	<string id="bar_prison_task_start_text">
-		<text>I wound up behind bars in the Bar... I need to find a way out, pronto.</text>
-	</string>
-
-	<string id="bar_prison_task_talk_with_koval_name">
-		<text>Talk to Koval</text>
-	</string>
-
-	<string id="bar_prison_task_talk_with_koval_text">
-		<text>A pleasant surprise! Koval may be my ticket to freedom.</text>
-	</string>
-
-	<string id="bar_prison_task_follow_koval_name">
-		<text>Follow Koval</text>
-	</string>
-
-	<string id="bar_prison_task_follow_koval_text">
-		<text>Koval came to my aid at just the right time. The colonel was right about his level of experience for an ordinary stalker. In this case, he helped out a lot.</text>
-	</string>
-
-	<string id="bar_prison_task_projectors_off_name">
-		<text>Turn off the lights at the Duty checkpoint</text>
-	</string>
-
-	<string id="bar_prison_task_projectors_off_text">
-		<text>To slip past the patrols, I need to shut the lights. Flipping the switch in the adjacent building should do the trick.</text>
-	</string>
-
-	<string id="bar_prison_task_wait_duty_name">
-		<text>Hide from the patrols and wait for the right moment</text>
-	</string>
-
-	<string id="bar_prison_task_wait_duty_text">
-		<text>I shut off the checkpoint lights. Now I need to wait for an opportunty to slip past the patrols.</text>
-	</string>
-
-	<string id="bar_prison_task_sprint_to_military_name">
-		<text>Flee Duty territory</text>
-	</string>
-
-	<string id="bar_prison_task_sprint_to_military_text">
-		<text>I failed to pass the Duty soldiers. I need to break out of here ASAP.</text>
-	</string>
-
-	<string id="bar_prison_task_self_go_name">
-		<text>Break out of the Bar alone</text>
-	</string>
-
-	<string id="bar_prison_task_self_go_text">
-		<text>Now I'm the only one who can get myself out of this mess.</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task">
-		<text>PLAYING WITH FIRE</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_kill_polters_name">
-		<text>Kill the fire poltergeists</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_kill_polters_text">
-		<text>Gena Hollow, a stalker from the Bar, told me about poltergeists made out of fire that burned his squad members alive. He asked me to deal with them in case I find myself heading to the Army Warehouses.</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_take_reward_name">
-		<text>Return to collect reward</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_take_reward_text">
-		<text>The fire poltergeists won't be troubling the Bar's visitors anymore. Time to see Gena for my reward.</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task">
-		<text>BOOZY'S STASH</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_check_treasure_name">
-		<text>Reach the stash</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_check_treasure_text">
-		<text>Sanya Bottleman told me about the stash of stalker Boozy. The stash is apparently filled with vodka and rare artifacts. I should try my luck and check the place he spoke of.</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_after_robbery_name">
-		<text>Find out what happened</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_after_robbery_text">
-		<text>Looks like I went into an idiot trap, and boy, did they strip me down! Sanya Bottleman was also there. I need to ask him a few questions.</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_final_name">
-		<text>Decide Sanya Bottleman's fate</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_final_text">
-		<text>Sanya set me up, lured me into a trap, and is now writhing in pain and asking for help. Should I give him a medkit or leave the freak to the rats?</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_task">
-		<text>HERO OR EXECUTIONER?</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_task_start_name">
-		<text>Find Goose</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_task_start_text">
-		<text>I need to find Goose and talk him out of participating in the arena battles. There must be another way out for him. Barkeep probably knows something.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_snake_info_name">
-		<text>Ask Chrome about Cobra</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_snake_info_text">
-		<text>I don't give a damn what Chrome says about this Cobra. I need do something about that bastard. First I'll find out where to find him.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_talk_snake_name">
-		<text>Talk to Cobra</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_talk_snake_text">
-		<text>I need to make a deal with Cobra - and carefully. This won't be simple.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_follow_name">
-		<text>Follow Chrome</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_follow_text">
-		<text>Chrome is eager to put an end to Cobra, but something doesn't add up. What is Chrome's motive? For now, I need to follow him and then see.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_arena_talk_name">
-		<text>Talk to Arnie</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_arena_talk_text">
-		<text>Because of what I had gotten myself into with Cobra, I forgot about Goose and his upcoming fight in the arena. I need to find out if he's okay.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_read_note_name">
-		<text>Read Goose's note</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_read_note_text">
-		<text>Goose left me a note before he died. I should read it to find out any details.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_talk_after_read_name">
-		<text>Talk to Chrome</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_talk_after_read_text">
-		<text>It turns out that Chrome deceived me. Almost everything he said about Cobra was a lie. But why? I need to ask him.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_take_items_name">
-		<text>Pick up gear at Cobra's</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_take_items_text">
-		<text>Things didn't turn out so bad, but I had a reason to worry. Chrome seems to be telling the truth, but I still don't fully believe him. He left something out. He said himself that strangers don't deserve your trust. Now I need to pick up my gear and make a move on Cobra.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_to_garbage_name">
-		<text>Meet with Chrome</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_to_garbage_text">
-		<text>I need to meet with Chrome by the southern Bar checkpoint. Does Cobra really deserve to die? Nothing is clear at the moment.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_attack_name">
-		<text>Kill the stalkers and talk to Cobra</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_attack_text">
-		<text>I have no business with Cobra's henchmen, but with Cobra himself... I'd like to know his point of view in his rivalry with Chrome.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_final_name">
-		<text>Talk to Chrome</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_final_text">
-		<text>Looks like it's all over. Time to talk to Chrome</text>
-	</string>
-
+  <string id="bar_duty_territory">
+    <text>DUTY TERRITORY</text>
+  </string>
+  <string id="bar_duty_territory_start_name">
+    <text>Gain the locals' trust</text>
+  </string>
+  <string id="bar_duty_territory_start_text">
+    <text>To see Duty's superiors, as well as their trader and technician, I need to gain the trust of the local stalkers. From there, there will be more opportunities for work and additional equipment. To start with, Sergeant Plichko advised me to work for Barkeep.</text>
+  </string>
+  <string id="bar_duty_territory_final_name">
+    <text>Talk to Sergeant Plichko</text>
+  </string>
+  <string id="bar_duty_territory_final_text">
+    <text>I think I've found my place in the Bar and that Sergeant Plichko will let me into Duty territory. They might offer me some work.</text>
+  </string>
+  <string id="bar_stalker_asshole_task">
+    <text>BANDIT MAZE</text>
+  </string>
+  <string id="bar_stalker_asshole_task_start_name">
+    <text>Meet the stalkers</text>
+  </string>
+  <string id="bar_stalker_asshole_task_start_text">
+    <text>A stalker in the Bar asked me to help rescue his friends that ended up in bandit captivity at the Garbage. I should meet with another couple of stalkers to arrange an attack.</text>
+  </string>
+  <string id="bar_after_robbery">
+    <text>BLACKOUT</text>
+  </string>
+  <string id="bar_after_robbery_start_name">
+    <text>Find out what happened</text>
+  </string>
+  <string id="bar_after_robbery_start_text">
+    <text>I vaguely remember getting shot... and then ending up here. I should find out where I am.</text>
+  </string>
+  <string id="bar_after_robbery_talk_with_duty_name">
+    <text>Talk to the Duty fighters</text>
+  </string>
+  <string id="bar_after_robbery_talk_with_duty_text">
+    <text>Barkeep told me that I was saved from the bandits by Duty. I should talk to the fighters and find out whether they need anything.</text>
+  </string>
+  <string id="bar_duty_help_present">
+    <text>UNUSUAL REQUEST</text>
+  </string>
+  <string id="bar_duty_help_present_start_name">
+    <text>See Korvalol for the sergeant's present</text>
+  </string>
+  <string id="bar_duty_help_present_start_text">
+    <text>Sergeant Lyubeznov asked me to head off to the Garbage to see our mutual acquaintance and grab his present.</text>
+  </string>
+  <string id="bar_duty_help_present_final_name">
+    <text>Bring the dog tag and artifact to the sergeant</text>
+  </string>
+  <string id="bar_duty_help_present_final_text">
+    <text>Korvalol passed on the lost dog tag, plus an artifact, to Sergeant Lyubeznov. I should bring them to the Duty fighter.</text>
+  </string>
+  <string id="bar_bandits_treasure_task">
+    <text>LOOT</text>
+  </string>
+  <string id="bar_bandits_treasure_task_start_name">
+    <text>Reach the bandit stash</text>
+  </string>
+  <string id="bar_bandits_treasure_task_start_text">
+    <text>Sergeant Lyubeznov gave me the key to a bandit stash at the Garbage. The bandits themselves nearly did me in during my first visit to the Bar. Still, it might contain something useful.</text>
+  </string>
+  <string id="bar_bandits_treasure_task_second_name">
+    <text>Search the bandit stash</text>
+  </string>
+  <string id="bar_bandits_treasure_task_second_text">
+    <text>I managed to enter the room with the stash. I should examine everything here real good — might find something useful.</text>
+  </string>
+  <string id="bar_after_robbery_box">
+    <text>PERSONAL BELONGINGS</text>
+  </string>
+  <string id="bar_after_robbery_box_start_name">
+    <text>Take things from the box</text>
+  </string>
+  <string id="bar_after_robbery_box_start_text">
+    <text>Barkeep stored all my belongings in a box in his room. I should to take them.</text>
+  </string>
+  <string id="bar_mystical_dogs_task">
+    <text>ALONG THE WAY</text>
+  </string>
+  <string id="bar_mystical_dogs_task_start_name">
+    <text>Respond to the call for help</text>
+  </string>
+  <string id="bar_mystical_dogs_task_start_text">
+    <text>Stalkers on the way to the Bar are asking for help. How did they even get that far with such equipment?</text>
+  </string>
+  <string id="bar_mystical_dogs_task_kill_dogs_name">
+    <text>Deal with the psy-dogs</text>
+  </string>
+  <string id="bar_mystical_dogs_task_kill_dogs_text">
+    <text>The stalker group is unable to get through to the Bar because of a pack of psy-dogs. I should clean the road — primarily for my own sake.</text>
+  </string>
+  <string id="bar_prison_task">
+    <text>ESCAPE</text>
+  </string>
+  <string id="bar_prison_task_start_name">
+    <text>Find the exit</text>
+  </string>
+  <string id="bar_prison_task_start_text">
+    <text>I wound up behind bars in the Bar... I need to find a way out, pronto.</text>
+  </string>
+  <string id="bar_prison_task_talk_with_koval_name">
+    <text>Talk to Koval</text>
+  </string>
+  <string id="bar_prison_task_talk_with_koval_text">
+    <text>A pleasant surprise! Koval may be my ticket to freedom.</text>
+  </string>
+  <string id="bar_prison_task_follow_koval_name">
+    <text>Follow Koval</text>
+  </string>
+  <string id="bar_prison_task_follow_koval_text">
+    <text>Koval came to my aid at just the right time. The colonel was right about his level of experience for an ordinary stalker. In this case, he helped out a lot.</text>
+  </string>
+  <string id="bar_prison_task_projectors_off_name">
+    <text>Turn off the lights at the Duty checkpoint</text>
+  </string>
+  <string id="bar_prison_task_projectors_off_text">
+    <text>To slip past the patrols, I need to shut the lights. Flipping the switch in the adjacent building should do the trick.</text>
+  </string>
+  <string id="bar_prison_task_wait_duty_name">
+    <text>Hide from the patrols and wait for the right moment</text>
+  </string>
+  <string id="bar_prison_task_wait_duty_text">
+    <text>I shut off the checkpoint lights. Now I need to wait for an opportunty to slip past the patrols.</text>
+  </string>
+  <string id="bar_prison_task_sprint_to_military_name">
+    <text>Flee Duty territory</text>
+  </string>
+  <string id="bar_prison_task_sprint_to_military_text">
+    <text>I failed to pass the Duty soldiers. I need to break out of here ASAP.</text>
+  </string>
+  <string id="bar_prison_task_self_go_name">
+    <text>Break out of the Bar alone</text>
+  </string>
+  <string id="bar_prison_task_self_go_text">
+    <text>Now I'm the only one who can get myself out of this mess.</text>
+  </string>
+  <string id="bar_stalker_fireball_task">
+    <text>PLAYING WITH FIRE</text>
+  </string>
+  <string id="bar_stalker_fireball_task_kill_polters_name">
+    <text>Kill the fire poltergeists</text>
+  </string>
+  <string id="bar_stalker_fireball_task_kill_polters_text">
+    <text>Gena Hollow, a stalker from the Bar, told me about poltergeists made out of fire that burned his squad members alive. He asked me to deal with them in case I find myself heading to the Army Warehouses.</text>
+  </string>
+  <string id="bar_stalker_fireball_task_take_reward_name">
+    <text>Return to collect reward</text>
+  </string>
+  <string id="bar_stalker_fireball_task_take_reward_text">
+    <text>The fire poltergeists won't be troubling the Bar's visitors anymore. Time to see Gena for my reward.</text>
+  </string>
+  <string id="bar_drunk_stalker_task">
+    <text>BOOZY'S STASH</text>
+  </string>
+  <string id="bar_drunk_stalker_task_check_treasure_name">
+    <text>Reach the stash</text>
+  </string>
+  <string id="bar_drunk_stalker_task_check_treasure_text">
+    <text>Sanya Bottleman told me about the stash of stalker Boozy. The stash is apparently filled with vodka and rare artifacts. I should try my luck and check the place he spoke of.</text>
+  </string>
+  <string id="bar_drunk_stalker_task_after_robbery_name">
+    <text>Find out what happened</text>
+  </string>
+  <string id="bar_drunk_stalker_task_after_robbery_text">
+    <text>Looks like I went into an idiot trap, and boy, did they strip me down! Sanya Bottleman was also there. I need to ask him a few questions.</text>
+  </string>
+  <string id="bar_drunk_stalker_task_final_name">
+    <text>Decide Sanya Bottleman's fate</text>
+  </string>
+  <string id="bar_drunk_stalker_task_final_text">
+    <text>Sanya set me up, lured me into a trap, and is now writhing in pain and asking for help. Should I give him a medkit or leave the freak to the rats?</text>
+  </string>
+  <string id="bar_stalker_google_chrome_task">
+    <text>HERO OR EXECUTIONER?</text>
+  </string>
+  <string id="bar_stalker_google_chrome_task_start_name">
+    <text>Find Goose</text>
+  </string>
+  <string id="bar_stalker_google_chrome_task_start_text">
+    <text>I need to find Goose and talk him out of participating in the arena battles. There must be another way out for him. Barkeep probably knows something.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_snake_info_name">
+    <text>Ask Chrome about Cobra</text>
+  </string>
+  <string id="bar_stalker_google_chrome_snake_info_text">
+    <text>I don't give a damn what Chrome says about this Cobra. I need do something about that bastard. First I'll find out where to find him.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_talk_snake_name">
+    <text>Talk to Cobra</text>
+  </string>
+  <string id="bar_stalker_google_chrome_talk_snake_text">
+    <text>I need to make a deal with Cobra — and carefully. This won't be simple.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_follow_name">
+    <text>Follow Chrome</text>
+  </string>
+  <string id="bar_stalker_google_chrome_follow_text">
+    <text>Chrome is eager to put an end to Cobra, but something doesn't add up. What is Chrome's motive? For now, I need to follow him and then see.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_arena_talk_name">
+    <text>Talk to Arnie</text>
+  </string>
+  <string id="bar_stalker_google_chrome_arena_talk_text">
+    <text>Because of what I had gotten myself into with Cobra, I forgot about Goose and his upcoming fight in the arena. I need to find out if he's okay.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_read_note_name">
+    <text>Read Goose's note</text>
+  </string>
+  <string id="bar_stalker_google_chrome_read_note_text">
+    <text>Goose left me a note before he died. I should read it to find out any details.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_talk_after_read_name">
+    <text>Talk to Chrome</text>
+  </string>
+  <string id="bar_stalker_google_chrome_talk_after_read_text">
+    <text>It turns out that Chrome deceived me. Almost everything he said about Cobra was a lie. But why? I need to ask him.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_take_items_name">
+    <text>Pick up gear at Cobra's</text>
+  </string>
+  <string id="bar_stalker_google_chrome_take_items_text">
+    <text>Things didn't turn out so bad, but I had a reason to worry. Chrome seems to be telling the truth, but I still don't fully believe him. He left something out. He said himself that strangers don't deserve your trust. Now I need to pick up my gear and make a move on Cobra.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_to_garbage_name">
+    <text>Meet with Chrome</text>
+  </string>
+  <string id="bar_stalker_google_chrome_to_garbage_text">
+    <text>I need to meet with Chrome by the southern Bar checkpoint. Does Cobra really deserve to die? Nothing is clear at the moment.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_attack_name">
+    <text>Kill the stalkers and talk to Cobra</text>
+  </string>
+  <string id="bar_stalker_google_chrome_attack_text">
+    <text>I have no business with Cobra's henchmen, but with Cobra himself... I'd like to know his point of view in his rivalry with Chrome.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_final_name">
+    <text>Talk to Chrome</text>
+  </string>
+  <string id="bar_stalker_google_chrome_final_text">
+    <text>Looks like it's all over. Time to talk to Chrome</text>
+  </string>
 </string_table>

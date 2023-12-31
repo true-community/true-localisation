@@ -1,160 +1,120 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="st_stalker_esc_army_base_smart">
-		<text>Кордон. Блокпост військових.</text>
-	</string>
-
-	<string id="st_stalker_esc_village_smart">
-		<text>Кордон. Селище.</text>
-	</string>
-
-	<string id="st_stalker_esc_dogs_smart">
-		<text>Кордон. Болітце.</text>
-	</string>
-
-	<string id="st_stalker_esc_kutek_smart">
-		<text>Кордон. Тунель із «Електрами».</text>
-	</string>
-
-	<string id="st_stalker_esc_bandit_smart">
-		<text>Кордон. Тунель у Темну долину.</text>
-	</string>
-
-	<string id="st_stalker_esc_banda_smart">
-		<text>Кордон. Місцина біля вагончика.</text>
-	</string>
-
-	<string id="st_stalker_esc_polter_smart">
-		<text>Кордон. Болото з аномаліями.</text>
-	</string>
-
-	<string id="st_stalker_esc_scientists_smart">
-		<text>Кордон. За дорогою.</text>
-	</string>
-
-	<string id="st_stalker_esc_logovo_smart">
-		<text>Кордон. Нора мутантів.</text>
-	</string>
-
-	<string id="st_stalker_esc_nora_monsters_smart">
-		<text>Кордон. Неподалік нори.</text>
-	</string>
-
-	<string id="st_stalker_esc_atp_smart">
-		<text>Кордон. АТП.</text>
-	</string>
-
-	<string id="st_stalker_esc_bandits_car_smart">
-		<text>Кордон. Недалеко від КПП на Смітнику.</text>
-	</string>
-
-	<string id="st_stalker_esc_tushkano_smart">
-		<text>Кордон. Лігво тушканів.</text>
-	</string>
-
-	<string id="st_stalker_esc_mflesh_smart">
-		<text>Кордон. Лігво плотей.</text>
-	</string>
-
-	<string id="st_stalker_esc_boars_most_smart">
-		<text>Кордон. Лігво кабанів.</text>
-	</string>
-
-	<string id="st_stalker_esc_bridge_zone_smart">
-		<text>Кордон. Міст.</text>
-	</string>
-
-	<string id="st_stalker_gar_kladbishe">
-		<text>Смітник. Кладовище техніки.</text>
-	</string>
-
-	<string id="st_stalker_gar_stalker_base">
-		<text>Смітник. База сталкерів.</text>
-	</string>
-
-	<string id="st_stalker_gar_mishgan_smart">
-		<text>Смітник. Біля переходу на Кордон.</text>
-	</string>
-
-	<string id="st_stalker_gar_dolg_zastava">
-		<text>Смітник. Застава «Долгу».</text>
-	</string>
-
-	<string id="st_stalker_gar_desertir_smart">
-		<text>Смітник. Барахолка.</text>
-	</string>
-
-	<string id="st_stalker_gar_jurok_smart">
-		<text>Смітник. Біля переходу на Кордон №2.</text>
-	</string>
-
-	<string id="st_stalker_gar_dogs_desertir">
-		<text>Смітник. Зупинка.</text>
-	</string>
-
-	<string id="st_stalker_gar_ambush">
-		<text>Смітник. Центральна дорога.</text>
-	</string>
-
-	<string id="st_stalker_gar_corvalol">
-		<text>Смітник. За барахолкою.</text>
-	</string>
-
-	<string id="st_stalker_gar_forest_scene">
-		<text>Смітник. Ліс.</text>
-	</string>
-
-	<string id="st_stalker_gar_tushkano_indoor">
-		<text>Смітник. Підземка під ангаром.</text>
-	</string>
-
-	<string id="st_stalker_gar_boars_smart">
-		<text>Смітник. Лігво кабанів.</text>
-	</string>
-
-	<string id="st_stalker_gar_pseudodogs_smart">
-		<text>Смітник. Лігво собак.</text>
-	</string>
-
-	<string id="st_stalker_gar_flesh_smart">
-		<text>Смітник. Лігво плотей.</text>
-	</string>
-
-	<string id="st_stalker_gar_zombie_forest">
-		<text>Смітник. Ліс 2.</text>
-	</string>
-
-	<string id="st_stalker_gar_tonnel_bandits">
-		<text>Смітник. Бандитський тунель.</text>
-	</string>
-
-	<string id="st_stalker_agr_diggers">
-		<text>«Агропром». База дигерів.</text>
-	</string>
-
-	<string id="st_stalker_agr_pseudogiant">
-		<text>«Агропром». Лігво псевдогіганта.</text>
-	</string>
-
-	<string id="st_esc_village_smart_name">
-		<text>Селище</text>
-	</string>
-
-	<string id="st_stalker_esc_sim_1">
-		<text>На ферму йду: там добре місце для відпочинку.</text>
-	</string>
-
-	<string id="st_esc_sim_1_name">
-		<text>Ферма</text>
-	</string>
-
-	<string id="st_stalker_esc_stalkers_most_smart">
-		<text>Іду до руїн хутора, що неподалік мосту. Там привал можна гарний зробити.</text>
-	</string>
-
-	<string id="st_esc_stalkers_most_smart_name">
-		<text>Руїни хутора</text>
-	</string>
-
+  <string id="st_stalker_esc_army_base_smart">
+    <text>Кордон. Блокпост військових.</text>
+  </string>
+  <string id="st_stalker_esc_village_smart">
+    <text>Кордон. Селище.</text>
+  </string>
+  <string id="st_stalker_esc_dogs_smart">
+    <text>Кордон. Болітце.</text>
+  </string>
+  <string id="st_stalker_esc_kutek_smart">
+    <text>Кордон. Тунель із «Електрами».</text>
+  </string>
+  <string id="st_stalker_esc_bandit_smart">
+    <text>Кордон. Тунель у Темну долину.</text>
+  </string>
+  <string id="st_stalker_esc_banda_smart">
+    <text>Кордон. Місцина біля вагончика.</text>
+  </string>
+  <string id="st_stalker_esc_polter_smart">
+    <text>Кордон. Болото з аномаліями.</text>
+  </string>
+  <string id="st_stalker_esc_scientists_smart">
+    <text>Кордон. За дорогою.</text>
+  </string>
+  <string id="st_stalker_esc_logovo_smart">
+    <text>Кордон. Нора мутантів.</text>
+  </string>
+  <string id="st_stalker_esc_nora_monsters_smart">
+    <text>Кордон. Неподалік нори.</text>
+  </string>
+  <string id="st_stalker_esc_atp_smart">
+    <text>Кордон. АТП.</text>
+  </string>
+  <string id="st_stalker_esc_bandits_car_smart">
+    <text>Кордон. Недалеко від КПП на Смітнику.</text>
+  </string>
+  <string id="st_stalker_esc_tushkano_smart">
+    <text>Кордон. Лігво тушканів.</text>
+  </string>
+  <string id="st_stalker_esc_mflesh_smart">
+    <text>Кордон. Лігво плотей.</text>
+  </string>
+  <string id="st_stalker_esc_boars_most_smart">
+    <text>Кордон. Лігво кабанів.</text>
+  </string>
+  <string id="st_stalker_esc_bridge_zone_smart">
+    <text>Кордон. Міст.</text>
+  </string>
+  <string id="st_stalker_gar_kladbishe">
+    <text>Смітник. Кладовище техніки.</text>
+  </string>
+  <string id="st_stalker_gar_stalker_base">
+    <text>Смітник. База сталкерів.</text>
+  </string>
+  <string id="st_stalker_gar_mishgan_smart">
+    <text>Смітник. Біля переходу на Кордон.</text>
+  </string>
+  <string id="st_stalker_gar_dolg_zastava">
+    <text>Смітник. Застава «Долгу».</text>
+  </string>
+  <string id="st_stalker_gar_desertir_smart">
+    <text>Смітник. Барахолка.</text>
+  </string>
+  <string id="st_stalker_gar_jurok_smart">
+    <text>Смітник. Біля переходу на Кордон №2.</text>
+  </string>
+  <string id="st_stalker_gar_dogs_desertir">
+    <text>Смітник. Зупинка.</text>
+  </string>
+  <string id="st_stalker_gar_ambush">
+    <text>Смітник. Центральна дорога.</text>
+  </string>
+  <string id="st_stalker_gar_corvalol">
+    <text>Смітник. За барахолкою.</text>
+  </string>
+  <string id="st_stalker_gar_forest_scene">
+    <text>Смітник. Ліс.</text>
+  </string>
+  <string id="st_stalker_gar_tushkano_indoor">
+    <text>Смітник. Підземка під ангаром.</text>
+  </string>
+  <string id="st_stalker_gar_boars_smart">
+    <text>Смітник. Лігво кабанів.</text>
+  </string>
+  <string id="st_stalker_gar_pseudodogs_smart">
+    <text>Смітник. Лігво собак.</text>
+  </string>
+  <string id="st_stalker_gar_flesh_smart">
+    <text>Смітник. Лігво плотей.</text>
+  </string>
+  <string id="st_stalker_gar_zombie_forest">
+    <text>Смітник. Ліс 2.</text>
+  </string>
+  <string id="st_stalker_gar_tonnel_bandits">
+    <text>Смітник. Бандитський тунель.</text>
+  </string>
+  <string id="st_stalker_agr_diggers">
+    <text>«Агропром». База дигерів.</text>
+  </string>
+  <string id="st_stalker_agr_pseudogiant">
+    <text>«Агропром». Лігво псевдогіганта.</text>
+  </string>
+  <string id="st_esc_village_smart_name">
+    <text>Селище</text>
+  </string>
+  <string id="st_stalker_esc_sim_1">
+    <text>На ферму йду: там добре місце для відпочинку.</text>
+  </string>
+  <string id="st_esc_sim_1_name">
+    <text>Ферма</text>
+  </string>
+  <string id="st_stalker_esc_stalkers_most_smart">
+    <text>Іду до руїн хутора, що неподалік мосту. Там привал можна гарний зробити.</text>
+  </string>
+  <string id="st_esc_stalkers_most_smart_name">
+    <text>Руїни хутора</text>
+  </string>
 </string_table>

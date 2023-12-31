@@ -1,48 +1,36 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="st_found_new_treasure_ts">
-		<text>NEW STASH</text>
-	</string>
-
-	<string id="st_empty_treasure_ts">
-		<text>STASH TAKEN</text>
-	</string>
-
-	<string id="on_esc">
-		<text>Cordon</text>
-	</string>
-
-	<string id="on_gar">
-		<text>Garbage</text>
-	</string>
-
-	<string id="on_bar">
-		<text>Bar</text>
-	</string>
-
-	<string id="on_agr">
-		<text>Agroprom</text>
-	</string>
-
-	<string id="on_val">
-		<text>Dark Valley</text>
-	</string>
-
-	<string id="on_nsp">
-		<text>Novoshepelychi</text>
-	</string>
-
-	<string id="on_yan">
-		<text>Yantar</text>
-	</string>
-
-	<string id="on_mil">
-		<text>Army warehouses</text>
-	</string>
-
-	<string id="on_labx18">
-		<text>Laboratory X18</text>
-	</string>
-
+  <string id="st_found_new_treasure_ts">
+    <text>NEW STASH</text>
+  </string>
+  <string id="st_empty_treasure_ts">
+    <text>STASH TAKEN</text>
+  </string>
+  <string id="on_esc">
+    <text>Cordon</text>
+  </string>
+  <string id="on_gar">
+    <text>Garbage</text>
+  </string>
+  <string id="on_bar">
+    <text>Bar</text>
+  </string>
+  <string id="on_agr">
+    <text>Agroprom</text>
+  </string>
+  <string id="on_val">
+    <text>Dark Valley</text>
+  </string>
+  <string id="on_nsp">
+    <text>Novoshepelychi</text>
+  </string>
+  <string id="on_yan">
+    <text>Yantar</text>
+  </string>
+  <string id="on_mil">
+    <text>Army warehouses</text>
+  </string>
+  <string id="on_labx18">
+    <text>Laboratory X18</text>
+  </string>
 </string_table>

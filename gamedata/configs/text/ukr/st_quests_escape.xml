@@ -1,1160 +1,868 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="esc_task_actor_treasure">
-		<text>ЗАНАЧКА</text>
-	</string>
-
-	<string id="esc_task_actor_treasure_start_name">
-		<text>Забрати свій хабар</text>
-	</string>
-
-	<string id="esc_task_actor_treasure_start_text">
-		<text>Зовсім недавно залишав свої речі у ничці. Сподіваюсь, вони все ще на місці.</text>
-	</string>
-
-	<string id="esc_trader_take_job">
-		<text>ПЕРШІ ЗАРОБІТКИ</text>
-	</string>
-
-	<string id="esc_trader_take_job_start_name">
-		<text>Поговорити з торговцем</text>
-	</string>
-
-	<string id="esc_trader_take_job_start_text">
-		<text>Сильно ми з Юрком нажерлися. Пора з цим зав'язувати. Треба знайти роботу, піду до Сидоровича.</text>
-	</string>
-
-	<string id="esc_trader_search_collector_arts">
-		<text>НОВА ВИЛАЗКА</text>
-	</string>
-
-	<string id="esc_trader_search_collector_arts_start_name">
-		<text>Знайти збирача артефактів</text>
-	</string>
-
-	<string id="esc_trader_search_collector_arts_start_text">
-		<text>Давно я не блукав по Кордону. Пора згадати минуле. Сидорович попросив знайти збирача артефактів. За словами торговця, він пішов до тунелю з «Електрами», що під мостом.</text>
-	</string>
-
-	<string id="esc_trader_search_collector_arts_pda_taken_name">
-		<text>Розповісти Сидоровичу про смерть збирача</text>
-	</string>
-
-	<string id="esc_trader_search_collector_arts_pda_taken_text">
-		<text>Я знайшов труп збирача артефактів. Пора доповісти Сидоровичу.</text>
-	</string>
-
-	<string id="esc_trader_search_collector_arts_go_back_name">
-		<text>Розповісти Сидоровичу про «смерть» збирача або здати його</text>
-	</string>
-
-	<string id="esc_trader_search_collector_arts_go_back_text">
-		<text>Збирач попав на великі бабки у торговця, і вирішив імітувати свою смерть за допомогою якогось трупа... Треба думати, що з цим робити.</text>
-	</string>
-
-	<string id="esc_find_art_kutek">
-		<text>ТУНЕЛЬ З «ЕЛЕКТРАМИ»</text>
-	</string>
-
-	<string id="esc_find_art_kutek_start_name">
-		<text>Дістати артефакт з аномалії</text>
-	</string>
-
-	<string id="esc_find_art_kutek_start_text">
-		<text>Виходячи з запису збирача артефактів, у тунелі є якийсь артефакт. Треба перевірити.</text>
-	</string>
-
-	<string id="arts_for_trader">
-		<text>АРТЕФАКТИ ДЛЯ ТОРГОВЦЯ</text>
-	</string>
-
-	<string id="trader_arts_inspect_first_anomaly_name">
-		<text>Перевірити наявність артефактів у першій аномалії</text>
-	</string>
-
-	<string id="trader_arts_inspect_second_anomaly_name">
-		<text>Перевірити наявність артефактів у другій аномалії</text>
-	</string>
-
-	<string id="trader_arts_inspect_third_anomaly_name">
-		<text>Перевірити наявність артефактів у третій аномалії</text>
-	</string>
-
-	<string id="trader_arts_inspect_anomalies_text">
-		<text>За кожний принесений артефакт, Сидорович обіцяв грубі гроші, а вони мені зараз дуже потрібні. Хочеться якнайшвидше рвонути вглиб Зони.</text>
-	</string>
-
-	<string id="arts_for_trader_back_name">
-		<text>Повернутися до Сидоровича</text>
-	</string>
-
-	<string id="fatalities_army">
-		<text>ЗАГИБЛІ В АНОМАЛІЇ</text>
-	</string>
-
-	<string id="fatalities_army_start_name">
-		<text>Оглянути місце загибелі військових</text>
-	</string>
-
-	<string id="fatalities_army_start_text">
-		<text>Юрко повідомив, що вояки, яких за нами відправили, згинули в аномалії. Може, у них знайдеться щось цінне. Треба перевірити.</text>
-	</string>
-
-	<string id="esc_mechanic_night_polters">
-		<text>ДИВНІ СВІТІННЯ</text>
-	</string>
-
-	<string id="esc_mechanic_night_polters_wait_night_name">
-		<text>Дочекатися ночі</text>
-	</string>
-
-	<string id="esc_mechanic_night_polters_wait_night_text">
-		<text>Потрібно дочекатися пізньої ночі, щоб перевірити теорію Михайловича про нічні світіння, які він приймає за артефакти. Навідаюсь туди десь о другій, щоб напевно.</text>
-	</string>
-
-	<string id="mechanic_go_check_anomaly_name">
-		<text>Вирушати до аномалії</text>
-	</string>
-
-	<string id="mechanic_go_check_anomaly_text">
-		<text>Вже час вирушати до аномалії та спробувати знайти артефакти, про які говорив технік.</text>
-	</string>
-
-	<string id="mechanic_kill_polters_name">
-		<text>Вбити полтергейстів або повернутися</text>
-	</string>
-
-	<string id="mechanic_kill_polters_text">
-		<text>Світіння були зовсім не від артефактів. Ночами в аномалії з'являються полтергейсти. Вони й створюють такі привабливі світові ілюзії...</text>
-	</string>
-
-	<string id="mechanic_squad_polters_death_name">
-		<text>Розповісти Михайловичу про полтергейсти</text>
-	</string>
-
-	<string id="mechanic_squad_polters_death_text">
-		<text>Вже час розповісти Михайловичу про все, що я побачив у аномалії.</text>
-	</string>
-
-	<string id="esc_fanat_logovo_start">
-		<text>СТАРІ ЗНАЙОМІ</text>
-	</string>
-
-	<string id="esc_fanat_logovo_start_dlg_name">
-		<text>Поговорити з Фанатом</text>
-	</string>
-
-	<string id="esc_fanat_logovo_start_dlg_text">
-		<text>Торговець сказав, що Фанату може знадобитися допомога... а мені бабки зараз дуже потрібні.</text>
-	</string>
-
-	<string id="esc_fanat_logovo">
-		<text>ЛІГВО МУТАНТІВ</text>
-	</string>
-
-	<string id="logovo_take_dinamit_name">
-		<text>Дістати динаміт</text>
-	</string>
-
-	<string id="logovo_take_dinamit_text">
-		<text>Фанат сказав дістати динаміт, поки він з хлопцями дістається місця. Шукати треба десь біля локомотива.</text>
-	</string>
-
-	<string id="logovo_go_marker_name">
-		<text>Дістатися місця</text>
-	</string>
-
-	<string id="logovo_go_marker_text">
-		<text>Фанат давав координати лігва. Потрібно туди вирушати  -  він з хлопцями вже мене чекає.</text>
-	</string>
-
-	<string id="logovo_put_dinamit_name">
-		<text>Поставити динаміт</text>
-	</string>
-
-	<string id="logovo_put_dinamit_text">
-		<text>Фанат з хлопцями мене прикриватиме, поки я ставлю динаміт. З богом.</text>
-	</string>
-
-	<string id="logovo_speak_fanat_name">
-		<text>Поговорити з Фанатом</text>
-	</string>
-
-	<string id="logovo_speak_fanat_text">
-		<text>Нічого так рвонуло. Пора трясти з Фаната нагороду.</text>
-	</string>
-
-	<string id="esc_actor_repair_ar">
-		<text>ПЕРШИЙ АВТОМАТ</text>
-	</string>
-
-	<string id="esc_actor_repair_ar_start_name">
-		<text>Поговорити з техніком</text>
-	</string>
-
-	<string id="esc_actor_repair_ar_start_text">
-		<text>В нагороду Фанат дав свій старий, але цілком справний калаш. Його треба довести до ладу, щоб з нього можна було знову стріляти.</text>
-	</string>
-
-	<string id="esc_actor_repair_ar_wait_name">
-		<text>Дочекатися, поки технік закінчить ремонт</text>
-	</string>
-
-	<string id="esc_actor_repair_ar_wait_text">
-		<text>Михайлович дасть знати, коли закінчить з ремонтом мого калаша. Поки можна зайнятися якимись справами.</text>
-	</string>
-
-	<string id="esc_actor_repair_ar_final_name">
-		<text>Забрати калаш у техніка</text>
-	</string>
-
-	<string id="esc_actor_repair_ar_final_text">
-		<text>Михайлович маякнув, що закінчив роботу. Пора забирати ствол.</text>
-	</string>
-
-	<string id="fanat_friend_quest">
-		<text>БОРГ</text>
-	</string>
-
-	<string id="fanat_friend_quest_start_name">
-		<text>Вибити зі сталкера гроші</text>
-	</string>
-
-	<string id="fanat_friend_quest_start_text">
-		<text>Володько Битий сказав, що кидало знаходиться на околицях елеватора. Треба вибити з нього борг  -  вісім тисяч.</text>
-	</string>
-
-	<string id="fanat_friend_quest_vibil_name">
-		<text>Віддати гроші Володькові</text>
-	</string>
-
-	<string id="fanat_friend_quest_vibil_text">
-		<text>Слизький тип виявився, але гроші все ж таки тепер у мене. Далі все просто.</text>
-	</string>
-
-	<string id="esc_trader_take_job_second">
-		<text>РОБОТА НА КОРДОНІ</text>
-	</string>
-
-	<string id="esc_trader_take_job_2_start_name">
-		<text>Поговорити із Сидоровичем</text>
-	</string>
-
-	<string id="esc_trader_take_job_2_start_text">
-		<text>Та що ж таке, знову в мотлох нажерся... Як же башка тріщить! Все, точно зав'язую. Піду до Сидора по роботу, інакше такими темпами ніколи до Смітника не доберуся...</text>
-	</string>
-
-	<string id="esc_defence_village">
-		<text>АТАКА НА СЕЛО</text>
-	</string>
-
-	<string id="esc_defence_village_start_name">
-		<text>Відбитися від мутантів</text>
-	</string>
-
-	<string id="esc_defence_village_start_text">
-		<text>Дідько, звідки вони взялися?! Це все кляті яйцеголові зі своїм приладом!</text>
-	</string>
-
-	<string id="esc_defence_village_tech_name">
-		<text>Повернутися до техніка</text>
-	</string>
-
-	<string id="esc_defence_village_tech_text">
-		<text>Атаку відбито. Пора з'ясувати, що ж це за прилад, що приманює монстрів...</text>
-	</string>
-
-	<string id="esc_technic_device_atp_task">
-		<text>РОБОТА НА КОМБЕЗ</text>
-	</string>
-
-	<string id="esc_technic_device_atp_task_start_name">
-		<text>Встановити прилад вчених на АТП</text>
-	</string>
-
-	<string id="esc_technic_device_atp_task_start_text">
-		<text>Михайлович попросив встановити прилад вчених у бандитському таборі на АТП, за що обіцяв підігнати комбез.</text>
-	</string>
-
-	<string id="esc_technic_device_atp_task_final_name">
-		<text>Повернутися до Михайловича</text>
-	</string>
-
-	<string id="esc_technic_device_atp_task_final_text">
-		<text>Справу виконано. Тепер час повертатися до Михайловича за обіцяним комбезом.</text>
-	</string>
-
-	<string id="esc_trader_fail_speak_jurok">
-		<text>ДРУГ НЕ ПОКИНЕ</text>
-	</string>
-
-	<string id="esc_trader_fail_speak_jurok_start_name">
-		<text>Поговорити з Юрком</text>
-	</string>
-
-	<string id="esc_trader_fail_speak_jurok_start_text">
-		<text>Найближчим часом мої справи з торговцем закінчено. Треба б сходити до Юрка: більше тут хороших знайомих у мене немає. Сподіваюсь, він вже проспався і поможе порадою...</text>
-	</string>
-
-	<string id="travel_task_provodnik">
-		<text>РОБОТА ПРОВІДНИКОМ</text>
-	</string>
-
-	<string id="travel_task_provodnik_go_tonnel_name">
-		<text>Вирушати до тунелю</text>
-	</string>
-
-	<string id="travel_task_provodnik_go_tonnel_text">
-		<text>Так, сильно Юрко набанячився. Але нічого, зате за нього новачків відведу та грошей зароблю. Вести треба рано вранці, інакше вийде, як минулого разу...</text>
-	</string>
-
-	<string id="travel_task_provodnik_go_village_name">
-		<text>Відвести новачків у село</text>
-	</string>
-
-	<string id="travel_task_provodnik_go_village_text">
-		<text>Якісь вони дивні... Ну гаразд, зараз відведу, отримаю грошенят, закуплюся і можна рвати на Смітник.</text>
-	</string>
-
-	<string id="travel_robbery_speak">
-		<text>ПОГРАБУВАННЯ</text>
-	</string>
-
-	<string id="travel_robbery_speak_start_name">
-		<text>Повернутися в село</text>
-	</string>
-
-	<string id="travel_robbery_speak_start_text">
-		<text>Заробив, бляха, грошей, ага... Де ж цих виродків тепер шукати? Де мої речі? Піду до Юрка.</text>
-	</string>
-
-	<string id="travel_robbery_task">
-		<text>ВКРАДЕНЕ ДОБРО</text>
-	</string>
-
-	<string id="travel_robbery_task_grabitely_name">
-		<text>Знайти злодіїв</text>
-	</string>
-
-	<string id="travel_robbery_task_grabitely_text">
-		<text>От же скотиняки  -  щойно прийшли у Зону і вже таким промишляють! От як знайду гадів! Юрко казав пошукати на елеваторі або на фермі.</text>
-	</string>
-
-	<string id="travel_robbery_task_items_name">
-		<text>Забрати речі</text>
-	</string>
-
-	<string id="travel_robbery_task_items_text">
-		<text>Слава богу, мої речі неушкоджені! Не встигли покидьки продати.</text>
-	</string>
-
-	<string id="travel_robbery_task_go_back_name">
-		<text>Повернутися до Юрка</text>
-	</string>
-
-	<string id="travel_robbery_task_go_back_text">
-		<text>Зі злодіями закінчив. Треба повернути пістолет Юркові.</text>
-	</string>
-
-	<string id="go_to_garbage">
-		<text>СТРАХ НЕВІДОМОГО</text>
-	</string>
-
-	<string id="go_to_garbage_start_name">
-		<text>Вирушати на Смітник</text>
-	</string>
-
-	<string id="go_to_garbage_start_text">
-		<text>Нарешті я закінчив із цим нудним Кордоном, тепер побачу нові околиці! Одночасно і страшно, і дуже хочеться подивитися на територію Зони за межами Кордону. Мені пора.</text>
-	</string>
-
-	<string id="trader_notebook_task">
-		<text>ДРІБ'ЯЗКОВА РОБОТА</text>
-	</string>
-
-	<string id="trader_notebook_go_technic_name">
-		<text>Забрати ноутбук торговця</text>
-	</string>
-
-	<string id="trader_notebook_go_technic_text">
-		<text>Сидор, судячи з усього, своїми клешнями угробив ноут. Зараз він у техніка, і його треба забрати.</text>
-	</string>
-
-	<string id="trader_notebook_go_trader_name">
-		<text>Віднести ноутбук Сидоровичу</text>
-	</string>
-
-	<string id="trader_notebook_go_trader_text">
-		<text>Михайлович полагодив ноутбук. Тепер його можна віддати торговцю на заміну старому компу.</text>
-	</string>
-
-	<string id="stalker_car_benzin_task">
-		<text>ВИГІДНА ПРОПОЗИЦІЯ</text>
-	</string>
-
-	<string id="stalker_car_benzin_task_go_village_name">
-		<text>Сходити до техніка за бензином</text>
-	</string>
-
-	<string id="stalker_car_benzin_task_go_village_text">
-		<text>Чоловік знайшов мало не посеред дороги нульову тачку і просить зганяти за бензином, поки сам її чатує.</text>
-	</string>
-
-	<string id="stalker_car_benzin_task_go_car_name">
-		<text>Віднести каністру сталкеру</text>
-	</string>
-
-	<string id="stalker_car_benzin_task_go_car_text">
-		<text>Ще косар довелося віддати... Навіщо я підписався на цю херню? Сподіваюсь, хоч нагорода окупить витрачене.</text>
-	</string>
-
-	<string id="help_stalker_car">
-		<text>ТОВАРИШ У БІДІ</text>
-	</string>
-
-	<string id="help_stalker_name">
-		<text>Допомогти сталкерові</text>
-	</string>
-
-	<string id="help_stalker_text">
-		<text>На сталкера напали бандити, він просить допомоги. Гріх не помогти.</text>
-	</string>
-
-	<string id="visit_stancia">
-		<text>МРІЇ</text>
-	</string>
-
-	<string id="visit_stancia_start_name">
-		<text>Побувати на ЧАЕС</text>
-	</string>
-
-	<string id="visit_stancia_start_text">
-		<text>От, бляха, наслухався всяких байок, так і хочеться у Центр Зони! Артефакти, Виконавець Бажань!</text>
-	</string>
-
-	<string id="esc_trader_job">
-		<text>РОБОТА НА ТОРГОВЦЯ</text>
-	</string>
-
-	<string id="esc_task_for_trailer">
-		<text>ЗНИКЛИЙ СТАЛКЕР</text>
-	</string>
-
-	<string id="esc_task_for_trailer_search_stalker_name">
-		<text>Знайти сліди Кирюхи</text>
-	</string>
-
-	<string id="esc_task_for_trailer_search_stalker_text">
-		<text>Сталкер на прізвисько Шайба попросив по можливості знайти його зниклого друга. Мабуть, він може бути десь за містком.</text>
-	</string>
-
-	<string id="esc_task_for_trailer_follow_the_sounds_name">
-		<text>Піти на крики про допомогу</text>
-	</string>
-
-	<string id="esc_task_for_trailer_follow_the_sounds_text">
-		<text>З території елеватора доносяться крики про допомогу. Треба перевірити.</text>
-	</string>
-
-	<string id="esc_task_for_trailer_kill_flesh_name">
-		<text>Вбити незвичайну плоть</text>
-	</string>
-
-	<string id="esc_task_for_trailer_kill_flesh_text">
-		<text>На елеваторі мешкає якась плоть, що вміє говорити, і через яку, схоже, загинуло багато сталкерів.</text>
-	</string>
-
-	<string id="esc_task_for_trailer_help_stalker_name">
-		<text>Допомогти вцілілому</text>
-	</string>
-
-	<string id="esc_task_for_trailer_help_stalker_text">
-		<text>Потрібно розпитати вцілілого про те, що сталося на елеваторі та спробувати допомогти дістатися до безпечного місця.</text>
-	</string>
-
-	<string id="esc_task_for_trailer_start_village_name">
-		<text>Вирушити в село за допомогою</text>
-	</string>
-
-	<string id="esc_task_for_trailer_start_village_text">
-		<text>Потрібно розповісти Шайбі про те, що сталося, про смерть його товариша та вирішити, що робити далі.</text>
-	</string>
-
-	<string id="esc_task_for_trailer_attack_ready_name">
-		<text>Повідомити Шайбі про готовність</text>
-	</string>
-
-	<string id="esc_task_for_trailer_attack_ready_text">
-		<text>Коли буду готовий, треба повідомити Шайбі. Підемо знищувати тих незвичних плотей.</text>
-	</string>
-
-	<string id="esc_task_for_trailer_attack_start_name">
-		<text>Розстріляти зграю плотей</text>
-	</string>
-
-	<string id="esc_task_for_trailer_attack_start_text">
-		<text>Пора помститися цим тварюкам за згублених на елеваторі сталкерів. Ну, з богом...</text>
-	</string>
-
-	<string id="esc_task_for_trailer_attack_surge_name">
-		<text>Сховатися від викиду у тунелі</text>
-	</string>
-
-	<string id="esc_task_for_trailer_attack_surge_text">
-		<text>Як же не вчасно! Потрібно терміново бігти до тунелю...</text>
-	</string>
-
-	<string id="esc_task_for_trailer_attack_surge_defence_name">
-		<text>Утримати позиції у тунелі</text>
-	</string>
-
-	<string id="esc_task_for_trailer_attack_surge_defence_text">
-		<text>Здається, ці тварюки ув'язалися за нами, та ще й під викид... Їх не можна підпускати.</text>
-	</string>
-
-	<string id="esc_task_for_trailer_attack_go_village_name">
-		<text>Повернутися в село</text>
-	</string>
-
-	<string id="esc_task_for_trailer_attack_go_village_text">
-		<text>От вже нас сподобило, але впоралися! Пора повертатися. Треба відпочити.</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle">
-		<text>УНІКАЛЬНА «ГРОЗА»</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle_go_technic_name">
-		<text>Спитати Михайловича про ремонт</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle_go_technic_text">
-		<text>Оце так, про таку пушку можна лише мріяти! Щоправда, стан у неї нікчемний. Звернуся до Михайловича за допомогою.</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle_search_technic_materials_name">
-		<text>Дістати Михайловичу матеріали</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle_search_technic_materials_text">
-		<text>Михайлович не погодився на гроші за ремонт «Грози» і попросив дістати йому матеріали для роботи. Каже, потрібно лізти в підземку, що під ангаром на Смітнику. Притягну все, що знайду.</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle_final_technic_materials_name">
-		<text>Віддати Михайловичу матеріали</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle_final_technic_materials_text">
-		<text>Нарешті я зібрав йому це барахло. Пора повертатися за пушкою.</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle_wait_time_name">
-		<text>Дочекатися, поки технік закінчить ремонт</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle_wait_time_text">
-		<text>Михайлович дасть знати, коли закінчить з ремонтом гвинтівки. Поки можна зайнятися своїми справами.</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle_take_name">
-		<text>Забрати зброю</text>
-	</string>
-
-	<string id="esc_repair_nimble_rifle_take_text">
-		<text>Михайлович повідомив, що закінчив з ремонтом. Час забирати довгоочікувану пушку.</text>
-	</string>
-
-	<string id="esc_village_new_meet">
-		<text>СТАРІ ДРУЗІ</text>
-	</string>
-
-	<string id="esc_village_new_meet_start_name">
-		<text>Зустрітися з Юрком</text>
-	</string>
-
-	<string id="esc_village_new_meet_start_text">
-		<text>Давно вже не був на Кордоні, навіть встиг скучити за цими місцями. Мій приятель Юрко попросив зайти в село новачків: він має для мене якусь розмову.</text>
-	</string>
-
-	<string id="esc_strange_things">
-		<text>ДУЖЕ ДИВНІ СПРАВИ</text>
-	</string>
-
-	<string id="esc_strange_things_speak_fanat_name">
-		<text>Поговорити з Фанатом</text>
-	</string>
-
-	<string id="esc_strange_things_speak_fanat_text">
-		<text>Стурбований Юрко повідомив про якісь проблеми. Треба дізнатися у Фаната, що сталося.</text>
-	</string>
-
-	<string id="esc_strange_things_start_go_name">
-		<text>Вирушати до табору найманців</text>
-	</string>
-
-	<string id="esc_strange_things_start_go_text">
-		<text>Фанат розповів про групу найманців, які вбили трьох сталкерів із села новачків. На світанку висуваємось до їхнього табору, щоб поквитатися.</text>
-	</string>
-
-	<string id="esc_strange_things_attack_mercs_name">
-		<text>Атакувати найманців</text>
-	</string>
-
-	<string id="esc_strange_things_attack_mercs_text">
-		<text>Потрібно допомогти моїм товаришам атакувати табір найманців.</text>
-	</string>
-
-	<string id="esc_strange_things_attack_speak_fanat_name">
-		<text>Поговорити з Фанатом</text>
-	</string>
-
-	<string id="esc_strange_things_attack_speak_fanat_text">
-		<text>Найманці безслідно зникли з табору. Потрібно спитати Фаната, що він про це думає.</text>
-	</string>
-
-	<string id="esc_jurok_drunk_task">
-		<text>НІЧОГО НЕ ЗМІНЮЄТЬСЯ</text>
-	</string>
-
-	<string id="esc_jurok_drunk_task_start_name">
-		<text>Випити з Юрком біля багаття</text>
-	</string>
-
-	<string id="esc_jurok_drunk_task_start_text">
-		<text>Тільки-но відійшов після минулого, а мене вже знову кличуть випити. Не відмовлятиму старому другу  -  все одно зайнятися особливо нема чим.</text>
-	</string>
-
-	<string id="esc_scientists_task">
-		<text>СТЕЖЕННЯ</text>
-	</string>
-
-	<string id="esc_scientists_task_start_name">
-		<text>Пробратися до блокпосту</text>
-	</string>
-
-	<string id="esc_scientists_task_start_text">
-		<text>Сидорович попросив простежити за вченими. Їхня група ось-ось має прибути на КПП.</text>
-	</string>
-
-	<string id="esc_scientists_task_wait_alarm_name">
-		<text>Зачекати, доки тривога вщухне</text>
-	</string>
-
-	<string id="esc_scientists_task_wait_alarm_text">
-		<text>Мене помітили... В бій краще не лізти. Варто трохи перечекати, доки все вщухне. Може, поспати у селі?</text>
-	</string>
-
-	<string id="esc_scientists_task_jobs_cancel_name">
-		<text>Розповісти Сидоровичу, що роботи вчених скасовані</text>
-	</string>
-
-	<string id="esc_scientists_task_jobs_cancel_text">
-		<text>Військові скасували польові роботи з вченими через те, що розпочався бій. Думаю, вони тепер довго сюди не поткнуться.</text>
-	</string>
-
-	<string id="esc_scientists_task_follow_the_scientists_name">
-		<text>Простежити за вченими</text>
-	</string>
-
-	<string id="esc_scientists_task_follow_the_scientists_text">
-		<text>Потрібно акуратно пройти за вченими та зрозуміти, що вони забули на Кордоні.</text>
-	</string>
-
-	<string id="esc_scientists_task_make_decision_name">
-		<text>Прийняти рішення</text>
-	</string>
-
-	<string id="esc_scientists_task_make_decision_text">
-		<text>От бляха! Тепер треба якось викручуватись. Якщо просто так сказати Сидоровичу про провал, моя репутація зійде нанівець. Може, спробувати розправитися з вояками й дізнатись, чого хотіли вчені? А адреналін як б'є!</text>
-	</string>
-
-	<string id="esc_scientists_task_talk_scientist_name">
-		<text>Поговорити з вченими</text>
-	</string>
-
-	<string id="esc_scientists_task_talk_scientist_text">
-		<text>Ото я дров наламав... Військові мертві. Тепер варто поговорити з вченими, якщо вже стільки наброїв.</text>
-	</string>
-
-	<string id="esc_scientists_task_check_corpses_name">
-		<text>Обшукати тіла вчених</text>
-	</string>
-
-	<string id="esc_scientists_task_check_corpses_text">
-		<text>Коли вже так вийшло, потрібно оглянути тіла вчених. Може, знайду щось цікаве.</text>
-	</string>
-
-	<string id="esc_scientists_task_fail_speak_trader_name">
-		<text>Повернутися до Сидоровича</text>
-	</string>
-
-	<string id="esc_scientists_task_fail_speak_trader_text">
-		<text>Мені вдалося дістати пристрій вчених. Розповім Сидоровичу, що польові роботи не будуть проведені.</text>
-	</string>
-
-	<string id="esc_scientiscts_task_fly_village_compl_name">
-		<text>Повернутися до торговця</text>
-	</string>
-
-	<string id="esc_scientiscts_task_fly_village_compl_text">
-		<text>Простежив за вченими. Пора розказати Сидоровичу подробиці й забрати нагороду.</text>
-	</string>
-
-	<string id="esc_scientiscts_task_fly_village_scene_cancel_name">
-		<text>Передати Сидоровичу інформацію від Шайби</text>
-	</string>
-
-	<string id="esc_scientiscts_task_fly_village_scene_cancel_text">
-		<text>Сталкер на прізвисько Шайба оголосив сталкерам, що вчені з військовими встановили якийсь прилад у летючому селищі за АТП. Розповім про це торговцю.</text>
-	</string>
-
-	<string id="esc_technic_scientists_device_task">
-		<text>ДОРУЧЕННЯ ТЕХНІКА</text>
-	</string>
-
-	<string id="esc_technic_scientists_device_task_start_name">
-		<text>Принести Михайловичу пристрій вчених</text>
-	</string>
-
-	<string id="esc_technic_scientists_device_task_start_text">
-		<text>Михайлович попросив принести пристрій вчених. Мабуть, для техніка там знайдеться щось цікаве.</text>
-	</string>
-
-	<string id="esc_technic_scientists_device_task_teleports_go_name">
-		<text>Дістати пристрій вчених, пройшовши через телепорти</text>
-	</string>
-
-	<string id="esc_technic_scientists_device_task_teleports_go_text">
-		<text>Ніколи не заходив у телепорти... Сподіваюсь, мене не розірве на шматки. Втім, головастий цілком спокійно гуляв по них. Головне, знайти правильний маршрут, щоб дістатися пристрою.</text>
-	</string>
-
-	<string id="esc_technic_scientists_device_task_final_talk_name">
-		<text>Віддати пристрій вчених Михайловичу</text>
-	</string>
-
-	<string id="esc_technic_scientists_device_task_final_talk_text">
-		<text>Дістав цю залізяку. Тепер віднесу техніку, він обіцяв нагороду.</text>
-	</string>
-
-	<string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_name">
-		<text>Дістати пристрій вчених в аномальному селі</text>
-	</string>
-
-	<string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_text">
-		<text>Ніколи не заходив у телепорти. Сподіваюсь, мене не розірве на шматки... Втім, вчений якось пройшов в обидві сторони. Головне, знайти правильний маршрут, щоб дістатися пристрою.</text>
-	</string>
-
-	<string id="esc_sweep_task">
-		<text>ЗАЧИЩЕННЯ</text>
-	</string>
-
-	<string id="esc_sweep_task_kill_dogs_name">
-		<text>Розібратися з мутантами недалеко від тунелю</text>
-	</string>
-
-	<string id="esc_sweep_task_kill_dogs_text">
-		<text>Сидорович попросив позбутися нечисті неподалік від тунелю з «Електрами».</text>
-	</string>
-
-	<string id="esc_sweep_task_final_talk_name">
-		<text>Повернутися по винагороду</text>
-	</string>
-
-	<string id="esc_sweep_task_final_talk_text">
-		<text>Тварюк вбито. Пора забирати нагороду у Сидоровича.</text>
-	</string>
-
-	<string id="find_the_missing_stalker">
-		<text>МАЙСТРИ З КОРДОНУ</text>
-	</string>
-
-	<string id="esc_find_the_missing_stalker_start_name">
-		<text>Знайти сталкера на прізвисько Німий</text>
-	</string>
-
-	<string id="esc_find_the_missing_stalker_start_text">
-		<text>Сталкери з Кордону втратили свого товариша. За їхніми словам, він вирушав на розвідку до Армійських складів. Якщо колись там опинюсь, треба буде вивудити інформацію про нього.</text>
-	</string>
-
-	<string id="esc_find_the_missing_stalker_help_name">
-		<text>Витягти Німого</text>
-	</string>
-
-	<string id="esc_find_the_missing_stalker_help_text">
-		<text>Німий, сталкер з групи Лютого, запроторив за ґрати бандитів. Треба якось його звідти витягти...</text>
-	</string>
-
-	<string id="esc_find_the_missing_stalker_take_reward_name">
-		<text>Зустрітися зі сталкерами в барі</text>
-	</string>
-
-	<string id="esc_find_the_missing_stalker_take_reward_text">
-		<text>Мені вдалося звільнити сталкера на прізвисько Німий з полону бандитів. Він запропонував мені зустрітися в барі й відсвяткувати його втечу.</text>
-	</string>
-
-	<string id="esc_find_the_missing_stalker_take_second_reward_name">
-		<text>Повернутися до Лютого</text>
-	</string>
-
-	<string id="esc_find_the_missing_stalker_take_second_reward_text">
-		<text>Мені вдалося звільнити друга Лютого, який дивом опинився у Темній долині. Німий сказав, що мужики з його групи будуть раді мене бачити, пропонував відсвяткувати його втечу. Варто навідатися до них.</text>
-	</string>
-
-	<string id="esc_visit_trader_task">
-		<text>ЧУЖИЙ СЕРЕД ЧУЖИХ</text>
-	</string>
-
-	<string id="esc_visit_trader_task_talk_with_leader_name">
-		<text>Поговорити з командиром блокпосту</text>
-	</string>
-
-	<string id="esc_visit_trader_task_talk_with_leader_text">
-		<text>Для подальшого просування розслідування, перш за все варто поговорити з командиром блокпосту. Зараз мені зможе допомогти будь-яка інформація.</text>
-	</string>
-
-	<string id="esc_visit_trader_task_talk_with_prison_stalkers_name">
-		<text>Допитати арештованих сталкерів</text>
-	</string>
-
-	<string id="esc_visit_trader_task_talk_with_prison_stalkers_text">
-		<text>Перед походом до Сидоровича варто опитати арештантів на КПП. Можливо, вони щось знають про сталкера, якого ми шукаємо.</text>
-	</string>
-
-	<string id="esc_visit_trader_task_start_name">
-		<text>Перевдягнутися у сталкерський одяг</text>
-	</string>
-
-	<string id="esc_visit_trader_task_start_text">
-		<text>Іти у військовій формі у село новачків  -  чистої води провокація сталкерів. Командир КПП розповів про тонну конфіскату з нелегалів. Потрібно знайти підходящий одяг або взагалі йти в чому мати народила.</text>
-	</string>
-
-	<string id="esc_visit_trader_task_go_name">
-		<text>Поговорити з Сидоровичем</text>
-	</string>
-
-	<string id="esc_visit_trader_task_go_text">
-		<text>Пора переговорити з Сидоровичем щодо сталкера на прізвисько Сокира. Під таким ім'ям його знають місцеві сталкери, якщо ув'язнений мені не збрехав.</text>
-	</string>
-
-	<string id="esc_first_actor_bridge_task">
-		<text>ПО СЛІДАХ СТАЛКЕРА</text>
-	</string>
-
-	<string id="esc_first_actor_bridge_task_start_name">
-		<text>Вирушити до зруйнованого мосту</text>
-	</string>
-
-	<string id="esc_first_actor_bridge_task_start_text">
-		<text>Сидорович нічого не розповів мені про сталкера, зате видав його точне місцеперебування. Відчуваю, або дід мене обвів навколо пальця, або тут є якась пастка.</text>
-	</string>
-
-	<string id="esc_first_actor_bridge_task_fail_name">
-		<text>Шукати зачіпки на Кордоні</text>
-	</string>
-
-	<string id="esc_first_actor_bridge_task_fail_text">
-		<text>Не вдалося дістатися Сидоровича зі своїми лахами, а усі місцеві немов води у рота понабирали. Далі доведеться шукати інформацію про сталкера самому. Варто пройтися вглиб Кордону: може, там хтось щось підкаже.</text>
-	</string>
-
-	<string id="esc_scientist_in_trouble_task">
-		<text>ВЧЕНИЙ У БІДІ</text>
-	</string>
-
-	<string id="esc_scientist_in_trouble_task_start_name">
-		<text>Дістатися Смітника</text>
-	</string>
-
-	<string id="esc_scientist_in_trouble_task_start_text">
-		<text>Полковник попросив виручити одного вченого, який примудрився з дорогим обладнанням потрапити до рук бандитів. І чому він вирушив без супроводу?</text>
-	</string>
-
-	<string id="esc_scientist_in_trouble_task_help_name">
-		<text>Допомогти співробітнику</text>
-	</string>
-
-	<string id="esc_scientist_in_trouble_task_help_text">
-		<text>Я на Смітнику. Пора виручати вченого, що потрапив у веремію.</text>
-	</string>
-
-	<string id="esc_scientist_in_trouble_task_kill_bandits_name">
-		<text>Вбити бандитів і врятувати Коваля</text>
-	</string>
-
-	<string id="esc_scientist_in_trouble_task_kill_bandits_text">
-		<text>Вченим, якого необхідно було виручити, виявився Коваль. Бандити прийняли його з новим детектором. Бізнес полковника вже починає переходити усі межі. Втім, все одно доведеться допомогти.</text>
-	</string>
-
-	<string id="esc_scientist_in_trouble_task_talk_name">
-		<text>Поговорити з Ковалем</text>
-	</string>
-
-	<string id="esc_scientist_in_trouble_task_talk_text">
-		<text>Бандити більше не перешкоджатимуть. Пора поставити цьому «вченому» кілька питань.</text>
-	</string>
-
-	<string id="esc_composer_task">
-		<text>СТАРА ГВАРДІЯ</text>
-	</string>
-
-	<string id="esc_composer_task_talk_with_gar_trader_name">
-		<text>Поговорити з Костуром</text>
-	</string>
-
-	<string id="esc_composer_task_talk_with_gar_trader_text">
-		<text>Костур повідомив, що в нього є якась термінова розмова. Потрібно навідатися за можливості.</text>
-	</string>
-
-	<string id="esc_composer_task_start_name">
-		<text>Зустрітися з групою сталкерів</text>
-	</string>
-
-	<string id="esc_composer_task_start_text">
-		<text>Сидорович відправив на Смітник допомогти групі сталкерів. Потрібно забезпечити їхню безпеку, поки ті шукають артефакти.</text>
-	</string>
-
-	<string id="esc_composer_task_actor_check_corpses_name">
-		<text>Оглянути місце загибелі сталкерів</text>
-	</string>
-
-	<string id="esc_composer_task_actor_check_corpses_text">
-		<text>Вся група мертва. Потрібно оглянути місце загибелі та обшукати тіла на предмет якоїсь інформації.</text>
-	</string>
-
-	<string id="esc_composer_task_meet_merc_leader_name">
-		<text>Зустрітися із Візирем</text>
-	</string>
-
-	<string id="esc_composer_task_meet_merc_leader_text">
-		<text>Знайшов КПК найманців, у якому є наводка на якогось Візиря. За їхнім регламентом, знайдений КПК я маю віднести їхньому ватажку. Судячи з координат, мені в Темну долину.</text>
-	</string>
-
-	<string id="esc_composer_task_check_spare_seat_name">
-		<text>Перевірити запасне місце зустрічі</text>
-	</string>
-
-	<string id="esc_composer_task_check_spare_seat_text">
-		<text>Візирь відправив мене з одним зі своїх бійців перевірити якесь запасне місце зустрічі. Мало що розумію, але відмовлятися не можна було: мутні вони якісь, прибили б ще на місці...</text>
-	</string>
-
-	<string id="esc_composer_task_check_bandit_savior_treasure_name">
-		<text>Прочитати інформацію з КПК сталкера у сховку Купи</text>
-	</string>
-
-	<string id="esc_composer_task_check_bandit_savior_treasure_text">
-		<text>На місці смерті групи сталкерів Купа знайшов КПК, а щоб переконатися у відсутності хвоста, тимчасово залишив його у сховку. Зараз все стихло, можна заглянути туди й спробувати знайти потенційно корисну інформацію у цій справі.</text>
-	</string>
-
-	<string id="esc_composer_task_check_bandit_savior_treasure_compl_name">
-		<text>Поговорити з Купою</text>
-	</string>
-
-	<string id="esc_composer_task_check_bandit_savior_treasure_compl_text">
-		<text>За інформацією з КПК сталкера складається досить цікава картина. Потрібно обговорити подальший план дій з Купою.</text>
-	</string>
-
-	<string id="esc_composer_task_find_survivors_name">
-		<text>Знайти вцілілих з групи сталкерів та дізнатися, що сталося</text>
-	</string>
-
-	<string id="esc_composer_task_find_survivors_text">
-		<text>Бандит на прізвисько Купа допоміг вибратися з-під дула сталкера з групи Візиря. Тепер потрібно дістати будь-яку інформацію стосовно вантажу, який несли сталкери. На тілі одного з них Купа знайшов КПК, в якому є інформація про місцезнаходження одного з їхніх товаришів. Потрібно туди навідатись та дізнатися подробиць.</text>
-	</string>
-
-	<string id="esc_composer_task_wait_time_name">
-		<text>Чекати на вказівки від Смишлова</text>
-	</string>
-
-	<string id="esc_composer_task_wait_time_text">
-		<text>Якийсь професор Смишлов дистанційно лагодить невідомий нам з Курою пристрій, який, вочевидь, далеко не нешкідливий. Потрібно дочекатися на вказівки від Смишлова, утримуючи позиції навколо цієї залізяки.</text>
-	</string>
-
-	<string id="esc_composer_task_talk_after_attack_name">
-		<text>Поговорити з Купою</text>
-	</string>
-
-	<string id="esc_composer_task_talk_after_attack_text">
-		<text>Атаку відбито, подальші інструкції від Смишлова отримані. Потрібно обговорити подальший план дій з Купою та вирішити, що робити з незнайомцем Птахою.</text>
-	</string>
-
-	<string id="esc_composer_task_get_to_the_fork_name">
-		<text>Дістатися розвилки</text>
-	</string>
-
-	<string id="esc_composer_task_get_to_the_fork_text">
-		<text>Поки рушаймо в бік Смітника, треба вирішити, кому зрештою віддаватимемо пристрій: Смишлову чи людям Турова, з якими нам, по суті, ще не довелося познайомитись.</text>
-	</string>
-
-	<string id="esc_composer_task_wait_to_garbage_name">
-		<text>Вирішити, що робити далі</text>
-	</string>
-
-	<string id="esc_composer_task_wait_to_garbage_text">
-		<text>Ми біля розвилки. Тепер потрібно прийняти остаточне рішення, від якого залежатиме, хто отримає пристрій: Туров чи Смишлов.</text>
-	</string>
-
-	<string id="esc_composer_task_controler_kill_name">
-		<text>Вбити контролера і провести заміри</text>
-	</string>
-
-	<string id="esc_composer_task_controler_kill_text">
-		<text>Туров зажадав провести виміри випромінювання в безпосередній близькості від місця знаходження контролера, якого потрібно для початку вбити.</text>
-	</string>
-
-	<string id="esc_composer_task_controler_kill_complete_name">
-		<text>Повернутися до Турова</text>.
-	</string>
-
-	<string id="esc_composer_task_controler_kill_complete_text">
-		<text>З божою допомогою вдалося вбити контролера та провести заміри. Тепер час до Турова.</text>
-	</string>
-
-	<string id="esc_composer_task_visit_scientist_genius_name">
-		<text>Зустрітися зі Смишловим</text>.
-	</string>
-
-	<string id="esc_composer_task_visit_scientist_genius_text">
-		<text>-</text>
-	</string>
-
-	<string id="esc_composer_task_visit_trader_name">
-		<text>Взяти у Сидоровича комплект псі-блокад</text>
-	</string>	
-
-	<string id="esc_composer_task_visit_trader_text">
-		<text>Смишлову потрібні препарати для псі-захисту. Він домовився із Сидоровичем про угоду, мені залишилося їх забрати.</text>
-	</string>
-
-	<string id="esc_composer_task_drugs_complete_name">
-		<text>Віднести препарати Смишлову</text>
-	</string>
-
-	<string id="esc_composer_task_drugs_complete_text">
-		<text>Торговець люб'язно віддав комплект псі-блокад. Час рухати до Смишлова.</text>
-	</string>
-
-	<string id="esc_composer_task_scientist_wait_actor_name">
-		<text>Повідомити Смишлову про готовність</text>
-	</string>
-
-	<string id="esc_composer_task_scientist_wait_actor_text">
-		<text>Смишлов чекає, щоб почати рухатися до Турова. Потрібно якнайшвидше закінчувати справи й вирушати.</text>
-	</string>
-
-	<string id="esc_composer_task_visit_scientist_boss_final_name">
-		<text>Відправлятися до Турова</text>
-	</string>
-
-	<string id="esc_composer_task_visit_scientist_boss_final_text">
-		<text>-</text>
-	</string>
-
-	<string id="esc_stalker_liar_task">
-		<text>НЕЗВИЧАЙНИЙ АРТЕФАКТ</text>
-	</string>
-
-	<string id="esc_stalker_liar_task_wait_name">
-		<text>Вирушити з Брехуном за артефактом</text>
-	</string>
-
-	<string id="esc_stalker_liar_task_wait_text">
-		<text>Сталкер з села, на прізвисько Брехун, розповів, що бачив незвичайний артефакт за залізничним насипом. Варто вирушити з ним туди й перевірити, чи це так насправді.</text>
-	</string>
-
-	<string id="esc_stalker_liar_task_take_artefact_name">
-		<text>Дістати артефакт</text>
-	</string>
-
-	<string id="esc_stalker_liar_task_take_artefact_text">
-		<text>Потрібно слідувати за Брехуном та дістати артефакт, про який він говорив.</text>
-	</string>
-
-	<string id="esc_stalker_liar_task_artefact_talk_name">
-		<text>Показати Брехуну артефакт</text>
-	</string>
-
-	<string id="esc_stalker_liar_task_artefact_talk_text">
-		<text>Брехун не обдурив: ми дійсно знайшли якийсь рідкісний артефакт за фермою. Пора обговорити з ним це.</text>
-	</string>
-
-	<string id="esc_stalker_liar_task_artefact_wait_trade_name">
-		<text>Дочекатися, поки Брехун продасть артефакт</text>
-	</string>
-
-	<string id="esc_stalker_liar_task_artefact_wait_trade_text">
-		<text>Справу виконано. Брехун сказав, розбереться зі справами, продасть артефакт і дасть знати, коли приходити за своєю часткою.</text>
-	</string>
-
-	<string id="esc_stalker_liar_task_take_reward_name">
-		<text>Забрати свою частку</text>
-	</string>
-
-	<string id="esc_stalker_liar_task_take_reward_text">
-		<text>Брехун продав артефакт. Вже час взяти у нього свою частку.</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_task_name">
-		<text>Допомога Михайловичу</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_1_task_start_name">
-		<text>Знайти інструменти для грубої роботи</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_1_task_start_text">
-		<text>Михайлович попросив знайти інструменти для грубої роботи, щоб мати можливість робити деякі прості апгрейди спорядження.</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_1_task_final_name">
-		<text>Віднести інструменти для грубої роботи замовнику</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_1_task_final_text">
-		<text>Вдалося знайти інструменти для грубої роботи. Тепер Михайлович зможе робити які-не-які апгрейди для моєї споряги.</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_2_task_start_name">
-		<text>Знайти інструменти для тонкої роботи</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_2_task_start_text">
-		<text>Михайловичу потрібні інструменти для тонкої роботи, щоб отримати можливість робити деякі відносно складні апгрейди зброї та броні.</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_2_task_final_name">
-		<text>Віднести інструменти для тонкої роботи замовнику</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_2_task_final_text">
-		<text>Інструменти для тонкої роботи знайдені. Нарешті Михайлович зможе робити складні апгрейди для спорядження.</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_3_task_start_name">
-		<text>Знайти інструменти для калібрування</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_3_task_start_text">
-		<text>Михайловичу потрібні інструменти для калібрування. Якщо їх знайти, він зможе робити практично будь-які модифікації для спорядження.</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_3_task_final_name">
-		<text>Віднести інструменти для калібрування замовнику</text>
-	</string>
-
-	<string id="esc_stalker_technic_toolkit_3_task_final_text">
-		<text>Інструменти для калібрування у мене. Михайлович тепер з легкістю робитиме складні апгрейди.</text>
-	</string>
-
-	<string id="esc_actor_stalker_sos_task">
-		<text>ДИВНИЙ СИГНАЛ</text>
-	</string>
-
-	<string id="esc_actor_stalker_sos_task_title">
-		<text>Відгукнутися на сигнал SOS</text>
-	</string>
-
-	<string id="esc_actor_stalker_sos_task_descr">
-		<text>З території елеватора безперервно передається сигнал SOS. Можливо, варто перевірити, що там.</text>
-	</string>
-
+  <string id="esc_task_actor_treasure">
+    <text>ЗАНАЧКА</text>
+  </string>
+  <string id="esc_task_actor_treasure_start_name">
+    <text>Забрати свій хабар</text>
+  </string>
+  <string id="esc_task_actor_treasure_start_text">
+    <text>Зовсім недавно залишав свої речі у ничці. Сподіваюсь, вони все ще на місці.</text>
+  </string>
+  <string id="esc_trader_take_job">
+    <text>ПЕРШІ ЗАРОБІТКИ</text>
+  </string>
+  <string id="esc_trader_take_job_start_name">
+    <text>Поговорити з торговцем</text>
+  </string>
+  <string id="esc_trader_take_job_start_text">
+    <text>Сильно ми з Юрком нажерлися. Пора з цим зав'язувати. Треба знайти роботу, піду до Сидоровича.</text>
+  </string>
+  <string id="esc_trader_search_collector_arts">
+    <text>НОВА ВИЛАЗКА</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_start_name">
+    <text>Знайти збирача артефактів</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_start_text">
+    <text>Давно я не блукав по Кордону. Пора згадати минуле. Сидорович попросив знайти збирача артефактів. За словами торговця, він пішов до тунелю з «Електрами», що під мостом.</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_pda_taken_name">
+    <text>Розповісти Сидоровичу про смерть збирача</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_pda_taken_text">
+    <text>Я знайшов труп збирача артефактів. Пора доповісти Сидоровичу.</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_go_back_name">
+    <text>Розповісти Сидоровичу про «смерть» збирача або здати його</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_go_back_text">
+    <text>Збирач попав на великі бабки у торговця, і вирішив імітувати свою смерть за допомогою якогось трупа... Треба думати, що з цим робити.</text>
+  </string>
+  <string id="esc_find_art_kutek">
+    <text>ТУНЕЛЬ З «ЕЛЕКТРАМИ»</text>
+  </string>
+  <string id="esc_find_art_kutek_start_name">
+    <text>Дістати артефакт з аномалії</text>
+  </string>
+  <string id="esc_find_art_kutek_start_text">
+    <text>Виходячи з запису збирача артефактів, у тунелі є якийсь артефакт. Треба перевірити.</text>
+  </string>
+  <string id="arts_for_trader">
+    <text>АРТЕФАКТИ ДЛЯ ТОРГОВЦЯ</text>
+  </string>
+  <string id="trader_arts_inspect_first_anomaly_name">
+    <text>Перевірити наявність артефактів у першій аномалії</text>
+  </string>
+  <string id="trader_arts_inspect_second_anomaly_name">
+    <text>Перевірити наявність артефактів у другій аномалії</text>
+  </string>
+  <string id="trader_arts_inspect_third_anomaly_name">
+    <text>Перевірити наявність артефактів у третій аномалії</text>
+  </string>
+  <string id="trader_arts_inspect_anomalies_text">
+    <text>За кожний принесений артефакт, Сидорович обіцяв грубі гроші, а вони мені зараз дуже потрібні. Хочеться якнайшвидше рвонути вглиб Зони.</text>
+  </string>
+  <string id="arts_for_trader_back_name">
+    <text>Повернутися до Сидоровича</text>
+  </string>
+  <string id="fatalities_army">
+    <text>ЗАГИБЛІ В АНОМАЛІЇ</text>
+  </string>
+  <string id="fatalities_army_start_name">
+    <text>Оглянути місце загибелі військових</text>
+  </string>
+  <string id="fatalities_army_start_text">
+    <text>Юрко повідомив, що вояки, яких за нами відправили, згинули в аномалії. Може, у них знайдеться щось цінне. Треба перевірити.</text>
+  </string>
+  <string id="esc_mechanic_night_polters">
+    <text>ДИВНІ СВІТІННЯ</text>
+  </string>
+  <string id="esc_mechanic_night_polters_wait_night_name">
+    <text>Дочекатися ночі</text>
+  </string>
+  <string id="esc_mechanic_night_polters_wait_night_text">
+    <text>Потрібно дочекатися пізньої ночі, щоб перевірити теорію Михайловича про нічні світіння, які він приймає за артефакти. Навідаюсь туди десь о другій, щоб напевно.</text>
+  </string>
+  <string id="mechanic_go_check_anomaly_name">
+    <text>Вирушати до аномалії</text>
+  </string>
+  <string id="mechanic_go_check_anomaly_text">
+    <text>Вже час вирушати до аномалії та спробувати знайти артефакти, про які говорив технік.</text>
+  </string>
+  <string id="mechanic_kill_polters_name">
+    <text>Вбити полтергейстів або повернутися</text>
+  </string>
+  <string id="mechanic_kill_polters_text">
+    <text>Світіння були зовсім не від артефактів. Ночами в аномалії з'являються полтергейсти. Вони й створюють такі привабливі світові ілюзії...</text>
+  </string>
+  <string id="mechanic_squad_polters_death_name">
+    <text>Розповісти Михайловичу про полтергейсти</text>
+  </string>
+  <string id="mechanic_squad_polters_death_text">
+    <text>Вже час розповісти Михайловичу про все, що я побачив у аномалії.</text>
+  </string>
+  <string id="esc_fanat_logovo_start">
+    <text>СТАРІ ЗНАЙОМІ</text>
+  </string>
+  <string id="esc_fanat_logovo_start_dlg_name">
+    <text>Поговорити з Фанатом</text>
+  </string>
+  <string id="esc_fanat_logovo_start_dlg_text">
+    <text>Торговець сказав, що Фанату може знадобитися допомога... а мені бабки зараз дуже потрібні.</text>
+  </string>
+  <string id="esc_fanat_logovo">
+    <text>ЛІГВО МУТАНТІВ</text>
+  </string>
+  <string id="logovo_take_dinamit_name">
+    <text>Дістати динаміт</text>
+  </string>
+  <string id="logovo_take_dinamit_text">
+    <text>Фанат сказав дістати динаміт, поки він з хлопцями дістається місця. Шукати треба десь біля локомотива.</text>
+  </string>
+  <string id="logovo_go_marker_name">
+    <text>Дістатися місця</text>
+  </string>
+  <string id="logovo_go_marker_text">
+    <text>Фанат давав координати лігва. Потрібно туди вирушати  —  він з хлопцями вже мене чекає.</text>
+  </string>
+  <string id="logovo_put_dinamit_name">
+    <text>Поставити динаміт</text>
+  </string>
+  <string id="logovo_put_dinamit_text">
+    <text>Фанат з хлопцями мене прикриватиме, поки я ставлю динаміт. З богом.</text>
+  </string>
+  <string id="logovo_speak_fanat_name">
+    <text>Поговорити з Фанатом</text>
+  </string>
+  <string id="logovo_speak_fanat_text">
+    <text>Нічого так рвонуло. Пора трясти з Фаната нагороду.</text>
+  </string>
+  <string id="esc_actor_repair_ar">
+    <text>ПЕРШИЙ АВТОМАТ</text>
+  </string>
+  <string id="esc_actor_repair_ar_start_name">
+    <text>Поговорити з техніком</text>
+  </string>
+  <string id="esc_actor_repair_ar_start_text">
+    <text>В нагороду Фанат дав свій старий, але цілком справний калаш. Його треба довести до ладу, щоб з нього можна було знову стріляти.</text>
+  </string>
+  <string id="esc_actor_repair_ar_wait_name">
+    <text>Дочекатися, поки технік закінчить ремонт</text>
+  </string>
+  <string id="esc_actor_repair_ar_wait_text">
+    <text>Михайлович дасть знати, коли закінчить з ремонтом мого калаша. Поки можна зайнятися якимись справами.</text>
+  </string>
+  <string id="esc_actor_repair_ar_final_name">
+    <text>Забрати калаш у техніка</text>
+  </string>
+  <string id="esc_actor_repair_ar_final_text">
+    <text>Михайлович маякнув, що закінчив роботу. Пора забирати ствол.</text>
+  </string>
+  <string id="fanat_friend_quest">
+    <text>БОРГ</text>
+  </string>
+  <string id="fanat_friend_quest_start_name">
+    <text>Вибити зі сталкера гроші</text>
+  </string>
+  <string id="fanat_friend_quest_start_text">
+    <text>Володько Битий сказав, що кидало знаходиться на околицях елеватора. Треба вибити з нього борг  —  вісім тисяч.</text>
+  </string>
+  <string id="fanat_friend_quest_vibil_name">
+    <text>Віддати гроші Володькові</text>
+  </string>
+  <string id="fanat_friend_quest_vibil_text">
+    <text>Слизький тип виявився, але гроші все ж таки тепер у мене. Далі все просто.</text>
+  </string>
+  <string id="esc_trader_take_job_second">
+    <text>РОБОТА НА КОРДОНІ</text>
+  </string>
+  <string id="esc_trader_take_job_2_start_name">
+    <text>Поговорити із Сидоровичем</text>
+  </string>
+  <string id="esc_trader_take_job_2_start_text">
+    <text>Та що ж таке, знову в мотлох нажерся... Як же башка тріщить! Все, точно зав'язую. Піду до Сидора по роботу, інакше такими темпами ніколи до Смітника не доберуся...</text>
+  </string>
+  <string id="esc_defence_village">
+    <text>АТАКА НА СЕЛО</text>
+  </string>
+  <string id="esc_defence_village_start_name">
+    <text>Відбитися від мутантів</text>
+  </string>
+  <string id="esc_defence_village_start_text">
+    <text>Дідько, звідки вони взялися?! Це все кляті яйцеголові зі своїм приладом!</text>
+  </string>
+  <string id="esc_defence_village_tech_name">
+    <text>Повернутися до техніка</text>
+  </string>
+  <string id="esc_defence_village_tech_text">
+    <text>Атаку відбито. Пора з'ясувати, що ж це за прилад, що приманює монстрів...</text>
+  </string>
+  <string id="esc_technic_device_atp_task">
+    <text>РОБОТА НА КОМБЕЗ</text>
+  </string>
+  <string id="esc_technic_device_atp_task_start_name">
+    <text>Встановити прилад вчених на АТП</text>
+  </string>
+  <string id="esc_technic_device_atp_task_start_text">
+    <text>Михайлович попросив встановити прилад вчених у бандитському таборі на АТП, за що обіцяв підігнати комбез.</text>
+  </string>
+  <string id="esc_technic_device_atp_task_final_name">
+    <text>Повернутися до Михайловича</text>
+  </string>
+  <string id="esc_technic_device_atp_task_final_text">
+    <text>Справу виконано. Тепер час повертатися до Михайловича за обіцяним комбезом.</text>
+  </string>
+  <string id="esc_trader_fail_speak_jurok">
+    <text>ДРУГ НЕ ПОКИНЕ</text>
+  </string>
+  <string id="esc_trader_fail_speak_jurok_start_name">
+    <text>Поговорити з Юрком</text>
+  </string>
+  <string id="esc_trader_fail_speak_jurok_start_text">
+    <text>Найближчим часом мої справи з торговцем закінчено. Треба б сходити до Юрка: більше тут хороших знайомих у мене немає. Сподіваюсь, він вже проспався і поможе порадою...</text>
+  </string>
+  <string id="travel_task_provodnik">
+    <text>РОБОТА ПРОВІДНИКОМ</text>
+  </string>
+  <string id="travel_task_provodnik_go_tonnel_name">
+    <text>Вирушати до тунелю</text>
+  </string>
+  <string id="travel_task_provodnik_go_tonnel_text">
+    <text>Так, сильно Юрко набанячився. Але нічого, зате за нього новачків відведу та грошей зароблю. Вести треба рано вранці, інакше вийде, як минулого разу...</text>
+  </string>
+  <string id="travel_task_provodnik_go_village_name">
+    <text>Відвести новачків у село</text>
+  </string>
+  <string id="travel_task_provodnik_go_village_text">
+    <text>Якісь вони дивні... Ну гаразд, зараз відведу, отримаю грошенят, закуплюся і можна рвати на Смітник.</text>
+  </string>
+  <string id="travel_robbery_speak">
+    <text>ПОГРАБУВАННЯ</text>
+  </string>
+  <string id="travel_robbery_speak_start_name">
+    <text>Повернутися в село</text>
+  </string>
+  <string id="travel_robbery_speak_start_text">
+    <text>Заробив, бляха, грошей, ага... Де ж цих виродків тепер шукати? Де мої речі? Піду до Юрка.</text>
+  </string>
+  <string id="travel_robbery_task">
+    <text>ВКРАДЕНЕ ДОБРО</text>
+  </string>
+  <string id="travel_robbery_task_grabitely_name">
+    <text>Знайти злодіїв</text>
+  </string>
+  <string id="travel_robbery_task_grabitely_text">
+    <text>От же скотиняки  —  щойно прийшли у Зону і вже таким промишляють! От як знайду гадів! Юрко казав пошукати на елеваторі або на фермі.</text>
+  </string>
+  <string id="travel_robbery_task_items_name">
+    <text>Забрати речі</text>
+  </string>
+  <string id="travel_robbery_task_items_text">
+    <text>Слава богу, мої речі неушкоджені! Не встигли покидьки продати.</text>
+  </string>
+  <string id="travel_robbery_task_go_back_name">
+    <text>Повернутися до Юрка</text>
+  </string>
+  <string id="travel_robbery_task_go_back_text">
+    <text>Зі злодіями закінчив. Треба повернути пістолет Юркові.</text>
+  </string>
+  <string id="go_to_garbage">
+    <text>СТРАХ НЕВІДОМОГО</text>
+  </string>
+  <string id="go_to_garbage_start_name">
+    <text>Вирушати на Смітник</text>
+  </string>
+  <string id="go_to_garbage_start_text">
+    <text>Нарешті я закінчив із цим нудним Кордоном, тепер побачу нові околиці! Одночасно і страшно, і дуже хочеться подивитися на територію Зони за межами Кордону. Мені пора.</text>
+  </string>
+  <string id="trader_notebook_task">
+    <text>ДРІБ'ЯЗКОВА РОБОТА</text>
+  </string>
+  <string id="trader_notebook_go_technic_name">
+    <text>Забрати ноутбук торговця</text>
+  </string>
+  <string id="trader_notebook_go_technic_text">
+    <text>Сидор, судячи з усього, своїми клешнями угробив ноут. Зараз він у техніка, і його треба забрати.</text>
+  </string>
+  <string id="trader_notebook_go_trader_name">
+    <text>Віднести ноутбук Сидоровичу</text>
+  </string>
+  <string id="trader_notebook_go_trader_text">
+    <text>Михайлович полагодив ноутбук. Тепер його можна віддати торговцю на заміну старому компу.</text>
+  </string>
+  <string id="stalker_car_benzin_task">
+    <text>ВИГІДНА ПРОПОЗИЦІЯ</text>
+  </string>
+  <string id="stalker_car_benzin_task_go_village_name">
+    <text>Сходити до техніка за бензином</text>
+  </string>
+  <string id="stalker_car_benzin_task_go_village_text">
+    <text>Чоловік знайшов мало не посеред дороги нульову тачку і просить зганяти за бензином, поки сам її чатує.</text>
+  </string>
+  <string id="stalker_car_benzin_task_go_car_name">
+    <text>Віднести каністру сталкеру</text>
+  </string>
+  <string id="stalker_car_benzin_task_go_car_text">
+    <text>Ще косар довелося віддати... Навіщо я підписався на цю херню? Сподіваюсь, хоч нагорода окупить витрачене.</text>
+  </string>
+  <string id="help_stalker_car">
+    <text>ТОВАРИШ У БІДІ</text>
+  </string>
+  <string id="help_stalker_name">
+    <text>Допомогти сталкерові</text>
+  </string>
+  <string id="help_stalker_text">
+    <text>На сталкера напали бандити, він просить допомоги. Гріх не помогти.</text>
+  </string>
+  <string id="visit_stancia">
+    <text>МРІЇ</text>
+  </string>
+  <string id="visit_stancia_start_name">
+    <text>Побувати на ЧАЕС</text>
+  </string>
+  <string id="visit_stancia_start_text">
+    <text>От, бляха, наслухався всяких байок, так і хочеться у Центр Зони! Артефакти, Виконавець Бажань!</text>
+  </string>
+  <string id="esc_trader_job">
+    <text>РОБОТА НА ТОРГОВЦЯ</text>
+  </string>
+  <string id="esc_task_for_trailer">
+    <text>ЗНИКЛИЙ СТАЛКЕР</text>
+  </string>
+  <string id="esc_task_for_trailer_search_stalker_name">
+    <text>Знайти сліди Кирюхи</text>
+  </string>
+  <string id="esc_task_for_trailer_search_stalker_text">
+    <text>Сталкер на прізвисько Шайба попросив по можливості знайти його зниклого друга. Мабуть, він може бути десь за містком.</text>
+  </string>
+  <string id="esc_task_for_trailer_follow_the_sounds_name">
+    <text>Піти на крики про допомогу</text>
+  </string>
+  <string id="esc_task_for_trailer_follow_the_sounds_text">
+    <text>З території елеватора доносяться крики про допомогу. Треба перевірити.</text>
+  </string>
+  <string id="esc_task_for_trailer_kill_flesh_name">
+    <text>Вбити незвичайну плоть</text>
+  </string>
+  <string id="esc_task_for_trailer_kill_flesh_text">
+    <text>На елеваторі мешкає якась плоть, що вміє говорити, і через яку, схоже, загинуло багато сталкерів.</text>
+  </string>
+  <string id="esc_task_for_trailer_help_stalker_name">
+    <text>Допомогти вцілілому</text>
+  </string>
+  <string id="esc_task_for_trailer_help_stalker_text">
+    <text>Потрібно розпитати вцілілого про те, що сталося на елеваторі та спробувати допомогти дістатися до безпечного місця.</text>
+  </string>
+  <string id="esc_task_for_trailer_start_village_name">
+    <text>Вирушити в село за допомогою</text>
+  </string>
+  <string id="esc_task_for_trailer_start_village_text">
+    <text>Потрібно розповісти Шайбі про те, що сталося, про смерть його товариша та вирішити, що робити далі.</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_ready_name">
+    <text>Повідомити Шайбі про готовність</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_ready_text">
+    <text>Коли буду готовий, треба повідомити Шайбі. Підемо знищувати тих незвичних плотей.</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_start_name">
+    <text>Розстріляти зграю плотей</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_start_text">
+    <text>Пора помститися цим тварюкам за згублених на елеваторі сталкерів. Ну, з богом...</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_surge_name">
+    <text>Сховатися від викиду у тунелі</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_surge_text">
+    <text>Як же не вчасно! Потрібно терміново бігти до тунелю...</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_surge_defence_name">
+    <text>Утримати позиції у тунелі</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_surge_defence_text">
+    <text>Здається, ці тварюки ув'язалися за нами, та ще й під викид... Їх не можна підпускати.</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_go_village_name">
+    <text>Повернутися в село</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_go_village_text">
+    <text>От вже нас сподобило, але впоралися! Пора повертатися. Треба відпочити.</text>
+  </string>
+  <string id="esc_repair_nimble_rifle">
+    <text>УНІКАЛЬНА «ГРОЗА»</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_go_technic_name">
+    <text>Спитати Михайловича про ремонт</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_go_technic_text">
+    <text>Оце так, про таку пушку можна лише мріяти! Щоправда, стан у неї нікчемний. Звернуся до Михайловича за допомогою.</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_search_technic_materials_name">
+    <text>Дістати Михайловичу матеріали</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_search_technic_materials_text">
+    <text>Михайлович не погодився на гроші за ремонт «Грози» і попросив дістати йому матеріали для роботи. Каже, потрібно лізти в підземку, що під ангаром на Смітнику. Притягну все, що знайду.</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_final_technic_materials_name">
+    <text>Віддати Михайловичу матеріали</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_final_technic_materials_text">
+    <text>Нарешті я зібрав йому це барахло. Пора повертатися за пушкою.</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_wait_time_name">
+    <text>Дочекатися, поки технік закінчить ремонт</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_wait_time_text">
+    <text>Михайлович дасть знати, коли закінчить з ремонтом гвинтівки. Поки можна зайнятися своїми справами.</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_take_name">
+    <text>Забрати зброю</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_take_text">
+    <text>Михайлович повідомив, що закінчив з ремонтом. Час забирати довгоочікувану пушку.</text>
+  </string>
+  <string id="esc_village_new_meet">
+    <text>СТАРІ ДРУЗІ</text>
+  </string>
+  <string id="esc_village_new_meet_start_name">
+    <text>Зустрітися з Юрком</text>
+  </string>
+  <string id="esc_village_new_meet_start_text">
+    <text>Давно вже не був на Кордоні, навіть встиг скучити за цими місцями. Мій приятель Юрко попросив зайти в село новачків: він має для мене якусь розмову.</text>
+  </string>
+  <string id="esc_strange_things">
+    <text>ДУЖЕ ДИВНІ СПРАВИ</text>
+  </string>
+  <string id="esc_strange_things_speak_fanat_name">
+    <text>Поговорити з Фанатом</text>
+  </string>
+  <string id="esc_strange_things_speak_fanat_text">
+    <text>Стурбований Юрко повідомив про якісь проблеми. Треба дізнатися у Фаната, що сталося.</text>
+  </string>
+  <string id="esc_strange_things_start_go_name">
+    <text>Вирушати до табору найманців</text>
+  </string>
+  <string id="esc_strange_things_start_go_text">
+    <text>Фанат розповів про групу найманців, які вбили трьох сталкерів із села новачків. На світанку висуваємось до їхнього табору, щоб поквитатися.</text>
+  </string>
+  <string id="esc_strange_things_attack_mercs_name">
+    <text>Атакувати найманців</text>
+  </string>
+  <string id="esc_strange_things_attack_mercs_text">
+    <text>Потрібно допомогти моїм товаришам атакувати табір найманців.</text>
+  </string>
+  <string id="esc_strange_things_attack_speak_fanat_name">
+    <text>Поговорити з Фанатом</text>
+  </string>
+  <string id="esc_strange_things_attack_speak_fanat_text">
+    <text>Найманці безслідно зникли з табору. Потрібно спитати Фаната, що він про це думає.</text>
+  </string>
+  <string id="esc_jurok_drunk_task">
+    <text>НІЧОГО НЕ ЗМІНЮЄТЬСЯ</text>
+  </string>
+  <string id="esc_jurok_drunk_task_start_name">
+    <text>Випити з Юрком біля багаття</text>
+  </string>
+  <string id="esc_jurok_drunk_task_start_text">
+    <text>Тільки-но відійшов після минулого, а мене вже знову кличуть випити. Не відмовлятиму старому другу  —  все одно зайнятися особливо нема чим.</text>
+  </string>
+  <string id="esc_scientists_task">
+    <text>СТЕЖЕННЯ</text>
+  </string>
+  <string id="esc_scientists_task_start_name">
+    <text>Пробратися до блокпосту</text>
+  </string>
+  <string id="esc_scientists_task_start_text">
+    <text>Сидорович попросив простежити за вченими. Їхня група ось-ось має прибути на КПП.</text>
+  </string>
+  <string id="esc_scientists_task_wait_alarm_name">
+    <text>Зачекати, доки тривога вщухне</text>
+  </string>
+  <string id="esc_scientists_task_wait_alarm_text">
+    <text>Мене помітили... В бій краще не лізти. Варто трохи перечекати, доки все вщухне. Може, поспати у селі?</text>
+  </string>
+  <string id="esc_scientists_task_jobs_cancel_name">
+    <text>Розповісти Сидоровичу, що роботи вчених скасовані</text>
+  </string>
+  <string id="esc_scientists_task_jobs_cancel_text">
+    <text>Військові скасували польові роботи з вченими через те, що розпочався бій. Думаю, вони тепер довго сюди не поткнуться.</text>
+  </string>
+  <string id="esc_scientists_task_follow_the_scientists_name">
+    <text>Простежити за вченими</text>
+  </string>
+  <string id="esc_scientists_task_follow_the_scientists_text">
+    <text>Потрібно акуратно пройти за вченими та зрозуміти, що вони забули на Кордоні.</text>
+  </string>
+  <string id="esc_scientists_task_make_decision_name">
+    <text>Прийняти рішення</text>
+  </string>
+  <string id="esc_scientists_task_make_decision_text">
+    <text>От бляха! Тепер треба якось викручуватись. Якщо просто так сказати Сидоровичу про провал, моя репутація зійде нанівець. Може, спробувати розправитися з вояками й дізнатись, чого хотіли вчені? А адреналін як б'є!</text>
+  </string>
+  <string id="esc_scientists_task_talk_scientist_name">
+    <text>Поговорити з вченими</text>
+  </string>
+  <string id="esc_scientists_task_talk_scientist_text">
+    <text>Ото я дров наламав... Військові мертві. Тепер варто поговорити з вченими, якщо вже стільки наброїв.</text>
+  </string>
+  <string id="esc_scientists_task_check_corpses_name">
+    <text>Обшукати тіла вчених</text>
+  </string>
+  <string id="esc_scientists_task_check_corpses_text">
+    <text>Коли вже так вийшло, потрібно оглянути тіла вчених. Може, знайду щось цікаве.</text>
+  </string>
+  <string id="esc_scientists_task_fail_speak_trader_name">
+    <text>Повернутися до Сидоровича</text>
+  </string>
+  <string id="esc_scientists_task_fail_speak_trader_text">
+    <text>Мені вдалося дістати пристрій вчених. Розповім Сидоровичу, що польові роботи не будуть проведені.</text>
+  </string>
+  <string id="esc_scientiscts_task_fly_village_compl_name">
+    <text>Повернутися до торговця</text>
+  </string>
+  <string id="esc_scientiscts_task_fly_village_compl_text">
+    <text>Простежив за вченими. Пора розказати Сидоровичу подробиці й забрати нагороду.</text>
+  </string>
+  <string id="esc_scientiscts_task_fly_village_scene_cancel_name">
+    <text>Передати Сидоровичу інформацію від Шайби</text>
+  </string>
+  <string id="esc_scientiscts_task_fly_village_scene_cancel_text">
+    <text>Сталкер на прізвисько Шайба оголосив сталкерам, що вчені з військовими встановили якийсь прилад у летючому селищі за АТП. Розповім про це торговцю.</text>
+  </string>
+  <string id="esc_technic_scientists_device_task">
+    <text>ДОРУЧЕННЯ ТЕХНІКА</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_start_name">
+    <text>Принести Михайловичу пристрій вчених</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_start_text">
+    <text>Михайлович попросив принести пристрій вчених. Мабуть, для техніка там знайдеться щось цікаве.</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_teleports_go_name">
+    <text>Дістати пристрій вчених, пройшовши через телепорти</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_teleports_go_text">
+    <text>Ніколи не заходив у телепорти... Сподіваюсь, мене не розірве на шматки. Втім, головастий цілком спокійно гуляв по них. Головне, знайти правильний маршрут, щоб дістатися пристрою.</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_final_talk_name">
+    <text>Віддати пристрій вчених Михайловичу</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_final_talk_text">
+    <text>Дістав цю залізяку. Тепер віднесу техніку, він обіцяв нагороду.</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_name">
+    <text>Дістати пристрій вчених в аномальному селі</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_text">
+    <text>Ніколи не заходив у телепорти. Сподіваюсь, мене не розірве на шматки... Втім, вчений якось пройшов в обидві сторони. Головне, знайти правильний маршрут, щоб дістатися пристрою.</text>
+  </string>
+  <string id="esc_sweep_task">
+    <text>ЗАЧИЩЕННЯ</text>
+  </string>
+  <string id="esc_sweep_task_kill_dogs_name">
+    <text>Розібратися з мутантами недалеко від тунелю</text>
+  </string>
+  <string id="esc_sweep_task_kill_dogs_text">
+    <text>Сидорович попросив позбутися нечисті неподалік від тунелю з «Електрами».</text>
+  </string>
+  <string id="esc_sweep_task_final_talk_name">
+    <text>Повернутися по винагороду</text>
+  </string>
+  <string id="esc_sweep_task_final_talk_text">
+    <text>Тварюк вбито. Пора забирати нагороду у Сидоровича.</text>
+  </string>
+  <string id="find_the_missing_stalker">
+    <text>МАЙСТРИ З КОРДОНУ</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_start_name">
+    <text>Знайти сталкера на прізвисько Німий</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_start_text">
+    <text>Сталкери з Кордону втратили свого товариша. За їхніми словам, він вирушав на розвідку до Армійських складів. Якщо колись там опинюсь, треба буде вивудити інформацію про нього.</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_help_name">
+    <text>Витягти Німого</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_help_text">
+    <text>Німий, сталкер з групи Лютого, запроторив за ґрати бандитів. Треба якось його звідти витягти...</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_take_reward_name">
+    <text>Зустрітися зі сталкерами в барі</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_take_reward_text">
+    <text>Мені вдалося звільнити сталкера на прізвисько Німий з полону бандитів. Він запропонував мені зустрітися в барі й відсвяткувати його втечу.</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_take_second_reward_name">
+    <text>Повернутися до Лютого</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_take_second_reward_text">
+    <text>Мені вдалося звільнити друга Лютого, який дивом опинився у Темній долині. Німий сказав, що мужики з його групи будуть раді мене бачити, пропонував відсвяткувати його втечу. Варто навідатися до них.</text>
+  </string>
+  <string id="esc_visit_trader_task">
+    <text>ЧУЖИЙ СЕРЕД ЧУЖИХ</text>
+  </string>
+  <string id="esc_visit_trader_task_talk_with_leader_name">
+    <text>Поговорити з командиром блокпосту</text>
+  </string>
+  <string id="esc_visit_trader_task_talk_with_leader_text">
+    <text>Для подальшого просування розслідування, перш за все варто поговорити з командиром блокпосту. Зараз мені зможе допомогти будь-яка інформація.</text>
+  </string>
+  <string id="esc_visit_trader_task_talk_with_prison_stalkers_name">
+    <text>Допитати арештованих сталкерів</text>
+  </string>
+  <string id="esc_visit_trader_task_talk_with_prison_stalkers_text">
+    <text>Перед походом до Сидоровича варто опитати арештантів на КПП. Можливо, вони щось знають про сталкера, якого ми шукаємо.</text>
+  </string>
+  <string id="esc_visit_trader_task_start_name">
+    <text>Перевдягнутися у сталкерський одяг</text>
+  </string>
+  <string id="esc_visit_trader_task_start_text">
+    <text>Іти у військовій формі у село новачків  —  чистої води провокація сталкерів. Командир КПП розповів про тонну конфіскату з нелегалів. Потрібно знайти підходящий одяг або взагалі йти в чому мати народила.</text>
+  </string>
+  <string id="esc_visit_trader_task_go_name">
+    <text>Поговорити з Сидоровичем</text>
+  </string>
+  <string id="esc_visit_trader_task_go_text">
+    <text>Пора переговорити з Сидоровичем щодо сталкера на прізвисько Сокира. Під таким ім'ям його знають місцеві сталкери, якщо ув'язнений мені не збрехав.</text>
+  </string>
+  <string id="esc_first_actor_bridge_task">
+    <text>ПО СЛІДАХ СТАЛКЕРА</text>
+  </string>
+  <string id="esc_first_actor_bridge_task_start_name">
+    <text>Вирушити до зруйнованого мосту</text>
+  </string>
+  <string id="esc_first_actor_bridge_task_start_text">
+    <text>Сидорович нічого не розповів мені про сталкера, зате видав його точне місцеперебування. Відчуваю, або дід мене обвів навколо пальця, або тут є якась пастка.</text>
+  </string>
+  <string id="esc_first_actor_bridge_task_fail_name">
+    <text>Шукати зачіпки на Кордоні</text>
+  </string>
+  <string id="esc_first_actor_bridge_task_fail_text">
+    <text>Не вдалося дістатися Сидоровича зі своїми лахами, а усі місцеві немов води у рота понабирали. Далі доведеться шукати інформацію про сталкера самому. Варто пройтися вглиб Кордону: може, там хтось щось підкаже.</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task">
+    <text>ВЧЕНИЙ У БІДІ</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_start_name">
+    <text>Дістатися Смітника</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_start_text">
+    <text>Полковник попросив виручити одного вченого, який примудрився з дорогим обладнанням потрапити до рук бандитів. І чому він вирушив без супроводу?</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_help_name">
+    <text>Допомогти співробітнику</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_help_text">
+    <text>Я на Смітнику. Пора виручати вченого, що потрапив у веремію.</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_kill_bandits_name">
+    <text>Вбити бандитів і врятувати Коваля</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_kill_bandits_text">
+    <text>Вченим, якого необхідно було виручити, виявився Коваль. Бандити прийняли його з новим детектором. Бізнес полковника вже починає переходити усі межі. Втім, все одно доведеться допомогти.</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_talk_name">
+    <text>Поговорити з Ковалем</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_talk_text">
+    <text>Бандити більше не перешкоджатимуть. Пора поставити цьому «вченому» кілька питань.</text>
+  </string>
+  <string id="esc_composer_task">
+    <text>СТАРА ГВАРДІЯ</text>
+  </string>
+  <string id="esc_composer_task_talk_with_gar_trader_name">
+    <text>Поговорити з Костуром</text>
+  </string>
+  <string id="esc_composer_task_talk_with_gar_trader_text">
+    <text>Костур повідомив, що в нього є якась термінова розмова. Потрібно навідатися за можливості.</text>
+  </string>
+  <string id="esc_composer_task_start_name">
+    <text>Зустрітися з групою сталкерів</text>
+  </string>
+  <string id="esc_composer_task_start_text">
+    <text>Сидорович відправив на Смітник допомогти групі сталкерів. Потрібно забезпечити їхню безпеку, поки ті шукають артефакти.</text>
+  </string>
+  <string id="esc_composer_task_actor_check_corpses_name">
+    <text>Оглянути місце загибелі сталкерів</text>
+  </string>
+  <string id="esc_composer_task_actor_check_corpses_text">
+    <text>Вся група мертва. Потрібно оглянути місце загибелі та обшукати тіла на предмет якоїсь інформації.</text>
+  </string>
+  <string id="esc_composer_task_meet_merc_leader_name">
+    <text>Зустрітися із Візирем</text>
+  </string>
+  <string id="esc_composer_task_meet_merc_leader_text">
+    <text>Знайшов КПК найманців, у якому є наводка на якогось Візиря. За їхнім регламентом, знайдений КПК я маю віднести їхньому ватажку. Судячи з координат, мені в Темну долину.</text>
+  </string>
+  <string id="esc_composer_task_check_spare_seat_name">
+    <text>Перевірити запасне місце зустрічі</text>
+  </string>
+  <string id="esc_composer_task_check_spare_seat_text">
+    <text>Візирь відправив мене з одним зі своїх бійців перевірити якесь запасне місце зустрічі. Мало що розумію, але відмовлятися не можна було: мутні вони якісь, прибили б ще на місці...</text>
+  </string>
+  <string id="esc_composer_task_check_bandit_savior_treasure_name">
+    <text>Прочитати інформацію з КПК сталкера у сховку Купи</text>
+  </string>
+  <string id="esc_composer_task_check_bandit_savior_treasure_text">
+    <text>На місці смерті групи сталкерів Купа знайшов КПК, а щоб переконатися у відсутності хвоста, тимчасово залишив його у сховку. Зараз все стихло, можна заглянути туди й спробувати знайти потенційно корисну інформацію у цій справі.</text>
+  </string>
+  <string id="esc_composer_task_check_bandit_savior_treasure_compl_name">
+    <text>Поговорити з Купою</text>
+  </string>
+  <string id="esc_composer_task_check_bandit_savior_treasure_compl_text">
+    <text>За інформацією з КПК сталкера складається досить цікава картина. Потрібно обговорити подальший план дій з Купою.</text>
+  </string>
+  <string id="esc_composer_task_find_survivors_name">
+    <text>Знайти вцілілих з групи сталкерів та дізнатися, що сталося</text>
+  </string>
+  <string id="esc_composer_task_find_survivors_text">
+    <text>Бандит на прізвисько Купа допоміг вибратися з-під дула сталкера з групи Візиря. Тепер потрібно дістати будь-яку інформацію стосовно вантажу, який несли сталкери. На тілі одного з них Купа знайшов КПК, в якому є інформація про місцезнаходження одного з їхніх товаришів. Потрібно туди навідатись та дізнатися подробиць.</text>
+  </string>
+  <string id="esc_composer_task_wait_time_name">
+    <text>Чекати на вказівки від Смишлова</text>
+  </string>
+  <string id="esc_composer_task_wait_time_text">
+    <text>Якийсь професор Смишлов дистанційно лагодить невідомий нам з Курою пристрій, який, вочевидь, далеко не нешкідливий. Потрібно дочекатися на вказівки від Смишлова, утримуючи позиції навколо цієї залізяки.</text>
+  </string>
+  <string id="esc_composer_task_talk_after_attack_name">
+    <text>Поговорити з Купою</text>
+  </string>
+  <string id="esc_composer_task_talk_after_attack_text">
+    <text>Атаку відбито, подальші інструкції від Смишлова отримані. Потрібно обговорити подальший план дій з Купою та вирішити, що робити з незнайомцем Птахою.</text>
+  </string>
+  <string id="esc_composer_task_get_to_the_fork_name">
+    <text>Дістатися розвилки</text>
+  </string>
+  <string id="esc_composer_task_get_to_the_fork_text">
+    <text>Поки рушаймо в бік Смітника, треба вирішити, кому зрештою віддаватимемо пристрій: Смишлову чи людям Турова, з якими нам, по суті, ще не довелося познайомитись.</text>
+  </string>
+  <string id="esc_composer_task_wait_to_garbage_name">
+    <text>Вирішити, що робити далі</text>
+  </string>
+  <string id="esc_composer_task_wait_to_garbage_text">
+    <text>Ми біля розвилки. Тепер потрібно прийняти остаточне рішення, від якого залежатиме, хто отримає пристрій: Туров чи Смишлов.</text>
+  </string>
+  <string id="esc_composer_task_controler_kill_name">
+    <text>Вбити контролера і провести заміри</text>
+  </string>
+  <string id="esc_composer_task_controler_kill_text">
+    <text>Туров зажадав провести виміри випромінювання в безпосередній близькості від місця знаходження контролера, якого потрібно для початку вбити.</text>
+  </string>
+  <string id="esc_composer_task_controler_kill_complete_name"><text>Повернутися до Турова</text>.
+	</string>
+  <string id="esc_composer_task_controler_kill_complete_text">
+    <text>З божою допомогою вдалося вбити контролера та провести заміри. Тепер час до Турова.</text>
+  </string>
+  <string id="esc_composer_task_visit_scientist_genius_name"><text>Зустрітися зі Смишловим</text>.
+	</string>
+  <string id="esc_composer_task_visit_scientist_genius_text">
+    <text>-</text>
+  </string>
+  <string id="esc_composer_task_visit_trader_name">
+    <text>Взяти у Сидоровича комплект псі-блокад</text>
+  </string>
+  <string id="esc_composer_task_visit_trader_text">
+    <text>Смишлову потрібні препарати для псі-захисту. Він домовився із Сидоровичем про угоду, мені залишилося їх забрати.</text>
+  </string>
+  <string id="esc_composer_task_drugs_complete_name">
+    <text>Віднести препарати Смишлову</text>
+  </string>
+  <string id="esc_composer_task_drugs_complete_text">
+    <text>Торговець люб'язно віддав комплект псі-блокад. Час рухати до Смишлова.</text>
+  </string>
+  <string id="esc_composer_task_scientist_wait_actor_name">
+    <text>Повідомити Смишлову про готовність</text>
+  </string>
+  <string id="esc_composer_task_scientist_wait_actor_text">
+    <text>Смишлов чекає, щоб почати рухатися до Турова. Потрібно якнайшвидше закінчувати справи й вирушати.</text>
+  </string>
+  <string id="esc_composer_task_visit_scientist_boss_final_name">
+    <text>Відправлятися до Турова</text>
+  </string>
+  <string id="esc_composer_task_visit_scientist_boss_final_text">
+    <text>-</text>
+  </string>
+  <string id="esc_stalker_liar_task">
+    <text>НЕЗВИЧАЙНИЙ АРТЕФАКТ</text>
+  </string>
+  <string id="esc_stalker_liar_task_wait_name">
+    <text>Вирушити з Брехуном за артефактом</text>
+  </string>
+  <string id="esc_stalker_liar_task_wait_text">
+    <text>Сталкер з села, на прізвисько Брехун, розповів, що бачив незвичайний артефакт за залізничним насипом. Варто вирушити з ним туди й перевірити, чи це так насправді.</text>
+  </string>
+  <string id="esc_stalker_liar_task_take_artefact_name">
+    <text>Дістати артефакт</text>
+  </string>
+  <string id="esc_stalker_liar_task_take_artefact_text">
+    <text>Потрібно слідувати за Брехуном та дістати артефакт, про який він говорив.</text>
+  </string>
+  <string id="esc_stalker_liar_task_artefact_talk_name">
+    <text>Показати Брехуну артефакт</text>
+  </string>
+  <string id="esc_stalker_liar_task_artefact_talk_text">
+    <text>Брехун не обдурив: ми дійсно знайшли якийсь рідкісний артефакт за фермою. Пора обговорити з ним це.</text>
+  </string>
+  <string id="esc_stalker_liar_task_artefact_wait_trade_name">
+    <text>Дочекатися, поки Брехун продасть артефакт</text>
+  </string>
+  <string id="esc_stalker_liar_task_artefact_wait_trade_text">
+    <text>Справу виконано. Брехун сказав, розбереться зі справами, продасть артефакт і дасть знати, коли приходити за своєю часткою.</text>
+  </string>
+  <string id="esc_stalker_liar_task_take_reward_name">
+    <text>Забрати свою частку</text>
+  </string>
+  <string id="esc_stalker_liar_task_take_reward_text">
+    <text>Брехун продав артефакт. Вже час взяти у нього свою частку.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_task_name">
+    <text>Допомога Михайловичу</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_1_task_start_name">
+    <text>Знайти інструменти для грубої роботи</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_1_task_start_text">
+    <text>Михайлович попросив знайти інструменти для грубої роботи, щоб мати можливість робити деякі прості апгрейди спорядження.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_1_task_final_name">
+    <text>Віднести інструменти для грубої роботи замовнику</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_1_task_final_text">
+    <text>Вдалося знайти інструменти для грубої роботи. Тепер Михайлович зможе робити які-не-які апгрейди для моєї споряги.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_2_task_start_name">
+    <text>Знайти інструменти для тонкої роботи</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_2_task_start_text">
+    <text>Михайловичу потрібні інструменти для тонкої роботи, щоб отримати можливість робити деякі відносно складні апгрейди зброї та броні.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_2_task_final_name">
+    <text>Віднести інструменти для тонкої роботи замовнику</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_2_task_final_text">
+    <text>Інструменти для тонкої роботи знайдені. Нарешті Михайлович зможе робити складні апгрейди для спорядження.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_3_task_start_name">
+    <text>Знайти інструменти для калібрування</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_3_task_start_text">
+    <text>Михайловичу потрібні інструменти для калібрування. Якщо їх знайти, він зможе робити практично будь-які модифікації для спорядження.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_3_task_final_name">
+    <text>Віднести інструменти для калібрування замовнику</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_3_task_final_text">
+    <text>Інструменти для калібрування у мене. Михайлович тепер з легкістю робитиме складні апгрейди.</text>
+  </string>
+  <string id="esc_actor_stalker_sos_task">
+    <text>ДИВНИЙ СИГНАЛ</text>
+  </string>
+  <string id="esc_actor_stalker_sos_task_title">
+    <text>Відгукнутися на сигнал SOS</text>
+  </string>
+  <string id="esc_actor_stalker_sos_task_descr">
+    <text>З території елеватора безперервно передається сигнал SOS. Можливо, варто перевірити, що там.</text>
+  </string>
 </string_table>

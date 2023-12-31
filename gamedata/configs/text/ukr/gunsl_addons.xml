@@ -1,351 +1,314 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-<!-- LASTOCHKA -->
-	<string id="gunsl_addon_scope_pso1m2">
-		<text>Приціл снайперський ПСО-1М2</text>
-	</string>
-	<string id="gunsl_addon_scope_pso1m2_short">
-		<text>ПСО-1М2</text>
-	</string>
-	<string id="gunsl_addon_scope_pso1m2_descr">
-		<text>Оптичний приціл фіксованої кратності. Прицільна сітка розмічена для снайперського вогню на великі дистанції. Для зручності стрільби в сутінках передбачена можливість увімкнення підсвітки прицільної сітки. Для встановлення на зброю країн ОВД передбачено кріплення "ластівчин хвіст".</text>
-	</string>
-
-	<string id="gunsl_addon_scope_pso1m2_1">
-		<text>Приціл штурмовий ПСО-1М2-1</text>
-	</string>
-	<string id="gunsl_addon_scope_pso1m2_1_short">
-		<text>ПСО-1М2-1</text>
-	</string>
-	<string id="gunsl_addon_scope_pso1m2_1_descr">
-		<text>Оптичний приціл фіксованої кратності. Прицільна сітка розмічена для стрільби на середні дистанції. Для зручності стрільби в сутінках передбачена можливість увімкнення підсвітки прицільної сітки. Зазвичай використовується на штурмових гвинтівках країн ОВД, оснащених кріпленням "ластівчин хвіст".</text>
-	</string>
-
-	<string id="gunsl_addon_scope_1pn93_4">
-		<text>Приціл снайперський нічний 1ПН93-4</text>
-	</string>
-	<string id="gunsl_addon_scope_1pn93_4_short">
-		<text>1ПН93-4</text>
-	</string>
-	<string id="gunsl_addon_scope_1pn93_4_descr">
-		<text>Нічний приціл фіксованої кратності. Прицільна сітка розмічена для снайперського вогню на великі дистанції. Для встановлення на зброю країн ОВД передбачено кріплення "ластівчин хвіст". Оскільки приціл досить високий, він, як правило, не закриває механічних прицільних. Завдяки цьому є можливість їхнього використання як резервного способу прицілювання на випадок, якщо компоненти нічного прицілу вийдуть із ладу.</text>
-	</string>
-
-	<string id="gunsl_addon_scope_1pn93_1">
-		<text>Приціл штурмовий нічний 1ПН93-1</text>
-	</string>
-	<string id="gunsl_addon_scope_1pn93_1_short">
-		<text>1ПН93-1</text>
-	</string>
-	<string id="gunsl_addon_scope_1pn93_1_descr">
-		<text>Нічний приціл фіксованої кратності. Прицільна сітка розмічена на середні дистанції. Зазвичай використовується на штурмових гвинтівках країн ОВД, оснащених кріпленням "ластівчин хвіст".</text>
-	</string>
-
-	<string id="gunsl_addon_scope_kashtan">
-		<text>Приціл універсальний 1П78-1</text>
-	</string>
-	<string id="gunsl_addon_scope_kashtan_short">
-		<text>1П78-1</text>
-	</string>
-	<string id="gunsl_addon_scope_kashtan_descr">
-		<text>Приціл оптичний 1П78-1 кратності 2,8 для стрільби на середні й дальні дистанції. Установлюється на зброю, обладнану кріпленням "ластівчин хвіст". Прицільна сітка підходить як для стрільби зі штурмових гвинтівок, так і для снайперського вогню.</text>
-	</string>
-
-	<string id="gunsl_addon_scope_cobra">
-		<text>Приціл коліматорний «Кобра»</text>
-	</string>
-	<string id="gunsl_addon_scope_cobra_short">
-		<text>«Кобра»</text>
-	</string>
-	<string id="gunsl_addon_scope_cobra_descr">
-		<text>Коліматорний приціл Кобра (варіянт ЕКП-1С-03) забезпечує комфортне прицілювання за природнього освітлення. Має трикутну прицільну мітку.  Для встановлення на зброю країн ОВД передбачено кріплення "ластівчин хвіст".</text>
-	</string>
-
-	<string id="gunsl_addon_scope_pka">
-		<text>Приціл коліматорный ПК-А</text>
-	</string>
-	<string id="gunsl_addon_scope_pka_short">
-		<text>ПК-А</text>
-	</string>
-	<string id="gunsl_addon_scope_pka_descr">
-		<text>Приціл коліматорний ПК-А забезпечує швидке прицілювання при стрільбі за будь-якої освітленості. Прицільна мітка має форму точки.Для встановлення на зброю країн ОВД передбачено кріплення "ластівчин хвіст".</text>
-	</string>
-
-<!-- PICCATINY -->
-
-	<string id="gunsl_addon_scope_susat">
-		<text>Приціл штурмовий SUSAT</text>
-	</string>
-	<string id="gunsl_addon_scope_susat_short">
-		<text>SUSAT</text>
-	</string>
-	<string id="gunsl_addon_scope_susat_descr">
-		<text>Чотирикратний оптиний приціл, розроблений у Великобританії. Зазвичай використовується для ведення прицільного вогню з легкої стрілецької зброї на середні та великі дистанції. Має резервні механічні прицільні засоби на випадок виходу з ладу оптичної частини. Встановлюється на спеціальне кріплення "Dovetail", присутнє на L85.</text>
-	</string>
-
-	<string id="gunsl_addon_scope_aimpoint">
-		<text>Приціл коліматорний Aimpoint CompM4s</text>
-	</string>
-	<string id="gunsl_addon_scope_aimpoint_short">
-		<text>Aimpoint CompM4s</text>
-	</string>
-	<string id="gunsl_addon_scope_aimpoint_descr">
-		<text>Закритий коліматорний приціл від шведської компанії Aimpoint AB. Призначений для ведення точної стрільби на малих та середніх дистанціях. Прицільна мітка має форму точки. Встановлюється на планку Пікатінні.</text>
-	</string>
-
-	<string id="gunsl_addon_scope_eotech">
-		<text>Прицел коллиматорный EOTech XPS3-0</text>
-	</string>
-	<string id="gunsl_addon_scope_eotech_short">
-		<text>EOTech XPS3-0</text>
-	</string>
-	<string id="gunsl_addon_scope_eotech_descr">
-		<text>Голографічний приціл від американської компанії EOTech. Модель XPS3-0 досить компактна, тому популярна серед сталкерів. Встановлюється на планку Пікатінні.</text>
-	</string>
-
-	<string id="gunsl_addon_scope_elcan">
-		<text>Прицел штурмовой Elcan Specter DR 1x/4x</text>
-	</string>
-	<string id="gunsl_addon_scope_elcan_short">
-		<text>Приціл штурмовий Elcan Specter DR 1x/4x</text>
-	</string>
-	<string id="gunsl_addon_scope_elcan_descr">
-		<text>Оптичний приціл від канадської компанії ELCAN Optical Technologies зі змінною кратністю (1 або 4 діоптрії). Встановлюється на планку Пікатінні. Прицільна сітка обладнана підсвіткою регульованої яскравості. Також має резервні прицільні засоби на випадок виходу з ладу оптичної частини.</text>
-	</string>
-
-	<string id="gunsl_addon_scope_pn23">
-		<text>Приціл штурмовий нічний ПН-23</text>
-	</string>
-	<string id="gunsl_addon_scope_pn23_short">
-		<text>ПН-23</text>
-	</string>
-	<string id="gunsl_addon_scope_pn23_descr">
-		<text>Малогабаритний нічний приціл від росіянської компанії НПЗ із фіксованою кратністю (3 діоптрії). Встановлюється на планку Пікатінні.</text>
-	</string>
-
-<!-- Other scopes -->
-	<string id="gunsl_addon_scope_rakurs">
-		<text>Прицел штурмовой Ракурс-ПМ</text>
-	</string>
-	<string id="gunsl_addon_scope_rakurs_short">
-		<text>Приціл штурмовий Ракурс-ПМ</text>
-	</string>
-	<string id="gunsl_addon_scope_rakurs_descr">
-		<text>Приціл оптичний ширококутний Ракурс-ПМ підвищує ефективність стрільби на дистанції прямого пострілу (до 400 м). Даний варіянт призначений для встановлення на планку Вівера.</text>
-	</string>
-
-	<string id="gunsl_addon_scope_pu">
-		<text>Приціл мисливський ПУ</text>
-	</string>
-	<string id="gunsl_addon_scope_pu_short">
-		<text>ПУ</text>
-	</string>
-	<string id="gunsl_addon_scope_pu_descr">
-		<text>Мисливський приціл кратності 3,5. Призначений для встановлення на рушниці, обладнані спеціальним кронштейном, тому несумісний з іншою зброєю.</text>
-	</string>
-
-	<string id="gunsl_addon_scope_pgo7v">
-		<text>Приціл гранатометний ПГО-7В</text>
-	</string>
-	<string id="gunsl_addon_scope_pgo7v_short">
-		<text>ПГО-7В</text>
-	</string>
-	<string id="gunsl_addon_scope_pgo7v_descr">
-		<text>Радянський телескопічний приціл, розроблений у 60-ті спеціально для використання разом з ручними гранатометами серії РПГ-7. Для зручності стрільби в сутінках передбачена можливість увімкнення підсвітки прицільної сітки.</text>
-	</string>
-	
-	<string id="gunsl_addon_scope_po4x34">
-		<text>Приціл оптичний ПО 4х34</text>
-	</string>
-	<string id="gunsl_addon_scope_po4x34_short">
-		<text>ПО 4х34</text>
-	</string>
-	<string id="gunsl_addon_scope_po4x34_descr">
-		<text>Радянський чотирикратний оптичний приціл, призначений для використання на середніх дистанціях. Вирізняється простотою конструкції та невибагливістю при експлуатації, але через малу кількість поправок не надто популярний серед снайперів. Входить у стандартний комплект постачання автоматно-гранатометного комплексу ОЦ-14 Гроза.</text>
-	</string>
-
-<!-- SILENCERS -->
-
-	<string id="gunsl_addon_silencer_pb">
-		<text>Насадка для ПБ</text>
-	</string>
-	<string id="gunsl_addon_silencer_pb_short">
-		<text>Насадка</text>
-	</string>
-	<string id="gunsl_addon_silencer_pb_descr">
-		<text>Передня частина інтегрованого глушника (насадки) пістолета ПБ калібру 9х18 мм. Несумісний з іншою зброєю.</text>
-	</string>
-
-	<string id="gunsl_addon_silencer_m4_2000">
-		<text>ПБС для калібру 5.56х45 мм</text>
-	</string>
-	<string id="gunsl_addon_silencer_m4_2000_short">
-		<text>ПБС для 5.56х45</text>
-	</string>
-	<string id="gunsl_addon_silencer_m4_2000_descr">
-		<text>Глушник моделі ААС М4-2000, призначений для встановлення на більшість автоматів і карабінів калібру 5,56х45 мм.</text>
-	</string>
-
-	<string id="gunsl_addon_apb_silencer">
-		<text>Глушник для АПБ</text>
-	</string>
-	<string id="gunsl_addon_apb_silencer_short">
-		<text>Глушник для АПБ</text>
-	</string>
-	<string id="gunsl_addon_apb_silencer_descr">
-		<text>Глушник для пістолета АПБ під калібр 9х18 мм. Несумісний з іншою зброєю.</text>
-	</string>
-
-	<string id="gunsl_addon_silencer_svd">
-		<text>Глушник ТГП-В</text>
-	</string>
-	<string id="gunsl_addon_silencer_svd_short">
-		<text>ТГП-В</text>
-	</string>
-	<string id="gunsl_addon_silencer_svd_descr">
-		<text>Тактичний глушник-полум'єгасник калібру 7,62 мм, може бути встановленим на снайперські гвинтівки сімейства СВД.</text>
-	</string>
-
-	<string id="gunsl_addon_tgpa">
-		<text>Глушник ТГП-А</text>
-	</string>
-	<string id="gunsl_addon_tgpa_short">
-		<text>ТГП-А</text>
-	</string>
-	<string id="gunsl_addon_tgpa_descr">
-		<text>Тактичний глушник-полум'єгасник калібру 5,45 мм. Встановлюється на більшість автоматів сімейства АК.</text>
-	</string>
-
-	<string id="gunsl_addon_colt_p220_silencer">
-		<text>Саундмодератор пістолетний .45ACP</text>
-	</string>
-	<string id="gunsl_addon_colt_p220_silencer_short">
-		<text>Саундмодератор пістолетний .45ACP</text>
-	</string>
-	<string id="gunsl_addon_colt_p220_silencer_descr">
-		<text>Саундмодератор моделі BLACK BOX .45 виробництва Advanced Armament Corp. Підходить для більшості пістолетів калібру .45ACP, ствол яких обладнаний спеціальною різьбою.</text>
-	</string>
-
-	<string id="gunsl_addon_silencer_hexagon12">
-		<text>Саундмодератор Гексагон 12К</text>
-	</string>
-	<string id="gunsl_addon_silencer_hexagon12_short">
-		<text>Гексагон 12К</text>
-	</string>
-	<string id="gunsl_addon_silencer_hexagon12_descr">
-		<text>Модератор звуку пострілу від компанії Гексагон, призначений для карабінів и рушниць 12-го калібру.</text>
-	</string>
-
-	<string id="gunsl_addon_silencer_57x28">
-		<text>Саундмодератор 5.7х28 мм</text>
-	</string>
-	<string id="gunsl_addon_silencer_57x28_short">
-		<text>Саундмодератор 5.7х28 мм</text>
-	</string>
-	<string id="gunsl_addon_silencer_57x28_descr">
-		<text>Даний саундмодератор може бути встановлений на пістолет-кулемет FN P90.</text>
-	</string>
-
-	<string id="gunsl_addon_silencer_57x28_pistol">
-		<text>Саундмодератор GEMTECH SFN57</text>
-	</string>
-	<string id="gunsl_addon_silencer_57x28_pistol_short">
-		<text>Саундмодератор GEMTECH SFN57</text>
-	</string>
-	<string id="gunsl_addon_silencer_57x28_pistol_descr">
-		<text>Даний саундмодератор розроблений для використання на пістолетах моделі FN Five-seveN, стволи яких обладнані спеціальною різьбою. Не може бути використаним з іншою зброєю.</text>
-	</string>
-
-	<string id="gunsl_addon_silencer_9x18smg">
-		<text>Саундмодератор 9мм «Бізон»</text>
-	</string>
-	<string id="gunsl_addon_silencer_9x18smg_short">
-		<text>Саундмодератор 9мм «Бізон»</text>
-	</string>
-	<string id="gunsl_addon_silencer_9x18smg_descr">
-		<text>Даний глушник призначений для встановлення на 9 мм пістолети-кулемети "Бізон"</text>
-	</string>
-
-	<string id="gunsl_addon_silencer_9x18">
-		<text>Саундмодератор пістолетний 9х18 мм</text>
-	</string>
-	<string id="gunsl_addon_silencer_9x18_short">
-		<text>Саундмодератор пістолетний 9х18 мм</text>
-	</string>
-	<string id="gunsl_addon_silencer_9x18_descr">
-		<text>Універсальний глушник для пістолетів калібру 9х18 мм. Підходить для більшості зброї даного калібру, але для деяких зразків може знадобитися нанесення на ствол спеціальної різьби.</text>
-	</string>
-
-	<string id="gunsl_addon_silencer_9x19">
-		<text>Пістолетний саундмодератор 9х19 мм</text>
-	</string>
-	<string id="gunsl_addon_silencer_9x19_short">
-		<text>Пістолетний саундмодератор 9х19 мм</text>
-	</string>
-	<string id="gunsl_addon_silencer_9x19_descr">
-		<text>Універсальний глушник для пістолетів калібру 9х19 мм. Підходить для більшості зброї даного калібру, але для деяких зразків може знадобитися нанесення на ствол спеціальної різьби.</text>
-	</string>
-
-	<string id="gunsl_addon_silencer_9x21">
-		<text>Пістолетний саундмодератор 9х21 мм</text>
-	</string>
-	<string id="gunsl_addon_silencer_9x21_short">
-		<text>Пістолетний саундмодератор 9х21 мм</text>
-	</string>
-	<string id="gunsl_addon_silencer_9x21_descr">
-		<text>Саундмодератор для калібру 9х21 мм. Для встановлення потребує спеціальної різьби.</text>
-	</string>
-
-	<string id="gunsl_addon_silencer_groza">
-		<text>Модуль саундмодератора 9х39 мм «Гроза»</text>
-	</string>
-	<string id="gunsl_addon_silencer_groza_short">
-		<text>Модуль саундмодератора 9х39 мм «Гроза»</text>
-	</string>
-	<string id="gunsl_addon_silencer_groza_descr">
-		<text>Модуль саундмодератора із комплекту постачання автоматно-гранатометного комплексу ОЦ-14 "Гроза". Завдяки гумовому кожухові можна тримати зброю, використовуючи даний глушник як цівку.</text>
-	</string>
-
-<!-- GRENADE LAUNCHERS -->
-
-	<string id="gunsl_addon_gl_gp25">
-		<text>ГП-25 «Костьор»</text>
-	</string>
-	<string id="gunsl_addon_gl_gp25_short">
-		<text>«Костёр»</text>
-	</string>
-	<string id="gunsl_addon_gl_gp25_descr">
-		<text>Однозарядний підствольний гранатомет для автоматичних гвинтівок країн ОВД. Ударно-спусковий механізм самозвідний, з ручним запобіжником й автоматичним блокуванням пострілу при неправильному встановленні. Для спорядження використовуються боєприпаси ВОГ-25 та ВОГ-25П.</text>
-	</string>
-
-	<string id="gunsl_addon_gl_l123a2">
-		<text>L123A2 UGL</text>
-	</string>>
-	<string id="gunsl_addon_gl_l123a2_short">
-		<text>L123A2 UGL</text>
-	</string>
-	<string id="gunsl_addon_gl_l123a2_descr">
-		<text>Підствольний гранатомет, розроблений спеціально для використання на гвинтівці L85A2. Призначений для стрільби різноманітними підствольними гранатами калібру 40 мм, що стоять на озброєнні НАТО.</text>
-	</string>
-
-	<string id="gunsl_addon_gl_m203">
-		<text>M203</text>
-	</string>
-	<string id="gunsl_addon_gl_m203_short">
-		<text>M203</text>
-	</string>
-	<string id="gunsl_addon_gl_m203_descr">
-		<text>Модифікація однозарядного гранатомета М203 зі вкороченим на три дюйми стволом та кріпленням для встановлення на планку Пікатінні. Завдяки зміні кріплення ця модель широко застосовується у всьому світі.</text>
-	</string>
-	
-	<string id="gunsl_addon_gl_groza">
-		<text>ГП-5</text>
-	</string>
-	<string id="gunsl_addon_gl_groza_short">
-		<text>ГП-5</text>
-	</string>
-	<string id="gunsl_addon_gl_groza_descr">
-		<text>Гранатометний модуль, призначений для використання разом з автоматно-гранатометним комплексом ОЦ-14 "Гроза". Створений на базі підствольного гранатомета ГП-25, у конструкцію якого внесений ряд змін та доробок. Найбільш значною з них є єдиний спуск, який використовується як для стрільби гранатами, так і для стрільби звичайними боєприпасами. Через змінену схему кріплення даний модуль не сожна використовувати з іншими видами зброї.</text>
-	</string>
+  <!-- LASTOCHKA -->
+  <string id="gunsl_addon_scope_pso1m2">
+    <text>Приціл снайперський ПСО-1М2</text>
+  </string>
+  <string id="gunsl_addon_scope_pso1m2_short">
+    <text>ПСО-1М2</text>
+  </string>
+  <string id="gunsl_addon_scope_pso1m2_descr">
+    <text>Оптичний приціл фіксованої кратності. Прицільна сітка розмічена для снайперського вогню на великі дистанції. Для зручності стрільби в сутінках передбачена можливість увімкнення підсвітки прицільної сітки. Для встановлення на зброю країн ОВД передбачено кріплення "ластівчин хвіст".</text>
+  </string>
+  <string id="gunsl_addon_scope_pso1m2_1">
+    <text>Приціл штурмовий ПСО-1М2-1</text>
+  </string>
+  <string id="gunsl_addon_scope_pso1m2_1_short">
+    <text>ПСО-1М2-1</text>
+  </string>
+  <string id="gunsl_addon_scope_pso1m2_1_descr">
+    <text>Оптичний приціл фіксованої кратності. Прицільна сітка розмічена для стрільби на середні дистанції. Для зручності стрільби в сутінках передбачена можливість увімкнення підсвітки прицільної сітки. Зазвичай використовується на штурмових гвинтівках країн ОВД, оснащених кріпленням "ластівчин хвіст".</text>
+  </string>
+  <string id="gunsl_addon_scope_1pn93_4">
+    <text>Приціл снайперський нічний 1ПН93-4</text>
+  </string>
+  <string id="gunsl_addon_scope_1pn93_4_short">
+    <text>1ПН93-4</text>
+  </string>
+  <string id="gunsl_addon_scope_1pn93_4_descr">
+    <text>Нічний приціл фіксованої кратності. Прицільна сітка розмічена для снайперського вогню на великі дистанції. Для встановлення на зброю країн ОВД передбачено кріплення "ластівчин хвіст". Оскільки приціл досить високий, він, як правило, не закриває механічних прицільних. Завдяки цьому є можливість їхнього використання як резервного способу прицілювання на випадок, якщо компоненти нічного прицілу вийдуть із ладу.</text>
+  </string>
+  <string id="gunsl_addon_scope_1pn93_1">
+    <text>Приціл штурмовий нічний 1ПН93-1</text>
+  </string>
+  <string id="gunsl_addon_scope_1pn93_1_short">
+    <text>1ПН93-1</text>
+  </string>
+  <string id="gunsl_addon_scope_1pn93_1_descr">
+    <text>Нічний приціл фіксованої кратності. Прицільна сітка розмічена на середні дистанції. Зазвичай використовується на штурмових гвинтівках країн ОВД, оснащених кріпленням "ластівчин хвіст".</text>
+  </string>
+  <string id="gunsl_addon_scope_kashtan">
+    <text>Приціл універсальний 1П78-1</text>
+  </string>
+  <string id="gunsl_addon_scope_kashtan_short">
+    <text>1П78-1</text>
+  </string>
+  <string id="gunsl_addon_scope_kashtan_descr">
+    <text>Приціл оптичний 1П78-1 кратності 2,8 для стрільби на середні й дальні дистанції. Установлюється на зброю, обладнану кріпленням "ластівчин хвіст". Прицільна сітка підходить як для стрільби зі штурмових гвинтівок, так і для снайперського вогню.</text>
+  </string>
+  <string id="gunsl_addon_scope_cobra">
+    <text>Приціл коліматорний «Кобра»</text>
+  </string>
+  <string id="gunsl_addon_scope_cobra_short">
+    <text>«Кобра»</text>
+  </string>
+  <string id="gunsl_addon_scope_cobra_descr">
+    <text>Коліматорний приціл Кобра (варіянт ЕКП-1С-03) забезпечує комфортне прицілювання за природнього освітлення. Має трикутну прицільну мітку.  Для встановлення на зброю країн ОВД передбачено кріплення "ластівчин хвіст".</text>
+  </string>
+  <string id="gunsl_addon_scope_pka">
+    <text>Приціл коліматорный ПК-А</text>
+  </string>
+  <string id="gunsl_addon_scope_pka_short">
+    <text>ПК-А</text>
+  </string>
+  <string id="gunsl_addon_scope_pka_descr">
+    <text>Приціл коліматорний ПК-А забезпечує швидке прицілювання при стрільбі за будь-якої освітленості. Прицільна мітка має форму точки.Для встановлення на зброю країн ОВД передбачено кріплення "ластівчин хвіст".</text>
+  </string>
+  <!-- PICCATINY -->
+  <string id="gunsl_addon_scope_susat">
+    <text>Приціл штурмовий SUSAT</text>
+  </string>
+  <string id="gunsl_addon_scope_susat_short">
+    <text>SUSAT</text>
+  </string>
+  <string id="gunsl_addon_scope_susat_descr">
+    <text>Чотирикратний оптиний приціл, розроблений у Великобританії. Зазвичай використовується для ведення прицільного вогню з легкої стрілецької зброї на середні та великі дистанції. Має резервні механічні прицільні засоби на випадок виходу з ладу оптичної частини. Встановлюється на спеціальне кріплення "Dovetail", присутнє на L85.</text>
+  </string>
+  <string id="gunsl_addon_scope_aimpoint">
+    <text>Приціл коліматорний Aimpoint CompM4s</text>
+  </string>
+  <string id="gunsl_addon_scope_aimpoint_short">
+    <text>Aimpoint CompM4s</text>
+  </string>
+  <string id="gunsl_addon_scope_aimpoint_descr">
+    <text>Закритий коліматорний приціл від шведської компанії Aimpoint AB. Призначений для ведення точної стрільби на малих та середніх дистанціях. Прицільна мітка має форму точки. Встановлюється на планку Пікатінні.</text>
+  </string>
+  <string id="gunsl_addon_scope_eotech">
+    <text>Прицел коллиматорный EOTech XPS3-0</text>
+  </string>
+  <string id="gunsl_addon_scope_eotech_short">
+    <text>EOTech XPS3-0</text>
+  </string>
+  <string id="gunsl_addon_scope_eotech_descr">
+    <text>Голографічний приціл від американської компанії EOTech. Модель XPS3-0 досить компактна, тому популярна серед сталкерів. Встановлюється на планку Пікатінні.</text>
+  </string>
+  <string id="gunsl_addon_scope_elcan">
+    <text>Прицел штурмовой Elcan Specter DR 1x/4x</text>
+  </string>
+  <string id="gunsl_addon_scope_elcan_short">
+    <text>Приціл штурмовий Elcan Specter DR 1x/4x</text>
+  </string>
+  <string id="gunsl_addon_scope_elcan_descr">
+    <text>Оптичний приціл від канадської компанії ELCAN Optical Technologies зі змінною кратністю (1 або 4 діоптрії). Встановлюється на планку Пікатінні. Прицільна сітка обладнана підсвіткою регульованої яскравості. Також має резервні прицільні засоби на випадок виходу з ладу оптичної частини.</text>
+  </string>
+  <string id="gunsl_addon_scope_pn23">
+    <text>Приціл штурмовий нічний ПН-23</text>
+  </string>
+  <string id="gunsl_addon_scope_pn23_short">
+    <text>ПН-23</text>
+  </string>
+  <string id="gunsl_addon_scope_pn23_descr">
+    <text>Малогабаритний нічний приціл від росіянської компанії НПЗ із фіксованою кратністю (3 діоптрії). Встановлюється на планку Пікатінні.</text>
+  </string>
+  <!-- Other scopes -->
+  <string id="gunsl_addon_scope_rakurs">
+    <text>Прицел штурмовой Ракурс-ПМ</text>
+  </string>
+  <string id="gunsl_addon_scope_rakurs_short">
+    <text>Приціл штурмовий Ракурс-ПМ</text>
+  </string>
+  <string id="gunsl_addon_scope_rakurs_descr">
+    <text>Приціл оптичний ширококутний Ракурс-ПМ підвищує ефективність стрільби на дистанції прямого пострілу (до 400 м). Даний варіянт призначений для встановлення на планку Вівера.</text>
+  </string>
+  <string id="gunsl_addon_scope_pu">
+    <text>Приціл мисливський ПУ</text>
+  </string>
+  <string id="gunsl_addon_scope_pu_short">
+    <text>ПУ</text>
+  </string>
+  <string id="gunsl_addon_scope_pu_descr">
+    <text>Мисливський приціл кратності 3,5. Призначений для встановлення на рушниці, обладнані спеціальним кронштейном, тому несумісний з іншою зброєю.</text>
+  </string>
+  <string id="gunsl_addon_scope_pgo7v">
+    <text>Приціл гранатометний ПГО-7В</text>
+  </string>
+  <string id="gunsl_addon_scope_pgo7v_short">
+    <text>ПГО-7В</text>
+  </string>
+  <string id="gunsl_addon_scope_pgo7v_descr">
+    <text>Радянський телескопічний приціл, розроблений у 60-ті спеціально для використання разом з ручними гранатометами серії РПГ-7. Для зручності стрільби в сутінках передбачена можливість увімкнення підсвітки прицільної сітки.</text>
+  </string>
+  <string id="gunsl_addon_scope_po4x34">
+    <text>Приціл оптичний ПО 4х34</text>
+  </string>
+  <string id="gunsl_addon_scope_po4x34_short">
+    <text>ПО 4х34</text>
+  </string>
+  <string id="gunsl_addon_scope_po4x34_descr">
+    <text>Радянський чотирикратний оптичний приціл, призначений для використання на середніх дистанціях. Вирізняється простотою конструкції та невибагливістю при експлуатації, але через малу кількість поправок не надто популярний серед снайперів. Входить у стандартний комплект постачання автоматно-гранатометного комплексу ОЦ-14 Гроза.</text>
+  </string>
+  <!-- SILENCERS -->
+  <string id="gunsl_addon_silencer_pb">
+    <text>Насадка для ПБ</text>
+  </string>
+  <string id="gunsl_addon_silencer_pb_short">
+    <text>Насадка</text>
+  </string>
+  <string id="gunsl_addon_silencer_pb_descr">
+    <text>Передня частина інтегрованого глушника (насадки) пістолета ПБ калібру 9х18 мм. Несумісний з іншою зброєю.</text>
+  </string>
+  <string id="gunsl_addon_silencer_m4_2000">
+    <text>ПБС для калібру 5.56х45 мм</text>
+  </string>
+  <string id="gunsl_addon_silencer_m4_2000_short">
+    <text>ПБС для 5.56х45</text>
+  </string>
+  <string id="gunsl_addon_silencer_m4_2000_descr">
+    <text>Глушник моделі ААС М4-2000, призначений для встановлення на більшість автоматів і карабінів калібру 5,56х45 мм.</text>
+  </string>
+  <string id="gunsl_addon_apb_silencer">
+    <text>Глушник для АПБ</text>
+  </string>
+  <string id="gunsl_addon_apb_silencer_short">
+    <text>Глушник для АПБ</text>
+  </string>
+  <string id="gunsl_addon_apb_silencer_descr">
+    <text>Глушник для пістолета АПБ під калібр 9х18 мм. Несумісний з іншою зброєю.</text>
+  </string>
+  <string id="gunsl_addon_silencer_svd">
+    <text>Глушник ТГП-В</text>
+  </string>
+  <string id="gunsl_addon_silencer_svd_short">
+    <text>ТГП-В</text>
+  </string>
+  <string id="gunsl_addon_silencer_svd_descr">
+    <text>Тактичний глушник-полум'єгасник калібру 7,62 мм, може бути встановленим на снайперські гвинтівки сімейства СВД.</text>
+  </string>
+  <string id="gunsl_addon_tgpa">
+    <text>Глушник ТГП-А</text>
+  </string>
+  <string id="gunsl_addon_tgpa_short">
+    <text>ТГП-А</text>
+  </string>
+  <string id="gunsl_addon_tgpa_descr">
+    <text>Тактичний глушник-полум'єгасник калібру 5,45 мм. Встановлюється на більшість автоматів сімейства АК.</text>
+  </string>
+  <string id="gunsl_addon_colt_p220_silencer">
+    <text>Саундмодератор пістолетний .45ACP</text>
+  </string>
+  <string id="gunsl_addon_colt_p220_silencer_short">
+    <text>Саундмодератор пістолетний .45ACP</text>
+  </string>
+  <string id="gunsl_addon_colt_p220_silencer_descr">
+    <text>Саундмодератор моделі BLACK BOX .45 виробництва Advanced Armament Corp. Підходить для більшості пістолетів калібру .45ACP, ствол яких обладнаний спеціальною різьбою.</text>
+  </string>
+  <string id="gunsl_addon_silencer_hexagon12">
+    <text>Саундмодератор Гексагон 12К</text>
+  </string>
+  <string id="gunsl_addon_silencer_hexagon12_short">
+    <text>Гексагон 12К</text>
+  </string>
+  <string id="gunsl_addon_silencer_hexagon12_descr">
+    <text>Модератор звуку пострілу від компанії Гексагон, призначений для карабінів и рушниць 12-го калібру.</text>
+  </string>
+  <string id="gunsl_addon_silencer_57x28">
+    <text>Саундмодератор 5.7х28 мм</text>
+  </string>
+  <string id="gunsl_addon_silencer_57x28_short">
+    <text>Саундмодератор 5.7х28 мм</text>
+  </string>
+  <string id="gunsl_addon_silencer_57x28_descr">
+    <text>Даний саундмодератор може бути встановлений на пістолет-кулемет FN P90.</text>
+  </string>
+  <string id="gunsl_addon_silencer_57x28_pistol">
+    <text>Саундмодератор GEMTECH SFN57</text>
+  </string>
+  <string id="gunsl_addon_silencer_57x28_pistol_short">
+    <text>Саундмодератор GEMTECH SFN57</text>
+  </string>
+  <string id="gunsl_addon_silencer_57x28_pistol_descr">
+    <text>Даний саундмодератор розроблений для використання на пістолетах моделі FN Five-seveN, стволи яких обладнані спеціальною різьбою. Не може бути використаним з іншою зброєю.</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x18smg">
+    <text>Саундмодератор 9мм «Бізон»</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x18smg_short">
+    <text>Саундмодератор 9мм «Бізон»</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x18smg_descr">
+    <text>Даний глушник призначений для встановлення на 9 мм пістолети-кулемети "Бізон"</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x18">
+    <text>Саундмодератор пістолетний 9х18 мм</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x18_short">
+    <text>Саундмодератор пістолетний 9х18 мм</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x18_descr">
+    <text>Універсальний глушник для пістолетів калібру 9х18 мм. Підходить для більшості зброї даного калібру, але для деяких зразків може знадобитися нанесення на ствол спеціальної різьби.</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x19">
+    <text>Пістолетний саундмодератор 9х19 мм</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x19_short">
+    <text>Пістолетний саундмодератор 9х19 мм</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x19_descr">
+    <text>Універсальний глушник для пістолетів калібру 9х19 мм. Підходить для більшості зброї даного калібру, але для деяких зразків може знадобитися нанесення на ствол спеціальної різьби.</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x21">
+    <text>Пістолетний саундмодератор 9х21 мм</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x21_short">
+    <text>Пістолетний саундмодератор 9х21 мм</text>
+  </string>
+  <string id="gunsl_addon_silencer_9x21_descr">
+    <text>Саундмодератор для калібру 9х21 мм. Для встановлення потребує спеціальної різьби.</text>
+  </string>
+  <string id="gunsl_addon_silencer_groza">
+    <text>Модуль саундмодератора 9х39 мм «Гроза»</text>
+  </string>
+  <string id="gunsl_addon_silencer_groza_short">
+    <text>Модуль саундмодератора 9х39 мм «Гроза»</text>
+  </string>
+  <string id="gunsl_addon_silencer_groza_descr">
+    <text>Модуль саундмодератора із комплекту постачання автоматно-гранатометного комплексу ОЦ-14 "Гроза". Завдяки гумовому кожухові можна тримати зброю, використовуючи даний глушник як цівку.</text>
+  </string>
+  <!-- GRENADE LAUNCHERS -->
+  <string id="gunsl_addon_gl_gp25">
+    <text>ГП-25 «Костьор»</text>
+  </string>
+  <string id="gunsl_addon_gl_gp25_short">
+    <text>«Костёр»</text>
+  </string>
+  <string id="gunsl_addon_gl_gp25_descr">
+    <text>Однозарядний підствольний гранатомет для автоматичних гвинтівок країн ОВД. Ударно-спусковий механізм самозвідний, з ручним запобіжником й автоматичним блокуванням пострілу при неправильному встановленні. Для спорядження використовуються боєприпаси ВОГ-25 та ВОГ-25П.</text>
+  </string>
+  <string id="gunsl_addon_gl_l123a2">
+    <text>L123A2 UGL</text>
+  </string>
+  <string id="gunsl_addon_gl_l123a2_short">
+    <text>L123A2 UGL</text>
+  </string>
+  <string id="gunsl_addon_gl_l123a2_descr">
+    <text>Підствольний гранатомет, розроблений спеціально для використання на гвинтівці L85A2. Призначений для стрільби різноманітними підствольними гранатами калібру 40 мм, що стоять на озброєнні НАТО.</text>
+  </string>
+  <string id="gunsl_addon_gl_m203">
+    <text>M203</text>
+  </string>
+  <string id="gunsl_addon_gl_m203_short">
+    <text>M203</text>
+  </string>
+  <string id="gunsl_addon_gl_m203_descr">
+    <text>Модифікація однозарядного гранатомета М203 зі вкороченим на три дюйми стволом та кріпленням для встановлення на планку Пікатінні. Завдяки зміні кріплення ця модель широко застосовується у всьому світі.</text>
+  </string>
+  <string id="gunsl_addon_gl_groza">
+    <text>ГП-5</text>
+  </string>
+  <string id="gunsl_addon_gl_groza_short">
+    <text>ГП-5</text>
+  </string>
+  <string id="gunsl_addon_gl_groza_descr">
+    <text>Гранатометний модуль, призначений для використання разом з автоматно-гранатометним комплексом ОЦ-14 "Гроза". Створений на базі підствольного гранатомета ГП-25, у конструкцію якого внесений ряд змін та доробок. Найбільш значною з них є єдиний спуск, який використовується як для стрільби гранатами, так і для стрільби звичайними боєприпасами. Через змінену схему кріплення даний модуль не сожна використовувати з іншими видами зброї.</text>
+  </string>
 </string_table>

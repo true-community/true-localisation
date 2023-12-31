@@ -1,284 +1,213 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="kb_active_jobs">
-		<text>ЗАВДАННЯ</text>
-	</string>
-
-	<string id="kb_alife_command">
-		<text>НАКАЗ АТАКУВАТИ</text>
-	</string>
-
-	<string id="kb_always_run">
-		<text>КРОК</text>
-	</string>
-
-	<string id="kb_artefact">
-		<text>АРТЕФАКТ</text>
-	</string>
-
-	<string id="kb_backward">
-		<text>НАЗАД</text>
-	</string>
-
-	<string id="kb_binoculars">
-		<text>БІНОКЛЬ</text>
-	</string>
-
-	<string id="kb_console">
-		<text>КОНСОЛЬ</text>
-	</string>
-
-	<string id="kb_contacts">
-		<text>КОНТАКТИ</text>
-	</string>
-
-	<string id="kb_crouch">
-		<text>ПРИСІСТИ</text>
-	</string>
-
-	<string id="kb_crouch_toggle">
-		<text>ПОСТІЙНО НАПРИСЯДКИ</text>
-	</string>
-
-	<string id="kb_detector">
-		<text>ДЕТЕКТОР</text>
-	</string>
-
-	<string id="kb_down">
-		<text>УНИЗ</text>
-	</string>
-
-	<string id="kb_drop">
-		<text>ВИКЛАСТИ</text>
-	</string>
-
-	<string id="kb_fire">
-		<text>ВОГОНЬ</text>
-	</string>
-
-	<string id="kb_firemode_next">
-		<text>РЕЖИМ СТРІЛЬБИ (НАСТУПНИЙ)</text>
-	</string>
-
-	<string id="kb_firemode_prev">
-		<text>РЕЖИМ СТРІЛЬБИ (ПОПЕРЕДНІЙ)</text>
-	</string>
-
-	<string id="kb_forward">
-		<text>УПЕРЕД</text>
-	</string>
-
-	<string id="kb_func">
-		<text>ПІДСТВОЛЬНИК</text>
-	</string>
-
-	<string id="kb_grp_all">
-		<text>_</text>
-	</string>
-
-	<string id="kb_grp_common">
-		<text>ЗАГАЛЬНЕ</text>
-	</string>
-
-	<string id="kb_grp_direction">
-		<text>НАПРЯМОК</text>
-	</string>
-
-	<string id="kb_grp_inventory">
-		<text>РЮКЗАК</text>
-	</string>
-
-	<string id="kb_grp_movement">
-		<text>РУХ</text>
-	</string>
-
-	<string id="kb_grp_weapons">
-		<text>ЗБРОЯ</text>
-	</string>
-
-	<string id="kb_inventory">
-		<text>ІНВЕНТАР</text>
-	</string>
-
-	<string id="kb_jump">
-		<text>СТРИБОК</text>
-	</string>
-
-	<string id="kb_left">
-		<text>ЛІВОРУЧ</text>
-	</string>
-
-	<string id="kb_left_lookout">
-		<text>ВИГЛЯНУТИ ЛІВОРУЧ</text>
-	</string>
-
-	<string id="kb_left_strafe">
-		<text>КРОК ЛІВОРУЧ</text>
-	</string>
-
-	<string id="kb_current_task">
-		<text>ПОТОЧНЕ ЗАВДАННЯ</text>
-	</string>
-
-	<string id="kb_map">
-		<text>МАПА</text>
-	</string>
-
-	<string id="kb_notes">
-		<text>ЗАПИСИ</text>
-	</string>
-
-	<string id="kb_encyclopedia">
-		<text>ПУТІВНИК</text>
-	</string>
-
-	<string id="kb_next_slot">
-		<text>НАСТУПНА СПОРЯДЖЕНА ЗБРОЯ</text>
-	</string>
-
-	<string id="kb_night_vision">
-		<text>ПРИЛАД НІЧНОГО БАЧЕННЯ</text>
-	</string>
-
-	<string id="kb_pause">
-		<text>ПАУЗА</text>
-	</string>
-
-	<string id="kb_pda">
-		<text>КПК</text>
-	</string>
-
-	<string id="kb_prev_slot">
-		<text>ПОПЕРЕДНЯ СПОРЯДЖЕНА ЗБРОЯ</text>
-	</string>
-
-	<string id="kb_quit">
-		<text>ВИХІД</text>
-	</string>
-
-	<string id="kb_reload">
-		<text>ПЕРЕЗАРЯДИТИ</text>
-	</string>
-
-	<string id="kb_repair">
-		<text>РЕМОНТУВАТИ</text>
-	</string>
-
-	<string id="kb_right">
-		<text>ПРАВОРУЧ</text>
-	</string>
-
-	<string id="kb_right_lookout">
-		<text>ВИГЛЯНУТИ ПРАВОРУЧ</text>
-	</string>
-
-	<string id="kb_right_strafe">
-		<text>КРОК ПРАВОРУЧ</text>
-	</string>
-
-	<string id="kb_screenshot">
-		<text>ЗНЯТОК</text>
-	</string>
-
-	<string id="kb_sprint">
-		<text>БІГ</text>
-	</string>
-
-	<string id="kb_torch">
-		<text>НАЛОБНИЙ ЛІХТАРИК</text>
-	</string>
-
-	<string id="kb_wpn_kick">
-		<text>УДАР БАГНЕТОМ</text>
-	</string>
-
-	<string id="kb_wpn_laser">
-		<text>ЛАЗЕРНИЙ ЦІЛЕВКАЗ</text>
-	</string>
-
-	<string id="kb_wpn_torch">
-		<text>ТАКТИЧНИЙ ЛІХТАРИК</text>
-	</string>
-
-	<string id="kb_turn_engine">
-		<text>УВІМКНУТИ</text>
-	</string>
-
-	<string id="kb_up">
-		<text>УГОРУ</text>
-	</string>
-
-	<string id="kb_use">
-		<text>ВИКОРИСТАТИ</text>
-	</string>
-
-	<string id="kb_use_bandage">
-		<text>ШВИДКЕ ВИКОРИСТАННЯ БИНТА</text>
-	</string>
-
-	<string id="kb_use_medkit">
-		<text>ШВИДКЕ ВИКОРИСТАННЯ АПТЕЧКИ</text>
-	</string>
-
-	<string id="kb_weapon1">
-		<text>НІЖ</text>
-	</string>
-
-	<string id="kb_weapon2">
-		<text>ПІСТОЛЕТ</text>
-	</string>
-
-	<string id="kb_weapon3">
-		<text>ДОДАТКОВА ЗБРОЯ</text>
-	</string>
-
-	<string id="kb_weapon4">
-		<text>ОСНОВНА ЗБРОЯ</text>
-	</string>
-
-	<string id="kb_weapon5">
-		<text>ГРАНАТА</text>
-	</string>
-
-	<string id="kb_weapon6">
-		<text>БІНОКЛЬ</text>
-	</string>
-
-	<string id="kb_weapon7">
-		<text>БОЛТ</text>
-	</string>
-
-	<string id="kb_wpn_next">
-		<text>ЗМІНИТИ ТИП ПАТРОНІВ</text>
-	</string>
-
-	<string id="kb_wpn_prev">
-		<text>ПОПЕРЕДНЯ ЗБРОЯ</text>
-	</string>
-
-	<string id="kb_zoom">
-		<text>НАБЛИЗИТИ</text>
-	</string>
-
-	<string id="kb_quick_use_1">
-		<text>КОМІРКА ШВИДКОГО ДОСТУП 1</text>
-	</string>
-
-	<string id="kb_quick_use_2">
-		<text>КОМІРКА ШВИДКОГО ДОСТУПУ 2</text>
-	</string>
-
-	<string id="kb_quick_use_3">
-		<text>КОМІРКА ШВИДКОГО ДОСТУПУ 3</text>
-	</string>
-
-	<string id="kb_quick_use_4">
-		<text>КОМІРКА ШВИДКОГО ДОСТУПУ 4</text>
-	</string>
-
-	<string id="kb_quick_use_5">
-		<text>КОМІРКА ШВИДКОГО ДОСТУПУ 5</text>
-	</string>
-
+  <string id="kb_active_jobs">
+    <text>ЗАВДАННЯ</text>
+  </string>
+  <string id="kb_alife_command">
+    <text>НАКАЗ АТАКУВАТИ</text>
+  </string>
+  <string id="kb_always_run">
+    <text>КРОК</text>
+  </string>
+  <string id="kb_artefact">
+    <text>АРТЕФАКТ</text>
+  </string>
+  <string id="kb_backward">
+    <text>НАЗАД</text>
+  </string>
+  <string id="kb_binoculars">
+    <text>БІНОКЛЬ</text>
+  </string>
+  <string id="kb_console">
+    <text>КОНСОЛЬ</text>
+  </string>
+  <string id="kb_contacts">
+    <text>КОНТАКТИ</text>
+  </string>
+  <string id="kb_crouch">
+    <text>ПРИСІСТИ</text>
+  </string>
+  <string id="kb_crouch_toggle">
+    <text>ПОСТІЙНО НАПРИСЯДКИ</text>
+  </string>
+  <string id="kb_detector">
+    <text>ДЕТЕКТОР</text>
+  </string>
+  <string id="kb_down">
+    <text>УНИЗ</text>
+  </string>
+  <string id="kb_drop">
+    <text>ВИКЛАСТИ</text>
+  </string>
+  <string id="kb_fire">
+    <text>ВОГОНЬ</text>
+  </string>
+  <string id="kb_firemode_next">
+    <text>РЕЖИМ СТРІЛЬБИ (НАСТУПНИЙ)</text>
+  </string>
+  <string id="kb_firemode_prev">
+    <text>РЕЖИМ СТРІЛЬБИ (ПОПЕРЕДНІЙ)</text>
+  </string>
+  <string id="kb_forward">
+    <text>УПЕРЕД</text>
+  </string>
+  <string id="kb_func">
+    <text>ПІДСТВОЛЬНИК</text>
+  </string>
+  <string id="kb_grp_all">
+    <text>_</text>
+  </string>
+  <string id="kb_grp_common">
+    <text>ЗАГАЛЬНЕ</text>
+  </string>
+  <string id="kb_grp_direction">
+    <text>НАПРЯМОК</text>
+  </string>
+  <string id="kb_grp_inventory">
+    <text>РЮКЗАК</text>
+  </string>
+  <string id="kb_grp_movement">
+    <text>РУХ</text>
+  </string>
+  <string id="kb_grp_weapons">
+    <text>ЗБРОЯ</text>
+  </string>
+  <string id="kb_inventory">
+    <text>ІНВЕНТАР</text>
+  </string>
+  <string id="kb_jump">
+    <text>СТРИБОК</text>
+  </string>
+  <string id="kb_left">
+    <text>ЛІВОРУЧ</text>
+  </string>
+  <string id="kb_left_lookout">
+    <text>ВИГЛЯНУТИ ЛІВОРУЧ</text>
+  </string>
+  <string id="kb_left_strafe">
+    <text>КРОК ЛІВОРУЧ</text>
+  </string>
+  <string id="kb_current_task">
+    <text>ПОТОЧНЕ ЗАВДАННЯ</text>
+  </string>
+  <string id="kb_map">
+    <text>МАПА</text>
+  </string>
+  <string id="kb_notes">
+    <text>ЗАПИСИ</text>
+  </string>
+  <string id="kb_encyclopedia">
+    <text>ПУТІВНИК</text>
+  </string>
+  <string id="kb_next_slot">
+    <text>НАСТУПНА СПОРЯДЖЕНА ЗБРОЯ</text>
+  </string>
+  <string id="kb_night_vision">
+    <text>ПРИЛАД НІЧНОГО БАЧЕННЯ</text>
+  </string>
+  <string id="kb_pause">
+    <text>ПАУЗА</text>
+  </string>
+  <string id="kb_pda">
+    <text>КПК</text>
+  </string>
+  <string id="kb_prev_slot">
+    <text>ПОПЕРЕДНЯ СПОРЯДЖЕНА ЗБРОЯ</text>
+  </string>
+  <string id="kb_quit">
+    <text>ВИХІД</text>
+  </string>
+  <string id="kb_reload">
+    <text>ПЕРЕЗАРЯДИТИ</text>
+  </string>
+  <string id="kb_repair">
+    <text>РЕМОНТУВАТИ</text>
+  </string>
+  <string id="kb_right">
+    <text>ПРАВОРУЧ</text>
+  </string>
+  <string id="kb_right_lookout">
+    <text>ВИГЛЯНУТИ ПРАВОРУЧ</text>
+  </string>
+  <string id="kb_right_strafe">
+    <text>КРОК ПРАВОРУЧ</text>
+  </string>
+  <string id="kb_screenshot">
+    <text>ЗНЯТОК</text>
+  </string>
+  <string id="kb_sprint">
+    <text>БІГ</text>
+  </string>
+  <string id="kb_torch">
+    <text>НАЛОБНИЙ ЛІХТАРИК</text>
+  </string>
+  <string id="kb_wpn_kick">
+    <text>УДАР БАГНЕТОМ</text>
+  </string>
+  <string id="kb_wpn_laser">
+    <text>ЛАЗЕРНИЙ ЦІЛЕВКАЗ</text>
+  </string>
+  <string id="kb_wpn_torch">
+    <text>ТАКТИЧНИЙ ЛІХТАРИК</text>
+  </string>
+  <string id="kb_turn_engine">
+    <text>УВІМКНУТИ</text>
+  </string>
+  <string id="kb_up">
+    <text>УГОРУ</text>
+  </string>
+  <string id="kb_use">
+    <text>ВИКОРИСТАТИ</text>
+  </string>
+  <string id="kb_use_bandage">
+    <text>ШВИДКЕ ВИКОРИСТАННЯ БИНТА</text>
+  </string>
+  <string id="kb_use_medkit">
+    <text>ШВИДКЕ ВИКОРИСТАННЯ АПТЕЧКИ</text>
+  </string>
+  <string id="kb_weapon1">
+    <text>НІЖ</text>
+  </string>
+  <string id="kb_weapon2">
+    <text>ПІСТОЛЕТ</text>
+  </string>
+  <string id="kb_weapon3">
+    <text>ДОДАТКОВА ЗБРОЯ</text>
+  </string>
+  <string id="kb_weapon4">
+    <text>ОСНОВНА ЗБРОЯ</text>
+  </string>
+  <string id="kb_weapon5">
+    <text>ГРАНАТА</text>
+  </string>
+  <string id="kb_weapon6">
+    <text>БІНОКЛЬ</text>
+  </string>
+  <string id="kb_weapon7">
+    <text>БОЛТ</text>
+  </string>
+  <string id="kb_wpn_next">
+    <text>ЗМІНИТИ ТИП ПАТРОНІВ</text>
+  </string>
+  <string id="kb_wpn_prev">
+    <text>ПОПЕРЕДНЯ ЗБРОЯ</text>
+  </string>
+  <string id="kb_zoom">
+    <text>НАБЛИЗИТИ</text>
+  </string>
+  <string id="kb_quick_use_1">
+    <text>КОМІРКА ШВИДКОГО ДОСТУП 1</text>
+  </string>
+  <string id="kb_quick_use_2">
+    <text>КОМІРКА ШВИДКОГО ДОСТУПУ 2</text>
+  </string>
+  <string id="kb_quick_use_3">
+    <text>КОМІРКА ШВИДКОГО ДОСТУПУ 3</text>
+  </string>
+  <string id="kb_quick_use_4">
+    <text>КОМІРКА ШВИДКОГО ДОСТУПУ 4</text>
+  </string>
+  <string id="kb_quick_use_5">
+    <text>КОМІРКА ШВИДКОГО ДОСТУПУ 5</text>
+  </string>
 </string_table>
