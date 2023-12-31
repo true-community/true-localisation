@@ -6,9 +6,13 @@ Current repository has extracted XML files ready for translation in [gamedata/co
 
 ## Translation flow
 
-1. Make edits in text strings (make sure to replace `&` with `&amp;` if you use ampersands!)
+1. Make edits in text strings
 2. Test changes in game
 3. Submit your changes via pull request
+
+[!] Every XML file must start with `<?xml version="1.0" encoding="windows-1251"?>` line. The game engine does not support UTF-8 encoding!<br/>Although, latin letters would look the same for either one, accents and other non-[ASCII](https://en.wikipedia.org/wiki/ASCII) characters can and will display wrong. Save your XMLs as [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251).
+
+You may use [HTML entities](https://www.w3schools.com/charsets/ref_html_entities_4.asp) for special characters, but <u>verify that they display correctly</u> before you submit changes. **Make sure to replace** `&` **with** `&amp;` **if you use ampersands!**
 
 ## Changing language
 

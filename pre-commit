@@ -1,2 +1,12 @@
 #!/usr/bin/env sh
-find . -type f -name "*.xml" -print0 | xargs -0 todos
+
+for file in `echo $(find ./gamedata -name "*.xml" -type f)`; do
+  # prettify
+  mv ${file} ${file}.tmp
+  # xmllint --format --recover ${file}.tmp > ${file} #2> /dev/null
+
+  cat ${file}.tmp | xmllint --format --encode windows-1251 - > ${file} #2> /dev/null
+  rm ${file}.tmp
+done
+
+find ./gamedata -type f -name "*.xml" -print0 | xargs -0 todos
