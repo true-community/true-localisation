@@ -1,0 +1,388 @@
+п»ї<?xml version="1.0" encoding="UTF-8" ?>
+<string_table>
+
+	<string id="yan_start_task">
+		<text>LAKE YANTAR</text>
+	</string>
+
+	<string id="yan_start_task_go_name">
+		<text>Reach the mobile science lab</text>
+	</string>
+
+	<string id="yan_start_task_go_text">
+		<text>We arrived at the site of the operation. I've decided to leave Sky to protect the pilot. He's attempting to facilitate a connection to the satellite to keep us informed on what's happening here. The others and I have to examine the scientists' bunker. I hope we'll find all the answers we need there, as scouring the whole area won't be a pleasant experience.</text>
+	</string>
+
+	<string id="yan_start_task_check_territory_name">
+		<text>Examine the area around the bunker</text>
+	</string>
+
+	<string id="yan_start_task_check_territory_text">
+		<text>While Hottab deals with unlocking the bunker door, we ought to comb the area. Might find something useful.</text>
+	</string>
+
+	<string id="yan_start_task_xottab_back_name">
+		<text>Return to Hottab</text>
+	</string>
+
+	<string id="yan_start_task_xottab_back_text">
+		<text>It seems the bunker door is no longer in the way. Time to return to Hottab.</text>
+	</string>
+
+	<string id="yan_start_task_check_bunker_name">
+		<text>Gather all information in the bunker</text>
+	</string>
+
+	<string id="yan_start_task_check_bunker_text">
+		<text>Command's primary objective is to gather all information on the scientists' research at lake Yantar. We'll need to gather all documentation, personal PDAs of the scientists and data storage devices. I'll start with the bunker. I'll go on my own, as it'll be quieter.</text>
+	</string>
+
+	<string id="yan_start_task_go_back_name">
+		<text>Give the information to Sky</text>
+	</string>
+
+	<string id="yan_start_task_go_back_text">
+		<text>I gathered all the information I could found in the scientists' bunker. Everyone inside was either dead or turned into zombies - including Sakharov. The data I found needs to be given to Sky, and after decoding some of it, we'll decide how to proceed.</text>
+	</string>
+
+	<string id="yan_something_in_silence">
+		<text>SOMETHING IN THE SILENCE</text>
+	</string>
+
+	<string id="yan_something_in_silence_start_talk_name">
+		<text>Talk to Vuslych</text>
+	</string>
+
+	<string id="yan_something_in_silence_start_talk_text">
+		<text>Vuslych saw something from his vantage point. I'll question him about it.</text>
+	</string>
+
+	<string id="yan_something_in_silence_talk_koval_name">
+		<text>Talk to Koval</text>
+	</string>
+
+	<string id="yan_something_in_silence_talk_koval_text">
+		<text>A strange anomaly has been spotted in the swamp by the mobile lab. Koval and I will go examine it. While we're at it, I'll put him through his paces.</text>
+	</string>
+
+	<string id="yan_something_in_silence_go_koval_name">
+		<text>Go to the anomaly site with Koval</text>
+	</string>
+
+	<string id="yan_something_in_silence_go_koval_text">
+		<text>One of our objectives from command is gathering all information on happenings at lake Yantar, including information on anomalous formations. I believe that's why Koval was assigned to our squad, being well-versed in anomalies.</text>
+	</string>
+
+	<string id="yan_something_in_silence_second_talk_koval_name">
+		<text>Talk to Koval</text>
+	</string>
+
+	<string id="yan_something_in_silence_second_talk_koval_text">
+		<text>The strange smoke disappeared as we got closer. I need to discuss what to do next with Koval.</text>
+	</string>
+
+	<string id="yan_something_in_silence_cover_koval_name">
+		<text>Cover Koval</text>
+	</string>
+
+	<string id="yan_something_in_silence_cover_koval_text">
+		<text>Koval claims he's never seen such an anomaly before. And was it even an anomaly? Gathering intelligence on it wouldn't hurt. While Koval sets up his device, I should provide cover.</text>
+	</string>
+
+	<string id="yan_someone_alive">
+		<text>SURVIVOR</text>
+	</string>
+
+	<string id="yan_someone_alive_start_name">
+		<text>Check the signal source</text>
+	</string>
+
+	<string id="yan_someone_alive_start_text">
+		<text>It appears someone survived. His PDA signal was picked up not far from us. Worth checking out.</text>
+	</string>
+
+	<string id="yan_someone_alive_follow_stalker_name">
+		<text>Take the stalker to the camp</text>
+	</string>
+
+	<string id="yan_someone_alive_follow_stalker_text">
+		<text>We've found the first survivor in Yantar. He should be able to clear up recent events and help give us a complete picture of everything. To begin with, I should take him to camp and let him come to his senses - he's been through a lot.</text>
+	</string>
+
+	<string id="yan_someone_alive_talk_with_stalker_name">
+		<text>Interrogate the stalker</text>
+	</string>
+
+	<string id="yan_someone_alive_talk_with_stalker_text">
+		<text>I should get as much information out of the stalker as possible. What does he know about the scientists' work at Yantar, what was that black fume chasing him? There are enough questions as it is.</text>
+	</string>
+
+	<string id="yan_missing_koval">
+		<text>DISAPPEARANCE</text>
+	</string>
+
+	<string id="yan_missing_koval_start_name">
+		<text>Find Koval</text>
+	</string>
+
+	<string id="yan_missing_koval_start_text">
+		<text>Koval's not answering his radio. I should examine the area where I last saw him.</text>
+	</string>
+
+	<string id="yan_missing_koval_wait_name">
+		<text>Wait for Koval to appear</text>
+	</string>
+
+	<string id="yan_missing_koval_wait_text">
+		<text>The dimwit disappeared somewhere. I don't believe anything happened to him. I'll wait until he shows up, and in the meantime, I can get around to other objectives.</text>
+	</string>
+
+	<string id="yan_missing_koval_spot_seen_name">
+		<text>Track down Koval by his signal</text>
+	</string>
+
+	<string id="yan_missing_koval_spot_seen_text">
+		<text>Koval's gone silent, but I've picked up his signal near the archanomaly. I'll check the area. What's he doing here?</text>
+	</string>
+
+	<string id="yan_missing_koval_dogs_attack_name">
+		<text>Help Koval fight off the mutants</text>
+	</string>
+
+	<string id="yan_missing_koval_dogs_attack_text">
+		<text>Koval ran into mutants by the anomaly. I should help him fight them off.</text>
+	</string>
+
+	<string id="yan_missing_koval_talk_name">
+		<text>Talk to Koval</text>
+	</string>
+
+	<string id="yan_missing_koval_talk_text">
+		<text>The mutants are dead. I need to find out what the hell made Koval go to the anomaly.</text>
+	</string>
+
+	<string id="yan_collect_info">
+		<text>GATHERING INTEL</text>
+	</string>
+
+	<string id="yan_collect_info_start_name">
+		<text>Talk to Sky</text>
+	</string>
+
+	<string id="yan_collect_info_start_text">
+		<text>While I was away, Sky might've dug up something from the data we retrieved. I'll need to talk to him.</text>
+	</string>
+
+	<string id="yan_collect_info_search_name">
+		<text>Get information in the marked locations</text>
+	</string>
+
+	<string id="yan_collect_info_search_text">
+		<text>Sky transferred the possible sites of scientist bodies to my PDA. I should examine them and retrieve any information. Hottab and Vuslych set off to check the area leading to Agroprom. I'll check the area surrounding the factory.</text>
+	</string>
+
+	<string id="yan_collect_info_talk_with_sky_name">
+		<text>Take the data to Sky</text>
+	</string>
+
+	<string id="yan_collect_info_talk_with_sky_text">
+		<text>I found out some things on the spot, but I'll have to ask Sky about others. I'll bring him everything I got and let him do his thing.</text>
+	</string>
+
+	<string id="yan_labx16_task">
+		<text>BREACH</text>
+	</string>
+
+	<string id="yan_labx16_task_start_name">
+		<text>Activate the cooling station</text>
+	</string>
+
+	<string id="yan_labx16_task_start_text">
+		<text>To help us reach the body of one of the stalkers near laboratory X16, Sky found a way to reduce the intensity of the psy-emissions around the lab's main entrance. The stalker may have useful information that will shed light on the events here.</text>
+	</string>
+
+	<string id="yan_labx16_task_go_check_corp_name">
+		<text>Approach the stalker body</text>
+	</string>
+
+	<string id="yan_labx16_task_go_check_corp_text">
+		<text>I managed to activate the cooling station and the emissions practically died down. Now I can get closer to the stalker by the breached wall.</text>
+	</string>
+
+	<string id="yan_labx16_task_check_corp_name">
+		<text>Search the stalker body</text>
+	</string>
+
+	<string id="yan_labx16_task_check_corp_text">
+		<text>I fell down into the laboratory ruins with the corpse... Well then, let's see whether he's got anything relevant to our mission.</text>
+	</string>
+
+	<string id="yan_labx16_second_task">
+		<text>CAUGHT IN A TRAP</text>
+	</string>
+
+	<string id="yan_labx16_task_second_escape_lab_name">
+		<text>Find the underground exit</text>
+	</string>
+
+	<string id="yan_labx16_task_second_escape_lab_text">
+		<text>I wound up inside the laboratory ruins with no way out. Seems I'm still in one piece, no fractures or anything, but my radio's broken to pieces. I'll have to get back on the surface on my own. On the plus side, this place will likely allow me to piece together everything that happened at Yantar.</text>
+	</string>
+
+	<string id="yan_labx16_task_second_search_key_name">
+		<text>Find a way inside the control room</text>
+	</string>
+
+	<string id="yan_labx16_task_second_search_key_text">
+		<text>Behind this door must be main control panel of this dreadful system. Perhaps I'll be able to find something useful there... but I first have to get inside.</text>
+	</string>
+
+	<string id="yan_labx16_task_second_check_dispatcher_room_name">
+		<text>Examine the dispatcher room</text>
+	</string>
+
+	<string id="yan_labx16_task_second_check_dispatcher_room_text">
+		<text>The dispatcher room might contain records of the scientists' final talks, or some other useful information.</text>
+	</string>
+
+	<string id="yan_labx16_task_second_check_brain_control_room_name">
+		<text>Examine the control room</text>
+	</string>
+
+	<string id="yan_labx16_task_second_check_brain_control_room_text">
+		<text>I managed to retrieve some key from the body of an army dispatcher. Let's hope he went from the control room, since not many doors here are locked.</text>
+	</string>
+
+	<string id="yan_labx16_task_second_escape_lab_two_name">
+		<text>Р’РєР»СЋС‡РёС‚СЊ РѕС…Р»Р°РґРёС‚РµР»СЊРЅСѓСЋ СѓСЃС‚Р°РЅРѕРІРєСѓ</text>
+	</string>
+
+	<string id="yan_labx16_task_second_escape_lab_two_text">
+		<text>I managed to find certain information regarding the events in laboratory X16. Now I need to get out of here.</text>
+	</string>
+
+	<string id="yan_labx16_task_talk_with_sky_name">
+		<text>Talk to Sky</text>
+	</string>
+
+	<string id="yan_labx16_task_talk_with_sky_text">
+		<text>Time to talk to our break-in specialist. He must have fished out something from the data we retrieved previously.</text>
+	</string>
+
+	<string id="yan_mysterious_stranger_task">
+		<text>MYSTERIOUS STRANGER</text>
+	</string>
+
+	<string id="yan_mysterious_stranger_task_start_name">
+		<text>Find the overnight shelter in the sewer</text>
+	</string>
+
+	<string id="yan_mysterious_stranger_task_start_text">
+		<text>My encounter with Ivanych turned out unexpectedly. I never thought I'd get to see him alive again. He told me the individual we met around here is not to be trusted. How did he know about that? I'll need to question the stalker once more - Ivanych must have meant him. While I look for the exit, I'll check out his overnight shelter. Ivanych told me it's somewhere in the sewers.</text>
+	</string>
+
+	<string id="yan_mysterious_stranger_task_back_to_lager_name">
+		<text>Return to camp and decide how to proceed</text>
+	</string>
+
+	<string id="yan_mysterious_stranger_task_back_to_lager_text">
+		<text>A stalker named Matvei told me everything about the mysterious stranger. He lied to me from the very start with the sole purpose of getting out of here. Once I return to camp, I need to decide what to do with him. Leave him here? Take him with us and have him tried? Or even take on the role of judge myself?</text>
+	</string>
+
+	<string id="yan_source_of_interference">
+		<text>SOURCE OF INTERFERENCE</text>
+	</string>
+
+	<string id="yan_source_of_interference_talk_with_vuslich_name">
+		<text>Talk to Vuslych</text>
+	</string>
+
+	<string id="yan_source_of_interference_talk_with_vuslich_text">
+		<text>We were able to retrieve almost all information about the events at Yantar. Now we only have to tacke the issue of the defective emitter. Vuslych will set off with me, along with Koval - I'd rather not leave him in camp.</text>
+	</string>
+
+	<string id="yan_source_of_interference_open_angar_name">
+		<text>Open the hangar</text>
+	</string>
+
+	<string id="yan_source_of_interference_open_angar_text">
+		<text>Professor Sytyanov may be located among zombies locked inside the hangar next to the mobile science lab. I should pry open the hangar, dispatch the zombies and retrieve his PDA.</text>
+	</string>
+
+	<string id="yan_source_of_interference_take_pda_name">
+		<text>Find Sytyanov's PDA</text>
+	</string>
+
+	<string id="yan_source_of_interference_take_pda_text">
+		<text>The hangar is open. Now I only have to deal with the zombies and find the data storage device on professor Sytyanov.</text>
+	</string>
+
+	<string id="yan_source_of_interference_wait_decryption_name">
+		<text>Wait for the data to be encrypted</text>
+	</string>
+
+	<string id="yan_source_of_interference_wait_decryption_text">
+		<text>I managed to find a PDA on professor Sytyanov's body. I'll wait until all data is extracted from it.</text>
+	</string>
+
+	<string id="yan_source_of_interference_go_factory_name">
+		<text>Reach the site</text>
+	</string>
+
+	<string id="yan_source_of_interference_go_factory_text">
+		<text>I learned about the location of the emitter. I have to reach the site with my squad and shut it off.</text>
+	</string>
+
+	<string id="yan_source_of_interference_koval_need_help_name">
+		<text>Find out what happened to Koval</text>
+	</string>
+
+	<string id="yan_source_of_interference_koval_need_help_text">
+		<text>Koval stopped all of a sudden. I should find out what happened.</text>
+	</string>
+
+	<string id="yan_source_of_interference_off_emitter_name">
+		<text>Deactivate the emitter</text>
+	</string>
+
+	<string id="yan_source_of_interference_off_emitter_text">
+		<text>We reached the target. Now we only have to turn off the emitter. Let's hope everything goes smoothly.</text>
+	</string>
+
+	<string id="yan_source_of_interference_talk_with_squad_name">
+		<text>Return to the squad</text>
+	</string>
+
+	<string id="yan_source_of_interference_talk_with_squad_text">
+		<text>The emitter is off. I should check up on the squad.</text>
+	</string>
+
+	<string id="yan_source_of_interference_go_back_name">
+		<text>Return to the encampment</text>
+	</string>
+
+	<string id="yan_source_of_interference_go_back_text">
+		<text>We've gathered all possible information on the incident and pieced together everything that happened at Yantar. Comms with Agroprom have been established. Time to return to camp and prepare to head back to base.</text>
+	</string>
+
+	<string id="yan_source_of_interference_talk_with_sky_name">
+		<text>Talk to Sky</text>
+	</string>
+
+	<string id="yan_source_of_interference_talk_with_sky_text">
+		<text>I need to give Sky the rest of all the information and prepare to depart to Agroprom.</text>
+	</string>
+
+	<string id="yan_final_task">
+		<text>MESSENGER OF JUSTICE</text>
+	</string>
+
+	<string id="yan_final_task_main_title_name">
+		<text>Decide what to do with the Duty deserter</text>
+	</string>
+
+	<string id="yan_final_task_main_title_text">
+		<text>Before heading back, I'll talk to the deserter. I must decide what to do with him.</text>
+	</string>
+
+</string_table>

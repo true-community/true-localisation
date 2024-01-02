@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="agroprom_docs">
+		<text>КЕЙС ПІД ЗАМКОМ</text>
+	</string>
+
+	<string id="agr_diggers_reach_base_name">
+		<text>Дістатися до бази дигерів</text>
+	</string>
+
+	<string id="agr_diggers_reach_base_text">
+		<text>Код від сейфа в мене, залишається пройти на базу. Ех, не засікли б мене!</text>
+	</string>
+
+	<string id="agr_diggers_speak_leader_name">
+		<text>Поговорити з лідером дигерів</text>
+	</string>
+
+	<string id="agr_diggers_speak_leader_text">
+		<text>Треба замилити їм очі та переконати клан, що я тут з добрими намірами. Доведеться імпровізувати.</text>
+	</string>
+
+	<string id="agr_diggers_speak_leave_base_name">
+		<text>Покинути приміщення</text>
+	</string>
+
+	<string id="agr_diggers_speak_leave_base_text">
+		<text>Здається, я зміг переконати цього дивака. Залишилося чекати, що буде далі.</text>
+	</string>
+
+	<string id="agr_diggers_go_open_safe_name">
+		<text>Відкрити сейф</text>
+	</string>
+
+	<string id="agr_diggers_go_open_safe_text">
+		<text>Треба відкрити сейф, забрати документи й вшиватися звідси.</text>
+	</string>
+
+	<string id="agr_diggers_not_full_take_case_name">
+		<text>Забрати документи з сейфа</text>
+	</string>
+
+	<string id="agr_diggers_not_full_take_case_text">
+		<text>Сейф відкрито, пора забирати здобич.</text>
+	</string>
+
+	<string id="diggers_take_weapons">
+		<text>ПУШКИ</text>
+	</string>
+
+	<string id="agr_diggers_weapons_take_start_name">
+		<text>Забрати зброю</text>
+	</string>
+
+	<string id="agr_diggers_weapons_take_start_text">
+		<text>Треба забрати свою зброю, яку мені довелося віддати на вході на базу дигерів.</text>
+	</string>
+
+	<string id="agr_diggers_speak_patron_name">
+		<text>Доповісти Патрону</text>
+	</string>
+
+	<string id="agr_diggers_speak_patron_text">
+		<text>Кейс у мене. Пора доповідати замовнику.</text>
+	</string>
+
+	<string id="agr_diggers_speak_trader_name">
+		<text>Віддати добутий кейс Костуру</text>
+	</string>
+
+	<string id="agr_diggers_speak_trader_text">
+		<text>Залишилось останнє: віддати кейс торговцю. Сподіваюсь, це підніме його довіру до мене.</text>
+	</string>
+
+	<string id="agroprom_docs_new_attempt">
+		<text>ВІЙНА ЗА КЕЙС</text>
+	</string>
+
+	<string id="agr_diggers_go_attack_case_name">
+		<text>Забрати кейс силою</text>
+	</string>
+
+	<string id="agr_diggers_go_attack_case_text">
+		<text>По-нормальному взяти кейс не вдалося. Доведеться добувати силою  -  без нього я не отримаю довіру торговця.</text>
+	</string>
+
+	<string id="agroprom_docs_not_full">
+		<text>КОД ВІД СЕЙФА</text>
+	</string>
+
+	<string id="agr_diggers_not_full_go_attack_leader_name">
+		<text>Вбити лідера дигерів</text>
+	</string>
+
+	<string id="agr_diggers_not_full_go_attack_leader_text">
+		<text>По-нормальному не вдалося. Доведеться йти напролом. Код напевне у лідера.</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task">
+		<text>СИГНАЛ SOS</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_start_name">
+		<text>Прийти на допомогу сталкеру</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_start_text">
+		<text>Сталкер Ред послав сигнал SOS. Варто піти до входу до підземелля «Агропрома».</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_under_start_name">
+		<text>Допомогти Реду витягти його друга</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_under_start_text">
+		<text>Треба допомогти Реду витягти його друга з аномалії. Подивимось, що з цього вийде...</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_follow_name">
+		<text>Йти слідом за Редом</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_follow_text">
+		<text>Потрібно дійти з Редом до місця, де залишився чекати допомоги його товариш.</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_speak_final_name">
+		<text>Поговорити з Редом</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_speak_final_text">
+		<text>Здається, ми прийшли, але тут лише трупи...</text>
+	</string>
+
+	<string id="agr_stalker_perch_task">
+		<text>НЕБЕЗПЕЧНІ ЗАВДАННЯ</text>
+	</string>
+
+	<string id="agr_stalker_perch_task_start_name">
+		<text>Зустрітися з Окунем в барі</text>
+	</string>
+
+	<string id="agr_stalker_perch_task_start_text">
+		<text>Сталкер на прізвисько Окунь запропонував попрацювати з ними на Бармена. Гідна плата. Якщо буду в барі, загляну.</text>
+	</string>
+
+	<string id="agr_soldier_post_task">
+		<text>ГОЛОДНИЙ ВАРТОВИЙ</text>
+	</string>
+
+	<string id="agr_soldier_post_start_name">
+		<text>Дістати військовому їжі</text>
+	</string>
+
+	<string id="agr_soldier_post_start_text">
+		<text>Військовий на території бази вчених просить їжі. Тільки тоді він покличе Дубініна. Думаю, якихось чотири батони, консерви або ще чогось їстівного йому вистачить.</text>
+	</string>
+
+	<string id="agr_soldier_post_final_name">
+		<text>Віддати військовому їжу</text>
+	</string>
+
+	<string id="agr_soldier_post_final_text">
+		<text>Сподіваюсь, тепер вояка договориться про зустріч із Дубинцем.</text>
+	</string>
+
+	<string id="agr_drunk_medic_search">
+		<text>П'ЯНИЙ МЕДИК</text>
+	</string>
+
+	<string id="agr_drunk_medic_search_start_name">
+		<text>Знайти Олександра</text>
+	</string>
+
+	<string id="agr_drunk_medic_search_start_text">
+		<text>Табір сталкерів безперечно потребує медика. Найвірніший варіант  -  привести на базу колишнього наукового співробітника. Тільки спочатку його треба знайти, а потім відчепити від пляшки.</text>
+	</string>
+
+	<string id="agr_scientific_job">
+		<text>НАУКОВА РОБОТА</text>
+	</string>
+
+	<string id="agr_scientific_job_start_speak_scientist_task_name">
+		<text>Поговорити з Дубинцем</text>
+	</string>
+
+	<string id="agr_scientific_job_start_speak_scientist_task_text">
+		<text>Голова гуде... але треба вставати та йти на зустріч з Дубинцем. У нього до мене розмова щодо записів Гамзата.</text>
+	</string>
+
+	<string id="agr_scientific_job_start_speak_assistant_name">
+		<text>Поговорити з асистентом Дубініна</text>
+	</string>
+
+	<string id="agr_scientific_job_start_speak_assistant_text">
+		<text>Підписався допомагати науці у вивченні трансмутації артефактів. Видали перепустку, щедро заплатили. Робота начебто не курна, та й мені гранично зрозуміла. Краще лазити по аномаліях, ніж бігати від мутантів й таскати ящики від бандитів.</text>
+	</string>
+
+	<string id="agr_scientific_job_start_go_name">
+		<text>Вирушити до аномального болота</text>
+	</string>
+
+	<string id="agr_scientific_job_start_go_text">
+		<text>Потрібно видобути селекційний артефакт в аномальному болоті. Караваєв з цим допоможе.</text>
+	</string>
+
+	<string id="agr_scientific_job_kill_stalkers_name">
+		<text>Вбити сталкерів</text>
+	</string>
+
+	<string id="agr_scientific_job_kill_stalkers_text">
+		<text>Біля аномалії зустріли охочих отримати трансмутагенний артефакт. Здобич вони просто так не упустять...</text>
+	</string>
+
+	<string id="agr_scientific_job_relax_speak_name">
+		<text>Поговорити з Караваєвим</text>
+	</string>
+
+	<string id="agr_scientific_job_relax_speak_text">
+		<text>Потрібно поговорити з Караваєвим та обговорити план дій.</text>
+	</string>
+
+	<string id="agr_scientific_job_relax_wait_assistant_name">
+		<text>Дочекатися, поки Караваєв знайде маршрут</text>
+	</string>
+
+	<string id="agr_scientific_job_relax_wait_assistant_text">
+		<text>Вчений має знайти безпечну дорогу до артефакту. Подивимось, що з цього вийде.</text>
+	</string>
+
+	<string id="agr_scientific_job_detector_broken_speak_name">
+		<text>Поговорити з Караваєвим</text>
+	</string>
+
+	<string id="agr_scientific_job_detector_broken_speak_text">
+		<text>Здається, у головастого щось пішло не за планом...</text>
+	</string>
+
+	<string id="agr_scientific_job_take_artefact_name">
+		<text>Дістати артефакт</text>
+	</string>
+
+	<string id="agr_scientific_job_take_artefact_text">
+		<text>Доведеться діяти по-дідівському: без обладнання. Маю знайти безпечний маршрут до артефакту й дістати його.</text>
+	</string>
+
+	<string id="agr_scientific_job_speak_final_assistant_name">
+		<text>Поговорити з Караваєвим</text>
+	</string>
+
+	<string id="agr_scientific_job_speak_final_assistant_text">
+		<text>Я дістав артефакт. Тепер можна повертатися до наукового комплексу.</text>
+	</string>
+
+	<string id="agr_scientific_job_go_base_name">
+		<text>Повернутися до Дубініна</text>
+	</string>
+
+	<string id="agr_scientific_job_go_base_text">
+		<text>Пора повернутися до наукового комплексу й поговорити з Дубинцем щодо добутого артефакту.</text>
+	</string>
+
+	<string id="agr_scientific_job_second">
+		<text>НОВІ ОКОЛИЦІ</text>
+	</string>
+
+	<string id="agr_scientific_job_second_start_name">
+		<text>Довідатись у Юрка про дорогу в Новошепеличі</text>
+	</string>
+
+	<string id="agr_scientific_job_second_start_text">
+		<text>Попереду довга дорога до раніше нерозвіданих місць! Піду через Кордон, загляну до старих знайомих. Треба дізнатися в Юрка, як найбезпечніше потрапити до Новошепеличів.</text>
+	</string>
+
+	<string id="agr_scientific_job_second_change_level_name">
+		<text>Вирушати до Новошепеличів</text>
+	</string>
+
+	<string id="agr_scientific_job_second_change_level_text">
+		<text>Вже час вивчати нові околиці. Юрко сказав, що у Новошепеличах небезпечніше, ніж на Смітнику. Матиму це на увазі.</text>
+	</string>
+
+	<string id="agr_mid_final_task">
+		<text>СУПРОВІД</text>
+	</string>
+
+	<string id="agr_mid_final_task_follow_the_scientists_name">
+		<text>Прикривати вчених по дорозі в комплекс</text>
+	</string>
+
+	<string id="agr_mid_final_task_follow_the_scientists_text">
+		<text>Потрібно охороняти вчених під час їхньої наукової роботи.</text>
+	</string>
+
+	<string id="agr_colonel_task">
+		<text>КОМАНДИР ВИКЛИКАЄ</text>
+	</string>
+
+	<string id="agr_colonel_task_go_talk_name">
+		<text>Поговорити з полковником</text>
+	</string>
+
+	<string id="agr_colonel_task_go_talk_text">
+		<text>Полковник Клінських викликав до себе. Сподіваюсь, у нього з'явились до мене більш серйозні справи, ніж прогулянки з вченими.</text>
+	</string>
+
+	<string id="agr_before_sending">
+		<text>ПЕРЕД ВІДПРАВКОЮ</text>
+	</string>
+
+	<string id="agr_before_sending_talk_with_squad_name">
+		<text>Поговорити із загоном</text>
+	</string>
+
+	<string id="agr_before_sending_talk_with_squad_text">
+		<text>Моєму загону, нарешті, доручили серйозну операцію. Від її результату залежатиме все: або я і далі охороняю покої вчених до кінця контракту, або повертаюсь до роботи у центр Зони. Треба підготуватися до відправки та переговорити з хлопцями з моєї команди.</text>
+	</string>
+
+	<string id="agr_before_sending_talk_with_koval_name">
+		<text>Поговорити з Ковалем</text>
+	</string>
+
+	<string id="agr_before_sending_talk_with_koval_text">
+		<text>Перед початком операції потрібно більше дізнатися про Коваля. Дивний тип: він рідко спілкується з іншими воєнсталкерами, замкнений у собі, зникає з комплексу... І чому полковник все це терпить, так ще й нав'язує його до нас в команду? Його сигнал пеленгується на околиці «Агропрома». Піду, прогуляюсь.</text>
+	</string>
+
+	<string id="agr_before_sending_go_sleep_name">
+		<text>Відпочити до ранку</text>
+	</string>
+
+	<string id="agr_before_sending_go_sleep_text">
+		<text>Загін готовий до вильоту на операцію, а поки треба поспати й набратися сил. Околиці Янтаря завжди викликали в мене дивні, гнітючі відчуття. Там завжди тхнуло вогкістю, безнадією й смертю, і це в ті часи, коли мобільний бункер ще працював, а в цю місцевість стягувалися сталкери за роботою та для пошуку артефактів. Але що там зараз? Вже місяць про озеро складають легенди. Сталкери намагаються обходити його стороною, зв'язку з вченими більше немає, зросла аномальна активність. Що вивчав Сахаров, чи вони й досі живі? Завтра ми багато чого дізнаємось.</text>
+	</string>
+
+	<string id="agr_after_yantar_task">
+		<text>ПРОБУДЖЕННЯ</text>
+	</string>
+
+	<string id="agr_after_yantar_task_talk_with_xottab_name">
+		<text>Поговорити з Хоттабом</text>
+	</string>
+
+	<string id="agr_after_yantar_task_talk_with_xottab_text">
+		<text>Після звіту перед полковником про успішне виконання операції, ми вирішили відсвяткувати вдале повернення з таких небезпечних місць. Гарно посиділи. Хлопці ще сплять, а Хоттаб вже встав. Побалакаю з ним.</text>
+	</string>
+
+	<string id="agr_after_yantar_task_to_wash_name">
+		<text>Сходити до умивальні</text>
+	</string>
+
+	<string id="agr_after_yantar_task_to_wash_text">
+		<text>Потрібно привести себе до ладу, перед тим, як іти до полковника.</text>
+	</string>
+
+	<string id="agr_scientist_boss_info_task">
+		<text>НА КИЛИМ</text>
+	</string>
+
+	<string id="agr_scientist_boss_info_task_start_name">
+		<text>Вирушити у кабінет полковника</text>
+	</string>
+
+	<string id="agr_scientist_boss_info_task_start_text">
+		<text>Зранку полковник шукав мене для розмови. Треба дізнатись, на яку тему.</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task">
+		<text>ЗНИКЛИЙ ВЧЕНИЙ</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_start_name">
+		<text>Переговорити зі своєю групою</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_start_text">
+		<text>Полковник поставив за мету знайти зниклого вченого на прізвище Дубінін. На пошуки я вирушу один, щоб не наробити зайвого шуму. Перед цим потрібно повідомити свою групу, щоб вони могли допомогти, коли з'явиться необхідність.</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_talk_with_soldiers_name">
+		<text>Переговорити з військовими сталкерами</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_talk_with_soldiers_text">
+		<text>Про зникнення вченого щось можуть знати військові сталкери, які супроводжували його на польових роботах. Потрібно їх допитати.</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_check_tonnel_name">
+		<text>Оглянути тунель на «Агропромі»</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_check_tonnel_text">
+		<text>За словами сталкерів, в тунелі на «Агропромі» один вчений потрапив у аномалію. Це міг бути Дубінін. Треба оглянути це місце й перевірити теорію.</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_go_back_name">
+		<text>Віднести останки на експертизу</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_go_back_text">
+		<text>Біля аномалії виявлено людські останки та клапті іменного скафандра Дубініна. Щоб переконатися, що це дійсно він, треба віднести генетичний матеріал у науковий комплекс.</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_heli_name">
+		<text>Вирушити на Кордон</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_heli_text">
+		<text>На Дитятки збирається летіти наукова експедиція. Можливо, вони візьмуть мене на борт, щоб мені не тягтися пішки до Сидоровича.</text>
+	</string>
+
+	<string id="agr_scientist_boss_global_state_name">
+		<text>Знайти зачіпки про зникнення Дубініна</text>
+	</string>
+
+	<string id="agr_scientist_boss_global_state_text">
+		<text>За великим рахунком, мене відправили у вільне плавання. Я повинен знайти усі можливі зачіпки, щоб дізнатися, куди подівся професор Дубінін.</text>
+	</string>
+
+	<string id="agr_tonnel_dogs_task">
+		<text>НАПАД СОБАК</text>
+	</string>
+
+	<string id="agr_tonnel_dogs_task_kill_dogs_name">
+		<text>Допомогти польовій групі відбитися</text>
+	</string>
+
+	<string id="agr_tonnel_dogs_task_kill_dogs_text">
+		<text>Подібні напади мутантів на групи польових співробітників  -  справа звична. Треба допомогти колегам захистити вчених.</text>
+	</string>
+
+	<string id="agr_tonnel_dogs_task_talk_name">
+		<text>Поговорити з Крідовим</text>
+	</string>
+
+	<string id="agr_tonnel_dogs_task_talk_text">
+		<text>Перш ніж піти, ще раз перекинуся з Крідовим кількома словами.</text>
+	</string>
+
+</string_table>
