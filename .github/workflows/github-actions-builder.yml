@@ -1,0 +1,57 @@
+name: Build and Deploy
+
+run-name: ${{ github.actor }} is compiling new content
+
+on:
+  push:
+    branches:
+      - staging  # when there is need to actually create artifact, it commit has to be pushed to "staging"
+
+jobs:
+  build-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Build and publish artifact
+        env:
+          CONVERTER_URL: ${{ secrets.CONVERTER_URL }}
+        run: |
+          sudo apt-get install git tree -y
+
+          git clone https://github.com/Masterkatze/db_converter.git 2> /dev/null || true
+
+          mkdir -p ./content/resources ./content/languages ./content/patches
+          cp .run/linux_native_db_converter/settings.default.json ./settings.json
+
+          jq -c '.i_verified_settings = true' ./settings.json > ./settings.json.tmp && mv ./settings.json.tmp ./settings.json
+          jq -c '.converter = "./db_converter/build/src/db_converter"' ./settings.json > ./settings.json.tmp && mv ./settings.json.tmp ./settings.json
+
+          cat ./settings.json | jq
+
+          docker pull oven/bun:alpine
+          docker run --rm -v $(pwd):/app -v $(pwd)/content:/app/content oven/bun:alpine /bin/sh -c "apk add boost-dev build-base curl cmake gtest-dev spdlog-dev make && bun --version && cd /app && .run/linux_native_db_converter/install.sh && ls -l && bun install && bun ./run.ts validate && bun ./run.ts repack ''"
+
+          find ./content -type d -empty -delete
+          tree ./content
+          7z a ./content.7z ./content >/dev/null
+          stat -c %s ./content.7z | numfmt --to=iec-i --suffix=B --format="%.2f"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: content
+          path: ./content.7z
+
+      # - name: Pull request artifacts
+      #   uses: gavv/pull-request-artifacts@v2
+      #   with:
+      #     # Commit hash that triggered PR
+      #     commit: ${{ github.event.pull_request.head.sha }}
+
+      #     # Token for current repo (used to post PR comment)
+      #     repo-token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Whitespace-separated list of files to upload
+          artifacts: |
+            ./content.7z

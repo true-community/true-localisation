@@ -6,26 +6,20 @@ PlayGame.exe
 unins000.dat
 unins000.exe
 
-!gamedata/.keep
+!gamedata/.index.json
 
 pfx
-start.sh
+xrEngine.dxvk-cache
 
-.dbtool/*.*
+.db
+!.db/.keep
 
-.dbtool/extracted
-!.dbtool/extracted/.keep
-
-.dbtool/minified
-!.dbtool/minified/.keep
-
-.dbtool/separated
-!.dbtool/separated/.keep
-
-!.dbtool/utils/*
-
-.dbtool/db_converter
 converter.exe
+db_converter
+settings.json
+
+bun.lockb
+node_modules
 
 ###
 
