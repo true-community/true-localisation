@@ -1,111 +1,111 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-<string id="gunsl_apb_up_barrel_accuracy_name">
-     <text>Юстирування ствола</text>
-</string>
-<string id="gunsl_apb_up_barrel_accuracy_descr">
-     <text>Дозволяє зменшити розкид куль, що сприятливо впливає на точність ведення вогню.</text>
-</string>
-<string id="gunsl_apb_up_barrel_speed_name">
-     <text>Перенарізка ствола</text>
-</string>
-<string id="gunsl_apb_up_barrel_speed_descr">
-	<text>Зміна кроку нарізки в каналі ствола зброї дозволяє збільшити початкову швидкість кулі й знизити розкид попадань при стрільбі.</text>
-</string>
-<string id="gunsl_apb_up_barrel_silencer_name">
-     <text>Ствол з кріпленням глушника</text>
-</string>
-<string id="gunsl_apb_up_barrel_silencer_descr">
-	<text>Встановлення ствола від пістолета АПБ дозволяє встановити на зброю відповідний прилад безшумної стрільби.</text>
-</string>
-<string id="gunsl_apb_up_zaschelka_name">
-     <text>Дообробка замка магазину</text>
-</string>
-<string id="gunsl_apb_up_zaschelka_descr">
-     <text>Зменшує люфт магазина всередині руків'я пістолета, сприяючи безвідмовній подачі набоїв з магазину до патронника.</text>
-</string>
-<string id="gunsl_apb_up_prujina_name">
-     <text>Модифікація сповільнювача</text>
-</string>
-<string id="gunsl_apb_up_prujina_descr">
-	<text>Модифікація сповільнювача вкупі зі встановленням більш жорстокої бойової пружини дозволяють підвищити темп стрільби зброї.</text>
-</string>
-<string id="gunsl_apb_up_light_mag_name">
-     <text>Полегшений магазин</text>
-</string>
-<string id="gunsl_apb_up_light_mag_descr">
-	<text>Заміна штатного магазину на полегшений сучасний аналог дозволяє знизити масу зброї.</text>
-</string>
-<string id="gunsl_apb_up_usm_rpm_name">
-     <text>Форсування УСМ</text>
-</string>
-<string id="gunsl_apb_up_usm_rpm_descr">
-	<text>Переналаштування УСМ з дообробкою деяких його деталей дозволяє стрільцеві вости вогонь з більш високим темпом. на жаль, зброя від цього починає зношуватися трохи швидше.</text>
-</string>
-<string id="gunsl_apb_up_perevodchik_name">
-	<text>Відсікання автоматичного режиму</text>
-</string>
-<string id="gunsl_apb_up_perevodchik_descr">
-	<text>Встановлення механізму автоматичного відсікання обмежує максимальну довжину черги трьома кулями. У такому режимі автоматичного вогню контролювати зброю набагато легше, завдяки чому значно знижується витрата набоїв, що необхідні для враження кожної окремої цілі.</text>
-</string>
-<string id="gunsl_apb_up_handle_name">
-     <text>Анатомічна накладка</text>
-</string>
-<string id="gunsl_apb_up_handle_descr">
-	<text>Накладка на руків'я, створена з урахуванням індивідуальних особливостей та побажань стрільця. Завдяки накладці тримання зброї стає значно зручнішим, а стрільба - комфортнішою. </text>
-</string>
-<string id="gunsl_apb_up_sights_name">
-     <text>Тритієві вставки</text>
-</string>
-<string id="gunsl_apb_up_sights_descr">
-     <text>Встановлення світних вставок у прицільні засоби дозволяє підвищити швидкість прицілювання й зручність бою в темряві.</text>
-</string>
-<string id="gunsl_apb_up_usm_recoil_name">
-     <text>М'який спуск УСМ</text>
-</string>
-<string id="gunsl_apb_up_usm_recoil_descr">
-	<text>Дозволяє знизити віддачу, сприяючи більш точній стрільбі.</text>
-</string>
-<string id="gunsl_apb_up_shell_ejector_name">
-     <text>Дообробка екстрактора</text>
-</string>
-<string id="gunsl_apb_up_shell_ejector_descr">
-	<text>Дозволяє зменшити кількість затримок, пов'язаних із застряганням гільз, викидуваних із пістолета після пострілу. Сприятливим чином позначається на надійності зброї.</text>
-</string>
-<string id="gunsl_apb_up_zapiratel_name">
-     <text>Покращений механізм запирання каналу ствола</text>
-</string>
-<string id="gunsl_apb_up_zapiratel_descr">
-	<text>За рахунок щільнішого запирання каналу ствола покращується обтюрація каналу ствола й підвищується початкова швидкість кулі.</text>
-</string>
-<string id="gunsl_apb_up_zatvor_balancer_name">
-     <text>Балансування затвору</text>
-</string>
-<string id="gunsl_apb_up_zatvor_balancer_descr">
-	<text>Балансування деталей затворної групи зменшує ведення ствола з лінії прицілювання при стрільбі чергами та знижує віддачу.</text>
-</string>
-<string id="gunsl_apb_up_pokritie_name">
-     <text>Захисне покриття</text>
-</string>
-<string id="gunsl_apb_up_pokritie_descr">
-	<text>Нанесення спеціального напилення на деталі зброї дозволяє значно сповільнити його зношення.</text>
-</string>
-<string id="gunsl_apb_up_zatvor_dispersion_name">
-	<text>Юстирування затворного механізму</text>
-</string>
-<string id="gunsl_apb_up_zatvor_dispersion_descr">
-	<text>Точний підгін елементів затворного механізму зменшує люфти та дозволяє досягнути більш високої точності стрільби.</text>
-</string>
-<string id="gunsl_apb_up_light_details_name">
-	<text>Полегшені деталі</text>
-</string>
-<string id="gunsl_apb_up_light_details_descr">
-     <text>Заміна стандартних деталей на аналоги з легких сплавів дозволяє знизити масу зброї.</text>
-</string>
-<string id="gunsl_apb_up_titan_details_name">
-     <text>Деталі підвищеної міцності</text>
-</string>
-<string id="gunsl_apb_up_titan_details_descr">
-	<text>Нові деталі зі сучасних тугоплавких сплавів мають вищу міцність, що сповільнює зношення зброї та сприятливо впливає на його надійність.</text>
-</string>
+  <string id="gunsl_apb_up_barrel_accuracy_name">
+    <text>Юстирування ствола</text>
+  </string>
+  <string id="gunsl_apb_up_barrel_accuracy_descr">
+    <text>Дозволяє зменшити розкид куль, що сприятливо впливає на точність ведення вогню.</text>
+  </string>
+  <string id="gunsl_apb_up_barrel_speed_name">
+    <text>Перенарізка ствола</text>
+  </string>
+  <string id="gunsl_apb_up_barrel_speed_descr">
+    <text>Зміна кроку нарізки в каналі ствола зброї дозволяє збільшити початкову швидкість кулі й знизити розкид попадань при стрільбі.</text>
+  </string>
+  <string id="gunsl_apb_up_barrel_silencer_name">
+    <text>Ствол з кріпленням глушника</text>
+  </string>
+  <string id="gunsl_apb_up_barrel_silencer_descr">
+    <text>Встановлення ствола від пістолета АПБ дозволяє встановити на зброю відповідний прилад безшумної стрільби.</text>
+  </string>
+  <string id="gunsl_apb_up_zaschelka_name">
+    <text>Дообробка замка магазину</text>
+  </string>
+  <string id="gunsl_apb_up_zaschelka_descr">
+    <text>Зменшує люфт магазина всередині руків'я пістолета, сприяючи безвідмовній подачі набоїв з магазину до патронника.</text>
+  </string>
+  <string id="gunsl_apb_up_prujina_name">
+    <text>Модифікація сповільнювача</text>
+  </string>
+  <string id="gunsl_apb_up_prujina_descr">
+    <text>Модифікація сповільнювача вкупі зі встановленням більш жорстокої бойової пружини дозволяють підвищити темп стрільби зброї.</text>
+  </string>
+  <string id="gunsl_apb_up_light_mag_name">
+    <text>Полегшений магазин</text>
+  </string>
+  <string id="gunsl_apb_up_light_mag_descr">
+    <text>Заміна штатного магазину на полегшений сучасний аналог дозволяє знизити масу зброї.</text>
+  </string>
+  <string id="gunsl_apb_up_usm_rpm_name">
+    <text>Форсування УСМ</text>
+  </string>
+  <string id="gunsl_apb_up_usm_rpm_descr">
+    <text>Переналаштування УСМ з дообробкою деяких його деталей дозволяє стрільцеві вости вогонь з більш високим темпом. на жаль, зброя від цього починає зношуватися трохи швидше.</text>
+  </string>
+  <string id="gunsl_apb_up_perevodchik_name">
+    <text>Відсікання автоматичного режиму</text>
+  </string>
+  <string id="gunsl_apb_up_perevodchik_descr">
+    <text>Встановлення механізму автоматичного відсікання обмежує максимальну довжину черги трьома кулями. У такому режимі автоматичного вогню контролювати зброю набагато легше, завдяки чому значно знижується витрата набоїв, що необхідні для враження кожної окремої цілі.</text>
+  </string>
+  <string id="gunsl_apb_up_handle_name">
+    <text>Анатомічна накладка</text>
+  </string>
+  <string id="gunsl_apb_up_handle_descr">
+    <text>Накладка на руків'я, створена з урахуванням індивідуальних особливостей та побажань стрільця. Завдяки накладці тримання зброї стає значно зручнішим, а стрільба — комфортнішою. </text>
+  </string>
+  <string id="gunsl_apb_up_sights_name">
+    <text>Тритієві вставки</text>
+  </string>
+  <string id="gunsl_apb_up_sights_descr">
+    <text>Встановлення світних вставок у прицільні засоби дозволяє підвищити швидкість прицілювання й зручність бою в темряві.</text>
+  </string>
+  <string id="gunsl_apb_up_usm_recoil_name">
+    <text>М'який спуск УСМ</text>
+  </string>
+  <string id="gunsl_apb_up_usm_recoil_descr">
+    <text>Дозволяє знизити віддачу, сприяючи більш точній стрільбі.</text>
+  </string>
+  <string id="gunsl_apb_up_shell_ejector_name">
+    <text>Дообробка екстрактора</text>
+  </string>
+  <string id="gunsl_apb_up_shell_ejector_descr">
+    <text>Дозволяє зменшити кількість затримок, пов'язаних із застряганням гільз, викидуваних із пістолета після пострілу. Сприятливим чином позначається на надійності зброї.</text>
+  </string>
+  <string id="gunsl_apb_up_zapiratel_name">
+    <text>Покращений механізм запирання каналу ствола</text>
+  </string>
+  <string id="gunsl_apb_up_zapiratel_descr">
+    <text>За рахунок щільнішого запирання каналу ствола покращується обтюрація каналу ствола й підвищується початкова швидкість кулі.</text>
+  </string>
+  <string id="gunsl_apb_up_zatvor_balancer_name">
+    <text>Балансування затвору</text>
+  </string>
+  <string id="gunsl_apb_up_zatvor_balancer_descr">
+    <text>Балансування деталей затворної групи зменшує ведення ствола з лінії прицілювання при стрільбі чергами та знижує віддачу.</text>
+  </string>
+  <string id="gunsl_apb_up_pokritie_name">
+    <text>Захисне покриття</text>
+  </string>
+  <string id="gunsl_apb_up_pokritie_descr">
+    <text>Нанесення спеціального напилення на деталі зброї дозволяє значно сповільнити його зношення.</text>
+  </string>
+  <string id="gunsl_apb_up_zatvor_dispersion_name">
+    <text>Юстирування затворного механізму</text>
+  </string>
+  <string id="gunsl_apb_up_zatvor_dispersion_descr">
+    <text>Точний підгін елементів затворного механізму зменшує люфти та дозволяє досягнути більш високої точності стрільби.</text>
+  </string>
+  <string id="gunsl_apb_up_light_details_name">
+    <text>Полегшені деталі</text>
+  </string>
+  <string id="gunsl_apb_up_light_details_descr">
+    <text>Заміна стандартних деталей на аналоги з легких сплавів дозволяє знизити масу зброї.</text>
+  </string>
+  <string id="gunsl_apb_up_titan_details_name">
+    <text>Деталі підвищеної міцності</text>
+  </string>
+  <string id="gunsl_apb_up_titan_details_descr">
+    <text>Нові деталі зі сучасних тугоплавких сплавів мають вищу міцність, що сповільнює зношення зброї та сприятливо впливає на його надійність.</text>
+  </string>
 </string_table>

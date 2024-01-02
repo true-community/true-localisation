@@ -1,117 +1,88 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="ui_st_guide_section_notes">
-		<text>ЗАМЕТКИ</text>
-	</string>
-
-	<string id="ui_st_guide_section_encyclopedia">
-		<text>ЭНЦИКЛОПЕДИЯ</text>
-	</string>
-
-	<string id="ui_st_guide_group_tasks">
-		<text>ЗАДАНИЯ</text>
-	</string>
-
-	<string id="ui_st_guide_group_records">
-		<text>ЗАПИСИ</text>
-	</string>
-
-	<string id="ui_st_guide_group_history">
-		<text>ДИАЛОГИ</text>
-	</string>
-
-	<string id="ui_st_guide_group_locations">
-		<text>ЛОКАЦИИ</text>
-	</string>
-
-	<string id="ui_st_guide_group_weapons">
-		<text>ОРУЖИЕ</text>
-	</string>
-
-	<string id="ui_st_guide_group_characters">
-		<text>ПЕРСОНАЖИ</text>
-	</string>
-
-	<string id="ui_st_guide_group_mutants">
-		<text>БЕСТИАРИЙ</text>
-	</string>
-
-	<string id="ui_st_guide_history_caption">
-		<text>ИСТОРИЯ ДИАЛОГОВ</text>
-	</string>
-
-	<string id="ui_st_guide_current_dialog">
-		<text>ИСТОРИЯ ДИАЛОГА</text>
-	</string>
-
-	<!-- Demo -->
-	<string id="ui_st_guide_demo_weapon_1_title">
-		<text>АК74</text>
-	</string>
-
-	<string id="ui_st_guide_demo_weapon_1_descr">
-		<text>Штурмовое</text>
-	</string>
-
-	<string id="ui_st_guide_demo_weapon_2_title">
-		<text>Сайга-12</text>
-	</string>
-
-	<string id="ui_st_guide_demo_weapon_2_descr">
-		<text>Дробовики</text>
-	</string>
-
-	<string id="ui_st_guide_demo_character_1_title">
-		<text>Алексей Журавлёв</text>
-	</string>
-
-	<string id="ui_st_guide_demo_character_1_descr">
-		<text>Военные сталкеры</text>
-	</string>
-
-	<string id="ui_st_guide_demo_character_1_info">
-		<text>Протагонист</text>
-	</string>
-
-	<string id="ui_st_guide_demo_character_2_title">
-		<text>Топор</text>
-	</string>
-
-	<string id="ui_st_guide_demo_character_2_descr">
-		<text>Нейтральные сталкеры</text>
-	</string>
-
-	<string id="ui_st_guide_demo_character_2_info">
-		<text>Протагонист</text>
-	</string>
-
-	<string id="ui_st_guide_demo_monster_1_title">
-		<text>Плоть</text>
-	</string>
-
-	<string id="ui_st_guide_demo_monster_1_descr">
-		<text>Мутировавшая свинья</text>
-	</string>
-
-	<string id="ui_st_guide_demo_monster_2_title">
-		<text>Кровосос</text>
-	</string>
-
-	<string id="ui_st_guide_demo_monster_2_descr">
-		<text>Подопытные</text>
-	</string>
-
-	<string id="ui_st_guide_demo_monster_3_title">
-		<text>Просо</text>
-	</string>
-
-	<string id="ui_st_guide_demo_monster_3_descr">
-		<text>Подопытные</text>
-	</string>
-
-	<string id="ui_st_guide_demo_monster_3_full_text">
-		<text>Просо (с латинского Proso - Алексей Просандеев) - известная в русскоязычном сталкерском коммьюнити личность. Ведёт несколько YouTube каналов - один является основным, на другом зарабатывает себе на хлеб любыми доступными способами, а третий канал служит для публикации насильственного контента по отношению к разработчику под ником Overf1rst. Просо обитает в Волгограде. Живёт двойной жизнью.\n \nВ свободное от прямых трансляций время руководит разработкой True Stalker (начиная с 2016 года), но лишь формально - за работой над модом Просо не был замечен ни разу. Нередко бывает агрессивным - неоднократно избивал одного из разработчиков, свою правую руку, при встрече в Москве. На контакт идёт с большим трудом - может забанить любого, кто ему по тем или иным причинам не приглянулся как потенциальный коллега.\n \nЧасто перекладывает свою вину на других, когда ему это выгодно - при встрече с разработчиком под ником Overf1rst в Москве свалил на него, что тот устроил боевые действия в третьей кабинке барного туалета, хотя Overf1rst был лишь во второй кабинке, в то время как Просо - в третьей. Это может быть связано с травмами, полученными в детстве. Кстати говоря, Алексея стали называть Просо ещё со школьных времён. На этой почве стал мстительным, нередко страдает кратковременными провалами в памяти и потерей рассудка. Несмотря на это, 20.06.2022 отметил свою тридцатилетие.</text>
-	</string>
-
+  <string id="ui_st_guide_section_notes">
+    <text>ЗАМЕТКИ</text>
+  </string>
+  <string id="ui_st_guide_section_encyclopedia">
+    <text>ЭНЦИКЛОПЕДИЯ</text>
+  </string>
+  <string id="ui_st_guide_group_tasks">
+    <text>ЗАДАНИЯ</text>
+  </string>
+  <string id="ui_st_guide_group_records">
+    <text>ЗАПИСИ</text>
+  </string>
+  <string id="ui_st_guide_group_history">
+    <text>ДИАЛОГИ</text>
+  </string>
+  <string id="ui_st_guide_group_locations">
+    <text>ЛОКАЦИИ</text>
+  </string>
+  <string id="ui_st_guide_group_weapons">
+    <text>ОРУЖИЕ</text>
+  </string>
+  <string id="ui_st_guide_group_characters">
+    <text>ПЕРСОНАЖИ</text>
+  </string>
+  <string id="ui_st_guide_group_mutants">
+    <text>БЕСТИАРИЙ</text>
+  </string>
+  <string id="ui_st_guide_history_caption">
+    <text>ИСТОРИЯ ДИАЛОГОВ</text>
+  </string>
+  <string id="ui_st_guide_current_dialog">
+    <text>ИСТОРИЯ ДИАЛОГА</text>
+  </string>
+  <!-- Demo -->
+  <string id="ui_st_guide_demo_weapon_1_title">
+    <text>АК74</text>
+  </string>
+  <string id="ui_st_guide_demo_weapon_1_descr">
+    <text>Штурмовое</text>
+  </string>
+  <string id="ui_st_guide_demo_weapon_2_title">
+    <text>Сайга-12</text>
+  </string>
+  <string id="ui_st_guide_demo_weapon_2_descr">
+    <text>Дробовики</text>
+  </string>
+  <string id="ui_st_guide_demo_character_1_title">
+    <text>Алексей Журавлёв</text>
+  </string>
+  <string id="ui_st_guide_demo_character_1_descr">
+    <text>Военные сталкеры</text>
+  </string>
+  <string id="ui_st_guide_demo_character_1_info">
+    <text>Протагонист</text>
+  </string>
+  <string id="ui_st_guide_demo_character_2_title">
+    <text>Топор</text>
+  </string>
+  <string id="ui_st_guide_demo_character_2_descr">
+    <text>Нейтральные сталкеры</text>
+  </string>
+  <string id="ui_st_guide_demo_character_2_info">
+    <text>Протагонист</text>
+  </string>
+  <string id="ui_st_guide_demo_monster_1_title">
+    <text>Плоть</text>
+  </string>
+  <string id="ui_st_guide_demo_monster_1_descr">
+    <text>Мутировавшая свинья</text>
+  </string>
+  <string id="ui_st_guide_demo_monster_2_title">
+    <text>Кровосос</text>
+  </string>
+  <string id="ui_st_guide_demo_monster_2_descr">
+    <text>Подопытные</text>
+  </string>
+  <string id="ui_st_guide_demo_monster_3_title">
+    <text>Просо</text>
+  </string>
+  <string id="ui_st_guide_demo_monster_3_descr">
+    <text>Подопытные</text>
+  </string>
+  <string id="ui_st_guide_demo_monster_3_full_text">
+    <text>Просо (с латинского Proso — Алексей Просандеев) — известная в русскоязычном сталкерском коммьюнити личность. Ведёт несколько YouTube каналов — один является основным, на другом зарабатывает себе на хлеб любыми доступными способами, а третий канал служит для публикации насильственного контента по отношению к разработчику под ником Overf1rst. Просо обитает в Волгограде. Живёт двойной жизнью.\n \nВ свободное от прямых трансляций время руководит разработкой True Stalker (начиная с 2016 года), но лишь формально — за работой над модом Просо не был замечен ни разу. Нередко бывает агрессивным — неоднократно избивал одного из разработчиков, свою правую руку, при встрече в Москве. На контакт идёт с большим трудом — может забанить любого, кто ему по тем или иным причинам не приглянулся как потенциальный коллега.\n \nЧасто перекладывает свою вину на других, когда ему это выгодно — при встрече с разработчиком под ником Overf1rst в Москве свалил на него, что тот устроил боевые действия в третьей кабинке барного туалета, хотя Overf1rst был лишь во второй кабинке, в то время как Просо — в третьей. Это может быть связано с травмами, полученными в детстве. Кстати говоря, Алексея стали называть Просо ещё со школьных времён. На этой почве стал мстительным, нередко страдает кратковременными провалами в памяти и потерей рассудка. Несмотря на это, 20.06.2022 отметил свою тридцатилетие.</text>
+  </string>
 </string_table>
