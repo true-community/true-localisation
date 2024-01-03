@@ -2,7 +2,15 @@
 
 ![alt text](https://i.ibb.co/02mzMj2/62463b1abe776a3-1.png)
 
-Current repository has XML files ready for translation in [English](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/eng), [French](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/fra), [German](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/ger), [Italian](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/ita), [Polish](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/pol), [Spanish](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/spa), [Ukrainian](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/ukr).
+Current repository has XML files with localisations in the following languages:
+- [Russian](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/rus) (100%)
+- [English](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/eng) (100%)
+- [Ukrainian](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/ukr) (100%)
+- [French](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/fra) (WIP, contribution required)
+- [German](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/ger) (WIP, contribution required)
+- [Italian](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/ita) (WIP, contribution required)
+- [Polish](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/pol) (WIP, contribution required)
+- [Spanish](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/spa) (WIP, contribution required)
 
 To suggest your own changes you can do one of the following:
 - add comments to lines where you suggest to make edits
@@ -16,7 +24,7 @@ To suggest your own changes you can do one of the following:
 2. Test changes in game
 3. Submit your changes via pull request
 
-[!] Every XML file must start with `<?xml version="1.0" encoding="windows-1251"?>` line. The game engine does not support UTF-8 encoding!<br/>Although, latin letters would be displayed inentically for either one, accents and other non-[ASCII](https://en.wikipedia.org/wiki/ASCII) characters can and will not. Save your XMLs as [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251).
+[!] Every XML file must start with `<?xml version="1.0" encoding="windows-1251"?>` line. The game engine does not support UTF-8 encoding!<br/>Although, latin letters would be displayed identically for either one, accents and other non-[ASCII](https://en.wikipedia.org/wiki/ASCII) characters cannot and will not. Save your XMLs as [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251).
 
 You may use [HTML entities](https://www.w3schools.com/charsets/ref_html_entities_4.asp) for special characters, but <u>verify that they display correctly</u> before you submit changes. **Make sure to replace** `&` **with** `&amp;` **if you use ampersands!**
 
@@ -25,8 +33,7 @@ You may use [HTML entities](https://www.w3schools.com/charsets/ref_html_entities
 
 - If your language is already officially in the game, just switch to it from the menu.
 
-- If not — set language code in your `userdata/user.ltx` file.<br/>
-  For example, for German: `g_language rus` > `g_language ger`
+- If not — set language code in your `userdata/user.ltx` file: `g_language rus` (replace "rus" with your language code as per `gamedata/config/text/`? directory name)
 
 <br/>
 
