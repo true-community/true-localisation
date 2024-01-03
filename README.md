@@ -2,7 +2,7 @@
 
 ![alt text](https://i.ibb.co/02mzMj2/62463b1abe776a3-1.png)
 
-Current repository has extracted XML files ready for translation in [gamedata/configs/text](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text) directory.
+Current repository has XML files ready for translation in [English](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/eng), [French](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/fra), [German](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/ger), [Italian](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/ita), [Polish](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/pol), [Spanish](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/spa), [Ukrainian](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/ukr).
 
 To suggest your own changes you can do one of the following:
 - add comments to lines where you suggest to make edits
@@ -45,7 +45,7 @@ You may use [HTML entities](https://www.w3schools.com/charsets/ref_html_entities
 1. Find localisation DB file from content/resources directory
 2. Run the `./run.ts unpack` to automagically extract from _db_ files
 
-### Create DB archives yourself
+### Create DB archives yourself (WIP)
 
 0. Make sure you have a suitable converter tool at hand (ex: [CoC DB converter](https://www.moddb.com/mods/call-of-chernobyl/downloads/cop-coc-db-converter)), place `converter.exe`<sup>1</sup> in this directory next to _README.md_ file
 1. Create the DB files via `./run.ts pack`
@@ -57,30 +57,63 @@ Here are [the default values](./settings.default.json) that you can change to su
 
 ```json
 {
-  "content_order": [               // 1
+  "content_order": [                // 1
     "resources",
     "language",
     "patches"
   ],
-  "converter": "./converter.exe",  // 2
-  "launcher": "./PlayGame.exe",    // 3
-  "launcher_arguments": "",        // 4
-  "i_verified_settings": false     // 5
+  "converter": "./converter.exe",   // 2
+  "converter_command_templates": {  // 3
+    "unpack": [
+      "-unpack",
+      "-xdb",
+      "**PATH_INPUT**",
+      "-dir",
+      "**PATH_OUTPUT**"
+    ],
+    "pack": [
+      "-pack",
+      "-xdb",
+      "**PATH_INPUT**",
+      "-out",
+      "**PATH_OUTPUT**"
+    ]
+  },
+  "launcher": "./PlayGame.exe",     // 4
+  "launcher_arguments": "",         // 5
+  "xml_options": {                  // 6
+    "prettify_unpacked": true,
+    "minify_repacked": true
+  },
+  "i_verified_settings": false      // 7
 }
 ```
 
 
 1. Lower override higher, if files with same name are present in multiple archives (newer patches replace older files).
 2. Executable that is used for conversion. __NOT__ provided here.
-3. Executable that launcher the game.
-4. CLI arguments to start launcher with.
-5. A safety measure for you to check the settings once at least :)
+3. When my script invokes the converter call, this is the command
+4. Executable that launcher the game.
+5. CLI arguments to start launcher with.
+6. Whether you want to process XML files or not (WIP)
+7. A safety measure for you to check the settings once at least :)
 
 
 ---
 
-### Improve CLI extractor tool
+<details><summary>Where I got the language strings from</summary><br/>
 
-Any [suggestion](https://github.com/lehrax-gaming/true-localisation/issues) is welcome, if you want to help me improve the toolkit.
+  I own the copy of S.T.A.L.K.E.R.: Call of Pripyat on Steam and it has `localization` directory in game files. In that directory you can find x{language}.db file (for language you chose for the game on Steam). So, in order to get all the official locales I switched between the languages and extracted the archives via converter.
+
+  I used the same converter to extract language strings from True Stalker's `content/resources/xlocalization.db` file.
+
+  ---
+
+  (i) Alternative approach to extracting game files is by replacing `bin/xrAPI.dll` with modified library that dumps the game content while the game is running (Lua script injection).
+</details>
+
+### Help me improve the CLI extractor tool
+
+Any [suggestion](https://github.com/lehrax-gaming/true-localisation/issues) is welcome, if you want to help me with the toolkit.
 
 </details>

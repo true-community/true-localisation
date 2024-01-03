@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="yan_xottab_door_open_dialog_0">
+    <text>I breached the door. Looks like the scientists tried to barricade the mutants out. Can't see a thing inside, and the stench... Seems quiet, though.</text>
+  </string>
+  <string id="yan_xottab_door_open_dialog_1">
+    <text>I can see. Going in there together wouldn't be a wise decision, so I'll scout ahead while everyone stays here.</text>
+  </string>
+  <string id="yan_xottab_door_open_dialog_2">
+    <text>Roger that.</text>
+  </string>
+  <string id="yan_xottab_door_open_dialog_3">
+    <text>I'm off. Stay here and be on your guard.</text>
+  </string>
+  <string id="yan_xottab_after_check_bunker_dialog_0">
+    <text>How'd it go? We heard gunshots inside, along with some groans.</text>
+  </string>
+  <string id="yan_xottab_after_check_bunker_dialog_1">
+    <text>I had to take down the assistants — they were zombified. Found some data that might give us all the answers we need in this hell hole. How are you doing?</text>
+  </string>
+  <string id="yan_xottab_after_check_bunker_dialog_2">
+    <text>It's quiet... too quiet. We saw signs of a carnage in the bunker. The camp must've been overrun with mutants. No life signs.</text>
+  </string>
+  <string id="yan_xottab_after_check_bunker_dialog_3">
+    <text>That's for the best. We'll move to the camp — we need to find out what kind of info they dug out. Once we find what we need, we return to base.</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_0_1">
+    <text>Any news?</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_0_2">
+    <text>Sitrep on the bunker. How's it going?</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_0_3">
+    <text>What's the status on the bunker?</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_1_1">
+    <text>We're not done with the bunker yet.</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_1_2">
+    <text>Working on it.</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_1_3">
+    <text>We're on it.</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_0">
+    <text>How'd it go?</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_1">
+    <text>No survivors. No signs of mutants, even. What's the drone picking up?</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_2">
+    <text>Not a thing. I'm seeing no activity at all, mutant or human.</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_3">
+    <text>Yeah, I don't like this. I brought the data from the mobile bunker. If you manage to crack it, we'll figure out what to do next, what we should look for, and what exactly happened here. This is all strange... The lack of contact is more troubling than anything else I've seen.</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_4">
+    <text>You're right about that. I'll start decrypting now.</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_5">
+    <text>Go on. The sooner we're out of here, the better.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_0">
+    <text>Commander?</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_1">
+    <text>What's the matter?</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_2">
+    <text>See for yourself. There's smoke over there in the swamp, black as coal.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_3_1">
+    <text>Is it an anomaly?</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_3_2">
+    <text>I saw it behind the bunker — it disappeared as I got closer. Could it be an anomaly of some sort?</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_4">
+    <text>Doesn't look like an anomaly to me, commander. It's like someone's holding a smoke grenade by a string.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_5">
+    <text>I see... I heard from the colonel that our greenhorn knows his anomalies pretty well. I'll take him with me and check it out.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_6">
+    <text>Are we coming with?</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_7">
+    <text>No. Stay in the camp and wait until the data's decrypted while I put that Koval guy to the test. If things get too hot, he needs to be reliable.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_8">
+    <text>Understood.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_9">
+    <text>I'll see you soon.</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_0_1">
+    <text>What's the news?</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_0_2">
+    <text>What's new?</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_0_3">
+    <text>Need something, commander?</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_1_1">
+    <text>Nothing. Continue.</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_1_2">
+    <text>No. Keep watching.</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_1_3">
+    <text>Just do your thing.</text>
+  </string>
+  <string id="yan_koval_start_anomaly_dialog_0">
+    <text>I'm listening.</text>
+  </string>
+  <string id="yan_koval_start_anomaly_dialog_1">
+    <text>Get yourself ready. We have a mission that's right up your alley. Pack all your scanners and detectors — we're to head off and scout a nearby anomaly.</text>
+  </string>
+  <string id="yan_koval_start_anomaly_dialog_2">
+    <text>Understood. Let's go.</text>
+  </string>
+  <string id="yan_koval_start_anomaly_dialog_3">
+    <text>Get a move on.</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_0">
+    <text>This thing is strange...</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_1">
+    <text>What do you have to say on it?</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_2">
+    <text>I've seen a lot of things and gone into many of those things myself, but this... this is new to me. I've heard stories from stalkers at the Garbage about some type of black smoke — they say it's a new anomaly that appeared after emissions. I didn't think it had any merit to it... but maybe this is it.</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_3">
+    <text>It flew past us and disappeared in an instant. Does any other anomaly do that?</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_4">
+    <text>Neither heard or seen anything like it. Right now, I suggest we set up scanners and check the area thoroughly.</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_5">
+    <text>What do I need to do?</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_6">
+    <text>Nothing, I'll manage everything myself... but I wouldn't mind some backup, just in case.</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_7">
+    <text>Alright. Do your thing.</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_0">
+    <text>Help, help!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_1">
+    <text>Who are you?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_2">
+    <text>Me? I'm a stalker! A stalker, you hear? That thing over there, the black one, that one! You see it?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_3">
+    <text>There's no one here!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_4">
+    <text>Yes there is! It was going after me! Over there, by the factory!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_5">
+    <text>Slow down. Who was going after you?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_6">
+    <text>Man, am I glad to see you! Could you lead me out of here? I'll pay you, I have money! Lots of money, and artifacts! Just please help me!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_7">
+    <text>Calm down! First tell us who you are, how you got here, and what happened to you. Then we'll deal with the rest.</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_8">
+    <text>I... I was hired by the scientists, and then the bunker was attacked by mutants. I escaped, but was followed by that thing... I don't know what it is! Something black, like thick smoke. It's been after me and won't let up! Wherever I go, I always end up back at the same place! Help me, please, I beg of you!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_9">
+    <text>We'll help you if you help us. Tell us everything you know — one thing at a time, nice and easy — and then we'll take you with us. Does that suit you?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_10">
+    <text>Yes, it does! I'll do anything!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_11">
+    <text>How many survivors?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_12">
+    <text>None. I'm the only one left. The rest were killed by mutants.</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_13">
+    <text>Alright. You and I will head to our camp, where it's safe. Then you'll tell us everything down to the last detail. Understood?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_14">
+    <text>Whatever you say! Who are you, anyway? Military?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_15">
+    <text>Correct. Come with me, and keep up. It's straight down the road.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_0_1">
+    <text>Hi, commander.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_0_2">
+    <text>I'm listening.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_0_3">
+    <text>Tell me, boss.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_1_1">
+    <text>Later.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_1_2">
+    <text>See you.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_1_3">
+    <text>Bye.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_0">
+    <text>Is that the survivor we discovered? He's with you?</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_1">
+    <text>Yeah. Says he's a regular stalker who worked for the scientists. Mentioned that the bunker was attacked by mutants, which is why no one there survived. He's all covered in dirt and shaggy-looking — must've been here for a long time now. Says he can't get out of here. Let him come to his senses, and then we'll do a thorough interrogation.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_2">
+    <text>Hm. Well, according to the data I encrypted from the scientists' PDAs, none of this happened because of mutant attacks.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_3">
+    <text>What did you find out?</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_4">
+    <text>I managed to decrypt and extract all the information from only the PDAs of Sakharov's assistants, as well as from the hard drive of the lab computer. Without going into too much detail, I can say that the scientists have long been studying the psy-emissions of laboratory X16. I don't know what interest they had in it, but they worked in there on a regular basis, in shifts.\n \nA month ago, something triggered a great impulse. Mutants gushed out at the mobile bunker as the lake level rose and flooded the shore. At this time, I don't know what it might've been.\n \nProfessor Sakharov's PDA isn't letting me crack it, and that must be where good stuff is... but I'll continue tinkering with it.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_5">
+    <text>How much time do you need?</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_6">
+    <text>I'm not sure, but I'll do what I can. The rest of you have work to do as well. I retrieved the schedule of the scientists' shifts from the lab computer and found out that some assistants were outside of the bunker during the incident. Some were inside X16, others were within the walls of the Yantar factory. The signals of the rest came from the swamp toward Agroprom.\n \nI've mapped out their last known locations before comms went down. I'd say we should examine their bodies and grab all possible storage mediums. Who knows, maybe we'll find survivors.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_7">
+    <text>Understood. So, you stay here in the camp with the survivor and pilot, but stay focused on decrypting the data. Vuslych and Hottab will scout the area behind the bunker to gather intel.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_8">
+    <text>Roger that. What about Koval? Any idea where he went off to?</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_9">
+    <text>Either the things he saw here went to his head and he left, or it has something to do with that black smoke... I'll try finding some answers to that damn thing.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_10">
+    <text>Alright. I'll radio you if I manage to track down Koval.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_11">
+    <text>We'll keep in touch.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_0">
+    <text>When can we fly from here?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_1">
+    <text>Once we're done. Much of it will depend on you. Let's go through this one thing at a time: who are you, and how did you end up here?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_2">
+    <text>Everyone calls me Aver. I came here three months ago to earn some cash, so I did what the scientists told me.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_3">
+    <text>You said a black thing was after you. What is that? Who were you running from?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_4">
+    <text>I don't know what it is, but it's been chasing me for a long time. Soon as I try to go without even turning, it then it finds me again and throws me right back. I've bene trying to leave this place for god knows how long, but it's no use.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_5">
+    <text>One of our squadmates disappeared not long after you showed up. Do you believe it has a part in it?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_6">
+    <text>Maybe. I don't know.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_7">
+    <text>Did you attempt to fire at it?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_8">
+    <text>Oh, no, better not to do that. Point your gun at its direction and it'll knock it out of your hand before you have a chance.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_9">
+    <text>You said there are no survivors left. Are you sure? Have you met anyone else?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_10">
+    <text>I'm sure. I've been here for too long already, and all I've seen are bodies.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_11">
+    <text>How did you manage to survive? Where were you when the mutant attack began?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_12">
+    <text>I was returning from the factory when I saw the mutants... they were beyond counting. I hid in the sewer, and they went past me.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_13">
+    <text>Are you aware of what the scientists were doing in the factory or laboratory? What were your responsibilities?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_14">
+    <text>I'm not aware. I only carried their devices and stood nearby. I never had access to the factory building itself. When can we fly from here?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_15">
+    <text>I'm afraid your information isn't enough. You sure you don't have anything else to share?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_16">
+    <text>Uh... no... Nothing, sorry.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_17">
+    <text>It'd help everyone if you recall anything, so give it some thought while I'm gone.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_18">
+    <text>Where are you going?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_19">
+    <text>I'm off to find out what you haven't. Sit here and don't move an inch from the camp. Understood?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_20">
+    <text>Understood...</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_21">
+    <text>We'll talk later.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_0_1">
+    <text>So are we flying off soon?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_0_2">
+    <text>When are we getting outta here?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_0_3">
+    <text>If only we'd get the hell out of here...</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_1_1">
+    <text>You'll just have to wait.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_1_2">
+    <text>Quit yapping. It's no resort for us either.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_1_3">
+    <text>Enough. We'll leave as soon as we can.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_0">
+    <text>Phew... Thanks. Seems like we got 'em all!</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_1">
+    <text>What the hell are you doing here? Why'd you abandon your equipment?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_2">
+    <text>I never abandoned it. I left it there because it needs time to gather info on the anomaly. Even now, there are no traces of anomalous activity there.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_3">
+    <text>So why are you switching posts without notice?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_4">
+    <text>I noticed another anomaly and decided to give it a good look. It might just be what's creating the black smoke we saw.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_5">
+    <text>What do you take me for? Hand over your backpack!</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_6">
+    <text>What, why should I?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_7">
+    <text>Because I'm telling you! Empty your backpack! Think you could take me for an idiot? First I find you at Agroprom around anomalies, now you're at it again. A stalker doesn't forget his roots, does he?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_8">
+    <text>Hey, let me go! This is none of your business!</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_9">
+    <text>Listen, I don't give a crap what the colonel thinks about you. The fact that he sent you with us gives you no right to ignore my orders. Any more behavior like this and your teeth'll meet my stock. I can't have you risking the whole op, and I need the squad at full strength when I say so, without having to track you down across the whole Zone. Do you understand me?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_10">
+    <text>I understand. Won't happen again. Sorry, boss.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_11">
+    <text>Your radio. Why's it silent?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_12">
+    <text>Dropped it. When I went over here, I noticed a few mutant bodies... or so I thought. I went closer, noticed they were actually sleeping. All of 'em! Then one of them started moving, and I fired. As you can guess, they all woke up and went right at me.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_13">
+    <text>Strange. I heard about some sleeping bloodsuckers through this one major, but snorks and dogs... Anyway, when is your equipment getting all the information?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_14">
+    <text>Another couple hours. If there's anything there, of course.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_15">
+    <text>Alright. Then wait until it's done, assemble it, and go back to camp.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_16">
+    <text>What about you? Don't you need any help from me?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_17">
+    <text>Not from you, no. The best thing you can do is stay in camp and not make a move.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_18">
+    <text>Understood.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_19">
+    <text>Alright, move it.</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_first_0">
+    <text>You find anything?</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_first_1">
+    <text>Yeah, take this. I managed to find out some stuff on my own, but the rest is for you to deal with.</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_first_2">
+    <text>Alright, hand it over. I'll poke around with this. You go check how's Koval doing — I did let you know that I caught his signal.</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_first_3">
+    <text>I'll get on it now.</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_second_0">
+    <text>How's it going with the info? How's Koval doing?</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_second_1">
+    <text>Here's what I gathered from the zombie scientists. I managed to find out some stuff on my own — you can deal with the rest. Koval's doing fine — I'll tell you more later.</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_second_2">
+    <text>Glad to hear that. There's something more: I have some info from the bunker data. There's a stalker body next to the collapsed entrance to laboratory X16. To reach it, you'll need to activate the cooling station in the hangar of the factory area. After that, the psy-emissions around the breach should stabilize, and we'll be able to reach the poor fellow's body. I can't understand where the emissions come from, since their main source is practically destroyed... but I suppose anything's possible. Here are the coordinates. One more thing: the cooling station was formerly operated by some stalker named Lefty, so you won't have to stay there for long — Sakharov's laptop tells me you only have to press a button. Good luck!</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_second_3">
+    <text>Damn, that's a task and a half. Alright, I'll see what can be done.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_0">
+    <text>Why, hello there!</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_1">
+    <text>Who are you? How did you get here?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_2">
+    <text>You mean to say you don't recognize me, Lyosha?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_3">
+    <text>How do you know my name?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_4">
+    <text>I'm Vasiliy Ivanovich Kondratyuk, commander of the fourth milstalker platoon!</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_5">
+    <text>Really? Vasiliy Ivanovich... how? Sir, how did you end up here?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_6">
+    <text>No need for the "Sir" — my time with the army has passed. As for me being here, well... After I served my time, I decided to return home. See, I grew up in these parts. My father and grandfather worked in the Yantar factory. And now I'm here, shooting down these freaks of nature. Perhaps these areas will grow safer with time. In the end, people always return to their roots... Do sit down. Let's talk over a cup of tea.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_7">
+    <text>I heard you'd taken your leave due to illness. How do you feel?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_8">
+    <text>Oh, there's nothing to feel. My sight and hearing — they've been better... not to mention my joints — I'm barely holding myself up! Age sure takes its toll... But I suppose it's too early to leave this world. I'm still walking, trodding across the Zone. What about you? Do you still serve?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_9">
+    <text>I do, and so do my men: Sky, Vuslych, Hottab... I was put in command after you. Thank you for putting in the word for me!</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_10">
+    <text>No one could've done it better. Everyone would've died at the power plant — you were right to lead them back. Human life is by far more important, and it's a shame that the higher-ups don't understand that. They've no concern for their men, only their target. And what would that target bring them? The Zone is never uncovering all its secrets, no matter how hard you try. It must be understood, not contradicted. To know when to go and when to stop. Perhaps then you will tread on until you reach my age.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_11">
+    <text>You know about that too? That our squad refused to make a move for the power plant?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_12">
+    <text>Of course! It sparked quite the outrage for almost two months, but you did the right thing. Nearly all military stalker squads met their end there. Their bodies lay there with no one even to bury them. As such, you did the right thing!</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_13">
+    <text>Aren't you afraid here, being all alone?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_14">
+    <text>What's there to be afraid of? Let them be afraid of me! I've taken down enough of those vile things my whole life! You, on the other hand, be careful here...</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_15">
+    <text>Why so?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_16">
+    <text>There's a man around these parts... though I wouldn't go so far as to call him a man. All these zombies are more human than that dog... so be careful with him. Don't put your trust in him. When the time comes to decide, make the right decision. You've already proven yourself worthy of doing that when necessary.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_17">
+    <text>Who are you talking about?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_18">
+    <text>I'm talking about the one you met here. Go inside his shelter and you'll understand everything. It's in the sewer, which is also where you'll find the exit out of here.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_19">
+    <text>Hold on, what? Let's go together. My men will be glad to see you, and you'll also have an easier time if we stick together.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_20">
+    <text>You worry about yourself, Alex. Go on, now — we'll meet again.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_21">
+    <text>Wait!</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_0">
+    <text>Am I seeing things or what? Man, who are you supposed to be?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_1">
+    <text>I'd ask you the same. How you doing, you okay?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_2">
+    <text>Well, what can I say... I'm still breathing, I guess.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_3">
+    <text>Need any help?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_4">
+    <text>And how do you plan on helping me? That jackass had me tied up for some damn reason. I'll be kicking the bucket any day now...</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_5">
+    <text>What happened to you? What "jackass" are you talking about?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_6">
+    <text>There's this one guy... well, he ain't around no more — been gone for a few hours by now. Stuck a knife in me and left me to bleed out. Then he realized he had no chance of escaping without my help, so he started treating my wound.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_7">
+    <text>Alright, start from the beginning, one thing at a time, and I'll try to help you in return.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_8">
+    <text>Who are you people, even? I think I remember that uniform... Military stalkers, is that right?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_9">
+    <text>That's right.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_10">
+    <text>Did you really come to evacuate us? It's too late already. There's no one left to save anymore!</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_11">
+    <text>We came to deal with the situation here and retrieve all survivors. Tell me everything you know and we'll help you. Who are you?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_12">
+    <text>Name's Matvey. Real name Seryoga, but that's the nickname I got in the Zone. I was on a contract for the scientists, guarding their expeditions, lugging equipment and so on and so forth. Much better than slaving for Crutch with all of his shady connections, that's for sure.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_13">
+    <text>Okay, you worked here. What happened then?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_14">
+    <text>Man, I have no idea. I was on my way back from the factory — had to bring some of the scientists' gear to the bunker — when I felt a huge boom. Got scared shitless and made it for the sewer... but a whole pack of snorks made it there before me! Left my backpack and busted out of there. Then I saw a hole in a pipe, so I jumped in there, and the snorks couldn't get through... I have no idea how long I've been here — maybe ten, fifteen hours... but when everything died down, I decided to climb out.\n \nI walk outside, and it's like a whole different world. The scientists are all dead, and the bunker... it's like someone started a massacre. I saw zombies walking all around while mutants wandered everywhere. I circled around the area, couldn't find a single survivor. I decided to crash in this sewer for one night, then head to Agroprom in the morning.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_15">
+    <text>But you're still here.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_16">
+    <text>That's right... When morning came, I gathered my supplies and moved toward the lake. There's a path on the riverbed that leads to Agroprom if you know your way around the anomalies. So there I am, walking, quiet all around... and then someone from Duty darts out of the bushes! Soon as he catches sight of me, he screams, "Help! Shoot that thing!" I reached for my gun, but nothing was there. The Duty guy was shaking all over, out of breath — must've been running like that for a few hours... but I have no idea who he was running from.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_17">
+    <text>What happened next?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_18">
+    <text>I asked him what happened and where he came from, 'cause Duty's hasn't been in these parts for a long, long time. He yapped and yapped but never gave me a clear answer. Said he was on a mission, then suddenly got relocated here. That's when he saw that black smoke chasing him. I thought, "Maybe this guy's got a few screws loose?" I can't begin to count how many mutants and anomalies there are around here, but black smoke? Never heard of that before.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_19">
+    <text>So you haven't seen it yourself?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_20">
+    <text>The smoke? No. I haven't. He probably made it up, didn't he?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_21">
+    <text>What next?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_22">
+    <text>He laid down for a bit to take a breather. I gave him my canteen for him to drink and wash up. Guy was sweating like a pig, dirty all over. Once he took off his mask, I recognized just who he was! The dude was wanted by Duty across the entire Garbage a couple weeks ago — apparently he murdered one of his own. The guys at the outpost have his picture on a damn dartboard! That's why his face was hard to forget... but I kept my mouth shut. I figured I'd wait with reporting him to Dyatlov until I get out of here.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_23">
+    <text>You sure you're in talking condition?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_24">
+    <text>I'll manage.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_25">
+    <text>Then continue. As soon as we deal with everything here, we'll get you help.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_26">
+    <text>So he laid down for a while and started asking me things like how to get out of here, where to go, all while calling himself a pathfinder... From here, you can end up both at Agroprom and the Wild Territory. No problem if you know to chart the road with bolts... but it seems our Duty boy was lost for good. I offered him to come with me. It seemed like a good option — I'd let him go first into an anomaly field as a decoy. If he'd die, well, let that be the Zone's punishment for murder, and if he goes through, I hand him over to Dyatlov... but he wasn't in any sort of walking condition. Couldn't stand on his own two feet. I wouldn't get far with him like that, so I first took him into the sewer to rest up and have a bite. He then passed out immediately, and I didn't sleep a wink.\n \nWe hit the road the next morning. I gave him my old jacket but didn't dare lend him my gun. Told him it was the only one I had, and if anything happens, I'll cover us myself. We successfully passed the anomaly field — he circled around them in a surprisingly clever way, didn't trigger them once, which did us good. Didn't rile up the local "critters".\n \nAn hour later, we came to the area surrounding Agroprom. From there, we saw the science facility — a safe haven, almost an arm's reach away. The Duty guy's whole face lit up with joy. I myself felt hope thinking that we were about to leave. I'd celebrate in the Bar for at least a week — I'd celebrate coming out alive after all that happened there. Then I felt it in the side when I least expected it — a sharp object. I bled like a stuck flesh and collapsed to the ground.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_27">
+    <text>Why'd he do that to you?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_28">
+    <text>Who the hell knows? Maybe he recognized me too — I hung out in the Garbage quite often, probably remembered my face. Got scared that I'd hand him over. Or maybe I gave myself away after all and he realized I knew him — wanted to use me as a guide and leave me to die when Agroprom was already within walking distance.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_29">
+    <text>And then?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_30">
+    <text>He took off immediately while I was trying to close the wound, but the blood was pouring too fast. Couldn't even move. I came to in the sewer, and the first thing I saw in front of me was the bearded mug of that backstabbing leech... or, might I say, sidestabbing. By the looks of it, I'd laid there for a few days. No idea how I survived. He lit up again when I opened my eyes. I wanted to spit that bastard in the face!</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_31">
+    <text>And how did he explain all of that?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_32">
+    <text>Simple. He says, "Sorry, there must've been a controller there. I can't remember how that happened." Do you believe it? Like salt in my wound. I ask him, "Why'd you drag me all the way here? The science complex was just a step away. They have doctors there." He said that some kind of anomaly appeared around Yantar and that he can't get out of here. This guy was a real nutcase if I'd ever seen one! He was super enthusiastic about telling me that he'd get me back on my feet and that we'd get out of here. I gotta give him credit for trying — he was always wandering around looking for medications and taking care of me. But for what? I'm not getting any better. It's getting worse by the day, if it hasn't gotten infected already. I haven't seen the bastard since he last left... Maybe he died. Good riddance, too.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_33">
+    <text>He didn't. He's in our custody. He didn't mention anything about you, but was raving about getting out of here just as much as you said.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_34">
+    <text>Son of a bitch! Decided to write me off again. Fucking slimy bastard, isn't he?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_35">
+    <text>Anything else to add?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_36">
+    <text>No. I've told you everything I know.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_37">
+    <text>Very well. I'll have to leave you for a short while, but I'll come back for you later. Will you manage?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_38">
+    <text>I've made it this far. Just don't leave me here... Even though the snorks keep out, just hearing them gives me the chills. And I can't defend myself.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_39">
+    <text>Wait here. I'll be quick.</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_0">
+    <text>Zhuravlyov, is that you? Where have you been? We've been waiting for you a whole hour!</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_1">
+    <text>My radio broke when I fell underground. Couldn't make contact. How are you doing? Find anything?</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_2">
+    <text>For the most part, only mutant hordes. We found another couple of scientist bodies, but Sky didn't seem to find anything useful on them. What do you have?</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_3">
+    <text>Things are getting clearer. I hope we'll get out of here soon. The stalker I picked up... is he still in the camp? You keeping an eye on him?</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_4">
+    <text>Yeah, he's sitting over there. Guy keeps yapping and asking about when we're leaving. It's exhausting. Why?</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_5">
+    <text>I'll tell you later. There's another stalker in the sewer, but he's wounded. We need to get him back here before it's too late.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_0">
+    <text>Did you finish everything? When are we going?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_1">
+    <text>We'll be leaving soon. You, however, are in no way guaranteed a flight with us.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_2">
+    <text>What do you mean?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_3">
+    <text>I wasn't joking when I said we'll help you if you help us. Instead, you fed us lies.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_4">
+    <text>I don't understand...</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_5">
+    <text>I know everything: about you, about your escape from Duty, about the stalker you stabbed. You and I will now be having a different conversation. Who are you, really? You've already killed one man and left another to die. If you had your way, you'd hijack our transport too, wouldn't you?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_6">
+    <text>You're a soldier — you have to understand me. The man we killed... he didn't deserve the honor given by our commander. We served the faction for years — been in all kinds of situations... and everyone always gave credit to that bastard. I only did what anyone from Duty would do — you can be sure. I just didn't have the heart for it.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_7">
+    <text>And the stalker? Why'd you do that to him?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_8">
+    <text>More than anything in the world, I want to leave this damn Zone and forget everything. Start anew. And he would've handed me over, that's for sure. Stalkers are crazy for cash — they would've caught me in an instant if I let him be. I didn't want to kill him, I just wanted to get myself a headstart and hide. He would've pulled through... didn't seem like a novice.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_9">
+    <text>I gotta ask: what is that black smoke?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_10">
+    <text>You're here for information, right? Let's make a deal: if you let me go, I'll tell you everything.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_11">
+    <text>That's your trump card? I don't give a rat's ass what it is, and our brass sent us for something completely different.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_12">
+    <text>Promise me you won't leave me behind. You can do anything you want, just don't leave me here!</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_13">
+    <text>I'll consider it. So what's with the smoke? Is it an anomaly?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_14">
+    <text>Not quite. That thing relocated me here and isn't letting me go anywhere. As soon as I try leaving, it catches up with me and brings me back... trying to drive me mad or something. I have no idea what it is. It's like punishment for the stalker I killed... but that's hard to believe. What if it won't let *you* leave?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_15">
+    <text>If it really is a form of punishment, I'll just have you shot. Anyway, I'll think about what to do with you. Sit tight or my men will shoot.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_0">
+    <text>Finally! We were starting to worry about you. The others said your radio broke?</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_1_1">
+    <text>Yeah. Smashed to bits and pieces. On the plus side, I did scoop out some storage mediums--some damaged, but I still retrieved important info. Here, take it. Seems like the picture's getting clearer.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_1_2">
+    <text>Yeah. Smashed to bits and pieces, and I didn't find anything of use in the laboratory. But we achieved our objective, and that's what matters.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_2_1">
+    <text>Well, well... Would you look at that. So, one of the scientists wanted to help, but on the contrary, signed everyone's death warrant. Ludicrous. But he was wrong either way: the headaches that some of the assistants complained about weren't from the brain installation at all.\n \nI looked at the lab computer and found out that the scientists placed a small emitter meant to scare off mutants from the area around Yantar. One of the modules malfunctioned, and that caused problems with the connection in the area, which gave some assistants headaches. Their superiors promised to send a technician to correct the defects, but the repair wasn't performed in time.\n \nBefore the X16 incident, their connection to Agroprom was poor but at least functional... but after the blast, it went down permanently.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_2_2">
+    <text>Well, what's done is done. While you were underground, I dug out some info: the headaches that some of the assistants complained about weren't caused by the brain installation at all.\n \nI looked at the lab computer and found out that the scientists placed a small emitter meant to scare off mutants from the area around Yantar. One of the modules malfunctioned, and that caused problems with the connection in the area, which gave some assistants headaches. Their superiors promised to send a technician to correct the defects, but the repair wasn't performed in time.\n \nBefore the X16 incident, their connection to Agroprom was poor but at least functional... but after the blast, it went down permanently.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_3">
+    <text>I'm guessing the emitter needs to be shut down.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_4">
+    <text>Absolutely. All technical info and data about its location are on professor Sytyanov. But neither you nor the boys could find him, and thus, the storage medium. Any ideas? Maybe he made it out?</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_5">
+    <text>I doubt it. At any rate, he's definitely not at Yantar. I checked every inch there. What if...</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_6">
+    <text>What?</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_7">
+    <text>There's a locked hangar by the bunker. I heard zombies growl inside. Could he be among them?</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_8">
+    <text>Only one way to find out. Should I go with you?</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_9">
+    <text>No. Stay here with Hottab and look after the Duty member while I take Vuslych... and Koval. I don't want to leave two leeches unsupervised.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_10">
+    <text>Understood. Then good luck!</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_11">
+    <text>You keep your guard up too. Bye.</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_0">
+    <text>Commander!</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_1">
+    <text>Ready to make another trip to the mobile lab? Looks like we have to breach that hangar after all, then look for the intel inside.</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_2">
+    <text>Of course! We going together?</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_3">
+    <text>No. We're bringing Koval with us too. I don't want to leave him here.</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_4">
+    <text>Understood. Are we going, then?</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_5">
+    <text>Let's get going!</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_0">
+    <text>I'm... I'm coming...</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_1">
+    <text>Well, what are you sitting there for?!</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_2">
+    <text>I'm not feeling good... Head's spinning...</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_3">
+    <text>Oh, for crying out loud! I should've just thrown you off the helicopter when I had the chance. There's no time to sit around — the mutants are gonna be here again!</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_4">
+    <text>I'm feeling better... We can go.</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_5">
+    <text>Wonderful. Let's go!</text>
+  </string>
+  <string id="yan_soldier_vuslich_factory_final_dialog_0">
+    <text>Are you wounded, commander?</text>
+  </string>
+  <string id="yan_soldier_vuslich_factory_final_dialog_1">
+    <text>I'm fine. How are you doing?</text>
+  </string>
+  <string id="yan_soldier_vuslich_factory_final_dialog_2">
+    <text>Safe and sound! And Koval's not bad either! He wiped those mutants out.</text>
+  </string>
+  <string id="yan_soldier_vuslich_factory_final_dialog_3">
+    <text>Well, at least that airhead is good for something. Let's head back to the camp. No use in staying around here.</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_0">
+    <text>You're back already! Judging by the signal strength, I'm guessing everything worked out?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_1">
+    <text>Yeah, everything's tip-top. I'd say mission complete!</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_2">
+    <text>Congrats!</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_3">
+    <text>Hold up with the celebrating until we get back, Sky. How's the wounded stalker?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_4">
+    <text>He's looking great! Hottab looked after him — he'll make it. But he'll need a doctor.</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_5">
+    <text>And the runaway? Did he behave?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_6">
+    <text>Quiet as a mouse! Didn't say a word while you guys were gone. What are you gonna do with him?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_7">
+    <text>I'll have another word with him and then decide. By the way, I forgot to ask you earlier: do you remember Vasiliy Ivanovich?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_8">
+    <text>The commander? How could I forget? Of course I remember him. Rest his soul...</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_9">
+    <text>"Rest his soul"?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_10">
+    <text>Yeah, he died. After he left the Zone, he didn't last two weeks. Radiation sickness. Thought you knew.</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_11">
+    <text>So that's how it is...</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_12">
+    <text>What about it? What made you think of him?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_13">
+    <text>No reason, just wanted to ask. Alright, get ready to go home!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_0">
+    <text>So what did you decide? Are you taking me with me? Please!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_1">
+    <text>All those brilliant scientific minds and honest stalkers are left to rot out there while you get a free pass out of here. Why? Give me one good reason.</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_2">
+    <text>But you can't just leave me here! So be it if they give me a trial and I go to jail, just don't leave me here! I can't imagine anything worse. I'm begging you, please! I'm a human being, for god's sake!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_3_1">
+    <text>Alright. But when we return, I'll personally see you brought to Duty. They can decide what to do with you.</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_3_2">
+    <text>What trial do you think you're getting? The Zone is the one who will judge you. Get lost. You're not coming with us.</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_3_3">
+    <text>Alright, you're coming with us. But once we get back, you're going straight to the outside. Hope you get a life sentence for what you've done.</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_3_4">
+    <text>You're no man. You're a parasite piece of shit. Hands on your head!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_4_1">
+    <text>Thank you. Thank you!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_4_2">
+    <text>No! Please, no!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_4_3">
+    <text>Whatever you say. Just don't leave me here!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_5_1">
+    <text>Let's go. Duty calls!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_5_2">
+    <text>Run before I turn *you* into black smoke!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_5_3">
+    <text>Quit whining. Let's go.</text>
+  </string>
+</string_table>

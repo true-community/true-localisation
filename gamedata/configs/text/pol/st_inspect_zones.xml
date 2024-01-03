@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_hidden_place">
+    <text>Unexplored territory</text>
+  </string>
+  <string id="st_hidden_place_inspected">
+    <text>TERRITORY EXPLORED</text>
+  </string>
+  <string id="st_agr_inspect_zone_1">
+    <text>Anomalous tunnel</text>
+  </string>
+  <string id="st_agr_inspect_zone_2">
+    <text>Boar outpost</text>
+  </string>
+  <string id="st_agr_inspect_zone_3">
+    <text>Dead glade</text>
+  </string>
+  <string id="st_agr_inspect_zone_4">
+    <text>Forest</text>
+  </string>
+  <string id="st_agr_inspect_zone_5">
+    <text>Borovik complex</text>
+  </string>
+  <string id="st_agr_inspect_zone_6">
+    <text>Anomalous plateau</text>
+  </string>
+  <string id="st_agr_inspect_zone_7">
+    <text>Rusty lake</text>
+  </string>
+  <string id="st_agr_inspect_zone_8">
+    <text>Agroprom</text>
+  </string>
+  <string id="st_agr_inspect_zone_9">
+    <text>Anomalous glade</text>
+  </string>
+  <string id="st_agr_inspect_zone_10">
+    <text>Katorga anomaly</text>
+  </string>
+  <string id="st_bar_inspect_zone_1">
+    <text>Garage</text>
+  </string>
+  <string id="st_bar_inspect_zone_2">
+    <text>Western checkpoint</text>
+  </string>
+  <string id="st_bar_inspect_zone_3">
+    <text>Duty base</text>
+  </string>
+  <string id="st_bar_inspect_zone_4">
+    <text>Arena</text>
+  </string>
+  <string id="st_bar_inspect_zone_5">
+    <text>Bar 100 Rads</text>
+  </string>
+  <string id="st_bar_inspect_zone_6">
+    <text>Southern checkpoint</text>
+  </string>
+  <string id="st_bar_inspect_zone_7">
+    <text>Halt</text>
+  </string>
+  <string id="st_bar_inspect_zone_8">
+    <text>Dog lair</text>
+  </string>
+  <string id="st_val_inspect_zone_1">
+    <text>Farm</text>
+  </string>
+  <string id="st_val_inspect_zone_2">
+    <text>Telegraph anomaly</text>
+  </string>
+  <string id="st_val_inspect_zone_3">
+    <text>Menagerie</text>
+  </string>
+  <string id="st_val_inspect_zone_4">
+    <text>Anomalous lake</text>
+  </string>
+  <string id="st_val_inspect_zone_5">
+    <text>Western checkpoint</text>
+  </string>
+  <string id="st_val_inspect_zone_6">
+    <text>Bus stop</text>
+  </string>
+  <string id="st_val_inspect_zone_7">
+    <text>Factory</text>
+  </string>
+  <string id="st_val_inspect_zone_8">
+    <text>River bank</text>
+  </string>
+  <string id="st_val_inspect_zone_9">
+    <text>Bandit base</text>
+  </string>
+  <string id="st_val_inspect_zone_10">
+    <text>Filling station</text>
+  </string>
+  <string id="st_val_inspect_zone_11">
+    <text>Quiet Dawns anomaly</text>
+  </string>
+  <string id="st_esc_inspect_zone_1">
+    <text>Dytyatki checkpoint</text>
+  </string>
+  <string id="st_esc_inspect_zone_2">
+    <text>Tunnel to Swamps</text>
+  </string>
+  <string id="st_esc_inspect_zone_3">
+    <text>Village</text>
+  </string>
+  <string id="st_esc_inspect_zone_4">
+    <text>Radioactive swamp</text>
+  </string>
+  <string id="st_esc_inspect_zone_5">
+    <text>Crossing under road</text>
+  </string>
+  <string id="st_esc_inspect_zone_6">
+    <text>Mill</text>
+  </string>
+  <string id="st_esc_inspect_zone_7">
+    <text>Vehicle station</text>
+  </string>
+  <string id="st_esc_inspect_zone_8">
+    <text>Anomalous tunnel</text>
+  </string>
+  <string id="st_esc_inspect_zone_9">
+    <text>Outpost</text>
+  </string>
+  <string id="st_esc_inspect_zone_10">
+    <text>Electric tunnel</text>
+  </string>
+  <string id="st_esc_inspect_zone_11">
+    <text>Lower farm</text>
+  </string>
+  <string id="st_esc_inspect_zone_12">
+    <text>Anomalous locomotive</text>
+  </string>
+  <string id="st_esc_inspect_zone_13">
+    <text>Secret passage</text>
+  </string>
+  <string id="st_esc_inspect_zone_14">
+    <text>Farm</text>
+  </string>
+  <string id="st_esc_inspect_zone_15">
+    <text>Upper farm</text>
+  </string>
+  <string id="st_esc_inspect_zone_16">
+    <text>Death truck</text>
+  </string>
+  <string id="st_esc_inspect_zone_17">
+    <text>Sawmill</text>
+  </string>
+  <string id="st_esc_inspect_zone_18">
+    <text>Inferno anomaly</text>
+  </string>
+  <string id="st_esc_inspect_zone_19">
+    <text>Checkpoint</text>
+  </string>
+  <string id="st_mil_inspect_zone_1">
+    <text>Military base</text>
+  </string>
+  <string id="st_mil_inspect_zone_2">
+    <text>Shooting range</text>
+  </string>
+  <string id="st_mil_inspect_zone_3">
+    <text>Minefield</text>
+  </string>
+  <string id="st_mil_inspect_zone_4">
+    <text>Lake</text>
+  </string>
+  <string id="st_mil_inspect_zone_5">
+    <text>Barrier</text>
+  </string>
+  <string id="st_mil_inspect_zone_6">
+    <text>Hard to reach helicopter</text>
+  </string>
+  <string id="st_mil_inspect_zone_7">
+    <text>Northern farm</text>
+  </string>
+  <string id="st_mil_inspect_zone_8">
+    <text>Checkpoint</text>
+  </string>
+  <string id="st_mil_inspect_zone_9">
+    <text>Bloodsuckerwood</text>
+  </string>
+  <string id="st_mil_inspect_zone_10">
+    <text>South entrance</text>
+  </string>
+  <string id="st_mil_inspect_zone_11">
+    <text>Halt of masters</text>
+  </string>
+  <string id="st_mil_inspect_zone_12">
+    <text>South farm</text>
+  </string>
+  <string id="st_mil_inspect_zone_13">
+    <text>Anomalous tractor</text>
+  </string>
+  <string id="st_yan_inspect_zone_1">
+    <text>Half</text>
+  </string>
+  <string id="st_yan_inspect_zone_2">
+    <text>Sinkhole</text>
+  </string>
+  <string id="st_yan_inspect_zone_3">
+    <text>Stench anomaly</text>
+  </string>
+  <string id="st_yan_inspect_zone_4">
+    <text>Yantar factory</text>
+  </string>
+  <string id="st_yan_inspect_zone_5">
+    <text>Boiler anomaly</text>
+  </string>
+  <string id="st_yan_inspect_zone_6">
+    <text>Plateau</text>
+  </string>
+  <string id="st_yan_inspect_zone_7">
+    <text>Scientists' bunker</text>
+  </string>
+  <string id="st_yan_inspect_zone_8">
+    <text>Yantar lake</text>
+  </string>
+  <string id="st_nsp_inspect_zone_1">
+    <text>Anomalous storage</text>
+  </string>
+  <string id="st_nsp_inspect_zone_2">
+    <text>Novoshepelichi village</text>
+  </string>
+  <string id="st_nsp_inspect_zone_3">
+    <text>Bar</text>
+  </string>
+  <string id="st_nsp_inspect_zone_4">
+    <text>Bus stop</text>
+  </string>
+  <string id="st_nsp_inspect_zone_5">
+    <text>Military scientific base</text>
+  </string>
+  <string id="st_nsp_inspect_zone_6">
+    <text>Halt of hunters</text>
+  </string>
+  <string id="st_nsp_inspect_zone_7">
+    <text>Oil depot</text>
+  </string>
+  <string id="st_nsp_inspect_zone_8">
+    <text>Pool scientific complex</text>
+  </string>
+  <string id="st_nsp_inspect_zone_9">
+    <text>Swamp</text>
+  </string>
+  <string id="st_nsp_inspect_zone_10">
+    <text>Fields</text>
+  </string>
+  <string id="st_nsp_inspect_zone_11">
+    <text>Sahara anomaly</text>
+  </string>
+  <string id="st_nsp_inspect_zone_12">
+    <text>Tunnel to Cordon</text>
+  </string>
+  <string id="st_nsp_inspect_zone_13">
+    <text>Checkpoint</text>
+  </string>
+  <string id="st_nsp_inspect_zone_14">
+    <text>Railroad crossing</text>
+  </string>
+  <string id="st_nsp_inspect_zone_15">
+    <text>Semikhodsky bridge</text>
+  </string>
+  <string id="st_nsp_inspect_zone_16">
+    <text>Camp at the bridge</text>
+  </string>
+  <string id="st_nsp_inspect_zone_17">
+    <text>Campground</text>
+  </string>
+  <string id="st_nsp_inspect_zone_18">
+    <text>Unsuccessful crossing</text>
+  </string>
+  <string id="st_nsp_inspect_zone_19">
+    <text>Cemetery</text>
+  </string>
+  <string id="st_gar_inspect_zone_1">
+    <text>Village ruins</text>
+  </string>
+  <string id="st_gar_inspect_zone_2">
+    <text>Swamp near the substation</text>
+  </string>
+  <string id="st_gar_inspect_zone_3">
+    <text>Mysterious forest</text>
+  </string>
+  <string id="st_gar_inspect_zone_4">
+    <text>Vehicle graveyard</text>
+  </string>
+  <string id="st_gar_inspect_zone_5">
+    <text>Anomalous outpost</text>
+  </string>
+  <string id="st_gar_inspect_zone_6">
+    <text>Helicopter graveyard</text>
+  </string>
+  <string id="st_gar_inspect_zone_7">
+    <text>Roadside halt</text>
+  </string>
+  <string id="st_gar_inspect_zone_8">
+    <text>DEPOT</text>
+  </string>
+  <string id="st_gar_inspect_zone_9">
+    <text>Bandit camp</text>
+  </string>
+  <string id="st_gar_inspect_zone_10">
+    <text>Tunnel</text>
+  </string>
+  <string id="st_gar_inspect_zone_11">
+    <text>Tesla anomaly</text>
+  </string>
+  <string id="st_gar_inspect_zone_12">
+    <text>Duty outpost</text>
+  </string>
+  <string id="st_gar_inspect_zone_13">
+    <text>Field anomaly</text>
+  </string>
+  <string id="st_gar_inspect_zone_14">
+    <text>Shelter in the rocks</text>
+  </string>
+  <string id="st_gar_inspect_zone_15">
+    <text>Forest belt</text>
+  </string>
+  <string id="st_gar_inspect_zone_16">
+    <text>Flea market</text>
+  </string>
+  <string id="st_gar_inspect_zone_17">
+    <text>Trash anomaly</text>
+  </string>
+</string_table>

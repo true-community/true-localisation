@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="st_mlab_merc_leader_scientist_hello">
+    <text>Hello, doc.\nWhat brings you to our department?</text>
+  </string>
+  <string id="st_mlab_merc_leader_scientist_start_talk">
+    <text>Professor, come over here. Quick!</text>
+  </string>
+  <string id="st_mlab_merc_leader_kill_actor_1">
+    <text>Where are you going, you mongrel?</text>
+  </string>
+  <string id="st_mlab_merc_leader_kill_actor_2">
+    <text>Done and dusted!</text>
+  </string>
+  <string id="st_mlab_merc_leader_final_monolog_1">
+    <text>And here's our military lackey!</text>
+  </string>
+  <string id="st_mlab_merc_leader_final_monolog_2">
+    <text>We were just waiting for you</text>
+  </string>
+  <string id="st_mlab_merc_leader_final_monolog_3">
+    <text>before we effectively dissolve into space!</text>
+  </string>
+  <string id="st_mlab_merc_leader_final_monolog_4">
+    <text>You know, I could've put a bullet in you</text>
+  </string>
+  <string id="st_mlab_merc_leader_final_monolog_5">
+    <text>or think of some other vivid death,</text>
+  </string>
+  <string id="st_mlab_merc_leader_final_monolog_6">
+    <text>but I so want to surprise your friends</text>
+  </string>
+  <string id="st_mlab_merc_leader_final_monolog_7">
+    <text>when they come to save you!</text>
+  </string>
+  <string id="st_mlab_merc_leader_final_monolog_8">
+    <text>That's why I have other plans for you\nthan just death.</text>
+  </string>
+  <string id="st_mlab_start_scientist_first_hello">
+    <text>Professor!</text>
+  </string>
+  <string id="st_mlab_start_scientist_first_bye">
+    <text>See you at the tests, professor.</text>
+  </string>
+  <string id="st_mlab_start_scientist_colba_1">
+    <text>Capsule 1 is out of order.</text>
+  </string>
+  <string id="st_mlab_start_scientist_colba_2">
+    <text>Subject 2 has died.</text>
+  </string>
+  <string id="st_mlab_start_scientist_colba_3">
+    <text>Subject 3 has died.</text>
+  </string>
+  <string id="st_mlab_start_scientist_colba_4_1">
+    <text>Subject 4's condition normalized.</text>
+  </string>
+  <string id="st_mlab_start_scientist_colba_4_2">
+    <text>Subject 4 dead.</text>
+  </string>
+  <string id="st_mlab_start_scientist_colba_final">
+    <text>They've stopped suffering.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_start_monolog_1">
+    <text>Colleagues, today we begin our first tests</text>
+  </string>
+  <string id="st_mlab_scientist_boss_start_monolog_2">
+    <text>on our new development direction.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_start_monolog_3">
+    <text>Our goal is to research\nwhether Zone mutations can be reverted.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_start_monolog_4">
+    <text>We've come to this for a few weeks,</text>
+  </string>
+  <string id="st_mlab_scientist_boss_start_monolog_5">
+    <text>and today\nwe can receive our first results.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_start_monolog_6">
+    <text>Yes, perhaps not immediately,</text>
+  </string>
+  <string id="st_mlab_scientist_boss_start_monolog_7">
+    <text>but with time, we can accomplish anything.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_start_monolog_8">
+    <text>Let's begin.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_start_monolog_9">
+    <text>We carry out the tests\naccording to approved instructions.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_actor_panic">
+    <text>Poor choice, Zhuravlyov!</text>
+  </string>
+  <string id="st_mlab_scientist_boss_suicide">
+    <text>Farewell.</text>
+  </string>
+  <string id="st_mlab_wsystem_name">
+    <text>System</text>
+  </string>
+  <string id="st_mlab_wsystem_danger_1">
+    <text>Alert! Laboratory breached!</text>
+  </string>
+  <string id="st_mlab_wsystem_danger_2">
+    <text>Unauthorized access!</text>
+  </string>
+  <string id="st_mlab_wsystem_danger_3">
+    <text>Alert!\nAll personnel is to leave the laboratory!</text>
+  </string>
+  <string id="st_mlab_wsystem_electronics_off_1">
+    <text>Power grid offline.</text>
+  </string>
+  <string id="st_mlab_wsystem_electronics_off_2">
+    <text>Switching to backup power.</text>
+  </string>
+  <string id="st_mlab_wsystem_reserve_unavailable">
+    <text>Backup power supply unavailable.</text>
+  </string>
+  <string id="st_mlab_wsystem_restart_try">
+    <text>Attempting to restart.</text>
+  </string>
+  <string id="st_mlab_wsystem_trials_complete_1">
+    <text>Tests complete.</text>
+  </string>
+  <string id="st_mlab_wsystem_trials_complete_2">
+    <text>Results are available\non the administrator's computer.</text>
+  </string>
+  <string id="st_mlab_wsystem_trials_prepare_1">
+    <text>Loading stimulants into compartments.</text>
+  </string>
+  <string id="st_mlab_wsystem_trials_prepare_2">
+    <text>Please wait.</text>
+  </string>
+  <string id="st_mlab_wsystem_trials_ready">
+    <text>All vital signs normal. Equipment is ready.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_1_1">
+    <text>Hello.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_1_2">
+    <text>We sent the artifact a week ago.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_1_3">
+    <text>The customers\nshould have received it by now.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_2">
+    <text>Yes, just a few minutes ago.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_3_1">
+    <text>No results yet,\nbut we've just begun.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_3_2">
+    <text>There's much work ahead.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_4">
+    <text>As in...?</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_5_1">
+    <text>No, everything is good. That's not the concern.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_5_2">
+    <text>We just need time for it.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_5_3">
+    <text>Reversing mutations is a much more serious task</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_5_4">
+    <text>than crossbreeding artifacts.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_5_5">
+    <text>But we will do our best.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_6">
+    <text>May I ask something?</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_7_1">
+    <text>Why is this research\nso important to our superiors?</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_7_2">
+    <text>I understand the use of artifact selections.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_7_3">
+    <text>There are many lives in the world\nthat they could save.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_7_4">
+    <text>But mutations? Do you have some plan\nI'm not aware of?</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_8">
+    <text>Is the data about the mutation correct?</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_9">
+    <text>I understand. I have one more question.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_10">
+    <text>Termite. Do you trust this man?</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_11">
+    <text>His methods.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_phone_scene_12">
+    <text>No, that's all.</text>
+  </string>
+  <string id="st_mlab_phone_voice_name">
+    <text>Administration</text>
+  </string>
+  <string id="st_mlab_phone_voice_1_1">
+    <text>Hello, professor.</text>
+  </string>
+  <string id="st_mlab_phone_voice_1_2">
+    <text>Do you have good news for me today?</text>
+  </string>
+  <string id="st_mlab_phone_voice_2_1">
+    <text>Yes, they've received it.</text>
+  </string>
+  <string id="st_mlab_phone_voice_2_2">
+    <text>The artifact's effects left them shocked.</text>
+  </string>
+  <string id="st_mlab_phone_voice_2_3">
+    <text>In a good sense, of course.</text>
+  </string>
+  <string id="st_mlab_phone_voice_2_4">
+    <text>Therefore I'm sure\nthat they'll continue using our services.</text>
+  </string>
+  <string id="st_mlab_phone_voice_2_5">
+    <text>But that's not what I called for.\nDid you run the tests today?</text>
+  </string>
+  <string id="st_mlab_phone_voice_3">
+    <text>So do you have\ngood news for me, professor?</text>
+  </string>
+  <string id="st_mlab_phone_voice_4">
+    <text>Are you lacking something?</text>
+  </string>
+  <string id="st_mlab_phone_voice_5_1">
+    <text>As in equipment, finances,</text>
+  </string>
+  <string id="st_mlab_phone_voice_5_2">
+    <text>comfort while working?</text>
+  </string>
+  <string id="st_mlab_phone_voice_6_1">
+    <text>Very well.</text>
+  </string>
+  <string id="st_mlab_phone_voice_6_2">
+    <text>But I hope you will have results soon</text>
+  </string>
+  <string id="st_mlab_phone_voice_6_3">
+    <text>that will please me.</text>
+  </string>
+  <string id="st_mlab_phone_voice_7_1">
+    <text>Don't ask for permission, professor.</text>
+  </string>
+  <string id="st_mlab_phone_voice_7_2">
+    <text>We've agreed that,\nif you're going to work with us,</text>
+  </string>
+  <string id="st_mlab_phone_voice_7_3">
+    <text>you will have completely untied hands.</text>
+  </string>
+  <string id="st_mlab_phone_voice_7_4">
+    <text>Including in terms of information.</text>
+  </string>
+  <string id="st_mlab_phone_voice_7_5">
+    <text>So don't be shy.</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_1">
+    <text>Since I've promised to be honest with you,</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_2">
+    <text>I'll tell you the truth.</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_3">
+    <text>The artifacts we're sending to the outside</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_4">
+    <text>really do help people.</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_5">
+    <text>But, at the same time, they're changing.</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_6">
+    <text>We've noticed early stages of mutation\nin most of our clients.</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_7">
+    <text>If we fail to control it,</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_8">
+    <text>the foul things\nthat we see in the Chornobyl zone</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_9">
+    <text>will spread to the rest of the world.</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_10">
+    <text>I don't want that to happen.</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_11">
+    <text>I appreciate the Zone,</text>
+  </string>
+  <string id="st_mlab_phone_voice_8_12">
+    <text>but it shouldn't spread like an infection\nall over the world.</text>
+  </string>
+  <string id="st_mlab_phone_voice_9_1">
+    <text>Absolutely.</text>
+  </string>
+  <string id="st_mlab_phone_voice_9_2">
+    <text>That's why your research\nis of great importance to us.</text>
+  </string>
+  <string id="st_mlab_phone_voice_9_3">
+    <text>Do your utmost best, professor.</text>
+  </string>
+  <string id="st_mlab_phone_voice_10">
+    <text>Ask.</text>
+  </string>
+  <string id="st_mlab_phone_voice_11_1">
+    <text>More than anyone.</text>
+  </string>
+  <string id="st_mlab_phone_voice_11_2">
+    <text>Without him,\nwe couldn't have created the project</text>
+  </string>
+  <string id="st_mlab_phone_voice_11_3">
+    <text>and organize all the work.</text>
+  </string>
+  <string id="st_mlab_phone_voice_11_4">
+    <text>He's done a lot.</text>
+  </string>
+  <string id="st_mlab_phone_voice_11_5">
+    <text>What bothers you?</text>
+  </string>
+  <string id="st_mlab_phone_voice_12_1">
+    <text>Yes, his methods can be cruel.</text>
+  </string>
+  <string id="st_mlab_phone_voice_12_2">
+    <text>I'm well aware of that.</text>
+  </string>
+  <string id="st_mlab_phone_voice_12_3">
+    <text>That is exactly the reason\nwhy I invited him to the project.</text>
+  </string>
+  <string id="st_mlab_phone_voice_12_4">
+    <text>He knows what he's doing.</text>
+  </string>
+  <string id="st_mlab_phone_voice_12_5">
+    <text>In any case, you have no need to worry.</text>
+  </string>
+  <string id="st_mlab_phone_voice_12_6">
+    <text>At least until you yourself\npresent a threat.</text>
+  </string>
+  <string id="st_mlab_phone_voice_12_7">
+    <text>Anything else, professor?</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_complete_way_1">
+    <text>Here's the switch. End it all.</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_complete_way_2">
+    <text>Just don't kill me. I'm just an assistant!</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_follow_me">
+    <text>Follow me, quick!</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_panic_1">
+    <text>Why did I sign up for this?</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_panic_2">
+    <text>I'm done for.</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_panic_3">
+    <text>What do I do, what do I do?</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_panic_4">
+    <text>I hope everything works out. I really do!</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_panic_5">
+    <text>I've done it now...</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_wait_1">
+    <text>We don't have time. Come on!</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_wait_2">
+    <text>Turn off the power and leave!</text>
+  </string>
+  <string id="st_mlab_scientist_laborant_wait_3">
+    <text>Come on. Do what you came for!</text>
+  </string>
+  <string id="st_mlab_scientist_boss_actor_angry">
+    <text>Stop him! I need to launch the teleporter.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_actor_let_leave_1">
+    <text>Thank you for understanding, Zhuravlyov.\nGet moving.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_actor_let_leave_2">
+    <text>And never mention this again.</text>
+  </string>
+  <string id="st_mlab_scientist_boss_final_teleport">
+    <text>Colleagues, hurry!</text>
+  </string>
+</string_table>

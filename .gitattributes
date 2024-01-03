@@ -1,9 +1,10 @@
-* encoding=UTF-8 eol=lf
+* encoding=Windows-1251 eol=crlf
 
 *.xml text encoding=Windows-1251 eol=crlf
 *.xml	text working-tree-encoding=Windows-1251 eol=crlf
 
-/gamedata/* text eol=crlf
-/gamedata/configs/text/*/*.xml encoding=Windows-1251 eol=crlf
-
-/gamedata/.index.json encoding=UTF-8 eol=lf
+*.json text encoding=UTF-8 eol=lf
+*.md text encoding=UTF-8 eol=lf
+*.sh text encoding=UTF-8 eol=lf
+*.ts text encoding=UTF-8 eol=lf
+*.yml text encoding=UTF-8 eol=lf

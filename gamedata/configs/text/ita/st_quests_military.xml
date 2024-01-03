@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="mil_search_unknowns_task">
+    <text>SEARCH FOR THE MYSTERY PEOPLE</text>
+  </string>
+  <string id="mil_search_unknowns_task_talk_with_trader_name">
+    <text>Reach the trader</text>
+  </string>
+  <string id="mil_search_unknowns_task_talk_with_trader_text">
+    <text>Koval is dead — in saving me, he sacrificed his own life. At any rate, I need to finish what was started. Perhaps I'm close to the truth already. Right now, I'm to track down the local trader, who should help me get in contact with the stalkers that encountered the unknown group... and that group most likely has a part in the professor's disappearance.</text>
+  </string>
+  <string id="mil_search_unknowns_task_stalkers_lager_name">
+    <text>Go to Chord's camp</text>
+  </string>
+  <string id="mil_search_unknowns_task_stalkers_lager_text">
+    <text>The trader gave me the approximate location of a group of stalkers under the leadership of a Chord, whose help I'll need with the investigation. I should search that area.</text>
+  </string>
+  <string id="mil_mercs_prison_task">
+    <text>OUTWITTED</text>
+  </string>
+  <string id="mil_mercs_prison_task_start_name">
+    <text>Follow the mercenaries</text>
+  </string>
+  <string id="mil_mercs_prison_task_start_text">
+    <text>Out of the blue, I stumbled onto the stalker I was searching for at the Army Warehouses. In the midst of our conversation, we were taken by mercenaries. I wonder what they want from us?</text>
+  </string>
+  <string id="mil_after_katakomb_task">
+    <text>END OF THE LINE</text>
+  </string>
+  <string id="mil_after_katakomb_task_talk_with_merc_leader_name">
+    <text>Talk to Thermite</text>
+  </string>
+  <string id="mil_after_katakomb_task_talk_with_merc_leader_text">
+    <text>I managed to escape alive from the underground with Thermite. I should talk to him and head to pick up the things that the mercenaries took from us.</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_with_merc_leader_name">
+    <text>Kill the mercenaries with Thermite</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_with_merc_leader_text">
+    <text>We came out alive. Our objective now is retrieving our possessions, after which we'll unveil the identity of this Thermite and see how he's connected to professor Dubinin.</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_name">
+    <text>Kill the mercenaries alone</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_text">
+    <text>It's like Thermite vanished into thin air after taking a bullet. I'm sure we'll meet again sooner or later. He has ties to professor Dubinin in one way or another.</text>
+  </string>
+  <string id="mil_after_katakomb_take_actor_items_name">
+    <text>Grab the possessions</text>
+  </string>
+  <string id="mil_after_katakomb_take_actor_items_text">
+    <text>Time to grab my things and get out of here.</text>
+  </string>
+  <string id="mil_after_katakomb_search_code_name">
+    <text>Find the code to the mercenary safe</text>
+  </string>
+  <string id="mil_after_katakomb_search_code_text">
+    <text>The safe holding the things is locked. I should check the mercenaries' corpses.</text>
+  </string>
+  <string id="mil_after_katakomb_open_safe_name">
+    <text>Open the safe</text>
+  </string>
+  <string id="mil_after_katakomb_open_safe_text">
+    <text>The safe code was on one of the mercenaries' bodies. Now I can grab my things.</text>
+  </string>
+  <string id="mil_after_katakomb_trader_task">
+    <text>UNPAID DEBT</text>
+  </string>
+  <string id="mil_after_katakomb_trader_task_start_name">
+    <text>Return to the trader</text>
+  </string>
+  <string id="mil_after_katakomb_trader_task_start_text">
+    <text>While I'm waiting for my group, I should return to the trader. It wouldn't hurt to find out more about the Army Warehouses and tell him about the bad news while I'm at it — no one's going to pay him back anymore.</text>
+  </string>
+  <string id="mil_after_katakomb_trader_alternative_task">
+    <text>LOCAL TRADER</text>
+  </string>
+  <string id="mil_after_katakomb_trader_alternative_task_start_name">
+    <text>Talk to the trader</text>
+  </string>
+  <string id="mil_after_katakomb_trader_alternative_task_start_text">
+    <text>I still haven't stopped by to see the local trader. I should find out more about these areas, as all traces of professor Dubinin disappeared with Thermite.</text>
+  </string>
+  <string id="mil_after_katakomb_trader_sleep_task">
+    <text>REST</text>
+  </string>
+  <string id="mil_after_katakomb_trader_sleep_task_start_name">
+    <text>Sleep for a few hours</text>
+  </string>
+  <string id="mil_after_katakomb_trader_sleep_task_start_text">
+    <text>I've been on my legs for several days straight. While my squad is heading to the Army Warehouses, I should rest up a bit.</text>
+  </string>
+  <string id="mil_plan_interception_task">
+    <text>INTERCEPTION PLAN</text>
+  </string>
+  <string id="mil_plan_interception_task_start_name">
+    <text>Go to the military base</text>
+  </string>
+  <string id="mil_plan_interception_task_start_text">
+    <text>We decided to intercept the unknown stalkers' signals to find out their location. To maximize the radius of the interception equipment, we need to find a high point, and the towers in the abandoned military base will do perfectly. We shouldn't forget about the trader's warnings regarding that area.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_tower_name">
+    <text>Talk to Sky</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_tower_text">
+    <text>It seems we've found the right tower for setting up the equipment. I should talk to Sky.</text>
+  </string>
+  <string id="mil_plan_interception_task_device_place_name">
+    <text>Set up the equipment on the tower</text>
+  </string>
+  <string id="mil_plan_interception_task_device_place_text">
+    <text>We're in position. Now we need to set up the equipment on the tower and begin scanning.</text>
+  </string>
+  <string id="mil_plan_interception_task_leave_the_base_name">
+    <text>Leave the military base</text>
+  </string>
+  <string id="mil_plan_interception_task_leave_the_base_text">
+    <text>After setting up the equipment, we intercepted several signals. We should get out of the base ASAP and check the areas where the signals came from.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_after_leave_name">
+    <text>Talk to Sky about the data</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_after_leave_text">
+    <text>What happened in the military base is now in the past. The objective of setting up the device was successful. I should now talk to Sky to find out what sort of data was received.</text>
+  </string>
+  <string id="mil_plan_interception_task_check_heli_zone_name">
+    <text>Follow the squad to the helicopter</text>
+  </string>
+  <string id="mil_plan_interception_task_check_heli_zone_text">
+    <text>We have a fix on a strong encrypted signal coming from the crashed helicopter. We should check that area.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_heli_name">
+    <text>Talk to Sky</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_heli_text">
+    <text>Getting to the helicopter doesn't seem that easy. I should discuss this with Sky.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_trader_heli_name">
+    <text>Ask the trader about the helicopter</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_trader_heli_text">
+    <text>We've discovered a hidden passage under the helicopter. On the other hand, powerful psy-emissions prevent us from getting there. We should find a way to get through it or find a different entrance. The trader Bison could tell us more.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_technic_pda_name">
+    <text>Ask Sky about the stalker's location</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_technic_pda_text">
+    <text>The trader gave me the ID number of a PDA belonging to a certain stalker — he may be able to help us through the psy-emissions. Now I just have to find him. Sky should assist me.</text>
+  </string>
+  <string id="mil_plan_interception_task_search_stalker_technic_name">
+    <text>Go to the stalker's signal</text>
+  </string>
+  <string id="mil_plan_interception_task_search_stalker_technic_text">
+    <text>The stalker craftsman with info on the helicopter has been observed in the vicinity of the village. Local stalkers call this place Bloodsuckerwood.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_stalker_name">
+    <text>Find out more about the psy-emissions from the stalker</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_stalker_text">
+    <text>I should find out more about the psy-emissions around the helicopter from the local stalker craftsman as soon as possible.</text>
+  </string>
+  <string id="mil_plan_interception_task_get_psy_helm_name">
+    <text>Assemble a psy-helm</text>
+  </string>
+  <string id="mil_plan_interception_task_get_psy_helm_text">
+    <text>To reach the helicopter, I have to assemble a psy-helm — or better yet, several of them — in order for me and the squad to investigate what's happening there.</text>
+  </string>
+  <string id="mil_plan_interception_task_final_name">
+    <text>Reach the unknown stalkers</text>
+  </string>
+  <string id="mil_plan_interception_task_final_text">
+    <text>I have everything necessary to get to the helicopter. Now I only have to find out what is concealed in that entryway in the cabin — it is more than likely where Thermite settled with his secret faction.</text>
+  </string>
+  <string id="mil_village_prisoner_task">
+    <text>UNDERFLOOR PRISONER</text>
+  </string>
+  <string id="mil_village_prisoner_task_kill_bloodsuckers_name">
+    <text>Kill the bloodsuckers in the village</text>
+  </string>
+  <string id="mil_village_prisoner_task_kill_bloodsuckers_text">
+    <text>The stalker that I'm looking for got stuck inside a basement in one of the houses while escaping from bloodsuckers. I should clear out the area and go help the poor guy.</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_with_technic_name">
+    <text>Kill the bloodsuckers in the village</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_with_technic_text">
+    <text>The bloodsuckers are dead. I should now find a way to free the stalker stuck in the basement.</text>
+  </string>
+  <string id="mil_village_prisoner_task_search_ladder_name">
+    <text>Find a ladder in the village</text>
+  </string>
+  <string id="mil_village_prisoner_task_search_ladder_text">
+    <text>In order to free the handyman stalker, I need to find a ladder somewhere in the village.</text>
+  </string>
+  <string id="mil_village_prisoner_task_ladder_compl_name">
+    <text>Free the stalker</text>
+  </string>
+  <string id="mil_village_prisoner_task_ladder_compl_text">
+    <text>I found a ladder. Now I just have to free the stalker from the basement.</text>
+  </string>
+  <string id="mil_village_prisoner_task_follow_stalker_name">
+    <text>Bring Marmot to a transformer</text>
+  </string>
+  <string id="mil_village_prisoner_task_follow_stalker_text">
+    <text>Some strange anomaly appeared in the village. Vehicles that were left here by local inhabitants back in 1986 started working again all of a sudden. The village appeared to be inhabitable once again, although its new inhabitants turned out not to be stalkers but bloodsuckers. A stalker called Marmot is trying to puzzle out the nature of this anomaly. I should help him in order for him to help me.</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_final_name">
+    <text>Talk to Marmot</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_final_text">
+    <text>It seems Marmot found some sort of artifact, and it must be what he came here for in the first place. I should discuss our next move with him.</text>
+  </string>
+  <string id="mil_psy_helm_task">
+    <text>PSY-HELM</text>
+  </string>
+  <string id="mil_psy_helm_task_start_name">
+    <text>Go to the military base with Marmot</text>
+  </string>
+  <string id="mil_psy_helm_task_start_text">
+    <text>Marmot agreed to help me assemble a psy-helm that should offer protection against the psy-emissions around the helicopter. In order to assemble it, however, we need to find the right components. They might be present in the abandoned military base... but will its residents welcome any visitors?</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_go_name">
+    <text>Get into the warehouse</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_go_text">
+    <text>I should get to the warehouse and comb it for the components necessary to piece together a psy-helm.</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_drop_vodka_name">
+    <text>Give the storekeeper vodka</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_drop_vodka_text">
+    <text>The warehouse entrance is locked, and its storekeeper's spirit is grumbling over not having any drink. I should try giving him some vodka, as breaking the door down won't be an easy task.</text>
+  </string>
+  <string id="mil_psy_helm_task_cover_technic_name">
+    <text>Cover Marmot</text>
+  </string>
+  <string id="mil_psy_helm_task_cover_technic_text">
+    <text>I should stay with Marmot while he cleans out the warehouse. While we're at it, I'll look for something I can use too.</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_compl_name">
+    <text>Talk to Marmot</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_compl_text">
+    <text>We've stripped the warehouse bare. I should ask Marmot whether we can go back.</text>
+  </string>
+  <string id="mil_psy_helm_task_go_technic_home_name">
+    <text>Return with Marmot to his hut</text>
+  </string>
+  <string id="mil_psy_helm_task_go_technic_home_text">
+    <text>We've found all the necessary parts to assemble the helm... but, unfortunately, only for a single one. Now I only have to wait until Marmot assembles it.</text>
+  </string>
+  <string id="mil_psy_helm_task_kill_mercs_name">
+    <text>Kill the attackers</text>
+  </string>
+  <string id="mil_psy_helm_task_kill_mercs_text">
+    <text>Someone attacked us. Looks like Thermite's men. We have to deal with them, or else we're not getting out of here alive.</text>
+  </string>
+  <string id="mil_psy_helm_task_wait_final_name">
+    <text>Wait until Marmot finishes up</text>
+  </string>
+  <string id="mil_psy_helm_task_wait_final_text">
+    <text>We're almost done. Now I just have to wait until the technician assembles the helm.</text>
+  </string>
+  <string id="mil_heli_final_task">
+    <text>AT THE TARGET</text>
+  </string>
+  <string id="mil_heli_final_task_start_name">
+    <text>Go to the helicopter</text>
+  </string>
+  <string id="mil_heli_final_task_start_text">
+    <text>The psy-helm has been assembled. Time to assemble the troops and move to the helicopter.</text>
+  </string>
+  <string id="mil_helicopter_defence_task">
+    <text>BACKUP</text>
+  </string>
+  <string id="mil_helicopter_defence_task_start_name">
+    <text>Hold the position by the helicopter</text>
+  </string>
+  <string id="mil_helicopter_defence_task_start_text">
+    <text>Zhuravlyov set off underground. Our current objective is to guard the entryway and watch for threats.</text>
+  </string>
+  <string id="mil_skylight_error_task">
+    <text>MALFUNCTION</text>
+  </string>
+  <string id="mil_skylight_error_task_start_name">
+    <text>Check the equipment in the military base</text>
+  </string>
+  <string id="mil_skylight_error_task_start_text">
+    <text>The equipment we set up on the tower in the military base abruptly stopped working. I should check what's going on.</text>
+  </string>
+</string_table>

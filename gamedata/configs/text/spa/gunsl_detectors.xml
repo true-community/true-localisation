@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+  <string id="gunsl_detector_simple">
+    <text>Detector "Echo"</text>
+  </string>
+  <string id="gunsl_detector_simple_descr">
+    <text>This anomaly detector is basic and outdated. It emits an audio signal when anomalous particles enter the analysis chamber in the device, the frequency of which can be used to gauge the distance to one — the closer they are, the more tones the device emits. Due to the simplicity of its design and the primitive antenna, it can only detect the most basic of artifacts.</text>
+  </string>
+  <string id="gunsl_detector_advanced">
+    <text>Detector "Bear"</text>
+  </string>
+  <string id="gunsl_detector_advanced_descr">
+    <text>A current generation anomaly detector. With an anomalous field locator and LED display, it can not only detect artifacts but also determine their location and roughly indicate the direction in which they lie. A more advanced antenna detects a wider range of artifacts, although its usefulness is limited to the outdated signature list programmed into the device.</text>
+  </string>
+  <string id="gunsl_detector_elite">
+    <text>Detector "Veles"</text>
+  </string>
+  <string id="gunsl_detector_elite_descr">
+    <text>A next generation scanner that now gets issued to all scientists and researchers entering the Zone. With three advanced detection ports, the device can triangulate the exact position of any known artifact within range and display it on-screen. When not in use, it will alert the user when radiation or anomalous activity is detected nearby.</text>
+  </string>
+  <string id="gunsl_detector_scientific">
+    <text>Detector "Svarog"</text>
+  </string>
+  <string id="gunsl_detector_scientific_descr">
+    <text>Svarog is an anomalous zone scanner with advanced functionality. Capable of detecting the presence of all artifacts known (theoretically, and unknown) to science, while also being a more modern alternative to bolts thanks to its anomaly detection feature. The final update of the device, after which it is no longer considered a prototype, added the function of recognizing psy zones, and the scanner screen now displays not only the location of the anomaly, but also its image. From now on, any user will be able to instantly determine the type of anomalies, even without knowledge of their nature. Work on the detector was carried out in close cooperation between stalkers, who undertook testing and practical tests, and scientists, who technically realized the project.</text>
+  </string>
+  <string id="gunsl_detector_torch">
+    <text>Flashlight</text>
+  </string>
+  <string id="gunsl_detector_torch_descr">
+    <text>An ordinary handheld flashlight. Weighs little, but lacks the mounting hardware for attaching to a weapon. It can be used in place of an artifact detector when wielding a pistol in the other hand. The lumen output surpasses that of most headlamps used throughout the Zone.</text>
+  </string>
+</string_table>
