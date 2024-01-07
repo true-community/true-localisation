@@ -13,6 +13,7 @@ xrEngine.dxvk-cache
 
 .db
 !.db/.keep
+unpacked
 
 converter.exe
 db_converter
@@ -23,4 +24,4 @@ node_modules
 
 ###
 
-!gamedata/configs/text/*
+gamedata/configs/localization.ltx

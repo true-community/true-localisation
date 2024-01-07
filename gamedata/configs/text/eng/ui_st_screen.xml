@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1252"?>
 <string_table>
   <string id="cant_walk">
     <text>You're too exhausted to move</text>
@@ -238,10 +238,10 @@
     <text>Message</text>
   </string>
   <string id="tip_door_closed_base_alarm">
-    <text>Door locked вЂ” the camp is on alert</text>
+    <text>Door locked — the camp is on alert</text>
   </string>
   <string id="tip_door_closed_hide_weapon">
-    <text>Door locked вЂ” you must holster your weapon</text>
+    <text>Door locked — you must holster your weapon</text>
   </string>
   <string id="tip_door_locked">
     <text>%c[ts_ui_red] DOOR LOCKED</text>

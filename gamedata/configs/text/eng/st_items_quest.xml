@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1252"?>
 <string_table>
   <string id="jup_a9_conservation_info">
     <text>Documents with notes</text>
@@ -22,7 +22,7 @@
     <text>Delivery Schedule</text>
   </string>
   <string id="jup_a9_losses_info_desc">
-    <text>"Schedule for deliveries of item 62: 07/14 вЂ” 20 units (one damaged); 07/21 вЂ” 32 units (2 damaged); 07/28 вЂ” 26 units (one damaged). The consignment note concerning losses en route has been sent to the plant administration, with a copy sent to the repair workshop."</text>
+    <text>"Schedule for deliveries of item 62: 07/14 — 20 units (one damaged); 07/21 — 32 units (2 damaged); 07/28 — 26 units (one damaged). The consignment note concerning losses en route has been sent to the plant administration, with a copy sent to the repair workshop."</text>
   </string>
   <string id="jup_a9_meeting_info">
     <text>Notebook Sheet</text>
@@ -34,7 +34,7 @@
     <text>Duty Shift Log</text>
   </string>
   <string id="jup_a9_power_info_desc">
-    <text>"...18:30 вЂ” airtight sealing of all P-1 underpass sections complete. 19:00 вЂ” airtight sealing of railroad lock doors complete. Welding had to be used to seal the doors. 19:45 вЂ” transportation lock doors closed. Operation of the lock door mechanism required the activation of the backup generator, because the power to the underpass had already been cut. 20:00 вЂ” the chemical workshop has initiated flooding of the underpass with gas. 22:00 вЂ” work to seal the underpass has been completed, with all documents sent to Department 1."</text>
+    <text>"...18:30 — airtight sealing of all P-1 underpass sections complete. 19:00 — airtight sealing of railroad lock doors complete. Welding had to be used to seal the doors. 19:45 — transportation lock doors closed. Operation of the lock door mechanism required the activation of the backup generator, because the power to the underpass had already been cut. 20:00 — the chemical workshop has initiated flooding of the underpass with gas. 22:00 — work to seal the underpass has been completed, with all documents sent to Department 1."</text>
   </string>
   <string id="jup_a9_way_info">
     <text>Underpass Schematics </text>
@@ -58,7 +58,7 @@
     <text>A pack of capacitors</text>
   </string>
   <string id="jup_b200_tech_materials_capacitor_descr">
-    <text>A pack of capacitors вЂ” one of the basic electrical components around. They're not that rare in the Zone, as they're used for hi-tech equipment upgrades, but this sort of capacity is not normally required.</text>
+    <text>A pack of capacitors — one of the basic electrical components around. They're not that rare in the Zone, as they're used for hi-tech equipment upgrades, but this sort of capacity is not normally required.</text>
   </string>
   <string id="jup_b200_tech_materials_textolite">
     <text>Textolite base</text>
@@ -70,7 +70,7 @@
     <text>A box of transistors</text>
   </string>
   <string id="jup_b200_tech_materials_transistor_descr">
-    <text>A box of transistors вЂ” semiconductors that generate, transform and amplify electrical oscillation. Transistors are the dream of every radio technician in the Zone.</text>
+    <text>A box of transistors — semiconductors that generate, transform and amplify electrical oscillation. Transistors are the dream of every radio technician in the Zone.</text>
   </string>
   <string id="jup_b200_tech_materials_wire">
     <text>A roll of copper wire</text>
@@ -121,7 +121,7 @@
     <text>Bandit's PDA</text>
   </string>
   <string id="st_device_pda_port_bandit_leader_descr">
-    <text>The last message on the PDA reads: "Catch that Snag bastard and bring him to me вЂ” we are due for a heart-to-heart. I don't care where he is вЂ” just find him. If he puts up a fight вЂ” teach him a lesson. Sultan."</text>
+    <text>The last message on the PDA reads: "Catch that Snag bastard and bring him to me — we are due for a heart-to-heart. I don't care where he is — just find him. If he puts up a fight — teach him a lesson. Sultan."</text>
   </string>
   <string id="st_device_pda_zat_b5_dealer_desc">
     <text>This PDA contains details of Morgan's clients, as well as the coordinates of Duty's secret warehouse from which he took weapons. Morgan then sold the weapons to mercenaries and also established contact with someone called Sultan. To cover his tracks, Morgan decided to leak the warehouse location to Freedom. His accomplice, Vulture, was supposed to convey this information. The PDA also mentions a sensor that only Morgan can disable, which will alert Duty if the stash is opened. This information is bound to be of interest to both Duty and Freedom.</text>
@@ -130,7 +130,7 @@
     <text>Morgan's PDA</text>
   </string>
   <string id="st_jup_b10_notes_01_desc">
-    <text>A note on the back of an old document: "Ghost, I'm taking my things. Thanks for the assault rifle вЂ” I'm going to need it. In exchange, I'm leaving you some of Doctor's medical supplies. I managed to trap the mercenary who was on my tail, so I'm not going to need them... I hope. I'm going to meet Fang now вЂ” he managed to put the decoder together. Let's meet at the usual place, if you can make it. Strelok."</text>
+    <text>A note on the back of an old document: "Ghost, I'm taking my things. Thanks for the assault rifle — I'm going to need it. In exchange, I'm leaving you some of Doctor's medical supplies. I managed to trap the mercenary who was on my tail, so I'm not going to need them... I hope. I'm going to meet Fang now — he managed to put the decoder together. Let's meet at the usual place, if you can make it. Strelok."</text>
   </string>
   <string id="st_jup_b10_notes_01_name">
     <text>A note to Ghost</text>
@@ -142,7 +142,7 @@
     <text>A note to Strelok</text>
   </string>
   <string id="st_jup_b10_notes_03_desc">
-    <text>A note on the back of an old document: "Fang, I can't wait for you any longer вЂ” I've got a whole squad on my tail. I'm going to the sarcophagus on my own. I'll leave my lucky shooter here вЂ” I haven't got any more ammo for it anyway. If I don't make it back, give it to Ghost. If he takes care of the shooter, the shooter will take care of him. Take care. Strelok."</text>
+    <text>A note on the back of an old document: "Fang, I can't wait for you any longer — I've got a whole squad on my tail. I'm going to the sarcophagus on my own. I'll leave my lucky shooter here — I haven't got any more ammo for it anyway. If I don't make it back, give it to Ghost. If he takes care of the shooter, the shooter will take care of him. Take care. Strelok."</text>
   </string>
   <string id="st_jup_b10_notes_03_name">
     <text>A note to Fang</text>
@@ -205,7 +205,7 @@
     <text>The documents describe the technical characteristics of the antenna and how they deviate from their planned values. There is a note on the reverse side which indicates that these documents were prepared in lab X10.\nThese documents must not fall into anyone else's hands, as they would be of great interest to USS analysts.</text>
   </string>
   <string id="st_pri_a19_lab_x10_info_name">
-    <text>Rainbow emitter вЂ” main technical characteristics</text>
+    <text>Rainbow emitter — main technical characteristics</text>
   </string>
   <string id="st_pri_a19_lab_x16_info_descr">
     <text>The documents refer to one of the side discoveries of the research, specifically the discovery that living creatures are able to generate directed psy-emissions. A biological field emitter, essentially a giant brain, was grown as part of the research conducted in lab X16.\nThese documents must not fall into anyone else's hands, as they would be of great interest to USS analysts.</text>
@@ -226,7 +226,7 @@
     <text>Order of Transfer</text>
   </string>
   <string id="st_pri_b306_envoy_pda_desc">
-    <text>The last note on the PDA reads: "I found the emergency generator on the sixth floor вЂ” the technical floor. It took two hours to get it working again. I'd love to turn it on, but Serbin ordered me to stay put until he brings some people in."</text>
+    <text>The last note on the PDA reads: "I found the emergency generator on the sixth floor — the technical floor. It took two hours to get it working again. I'd love to turn it on, but Serbin ordered me to stay put until he brings some people in."</text>
   </string>
   <string id="st_pri_b306_envoy_pda_name">
     <text>Barchuk's PDA</text>
@@ -301,13 +301,13 @@
     <text>Noah's PDA</text>
   </string>
   <string id="st_zat_b40_notebook_desc">
-    <text>The notebook contains one message marked as important among a heap of spam:\n"Set up a camp near the waste processing station and everyone who is going to be participating in this job will join you. Don't expect Black, because he and his people will be at Jupiter on a different mission. The army has suspended all flights into the Zone, so there won't be any trouble from that side. When stalkers find a way to Pripyat we'll send a guide and wait for the client's people there вЂ” they'll show us where the lab is.\nJackal."</text>
+    <text>The notebook contains one message marked as important among a heap of spam:\n"Set up a camp near the waste processing station and everyone who is going to be participating in this job will join you. Don't expect Black, because he and his people will be at Jupiter on a different mission. The army has suspended all flights into the Zone, so there won't be any trouble from that side. When stalkers find a way to Pripyat we'll send a guide and wait for the client's people there — they'll show us where the lab is.\nJackal."</text>
   </string>
   <string id="st_zat_b40_notebook_name">
     <text>Mercenary notebook</text>
   </string>
   <string id="st_zat_b40_pda_1_desc">
-    <text>The final incoming message reads:\n"We're kicking heels by some old workshops. I sent two boys ahead to scout the road for you. Then again, we'll wait here until the client's courier shows up вЂ” the air is a hell of a lot fresher here.\nTesak"</text>
+    <text>The final incoming message reads:\n"We're kicking heels by some old workshops. I sent two boys ahead to scout the road for you. Then again, we'll wait here until the client's courier shows up — the air is a hell of a lot fresher here.\nTesak"</text>
   </string>
   <string id="st_zat_b40_pda_1_name">
     <text>PDA of Hook the mercenary</text>
@@ -334,36 +334,36 @@
     <text>Joker's PDA</text>
   </string>
   <string id="zat_b44_barge_pda_desc">
-    <text>The last note on the PDA conveys that the person who made it was upset: "Cardan, that old drunk. Not only is he a lazy bastard once he's had a drink вЂ” "it's better here, we need to take it easy" вЂ” but then he goes and takes a run at me and Joker, saying we're young and ain't got a clue... Heh... Joker's a piece of work, too: gets pissed off, grabs his bag and disappears. While I was trying to calm Cardan down, he left and hell if I know where he went. And what I am supposed to do? Drink with that senile moron? No thank you! His vodka is shit... Eww..."</text>
+    <text>The last note on the PDA conveys that the person who made it was upset: "Cardan, that old drunk. Not only is he a lazy bastard once he's had a drink — "it's better here, we need to take it easy" — but then he goes and takes a run at me and Joker, saying we're young and ain't got a clue... Heh... Joker's a piece of work, too: gets pissed off, grabs his bag and disappears. While I was trying to calm Cardan down, he left and hell if I know where he went. And what I am supposed to do? Drink with that senile moron? No thank you! His vodka is shit... Eww..."</text>
   </string>
   <string id="zat_b44_barge_pda_name">
     <text>Barge's PDA</text>
   </string>
   <string id="zat_b22_medic_pda_desc">
-    <text>Tremor kept a diary in his PDA, and his last notes are the most interesting:вЂќRecording 12. My research will be over soon... People at the camp are starting to suspect something. Grouse and Danila are planning to hunt some bloodsuckers ... I wonder when theyвЂ™ll figure it out... I need to sort the jars of blood to find out which ones have been contaminated, then hide the rest... [quickly:] SomeoneвЂ™s coming. [the sound of the recording device being switched off, then on again]. Recording 13... possibly my last. First that nosy hunter and now Grouse... I wonвЂ™t get away with this. TheyвЂ™ll come for me, I know it. DoesnвЂ™t really matter вЂ” this hemoglobin dependency will kill me soon anyway. And IвЂ™d rather die from a bullet than a disease...вЂќ</text>
+    <text>Tremor kept a diary in his PDA, and his last notes are the most interesting:”Recording 12. My research will be over soon... People at the camp are starting to suspect something. Grouse and Danila are planning to hunt some bloodsuckers ... I wonder when they’ll figure it out... I need to sort the jars of blood to find out which ones have been contaminated, then hide the rest... [quickly:] Someone’s coming. [the sound of the recording device being switched off, then on again]. Recording 13... possibly my last. First that nosy hunter and now Grouse... I won’t get away with this. They’ll come for me, I know it. Doesn’t really matter — this hemoglobin dependency will kill me soon anyway. And I’d rather die from a bullet than a disease...”</text>
   </string>
   <string id="zat_b22_medic_pda">
-    <text>TremorвЂ™s PDA</text>
+    <text>Tremor’s PDA</text>
   </string>
   <string id="st_zat_b12_documents_1_descr">
     <text>Top Secret. Order # 562 of the HQ commander responsible for the security of object # 1 R. Yu. Didenko.\nChemical Protection Unit # 423: relocate from sector B103 to sector A19 to conduct field testing of Perin B3 chemical solution in near combat conditions. Colonel P.P. Slavin, unit commander, is responsible for conducting the tests. Lieutenant Colonel K.S. Valov, deputy unit commander, is responsible for transportation and security.</text>
   </string>
   <string id="st_zat_b12_documents_2_descr">
-    <text>Top Secret. Order from Colonel P.P. Slavin.\nIn accordance with this order, members of chemical protection unit # 423 are to be familiarized with the following information:\n1. Keys to the container with Perin B3 chemical solution are held by Colonel P.P. Slavin (key A) and Lieutenant Colonel K.S. Vlasov (Key B).\n2. Convoy order starting from the front: Deputy unit commanderвЂ™s vehicle, escort vehicle # 8, APC # 1, transportation vehicle # 1, APC # 3, escort vehicle # 2, unit commanderвЂ™s (P.P. Slavin) vehicle.\nCopies of the order to be handed to Lieutenant Colonel K.S. Vlasov and Senior Lieutenant R.B. Nazarenku.</text>
+    <text>Top Secret. Order from Colonel P.P. Slavin.\nIn accordance with this order, members of chemical protection unit # 423 are to be familiarized with the following information:\n1. Keys to the container with Perin B3 chemical solution are held by Colonel P.P. Slavin (key A) and Lieutenant Colonel K.S. Vlasov (Key B).\n2. Convoy order starting from the front: Deputy unit commander’s vehicle, escort vehicle # 8, APC # 1, transportation vehicle # 1, APC # 3, escort vehicle # 2, unit commander’s (P.P. Slavin) vehicle.\nCopies of the order to be handed to Lieutenant Colonel K.S. Vlasov and Senior Lieutenant R.B. Nazarenku.</text>
   </string>
   <string id="st_zat_a23_labx8_key_descr">
     <text>A yellow magnetic keycard marked with X8.\nThe card must not fall into anyone else's hands, as it can be used to access the secret laboratory.</text>
   </string>
   <string id="st_jup_b202_bandit_pda">
-    <text>SultanвЂ™s messengerвЂ™s PDA</text>
+    <text>Sultan’s messenger’s PDA</text>
   </string>
   <string id="st_jup_b202_bandit_pda_descr">
-    <text>The last message sent from this PDA is an audio message: вЂњSultan, I dealt with that loser real good! ..ThatвЂ™ll teach him not to mess with us!"</text>
+    <text>The last message sent from this PDA is an audio message: “Sultan, I dealt with that loser real good! ..That’ll teach him not to mess with us!"</text>
   </string>
   <string id="st_af_quest_b14_twisted_descr">
     <text>This was once the dredge station wheel. It has now half-converted into a strange artifact. No properties are notable, other than active glowing and a little radioactivity.</text>
   </string>
   <string id="st_zat_b40_pda_2_desc">
-    <text>Incoming message reads:\n"I managed to arrange something about the weapons and that greedy bastard is going to sell us his faction's stock. It's gonna be fairly cheap but weвЂ™ll have to haul ass to Jupiter.\nVulture.вЂќ</text>
+    <text>Incoming message reads:\n"I managed to arrange something about the weapons and that greedy bastard is going to sell us his faction's stock. It's gonna be fairly cheap but we’ll have to haul ass to Jupiter.\nVulture.”</text>
   </string>
 </string_table>

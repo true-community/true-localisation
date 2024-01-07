@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1252"?>
 <string_table>
   <string id="esc_task_actor_treasure">
     <text>STASH</text>
@@ -16,7 +16,7 @@
     <text>Talk to the trader</text>
   </string>
   <string id="esc_trader_take_job_start_text">
-    <text>Yurok and I should stop getting hammered like that. I should go look for work вЂ” Sidorovich might have some.</text>
+    <text>Yurok and I should stop getting hammered like that. I should go look for work — Sidorovich might have some.</text>
   </string>
   <string id="esc_trader_search_collector_arts">
     <text>NEW EXPEDITION</text>
@@ -25,7 +25,7 @@
     <text>Find the artifact collector</text>
   </string>
   <string id="esc_trader_search_collector_arts_start_text">
-    <text>It's been a damn long time since I wandered around the Cordon. I've been asked by Sidorovich to find someone who collects artifacts вЂ” according to him, he set off to the tunnel under the bridge with the Electro anomalies.</text>
+    <text>It's been a damn long time since I wandered around the Cordon. I've been asked by Sidorovich to find someone who collects artifacts — according to him, he set off to the tunnel under the bridge with the Electro anomalies.</text>
   </string>
   <string id="esc_trader_search_collector_arts_pda_taken_name">
     <text>Tell Sidorovich about the collector's death</text>
@@ -73,7 +73,7 @@
     <text>Examine the soldiers' place of death</text>
   </string>
   <string id="fatalities_army_start_text">
-    <text>Yurok messaged me that the soldiers that were sent after us died in an anomaly. Maybe they have something useful on them вЂ” I should check it out.</text>
+    <text>Yurok messaged me that the soldiers that were sent after us died in an anomaly. Maybe they have something useful on them — I should check it out.</text>
   </string>
   <string id="esc_mechanic_night_polters">
     <text>STRANGE GLOW</text>
@@ -94,7 +94,7 @@
     <text>Kill the poltergeists or go back</text>
   </string>
   <string id="mechanic_kill_polters_text">
-    <text>The glow wasn't being emitted by artifacts at all вЂ” poltergeists appear in the anomaly at night. They're the ones behind the captivating light illusions...</text>
+    <text>The glow wasn't being emitted by artifacts at all — poltergeists appear in the anomaly at night. They're the ones behind the captivating light illusions...</text>
   </string>
   <string id="mechanic_squad_polters_death_name">
     <text>Tell Mikhalych about the poltergeists</text>
@@ -124,7 +124,7 @@
     <text>Reach the destination</text>
   </string>
   <string id="logovo_go_marker_text">
-    <text>Fanatic sent me the coordinates of the lair. I should set off to there вЂ” he and his boys are already waiting for me.</text>
+    <text>Fanatic sent me the coordinates of the lair. I should set off to there — he and his boys are already waiting for me.</text>
   </string>
   <string id="logovo_put_dinamit_name">
     <text>Set the dynamite</text>
@@ -166,7 +166,7 @@
     <text>Collect the money from the stalker</text>
   </string>
   <string id="fanat_friend_quest_start_text">
-    <text>Vovka Broken told me that the swindler's located somewhere around the mill. I should collect his debt вЂ” eight thousand.</text>
+    <text>Vovka Broken told me that the swindler's located somewhere around the mill. I should collect his debt — eight thousand.</text>
   </string>
   <string id="fanat_friend_quest_vibil_name">
     <text>Give the money to Vovka</text>
@@ -229,7 +229,7 @@
     <text>Go to the tunnel</text>
   </string>
   <string id="travel_task_provodnik_go_tonnel_text">
-    <text>Yurok was positively plastered, no surprise there. But that's alright вЂ” I'll guide some rookies for him and earn some money. And I'll need to do it early in the morning, or else things will end up like last time...</text>
+    <text>Yurok was positively plastered, no surprise there. But that's alright — I'll guide some rookies for him and earn some money. And I'll need to do it early in the morning, or else things will end up like last time...</text>
   </string>
   <string id="travel_task_provodnik_go_village_name">
     <text>Take the rookies to the village</text>
@@ -274,7 +274,7 @@
     <text>Go to the Garbage</text>
   </string>
   <string id="go_to_garbage_start_text">
-    <text>Finally, I'm done with this boring Cordon вЂ” time for new surroundings! I do feel intimidated, but I'd very much like to see other parts of the Zone.</text>
+    <text>Finally, I'm done with this boring Cordon — time for new surroundings! I do feel intimidated, but I'd very much like to see other parts of the Zone.</text>
   </string>
   <string id="trader_notebook_task">
     <text>SMALL-TIME JOBS</text>
@@ -430,7 +430,7 @@
     <text>Meet Yurok</text>
   </string>
   <string id="esc_village_new_meet_start_text">
-    <text>It's been a while since I last visited the Cordon. Even started missing that place. My friend Yurok asked me to stop by in the rookie village вЂ” he's got something to discuss with me.</text>
+    <text>It's been a while since I last visited the Cordon. Even started missing that place. My friend Yurok asked me to stop by in the rookie village — he's got something to discuss with me.</text>
   </string>
   <string id="esc_strange_things">
     <text>STRANGER THINGS</text>
@@ -466,7 +466,7 @@
     <text>Have a drink by the fire with Yurok</text>
   </string>
   <string id="esc_jurok_drunk_task_start_text">
-    <text>I barely got on my feet last time, and I'm already being invited for a drink again. I won't turn down an old friend вЂ” don't have anything to do anyway.</text>
+    <text>I barely got on my feet last time, and I'm already being invited for a drink again. I won't turn down an old friend — don't have anything to do anyway.</text>
   </string>
   <string id="esc_scientists_task">
     <text>SURVEILLANCE</text>
@@ -481,7 +481,7 @@
     <text>Wait until the alarm goes silent</text>
   </string>
   <string id="esc_scientists_task_wait_alarm_text">
-    <text>I've been spotted. Better not engage in combat вЂ” I should wait until everything dies down. Maybe have a snooze in the village?</text>
+    <text>I've been spotted. Better not engage in combat — I should wait until everything dies down. Maybe have a snooze in the village?</text>
   </string>
   <string id="esc_scientists_task_jobs_cancel_name">
     <text>Tell Sidorovich that the scientists' objective is called off</text>
@@ -511,7 +511,7 @@
     <text>Search the scientist bodies</text>
   </string>
   <string id="esc_scientists_task_check_corpses_text">
-    <text>Well, what's done is done. I should examine the scientists' bodies вЂ” might find something useful.</text>
+    <text>Well, what's done is done. I should examine the scientists' bodies — might find something useful.</text>
   </string>
   <string id="esc_scientists_task_fail_speak_trader_name">
     <text>Return to Sidorovich</text>
@@ -550,7 +550,7 @@
     <text>Give the scientists' device to Mikhalych</text>
   </string>
   <string id="esc_technic_scientists_device_task_final_talk_text">
-    <text>I got the thing. Now I'll take it to the technician вЂ” he promised me a reward.</text>
+    <text>I got the thing. Now I'll take it to the technician — he promised me a reward.</text>
   </string>
   <string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_name">
     <text>Get the scientists' device in the anomalous village</text>
@@ -625,7 +625,7 @@
     <text>Talk to Sidorovich</text>
   </string>
   <string id="esc_visit_trader_task_go_text">
-    <text>Time to have a word with Sidorovich about a stalker named Axe вЂ” that's the name the locals know him by, if the prisoner didn't lie to me.</text>
+    <text>Time to have a word with Sidorovich about a stalker named Axe — that's the name the locals know him by, if the prisoner didn't lie to me.</text>
   </string>
   <string id="esc_first_actor_bridge_task">
     <text>IN THE STALKER'S TRACKS</text>
@@ -640,7 +640,7 @@
     <text>Look for traces at the Cordon</text>
   </string>
   <string id="esc_first_actor_bridge_task_fail_text">
-    <text>I was unable to reach Sidorovich in my disguise, and the locals are just keeping their lips zipped. I'll have to look for information on the stalker by myself. I should get deeper into the Cordon вЂ” perhaps someone will give me a clue.</text>
+    <text>I was unable to reach Sidorovich in my disguise, and the locals are just keeping their lips zipped. I'll have to look for information on the stalker by myself. I should get deeper into the Cordon — perhaps someone will give me a clue.</text>
   </string>
   <string id="esc_scientist_in_trouble_task">
     <text>SCIENTIST IN TROUBLE</text>
