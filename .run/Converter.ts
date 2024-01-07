@@ -1,14 +1,17 @@
+#!/usr/bin/bun
+
 import { BunFile } from "bun";
 import { copyFile, existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFile } from "fs";
 import { dirname } from "path";
+
+import { readDirectoryRecursively } from "./Director";
 
 // import * as parser from "fast-xml-parser";
 // import * as chardet from 'chardet';
 
 import { ConverterCommandTemplates, ProcessOutcome, XMLOptions } from "./Definitions";
 
-const readDirectoryRecursively = (directoryPath: string) =>
-  readdirSync(directoryPath, { recursive: true, withFileTypes: true }).filter(dirent => dirent.isFile()).map(dirent => dirent.name);
+
 
 const listMap = (array: string[], parent_key: string) =>
   Object.fromEntries(new Map(array.map(e => [e, parent_key])));

@@ -1,3 +1,5 @@
+#!/usr/bin/bun
+
 export interface XMLOptions {
   prettify_unpacked: boolean
   minify_repacked: boolean
