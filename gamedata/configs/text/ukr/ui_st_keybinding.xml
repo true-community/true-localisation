@@ -1,213 +1,284 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="kb_active_jobs">
-    <text>Р—РђР’Р”РђРќРќРЇ</text>
-  </string>
-  <string id="kb_alife_command">
-    <text>РќРђРљРђР— РђРўРђРљРЈР’РђРўР</text>
-  </string>
-  <string id="kb_always_run">
-    <text>РљР РћРљ</text>
-  </string>
-  <string id="kb_artefact">
-    <text>РђР РўР•Р¤РђРљРў</text>
-  </string>
-  <string id="kb_backward">
-    <text>РќРђР—РђР”</text>
-  </string>
-  <string id="kb_binoculars">
-    <text>Р‘Р†РќРћРљР›Р¬</text>
-  </string>
-  <string id="kb_console">
-    <text>РљРћРќРЎРћР›Р¬</text>
-  </string>
-  <string id="kb_contacts">
-    <text>РљРћРќРўРђРљРўР</text>
-  </string>
-  <string id="kb_crouch">
-    <text>РџР РРЎР†РЎРўР</text>
-  </string>
-  <string id="kb_crouch_toggle">
-    <text>РџРћРЎРўР†Р™РќРћ РќРђРџР РРЎРЇР”РљР</text>
-  </string>
-  <string id="kb_detector">
-    <text>Р”Р•РўР•РљРўРћР </text>
-  </string>
-  <string id="kb_down">
-    <text>РЈРќРР—</text>
-  </string>
-  <string id="kb_drop">
-    <text>Р’РРљР›РђРЎРўР</text>
-  </string>
-  <string id="kb_fire">
-    <text>Р’РћР“РћРќР¬</text>
-  </string>
-  <string id="kb_firemode_next">
-    <text>Р Р•Р–РРњ РЎРўР Р†Р›Р¬Р‘Р (РќРђРЎРўРЈРџРќРР™)</text>
-  </string>
-  <string id="kb_firemode_prev">
-    <text>Р Р•Р–РРњ РЎРўР Р†Р›Р¬Р‘Р (РџРћРџР•Р Р•Р”РќР†Р™)</text>
-  </string>
-  <string id="kb_forward">
-    <text>РЈРџР•Р Р•Р”</text>
-  </string>
-  <string id="kb_func">
-    <text>РџР†Р”РЎРўР’РћР›Р¬РќРРљ</text>
-  </string>
-  <string id="kb_grp_all">
-    <text>_</text>
-  </string>
-  <string id="kb_grp_common">
-    <text>Р—РђР“РђР›Р¬РќР•</text>
-  </string>
-  <string id="kb_grp_direction">
-    <text>РќРђРџР РЇРњРћРљ</text>
-  </string>
-  <string id="kb_grp_inventory">
-    <text>Р Р®РљР—РђРљ</text>
-  </string>
-  <string id="kb_grp_movement">
-    <text>Р РЈРҐ</text>
-  </string>
-  <string id="kb_grp_weapons">
-    <text>Р—Р‘Р РћРЇ</text>
-  </string>
-  <string id="kb_inventory">
-    <text>Р†РќР’Р•РќРўРђР </text>
-  </string>
-  <string id="kb_jump">
-    <text>РЎРўР РР‘РћРљ</text>
-  </string>
-  <string id="kb_left">
-    <text>Р›Р†Р’РћР РЈР§</text>
-  </string>
-  <string id="kb_left_lookout">
-    <text>Р’РР“Р›РЇРќРЈРўР Р›Р†Р’РћР РЈР§</text>
-  </string>
-  <string id="kb_left_strafe">
-    <text>РљР РћРљ Р›Р†Р’РћР РЈР§</text>
-  </string>
-  <string id="kb_current_task">
-    <text>РџРћРўРћР§РќР• Р—РђР’Р”РђРќРќРЇ</text>
-  </string>
-  <string id="kb_map">
-    <text>РњРђРџРђ</text>
-  </string>
-  <string id="kb_notes">
-    <text>Р—РђРџРРЎР</text>
-  </string>
-  <string id="kb_encyclopedia">
-    <text>РџРЈРўР†Р’РќРРљ</text>
-  </string>
-  <string id="kb_next_slot">
-    <text>РќРђРЎРўРЈРџРќРђ РЎРџРћР РЇР”Р–Р•РќРђ Р—Р‘Р РћРЇ</text>
-  </string>
-  <string id="kb_night_vision">
-    <text>РџР РР›РђР” РќР†Р§РќРћР“Рћ Р‘РђР§Р•РќРќРЇ</text>
-  </string>
-  <string id="kb_pause">
-    <text>РџРђРЈР—Рђ</text>
-  </string>
-  <string id="kb_pda">
-    <text>РљРџРљ</text>
-  </string>
-  <string id="kb_prev_slot">
-    <text>РџРћРџР•Р Р•Р”РќРЇ РЎРџРћР РЇР”Р–Р•РќРђ Р—Р‘Р РћРЇ</text>
-  </string>
-  <string id="kb_quit">
-    <text>Р’РРҐР†Р”</text>
-  </string>
-  <string id="kb_reload">
-    <text>РџР•Р Р•Р—РђР РЇР”РРўР</text>
-  </string>
-  <string id="kb_repair">
-    <text>Р Р•РњРћРќРўРЈР’РђРўР</text>
-  </string>
-  <string id="kb_right">
-    <text>РџР РђР’РћР РЈР§</text>
-  </string>
-  <string id="kb_right_lookout">
-    <text>Р’РР“Р›РЇРќРЈРўР РџР РђР’РћР РЈР§</text>
-  </string>
-  <string id="kb_right_strafe">
-    <text>РљР РћРљ РџР РђР’РћР РЈР§</text>
-  </string>
-  <string id="kb_screenshot">
-    <text>Р—РќРЇРўРћРљ</text>
-  </string>
-  <string id="kb_sprint">
-    <text>Р‘Р†Р“</text>
-  </string>
-  <string id="kb_torch">
-    <text>РќРђР›РћР‘РќРР™ Р›Р†РҐРўРђР РРљ</text>
-  </string>
-  <string id="kb_wpn_kick">
-    <text>РЈР”РђР  Р‘РђР“РќР•РўРћРњ</text>
-  </string>
-  <string id="kb_wpn_laser">
-    <text>Р›РђР—Р•Р РќРР™ Р¦Р†Р›Р•Р’РљРђР—</text>
-  </string>
-  <string id="kb_wpn_torch">
-    <text>РўРђРљРўРР§РќРР™ Р›Р†РҐРўРђР РРљ</text>
-  </string>
-  <string id="kb_turn_engine">
-    <text>РЈР’Р†РњРљРќРЈРўР</text>
-  </string>
-  <string id="kb_up">
-    <text>РЈР“РћР РЈ</text>
-  </string>
-  <string id="kb_use">
-    <text>Р’РРљРћР РРЎРўРђРўР</text>
-  </string>
-  <string id="kb_use_bandage">
-    <text>РЁР’РР”РљР• Р’РРљРћР РРЎРўРђРќРќРЇ Р‘РРќРўРђ</text>
-  </string>
-  <string id="kb_use_medkit">
-    <text>РЁР’РР”РљР• Р’РРљРћР РРЎРўРђРќРќРЇ РђРџРўР•Р§РљР</text>
-  </string>
-  <string id="kb_weapon1">
-    <text>РќР†Р–</text>
-  </string>
-  <string id="kb_weapon2">
-    <text>РџР†РЎРўРћР›Р•Рў</text>
-  </string>
-  <string id="kb_weapon3">
-    <text>Р”РћР”РђРўРљРћР’Рђ Р—Р‘Р РћРЇ</text>
-  </string>
-  <string id="kb_weapon4">
-    <text>РћРЎРќРћР’РќРђ Р—Р‘Р РћРЇ</text>
-  </string>
-  <string id="kb_weapon5">
-    <text>Р“Р РђРќРђРўРђ</text>
-  </string>
-  <string id="kb_weapon6">
-    <text>Р‘Р†РќРћРљР›Р¬</text>
-  </string>
-  <string id="kb_weapon7">
-    <text>Р‘РћР›Рў</text>
-  </string>
-  <string id="kb_wpn_next">
-    <text>Р—РњР†РќРРўР РўРРџ РџРђРўР РћРќР†Р’</text>
-  </string>
-  <string id="kb_wpn_prev">
-    <text>РџРћРџР•Р Р•Р”РќРЇ Р—Р‘Р РћРЇ</text>
-  </string>
-  <string id="kb_zoom">
-    <text>РќРђР‘Р›РР—РРўР</text>
-  </string>
-  <string id="kb_quick_use_1">
-    <text>РљРћРњР†Р РљРђ РЁР’РР”РљРћР“Рћ Р”РћРЎРўРЈРџ 1</text>
-  </string>
-  <string id="kb_quick_use_2">
-    <text>РљРћРњР†Р РљРђ РЁР’РР”РљРћР“Рћ Р”РћРЎРўРЈРџРЈ 2</text>
-  </string>
-  <string id="kb_quick_use_3">
-    <text>РљРћРњР†Р РљРђ РЁР’РР”РљРћР“Рћ Р”РћРЎРўРЈРџРЈ 3</text>
-  </string>
-  <string id="kb_quick_use_4">
-    <text>РљРћРњР†Р РљРђ РЁР’РР”РљРћР“Рћ Р”РћРЎРўРЈРџРЈ 4</text>
-  </string>
-  <string id="kb_quick_use_5">
-    <text>РљРћРњР†Р РљРђ РЁР’РР”РљРћР“Рћ Р”РћРЎРўРЈРџРЈ 5</text>
-  </string>
+
+	<string id="kb_active_jobs">
+		<text>ЗАВДАННЯ</text>
+	</string>
+
+	<string id="kb_alife_command">
+		<text>НАКАЗ АТАКУВАТИ</text>
+	</string>
+
+	<string id="kb_always_run">
+		<text>КРОК</text>
+	</string>
+
+	<string id="kb_artefact">
+		<text>АРТЕФАКТ</text>
+	</string>
+
+	<string id="kb_backward">
+		<text>НАЗАД</text>
+	</string>
+
+	<string id="kb_binoculars">
+		<text>БІНОКЛЬ</text>
+	</string>
+
+	<string id="kb_console">
+		<text>КОНСОЛЬ</text>
+	</string>
+
+	<string id="kb_contacts">
+		<text>КОНТАКТИ</text>
+	</string>
+
+	<string id="kb_crouch">
+		<text>ПРИСІСТИ</text>
+	</string>
+
+	<string id="kb_crouch_toggle">
+		<text>ПОСТІЙНО НАПРИСЯДКИ</text>
+	</string>
+
+	<string id="kb_detector">
+		<text>ДЕТЕКТОР</text>
+	</string>
+
+	<string id="kb_down">
+		<text>УНИЗ</text>
+	</string>
+
+	<string id="kb_drop">
+		<text>ВИКЛАСТИ</text>
+	</string>
+
+	<string id="kb_fire">
+		<text>ВОГОНЬ</text>
+	</string>
+
+	<string id="kb_firemode_next">
+		<text>РЕЖИМ СТРІЛЬБИ (НАСТУПНИЙ)</text>
+	</string>
+
+	<string id="kb_firemode_prev">
+		<text>РЕЖИМ СТРІЛЬБИ (ПОПЕРЕДНІЙ)</text>
+	</string>
+
+	<string id="kb_forward">
+		<text>УПЕРЕД</text>
+	</string>
+
+	<string id="kb_func">
+		<text>ПІДСТВОЛЬНИК</text>
+	</string>
+
+	<string id="kb_grp_all">
+		<text>_</text>
+	</string>
+
+	<string id="kb_grp_common">
+		<text>ЗАГАЛЬНЕ</text>
+	</string>
+
+	<string id="kb_grp_direction">
+		<text>НАПРЯМОК</text>
+	</string>
+
+	<string id="kb_grp_inventory">
+		<text>РЮКЗАК</text>
+	</string>
+
+	<string id="kb_grp_movement">
+		<text>РУХ</text>
+	</string>
+
+	<string id="kb_grp_weapons">
+		<text>ЗБРОЯ</text>
+	</string>
+
+	<string id="kb_inventory">
+		<text>ІНВЕНТАР</text>
+	</string>
+
+	<string id="kb_jump">
+		<text>СТРИБОК</text>
+	</string>
+
+	<string id="kb_left">
+		<text>ЛІВОРУЧ</text>
+	</string>
+
+	<string id="kb_left_lookout">
+		<text>ВИГЛЯНУТИ ЛІВОРУЧ</text>
+	</string>
+
+	<string id="kb_left_strafe">
+		<text>КРОК ЛІВОРУЧ</text>
+	</string>
+
+	<string id="kb_current_task">
+		<text>ПОТОЧНЕ ЗАВДАННЯ</text>
+	</string>
+
+	<string id="kb_map">
+		<text>МАПА</text>
+	</string>
+
+	<string id="kb_notes">
+		<text>ЗАПИСИ</text>
+	</string>
+
+	<string id="kb_encyclopedia">
+		<text>ПУТІВНИК</text>
+	</string>
+
+	<string id="kb_next_slot">
+		<text>НАСТУПНА СПОРЯДЖЕНА ЗБРОЯ</text>
+	</string>
+
+	<string id="kb_night_vision">
+		<text>ПРИЛАД НІЧНОГО БАЧЕННЯ</text>
+	</string>
+
+	<string id="kb_pause">
+		<text>ПАУЗА</text>
+	</string>
+
+	<string id="kb_pda">
+		<text>КПК</text>
+	</string>
+
+	<string id="kb_prev_slot">
+		<text>ПОПЕРЕДНЯ СПОРЯДЖЕНА ЗБРОЯ</text>
+	</string>
+
+	<string id="kb_quit">
+		<text>ВИХІД</text>
+	</string>
+
+	<string id="kb_reload">
+		<text>ПЕРЕЗАРЯДИТИ</text>
+	</string>
+
+	<string id="kb_repair">
+		<text>РЕМОНТУВАТИ</text>
+	</string>
+
+	<string id="kb_right">
+		<text>ПРАВОРУЧ</text>
+	</string>
+
+	<string id="kb_right_lookout">
+		<text>ВИГЛЯНУТИ ПРАВОРУЧ</text>
+	</string>
+
+	<string id="kb_right_strafe">
+		<text>КРОК ПРАВОРУЧ</text>
+	</string>
+
+	<string id="kb_screenshot">
+		<text>ЗНЯТОК</text>
+	</string>
+
+	<string id="kb_sprint">
+		<text>БІГ</text>
+	</string>
+
+	<string id="kb_torch">
+		<text>НАЛОБНИЙ ЛІХТАРИК</text>
+	</string>
+
+	<string id="kb_wpn_kick">
+		<text>УДАР БАГНЕТОМ</text>
+	</string>
+
+	<string id="kb_wpn_laser">
+		<text>ЛАЗЕРНИЙ ЦІЛЕВКАЗ</text>
+	</string>
+
+	<string id="kb_wpn_torch">
+		<text>ТАКТИЧНИЙ ЛІХТАРИК</text>
+	</string>
+
+	<string id="kb_turn_engine">
+		<text>УВІМКНУТИ</text>
+	</string>
+
+	<string id="kb_up">
+		<text>УГОРУ</text>
+	</string>
+
+	<string id="kb_use">
+		<text>ВИКОРИСТАТИ</text>
+	</string>
+
+	<string id="kb_use_bandage">
+		<text>ШВИДКЕ ВИКОРИСТАННЯ БИНТА</text>
+	</string>
+
+	<string id="kb_use_medkit">
+		<text>ШВИДКЕ ВИКОРИСТАННЯ АПТЕЧКИ</text>
+	</string>
+
+	<string id="kb_weapon1">
+		<text>НІЖ</text>
+	</string>
+
+	<string id="kb_weapon2">
+		<text>ПІСТОЛЕТ</text>
+	</string>
+
+	<string id="kb_weapon3">
+		<text>ДОДАТКОВА ЗБРОЯ</text>
+	</string>
+
+	<string id="kb_weapon4">
+		<text>ОСНОВНА ЗБРОЯ</text>
+	</string>
+
+	<string id="kb_weapon5">
+		<text>ГРАНАТА</text>
+	</string>
+
+	<string id="kb_weapon6">
+		<text>БІНОКЛЬ</text>
+	</string>
+
+	<string id="kb_weapon7">
+		<text>БОЛТ</text>
+	</string>
+
+	<string id="kb_wpn_next">
+		<text>ЗМІНИТИ ТИП ПАТРОНІВ</text>
+	</string>
+
+	<string id="kb_wpn_prev">
+		<text>ПОПЕРЕДНЯ ЗБРОЯ</text>
+	</string>
+
+	<string id="kb_zoom">
+		<text>НАБЛИЗИТИ</text>
+	</string>
+
+	<string id="kb_quick_use_1">
+		<text>КОМІРКА ШВИДКОГО ДОСТУП 1</text>
+	</string>
+
+	<string id="kb_quick_use_2">
+		<text>КОМІРКА ШВИДКОГО ДОСТУПУ 2</text>
+	</string>
+
+	<string id="kb_quick_use_3">
+		<text>КОМІРКА ШВИДКОГО ДОСТУПУ 3</text>
+	</string>
+
+	<string id="kb_quick_use_4">
+		<text>КОМІРКА ШВИДКОГО ДОСТУПУ 4</text>
+	</string>
+
+	<string id="kb_quick_use_5">
+		<text>КОМІРКА ШВИДКОГО ДОСТУПУ 5</text>
+	</string>
+
 </string_table>

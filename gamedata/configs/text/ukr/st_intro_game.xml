@@ -1,48 +1,64 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_intro_game_skip_info">
-    <text>%c[info_orange][ESC] %c[info_title]РџР РћРџРЈРЎРўРРўР</text>
-  </string>
-  <string id="st_intro_game_phrase_1_1">
-    <text>РњРѕС” РїСЂС–Р·РІРёСЃСЊРєРѕ РЎРѕРєРёСЂР°.</text>
-  </string>
-  <string id="st_intro_game_phrase_1_2">
-    <text>РЇ Р·РІРёС‡Р°Р№РЅС–СЃС–РЅСЊРєРёР№ РІС–Р»СЊРЅРёР№ СЃС‚Р°Р»РєРµСЂ.</text>
-  </string>
-  <string id="st_intro_game_phrase_1_3">
-    <text>Р‘Р»РёР·СЊРєРѕ СЂРѕРєСѓ С‚РѕРјСѓ СЏ РІРїРµСЂС€Рµ РїРѕР±СѓРІР°РІ Сѓ Р—РѕРЅС– РІС–РґС‡СѓР¶РµРЅРЅСЏ.</text>
-  </string>
-  <string id="st_intro_game_phrase_1_4">
-    <text>Р— РїРµСЂС€РѕС— Р¶ С…РІРёР»РёРЅРё РІРѕРЅР° РЅС–Р±Рё СЃС…РѕРїРёР»Р° РјРµРЅРµ Р·Р° РіРѕСЂР»Рѕ\nС– РЅРµ РІС–РґРїСѓСЃРєР°С” РґРѕ С†СЊРѕРіРѕ РґРЅСЏ.</text>
-  </string>
-  <string id="st_intro_game_phrase_2_1">
-    <text>Р—Р° РІРµСЃСЊ С‡Р°СЃ СЏ Р·СЂРѕР±РёРІ РєС–Р»СЊРєР° РІРёР»Р°Р·РѕРє Р·Р° РїРµСЂРёРјРµС‚СЂ.</text>
-  </string>
-  <string id="st_intro_game_phrase_2_2">
-    <text>Р’РёРІС‡Р°РІ СЃС‚Р°Р»РєРµСЂСЃСЊРєРµ СЂРµРјРµСЃР»Рѕ, С…РѕРґРёРІ Р·Р° С…Р°Р±Р°СЂРѕРј\nС– РїСЂРѕСЃРёРґР¶СѓРІР°РІ С€С‚Р°РЅРё Р±С–Р»СЏ Р±Р°РіР°С‚С‚СЏ РІ СЃРµР»РёС‰С– РЅРѕРІР°С‡РєС–РІ.</text>
-  </string>
-  <string id="st_intro_game_phrase_2_3">
-    <text>РђР»Рµ РІРёСЂСѓС€РёС‚Рё Р·Р° РјРµР¶С– РљРѕСЂРґРѕРЅР° С‚Р°Рє С– РЅРµ РЅР°РІР°Р¶СѓРІР°РІСЃСЏ.</text>
-  </string>
-  <string id="st_intro_game_phrase_3">
-    <text>РЇРє Р±Рё РЅРµ РјР°РЅРёРІ РґРѕ СЃРµР±Рµ РїС–РІРЅС–С‡ Р—РѕРЅРё, СЃС‚СЂР°С…\nРЅРµР·РІС–РґР°РЅРѕРіРѕ РїРѕСЃС‚С–Р№РЅРѕ РјРµРЅРµ Р·СѓРїРёРЅСЏРІ.</text>
-  </string>
-  <string id="st_intro_game_phrase_4_1">
-    <text>РђР»Рµ СЂР°РЅРѕ С‡Рё РїС–Р·РЅРѕ СЏ РїРѕРІРёРЅРµРЅ Р±СѓРІ\nР·С–Р±СЂР°С‚РёСЃСЏ Р· СЃРёР»Р°РјРё С‚Р° РєРёРЅСѓС‚Рё РІРёРєР»РёРє РґРѕР»С–.</text>
-  </string>
-  <string id="st_intro_game_phrase_4_2">
-    <text>Р—Р°Р»РёС€РёС‚Рё РІРёРїСѓС‰РµРЅС– РІР·РґРѕРІР¶ С– РїРѕРїРµСЂРµРє РјС–СЃС†СЏ\nС– РІРёСЂСѓС€РёС‚Рё РЅР° РґРѕСЃР»С–РґР¶РµРЅРЅСЏ РЅРµРїС–Р·РЅР°РЅРёС… С‚РµСЂРёС‚РѕСЂС–Р№.</text>
-  </string>
-  <string id="st_intro_game_phrase_5_1">
-    <text>РЈ Р±СѓРґСЊ-СЏРєРѕРјСѓ СЂР°Р·С– РјРµРЅС– Р±С–Р»СЊС€Рµ РЅРµРјР°С” Р¶РёС‚С‚СЏ РЅР° Р’РµР»РёРєС–Р№ Р·РµРјР»С–.</text>
-  </string>
-  <string id="st_intro_game_phrase_5_2">
-    <text>Р”Р»СЏ СЃРµР±Рµ СЏ Р°Р±СЃРѕР»СЋС‚РЅРѕ С‚РѕС‡РЅРѕ РІРёСЂС–С€РёРІ, С‰Рѕ С‚РµРїРµСЂ РјС–Р№ Р±СѓРґРёРЅРѕРє  вЂ”  С†Рµ Р—РѕРЅР°.</text>
-  </string>
-  <string id="st_intro_game_phrase_6_1">
-    <text>РџРѕРїСЂРѕС‰Р°РІС€РёСЃСЊ Р·С– СЃРІРѕС—Рј РјРёРЅСѓР»РёРј, СЏ РїРѕРІРµСЂС‚Р°СЋСЃСЏ\nРґРѕ Р§РѕСЂРЅРѕР±РёР»СЊСЃСЊРєРѕС— Р·РѕРЅРё РІС–РґС‡СѓР¶РµРЅРЅСЏ.</text>
-  </string>
-  <string id="st_intro_game_phrase_6_2">
-    <text>Р Р°Р·РѕРј Р· РїСЂРѕРІС–РґРЅРёРєРѕРј РјРё РјР°С”РјРѕ С€Р»СЏС… РЅР° РљРѕСЂРґРѕРЅ.</text>
-  </string>
+    
+	<string id="st_intro_game_skip_info">
+		<text>%c[info_orange][ESC] %c[info_title]ПРОПУСТИТИ</text>
+	</string>
+
+	<string id="st_intro_game_phrase_1_1">
+		<text>Моє прізвисько Сокира.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_1_2">
+		<text>Я звичайнісінький вільний сталкер.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_1_3">
+		<text>Близько року тому я вперше побував у Зоні відчуження.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_1_4">
+		<text>З першої ж хвилини вона ніби схопила мене за горло\nі не відпускає до цього дня.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_2_1">
+		<text>За весь час я зробив кілька вилазок за периметр.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_2_2">
+		<text>Вивчав сталкерське ремесло, ходив за хабаром\nі просиджував штани біля багаття в селищі новачків.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_2_3">
+		<text>Але вирушити за межі Кордона так і не наважувався.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_3">
+		<text>Як би не манив до себе північ Зони, страх\nнезвіданого постійно мене зупиняв.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_4_1">
+		<text>Але рано чи пізно я повинен був\nзібратися з силами та кинути виклик долі.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_4_2">
+		<text>Залишити випущені вздовж і поперек місця\nі вирушити на дослідження непізнаних територій.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_5_1">
+		<text>У будь-якому разі мені більше немає життя на Великій землі.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_5_2">
+		<text>Для себе я абсолютно точно вирішив, що тепер мій будинок  -  це Зона.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_6_1">
+		<text>Попрощавшись зі своїм минулим, я повертаюся\nдо Чорнобильської зони відчуження.</text>
+	</string>
+
+	<string id="st_intro_game_phrase_6_2">
+		<text>Разом з провідником ми маємо шлях на Кордон.</text>
+	</string>
+
 </string_table>

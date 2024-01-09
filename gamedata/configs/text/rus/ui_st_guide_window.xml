@@ -1,88 +1,117 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="ui_st_guide_section_notes">
-    <text>Р—РђРњР•РўРљР</text>
-  </string>
-  <string id="ui_st_guide_section_encyclopedia">
-    <text>Р­РќР¦РРљР›РћРџР•Р”РРЇ</text>
-  </string>
-  <string id="ui_st_guide_group_tasks">
-    <text>Р—РђР”РђРќРРЇ</text>
-  </string>
-  <string id="ui_st_guide_group_records">
-    <text>Р—РђРџРРЎР</text>
-  </string>
-  <string id="ui_st_guide_group_history">
-    <text>Р”РРђР›РћР“Р</text>
-  </string>
-  <string id="ui_st_guide_group_locations">
-    <text>Р›РћРљРђР¦РР</text>
-  </string>
-  <string id="ui_st_guide_group_weapons">
-    <text>РћР РЈР–РР•</text>
-  </string>
-  <string id="ui_st_guide_group_characters">
-    <text>РџР•Р РЎРћРќРђР–Р</text>
-  </string>
-  <string id="ui_st_guide_group_mutants">
-    <text>Р‘Р•РЎРўРРђР РР™</text>
-  </string>
-  <string id="ui_st_guide_history_caption">
-    <text>РРЎРўРћР РРЇ Р”РРђР›РћР“РћР’</text>
-  </string>
-  <string id="ui_st_guide_current_dialog">
-    <text>РРЎРўРћР РРЇ Р”РРђР›РћР“Рђ</text>
-  </string>
-  <!-- Demo -->
-  <string id="ui_st_guide_demo_weapon_1_title">
-    <text>РђРљ74</text>
-  </string>
-  <string id="ui_st_guide_demo_weapon_1_descr">
-    <text>РЁС‚СѓСЂРјРѕРІРѕРµ</text>
-  </string>
-  <string id="ui_st_guide_demo_weapon_2_title">
-    <text>РЎР°Р№РіР°-12</text>
-  </string>
-  <string id="ui_st_guide_demo_weapon_2_descr">
-    <text>Р”СЂРѕР±РѕРІРёРєРё</text>
-  </string>
-  <string id="ui_st_guide_demo_character_1_title">
-    <text>РђР»РµРєСЃРµР№ Р–СѓСЂР°РІР»С‘РІ</text>
-  </string>
-  <string id="ui_st_guide_demo_character_1_descr">
-    <text>Р’РѕРµРЅРЅС‹Рµ СЃС‚Р°Р»РєРµСЂС‹</text>
-  </string>
-  <string id="ui_st_guide_demo_character_1_info">
-    <text>РџСЂРѕС‚Р°РіРѕРЅРёСЃС‚</text>
-  </string>
-  <string id="ui_st_guide_demo_character_2_title">
-    <text>РўРѕРїРѕСЂ</text>
-  </string>
-  <string id="ui_st_guide_demo_character_2_descr">
-    <text>РќРµР№С‚СЂР°Р»СЊРЅС‹Рµ СЃС‚Р°Р»РєРµСЂС‹</text>
-  </string>
-  <string id="ui_st_guide_demo_character_2_info">
-    <text>РџСЂРѕС‚Р°РіРѕРЅРёСЃС‚</text>
-  </string>
-  <string id="ui_st_guide_demo_monster_1_title">
-    <text>РџР»РѕС‚СЊ</text>
-  </string>
-  <string id="ui_st_guide_demo_monster_1_descr">
-    <text>РњСѓС‚РёСЂРѕРІР°РІС€Р°СЏ СЃРІРёРЅСЊСЏ</text>
-  </string>
-  <string id="ui_st_guide_demo_monster_2_title">
-    <text>РљСЂРѕРІРѕСЃРѕСЃ</text>
-  </string>
-  <string id="ui_st_guide_demo_monster_2_descr">
-    <text>РџРѕРґРѕРїС‹С‚РЅС‹Рµ</text>
-  </string>
-  <string id="ui_st_guide_demo_monster_3_title">
-    <text>РџСЂРѕСЃРѕ</text>
-  </string>
-  <string id="ui_st_guide_demo_monster_3_descr">
-    <text>РџРѕРґРѕРїС‹С‚РЅС‹Рµ</text>
-  </string>
-  <string id="ui_st_guide_demo_monster_3_full_text">
-    <text>РџСЂРѕСЃРѕ (СЃ Р»Р°С‚РёРЅСЃРєРѕРіРѕ Proso вЂ” РђР»РµРєСЃРµР№ РџСЂРѕСЃР°РЅРґРµРµРІ) вЂ” РёР·РІРµСЃС‚РЅР°СЏ РІ СЂСѓСЃСЃРєРѕСЏР·С‹С‡РЅРѕРј СЃС‚Р°Р»РєРµСЂСЃРєРѕРј РєРѕРјРјСЊСЋРЅРёС‚Рё Р»РёС‡РЅРѕСЃС‚СЊ. Р’РµРґС‘С‚ РЅРµСЃРєРѕР»СЊРєРѕ YouTube РєР°РЅР°Р»РѕРІ вЂ” РѕРґРёРЅ СЏРІР»СЏРµС‚СЃСЏ РѕСЃРЅРѕРІРЅС‹Рј, РЅР° РґСЂСѓРіРѕРј Р·Р°СЂР°Р±Р°С‚С‹РІР°РµС‚ СЃРµР±Рµ РЅР° С…Р»РµР± Р»СЋР±С‹РјРё РґРѕСЃС‚СѓРїРЅС‹РјРё СЃРїРѕСЃРѕР±Р°РјРё, Р° С‚СЂРµС‚РёР№ РєР°РЅР°Р» СЃР»СѓР¶РёС‚ РґР»СЏ РїСѓР±Р»РёРєР°С†РёРё РЅР°СЃРёР»СЊСЃС‚РІРµРЅРЅРѕРіРѕ РєРѕРЅС‚РµРЅС‚Р° РїРѕ РѕС‚РЅРѕС€РµРЅРёСЋ Рє СЂР°Р·СЂР°Р±РѕС‚С‡РёРєСѓ РїРѕРґ РЅРёРєРѕРј Overf1rst. РџСЂРѕСЃРѕ РѕР±РёС‚Р°РµС‚ РІ Р’РѕР»РіРѕРіСЂР°РґРµ. Р–РёРІС‘С‚ РґРІРѕР№РЅРѕР№ Р¶РёР·РЅСЊСЋ.\n \nР’ СЃРІРѕР±РѕРґРЅРѕРµ РѕС‚ РїСЂСЏРјС‹С… С‚СЂР°РЅСЃР»СЏС†РёР№ РІСЂРµРјСЏ СЂСѓРєРѕРІРѕРґРёС‚ СЂР°Р·СЂР°Р±РѕС‚РєРѕР№ True Stalker (РЅР°С‡РёРЅР°СЏ СЃ 2016 РіРѕРґР°), РЅРѕ Р»РёС€СЊ С„РѕСЂРјР°Р»СЊРЅРѕ вЂ” Р·Р° СЂР°Р±РѕС‚РѕР№ РЅР°Рґ РјРѕРґРѕРј РџСЂРѕСЃРѕ РЅРµ Р±С‹Р» Р·Р°РјРµС‡РµРЅ РЅРё СЂР°Р·Сѓ. РќРµСЂРµРґРєРѕ Р±С‹РІР°РµС‚ Р°РіСЂРµСЃСЃРёРІРЅС‹Рј вЂ” РЅРµРѕРґРЅРѕРєСЂР°С‚РЅРѕ РёР·Р±РёРІР°Р» РѕРґРЅРѕРіРѕ РёР· СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРІ, СЃРІРѕСЋ РїСЂР°РІСѓСЋ СЂСѓРєСѓ, РїСЂРё РІСЃС‚СЂРµС‡Рµ РІ РњРѕСЃРєРІРµ. РќР° РєРѕРЅС‚Р°РєС‚ РёРґС‘С‚ СЃ Р±РѕР»СЊС€РёРј С‚СЂСѓРґРѕРј вЂ” РјРѕР¶РµС‚ Р·Р°Р±Р°РЅРёС‚СЊ Р»СЋР±РѕРіРѕ, РєС‚Рѕ РµРјСѓ РїРѕ С‚РµРј РёР»Рё РёРЅС‹Рј РїСЂРёС‡РёРЅР°Рј РЅРµ РїСЂРёРіР»СЏРЅСѓР»СЃСЏ РєР°Рє РїРѕС‚РµРЅС†РёР°Р»СЊРЅС‹Р№ РєРѕР»Р»РµРіР°.\n \nР§Р°СЃС‚Рѕ РїРµСЂРµРєР»Р°РґС‹РІР°РµС‚ СЃРІРѕСЋ РІРёРЅСѓ РЅР° РґСЂСѓРіРёС…, РєРѕРіРґР° РµРјСѓ СЌС‚Рѕ РІС‹РіРѕРґРЅРѕ вЂ” РїСЂРё РІСЃС‚СЂРµС‡Рµ СЃ СЂР°Р·СЂР°Р±РѕС‚С‡РёРєРѕРј РїРѕРґ РЅРёРєРѕРј Overf1rst РІ РњРѕСЃРєРІРµ СЃРІР°Р»РёР» РЅР° РЅРµРіРѕ, С‡С‚Рѕ С‚РѕС‚ СѓСЃС‚СЂРѕРёР» Р±РѕРµРІС‹Рµ РґРµР№СЃС‚РІРёСЏ РІ С‚СЂРµС‚СЊРµР№ РєР°Р±РёРЅРєРµ Р±Р°СЂРЅРѕРіРѕ С‚СѓР°Р»РµС‚Р°, С…РѕС‚СЏ Overf1rst Р±С‹Р» Р»РёС€СЊ РІРѕ РІС‚РѕСЂРѕР№ РєР°Р±РёРЅРєРµ, РІ С‚Рѕ РІСЂРµРјСЏ РєР°Рє РџСЂРѕСЃРѕ вЂ” РІ С‚СЂРµС‚СЊРµР№. Р­С‚Рѕ РјРѕР¶РµС‚ Р±С‹С‚СЊ СЃРІСЏР·Р°РЅРѕ СЃ С‚СЂР°РІРјР°РјРё, РїРѕР»СѓС‡РµРЅРЅС‹РјРё РІ РґРµС‚СЃС‚РІРµ. РљСЃС‚Р°С‚Рё РіРѕРІРѕСЂСЏ, РђР»РµРєСЃРµСЏ СЃС‚Р°Р»Рё РЅР°Р·С‹РІР°С‚СЊ РџСЂРѕСЃРѕ РµС‰С‘ СЃРѕ С€РєРѕР»СЊРЅС‹С… РІСЂРµРјС‘РЅ. РќР° СЌС‚РѕР№ РїРѕС‡РІРµ СЃС‚Р°Р» РјСЃС‚РёС‚РµР»СЊРЅС‹Рј, РЅРµСЂРµРґРєРѕ СЃС‚СЂР°РґР°РµС‚ РєСЂР°С‚РєРѕРІСЂРµРјРµРЅРЅС‹РјРё РїСЂРѕРІР°Р»Р°РјРё РІ РїР°РјСЏС‚Рё Рё РїРѕС‚РµСЂРµР№ СЂР°СЃСЃСѓРґРєР°. РќРµСЃРјРѕС‚СЂСЏ РЅР° СЌС‚Рѕ, 20.06.2022 РѕС‚РјРµС‚РёР» СЃРІРѕСЋ С‚СЂРёРґС†Р°С‚РёР»РµС‚РёРµ.</text>
-  </string>
+
+	<string id="ui_st_guide_section_notes">
+		<text>ЗАМЕТКИ</text>
+	</string>
+
+	<string id="ui_st_guide_section_encyclopedia">
+		<text>ЭНЦИКЛОПЕДИЯ</text>
+	</string>
+
+	<string id="ui_st_guide_group_tasks">
+		<text>ЗАДАНИЯ</text>
+	</string>
+
+	<string id="ui_st_guide_group_records">
+		<text>ЗАПИСИ</text>
+	</string>
+
+	<string id="ui_st_guide_group_history">
+		<text>ДИАЛОГИ</text>
+	</string>
+
+	<string id="ui_st_guide_group_locations">
+		<text>ЛОКАЦИИ</text>
+	</string>
+
+	<string id="ui_st_guide_group_weapons">
+		<text>ОРУЖИЕ</text>
+	</string>
+
+	<string id="ui_st_guide_group_characters">
+		<text>ПЕРСОНАЖИ</text>
+	</string>
+
+	<string id="ui_st_guide_group_mutants">
+		<text>БЕСТИАРИЙ</text>
+	</string>
+
+	<string id="ui_st_guide_history_caption">
+		<text>ИСТОРИЯ ДИАЛОГОВ</text>
+	</string>
+
+	<string id="ui_st_guide_current_dialog">
+		<text>ИСТОРИЯ ДИАЛОГА</text>
+	</string>
+
+	<!-- Demo -->
+	<string id="ui_st_guide_demo_weapon_1_title">
+		<text>АК74</text>
+	</string>
+
+	<string id="ui_st_guide_demo_weapon_1_descr">
+		<text>Штурмовое</text>
+	</string>
+
+	<string id="ui_st_guide_demo_weapon_2_title">
+		<text>Сайга-12</text>
+	</string>
+
+	<string id="ui_st_guide_demo_weapon_2_descr">
+		<text>Дробовики</text>
+	</string>
+
+	<string id="ui_st_guide_demo_character_1_title">
+		<text>Алексей Журавлёв</text>
+	</string>
+
+	<string id="ui_st_guide_demo_character_1_descr">
+		<text>Военные сталкеры</text>
+	</string>
+
+	<string id="ui_st_guide_demo_character_1_info">
+		<text>Протагонист</text>
+	</string>
+
+	<string id="ui_st_guide_demo_character_2_title">
+		<text>Топор</text>
+	</string>
+
+	<string id="ui_st_guide_demo_character_2_descr">
+		<text>Нейтральные сталкеры</text>
+	</string>
+
+	<string id="ui_st_guide_demo_character_2_info">
+		<text>Протагонист</text>
+	</string>
+
+	<string id="ui_st_guide_demo_monster_1_title">
+		<text>Плоть</text>
+	</string>
+
+	<string id="ui_st_guide_demo_monster_1_descr">
+		<text>Мутировавшая свинья</text>
+	</string>
+
+	<string id="ui_st_guide_demo_monster_2_title">
+		<text>Кровосос</text>
+	</string>
+
+	<string id="ui_st_guide_demo_monster_2_descr">
+		<text>Подопытные</text>
+	</string>
+
+	<string id="ui_st_guide_demo_monster_3_title">
+		<text>Просо</text>
+	</string>
+
+	<string id="ui_st_guide_demo_monster_3_descr">
+		<text>Подопытные</text>
+	</string>
+
+	<string id="ui_st_guide_demo_monster_3_full_text">
+		<text>Просо (с латинского Proso - Алексей Просандеев) - известная в русскоязычном сталкерском коммьюнити личность. Ведёт несколько YouTube каналов - один является основным, на другом зарабатывает себе на хлеб любыми доступными способами, а третий канал служит для публикации насильственного контента по отношению к разработчику под ником Overf1rst. Просо обитает в Волгограде. Живёт двойной жизнью.\n \nВ свободное от прямых трансляций время руководит разработкой True Stalker (начиная с 2016 года), но лишь формально - за работой над модом Просо не был замечен ни разу. Нередко бывает агрессивным - неоднократно избивал одного из разработчиков, свою правую руку, при встрече в Москве. На контакт идёт с большим трудом - может забанить любого, кто ему по тем или иным причинам не приглянулся как потенциальный коллега.\n \nЧасто перекладывает свою вину на других, когда ему это выгодно - при встрече с разработчиком под ником Overf1rst в Москве свалил на него, что тот устроил боевые действия в третьей кабинке барного туалета, хотя Overf1rst был лишь во второй кабинке, в то время как Просо - в третьей. Это может быть связано с травмами, полученными в детстве. Кстати говоря, Алексея стали называть Просо ещё со школьных времён. На этой почве стал мстительным, нередко страдает кратковременными провалами в памяти и потерей рассудка. Несмотря на это, 20.06.2022 отметил свою тридцатилетие.</text>
+	</string>
+
 </string_table>

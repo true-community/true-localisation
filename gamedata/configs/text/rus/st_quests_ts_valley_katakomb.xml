@@ -1,36 +1,48 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="kat_primary_task">
-    <text>РџРћР”Р—Р•РњР•Р›Р¬РЇ</text>
-  </string>
-  <string id="kat_primary_task_searh_way_out_name">
-    <text>РќР°Р№С‚Рё РІС‹С…РѕРґ</text>
-  </string>
-  <string id="kat_primary_task_searh_way_out_text">
-    <text>РќСѓР¶РЅРѕ РєР°Рє-С‚Рѕ РѕС‚СЃСЋРґР° РІС‹Р±РёСЂР°С‚СЊСЃСЏ. РќСѓ Рё РІР»СЏРїР°Р»СЃСЏ Р¶Рµ СЏ...</text>
-  </string>
-  <string id="kat_primary_task_search_boss_items_name">
-    <text>РќР°Р№С‚Рё РІРµС‰Рё РҐРѕР·СЏРёРЅР° РІ РѕР±РІР°Р»РёРІС€РµР№СЃСЏ РґРµСЂРµРІРЅРµ</text>
-  </string>
-  <string id="kat_primary_task_search_boss_items_text">
-    <text>РџРѕ СЃР»РѕРІР°Рј СЃС‚Р°Р»РєРµСЂР°, РєРѕС‚РѕСЂРѕРіРѕ СЏ РІСЃС‚СЂРµС‚РёР», РІ РѕР±РІР°Р»РёРІС€РµР№СЃСЏ РґРµСЂРµРІРЅРµ РµСЃС‚СЊ С‡С‚Рѕ-С‚Рѕ, С‡С‚Рѕ РЅСѓР¶РЅРѕ РҐРѕР·СЏРёРЅСѓ РїРѕРґР·РµРјРµР»РёР№. РљС‚Рѕ СЌС‚Рѕ, С‡С‘СЂС‚ РІРѕР·СЊРјРё, С‚Р°РєРѕР№?</text>
-  </string>
-  <string id="kat_primary_task_speak_unknown_stalker_name">
-    <text>Р’РµСЂРЅСѓС‚СЊСЃСЏ Рє РЅРµРёР·РІРµСЃС‚РЅРѕРјСѓ СЃС‚Р°Р»РєРµСЂСѓ</text>
-  </string>
-  <string id="kat_primary_task_speak_unknown_stalker_text">
-    <text>РџРѕСЂР° РІРµСЂРЅСѓС‚СЊСЃСЏ Рє РЅРµР·РЅР°РєРѕРјС†Сѓ Рё СЂР°Р·РѕР±СЂР°С‚СЊСЃСЏ, С‡С‚Рѕ РґРµР»Р°С‚СЊ РґР°Р»СЊС€Рµ.</text>
-  </string>
-  <string id="kat_primary_task_kill_boss_name">
-    <text>РќР°Р№С‚Рё РҐРѕР·СЏРёРЅР° Рё СѓР±РёС‚СЊ РµРіРѕ</text>
-  </string>
-  <string id="kat_primary_task_kill_boss_text">
-    <text>РҐРѕР·СЏРёРЅ РїРѕРґР·РµРјРµР»РёР№ РЅРµ РѕС‚РїСѓСЃС‚РёС‚ РјРµРЅСЏ, РїРѕРєР° СЏ РЅРµ СѓР±СЊСЋ РµРіРѕ. РћСЃС‚Р°Р»РѕСЃСЊ С‚РѕР»СЊРєРѕ РѕС‚С‹СЃРєР°С‚СЊ С‚Рѕ РјРµСЃС‚Рѕ, РіРґРµ РѕРЅ РїСЂСЏС‡РµС‚СЃСЏ.</text>
-  </string>
-  <string id="kat_primary_task_final_name">
-    <text>Р’С‹Р±СЂР°С‚СЊСЃСЏ РЅР° РїРѕРІРµСЂС…РЅРѕСЃС‚СЊ</text>
-  </string>
-  <string id="kat_primary_task_final_text">
-    <text>Р’РѕС‚ Р¶Рµ С‚РІР°СЂСЊ РїРѕРїР°Р»Р°СЃСЊ. РўРµРїРµСЂСЊ РїРѕСЂР° РѕС‚СЃСЋРґР° СЃРІР°Р»РёРІР°С‚СЊ.</text>
-  </string>
+
+	<string id="kat_primary_task">
+		<text>ПОДЗЕМЕЛЬЯ</text>
+	</string>
+
+	<string id="kat_primary_task_searh_way_out_name">
+		<text>Найти выход</text>
+	</string>
+
+	<string id="kat_primary_task_searh_way_out_text">
+		<text>Нужно как-то отсюда выбираться. Ну и вляпался же я...</text>
+	</string>
+
+	<string id="kat_primary_task_search_boss_items_name">
+		<text>Найти вещи Хозяина в обвалившейся деревне</text>
+	</string>
+
+	<string id="kat_primary_task_search_boss_items_text">
+		<text>По словам сталкера, которого я встретил, в обвалившейся деревне есть что-то, что нужно Хозяину подземелий. Кто это, чёрт возьми, такой?</text>
+	</string>
+
+	<string id="kat_primary_task_speak_unknown_stalker_name">
+		<text>Вернуться к неизвестному сталкеру</text>
+	</string>
+
+	<string id="kat_primary_task_speak_unknown_stalker_text">
+		<text>Пора вернуться к незнакомцу и разобраться, что делать дальше.</text>
+	</string>
+
+	<string id="kat_primary_task_kill_boss_name">
+		<text>Найти Хозяина и убить его</text>
+	</string>
+
+	<string id="kat_primary_task_kill_boss_text">
+		<text>Хозяин подземелий не отпустит меня, пока я не убью его. Осталось только отыскать то место, где он прячется.</text>
+	</string>
+
+	<string id="kat_primary_task_final_name">
+		<text>Выбраться на поверхность</text>
+	</string>
+
+	<string id="kat_primary_task_final_text">
+		<text>Вот же тварь попалась. Теперь пора отсюда сваливать.</text>
+	</string>
+
 </string_table>

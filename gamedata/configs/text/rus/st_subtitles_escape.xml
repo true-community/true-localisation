@@ -1,660 +1,880 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_esc_prov_1">
-    <text>Рњ-РґР°. РџРѕРіРѕРґР° СЃРµРіРѕРґРЅСЏ РїСЂРѕСЃС‚Рѕ С€РµРїС‡РµС‚.</text>
-  </string>
-  <string id="st_esc_prov_2_1">
-    <text>Р”Р° С‡С‚Рѕ С‚СѓС‚ РјРѕР¶РµС‚ Р±С‹С‚СЊ РЅРѕРІРѕРіРѕ?\nРљР°Р¶РґС‹Р№ РґРµРЅСЊ РєР°Рє РґРµРЅСЊ Р®СЂРєР°.</text>
-  </string>
-  <string id="st_esc_prov_2_2">
-    <text>РџСЂРѕСЃРЅСѓР»СЃСЏ, РїРѕС‚РѕРїР°Р» Рє РїРµСЂРёРјРµС‚СЂСѓ\nРІСЃС‚СЂРµС‡Р°С‚СЊ РЅРѕРІРёС‡РєРѕРІ,</text>
-  </string>
-  <string id="st_esc_prov_2_3">
-    <text>РїСЂРѕРІРѕРґРёР» Рё СЃРёР¶Сѓ,\nР¶РґСѓ СЃР»РµРґСѓСЋС‰РёР№ Р·Р°РєР°Р·.</text>
-  </string>
-  <string id="st_esc_prov_2_4">
-    <text>Р—Р° РљРѕСЂРґРѕРЅ РїРѕС‡С‚Рё РЅРµ РІС‹СЃРѕРІС‹РІР°СЋСЃСЊ.</text>
-  </string>
-  <string id="st_esc_prov_3_1">
-    <text>РњРѕР¶РµС‚, РїР°СЂР° С‡РµР»РѕРІРµРє РІ РґРµРЅСЊ,\nР° РјРѕР¶РµС‚, РІРѕРѕР±С‰Рµ РЅРёРєРѕРіРѕ.</text>
-  </string>
-  <string id="st_esc_prov_3_2">
-    <text>Рђ РєРѕРіРґР° Рё С†РµР»РѕР№ РѕСЂР°РІРѕР№\nСЃСЋРґР° Р·Р°РІР°Р»РёРІР°СЋС‚СЃСЏ.</text>
-  </string>
-  <string id="st_esc_prov_3_3">
-    <text>РћР±СЂР°С‚РЅРѕ С‚РѕР»СЊРєРѕ\nРјР°Р»Рѕ РєС‚Рѕ РІРѕР·РІСЂР°С‰Р°Р»СЃСЏ.</text>
-  </string>
-  <string id="st_esc_prov_4_1">
-    <text>Рђ С‡РµРіРѕ СЌС‚Рѕ С‚РµР±Рµ С‚Р°Рє РёРЅС‚РµСЂРµСЃРЅРѕ?</text>
-  </string>
-  <string id="st_esc_prov_4_2">
-    <text>РќРµСѓР¶С‚Рѕ Р·Р° РљРѕСЂРґРѕРЅ СЃРѕР±СЂР°Р»СЃСЏ?</text>
-  </string>
-  <string id="st_esc_prov_5">
-    <text>Р–Р°Р»СЊ. РўР°РєРѕРіРѕ РєР»РёРµРЅС‚Р° РїРѕС‚РµСЂСЏР».</text>
-  </string>
-  <string id="st_esc_prov_6">
-    <text>РўРІРѕСЋ РјР°С‚СЊ! Р‘РµР¶РёРј, Р±РµР¶РёРј!</text>
-  </string>
-  <string id="st_esc_topor_actor_phrase_1">
-    <text>Р§С‚Рѕ РІ Р—РѕРЅРµ РЅРѕРІРѕРіРѕ, Р®СЂРѕРє?</text>
-  </string>
-  <string id="st_esc_topor_actor_phrase_2">
-    <text>Р С‡С‚Рѕ, РјРЅРѕРіРѕ СЃСЋРґР° РЅРѕРІРёС‡РєРѕРІ С…РѕРґРёС‚?</text>
-  </string>
-  <string id="st_esc_topor_actor_phrase_3">
-    <text>Рђ Р·Р° РљРѕСЂРґРѕРЅРѕРј С‡С‚Рѕ?\nРљР°Рє С‚Р°Рј СЃРµР№С‡Р°СЃ РѕР±СЃС‚Р°РЅРѕРІРѕС‡РєР°?</text>
-  </string>
-  <string id="st_esc_topor_actor_phrase_4_1">
-    <text>РќСѓ, РјРѕР¶РµС‚ Рё СЃРѕР±СЂР°Р»СЃСЏ.\nРќР°РґРѕРµР»Рѕ РЅР° РљРѕСЂРґРѕРЅРµ РїРѕСЂРѕР¶РЅСЏРєРё РіРѕРЅСЏС‚СЊ.</text>
-  </string>
-  <string id="st_esc_topor_actor_phrase_4_2">
-    <text>РџРѕРґСЃРѕР±РµСЂСѓ С‚РѕР»СЊРєРѕ РґРµРЅСЊР¶Р°С‚ РЅР° СЌРєРёРїРёСЂРѕРІРєСѓ\nРё РјРѕС‚Р°РЅСѓ РІРіР»СѓР±СЊ Р—РѕРЅС‹.</text>
-  </string>
-  <string id="st_esc_topor_actor_phrase_5">
-    <text>Р”Р° СЃРїР»СЋРЅСЊ С‚С‹.</text>
-  </string>
-  <string id="st_esc_army_base_target_detected">
-    <text>Р”РІРѕРµ РїРѕСЃС‚РѕСЂРѕРЅРЅРёС… СЃРѕ СЃС‚РѕСЂРѕРЅС‹ С‚РѕРЅРЅРµР»СЏ!</text>
-  </string>
-  <string id="st_esc_army_base_target_lost_1">
-    <text>РЈС…РѕРґСЏС‚, РіР°РґС‹.</text>
-  </string>
-  <string id="st_esc_army_base_target_lost_2">
-    <text>Р”РµР¶СѓСЂРЅС‹Р№, РїРѕРґРЅРёРјР°Р№ СЃРѕСЃС‚Р°РІ Рё РїСЂРѕС‡РµС€Рё СЃРµРєС‚РѕСЂ!</text>
-  </string>
-  <string id="st_esc_army_base_soldier">
-    <text>Р’РѕРµРЅРЅС‹Р№</text>
-  </string>
-  <string id="st_esc_army_base_start_scene_tower_attack">
-    <text>РћРіРѕРЅСЊ РЅР° РїРѕСЂР°Р¶РµРЅРёРµ!</text>
-  </string>
-  <string id="st_esc_army_base_start_scene_patrol_attack">
-    <text>Р’Р°Р»Рё РіРѕРЅРґСѓСЂР°СЃРѕРІ!</text>
-  </string>
-  <string id="st_esc_actor_kutek_phrase_1">
-    <text>Рђ РЅСѓ-РєР° СЃС‚РѕР№!</text>
-  </string>
-  <string id="st_esc_actor_kutek_phrase_2">
-    <text>РўС‹ РµС‰С‘ РєС‚Рѕ С‚Р°РєРѕР№?</text>
-  </string>
-  <string id="st_esc_trup_shavali_sobaki">
-    <text>РўР°Рє, Р° РІРѕС‚ Рё СЃР±РѕСЂС‰РёРє... РџРѕС…РѕР¶Рµ, РµРіРѕ Р·Р°РіСЂС‹Р·Р»Рё СЃРѕР±Р°РєРё...</text>
-  </string>
-  <string id="st_esc_robbery_bandit_1_1">
-    <text>Р­Р№, С„СЂР°РµСЂ,\nС‚С‹ Р±С‹ С€С‘Р» РЅР°С…РµСЂ РѕС‚СЃСЋРґР°!</text>
-  </string>
-  <string id="st_esc_robbery_bandit_1_2">
-    <text>Р С‚Рѕ, С‡С‚Рѕ СЃ Р°РЅРѕРјР°Р»РёРё РґРѕСЃС‚Р°Р»,\nРґР°РІР°Р№. Р“РѕРЅРё СЃСЋРґР°.</text>
-  </string>
-  <string id="st_esc_robbery_bandit_2_1">
-    <text>РќСѓ С‡С‘, СЃСѓРєР°?\nР“РѕРІРѕСЂРёР» СЏ С‚РµР±Рµ, Р°?</text>
-  </string>
-  <string id="st_esc_robbery_bandit_2_2">
-    <text>Р›РѕРІРё РјР°СЃР»РёРЅСѓ С‚РµРїРµСЂСЊ, СѓС€Р»С‘РїРѕРє!</text>
-  </string>
-  <string id="st_esc_atp_bandits_death">
-    <text>РЁСѓС…РµСЂ! РњРѕС‡Р°С‚ РЅР°СЃ!</text>
-  </string>
-  <string id="st_esc_bridge_patrol_stop">
-    <text>РўС‹, СЃС‚РѕСЏС‚СЊ!</text>
-  </string>
-  <string id="st_esc_bridge_soldiers_1">
-    <text>Р§РµРіРѕ СЃС‚РѕРёС€СЊ, СЃС‚Р°Р»РєРµСЂ?</text>
-  </string>
-  <string id="st_esc_bridge_soldiers_2">
-    <text>РҐРѕС‡РµС€СЊ РїСЂРѕР№С‚Рё вЂ” РёРґРё СЃСЋРґР°.\nР“РѕРІРѕСЂРёС‚СЊ Р±СѓРґРµРј.</text>
-  </string>
-  <string id="st_esc_bridge_soldiers_3">
-    <text>РќРµС‚ вЂ” РІР°Р»Рё РѕС‚СЃСЋРґР° РїРѕ-С…РѕСЂРѕС€РµРјСѓ.</text>
-  </string>
-  <string id="st_esc_fanat_bye_1">
-    <text>РќСѓ, Р±С‹РІР°Р№... СЃС‚Р°Р»РєРµСЂ.</text>
-  </string>
-  <string id="st_esc_fanat_dont_stop_nora">
-    <text>РўРѕРїРѕСЂ, РЅРµ РјРµРґР»Рё.\nРЎС‚Р°РІСЊ РґРёРЅР°РјРёС‚ Рё РІР°Р»РёРј РѕС‚СЃСЋРґР°!</text>
-  </string>
-  <string id="st_esc_fanat_hello_1">
-    <text>РџСЂРёРІРµС‚, РўРѕРїРѕСЂ.\nРљР°РєРёРјРё СЃСѓРґСЊР±Р°РјРё?</text>
-  </string>
-  <string id="st_esc_fanat_monster_attack">
-    <text>Р’СЃРµРј, РєС‚Рѕ РјРµРЅСЏ СЃР»С‹С€РёС‚: РЅР° РґРµСЂРµРІРЅСЋ РїСЂСѓС‚ РјСѓС‚Р°РЅС‚С‹, СЃСЂРѕС‡РЅРѕ РїСЂРѕСЃРёРј РїРѕРјРѕС‰Рё!</text>
-  </string>
-  <string id="st_esc_actor_ferma_phrase">
-    <text>РќСѓ С‡С‚Рѕ, СѓРїС‹СЂРё, РїРѕРїР°Р»РёСЃСЊ?</text>
-  </string>
-  <string id="st_esc_novice_camp_1_phrase_1">
-    <text>Рђ РІРґСЂСѓРі РѕРЅ РЅР°Р№РґС‘С‚ РЅР°СЃ?</text>
-  </string>
-  <string id="st_esc_novice_camp_1_phrase_2">
-    <text>РќРµ РїРѕ СЃРµР±Рµ РјРЅРµ.</text>
-  </string>
-  <string id="st_esc_novice_camp_2_phrase_1">
-    <text>Р”Р° РѕРЅ Р»РѕС€РѕРє РєР°РєРѕР№-С‚Рѕ,\nР° С‚С‹ РїРµСЂРµР¶РёРІР°РµС€СЊ!</text>
-  </string>
-  <string id="st_esc_novice_camp_2_phrase_2">
-    <text>Рђ СЏ РіРѕРІРѕСЂРёР» С‚РµР±Рµ:\nРґР°РІР°Р№ РµРіРѕ РіСЂРѕС…РЅРµРј, Рё РґРµР»Рѕ СЃ РєРѕРЅС†РѕРј!</text>
-  </string>
-  <string id="st_esc_novice_camp_2_phrase_3">
-    <text>Р”Р° РЅРµ СЃСЃС‹ С‚С‹. РџСЂРѕСЂРІС‘РјСЃСЏ!</text>
-  </string>
-  <string id="st_esc_sms_jurok_sound_1_1">
-    <text>Р—РґРѕСЂРѕРІРѕ, РўРѕРїРѕСЂ! РќСѓ С‡С‚Рѕ, РїСЂРѕСЃРїР°Р»СЃСЏ РїРѕСЃР»Рµ РІС‡РµСЂР°С€РЅРµР№ РїРѕРїРѕР№РєРё?</text>
-  </string>
-  <string id="st_esc_sms_jurok_sound_1_2">
-    <text>РЇ СЃР»С‹С€Р°Р», С‚С‹ РІРіР»СѓР±СЊ РљРѕСЂРґРѕРЅР° СѓС€С‘Р». Р•СЃС‚СЊ РґР»СЏ С‚РµР±СЏ РґРµР»Рѕ РѕРґРЅРѕ:</text>
-  </string>
-  <string id="st_esc_sms_jurok_sound_1_3">
-    <text>РІС‡РµСЂР°С€РЅРёРµ РІРѕСЏРєРё, РєРѕС‚РѕСЂС‹С… Р·Р° РЅР°РјРё РїРѕСЃР»Р°Р»Рё, РІСЃРµРј РѕС‚СЂСЏРґРѕРј СЃРіРёРЅСѓР»Рё РІ Р°РЅРѕРјР°Р»РёРё.</text>
-  </string>
-  <string id="st_esc_sms_jurok_sound_1_4">
-    <text>РЎС…РѕРґРёР» Р±С‹, РіР»СЏРЅСѓР»: РјРѕР¶РµС‚, С‡РµРіРѕ РїСѓС‚С‘РІРѕРіРѕ РѕСЃС‚Р°Р»РѕСЃСЊ.</text>
-  </string>
-  <string id="st_esc_sms_jurok_sound_1_5">
-    <text>Р›РѕРІРё РєРѕРѕСЂРґРёРЅР°С‚С‹.</text>
-  </string>
-  <string id="st_esc_shmonaem_ego">
-    <text>Р‘С‹СЃС‚СЂРµРµ!\nРЁРјРѕРЅР°РµРј РµРіРѕ Рё Р±РµР¶РёРј РѕС‚СЃСЋРґР°!</text>
-  </string>
-  <string id="st_esc_forestry_stalker_go_ferma_1">
-    <text>Р›Р°РґРЅРѕ, РјСѓР¶РёРєРё.\nРќРµС‡РµРіРѕ С‚СѓС‚ С‚РѕСЂС‡Р°С‚СЊ.</text>
-  </string>
-  <string id="st_esc_forestry_stalker_go_ferma_2">
-    <text>Р”РІРёРЅСѓР»Рё РґР°Р»СЊС€Рµ.</text>
-  </string>
-  <string id="st_esc_forestry_stalker_see_actor_start_check_anomaly_1">
-    <text>Р­Р№, РјСѓР¶РёРє, РїРѕС€Р°СЂСЊСЃСЏ С‚СѓС‚\nРЅР° РїСЂРµРґРјРµС‚ Р°СЂС‚РµС„Р°РєС‚РѕРІ.</text>
-  </string>
-  <string id="st_esc_forestry_stalker_see_actor_start_check_anomaly_2">
-    <text>РќРµ РїРѕР№РјСѓ: С‚Рѕ Р»Рё\nСѓ РјРµРЅСЏ РґРµС‚РµРєС‚РѕСЂ РЅРµ РїР°С€РµС‚,</text>
-  </string>
-  <string id="st_esc_forestry_stalker_see_actor_start_check_anomaly_3">
-    <text>С‚Рѕ Р»Рё СЂСѓРєРё РјРѕРё РєСЂРёРІС‹Рµ С€Р°Р»СЏС‚.</text>
-  </string>
-  <string id="st_esc_forestry_stalker_see_actor_artefacts_none_1">
-    <text>РќСѓ РґР°С‘С€СЊ, РјСѓР¶РёРє!\nР’СЃС‘, С‡С‚Рѕ Р±С‹Р»Рѕ, РІС‹РЅРµСЃ.</text>
-  </string>
-  <string id="st_esc_forestry_stalker_see_actor_artefacts_none_2">
-    <text>Р‘СѓРґРµРј РєСѓРєРѕРІР°С‚СЊ С‚РµРїРµСЂСЊ С‚СѓС‚,\nСЃ РєСЂРѕРІРѕСЃРѕСЃР°РјРё.</text>
-  </string>
-  <string id="st_esc_sms_jurok_sound_2">
-    <text>РўРѕРїРѕСЂ! РњС‹ С‚СѓС‚ Сѓ РєРѕСЃС‚СЂР° СЂРµС€РёР»Рё РІРѕРґРѕС‡РєРё РЅР°РєР°С‚РёС‚СЊ. РџРѕРґС‚СЏРіРёРІР°Р№СЃСЏ!</text>
-  </string>
-  <string id="st_esc_subtitles_merc">
-    <text>РќР°С‘РјРЅРёРє</text>
-  </string>
-  <string id="st_esc_shaiba_scientists_warning_1">
-    <text>РњСѓР¶РёРєРё, С‚СѓС‚ Р·Р° РђРўРџ Сѓ Р»РµС‚Р°СЋС‰РёС… РѕСЃС‚СЂРѕРІРєРѕРІ СѓС‡С‘РЅС‹Рµ СЃ РІРѕСЏРєР°РјРё С‡С‚Рѕ-С‚Рѕ СЃС‚СЂР°РЅРЅРѕРµ РјСѓС‚СЏС‚.</text>
-  </string>
-  <string id="st_esc_shaiba_scientists_warning_2">
-    <text>РћРґРёРЅ СЏР№С†РµРіРѕР»РѕРІС‹Р№ РїРѕР»РµР· С‡РµСЂРµР· С‚РµР»РµРїРѕСЂС‚С‹ СѓСЃС‚Р°РЅР°РІР»РёРІР°С‚СЊ РєР°РєРѕР№-С‚Рѕ РїСЂРёР±РѕСЂ РІ РґРѕРјРµ.</text>
-  </string>
-  <string id="st_esc_shaiba_scientists_warning_3">
-    <text>РќРµ СЃСѓР№С‚РµСЃСЊ Р»СѓС‡С€Рµ С‚СѓРґР° РєР°РєРѕРµ-С‚Рѕ РІСЂРµРјСЏ.</text>
-  </string>
-  <string id="st_esc_jurok_buhoy_sleep_1">
-    <text>РћС‚СЃС‚Р°РЅСЊ... Р”Р°Р№ РїРѕСЃРїР°С‚СЊ...</text>
-  </string>
-  <string id="st_esc_jurok_buhoy_sleep_2">
-    <text>Р”Р°Р№ Р¶Рµ РїРѕСЃРїР°С‚СЊ-С‚Рѕ!</text>
-  </string>
-  <string id="st_esc_jurok_buhoy_sleep_3">
-    <text>РћС‚РІР°Р»Рё, СЌС‚Рѕ...</text>
-  </string>
-  <string id="st_esc_jurok_buhoy_sleep_4">
-    <text>РќСѓ РґР°Р№ РїРѕСЃРїР°С‚СЊ!</text>
-  </string>
-  <string id="st_esc_jurok_buhoy_sleep_5">
-    <text>РќСѓ РґР°Р№ РїРѕСЃРїР°С‚СЊ.</text>
-  </string>
-  <string id="st_esc_jurok_bye_1">
-    <text>Р”Рѕ СЃРєРѕСЂРѕРіРѕ!</text>
-  </string>
-  <string id="st_esc_jurok_bye_2">
-    <text>РќСѓ РґР°РІР°Р№, СѓРґР°С‡Рё С‚РµР±Рµ, РўРѕРїРѕСЂ.</text>
-  </string>
-  <string id="st_esc_jurok_bye_gl">
-    <text>РќСѓ РґР°РІР°Р№, СѓРґР°С‡Рё С‚РµР±Рµ, РўРѕРїРѕСЂ.</text>
-  </string>
-  <string id="st_esc_jurok_hello_1">
-    <text>Р—РґРѕСЂРѕРІРѕ, РўРѕРїРѕСЂ!</text>
-  </string>
-  <string id="st_esc_jurok_hello_2">
-    <text>РџСЂРёРІРµС‚, РўРѕРїРѕСЂ!</text>
-  </string>
-  <string id="st_esc_jurok_hello_3">
-    <text>Р—РґРѕСЂРѕРІ!</text>
-  </string>
-  <string id="st_esc_jurok_hello_4">
-    <text>Р—РґРѕСЂРѕРІ. РљР°РєРёРјРё СЃСѓРґСЊР±Р°РјРё?</text>
-  </string>
-  <string id="st_esc_jurok_perebral_1">
-    <text>РџРѕС…РѕР¶Рµ, РїСЂР°РІРґР°, РїРµСЂРµР±СЂР°Р».</text>
-  </string>
-  <string id="st_esc_jurok_perebral_2">
-    <text>РњСѓР¶РёРєРё, С‚Р°С‰Рё РµРіРѕ РІРЅРёР·.</text>
-  </string>
-  <string id="st_esc_jurok_perebral_3_cc">
-    <text>[СЂРµР·РєР°СЏ Р±РѕР»СЊ]</text>
-  </string>
-  <string id="st_esc_jurok_perebral_4">
-    <text>РџРѕС…РѕР¶Рµ, РїР°Р»С‘РЅРєР° РѕРєР°Р·Р°Р»Р°СЃСЊ.</text>
-  </string>
-  <string id="st_esc_jurok_perebral_5">
-    <text>РџРѕР№РґСѓ СЏ РїСЂРёР»СЏРіСѓ.</text>
-  </string>
-  <string id="st_esc_army_base_scientists_cancel_1">
-    <text>Р”РµР¶СѓСЂРЅС‹Р№, СЃРѕРѕР±С‰РёС‚Рµ РІ С€С‚Р°Р±, С‡С‚Рѕ РЅСѓР¶РЅРѕ РѕС‚РјРµРЅРёС‚СЊ РїРѕР»РµРІС‹Рµ СЂР°Р±РѕС‚С‹:</text>
-  </string>
-  <string id="st_esc_army_base_scientists_cancel_2">
-    <text>РЅР°РїР°РґРµРЅРёРµ РЅР° Р±Р»РѕРєРїРѕСЃС‚!</text>
-  </string>
-  <string id="st_esc_mercs_task_scene_jurok_start_fire_1">
-    <text>РќР°РґРѕ Р¶Рµ. РќРµ СЃРїСЏС‚, СѓС€Р»С‘РїРєРё!</text>
-  </string>
-  <string id="st_esc_mercs_task_scene_jurok_start_fire_2">
-    <text>РќСѓ-РєР° Р±РѕРјР±Р°РЅРё РїРѕ РЅРёРј РєР°Рє СЃР»РµРґСѓРµС‚, Р°?</text>
-  </string>
-  <string id="st_esc_mercs_task_scene_merc_leader_angry_1">
-    <text>РњРѕР»С‡Р°С‚СЊ!</text>
-  </string>
-  <string id="st_esc_mercs_task_scene_merc_leader_angry_2">
-    <text>РЎРєРѕР»СЊРєРѕ РЅР°РґРѕ,\nСЃС‚РѕР»СЊРєРѕ Рё Р±СѓРґРµРј Р¶РґР°С‚СЊ.</text>
-  </string>
-  <string id="st_esc_mercs_task_scene_merc_leader_angry_3">
-    <text>Р•С‰С‘ СЂР°Р· РІСЏРєРЅРµС€СЊ вЂ” РїР°Р»РµС† РІС‹СЂРІСѓ.</text>
-  </string>
-  <string id="st_esc_mercs_task_scene_merc_question">
-    <text>РќСѓ СЃРєРѕР»СЊРєРѕ РЅР°Рј\nРµС‰С‘ С‚СѓС‚ С‚РѕСЂС‡Р°С‚СЊ?</text>
-  </string>
-  <string id="st_esc_mid_final_merc_leader_end_1">
-    <text>Р›Р°РґРЅРѕ. Р›РёРЅСЏР№ РѕС‚СЃСЋРґР°.</text>
-  </string>
-  <string id="st_esc_mid_final_merc_leader_end_2">
-    <text>РќРѕ РµСЃР»Рё СЃРѕРІСЂС‘С€СЊ,\nРЅСЏРЅСЊС‡РёС‚СЊСЃСЏ СЃ С‚РѕР±РѕР№ СЏ СѓР¶Рµ РЅРµ Р±СѓРґСѓ.</text>
-  </string>
-  <string id="st_esc_mid_final_merc_leader_start_1">
-    <text>РўРѕРїРѕСЂ! РќСѓ С‡С‚Рѕ Р¶Рµ С‚С‹ РЅР°РґРµР»Р°Р», Р°?</text>
-  </string>
-  <string id="st_esc_mid_final_merc_leader_start_2">
-    <text>РЈР±РёР» СЃРІРѕРµРіРѕ РґСЂСѓРіР°!</text>
-  </string>
-  <string id="st_esc_mid_final_merc_leader_start_3">
-    <text>Р”Р°. РўС‹, СѓРїС‘СЂС‚С‹Р№ Р±Р°СЂР°РЅ,\nСЌС‚Рѕ СЃРґРµР»Р°Р»!</text>
-  </string>
-  <string id="st_esc_mid_final_merc_leader_start_4">
-    <text>РћС‚РґР°Р» Р±С‹ РЅР°Рј С‚Рѕ,\nС‡С‚Рѕ РјС‹ С…РѕС‚РёРј, Рё РІСЃС‘!</text>
-  </string>
-  <string id="st_esc_mid_final_merc_leader_start_5">
-    <text>РќРѕ РЅРµС‚.</text>
-  </string>
-  <string id="st_esc_mid_final_merc_leader_start_6">
-    <text>Р’РїСЂРѕС‡РµРј, РєСѓРґР° С‚С‹ С‚РµРїРµСЂСЊ РґРµРЅРµС€СЊСЃСЏ?</text>
-  </string>
-  <string id="st_esc_scientist_1_actor_panic_1">
-    <text>Р­С‚Рѕ РІС‹ Р·СЂСЏ. РќРµ РЅР°РґРѕ!</text>
-  </string>
-  <string id="st_esc_scientist_1_actor_panic_2">
-    <text>РўРѕРІР°СЂРёС‰! РћРґСѓРјР°Р№С‚РµСЃСЊ.\nРќРµ РґРµР»Р°Р№С‚Рµ СЌС‚РѕРіРѕ!</text>
-  </string>
-  <string id="st_esc_scientist_1_fly_village_scene_1">
-    <text>РћС‚Р»РёС‡РЅРѕ. Рђ С‡С‚Рѕ СЃ РїСЃРё-РёР·Р»СѓС‡РµРЅРёРµРј\nРІРЅСѓС‚СЂРё РіСЂР°РІРёС‚Р°С†РёРѕРЅРЅРѕРіРѕ РїРѕР»СЏ?</text>
-  </string>
-  <string id="st_esc_scientist_1_fly_village_scene_2">
-    <text>Р’СЃС‘, СЃРІРѕСЂР°С‡РёРІР°РµРјСЃСЏ.\nРЇ Р·Р°РєРѕРЅС‡РёР».</text>
-  </string>
-  <string id="st_esc_scientist_2_actor_panic_1">
-    <text>РњРѕР»РѕРґРѕР№ С‡РµР»РѕРІРµРє,\nР·Р°С‡РµРј РІР°Рј СЌС‚Рѕ РІСЃС‘? РќРµ СЃС‚СЂРµР»СЏР№С‚Рµ!</text>
-  </string>
-  <string id="st_esc_scientist_2_actor_panic_2">
-    <text>РўРѕРІР°СЂРёС‰,\nРЅРµ СѓР±РёРІР°Р№С‚Рµ. РџСЂРѕС€Сѓ!</text>
-  </string>
-  <string id="st_esc_scientist_2_fly_village_scene_1_1">
-    <text>РўР°Рє, СЏ РЅР°Р±СЂРѕСЃР°Р»\nРїСЂРёРјРµСЂРЅС‹Р№ РјР°СЂС€СЂСѓС‚.</text>
-  </string>
-  <string id="st_esc_scientist_2_fly_village_scene_1_2">
-    <text>Р•СЃР»Рё С‡С‚Рѕ-С‚Рѕ РїРѕР№РґС‘С‚ РЅРµ С‚Р°Рє,\nРјС‹ РІР°СЃ РїРѕР№РјР°РµРј, РєРѕР»Р»РµРіР°.</text>
-  </string>
-  <string id="st_esc_scientist_2_fly_village_scene_2_1">
-    <text>Р—РґРµСЃСЊ РІСЃС‘ РІ РїРѕСЂСЏРґРєРµ.\nРР·Р»СѓС‡РµРЅРёРµ СЃС‚Р°Р±РёР»СЊРЅРѕ Рё РјРёРЅРёРјР°Р»СЊРЅРѕ.</text>
-  </string>
-  <string id="st_esc_scientist_2_fly_village_scene_2_2">
-    <text>РњРѕР¶РµС‚Рµ РЅР°С‡РёРЅР°С‚СЊ.</text>
-  </string>
-  <string id="st_esc_scientist_2_fly_village_scene_3">
-    <text>РћС‚Р»РёС‡РЅРѕ.\nР’С‹Р±РёСЂР°Р№С‚РµСЃСЊ: С‚РµР»РµРїРѕСЂС‚ СЂСЏРґРѕРј.</text>
-  </string>
-  <string id="st_esc_soldier_scientist_1_fly_village_danger">
-    <text>РџРѕС€РµРІРµР»РёРІР°Р№С‚РµСЃСЊ.\nР—РґРµСЃСЊ РЅРµР±РµР·РѕРїР°СЃРЅРѕ.</text>
-  </string>
-  <string id="st_esc_stalker_car_help">
-    <text>РЎС‚Р°Р»РєРµСЂ, РїРѕРјРѕРіРё!</text>
-  </string>
-  <string id="st_esc_shaiba_bye_1">
-    <text>РќСѓ, Р±С‹РІР°Р№.</text>
-  </string>
-  <string id="st_esc_shaiba_bye_2">
-    <text>РќСѓ, РґР°РІР°Р№.</text>
-  </string>
-  <string id="st_esc_shaiba_bye_3">
-    <text>РќСѓ, СЃС‡Р°СЃС‚Р»РёРІРѕ.</text>
-  </string>
-  <string id="st_esc_shaiba_hello_1">
-    <text>Р—РґРѕСЂРѕРІРѕ.</text>
-  </string>
-  <string id="st_esc_shaiba_hello_2">
-    <text>РџСЂРёРІРµС‚СЃС‚РІСѓСЋ.</text>
-  </string>
-  <string id="st_esc_shaiba_hello_3">
-    <text>Р—РґРѕСЂРѕРІРѕ, СЃС‚Р°Р»РєРµСЂ.</text>
-  </string>
-  <string id="st_esc_task_for_trailer_attack_flesh_tonnel_final">
-    <text>РџРѕРјРѕРіРёС‚Рµ!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_attack_shaiba_friend_1_danger">
-    <text>Рђ-Р°!\nРћС‚С†РµРїРёСЃСЊ, СѓСЂРѕРґРёРЅР°!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_attack_shaiba_go_attack_1">
-    <text>РќРё С…СЂРµРЅР° СЃРµР±Рµ.\nР”Р° РёС… С‚Р°Рј С†РµР»РѕРµ СЃРµРјРµР№СЃС‚РІРѕ!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_attack_shaiba_go_attack_2">
-    <text>РќСѓ С‡С‚Рѕ, СЂРµР±СЏС‚Р°,\nРїРѕСЃС‚СЂРµР»СЏРµРј РѕС‚СЂРѕРґСЊРµ?</text>
-  </string>
-  <string id="st_esc_task_for_trailer_attack_shaiba_go_attack_3">
-    <text>РџРѕР±РµР¶Р°Р»Рё!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_attack_shaiba_surge">
-    <text>Р’С‹Р±СЂРѕСЃ!\nР‘РµР¶РёРј Рє С‚РѕРЅРЅРµР»СЋ, Р±С‹СЃС‚СЂРѕ!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_attack_shaiba_tonnel_final_1">
-    <text>РћС‡РЅСѓР»СЃСЏ?\nРќРµС…РёР»Рѕ РЅР°СЃ РІС‹Р±СЂРѕСЃРѕРј С‚СЂСЏС…Р°РЅСѓР»Рѕ.</text>
-  </string>
-  <string id="st_esc_task_for_trailer_attack_shaiba_tonnel_final_2">
-    <text>РћС‚РєСѓРґР° РѕРЅ С‚РѕР»СЊРєРѕ РІР·СЏР»СЃСЏ?</text>
-  </string>
-  <string id="st_esc_task_for_trailer_attack_shaiba_tonnel_final_3">
-    <text>РќСѓР¶РЅРѕ РІС‹Р±РёСЂР°С‚СЊСЃСЏ РѕС‚СЃСЋРґР°,\nР° С‚Рѕ Рё С‚Р°Рє СЃС‚РѕР»СЊРєРѕ СЂРµР±СЏС‚ РїРѕР»РµРіР»Рѕ.</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_scene_sounds_2">
-    <text>РџРѕРјРѕРіРё РјРЅРµ...</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_scene_sounds_3">
-    <text>РџРѕРјРѕРіРё!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_scene_sounds_4">
-    <text>РЎРїР°СЃРё!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_scene_sounds_5">
-    <text>РЇ Р·РґРµСЃСЊ!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_scene_sounds_6">
-    <text>РЇ Р·РґРµСЃСЊ!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_scene_sounds_7">
-    <text>РЎРїР°СЃРё...</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_scene_sounds_8">
-    <text>РџРѕРјРѕРіРё!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_1">
-    <text>РЎС‚Р°Р»РєРµСЂ!</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_2">
-    <text>Р­С‚Р° РїР»РѕС‚СЊ,\nРѕРЅР° РїСЂРёРєРёРґС‹РІР°РµС‚СЃСЏ СЂР°РЅРµРЅС‹Рј.</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_3">
-    <text>РЇ РґСѓРјР°Р», С‚СѓС‚ РєРѕРјСѓ-С‚Рѕ РЅСѓР¶РЅР° РїРѕРјРѕС‰СЊ.</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_4">
-    <text>РџРѕС€С‘Р» РїСЂРѕРІРµСЂРёС‚СЊ, Р° С‚СѓС‚ РёС…...</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_5">
-    <text>РћРЅР° Р·РґРµСЃСЊ РЅРµ РѕРґРЅР°.\nРўР°Рј, РІ РЅРёР·РёРЅРµ Р·Р° РЅР°СЃС‹РїСЊСЋ,</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_6">
-    <text>РµС‰С‘...</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_7">
-    <text>СЃСѓРєР°, С†РµР»РѕРµ СЃС‚Р°РґРѕ.</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_8">
-    <text>Р‘РµРіРё РІ РґРµСЂРµРІРЅСЋ, СЂР°СЃСЃРєР°Р¶Рё РЅР°С€РёРј.</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_9">
-    <text>РЎР°Рј РІРёРґРёС€СЊ,\nСЃРєРѕР»СЊРєРѕ Р·РґРµСЃСЊ СѓР¶Рµ С‚СЂСѓРїРѕРІ.</text>
-  </string>
-  <string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_10">
-    <text>РЎ СЌС‚РёРјРё С‚РІР°СЂСЏРјРё РЅР°РґРѕ СЂР°СЃРїСЂР°РІРёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_esc_trailer_elevator_flesh_fake_sound">
-    <text>РџРѕРјРѕРіРёС‚Рµ!</text>
-  </string>
-  <string id="st_esc_trailer_elevator_flesh_fake_sound_1">
-    <text>Р­Р№, РєС‚Рѕ-РЅРёР±СѓРґСЊ! РљС‚Рѕ-РЅРёР±СѓРґСЊ!</text>
-  </string>
-  <string id="st_esc_trailer_elevator_flesh_fake_sound_2">
-    <text>РЎРїР°СЃРёС‚Рµ!</text>
-  </string>
-  <string id="st_esc_trailer_elevator_flesh_fake_sound_3">
-    <text>РЎС‚Р°Р»РєРµСЂ, РїРѕРјРѕРіРё!</text>
-  </string>
-  <string id="st_esc_trailer_elevator_flesh_fake_sound_4_cc">
-    <text>[РєСЂРёРє РѕС‚ Р±РѕР»Рё]</text>
-  </string>
-  <string id="st_esc_trailer_elevator_flesh_fake_sound_5">
-    <text>Р›СЋРґРё! РџРѕРјРёСЂР°СЋ...</text>
-  </string>
-  <string id="st_esc_trader_third_trailer_phrase">
-    <text>РРґРё, РЅРµ РјРѕР·РѕР»СЊ РіР»Р°Р·Р°!</text>
-  </string>
-  <string id="st_esc_trader_bad_trade_1">
-    <text>РўС‹ Р±С‹ РµС‰С‘\nРєРѕРЅСЃРµСЂРІРЅС‹С… Р±Р°РЅРѕРє РЅР°СЃРѕР±РёСЂР°Р»!</text>
-  </string>
-  <string id="st_esc_trader_bad_trade_2">
-    <text>РќР°С„РёРіР° С‚С‹ СЌС‚Сѓ РґСЂСЏРЅСЊ С‚СЏРіР°РµС€СЊ?</text>
-  </string>
-  <string id="st_esc_trader_bad_trade_3">
-    <text>Р§С‚Рѕ Р·Р° Р±РѕРґСЏРіСѓ С‚С‹ РјРЅРµ РїСЂРёРІРѕР»РѕРє?</text>
-  </string>
-  <string id="st_esc_trader_bad_trade_4">
-    <text>Р‘СЂР°С‚Р°РЅ, С‚С‹ РЅРµ РІСЂСѓР±Р°РµС€СЊСЃСЏ?\nРњРЅРµ РЅСѓР¶РµРЅ СЂРµР°Р»СЊРЅС‹Р№ С‚РѕРІР°СЂ!</text>
-  </string>
-  <string id="st_esc_trader_bye_1">
-    <text>РРґРё, РЅРµ РјРѕР·РѕР»СЊ РіР»Р°Р·Р°!</text>
-  </string>
-  <string id="st_esc_trader_bye_2">
-    <text>РќСѓ, СѓРґР°С‡РЅРѕР№ РѕС…РѕС‚С‹, СЃС‚Р°Р»РєРµСЂ!</text>
-  </string>
-  <string id="st_esc_trader_good_trade_1">
-    <text>РќРµРїР»РѕС…Рѕ. РҐРѕСЂРѕС€РёР№ С‚РѕРІР°СЂ!</text>
-  </string>
-  <string id="st_esc_trader_good_trade_2">
-    <text>РҐРѕСЂРѕС€Рѕ. РќСѓ, Р±СѓРґРµС‚ РµС‰С‘ вЂ” Р·Р°С…РѕРґРё.</text>
-  </string>
-  <string id="st_esc_trader_good_trade_3">
-    <text>РњРѕР»РѕРґРµС†. РЇ РґРѕРІРѕР»РµРЅ.</text>
-  </string>
-  <string id="st_esc_trader_good_trade_4">
-    <text>Р’РѕС‚ С‚Р°Рє Р±С‹ РІСЃРµРіРґР°!</text>
-  </string>
-  <string id="st_esc_trader_greet_1">
-    <text>РќСѓ, Р·РґРѕСЂРѕРІРѕ!</text>
-  </string>
-  <string id="st_esc_trader_greet_2">
-    <text>Р’РµСЂРЅСѓР»СЃСЏ?</text>
-  </string>
-  <string id="st_esc_trader_greet_3">
-    <text>РҐР°Р±Р°СЂ РїСЂРёРЅС‘СЃ?</text>
-  </string>
-  <string id="st_esc_trader_greet_4">
-    <text>Р•СЃС‚СЊ С‡С‚Рѕ-С‚Рѕ СЃС‚РѕСЏС‰РµРµ?</text>
-  </string>
-  <string id="st_esc_trader_greet_5">
-    <text>Р§С‚Рѕ РїСЂРёС‚Р°С‰РёР»?</text>
-  </string>
-  <string id="st_esc_trader_greet_6">
-    <text>РљР°Рє РґРµР»Р°, СЃС‚Р°Р»РєРµСЂ?</text>
-  </string>
-  <string id="st_esc_village_bad_outfit_angry_village">
-    <text>РЁС‘Р» Р±С‹ С‚С‹ РѕС‚СЃСЋРґР° РїСЂСЏРј С‰Р°СЃ, Р°?</text>
-  </string>
-  <string id="st_esc_atp_bandits_angry_1_1">
-    <text>РЎР»С‹С€РёС€СЊ, РјСѓР¶РёРє,\nС‚С‹ Р±СѓРґРµС€СЊ С‚СѓС‚ С€Р°СЂРёС‚СЊСЃСЏ вЂ”</text>
-  </string>
-  <string id="st_esc_atp_bandits_angry_1_2">
-    <text>С‚Р°Рє Р·Р°РІР°Р»РёРј.\nР­С‚Рѕ РєР°Рє РґРІР° РїР°Р»СЊС†Р°.</text>
-  </string>
-  <string id="st_esc_atp_bandits_angry_2">
-    <text>РўС‹ С‚СѓРїРѕР№? Р’Р°Р»Рё РґР°РІР°Р№!</text>
-  </string>
-  <string id="st_esc_atp_bandits_angry_3">
-    <text>РќСѓ, СЃР°Рј РЅР°РїСЂРѕСЃРёР»СЃСЏ.\nРџР°С†Р°РЅС‹, РІР°Р»Рё РµРіРѕ!</text>
-  </string>
-  <string id="st_esc_atp_bandits_angry_4">
-    <text>РќСѓ, СЃР°Рј РЅР°РїСЂРѕСЃРёР»СЃСЏ.\nРџР°С†Р°РЅС‹, РІР°Р»Рё РµРіРѕ!</text>
-  </string>
-  <string id="st_esc_colonel_koval_help_info_1">
-    <text>Р–СѓСЂР°РІР»С‘РІ, СЏ РІРёР¶Сѓ, С‚С‹ РЅРµРїРѕРґР°Р»РµРєСѓ РѕС‚ РЎРІР°Р»РєРё.</text>
-  </string>
-  <string id="st_esc_colonel_koval_help_info_2">
-    <text>Р‘СЂРѕСЃР°Р№ РІСЃС‘ Рё РґСѓР№ РїРѕ РєРѕРѕСЂРґРёРЅР°С‚Р°Рј, РєРѕС‚РѕСЂС‹Рµ СЏ С‚РµР±Рµ СЃРµР№С‡Р°СЃ СЃР±СЂРѕС€Сѓ РЅР° РљРџРљ.</text>
-  </string>
-  <string id="st_esc_colonel_koval_help_info_3">
-    <text>РўР°Рј РЅР°С€ СѓС‡С‘РЅС‹Р№ РїРѕРїР°Р» РІ РїРµСЂРµРґСЂСЏРіСѓ СЃ РјРµСЃС‚РЅС‹РјРё Р±Р°РЅРґРёС‚Р°РјРё.</text>
-  </string>
-  <string id="st_esc_colonel_koval_help_info_4">
-    <text>РџСЂРё РЅС‘Рј РѕС‡РµРЅСЊ РґРѕСЂРѕРіРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ, С‚Р°Рє С‡С‚Рѕ РЅР°РґРѕ РІС‹СЂСѓС‡Р°С‚СЊ.</text>
-  </string>
-  <string id="st_esc_soldier_hero_comment_bridge_corp_1">
-    <text>Р’РѕС‚ РґРµСЂСЊРјРѕ.</text>
-  </string>
-  <string id="st_esc_soldier_hero_comment_bridge_corp_2">
-    <text>РљС‚Рѕ Р¶Рµ С‚РµР±СЏ С‚Р°Рє, Р±СЂР°С‚-СЃС‚Р°Р»РєРµСЂ?</text>
-  </string>
-  <string id="st_esc_jurok_surge_go_hide_1">
-    <text>РўРѕРїРѕСЂ, РґСЂСѓР¶РёС‰Рµ, РЅР°РјРµС‡Р°РµС‚СЃСЏ РІС‹Р±СЂРѕСЃ. РЎСЂРѕС‡РЅРѕ РЅР°Р№РґРё СѓРєСЂС‹С‚РёРµ.</text>
-  </string>
-  <string id="st_esc_jurok_surge_go_hide_2">
-    <text>Р”СЂСѓРі, С‚СѓС‚ РІС‹Р±СЂРѕСЃ РЅР°РјРµС‡Р°РµС‚СЃСЏ. РС‰Рё СѓРєСЂС‹С‚РёРµ, РєРѕР»Рё С…РѕС‡РµС€СЊ, С‡С‚РѕР± Р¶РѕРїР° Р±С‹Р»Р° С†РµР»Р°.</text>
-  </string>
-  <string id="st_esc_jurok_surge_go_hide_3">
-    <text>РўРѕРїРѕСЂ, СЃРєРѕСЂРѕ РІС‹Р±СЂРѕСЃ. РС‰Рё СѓРєСЂС‹С‚РёРµ, РїРѕРєР° РЅРµ СЂРІР°РЅСѓР»Рѕ.</text>
-  </string>
-  <string id="st_esc_army_base_vova_vist_hello_1">
-    <text>Р—РґРѕСЂРѕРІ.</text>
-  </string>
-  <string id="st_esc_army_base_vova_vist_hello_2">
-    <text>Р§РµРіРѕ С‚РµР±Рµ?</text>
-  </string>
-  <string id="st_esc_army_base_vova_vist_hello_3">
-    <text>РќСѓ? РЇ СЃР»СѓС€Р°СЋ.</text>
-  </string>
-  <string id="st_esc_composer_task_soldier_angry_1_1">
-    <text>РќСѓ С‡С‚Рѕ, СЃС‚Р°Р»РєРµСЂСЃРєРѕРµ РѕС‚СЂРµР±СЊРµ, РґРѕРїСЂС‹РіР°Р»РёСЃСЊ?</text>
-  </string>
-  <string id="st_esc_composer_task_soldier_angry_1_2">
-    <text>Р—Р° РЅР°СЂСѓС€РµРЅРёРµ С†РµР»РѕСЃС‚РЅРѕСЃС‚Рё РїРµСЂРёРјРµС‚СЂР° Р—РѕРЅС‹ РћС‚С‡СѓР¶РґРµРЅРёСЏ вЂ” СЂР°СЃСЃС‚СЂРµР» РЅР° РјРµСЃС‚Рµ!</text>
-  </string>
-  <string id="st_esc_composer_task_soldier_angry_2_1">
-    <text>Р’РѕС‚-С‚Рµ РЅР°!</text>
-  </string>
-  <string id="st_esc_composer_task_soldier_angry_2_2">
-    <text>РќСѓ, СЂР°Р· РєРѕРґ...</text>
-  </string>
-  <string id="st_esc_composer_task_soldier_angry_2_3">
-    <text>РћС‚РІРµСЃС‚Рё РёС… РЅР° РљРџРџ!</text>
-  </string>
-  <string id="st_esc_composer_task_bandit_savior_code_1">
-    <text>Р­С‚Рѕ, СЃР»С‹С€СЊ С‡С‘, РєРѕРјР°РЅРґРёСЂ!</text>
-  </string>
-  <string id="st_esc_composer_task_bandit_savior_code_2">
-    <text>РљРѕРґ: Р”Р  Рљ 00 78 4529.</text>
-  </string>
-  <string id="st_esc_composer_task_bandit_savior_code_3">
-    <text>РџРѕРІС‚РѕСЂСЏСЋ: РЅРµ СЃС‚СЂРµР»СЏР№!</text>
-  </string>
-  <string id="st_esc_composer_task_bandit_savior_code_4">
-    <text>РљРѕРґ: Р”Р  Рљ 00 78 4529.</text>
-  </string>
-  <string id="st_esc_composer_task_scientist_radio_1_1">
-    <text>РўСѓСЂРѕРІ, РїСЂРёС‘Рј!</text>
-  </string>
-  <string id="st_esc_composer_task_scientist_radio_1_2">
-    <text>РќР° СЃРІСЏР·Рё РЎРјС‹С€Р»РѕРІ, СЃР»С‹С€РёС€СЊ РјРµРЅСЏ?</text>
-  </string>
-  <string id="st_esc_composer_task_scientist_radio_2">
-    <text>РЇ СЃРєРѕСЂРѕ РїСЂРёРґСѓ Рє С‚РµР±Рµ РІ РіРѕСЃС‚Рё!</text>
-  </string>
-  <string id="st_esc_composer_task_scientist_radio_3_1">
-    <text>РџРѕРґРіРѕС‚РѕРІСЊ РїРѕРєР° СѓСЃС‚СЂРѕР№СЃС‚РІРѕ.</text>
-  </string>
-  <string id="st_esc_composer_task_scientist_radio_3_2">
-    <text>РЎРєРѕСЂРѕ Р±СѓРґРµРј, РєРѕРЅРµС† СЃРІСЏР·Рё.</text>
-  </string>
-  <string id="st_esc_composer_task_scientist_boss_radio_1">
-    <text>РЎР»С‹С€Сѓ С‚РµР±СЏ, РЎРјС‹С€Р»РѕРІ. Р§С‚Рѕ С‚РµР±Рµ РЅСѓР¶РЅРѕ?</text>
-  </string>
-  <string id="st_esc_composer_task_scientist_boss_radio_2_1">
-    <text>Р’РѕС‚ СЌС‚Рѕ РґР°, РЅР°РєРѕРЅРµС†-С‚Рѕ! РќР°Рј РґР°РІРЅРѕ РїРѕСЂР° РїРѕРіРѕРІРѕСЂРёС‚СЊ.</text>
-  </string>
-  <string id="st_esc_composer_task_scientist_boss_radio_2_2">
-    <text>РўРѕР»СЊРєРѕ РґР°РІР°Р№ Р±РµР· СЃСЋСЂРїСЂРёР·РѕРІ вЂ” РјРѕРё Р»СЋРґРё Рё С‚Р°Рє РЅР° РІР·РІРѕРґРµ.</text>
-  </string>
-  <string id="st_esc_maddyson_and_vova_vist_fight_record_1">
-    <text>РќСѓ, С…РѕС‚СЏ Р±С‹ СЃРєРІРѕР·СЊ СЌС‚РѕС‚ РєР°РјРµРЅСЊ РѕРЅ РЅРµ РїСЂРѕР±РёРІР°РµС‚ РїСЂР°РєС‚РёС‡РµСЃРєРё... СЏ РёС… РІРёР¶Сѓ...</text>
-  </string>
-  <string id="st_esc_maddyson_and_vova_vist_fight_record_2">
-    <text>Р–Р°Р»РєРѕ, С‡С‚Рѕ РµРіРѕ РЅРµ СѓР±РёС‚СЊ РІСЃС‘ СЂР°РІРЅРѕ РѕРґРёРЅ С…РµСЂ...</text>
-  </string>
-  <string id="st_esc_actor_fake_final_1">
-    <text>Р РІРѕС‚ СЏ СЃРЅРѕРІР° РґРѕРјР°...</text>
-  </string>
-  <string id="st_esc_actor_fake_final_2">
-    <text>Р§РµСЂРЅРѕР±С‹Р»СЊСЃРєР°СЏ Р—РѕРЅР° РћС‚С‡СѓР¶РґРµРЅРёСЏ СЃРјРѕС‚СЂРёС‚ РЅР° РјРµРЅСЏ РёР· РјРѕРЅРёС‚РѕСЂР° РєРѕРјРїСЊСЋС‚РµСЂР°.</text>
-  </string>
-  <string id="st_esc_actor_fake_final_3">
-    <text>Рђ РјРѕР№ РѕР±СЂР°Р· Р°РјР±РёС†РёРѕР·РЅРѕРіРѕ СЃС‚Р°Р»РєРµСЂР° РїРѕ РїСЂРѕР·РІРёС‰Сѓ РўРѕРїРѕСЂ РѕСЃС‚Р°Р»СЃСЏ С‚РµРїРµСЂСЊ С‚РѕР»СЊРєРѕ РЅР° С„РѕС‚РѕРіСЂР°С„РёРё...</text>
-  </string>
-  <string id="st_esc_actor_fake_final_4">
-    <text>РџРѕСЃР»Рµ С‚РѕРіРѕ РєР°Рє РјС‹ СЃ РїСЂРѕРІРѕРґРЅРёРєРѕРј С‡СѓС‚СЊ РЅРµ РїРѕРіРёР±Р»Рё РїРѕРґ РѕР±СЃС‚СЂРµР»Р°РјРё РІРѕРµРЅРЅС‹С…, РІ РјРѕРµР№ РіРѕР»РѕРІРµ С‡С‚Рѕ-С‚Рѕ С‰С‘Р»РєРЅСѓР»Рѕ...</text>
-  </string>
-  <string id="st_esc_actor_fake_final_5">
-    <text>Р СЏ РІРґСЂСѓРі РїРѕРЅСЏР», С‡С‚Рѕ Р¶РёР·РЅСЊ РґР»СЏ РјРµРЅСЏ РіРѕСЂР°Р·РґРѕ РІР°Р¶РЅРµРµ, С‡РµРј Р·Р°РіР°РґРєРё Р§РµСЂРЅРѕР±С‹Р»СЏ.</text>
-  </string>
-  <string id="st_esc_actor_fake_final_6">
-    <text>РњРѕР¶РµС‚, СЏ Рё СЃС‚СЂСѓСЃРёР», РЅРѕ Р·Р°С‚Рѕ РЅР°С…РѕР¶СѓСЃСЊ РІ С‚С‘РїР»РѕР№ РєРѕРјРЅР°С‚Рµ, Р° РЅРµ РІ СЂР°РґРёРѕР°РєС‚РёРІРЅРѕР№ РєР°РЅР°РІРµ...</text>
-  </string>
-  <string id="st_esc_sms_jurok_actor_comeback_pda_1">
-    <text>РўР°Рє-С‚Р°Рє-С‚Р°Рє! РљС‚Рѕ СЌС‚Рѕ Сѓ РЅР°СЃ С‚СѓС‚ Р·Р°СЃРІРµС‚РёР»СЃСЏ?</text>
-  </string>
-  <string id="st_esc_sms_jurok_actor_comeback_pda_2">
-    <text>Р—РґРѕСЂРѕРІР°, РўРѕРїРѕСЂ! РљР°РєРёРјРё СЃСѓРґСЊР±Р°РјРё РІ РЅР°С€РёС… РєСЂР°СЏС…?</text>
-  </string>
-  <string id="st_esc_sms_jurok_actor_comeback_pda_3">
-    <text>Р—Р°РіР»СЏРґС‹РІР°Р№ РІ РґРµСЂРµРІРЅСЋ, РїРѕР±РѕР»С‚Р°РµРј!</text>
-  </string>
-  <string id="st_esc_true_sidor_actor_angry_village_pda_1">
-    <text>Р§С‚Рѕ Сѓ РІР°СЃ С‚Р°Рј РїСЂРѕРёСЃС…РѕРґРёС‚?</text>
-  </string>
-  <string id="st_esc_true_sidor_actor_angry_village_pda_2">
-    <text>РџСЂРёРґСѓСЂРѕРє, С‚С‹ РїСЂРёР±РѕСЂ СѓС‡С‘РЅС‹С… РІ РґРµСЂРµРІРЅСЋ РїСЂРёС‚Р°С‰РёР»? РњРѕР·РіРѕРІ СЃРѕРІСЃРµРј РЅРµС‚!</text>
-  </string>
-  <string id="st_esc_true_sidor_actor_comeback_pda_1">
-    <text>Р—РґРѕСЂРѕРІР°, РўРѕРїРѕСЂ!</text>
-  </string>
-  <string id="st_esc_true_sidor_actor_comeback_pda_2">
-    <text>РќСѓ С‡С‚Рѕ, РЅРµ РѕР¶РёРґР°Р» РјРµРЅСЏ СѓСЃР»С‹С€Р°С‚СЊ? РҐРµ-С…Рµ-С…Рµ...</text>
-  </string>
-  <string id="st_esc_true_sidor_actor_comeback_pda_3">
-    <text>Р—РЅР°С‡РёС‚, С‚Р°Рє. Р•СЃР»Рё С‡С‚Рѕ, СЏ РЅР° С‚РµР±СЏ РЅРµ РІ РѕР±РёРґРµ.</text>
-  </string>
-  <string id="st_esc_true_sidor_actor_comeback_pda_4">
-    <text>Р•СЃР»Рё РЅР°РґРѕ Р±СѓРґРµС‚ С‡С‚Рѕ-С‚Рѕ РїСЂРёРєСѓРїРёС‚СЊ РёР»Рё СЂР°Р±РѕС‚Сѓ РёС‰РµС€СЊ вЂ” </text>
-  </string>
-  <string id="st_esc_true_sidor_actor_comeback_pda_5">
-    <text>Р·Р°С…РѕРґРё РІ Р±СѓРЅРєРµСЂ, РїРѕС‚РѕР»РєСѓРµРј.</text>
-  </string>
-  <string id="st_esc_true_sidor_actor_comeback_pda_6">
-    <text>Р”Р°РІР°Р№, РґРѕ СЃРІСЏР·Рё, СЃР°Р»Р°РіР°.</text>
-  </string>
+
+	<string id="st_esc_prov_1">
+		<text>М-да. Погода сегодня просто шепчет.</text>
+	</string>
+
+	<string id="st_esc_prov_2_1">
+		<text>Да что тут может быть нового?\nКаждый день как день Юрка.</text>
+	</string>
+
+	<string id="st_esc_prov_2_2">
+		<text>Проснулся, потопал к периметру\nвстречать новичков,</text>
+	</string>
+
+	<string id="st_esc_prov_2_3">
+		<text>проводил и сижу,\nжду следующий заказ.</text>
+	</string>
+
+	<string id="st_esc_prov_2_4">
+		<text>За Кордон почти не высовываюсь.</text>
+	</string>
+
+	<string id="st_esc_prov_3_1">
+		<text>Может, пара человек в день,\nа может, вообще никого.</text>
+	</string>
+
+	<string id="st_esc_prov_3_2">
+		<text>А когда и целой оравой\nсюда заваливаются.</text>
+	</string>
+
+	<string id="st_esc_prov_3_3">
+		<text>Обратно только\nмало кто возвращался.</text>
+	</string>
+
+	<string id="st_esc_prov_4_1">
+		<text>А чего это тебе так интересно?</text>
+	</string>
+
+	<string id="st_esc_prov_4_2">
+		<text>Неужто за Кордон собрался?</text>
+	</string>
+
+	<string id="st_esc_prov_5">
+		<text>Жаль. Такого клиента потерял.</text>
+	</string>
+
+	<string id="st_esc_prov_6">
+		<text>Твою мать! Бежим, бежим!</text>
+	</string>
+
+	<string id="st_esc_topor_actor_phrase_1">
+		<text>Что в Зоне нового, Юрок?</text>
+	</string>
+
+	<string id="st_esc_topor_actor_phrase_2">
+		<text>И что, много сюда новичков ходит?</text>
+	</string>
+
+	<string id="st_esc_topor_actor_phrase_3">
+		<text>А за Кордоном что?\nКак там сейчас обстановочка?</text>
+	</string>
+
+	<string id="st_esc_topor_actor_phrase_4_1">
+		<text>Ну, может и собрался.\nНадоело на Кордоне порожняки гонять.</text>
+	</string>
+
+	<string id="st_esc_topor_actor_phrase_4_2">
+		<text>Подсоберу только деньжат на экипировку\nи мотану вглубь Зоны.</text>
+	</string>
+
+	<string id="st_esc_topor_actor_phrase_5">
+		<text>Да сплюнь ты.</text>
+	</string>
+
+	<string id="st_esc_army_base_target_detected">
+		<text>Двое посторонних со стороны тоннеля!</text>
+	</string>
+
+	<string id="st_esc_army_base_target_lost_1">
+		<text>Уходят, гады.</text>
+	</string>
+
+	<string id="st_esc_army_base_target_lost_2">
+		<text>Дежурный, поднимай состав и прочеши сектор!</text>
+	</string>
+
+	<string id="st_esc_army_base_soldier">
+		<text>Военный</text>
+	</string>
+
+	<string id="st_esc_army_base_start_scene_tower_attack">
+		<text>Огонь на поражение!</text>
+	</string>
+
+	<string id="st_esc_army_base_start_scene_patrol_attack">
+		<text>Вали гондурасов!</text>
+	</string>
+
+	<string id="st_esc_actor_kutek_phrase_1">
+		<text>А ну-ка стой!</text>
+	</string>
+
+	<string id="st_esc_actor_kutek_phrase_2">
+		<text>Ты ещё кто такой?</text>
+	</string>
+
+	<string id="st_esc_trup_shavali_sobaki">
+		<text>Так, а вот и сборщик... Похоже, его загрызли собаки...</text>
+	</string>
+
+	<string id="st_esc_robbery_bandit_1_1">
+		<text>Эй, фраер,\nты бы шёл нахер отсюда!</text>
+	</string>
+
+	<string id="st_esc_robbery_bandit_1_2">
+		<text>И то, что с аномалии достал,\nдавай. Гони сюда.</text>
+	</string>
+
+	<string id="st_esc_robbery_bandit_2_1">
+		<text>Ну чё, сука?\nГоворил я тебе, а?</text>
+	</string>
+
+	<string id="st_esc_robbery_bandit_2_2">
+		<text>Лови маслину теперь, ушлёпок!</text>
+	</string>
+
+	<string id="st_esc_atp_bandits_death">
+		<text>Шухер! Мочат нас!</text>
+	</string>
+
+	<string id="st_esc_bridge_patrol_stop">
+		<text>Ты, стоять!</text>
+	</string>
+
+	<string id="st_esc_bridge_soldiers_1">
+		<text>Чего стоишь, сталкер?</text>
+	</string>
+
+	<string id="st_esc_bridge_soldiers_2">
+		<text>Хочешь пройти — иди сюда.\nГоворить будем.</text>
+	</string>
+
+	<string id="st_esc_bridge_soldiers_3">
+		<text>Нет — вали отсюда по-хорошему.</text>
+	</string>
+
+	<string id="st_esc_fanat_bye_1">
+		<text>Ну, бывай... сталкер.</text>
+	</string>
+
+	<string id="st_esc_fanat_dont_stop_nora">
+		<text>Топор, не медли.\nСтавь динамит и валим отсюда!</text>
+	</string>
+
+	<string id="st_esc_fanat_hello_1">
+		<text>Привет, Топор.\nКакими судьбами?</text>
+	</string>
+
+	<string id="st_esc_fanat_monster_attack">
+		<text>Всем, кто меня слышит: на деревню прут мутанты, срочно просим помощи!</text>
+	</string>
+
+	<string id="st_esc_actor_ferma_phrase">
+		<text>Ну что, упыри, попались?</text>
+	</string>
+
+	<string id="st_esc_novice_camp_1_phrase_1">
+		<text>А вдруг он найдёт нас?</text>
+	</string>
+
+	<string id="st_esc_novice_camp_1_phrase_2">
+		<text>Не по себе мне.</text>
+	</string>
+
+	<string id="st_esc_novice_camp_2_phrase_1">
+		<text>Да он лошок какой-то,\nа ты переживаешь!</text>
+	</string>
+
+	<string id="st_esc_novice_camp_2_phrase_2">
+		<text>А я говорил тебе:\nдавай его грохнем, и дело с концом!</text>
+	</string>
+
+	<string id="st_esc_novice_camp_2_phrase_3">
+		<text>Да не ссы ты. Прорвёмся!</text>
+	</string>
+
+	<string id="st_esc_sms_jurok_sound_1_1">
+		<text>Здорово, Топор! Ну что, проспался после вчерашней попойки?</text>
+	</string>
+
+	<string id="st_esc_sms_jurok_sound_1_2">
+		<text>Я слышал, ты вглубь Кордона ушёл. Есть для тебя дело одно:</text>
+	</string>
+
+	<string id="st_esc_sms_jurok_sound_1_3">
+		<text>вчерашние вояки, которых за нами послали, всем отрядом сгинули в аномалии.</text>
+	</string>
+
+	<string id="st_esc_sms_jurok_sound_1_4">
+		<text>Сходил бы, глянул: может, чего путёвого осталось.</text>
+	</string>
+
+	<string id="st_esc_sms_jurok_sound_1_5">
+		<text>Лови координаты.</text>
+	</string>
+
+	<string id="st_esc_shmonaem_ego">
+		<text>Быстрее!\nШмонаем его и бежим отсюда!</text>
+	</string>
+
+	<string id="st_esc_forestry_stalker_go_ferma_1">
+		<text>Ладно, мужики.\nНечего тут торчать.</text>
+	</string>
+
+	<string id="st_esc_forestry_stalker_go_ferma_2">
+		<text>Двинули дальше.</text>
+	</string>
+
+	<string id="st_esc_forestry_stalker_see_actor_start_check_anomaly_1">
+		<text>Эй, мужик, пошарься тут\nна предмет артефактов.</text>
+	</string>
+
+	<string id="st_esc_forestry_stalker_see_actor_start_check_anomaly_2">
+		<text>Не пойму: то ли\nу меня детектор не пашет,</text>
+	</string>
+
+	<string id="st_esc_forestry_stalker_see_actor_start_check_anomaly_3">
+		<text>то ли руки мои кривые шалят.</text>
+	</string>
+
+	<string id="st_esc_forestry_stalker_see_actor_artefacts_none_1">
+		<text>Ну даёшь, мужик!\nВсё, что было, вынес.</text>
+	</string>
+
+	<string id="st_esc_forestry_stalker_see_actor_artefacts_none_2">
+		<text>Будем куковать теперь тут,\nс кровососами.</text>
+	</string>
+
+	<string id="st_esc_sms_jurok_sound_2">
+		<text>Топор! Мы тут у костра решили водочки накатить. Подтягивайся!</text>
+	</string>
+
+	<string id="st_esc_subtitles_merc">
+		<text>Наёмник</text>
+	</string>
+
+	<string id="st_esc_shaiba_scientists_warning_1">
+		<text>Мужики, тут за АТП у летающих островков учёные с вояками что-то странное мутят.</text>
+	</string>
+
+	<string id="st_esc_shaiba_scientists_warning_2">
+		<text>Один яйцеголовый полез через телепорты устанавливать какой-то прибор в доме.</text>
+	</string>
+
+	<string id="st_esc_shaiba_scientists_warning_3">
+		<text>Не суйтесь лучше туда какое-то время.</text>
+	</string>
+
+	<string id="st_esc_jurok_buhoy_sleep_1">
+		<text>Отстань... Дай поспать...</text>
+	</string>
+
+	<string id="st_esc_jurok_buhoy_sleep_2">
+		<text>Дай же поспать-то!</text>
+	</string>
+
+	<string id="st_esc_jurok_buhoy_sleep_3">
+		<text>Отвали, это...</text>
+	</string>
+
+	<string id="st_esc_jurok_buhoy_sleep_4">
+		<text>Ну дай поспать!</text>
+	</string>
+
+	<string id="st_esc_jurok_buhoy_sleep_5">
+		<text>Ну дай поспать.</text>
+	</string>
+
+	<string id="st_esc_jurok_bye_1">
+		<text>До скорого!</text>
+	</string>
+
+	<string id="st_esc_jurok_bye_2">
+		<text>Ну давай, удачи тебе, Топор.</text>
+	</string>
+
+	<string id="st_esc_jurok_bye_gl">
+		<text>Ну давай, удачи тебе, Топор.</text>
+	</string>
+
+	<string id="st_esc_jurok_hello_1">
+		<text>Здорово, Топор!</text>
+	</string>
+
+	<string id="st_esc_jurok_hello_2">
+		<text>Привет, Топор!</text>
+	</string>
+
+	<string id="st_esc_jurok_hello_3">
+		<text>Здоров!</text>
+	</string>
+
+	<string id="st_esc_jurok_hello_4">
+		<text>Здоров. Какими судьбами?</text>
+	</string>
+
+	<string id="st_esc_jurok_perebral_1">
+		<text>Похоже, правда, перебрал.</text>
+	</string>
+
+	<string id="st_esc_jurok_perebral_2">
+		<text>Мужики, тащи его вниз.</text>
+	</string>
+
+	<string id="st_esc_jurok_perebral_3_cc">
+		<text>[резкая боль]</text>
+	</string>
+
+	<string id="st_esc_jurok_perebral_4">
+		<text>Похоже, палёнка оказалась.</text>
+	</string>
+
+	<string id="st_esc_jurok_perebral_5">
+		<text>Пойду я прилягу.</text>
+	</string>
+	
+	<string id="st_esc_army_base_scientists_cancel_1">
+		<text>Дежурный, сообщите в штаб, что нужно отменить полевые работы:</text>
+	</string>
+
+	<string id="st_esc_army_base_scientists_cancel_2">
+		<text>нападение на блокпост!</text>
+	</string>
+
+	<string id="st_esc_mercs_task_scene_jurok_start_fire_1">
+		<text>Надо же. Не спят, ушлёпки!</text>
+	</string>
+	
+	<string id="st_esc_mercs_task_scene_jurok_start_fire_2">
+		<text>Ну-ка бомбани по ним как следует, а?</text>
+	</string>
+
+	<string id="st_esc_mercs_task_scene_merc_leader_angry_1">
+		<text>Молчать!</text>
+	</string>
+	
+	<string id="st_esc_mercs_task_scene_merc_leader_angry_2">
+		<text>Сколько надо,\nстолько и будем ждать.</text>
+	</string>
+
+	<string id="st_esc_mercs_task_scene_merc_leader_angry_3">
+		<text>Ещё раз вякнешь — палец вырву.</text>
+	</string>
+
+	<string id="st_esc_mercs_task_scene_merc_question">
+		<text>Ну сколько нам\nещё тут торчать?</text>
+	</string>
+
+	<string id="st_esc_mid_final_merc_leader_end_1">
+		<text>Ладно. Линяй отсюда.</text>
+	</string>
+
+	<string id="st_esc_mid_final_merc_leader_end_2">
+		<text>Но если соврёшь,\nняньчиться с тобой я уже не буду.</text>
+	</string>
+
+	<string id="st_esc_mid_final_merc_leader_start_1">
+		<text>Топор! Ну что же ты наделал, а?</text>
+	</string>
+
+	<string id="st_esc_mid_final_merc_leader_start_2">
+		<text>Убил своего друга!</text>
+	</string>
+
+	<string id="st_esc_mid_final_merc_leader_start_3">
+		<text>Да. Ты, упёртый баран,\nэто сделал!</text>
+	</string>
+
+	<string id="st_esc_mid_final_merc_leader_start_4">
+		<text>Отдал бы нам то,\nчто мы хотим, и всё!</text>
+	</string>
+
+	<string id="st_esc_mid_final_merc_leader_start_5">
+		<text>Но нет.</text>
+	</string>
+
+	<string id="st_esc_mid_final_merc_leader_start_6">
+		<text>Впрочем, куда ты теперь денешься?</text>
+	</string>
+
+	<string id="st_esc_scientist_1_actor_panic_1">
+		<text>Это Вы зря. Не надо!</text>
+	</string>
+
+	<string id="st_esc_scientist_1_actor_panic_2">
+		<text>Товарищ! Одумайтесь.\nНе делайте этого!</text>
+	</string>
+
+	<string id="st_esc_scientist_1_fly_village_scene_1">
+		<text>Отлично. А что с пси-излучением\nвнутри гравитационного поля?</text>
+	</string>
+
+	<string id="st_esc_scientist_1_fly_village_scene_2">
+		<text>Всё, сворачиваемся.\nЯ закончил.</text>
+	</string>
+
+	<string id="st_esc_scientist_2_actor_panic_1">
+		<text>Молодой человек,\nзачем вам это всё? Не стреляйте!</text>
+	</string>
+
+	<string id="st_esc_scientist_2_actor_panic_2">
+		<text>Товарищ,\nне убивайте. Прошу!</text>
+	</string>
+
+	<string id="st_esc_scientist_2_fly_village_scene_1_1">
+		<text>Так, я набросал\nпримерный маршрут.</text>
+	</string>
+
+	<string id="st_esc_scientist_2_fly_village_scene_1_2">
+		<text>Если что-то пойдёт не так,\nмы вас поймаем, коллега.</text>
+	</string>
+
+	<string id="st_esc_scientist_2_fly_village_scene_2_1">
+		<text>Здесь всё в порядке.\nИзлучение стабильно и минимально.</text>
+	</string>
+
+	<string id="st_esc_scientist_2_fly_village_scene_2_2">
+		<text>Можете начинать.</text>
+	</string>
+
+	<string id="st_esc_scientist_2_fly_village_scene_3">
+		<text>Отлично.\nВыбирайтесь: телепорт рядом.</text>
+	</string>
+
+	<string id="st_esc_soldier_scientist_1_fly_village_danger">
+		<text>Пошевеливайтесь.\nЗдесь небезопасно.</text>
+	</string>
+
+	<string id="st_esc_stalker_car_help">
+		<text>Сталкер, помоги!</text>
+	</string>
+
+	<string id="st_esc_shaiba_bye_1">
+		<text>Ну, бывай.</text>
+	</string>
+
+	<string id="st_esc_shaiba_bye_2">
+		<text>Ну, давай.</text>
+	</string>
+
+	<string id="st_esc_shaiba_bye_3">
+		<text>Ну, счастливо.</text>
+	</string>
+
+	<string id="st_esc_shaiba_hello_1">
+		<text>Здорово.</text>
+	</string>
+
+	<string id="st_esc_shaiba_hello_2">
+		<text>Приветствую.</text>
+	</string>
+
+	<string id="st_esc_shaiba_hello_3">
+		<text>Здорово, сталкер.</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_attack_flesh_tonnel_final">
+		<text>Помогите!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_attack_shaiba_friend_1_danger">
+		<text>А-а!\nОтцепись, уродина!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_attack_shaiba_go_attack_1">
+		<text>Ни хрена себе.\nДа их там целое семейство!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_attack_shaiba_go_attack_2">
+		<text>Ну что, ребята,\nпостреляем отродье?</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_attack_shaiba_go_attack_3">
+		<text>Побежали!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_attack_shaiba_surge">
+		<text>Выброс!\nБежим к тоннелю, быстро!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_attack_shaiba_tonnel_final_1">
+		<text>Очнулся?\nНехило нас выбросом тряхануло.</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_attack_shaiba_tonnel_final_2">
+		<text>Откуда он только взялся?</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_attack_shaiba_tonnel_final_3">
+		<text>Нужно выбираться отсюда,\nа то и так столько ребят полегло.</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_scene_sounds_2">
+		<text>Помоги мне...</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_scene_sounds_3">
+		<text>Помоги!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_scene_sounds_4">
+		<text>Спаси!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_scene_sounds_5">
+		<text>Я здесь!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_scene_sounds_6">
+		<text>Я здесь!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_scene_sounds_7">
+		<text>Спаси...</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_scene_sounds_8">
+		<text>Помоги!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_1">
+		<text>Сталкер!</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_2">
+		<text>Эта плоть,\nона прикидывается раненым.</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_3">
+		<text>Я думал, тут кому-то нужна помощь.</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_4">
+		<text>Пошёл проверить, а тут их...</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_5">
+		<text>Она здесь не одна.\nТам, в низине за насыпью,</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_6">
+		<text>ещё...</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_7">
+		<text>сука, целое стадо.</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_8">
+		<text>Беги в деревню, расскажи нашим.</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_9">
+		<text>Сам видишь,\nсколько здесь уже трупов.</text>
+	</string>
+
+	<string id="st_esc_task_for_trailer_elevator_wounded_stalker_info_10">
+		<text>С этими тварями надо расправиться.</text>
+	</string>
+
+	<string id="st_esc_trailer_elevator_flesh_fake_sound">
+		<text>Помогите!</text>
+	</string>
+
+	<string id="st_esc_trailer_elevator_flesh_fake_sound_1">
+		<text>Эй, кто-нибудь! Кто-нибудь!</text>
+	</string>
+
+	<string id="st_esc_trailer_elevator_flesh_fake_sound_2">
+		<text>Спасите!</text>
+	</string>
+
+	<string id="st_esc_trailer_elevator_flesh_fake_sound_3">
+		<text>Сталкер, помоги!</text>
+	</string>
+
+	<string id="st_esc_trailer_elevator_flesh_fake_sound_4_cc">
+		<text>[крик от боли]</text>
+	</string>
+
+	<string id="st_esc_trailer_elevator_flesh_fake_sound_5">
+		<text>Люди! Помираю...</text>
+	</string>
+
+	<string id="st_esc_trader_third_trailer_phrase">
+		<text>Иди, не мозоль глаза!</text>
+	</string>
+
+	<string id="st_esc_trader_bad_trade_1">
+		<text>Ты бы ещё\nконсервных банок насобирал!</text>
+	</string>
+
+	<string id="st_esc_trader_bad_trade_2">
+		<text>Нафига ты эту дрянь тягаешь?</text>
+	</string>
+
+	<string id="st_esc_trader_bad_trade_3">
+		<text>Что за бодягу ты мне приволок?</text>
+	</string>
+
+	<string id="st_esc_trader_bad_trade_4">
+		<text>Братан, ты не врубаешься?\nМне нужен реальный товар!</text>
+	</string>
+
+	<string id="st_esc_trader_bye_1">
+		<text>Иди, не мозоль глаза!</text>
+	</string>
+
+	<string id="st_esc_trader_bye_2">
+		<text>Ну, удачной охоты, сталкер!</text>
+	</string>
+
+	<string id="st_esc_trader_good_trade_1">
+		<text>Неплохо. Хороший товар!</text>
+	</string>
+
+	<string id="st_esc_trader_good_trade_2">
+		<text>Хорошо. Ну, будет ещё — заходи.</text>
+	</string>
+
+	<string id="st_esc_trader_good_trade_3">
+		<text>Молодец. Я доволен.</text>
+	</string>
+
+	<string id="st_esc_trader_good_trade_4">
+		<text>Вот так бы всегда!</text>
+	</string>
+
+	<string id="st_esc_trader_greet_1">
+		<text>Ну, здорово!</text>
+	</string>
+
+	<string id="st_esc_trader_greet_2">
+		<text>Вернулся?</text>
+	</string>
+
+	<string id="st_esc_trader_greet_3">
+		<text>Хабар принёс?</text>
+	</string>
+
+	<string id="st_esc_trader_greet_4">
+		<text>Есть что-то стоящее?</text>
+	</string>
+
+	<string id="st_esc_trader_greet_5">
+		<text>Что притащил?</text>
+	</string>
+
+	<string id="st_esc_trader_greet_6">
+		<text>Как дела, сталкер?</text>
+	</string>
+
+	<string id="st_esc_village_bad_outfit_angry_village">
+		<text>Шёл бы ты отсюда прям щас, а?</text>
+	</string>
+
+	<string id="st_esc_atp_bandits_angry_1_1">
+		<text>Слышишь, мужик,\nты будешь тут шариться —</text>
+	</string>
+
+	<string id="st_esc_atp_bandits_angry_1_2">
+		<text>так завалим.\nЭто как два пальца.</text>
+	</string>
+
+	<string id="st_esc_atp_bandits_angry_2">
+		<text>Ты тупой? Вали давай!</text>
+	</string>
+
+	<string id="st_esc_atp_bandits_angry_3">
+		<text>Ну, сам напросился.\nПацаны, вали его!</text>
+	</string>
+
+	<string id="st_esc_atp_bandits_angry_4">
+		<text>Ну, сам напросился.\nПацаны, вали его!</text>
+	</string>
+
+	<string id="st_esc_colonel_koval_help_info_1">
+		<text>Журавлёв, я вижу, ты неподалеку от Свалки.</text>
+	</string>
+
+	<string id="st_esc_colonel_koval_help_info_2">
+		<text>Бросай всё и дуй по координатам, которые я тебе сейчас сброшу на КПК.</text>
+	</string>
+
+	<string id="st_esc_colonel_koval_help_info_3">
+		<text>Там наш учёный попал в передрягу с местными бандитами.</text>
+	</string>
+
+	<string id="st_esc_colonel_koval_help_info_4">
+		<text>При нём очень дорогое оборудование, так что надо выручать.</text>
+	</string>
+
+	<string id="st_esc_soldier_hero_comment_bridge_corp_1">
+		<text>Вот дерьмо.</text>
+	</string>
+
+	<string id="st_esc_soldier_hero_comment_bridge_corp_2">
+		<text>Кто же тебя так, брат-сталкер?</text>
+	</string>
+
+	<string id="st_esc_jurok_surge_go_hide_1">
+		<text>Топор, дружище, намечается выброс. Срочно найди укрытие.</text>
+	</string>	
+
+	<string id="st_esc_jurok_surge_go_hide_2">
+		<text>Друг, тут выброс намечается. Ищи укрытие, коли хочешь, чтоб жопа была цела.</text>
+	</string>	
+
+	<string id="st_esc_jurok_surge_go_hide_3">
+		<text>Топор, скоро выброс. Ищи укрытие, пока не рвануло.</text>
+	</string>
+
+	<string id="st_esc_army_base_vova_vist_hello_1">
+		<text>Здоров.</text>
+	</string>
+
+	<string id="st_esc_army_base_vova_vist_hello_2">
+		<text>Чего тебе?</text>
+	</string>
+
+	<string id="st_esc_army_base_vova_vist_hello_3">
+		<text>Ну? Я слушаю.</text>
+	</string>
+
+	<string id="st_esc_composer_task_soldier_angry_1_1">
+		<text>Ну что, сталкерское отребье, допрыгались?</text>
+	</string>
+
+	<string id="st_esc_composer_task_soldier_angry_1_2">
+		<text>За нарушение целостности периметра Зоны Отчуждения - расстрел на месте!</text>
+	</string>
+
+	<string id="st_esc_composer_task_soldier_angry_2_1">
+		<text>Вот-те на!</text>
+	</string>
+
+	<string id="st_esc_composer_task_soldier_angry_2_2">
+		<text>Ну, раз код...</text>
+	</string>
+
+	<string id="st_esc_composer_task_soldier_angry_2_3">
+		<text>Отвести их на КПП!</text>
+	</string>
+
+	<string id="st_esc_composer_task_bandit_savior_code_1">
+		<text>Это, слышь чё, командир!</text>
+	</string>
+
+	<string id="st_esc_composer_task_bandit_savior_code_2">
+		<text>Код: ДР К 00 78 4529.</text>
+	</string>
+
+	<string id="st_esc_composer_task_bandit_savior_code_3">
+		<text>Повторяю: не стреляй!</text>
+	</string>
+
+	<string id="st_esc_composer_task_bandit_savior_code_4">
+		<text>Код: ДР К 00 78 4529.</text>
+	</string>
+
+	<string id="st_esc_composer_task_scientist_radio_1_1">
+		<text>Туров, приём!</text>
+	</string>
+
+	<string id="st_esc_composer_task_scientist_radio_1_2">
+		<text>На связи Смышлов, слышишь меня?</text>
+	</string>
+
+	<string id="st_esc_composer_task_scientist_radio_2">
+		<text>Я скоро приду к тебе в гости!</text>
+	</string>
+
+	<string id="st_esc_composer_task_scientist_radio_3_1">
+		<text>Подготовь пока устройство.</text>
+	</string>
+
+	<string id="st_esc_composer_task_scientist_radio_3_2">
+		<text>Скоро будем, конец связи.</text>
+	</string>
+
+	<string id="st_esc_composer_task_scientist_boss_radio_1">
+		<text>Слышу тебя, Смышлов. Что тебе нужно?</text>
+	</string>
+	
+	<string id="st_esc_composer_task_scientist_boss_radio_2_1">
+		<text>Вот это да, наконец-то! Нам давно пора поговорить.</text>
+	</string>
+	
+	<string id="st_esc_composer_task_scientist_boss_radio_2_2">
+		<text>Только давай без сюрпризов - мои люди и так на взводе.</text>
+	</string>
+
+	<string id="st_esc_maddyson_and_vova_vist_fight_record_1">
+		<text>Ну, хотя бы сквозь этот камень он не пробивает практически... я их вижу...</text>
+	</string>
+
+	<string id="st_esc_maddyson_and_vova_vist_fight_record_2">
+		<text>Жалко, что его не убить всё равно один хер...</text>
+	</string>
+
+	<string id="st_esc_actor_fake_final_1">
+		<text>И вот я снова дома...</text>
+	</string>
+
+	<string id="st_esc_actor_fake_final_2">
+		<text>Чернобыльская Зона Отчуждения смотрит на меня из монитора компьютера.</text>
+	</string>
+
+	<string id="st_esc_actor_fake_final_3">
+		<text>А мой образ амбициозного сталкера по прозвищу Топор остался теперь только на фотографии...</text>
+	</string>
+
+	<string id="st_esc_actor_fake_final_4">
+		<text>После того как мы с проводником чуть не погибли под обстрелами военных, в моей голове что-то щёлкнуло...</text>
+	</string>
+
+	<string id="st_esc_actor_fake_final_5">
+		<text>И я вдруг понял, что жизнь для меня гораздо важнее, чем загадки Чернобыля.</text>
+	</string>
+
+	<string id="st_esc_actor_fake_final_6">
+		<text>Может, я и струсил, но зато нахожусь в тёплой комнате, а не в радиоактивной канаве...</text>
+	</string>
+
+	<string id="st_esc_sms_jurok_actor_comeback_pda_1">
+		<text>Так-так-так! Кто это у нас тут засветился?</text>
+	</string>
+
+	<string id="st_esc_sms_jurok_actor_comeback_pda_2">
+		<text>Здорова, Топор! Какими судьбами в наших краях?</text>
+	</string>
+
+	<string id="st_esc_sms_jurok_actor_comeback_pda_3">
+		<text>Заглядывай в деревню, поболтаем!</text>
+	</string>
+
+	<string id="st_esc_true_sidor_actor_angry_village_pda_1">
+		<text>Что у вас там происходит?</text>
+	</string>
+
+	<string id="st_esc_true_sidor_actor_angry_village_pda_2">
+		<text>Придурок, ты прибор учёных в деревню притащил? Мозгов совсем нет!</text>
+	</string>
+
+	<string id="st_esc_true_sidor_actor_comeback_pda_1">
+		<text>Здорова, Топор!</text>
+	</string>
+
+	<string id="st_esc_true_sidor_actor_comeback_pda_2">
+		<text>Ну что, не ожидал меня услышать? Хе-хе-хе...</text>
+	</string>	
+
+	<string id="st_esc_true_sidor_actor_comeback_pda_3">
+		<text>Значит, так. Если что, я на тебя не в обиде.</text>
+	</string>
+
+	<string id="st_esc_true_sidor_actor_comeback_pda_4">
+		<text>Если надо будет что-то прикупить или работу ищешь - </text>
+	</string>	
+
+	<string id="st_esc_true_sidor_actor_comeback_pda_5">
+		<text>заходи в бункер, потолкуем.</text>
+	</string>	
+
+	<string id="st_esc_true_sidor_actor_comeback_pda_6">
+		<text>Давай, до связи, салага.</text>
+	</string>	
+
 </string_table>

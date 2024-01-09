@@ -1,690 +1,920 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_mil_merc_leader_actor_relax_1">
-    <text>Р’СЃС‚Р°РІР°Р№, Р»РµРіР°РІС‹Р№.\nРЎРѕР±РёСЂР°Р№ СЃРІРѕРё РёР·РІРёР»РёРЅРєРё СЃ РїРѕР»Р°</text>
-  </string>
-  <string id="st_mil_merc_leader_actor_relax_2">
-    <text>Рё РґР°РІР°Р№ РїРѕР±РѕР»С‚Р°РµРј.</text>
-  </string>
-  <string id="st_mil_merc_leader_talk_with_actor_1">
-    <text>РџРѕС…РёС‚РёР»Рё?</text>
-  </string>
-  <string id="st_mil_merc_leader_talk_with_actor_1_cc">
-    <text>РџРѕС…РёС‚РёР»Рё? [СЃРјРµС…]</text>
-  </string>
-  <string id="st_mil_merc_leader_talk_with_actor_2">
-    <text>РћРЅ Р±РµР¶Р°Р» РѕС‚ РІР°СЃ СЃРѕ СЃРєРѕСЂРѕСЃС‚СЊСЋ СЃРІРµС‚Р°!</text>
-  </string>
-  <string id="st_mil_merc_leader_talk_with_actor_3">
-    <text>РР±Рѕ Р·РЅР°Р», С‡С‚Рѕ РЅРµР±Р»Р°РіРѕРґР°СЂРЅРѕРµ СЌС‚Рѕ РґРµР»Рѕ,\nРЅР° РїСЂР°РІРёС‚РµР»СЊСЃС‚РІРѕ СЂР°Р±РѕС‚Р°С‚СЊ.</text>
-  </string>
-  <string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_1_1">
-    <text>РџСЂР°РІРёР»СЊРЅСѓСЋ? РўС‹ Р¶Рµ СѓР±РёР№С†Р°!</text>
-  </string>
-  <string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_1_2">
-    <text>РўС‹ СѓР±РёР» Р»СЋРґРµР№ РІ СЌС‚РѕРј Р»Р°РіРµСЂРµ\nРё СЃС‚Р°Р»РєРµСЂР° РЅР° РљРѕСЂРґРѕРЅРµ.</text>
-  </string>
-  <string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_1_3">
-    <text>Р РїСЂРѕС„РµСЃСЃРѕСЂ, РІС‹ Р¶Рµ РїРѕС…РёС‚РёР»Рё РµРіРѕ?</text>
-  </string>
-  <string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_2">
-    <text>РљС‚Рѕ РІС‹ С‚Р°РєРёРµ?</text>
-  </string>
-  <string id="st_mil_mercs_corp_stalkers_hands_up">
-    <text>РџРѕРґРЅСЏС‚СЊ СЂСѓРєРё!\nР’С‹ РїРѕР№РґС‘С‚Рµ СЃ РЅР°РјРё!</text>
-  </string>
-  <string id="st_mil_mercs_corp_stalkers_threat">
-    <text>РЁР°Рі РІР»РµРІРѕ, С€Р°Рі РІРїСЂР°РІРѕ вЂ”\nСЂСѓРєСѓ РѕС‚СЂРµР¶Сѓ. РЈСЏСЃРЅРёР»Рё?</text>
-  </string>
-  <string id="st_mil_merc_leader_trolling_enemy">
-    <text>РљР°РєРѕР№ РіСЂРѕР·РЅС‹Р№ Р·РґРѕСЂРѕРІСЏРє!</text>
-  </string>
-  <string id="st_mil_merc_leader_trolling_enemy_cc">
-    <text>[СЃРјРµС…] РљР°РєРѕР№ РіСЂРѕР·РЅС‹Р№ Р·РґРѕСЂРѕРІСЏРє!</text>
-  </string>
-  <string id="st_mil_mercs_corp_stalkers_stfu">
-    <text>Р—Р°РјРѕР»РєРЅРё, Р° С‚Рѕ\nРїСЂСЏРјРѕ Р·РґРµСЃСЊ РїРѕСЂРµС€Р°РµРј.</text>
-  </string>
-  <string id="st_mil_mercs_base_merc_1_start_battle_1">
-    <text>Р•С‰С‘ РґРІРѕРёС… РїСЂРёРІРµР»Рё.\nР”СѓРјР°СЋ, РјРѕР¶РЅРѕ РЅР°С‡РёРЅР°С‚СЊ РІРµСЃРµР»СЊРµ.</text>
-  </string>
-  <string id="st_mil_mercs_base_merc_1_start_battle_2">
-    <text>Р’СЃС‘, РґР°РІР°Р№С‚Рµ РёС… РІ С‚РѕРЅРЅРµР»Рё.</text>
-  </string>
-  <string id="st_mil_soldier_sky_connect_after_katamomb_1">
-    <text>Р–СѓСЂР°РІР»С‘РІ, С‚С‹ РєСѓРґР° РїСЂРѕРїР°РґР°Р»? РљР°РєРѕРµ-С‚Рѕ РІСЂРµРјСЏ РѕС‚ С‚РµР±СЏ СЃРѕРІСЃРµРј РЅРµ Р±С‹Р»Рѕ СЃРёРіРЅР°Р»Р°.</text>
-  </string>
-  <string id="st_mil_soldier_sky_connect_after_katamomb_2_1">
-    <text>РџСЂРёРЅСЏР». РЈР¶Рµ РїР°РєСѓРµРј РІРµС‰Рё.</text>
-  </string>
-  <string id="st_mil_soldier_sky_connect_after_katamomb_2_2">
-    <text>РўРѕР»СЊРєРѕ РљРѕРІР°Р»СЏ РЅР° СЃРІСЏР·Рё РЅРµС‚.</text>
-  </string>
-  <string id="st_mil_actor_after_katakomb_connect_with_sky_1_1">
-    <text>Р”СѓРјР°СЋ, РЅР°СЃС‚Р°Р»Рѕ РІСЂРµРјСЏ\nРЅР°Рј РІСЃРµРј РІСЃС‚СЂРµС‚РёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_mil_actor_after_katakomb_connect_with_sky_1_2">
-    <text>РЎРѕР±РёСЂР°Р№ РѕС‚СЂСЏРґ Рё РґСѓР№С‚Рµ РІ РґРµСЂРµРІРЅСЋ\nС‚РѕСЂРіРѕРІС†Р° РЅР° РђСЂРјРµР№СЃРєРёС… СЃРєР»Р°РґР°С….</text>
-  </string>
-  <string id="st_mil_actor_after_katakomb_connect_with_sky_1_3">
-    <text>РўСѓС‚ РІСЃС‘ РѕР±СЃСѓРґРёРј.</text>
-  </string>
-  <string id="st_mil_actor_after_katakomb_connect_with_sky_2">
-    <text>РљРѕРІР°Р»СЊ РјС‘СЂС‚РІ.\nРџРѕРґСЂРѕР±РЅРѕСЃС‚Рё РїСЂРё РІСЃС‚СЂРµС‡Рµ.</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_actor_wake_up">
-    <text>Р­Р№, РєРѕРјР°РЅРґРёСЂ, РїСЂРѕСЃРЅРёСЃСЊ!</text>
-  </string>
-  <string id="st_mil_soldier_xottab_base_start_go">
-    <text>РќСѓ С‡С‚Рѕ, РїРѕРіРЅР°Р»Рё?</text>
-  </string>
-  <string id="st_mil_soldier_xottab_base_anomaly_1">
-    <text>РђРЅРѕРјР°Р»РёСЏ!</text>
-  </string>
-  <string id="st_mil_soldier_xottab_base_anomaly_2">
-    <text>Р—РґРµСЃСЊ РЅР°Рј РЅРµ Р·Р°Р±СЂР°С‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_mil_soldier_xottab_base_see_phantoms_1">
-    <text>Рђ Р±Р°Р·Р° С‚РѕС‡РЅРѕ Р·Р°Р±СЂРѕС€РµРЅРЅР°СЏ?</text>
-  </string>
-  <string id="st_mil_soldier_xottab_base_see_phantoms_2">
-    <text>РўР°Рј РїСЂРѕР¶РµРєС‚РѕСЂР° РіРѕСЂСЏС‚, РїР°С‚СЂСѓР»СЊРЅС‹Рµ С…РѕРґСЏС‚...</text>
-  </string>
-  <string id="st_mil_soldier_xottab_base_angry_1">
-    <text>РћРїСЏС‚СЊ РЅРµС‡РёСЃС‚РѕРµ С‡С‚Рѕ-С‚Рѕ.</text>
-  </string>
-  <string id="st_mil_soldier_xottab_base_angry_2">
-    <text>РњР°С‚СЊ РІР°С€Сѓ!</text>
-  </string>
-  <string id="st_mil_soldier_xottab_base_go_back_1">
-    <text>РўРІРѕСЋ РґРёРІРёР·РёСЋ. Р’С‹ Р·Р°РєРѕРЅС‡РёР»Рё?</text>
-  </string>
-  <string id="st_mil_soldier_xottab_base_go_back_2">
-    <text>РњРѕР¶РµС‚, СѓР¶Рµ РґС‘СЂСѓ РґР°РґРёРј РѕС‚СЃСЋРґР°?!</text>
-  </string>
-  <string id="st_mil_soldier_xottab_base_scary">
-    <text>Р–СѓС‚РєРѕРІР°С‚РѕРµ РјРµСЃС‚Рѕ.</text>
-  </string>
-  <string id="st_mil_soldier_xottab_actor_good_luck">
-    <text>РЈРґР°С‡Рё, РєРѕРјР°РЅРґРёСЂ. РќРё РїСѓС…Р°!</text>
-  </string>
-  <string id="st_mil_actor_base_talk_with_xottab_reaction_1">
-    <text>РљР°Р¶РµС‚СЃСЏ, С‚РѕСЂРіРѕРІРµС† СЌС‚Рѕ Рё РёРјРµР» РІ РІРёРґСѓ,\nРєРѕРіРґР° РіРѕРІРѕСЂРёР» РїСЂРѕ С„Р°РЅС‚РѕРјРѕРІ.</text>
-  </string>
-  <string id="st_mil_actor_base_talk_with_xottab_reaction_2">
-    <text>Р’С‹Р±РѕСЂР° Сѓ РЅР°СЃ РЅРµС‚.</text>
-  </string>
-  <string id="st_mil_actor_base_talk_with_xottab_reaction_3">
-    <text>РќР°РґРѕ РґРІРёРіР°С‚СЊСЃСЏ РґР°Р»СЊС€Рµ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_alarm_start">
-    <text>РўСЂРµРІРѕРіР°! Р—РґРµСЃСЊ РІСЂР°Рі!</text>
-  </string>
-  <string id="st_mil_army_base_soldier_boss_car_talk_1">
-    <text>РќСѓ С‡С‚Рѕ С‚Р°Рј? Р—Р°РІС‘Р»?</text>
-  </string>
-  <string id="st_mil_army_base_soldier_boss_car_talk_2_1">
-    <text>РЇ Р¶ С‚РµР±Рµ РіРѕРІРѕСЂРёР»,\nС‡С‚РѕР± РјР°С€РёРЅР° РЅР° С…РѕРґСѓ Р±С‹Р»Р°.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_boss_car_talk_2_2">
-    <text>РЇ РїРµС€РєРѕРј РґРѕ Р”РёС‚СЏС‚РѕРє\nРїР»РµСЃС‚РёСЃСЊ РЅРµ СЃРѕР±РёСЂР°СЋСЃСЊ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_boss_car_talk_2_3">
-    <text>РљР°Рє С…РѕС‡РµС€СЊ, РЅРѕ Р·Р°РІРѕРґРё!</text>
-  </string>
-  <string id="st_mil_army_base_soldier_car_talk">
-    <text>РќРµ РїРѕР»СѓС‡Р°РµС‚СЃСЏ, С‚РѕРІР°СЂРёС‰ РјР°Р№РѕСЂ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_fusillade_start_1">
-    <text>Р—Р° РїСЂРѕРґР°Р¶Сѓ Р±РѕРµРїСЂРёРїР°СЃРѕРІ\nРЅР°С€РµРјСѓ РІСЂР°РіСѓ</text>
-  </string>
-  <string id="st_mil_army_base_soldier_fusillade_start_2">
-    <text>РІС‹ РїСЂРёРіРѕРІР°СЂРёРІР°РµС‚РµСЃСЊ\nРє СЂР°СЃСЃС‚СЂРµР»Сѓ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_fusillade_start_3">
-    <text>Р›РµР№С‚РµРЅР°РЅС‚, РїСЂРёРІРµСЃС‚Рё РїСЂРёРіРѕРІРѕСЂ\nРІ РёСЃРїРѕР»РЅРµРЅРёРµ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_post_angry_1">
-    <text>Р СЏРґРѕРІРѕР№ РС‰СѓРє, РЅРµ СЃРїР°С‚СЊ!</text>
-  </string>
-  <string id="st_mil_army_base_soldier_post_angry_2">
-    <text>Рђ С‚Рѕ СЃРµР№С‡Р°СЃ Р·Р°СЃС‚Р°РІР»СЋ\nРєСЂСѓРіРё РІРѕРєСЂСѓРі Р±Р°Р·С‹ РЅР°СЏСЂРёРІР°С‚СЊ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_post_angry_3">
-    <text>Р’ СЂР°Р· РІРµСЃСЊ СЃРѕРЅ РѕС‚РѕР±СЊС‘С‚.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_radar_talk_1">
-    <text>Р’С‹РґРІРёРіР°РµРјСЃСЏ\nРє Р°РЅС‚РµРЅРЅР°Рј Р·Р°РІС‚СЂР°.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_radar_talk_2">
-    <text>Р’СЃРµРј РїСЂРёРєР°Р·: РїСЂРёРІРµСЃС‚Рё\nРІ РїРѕСЂСЏРґРѕРє РѕСЂСѓР¶РёРµ, РІС‹СЃРїР°С‚СЊСЃСЏ</text>
-  </string>
-  <string id="st_mil_army_base_soldier_radar_talk_3">
-    <text>Рё Р·Р°РІС‚СЂР° РєР°Рє С€С‚С‹Рє РІ С‡РµС‚С‹СЂРµ СѓС‚СЂР°\nР±С‹С‚СЊ РЅР° РїРѕСЃС‚СЂРѕРµРЅРёРё.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_radar_talk_4">
-    <text>РљС‚Рѕ Р±С‹ С‚Р°Рј РЅРё Р±С‹Р»,\nРёС… РЅСѓР¶РЅРѕ РѕС‚С‚СѓРґР° РІС‹Р±РёС‚СЊ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_radar_talk_5">
-    <text>Рђ С‚Рѕ РІРѕР·РѕРјРЅРёР»Рё Рѕ СЃРµР±Рµ,\nРїРѕРЅРёРјР°РµС€СЊ, С…РѕР·СЏРµРІ Р—РѕРЅС‹.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_radar_talk_6">
-    <text>РњС‹-С‚Рѕ РёРј РїРѕРєР°Р¶РµРј, РєС‚Рѕ С‚СѓС‚ С…РѕР·СЏРёРЅ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_1_talk_1_1">
-    <text>Р‘Р»РёРЅ, Р·Р°С‡РµРј СЏ С‚РѕР»СЊРєРѕ\nСЃСЋРґР° РїСЂРёРµС…Р°Р»? Р—Р° РґРµРЅСЊРіР°РјРё?</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_1_talk_1_2">
-    <text>Р”Р° РЅР°С„РёРіР° РїРѕРєРѕР№РЅРёРєСѓ РґРµРЅСЊРіРё-С‚Рѕ?</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_1_talk_2_1">
-    <text>РўСЂРё РјРµСЃСЏС†Р°...\nР”Р° С‚С‹ РїСЂРѕР¶РёРІРё СЌС‚Рё С‚СЂРё РјРµСЃСЏС†Р° РµС‰С‘.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_1_talk_2_2">
-    <text>РР· РЅР°С€РµРіРѕ СЃРѕСЃС‚Р°РІР°\nСЃРєРѕР»СЊРєРѕ РѕСЃС‚Р°Р»РѕСЃСЊ? РџСЏС‚РµСЂРѕ?</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_1_talk_2_3">
-    <text>Рђ СЃСЋРґР° РЅР°СЃ Р°РІС‚РѕР±СѓСЃР°РјРё СЃРІРѕР·РёР»Рё.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_1_talk_2_4">
-    <text>Р‘РµР¶Р°С‚СЊ РЅР°РґРѕ.\nР‘РµР¶Р°С‚СЊ Рё РЅРµ РѕРіР»СЏРґС‹РІР°С‚СЊСЃСЏ РґР°Р¶Рµ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_2_talk_1">
-    <text>РЈСЃРїРѕРєРѕР№СЃСЏ!</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_2_talk_2">
-    <text>Р•С‰С‘ С‚СЂРё РјРµСЃСЏС†Р° Рё РґРѕРјРѕР№.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_2_talk_3">
-    <text>РўР°Рј РЅРё СЂР°РґРёР°С†РёРё\nСЌС‚РѕР№ РїСЂРѕРєР»СЏС‚РѕР№ РЅРµС‚,</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_2_talk_4">
-    <text>РЅРё Р°РЅРѕРјР°Р»РёР№.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_sad_2_talk_5">
-    <text>РџРѕС‚РµСЂРїРё.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_tower_song_1">
-    <text>РЇ Р±РµР· С‚РµР±СЏ РїСЂРѕРґРѕР»Р¶Сѓ РїСѓС‚СЊ,</text>
-  </string>
-  <string id="st_mil_army_base_soldier_tower_song_2">
-    <text>СЃРєРѕР»СЊ РѕС‚РІРµР»Р° СЃСѓРґСЊР±Р° вЂ” РЅРµ Р·РЅР°СЋ...</text>
-  </string>
-  <string id="st_mil_army_base_soldier_tower_song_3">
-    <text>РЇ С‚Р°Рє С…РѕС‡Сѓ С‚РµР±СЏ РІРµСЂРЅСѓС‚СЊ,</text>
-  </string>
-  <string id="st_mil_army_base_soldier_tower_song_4">
-    <text>РЅРѕ РЅРµ РІРѕР·РјРѕР¶РЅРѕ вЂ” РїРѕРЅРёРјР°СЋ...</text>
-  </string>
-  <string id="st_mil_army_base_soldier_tower_song_final_cc">
-    <text>[РЅР°РїРµРІР°РµС‚]</text>
-  </string>
-  <string id="st_phantom">
-    <text>Р¤Р°РЅС‚РѕРј</text>
-  </string>
-  <string id="st_mil_army_base_soldier_fusillade_corp_begs">
-    <text>РўРѕРІР°СЂРёС‰ Р»РµР№С‚РµРЅР°РЅС‚, РїСЂРѕС€Сѓ, РЅРµ РЅР°РґРѕ!</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_actor_wake_up_compl">
-    <text>Р‘С‹СЃС‚СЂРѕ С‚С‹ СЂРµР°РіРёСЂРѕРІР°Р»!</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_actor_wake_up_compl_cc">
-    <text>Р‘С‹СЃС‚СЂРѕ С‚С‹ СЂРµР°РіРёСЂРѕРІР°Р»! [СЃРјРµС…]</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_sky_bad_connect_1">
-    <text>РЎРєР°Р№, Сѓ С‚РµР±СЏ РІСЃС‘ РІ РїРѕСЂСЏРґРєРµ?</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_sky_bad_connect_2">
-    <text>РЎРєР°Р№, РїСЂРёС‘Рј! Р§С‚Рѕ СЃР»СѓС‡РёР»РѕСЃСЊ?</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_sky_bad_connect_3">
-    <text>РџСЂРёС‘Рј! РћС‚РІРµС‚СЊ, РЎРєР°Р№!</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_go_quickly">
-    <text>Р”Р°РІР°Р№С‚Рµ РїРѕ-Р±С‹СЃС‚СЂРѕРјСѓ РїСЂРѕР»РµС‚РёРј СЌС‚Рѕ РјРµСЃС‚Рѕ. Р—РґРµСЃСЊ СЃР»РёС€РєРѕРј Р¶СѓС‚РєРѕ.</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_phantoms_ignore">
-    <text>РџРѕС‡РµРјСѓ РѕРЅРё РЅР° РЅР°СЃ РЅРµ СЂРµР°РіРёСЂСѓСЋС‚? РЈ РјРµРЅСЏ РјСѓСЂР°С€РєРё РѕС‚ СЌС‚РѕРіРѕ РјРµСЃС‚Р°!</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_actor_dist_1">
-    <text>РљРѕРјР°РЅРґРёСЂ, РЅРµ СЂР°Р·Р±РµРіР°РµРјСЃСЏ!</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_actor_dist_2">
-    <text>Р­Р№, РґР°РІР°Р№ РїРѕР±Р»РёР¶Рµ Рє РЅР°Рј!</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_actor_dist_3">
-    <text>РўС‹ РіРґРµ С‚Р°Рј РїРѕС‚РµСЂСЏР»СЃСЏ? Р”Р°РІР°Р№ СЃСЋРґР°!</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_army_base_compl">
-    <text>Р§С‚Рѕ-С‚Рѕ СЏ РЅРµ РґРѕРІРµСЂСЏСЋ СЌС‚РёРј РєСЂР°СЏРј. РќСѓР¶РЅРѕ Р·Р°РєР°РЅС‡РёРІР°С‚СЊ СЃ Р·Р°РґР°РЅРёРµРј Рё РІРѕР·РІСЂР°С‰Р°С‚СЊСЃСЏ РЅР° В«РђРіСЂРѕРїСЂРѕРјВ».</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_army_base_panic">
-    <text>РўРІРѕСЋ РјР°С‚СЊ... Р§С‚Рѕ Р·Р° С‡С‘СЂС‚?!</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_base_scary">
-    <text>Р”СЂСѓР¶РёС‰Рµ, Р±СѓРґСЊ РѕСЃС‚РѕСЂРѕР¶РЅРµРµ! РњРµРЅСЏ РѕС‚ СЌС‚РѕР№ Р±Р°Р·С‹ РґРѕ СЃРёС… РїРѕСЂ РІ РґСЂРѕР¶СЊ Р±СЂРѕСЃР°РµС‚!</text>
-  </string>
-  <string id="st_mil_soldier_sky_get_signals">
-    <text>Р•СЃС‚СЊ РЅРµСЃРєРѕР»СЊРєРѕ РјРѕС‰РЅС‹С… РёСЃС‚РѕС‡РЅРёРєРѕРІ СЃРёРіРЅР°Р»Р°. РЎРїСѓСЃРєР°Р№СЃСЏ, РїСЂРѕРіСѓР»СЏРµРјСЃСЏ РёС… РїСЂРѕРІРµСЂРёС‚СЊ.</text>
-  </string>
-  <string id="st_mil_soldier_sky_connection_compl">
-    <text>РџРѕС€Р»Р° РІРѕРґР° РіРѕСЂСЏС‡Р°СЏ, СЂР°Р±РѕС‚Р°РµС‚!</text>
-  </string>
-  <string id="st_mil_stalker_technic_actor_ladders_compl_1">
-    <text>РЎРїР°СЃРёР±Рѕ, РјСѓР¶РёРє.</text>
-  </string>
-  <string id="st_mil_stalker_technic_actor_ladders_compl_2">
-    <text>РЎРµР№С‡Р°СЃ РїСЂРѕРІРµСЂРёРј РѕРґРЅРѕ РјРµСЃС‚Рѕ,</text>
-  </string>
-  <string id="st_mil_stalker_technic_actor_ladders_compl_3">
-    <text>Рё СЏ Р±СѓРґСѓ РіРѕС‚РѕРІ РѕС‚РІРµС‚РёС‚СЊ\nРЅР° Р»СЋР±С‹Рµ С‚РІРѕРё РІРѕРїСЂРѕСЃС‹.</text>
-  </string>
-  <string id="st_mil_stalker_technic_actor_ladders_info_1">
-    <text>Р’ СЌС‚РѕР№ РґРµСЂРµРІРЅРµ\nРµСЃС‚СЊ РЅРµСЃРєРѕР»СЊРєРѕ Р»РµСЃС‚РЅРёС†.</text>
-  </string>
-  <string id="st_mil_stalker_technic_actor_ladders_info_2">
-    <text>Р‘СѓРґСЊ С‚Р°Рє РґРѕР±СЂ, РїСЂРёРЅРµСЃРё СЃСЋРґР° РѕРґРЅСѓ</text>
-  </string>
-  <string id="st_mil_stalker_technic_actor_ladders_info_3">
-    <text>Рё РІС‹С‚Р°С‰Рё РјРµРЅСЏ РѕС‚СЃСЋРґР°.</text>
-  </string>
-  <string id="st_mil_stalker_technic_bye_1">
-    <text>РќСѓ РґР°РІР°Р№.\nР—Р°РіР»СЏРґС‹РІР°Р№, РµСЃР»Рё С‡С‚Рѕ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_bye_2">
-    <text>РќСѓ, Р±С‹РІР°Р№, РґСЂСѓР¶РёС‰Рµ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_bye_3">
-    <text>РќСѓ, РєР°Рє РіРѕРІРѕСЂРёС‚СЃСЏ: РїРѕРїСѓС‚РЅРѕРіРѕ РІРµС‚СЂР° РІ...\nР’ РѕР±С‰РµРј, РґСЂСѓР¶РёС‰Рµ, РµСЃР»Рё РїСЂРёСЃРїРёС‡РёС‚ вЂ” Р·Р°С…РѕРґРё.</text>
-  </string>
-  <string id="st_mil_stalker_technic_final_thanx_1">
-    <text>РќСѓ, РЅРё РїСѓС…Р° С‚РµР±Рµ, Р±СЂР°С‚РёС€РєР°.</text>
-  </string>
-  <string id="st_mil_stalker_technic_final_thanx_2">
-    <text>Р РµС‰С‘ СЂР°Р· СЃРїР°СЃРёР±Рѕ. Р’С‹СЂСѓС‡РёР» С‚С‹ РјРµРЅСЏ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_hello_1">
-    <text>Р—РґРѕСЂРѕРІРѕ. Р Р°Рґ С‚РµР±СЏ РІРёРґРµС‚СЊ!</text>
-  </string>
-  <string id="st_mil_stalker_technic_hello_2">
-    <text>РќСѓ, РїСЂРёРІРµС‚СЃС‚РІСѓСЋ.\nР”Р°РІР°Р№ РїРѕРєР°Р·С‹РІР°Р№, С‡С‚Рѕ Сѓ С‚РµР±СЏ С‚Р°Рј.</text>
-  </string>
-  <string id="st_mil_stalker_technic_hello_3">
-    <text>Р’Р°Р»СЏР№, РјСѓР¶РёРє. РЎР»СѓС€Р°СЋ С‚РµР±СЏ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_need_help_1">
-    <text>РќР°СЂРѕРґ, РµСЃС‚СЊ РєС‚Рѕ Р¶РёРІРѕР№?\nРџРѕРјРѕРіРёС‚Рµ РјРЅРµ!</text>
-  </string>
-  <string id="st_mil_stalker_technic_need_help_2">
-    <text>РўРІРѕСЋ РјР°С‚СЊ.\nРќРµСѓР¶РµР»Рё РјРЅРµ РіРЅРёС‚СЊ РІ СЌС‚РѕРј РїРѕРґРІР°Р»Рµ?</text>
-  </string>
-  <string id="st_mil_stalker_technic_need_help_3">
-    <text>Р­Р№! Р›СЋРґРё! Р•СЃС‚СЊ РєС‚Рѕ Р¶РёРІРѕР№?</text>
-  </string>
-  <string id="st_mil_stalker_technic_wait_actor_ladder_1">
-    <text>РќСѓ РіРґРµ С‚С‹ С‚Р°Рј РїРѕС‚РµСЂСЏР»СЃСЏ?</text>
-  </string>
-  <string id="st_mil_stalker_technic_wait_actor_ladder_2">
-    <text>Р”СЂСѓРі, СЏ С‚СѓС‚ РґРѕР»РіРѕ\nРЅРµ РІС‹СЃРёР¶Сѓ. РџРѕРјРѕРіРё РјРЅРµ!</text>
-  </string>
-  <string id="st_mil_stalker_technic_wait_actor_ladder_3">
-    <text>РњСѓР¶РёРє, С‚Р°С‰Рё СЃСЋРґР° Р»РµСЃС‚РЅРёС†Сѓ.\nРњРЅРµ СѓР¶Рµ РЅРµ РїРѕ СЃРµР±Рµ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_wait_actor_ladder_4">
-    <text>Р­Р№! РњСѓР¶РёРє! РџРѕРјРѕРіРё РјРЅРµ!</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_warehouse_compl">
-    <text>Р’СЂРѕРґРµ РІСЃС‘. РќРµ РіСѓСЃС‚Рѕ, РєРѕРЅРµС‡РЅРѕ, РЅРѕ РЅРµСЃРєРѕР»СЊРєРѕ С†РµРЅРЅРѕСЃС‚РµР№ РЅР°С€С‘Р».</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_warehouse_info">
-    <text>РЎРєР»Р°Рґ РЅР°С…РѕРґРёС‚СЃСЏ РіРґРµ-С‚Рѕ С‚Р°Рј.</text>
-  </string>
-  <string id="st_mil_soldier_sky_fanatics_reaction">
-    <text>РРЅС‚РµСЂРµСЃРЅРѕ, РєР°Рє СЌС‚Рѕ СЃРµРєС‚Р°РЅС‚С‹ РїСЂРѕСЃРєРѕС‡РёР»Рё РјРёРјРѕ Р±Р°СЂСЊРµСЂР°?</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_start">
-    <text>Р–СѓС‚РєРѕРІР°С‚Рѕ СЃС‚Р°РЅРѕРІРёС‚СЃСЏ, РїСЂР°РІРґР°?</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_long_dist_1">
-    <text>РњСѓР¶РёРє, РґР°РІР°Р№ РґРµСЂР¶Р°С‚СЊСЃСЏ РІРјРµСЃС‚Рµ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_long_dist_2">
-    <text>Р­Р№, СЃС‚Р°Р»РєРµСЂ, С‚С‹ Р±С‹ РґР°Р»РµРєРѕ РЅРµ РѕС‚С…РѕРґРёР».</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_long_dist_3">
-    <text>РњСѓР¶РёРє, РЅРµ РѕС‚С…РѕРґРё РґР°Р»РµРєРѕ. Р”Р°РІР°Р№ РґРµСЂР¶Р°С‚СЊСЃСЏ РІРјРµСЃС‚Рµ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_village_artefact_found">
-    <text>РњСѓР¶РёРє, С‚С‹ РІРёРґРёС€СЊ СЌС‚Рѕ? РќСѓ Рё РЅР°С…РѕРґРєР°.</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_unknowns_reaction_1">
-    <text>РўРІРѕСЋ РјР°С‚СЊ, Р° СЌС‚Рѕ РµС‰С‘ РєС‚Рѕ С‚Р°РєРёРµ?</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_unknowns_reaction_2">
-    <text>РќРµ РЅСЂР°РІРёС‚СЃСЏ РјРЅРµ РІСЃС‘ СЌС‚Рѕ. Р’Р°Р»РёС‚СЊ РЅР°РґРѕ РЅР° С…СЂРµРЅ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_drop_vodka_start">
-    <text>РЎР»СѓС€Р°Р№, Р° РїРѕРїСЂРѕР±СѓР№-РєР° РµРјСѓ Р±СѓС‚С‹Р»РєСѓ РєРёРЅСѓС‚СЊ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_drop_vodka_wait_1">
-    <text>РќРµ С‚РѕСЂРјРѕР·Рё. Р‘СЂРѕСЃСЊ РµРјСѓ РїСѓР·С‹СЂСЊ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_drop_vodka_wait_2">
-    <text>РўС‹ С‚СѓС‚ РґРѕ РІС‚РѕСЂРѕРіРѕ РїСЂРёС…РѕРґР° С‚РѕСЂС‡Р°С‚СЊ СЃРѕР±СЂР°Р»СЃСЏ? Р”СЂСѓРі, Р±СЂРѕСЃСЊ РµРјСѓ РІС‹РїРёРІРєСѓ!</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_door_open">
-    <text>РўС‹ РіР»СЏРґРё-РєР°, Р° РґРІРµСЂСЊ-С‚Рѕ РѕС‚РєСЂС‹Р»Р°СЃСЊ. Рђ РЅСѓ Р·Р°Р»РµС‚Р°Р№!</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_drop_vodka_none">
-    <text>Р•СЃР»Рё РЅРµС‚ РїСѓР·С‹СЂСЏ, С‚Рѕ РїРѕРґРѕР№РґРё СЃСЋРґР°: Сѓ РјРµРЅСЏ СЌС‚Рѕ РґРµР»Рѕ РІСЃРµРіРґР° РёРјРµРµС‚СЃСЏ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_drop_vodka_none_wait_1_1">
-    <text>Р”СЂСѓРі, РїРѕРґРѕР№РґРё, Сѓ РјРµРЅСЏ РµСЃС‚СЊ РІС‹РїРёРІРєР°.</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_drop_vodka_none_wait_1_2">
-    <text>Р”Р°С€СЊ СЌС‚РѕРјСѓ РєР»Р°РґРѕРІС‰РёРєСѓ. РЎР°Рј СЏ РЅРµ СЃРјРѕРіСѓ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_drop_vodka_none_wait_2">
-    <text>Р’РѕР·СЊРјРё РµРіРѕ РІРѕРґРєСѓ, РґР°Р№ РµРјСѓ РІС‹РїРёС‚СЊ. РњРЅРµ СЃС‚СЂС‘РјРЅРѕ СЃР°РјРѕРјСѓ РїРѕРґРѕР№С‚Рё.</text>
-  </string>
-  <string id="st_mil_stalker_technic_army_base_door_close">
-    <text>РўРІРѕСЋ РјР°С‚СЊ, РїСЂРёРµС…Р°Р»Рё. Рђ РґР°Р»СЊС€Рµ-С‚Рѕ С‡С‚Рѕ РґРµР»Р°С‚СЊ?</text>
-  </string>
-  <string id="st_mil_stalker_technic_village_bloodsuckers_reaction">
-    <text>РќСѓ Рё СЂР°Р·РІРµР»РѕСЃСЊ С‚РІР°СЂРµР№ РІСЃСЏРєРёС…. Р–СѓС‚СЊ-С‚Рѕ РєР°РєР°СЏ.</text>
-  </string>
-  <string id="st_mil_stalker_technic_village_electro_artefact_start">
-    <text>РўР°Рє... РќСѓ, СЃРµР№С‡Р°СЃ РіР»СЏРЅРµРј, С‡С‚Рѕ Сѓ РЅР°СЃ С‚СѓС‚.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_angry_1">
-    <text>РўР°Рє, С‡РµРіРѕ РїСЂРёРїС‘СЂСЃСЏ?</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_angry_2">
-    <text>РџСЂРёРїР°СЃС‹?</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_angry_3">
-    <text>Рђ РїСЂРёРєР°Р· РѕС‚ РїРѕР»РєРѕРІРЅРёРєР° РіРґРµ?</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_angry_4">
-    <text>РќРёС‡РµРіРѕ С‚С‹ РЅРµ РїРѕР»СѓС‡РёС€СЊ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_angry_5">
-    <text>Рђ РµСЃР»Рё С‚Р°Рє С…РѕС‡РµС€СЊ,\nРјРѕР¶РµРј РґРѕРіРѕРІРѕСЂРёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_angry_6">
-    <text>Р’СЃРµ Р¶Рµ РјС‹ Р»СЋРґРё, РІРµСЂРЅРѕ?</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_want_vodka_1">
-    <text>РљР°Рє Р¶Рµ Р±Р°С€РєР°-С‚Рѕ Р±РѕР»РёС‚.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_want_vodka_2">
-    <text>РЎРµР№С‡Р°СЃ Р±С‹ РїРѕС…РјРµР»РёС‚СЊСЃСЏ... </text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_want_vodka_3_cc">
-    <text>[СЃС‚РѕРЅ]</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_wait_vodka_1">
-    <text>Р’С‹РїРёРІРєРё Р±С‹ РєР°РєРѕР№-РЅРёР±СѓРґСЊ СЃРµР№С‡Р°СЃ...</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_wait_vodka_2">
-    <text>РњР°С‚СЊ РІР°С€Сѓ, СѓР¶Рµ РІСЃС‘ РіРѕСЂР»Рѕ РїРµСЂРµСЃРѕС…Р»Рѕ.\nРЎРїРёСЂС‚СЏР¶РєРё Р±С‹ СЃСЋРґР°!</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_wait_vodka_3">
-    <text>Р”Р° СѓР¶...\nРђ РїРѕС…РјРµР»РёС‚СЊСЃСЏ-С‚Рѕ РЅРµС‡РµРј.</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_wait_vodka_4">
-    <text>Р’РѕС‚ Р¶Рµ РґСЂСЏРЅСЊ.\nРћРїСЏС‚СЊ РІС‹РїРёС‚СЊ РЅРµС‡РµРіРѕ! Р­С…...</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_wait_vodka_5">
-    <text>Р‘СѓС‚С‹Р»РѕС‡РєСѓ Р±С‹, РґР° РїРѕРґ Р·Р°РєСѓСЃРѕС‡РєСѓ.\nР’РѕС‚ СЂР°РґРѕСЃС‚СЊ Р±С‹ Р±С‹Р»Р°!</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_drunk_start_1">
-    <text>РќР°РєРѕРЅРµС†-С‚Рѕ!</text>
-  </string>
-  <string id="st_mil_army_base_soldier_warehouse_drunk_start_2_cc">
-    <text>[РІС‹РґРѕС…]</text>
-  </string>
-  <string id="st_mil_actor_talk_with_sky_psy_helm_compl">
-    <text>РћС‚СЂСЏРґ, РґРІРёРіР°Р№С‚Рµ Рє РёСЃС‚РѕС‡РЅРёРєСѓ!</text>
-  </string>
-  <string id="st_mil_soldier_sky_primary_info_1">
-    <text>Р–СѓСЂР°РІР»С‘РІ, РїСЂРёС‘Рј!</text>
-  </string>
-  <string id="st_mil_soldier_sky_primary_info_2">
-    <text>РЇ С‚РѕР»СЊРєРѕ С‡С‚Рѕ РїРµСЂРµС…РІР°С‚РёР» РѕР±СЂС‹РІРєРё РїРµСЂРµРіРѕРІРѕСЂРѕРІ СЃ С‚РѕРіРѕ СЃРёРіРЅР°Р»Р° Сѓ РІРµСЂС‚РѕР»С‘С‚Р°.</text>
-  </string>
-  <string id="st_mil_soldier_sky_primary_info_3">
-    <text>Р’РµСЃСЊ СЂР°Р·РіРѕРІРѕСЂ, Рє СЃРѕР¶Р°Р»РµРЅРёСЋ, СЏ РЅРµ СѓСЃР»С‹С€Р°Р», РЅРѕ РµСЃР»Рё РІРєСЂР°С‚С†Рµ:</text>
-  </string>
-  <string id="st_mil_soldier_sky_primary_info_4">
-    <text>РѕРЅРё РІ РєСѓСЂСЃРµ, С‡С‚Рѕ РјС‹ СѓР¶Рµ СЂСЏРґРѕРј, Рё СЃРїРµС€РЅРѕ СЃРјР°С‚С‹РІР°СЋС‚ СѓРґРѕС‡РєРё.</text>
-  </string>
-  <string id="st_mil_soldier_sky_primary_info_5">
-    <text>РЈ РЅР°СЃ РѕС‡РµРЅСЊ РјР°Р»Рѕ РІСЂРµРјРµРЅРё, РµСЃР»Рё РјС‹ С…РѕС‚РёРј РёС… РїРµСЂРµС…РІР°С‚РёС‚СЊ.</text>
-  </string>
-  <string id="st_mil_soldier_sky_actor_command_compl">
-    <text>РџСЂРёРЅСЏР». Р’С‹РґРІРёРіР°РµРјСЃСЏ!</text>
-  </string>
-  <string id="st_mil_soldier_sky_take_positions">
-    <text>РўР°Рє, РґР°РІР°Р№С‚Рµ Р·Р°Р№РјС‘Рј СѓРґРѕР±РЅС‹Рµ РїРѕР·РёС†РёРё\nРё Р±СѓРґРµРј РєРѕРЅС‚СЂРѕР»РёСЂРѕРІР°С‚СЊ РІС…РѕРґ.</text>
-  </string>
-  <string id="st_mil_actor_heli_final_phrase">
-    <text>Рљ С‡С‘СЂС‚Сѓ!</text>
-  </string>
-  <string id="st_mil_soldier_sky_device_broken_1_1">
-    <text>Р§С‘СЂС‚... Р° РІРѕС‚ СЌС‚Рѕ СЃРѕРІСЃРµРј РЅРµ РІРѕРІСЂРµРјСЏ.</text>
-  </string>
-  <string id="st_mil_soldier_sky_device_broken_1_2">
-    <text>РќР°С€Рµ РїРµСЂРµС…РІР°С‚С‹РІР°СЋС‰РµРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ\nРІС‹С€Р»Рѕ РёР· СЃС‚СЂРѕСЏ!</text>
-  </string>
-  <string id="st_mil_soldier_sky_device_broken_1_3">
-    <text>Р§С‘СЂС‚ РµРіРѕ Р·РЅР°РµС‚, С‡С‚Рѕ СЃ РЅРёРј!</text>
-  </string>
-  <string id="st_mil_soldier_sky_device_broken_2_1">
-    <text>Р РµР±СЏС‚Р°, РѕСЃС‚Р°РІР°Р№С‚РµСЃСЊ Р·РґРµСЃСЊ\nРё РєРѕРЅС‚СЂРѕР»РёСЂСѓР№С‚Рµ РІС…РѕРґ. РЇ РїСЂРѕРІРµСЂСЋ.</text>
-  </string>
-  <string id="st_mil_soldier_sky_device_broken_2_2">
-    <text>Р‘РµР· С‚Р°РєРѕРіРѕ РєРѕР·С‹СЂСЏ РІ СЂСѓРєР°РІРµ\nРЅР°Рј СЃРµР№С‡Р°СЃ РѕСЃС‚Р°РІР°С‚СЊСЃСЏ РЅРµР»СЊР·СЏ.</text>
-  </string>
-  <string id="st_mil_merc_leader_mercs_attack_start_1">
-    <text>РЎРµР№С‡Р°СЃ РІР¶РёРІСѓСЋ РїРѕРєР°Р¶Сѓ С‚РµР±Рµ, С‡С‚Рѕ Р±С‹РІР°РµС‚ СЃ С‚РµРјРё,</text>
-  </string>
-  <string id="st_mil_merc_leader_mercs_attack_start_2">
-    <text>РєС‚Рѕ РїРµСЂРµС…РѕРґРёС‚ РјРЅРµ РґРѕСЂРѕРіСѓ!</text>
-  </string>
-  <string id="st_mil_merc_leader_final_monolog_1">
-    <text>Р‘РѕР»СЊРЅРѕ?</text>
-  </string>
-  <string id="st_mil_merc_leader_final_monolog_2_cc">
-    <text>[С†С‹РєР°РµС‚]</text>
-  </string>
-  <string id="st_mil_merc_leader_final_monolog_3">
-    <text>РќРµ СѓС‚СЂСѓР¶РґР°Р№СЃСЏ. РќРµ РЅР°РґРѕ РЅРёС‡РµРіРѕ РіРѕРІРѕСЂРёС‚СЊ!</text>
-  </string>
-  <string id="st_mil_merc_leader_final_monolog_4">
-    <text>РЇ Р·РЅР°СЋ, С‡С‚Рѕ Р±РѕР»СЊРЅРѕ.</text>
-  </string>
-  <string id="st_mil_merc_leader_final_monolog_5">
-    <text>РќРµ РІРѕР»РЅСѓР№СЃСЏ: РґР»СЏ С‚РІРѕРµРіРѕ РіРµСЂРѕСЏ-РґСЂСѓР¶РєР°\nРјС‹ СѓСЃС‚СЂРѕРёРј РЅРµ РјРµРЅРµРµ С‚С‘РїР»С‹Р№ РїСЂРёС‘Рј!</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_final_scene_phrase_1_1">
-    <text>РљРѕРјР°РЅРґРёСЂ!</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_final_scene_phrase_1_2">
-    <text>РўС‹ РІРµСЂРЅСѓР»СЃСЏ...</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_final_scene_phrase_1_3">
-    <text>Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ, С‚С‹ СЃР°Рј РІСЃС‘ РІРёРґРёС€СЊ...</text>
-  </string>
-  <string id="st_mil_soldier_vuslich_final_scene_phrase_2">
-    <text>РћРЅРё СѓР±РёР»Рё РµРіРѕ.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_what_happened">
-    <text>РљР°Рє? Р§С‚Рѕ СЃР»СѓС‡РёР»РѕСЃСЊ?</text>
-  </string>
-  <string id="st_mil_actor_final_scene_big_mistake">
-    <text>РљР°Р¶РµС‚СЃСЏ, СЏ СЃРѕРІРµСЂС€РёР» Р±РѕР»СЊС€СѓСЋ РѕС€РёР±РєСѓ...</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_1">
-    <text>Р•СЃР»Рё Р±С‹ РјРѕР¶РЅРѕ Р±С‹Р»Рѕ\nРІРµСЂРЅСѓС‚СЊ РІСЂРµРјСЏ РІСЃРїСЏС‚СЊ,</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_2">
-    <text>СЏ Р±С‹ РЅРё Р·Р° С‡С‚Рѕ\nРЅРµ РѕС‚РїСѓСЃС‚РёР» РїСЂРѕС„РµСЃСЃРѕСЂР°.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_3">
-    <text>РЇ Р±С‹ Р·Р°СЃС‚Р°РІРёР» РёС… РѕС‚РІРµС‚РёС‚СЊ Р·Р° РІСЃС‘,\nС‡С‚Рѕ РѕРЅРё СЃРґРµР»Р°Р»Рё СЃ РјРѕРёРј РґСЂСѓРіРѕРј</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_4">
-    <text>Рё РЅРµРІРёРЅРЅС‹РјРё СЃС‚Р°Р»РєРµСЂР°РјРё.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_5">
-    <text>РљР°РєРёРµ Р±С‹ С†РµР»Рё РЅРµ РїСЂРµСЃР»РµРґРѕРІР°Р»Р°\nРёС… РѕСЂРіР°РЅРёР·Р°С†РёСЏ,</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_6">
-    <text>РѕРЅРё РґРѕР»Р¶РЅС‹ Р±С‹Р»Рё\nРїСЂРµРґСЃС‚Р°С‚СЊ РїРµСЂРµРґ Р·Р°РєРѕРЅРѕРј.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_7">
-    <text>Рђ РўРµСЂРјРёС‚...</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_8">
-    <text>Р•РіРѕ Р±С‹ СЏ РЅРµ Р·Р°РґСѓРјС‹РІР°СЏСЃСЊ\nСЃРєРѕСЂРјРёР» С‡РµСЂРЅРѕР±С‹Р»СЊСЃРєРёРј РїСЃР°Рј.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_9">
-    <text>РЎ С‚РµС… СЃРѕР±С‹С‚РёР№\nРїСЂРѕС€Р»Рѕ СѓР¶Рµ РЅРµСЃРєРѕР»СЊРєРѕ Р»РµС‚.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_10">
-    <text>РњРѕРё РїРѕРїС‹С‚РєРё СЃРЅРѕРІР° РѕС‚С‹СЃРєР°С‚СЊ\nРїСЂРѕС„РµСЃСЃРѕСЂР°, Рє СЃРѕР¶Р°Р»РµРЅРёСЋ,</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_11">
-    <text>РЅРµ СѓРІРµРЅС‡Р°Р»РёСЃСЊ СѓСЃРїРµС…РѕРј.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_12">
-    <text>РњРѕС‘ Р±С‹РІС€РµРµ СЂСѓРєРѕРІРѕРґСЃС‚РІРѕ\nРѕР±СЉСЏРІРёР»Рѕ РјРµРЅСЏ РІ СЂРѕР·С‹СЃРє,</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_13">
-    <text>Р° РіСЂСѓРїРїР° РѕРєРѕРЅС‡Р°С‚РµР»СЊРЅРѕ СЂР°СЃРїР°Р»Р°СЃСЊ.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_14">
-    <text>РћРЅРё С‚Р°Рє Рё РЅРµ СЃРјРѕРіР»Рё\nРїРѕРЅСЏС‚СЊ РјРѕС‘ СЂРµС€РµРЅРёРµ.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_15">
-    <text>РЎ С‚РµС… РїРѕСЂ СЏ РІС‹РЅСѓР¶РґРµРЅ\nСЃРєСЂС‹РІР°С‚СЊСЃСЏ РІ Р—РѕРЅРµ</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_first_end_16">
-    <text>Рё Р·Р°СЂР°Р±Р°С‚С‹РІР°С‚СЊ РЅР° Р¶РёР·РЅСЊ\nСЃС‚Р°Р»РєРµСЂСЃС‚РІРѕРј.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_second_end_1">
-    <text>Р—Р°РґР°РЅРёРµ, РєРѕС‚РѕСЂРѕРµ РїРѕСЂСѓС‡РёР»\nРЅР°С€РµР№ РіСЂСѓРїРїРµ РїРѕР»РєРѕРІРЅРёРє,</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_second_end_2">
-    <text>Р±С‹Р»Рѕ РІС‹РїРѕР»РЅРµРЅРѕ.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_second_end_3">
-    <text>РњС‹ РЅРµ СЃРјРѕРіР»Рё СЃРѕС…СЂР°РЅРёС‚СЊ Р¶РёР·РЅСЊ\nРїСЂРѕС„РµСЃСЃРѕСЂР° Р”СѓР±РёРЅРёРЅР°,</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_second_end_4">
-    <text>РЅРѕ Р·Р°С‚Рѕ СѓР·РЅР°Р»Рё РІСЃС‘\nРѕ РїСЂРёС‡РёРЅР°С… РµРіРѕ Р±РµРіСЃС‚РІР°.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_second_end_5">
-    <text>Рљ СЃРѕР¶Р°Р»РµРЅРёСЋ, РЅР° Р·Р°РґР°РЅРёРё\nРїРѕРіРёР± РЅР°С€ РґСЂСѓРі,</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_second_end_6">
-    <text>Р° РІРёРЅРѕРІРЅС‹Р№ РІ РµРіРѕ СЃРјРµСЂС‚Рё\nРєР°РєРёРј-С‚Рѕ РѕР±СЂР°Р·РѕРј СЃРјРѕРі СЃРєСЂС‹С‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_second_end_7">
-    <text>РќРѕ РјС‹ РЅРµ С‚РµСЂСЏРµРј РЅР°РґРµР¶РґС‹,</text>
-  </string>
-  <string id="st_mil_actor_final_scene_monolog_second_end_8">
-    <text>С‡С‚Рѕ Р—РѕРЅР° РµС‰С‘ РґР°СЃС‚ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ\nСЃ РЅРёРј СЂР°СЃРєРІРёС‚Р°С‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_gar_army_base_polygon_leader_start">
-    <text>РќСѓ С‡С‚Рѕ, СЃР°Р»Р°РіРё, СЃРµР№С‡Р°СЃ РїРѕСЃРјРѕС‚СЂРёРј, С‡РµРјСѓ РІС‹ СѓСЃРїРµР»Рё РЅР°СѓС‡РёС‚СЊСЃСЏ Р·Р° РїРѕСЃР»РµРґРЅРёР№ РјРµСЃСЏС†!</text>
-  </string>
-  <string id="st_gar_army_base_polygon_leader_1">
-    <text>Р—РёРЅРѕРІСЊРµРІ, РѕС‡РµСЂРµРґСЏРјРё!</text>
-  </string>
-  <string id="st_gar_army_base_polygon_leader_2">
-    <text>РљРѕСЃС‚С‹Р»РµРІ, РѕРґРёРЅРѕС‡РЅС‹РјРё!</text>
-  </string>
-  <string id="st_gar_army_base_polygon_leader_3">
-    <text>Р СѓР±С†РѕРІ, С‚РµРїРµСЂСЊ С‚С‹! РћС‡РµСЂРµРґСЏРјРё!</text>
-  </string>
-  <string id="st_gar_army_base_polygon_leader_end">
-    <text>Р­С…, Р±РµР·РґР°СЂРё... Р’С‹ С‡С‚Рѕ, РІРѕРѕР±С‰Рµ РЅРµ РїСЂРѕСЃС‹С…Р°Р»Рё, РїРѕРєР° РјРµРЅСЏ РЅРµ Р±С‹Р»Рѕ?! РњР°СЂС€ РѕСЂСѓР¶РёРµ РґСЂР°РёС‚СЊ! Р§С‚РѕР±С‹ Р±Р»РµСЃС‚РµР»Рѕ РІСЃС‘, СЏСЃРЅРѕ?</text>
-  </string>
-  <string id="st_mil_trader_bye_1">
-    <text>Р”Р°РІР°Р№, РґРѕ РІСЃС‚СЂРµС‡Рё.</text>
-  </string>
-  <string id="st_mil_trader_bye_2">
-    <text>РќСѓ, РїРѕРєР°.</text>
-  </string>
-  <string id="st_mil_trader_bye_3">
-    <text>Р”Р°РІР°Р№, СЃС‚СѓРїР°Р№.</text>
-  </string>
-  <string id="st_mil_trader_bye_4">
-    <text>Р‘РµСЂРµРіРё СЃРµР±СЏ, Р° С‚Рѕ С‚СѓС‚ Рё С‚Р°Рє СЃ РєР»РёРµРЅС‚Р°РјРё С‚СѓРіРѕ.</text>
-  </string>
-  <string id="st_mil_trader_bye_5">
-    <text>РќСѓ, РґР°РІР°Р№. Р—Р°С…РѕРґРё, РµСЃР»Рё С‡С‚Рѕ.</text>
-  </string>
-  <string id="st_mil_trader_bye_6">
-    <text>РџРёРІРєР° Р± С…РѕР»РѕРґРЅРѕРіРѕ, Р° РЅРµ РІ РІРѕРЅСЋС‡РµРј Р±СѓРЅРєРµСЂРµ С‚СѓС‚ СЃРёРґРµС‚СЊ...</text>
-  </string>
-  <string id="st_mil_trader_bye_7">
-    <text>РљР°Рє С‚Р°Рј РІ РїРѕРіРѕРІРѕСЂРєРµ? РћРґРЅР° РЅРѕРіР° Р·РґРµСЃСЊ, РґСЂСѓРіР°СЏ С‚Р°Рј. РҐР°-С…Р°!\nРђ Сѓ РјРµРЅСЏ СЂСѓРєР°: РѕРґРЅР° Р·РґРµСЃСЊ, Р° РґСЂСѓРіР°СЏ С‚Р°Рј! РҐР°-С…Р°!</text>
-  </string>
-  <string id="st_mil_trader_bye_8">
-    <text>335? РЎРµР№С‡Р°СЃ РЅРµ РїРѕРЅСЏР»...</text>
-  </string>
-  <string id="st_mil_trader_good_trade_1">
-    <text>Р‘Р°Р·Р°СЂ!</text>
-  </string>
-  <string id="st_mil_trader_good_trade_2">
-    <text>РџРѕС€Р»Р° РІРѕРґР° РіРѕСЂСЏС‡Р°СЏ!</text>
-  </string>
-  <string id="st_mil_trader_good_trade_3">
-    <text>Р‘РµСЂРё РµС‰С‘ РїР°С‡РєСѓ РїР°С‚СЂРѕРЅРѕРІ СЃРІРµСЂС…Сѓ! Р›РёС€РЅРёРјРё РЅРµ Р±СѓРґСѓС‚!</text>
-  </string>
-  <string id="st_mil_trader_good_trade_4">
-    <text>Р”Р°РІР°Р№, РїСЂРёС‚Р°СЃРєРёРІР°Р№ РµС‰С‘ С‡С‚Рѕ-РЅРёР±СѓРґСЊ!</text>
-  </string>
-  <string id="st_mil_trader_good_trade_5">
-    <text>Р’СЃРµРіРґР° СЂР°Рґ РїРѕС‚РѕСЂРіРѕРІР°С‚СЊ, РїСЂРёС…РѕРґРё РµС‰С‘!</text>
-  </string>
-  <string id="st_mil_trader_greet_1">
-    <text>РџСЂРёРІРµС‚!</text>
-  </string>
-  <string id="st_mil_trader_greet_2">
-    <text>Рћ, Р·РґР°СЂРѕРІР°!</text>
-  </string>
-  <string id="st_mil_trader_greet_3">
-    <text>РљР°Рє РґРµР»Р°, СЃР»СѓР¶РёРІС‹Р№?</text>
-  </string>
-  <string id="st_mil_trader_greet_4">
-    <text>РљРѕРіРѕ С‚Р°Рј РѕРїСЏС‚СЊ РЅРµСЃС‘С‚? РўРѕР»СЊРєРѕ РїРѕР¶СЂР°С‚СЊ С…РѕС‚РµР»...</text>
-  </string>
-  <string id="st_mil_trader_greet_5">
-    <text>РўР°Рє, СЃСЂР°Р·Сѓ РіРѕРІРѕСЂСЋ: РЅРёРєР°РєРёС… В«РґР°Р№С‚Рµ РІ РґРѕР»РіВ»!</text>
-  </string>
-  <string id="st_mil_trader_greet_6">
-    <text>РџРѕР№С‚Рё РїСЂРѕР№С‚РёСЃСЊ, С‡С‚Рѕ Р»Рё... Р·Р°СЃРёРґРµР»СЃСЏ СѓР¶Рµ.</text>
-  </string>
-  <string id="st_mil_trader_greet_7">
-    <text>Р–Р°СЂР°-С‚Рѕ РєР°РєР°СЏ, С‘РєР°Р»СЌРјСЌРЅСЌ...</text>
-  </string>
-  <string id="st_mil_trader_greet_8">
-    <text>РўС‹ РїРѕРєСѓРїР°С‚СЊ С‡С‚Рѕ-С‚Рѕ? Рђ С‚Рѕ СЃРјРѕС‚СЂРё, Р·Р° С‚РѕРІР°СЂР°РјРё СѓР¶Рµ РѕС‡РµСЂРµРґСЊ!\nРќРµ РІРѕР·СЊРјРµС€СЊ СЃРµР№С‡Р°СЃ вЂ” РїРѕС‚РѕРј С‚РѕР»СЊРєРѕ СЃРѕР»СЊ РґР»СЏ СЂСѓР¶СЊСЏ РѕСЃС‚Р°РЅРµС‚СЃСЏ!</text>
-  </string>
-  <string id="st_mil_trader_first_greet_pda_1">
-    <text>Рћ!</text>
-  </string>
-  <string id="st_mil_trader_first_greet_pda_2">
-    <text>Р•С‰С‘ РѕРґРЅРѕ РЅРѕРІРѕРµ Р»РёС†Рѕ РІ РЅР°С€РёС… РєСЂР°СЏС…, Р·Р°С…РѕРґРё!</text>
-  </string>
-  <string id="st_mil_trader_first_greet_pda_3">
-    <text>Р’РµС‰Рё, РїР°С‚СЂРѕРЅС‹, РѕСЂСѓР¶РёРµ, РµРґР°!</text>
-  </string>
-  <string id="st_mil_trader_first_greet_pda_4">
-    <text>Р’СЃС‘ РґР»СЏ СЃС‚Р°Р»РєРµСЂРѕРІ, РґР° РµС‰С‘ Рё РїРѕ РЅРёР·РєРёРј С†РµРЅР°Рј!</text>
-  </string>
+
+	<string id="st_mil_merc_leader_actor_relax_1">
+		<text>Вставай, легавый.\nСобирай свои извилинки с пола</text>
+	</string>
+
+	<string id="st_mil_merc_leader_actor_relax_2">
+		<text>и давай поболтаем.</text>
+	</string>
+
+	<string id="st_mil_merc_leader_talk_with_actor_1">
+		<text>Похитили?</text>
+	</string>
+
+	<string id="st_mil_merc_leader_talk_with_actor_1_cc">
+		<text>Похитили? [смех]</text>
+	</string>
+
+	<string id="st_mil_merc_leader_talk_with_actor_2">
+		<text>Он бежал от вас со скоростью света!</text>
+	</string>
+
+	<string id="st_mil_merc_leader_talk_with_actor_3">
+		<text>Ибо знал, что неблагодарное это дело,\nна правительство работать.</text>
+	</string>
+
+	<string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_1_1">
+		<text>Правильную? Ты же убийца!</text>
+	</string>
+
+	<string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_1_2">
+		<text>Ты убил людей в этом лагере\nи сталкера на Кордоне.</text>
+	</string>
+
+	<string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_1_3">
+		<text>И профессор, вы же похитили его?</text>
+	</string>
+
+	<string id="st_mil_corp_stalkers_actor_talk_with_merc_leader_2">
+		<text>Кто вы такие?</text>
+	</string>
+
+	<string id="st_mil_mercs_corp_stalkers_hands_up">
+		<text>Поднять руки!\nВы пойдёте с нами!</text>
+	</string>
+
+	<string id="st_mil_mercs_corp_stalkers_threat">
+		<text>Шаг влево, шаг вправо —\nруку отрежу. Уяснили?</text>
+	</string>
+
+	<string id="st_mil_merc_leader_trolling_enemy">
+		<text>Какой грозный здоровяк!</text>
+	</string>
+
+	<string id="st_mil_merc_leader_trolling_enemy_cc">
+		<text>[смех] Какой грозный здоровяк!</text>
+	</string>
+
+	<string id="st_mil_mercs_corp_stalkers_stfu">
+		<text>Замолкни, а то\nпрямо здесь порешаем.</text>
+	</string>
+
+	<string id="st_mil_mercs_base_merc_1_start_battle_1">
+		<text>Ещё двоих привели.\nДумаю, можно начинать веселье.</text>
+	</string>
+
+	<string id="st_mil_mercs_base_merc_1_start_battle_2">
+		<text>Всё, давайте их в тоннели.</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_connect_after_katamomb_1">
+		<text>Журавлёв, ты куда пропадал? Какое-то время от тебя совсем не было сигнала.</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_connect_after_katamomb_2_1">
+		<text>Принял. Уже пакуем вещи.</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_connect_after_katamomb_2_2">
+		<text>Только Коваля на связи нет.</text>
+	</string>
+
+	<string id="st_mil_actor_after_katakomb_connect_with_sky_1_1">
+		<text>Думаю, настало время\nнам всем встретиться.</text>
+	</string>
+
+	<string id="st_mil_actor_after_katakomb_connect_with_sky_1_2">
+		<text>Собирай отряд и дуйте в деревню\nторговца на Армейских складах.</text>
+	</string>
+
+	<string id="st_mil_actor_after_katakomb_connect_with_sky_1_3">
+		<text>Тут всё обсудим.</text>
+	</string>
+
+	<string id="st_mil_actor_after_katakomb_connect_with_sky_2">
+		<text>Коваль мёртв.\nПодробности при встрече.</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_actor_wake_up">
+		<text>Эй, командир, проснись!</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_base_start_go">
+		<text>Ну что, погнали?</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_base_anomaly_1">
+		<text>Аномалия!</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_base_anomaly_2">
+		<text>Здесь нам не забраться.</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_base_see_phantoms_1">
+		<text>А база точно заброшенная?</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_base_see_phantoms_2">
+		<text>Там прожектора горят, патрульные ходят...</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_base_angry_1">
+		<text>Опять нечистое что-то.</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_base_angry_2">
+		<text>Мать вашу!</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_base_go_back_1">
+		<text>Твою дивизию. Вы закончили?</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_base_go_back_2">
+		<text>Может, уже дёру дадим отсюда?!</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_base_scary">
+		<text>Жутковатое место.</text>
+	</string>
+
+	<string id="st_mil_soldier_xottab_actor_good_luck">
+		<text>Удачи, командир. Ни пуха!</text>
+	</string>
+
+	<string id="st_mil_actor_base_talk_with_xottab_reaction_1">
+		<text>Кажется, торговец это и имел в виду,\nкогда говорил про фантомов.</text>
+	</string>
+
+	<string id="st_mil_actor_base_talk_with_xottab_reaction_2">
+		<text>Выбора у нас нет.</text>
+	</string>
+
+	<string id="st_mil_actor_base_talk_with_xottab_reaction_3">
+		<text>Надо двигаться дальше.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_alarm_start">
+		<text>Тревога! Здесь враг!</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_boss_car_talk_1">
+		<text>Ну что там? Завёл?</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_boss_car_talk_2_1">
+		<text>Я ж тебе говорил,\nчтоб машина на ходу была.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_boss_car_talk_2_2">
+		<text>Я пешком до Дитяток\nплестись не собираюсь.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_boss_car_talk_2_3">
+		<text>Как хочешь, но заводи!</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_car_talk">
+		<text>Не получается, товарищ майор.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_fusillade_start_1">
+		<text>За продажу боеприпасов\nнашему врагу</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_fusillade_start_2">
+		<text>вы приговариваетесь\nк расстрелу.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_fusillade_start_3">
+		<text>Лейтенант, привести приговор\nв исполнение.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_post_angry_1">
+		<text>Рядовой Ищук, не спать!</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_post_angry_2">
+		<text>А то сейчас заставлю\nкруги вокруг базы наяривать.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_post_angry_3">
+		<text>В раз весь сон отобьёт.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_radar_talk_1">
+		<text>Выдвигаемся\nк антеннам завтра.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_radar_talk_2">
+		<text>Всем приказ: привести\nв порядок оружие, выспаться</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_radar_talk_3">
+		<text>и завтра как штык в четыре утра\nбыть на построении.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_radar_talk_4">
+		<text>Кто бы там ни был,\nих нужно оттуда выбить.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_radar_talk_5">
+		<text>А то возомнили о себе,\nпонимаешь, хозяев Зоны.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_radar_talk_6">
+		<text>Мы-то им покажем, кто тут хозяин.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_1_talk_1_1">
+		<text>Блин, зачем я только\nсюда приехал? За деньгами?</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_1_talk_1_2">
+		<text>Да нафига покойнику деньги-то?</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_1_talk_2_1">
+		<text>Три месяца...\nДа ты проживи эти три месяца ещё.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_1_talk_2_2">
+		<text>Из нашего состава\nсколько осталось? Пятеро?</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_1_talk_2_3">
+		<text>А сюда нас автобусами свозили.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_1_talk_2_4">
+		<text>Бежать надо.\nБежать и не оглядываться даже.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_2_talk_1">
+		<text>Успокойся!</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_2_talk_2">
+		<text>Ещё три месяца и домой.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_2_talk_3">
+		<text>Там ни радиации\nэтой проклятой нет,</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_2_talk_4">
+		<text>ни аномалий.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_sad_2_talk_5">
+		<text>Потерпи.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_tower_song_1">
+		<text>Я без тебя продолжу путь,</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_tower_song_2">
+		<text>сколь отвела судьба — не знаю...</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_tower_song_3">
+		<text>Я так хочу тебя вернуть,</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_tower_song_4">
+		<text>но не возможно — понимаю...</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_tower_song_final_cc">
+		<text>[напевает]</text>
+	</string>
+
+	<string id="st_phantom">
+		<text>Фантом</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_fusillade_corp_begs">
+		<text>Товарищ лейтенант, прошу, не надо!</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_actor_wake_up_compl">
+		<text>Быстро ты реагировал!</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_actor_wake_up_compl_cc">
+		<text>Быстро ты реагировал! [смех]</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_sky_bad_connect_1">
+		<text>Скай, у тебя всё в порядке?</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_sky_bad_connect_2">
+		<text>Скай, приём! Что случилось?</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_sky_bad_connect_3">
+		<text>Приём! Ответь, Скай!</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_go_quickly">
+		<text>Давайте по-быстрому пролетим это место. Здесь слишком жутко.</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_phantoms_ignore">
+		<text>Почему они на нас не реагируют? У меня мурашки от этого места!</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_actor_dist_1">
+		<text>Командир, не разбегаемся!</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_actor_dist_2">
+		<text>Эй, давай поближе к нам!</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_actor_dist_3">
+		<text>Ты где там потерялся? Давай сюда!</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_army_base_compl">
+		<text>Что-то я не доверяю этим краям. Нужно заканчивать с заданием и возвращаться на «Агропром».</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_army_base_panic">
+		<text>Твою мать... Что за чёрт?!</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_base_scary">
+		<text>Дружище, будь осторожнее! Меня от этой базы до сих пор в дрожь бросает!</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_get_signals">
+		<text>Есть несколько мощных источников сигнала. Спускайся, прогуляемся их проверить.</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_connection_compl">
+		<text>Пошла вода горячая, работает!</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_actor_ladders_compl_1">
+		<text>Спасибо, мужик.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_actor_ladders_compl_2">
+		<text>Сейчас проверим одно место,</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_actor_ladders_compl_3">
+		<text>и я буду готов ответить\nна любые твои вопросы.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_actor_ladders_info_1">
+		<text>В этой деревне\nесть несколько лестниц.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_actor_ladders_info_2">
+		<text>Будь так добр, принеси сюда одну</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_actor_ladders_info_3">
+		<text>и вытащи меня отсюда.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_bye_1">
+		<text>Ну давай.\nЗаглядывай, если что.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_bye_2">
+		<text>Ну, бывай, дружище.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_bye_3">
+		<text>Ну, как говорится: попутного ветра в...\nВ общем, дружище, если приспичит — заходи.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_final_thanx_1">
+		<text>Ну, ни пуха тебе, братишка.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_final_thanx_2">
+		<text>И ещё раз спасибо. Выручил ты меня.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_hello_1">
+		<text>Здорово. Рад тебя видеть!</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_hello_2">
+		<text>Ну, приветствую.\nДавай показывай, что у тебя там.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_hello_3">
+		<text>Валяй, мужик. Слушаю тебя.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_need_help_1">
+		<text>Народ, есть кто живой?\nПомогите мне!</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_need_help_2">
+		<text>Твою мать.\nНеужели мне гнить в этом подвале?</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_need_help_3">
+		<text>Эй! Люди! Есть кто живой?</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_wait_actor_ladder_1">
+		<text>Ну где ты там потерялся?</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_wait_actor_ladder_2">
+		<text>Друг, я тут долго\nне высижу. Помоги мне!</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_wait_actor_ladder_3">
+		<text>Мужик, тащи сюда лестницу.\nМне уже не по себе.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_wait_actor_ladder_4">
+		<text>Эй! Мужик! Помоги мне!</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_warehouse_compl">
+		<text>Вроде всё. Не густо, конечно, но несколько ценностей нашёл.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_warehouse_info">
+		<text>Склад находится где-то там.</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_fanatics_reaction">
+		<text>Интересно, как это сектанты проскочили мимо барьера?</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_start">
+		<text>Жутковато становится, правда?</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_long_dist_1">
+		<text>Мужик, давай держаться вместе.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_long_dist_2">
+		<text>Эй, сталкер, ты бы далеко не отходил.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_long_dist_3">
+		<text>Мужик, не отходи далеко. Давай держаться вместе.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_village_artefact_found">
+		<text>Мужик, ты видишь это? Ну и находка.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_unknowns_reaction_1">
+		<text>Твою мать, а это ещё кто такие?</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_unknowns_reaction_2">
+		<text>Не нравится мне всё это. Валить надо на хрен.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_drop_vodka_start">
+		<text>Слушай, а попробуй-ка ему бутылку кинуть.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_drop_vodka_wait_1">
+		<text>Не тормози. Брось ему пузырь.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_drop_vodka_wait_2">
+		<text>Ты тут до второго прихода торчать собрался? Друг, брось ему выпивку!</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_door_open">
+		<text>Ты гляди-ка, а дверь-то открылась. А ну залетай!</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_drop_vodka_none">
+		<text>Если нет пузыря, то подойди сюда: у меня это дело всегда имеется.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_drop_vodka_none_wait_1_1">
+		<text>Друг, подойди, у меня есть выпивка.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_drop_vodka_none_wait_1_2">
+		<text>Дашь этому кладовщику. Сам я не смогу.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_drop_vodka_none_wait_2">
+		<text>Возьми его водку, дай ему выпить. Мне стрёмно самому подойти.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_army_base_door_close">
+		<text>Твою мать, приехали. А дальше-то что делать?</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_village_bloodsuckers_reaction">
+		<text>Ну и развелось тварей всяких. Жуть-то какая.</text>
+	</string>
+
+	<string id="st_mil_stalker_technic_village_electro_artefact_start">
+		<text>Так... Ну, сейчас глянем, что у нас тут.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_angry_1">
+		<text>Так, чего припёрся?</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_angry_2">
+		<text>Припасы?</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_angry_3">
+		<text>А приказ от полковника где?</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_angry_4">
+		<text>Ничего ты не получишь.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_angry_5">
+		<text>А если так хочешь,\nможем договориться.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_angry_6">
+		<text>Все же мы люди, верно?</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_want_vodka_1">
+		<text>Как же башка-то болит.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_want_vodka_2">
+		<text>Сейчас бы похмелиться... </text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_want_vodka_3_cc">
+		<text>[стон]</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_wait_vodka_1">
+		<text>Выпивки бы какой-нибудь сейчас...</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_wait_vodka_2">
+		<text>Мать вашу, уже всё горло пересохло.\nСпиртяжки бы сюда!</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_wait_vodka_3">
+		<text>Да уж...\nА похмелиться-то нечем.</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_wait_vodka_4">
+		<text>Вот же дрянь.\nОпять выпить нечего! Эх...</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_wait_vodka_5">
+		<text>Бутылочку бы, да под закусочку.\nВот радость бы была!</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_drunk_start_1">
+		<text>Наконец-то!</text>
+	</string>
+
+	<string id="st_mil_army_base_soldier_warehouse_drunk_start_2_cc">
+		<text>[выдох]</text>
+	</string>
+
+	<string id="st_mil_actor_talk_with_sky_psy_helm_compl">
+		<text>Отряд, двигайте к источнику!</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_primary_info_1">
+		<text>Журавлёв, приём!</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_primary_info_2">
+		<text>Я только что перехватил обрывки переговоров с того сигнала у вертолёта.</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_primary_info_3">
+		<text>Весь разговор, к сожалению, я не услышал, но если вкратце:</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_primary_info_4">
+		<text>они в курсе, что мы уже рядом, и спешно сматывают удочки.</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_primary_info_5">
+		<text>У нас очень мало времени, если мы хотим их перехватить.</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_actor_command_compl">
+		<text>Принял. Выдвигаемся!</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_take_positions">
+		<text>Так, давайте займём удобные позиции\nи будем контролировать вход.</text>
+	</string>
+
+	<string id="st_mil_actor_heli_final_phrase">
+		<text>К чёрту!</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_device_broken_1_1">
+		<text>Чёрт... а вот это совсем не вовремя.</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_device_broken_1_2">
+		<text>Наше перехватывающее оборудование\nвышло из строя!</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_device_broken_1_3">
+		<text>Чёрт его знает, что с ним!</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_device_broken_2_1">
+		<text>Ребята, оставайтесь здесь\nи контролируйте вход. Я проверю.</text>
+	</string>
+
+	<string id="st_mil_soldier_sky_device_broken_2_2">
+		<text>Без такого козыря в рукаве\nнам сейчас оставаться нельзя.</text>
+	</string>
+
+	<string id="st_mil_merc_leader_mercs_attack_start_1">
+		<text>Сейчас вживую покажу тебе, что бывает с теми,</text>
+	</string>
+
+	<string id="st_mil_merc_leader_mercs_attack_start_2">
+		<text>кто переходит мне дорогу!</text>
+	</string>
+
+	<string id="st_mil_merc_leader_final_monolog_1">
+		<text>Больно?</text>
+	</string>
+
+	<string id="st_mil_merc_leader_final_monolog_2_cc">
+		<text>[цыкает]</text>
+	</string>
+
+	<string id="st_mil_merc_leader_final_monolog_3">
+		<text>Не утруждайся. Не надо ничего говорить!</text>
+	</string>
+
+	<string id="st_mil_merc_leader_final_monolog_4">
+		<text>Я знаю, что больно.</text>
+	</string>
+
+	<string id="st_mil_merc_leader_final_monolog_5">
+		<text>Не волнуйся: для твоего героя-дружка\nмы устроим не менее тёплый приём!</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_final_scene_phrase_1_1">
+		<text>Командир!</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_final_scene_phrase_1_2">
+		<text>Ты вернулся...</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_final_scene_phrase_1_3">
+		<text>К сожалению, ты сам всё видишь...</text>
+	</string>
+
+	<string id="st_mil_soldier_vuslich_final_scene_phrase_2">
+		<text>Они убили его.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_what_happened">
+		<text>Как? Что случилось?</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_big_mistake">
+		<text>Кажется, я совершил большую ошибку...</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_1">
+		<text>Если бы можно было\nвернуть время вспять,</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_2">
+		<text>я бы ни за что\nне отпустил профессора.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_3">
+		<text>Я бы заставил их ответить за всё,\nчто они сделали с моим другом</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_4">
+		<text>и невинными сталкерами.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_5">
+		<text>Какие бы цели не преследовала\nих организация,</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_6">
+		<text>они должны были\nпредстать перед законом.</text>
+	</string>	
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_7">
+		<text>А Термит...</text>
+	</string>
+	
+	<string id="st_mil_actor_final_scene_monolog_first_end_8">
+		<text>Его бы я не задумываясь\nскормил чернобыльским псам.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_9">
+		<text>С тех событий\nпрошло уже несколько лет.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_10">
+		<text>Мои попытки снова отыскать\nпрофессора, к сожалению,</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_11">
+		<text>не увенчались успехом.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_12">
+		<text>Моё бывшее руководство\nобъявило меня в розыск,</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_13">
+		<text>а группа окончательно распалась.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_14">
+		<text>Они так и не смогли\nпонять моё решение.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_15">
+		<text>С тех пор я вынужден\nскрываться в Зоне</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_first_end_16">
+		<text>и зарабатывать на жизнь\nсталкерством.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_second_end_1">
+		<text>Задание, которое поручил\nнашей группе полковник,</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_second_end_2">
+		<text>было выполнено.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_second_end_3">
+		<text>Мы не смогли сохранить жизнь\nпрофессора Дубинина,</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_second_end_4">
+		<text>но зато узнали всё\nо причинах его бегства.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_second_end_5">
+		<text>К сожалению, на задании\nпогиб наш друг,</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_second_end_6">
+		<text>а виновный в его смерти\nкаким-то образом смог скрыться.</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_second_end_7">
+		<text>Но мы не теряем надежды,</text>
+	</string>
+
+	<string id="st_mil_actor_final_scene_monolog_second_end_8">
+		<text>что Зона ещё даст возможность\nс ним расквитаться.</text>
+	</string>
+
+	<string id="st_gar_army_base_polygon_leader_start">
+		<text>Ну что, салаги, сейчас посмотрим, чему вы успели научиться за последний месяц!</text>
+	</string>
+
+	<string id="st_gar_army_base_polygon_leader_1">
+		<text>Зиновьев, очередями!</text>
+	</string>
+
+	<string id="st_gar_army_base_polygon_leader_2">
+		<text>Костылев, одиночными!</text>
+	</string>
+
+	<string id="st_gar_army_base_polygon_leader_3">
+		<text>Рубцов, теперь ты! Очередями!</text>
+	</string>
+
+	<string id="st_gar_army_base_polygon_leader_end">
+		<text>Эх, бездари... Вы что, вообще не просыхали, пока меня не было?! Марш оружие драить! Чтобы блестело всё, ясно?</text>
+	</string>
+
+	<string id="st_mil_trader_bye_1">
+		<text>Давай, до встречи.</text>
+	</string>
+
+	<string id="st_mil_trader_bye_2">
+		<text>Ну, пока.</text>
+	</string>
+
+	<string id="st_mil_trader_bye_3">
+		<text>Давай, ступай.</text>
+	</string>
+
+	<string id="st_mil_trader_bye_4">
+		<text>Береги себя, а то тут и так с клиентами туго.</text>
+	</string>
+
+	<string id="st_mil_trader_bye_5">
+		<text>Ну, давай. Заходи, если что.</text>
+	</string>
+
+	<string id="st_mil_trader_bye_6">
+		<text>Пивка б холодного, а не в вонючем бункере тут сидеть...</text>
+	</string>
+
+	<string id="st_mil_trader_bye_7">
+		<text>Как там в поговорке? Одна нога здесь, другая там. Ха-ха!\nА у меня рука: одна здесь, а другая там! Ха-ха!</text>
+	</string>
+
+	<string id="st_mil_trader_bye_8">
+		<text>335? Сейчас не понял...</text>
+	</string>
+
+	<string id="st_mil_trader_good_trade_1">
+		<text>Базар!</text>
+	</string>
+
+	<string id="st_mil_trader_good_trade_2">
+		<text>Пошла вода горячая!</text>
+	</string>
+
+	<string id="st_mil_trader_good_trade_3">
+		<text>Бери ещё пачку патронов сверху! Лишними не будут!</text>
+	</string>
+
+	<string id="st_mil_trader_good_trade_4">
+		<text>Давай, притаскивай ещё что-нибудь!</text>
+	</string>
+
+	<string id="st_mil_trader_good_trade_5">
+		<text>Всегда рад поторговать, приходи ещё!</text>
+	</string>
+
+	<string id="st_mil_trader_greet_1">
+		<text>Привет!</text>
+	</string>
+
+	<string id="st_mil_trader_greet_2">
+		<text>О, здарова!</text>
+	</string>
+
+	<string id="st_mil_trader_greet_3">
+		<text>Как дела, служивый?</text>
+	</string>
+
+	<string id="st_mil_trader_greet_4">
+		<text>Кого там опять несёт? Только пожрать хотел...</text>
+	</string>
+
+	<string id="st_mil_trader_greet_5">
+		<text>Так, сразу говорю: никаких «дайте в долг»!</text>
+	</string>
+
+	<string id="st_mil_trader_greet_6">
+		<text>Пойти пройтись, что ли... засиделся уже.</text>
+	</string>
+
+	<string id="st_mil_trader_greet_7">
+		<text>Жара-то какая, ёкалэмэнэ...</text>
+	</string>
+
+	<string id="st_mil_trader_greet_8">
+		<text>Ты покупать что-то? А то смотри, за товарами уже очередь!\nНе возьмешь сейчас - потом только соль для ружья останется!</text>
+	</string>
+
+	<string id="st_mil_trader_first_greet_pda_1">
+		<text>О!</text>
+	</string>
+
+	<string id="st_mil_trader_first_greet_pda_2">
+		<text>Ещё одно новое лицо в наших краях, заходи!</text>
+	</string>
+
+	<string id="st_mil_trader_first_greet_pda_3">
+		<text>Вещи, патроны, оружие, еда!</text>
+	</string>
+
+	<string id="st_mil_trader_first_greet_pda_4">
+		<text>Всё для сталкеров, да ещё и по низким ценам!</text>
+	</string>
+
 </string_table>

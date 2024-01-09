@@ -1,81 +1,108 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="pda_btn_encyclopedia">
-    <text>Р”РѕРІС–РґРЅРёРє</text>
-  </string>
-  <string id="pda_btn_encyclopedia_hint">
-    <text>РџСЂРѕС‡РёС‚Р°С‚Рё</text>
-  </string>
-  <string id="pda_new_article">
-    <text>РќРћР’РР™ Р—РђРџРРЎ</text>
-  </string>
-  <string id="pda_new_info">
-    <text>Р†РќР¤РћР РњРђР¦Р†РЇ</text>
-  </string>
-  <string id="pda_new_note">
-    <text>РќРћР’Рђ РЎРўРђРўРўРЇ</text>
-  </string>
-  <string id="pda_chapter">
-    <text>СЂРѕР·РґС–Р»</text>
-  </string>
-  <string id="encyclopedia_locations">
-    <text>Р›РѕРєР°С†С–С—</text>
-  </string>
-  <string id="encyclopedia_weapons">
-    <text>Р—Р±СЂРѕСЏ</text>
-  </string>
-  <string id="encyclopedia_characters">
-    <text>РџРµСЂСЃРѕРЅР°Р¶С–</text>
-  </string>
-  <string id="encyclopedia_mutants">
-    <text>Р‘РµСЃС‚С–Р°СЂС–Р№</text>
-  </string>
-  <string id="notes_tasks">
-    <text>Р”Р»СЏ Р·Р°РІРґР°РЅСЊ</text>
-  </string>
-  <string id="notes_records">
-    <text>Р—Р°РїРёСЃРё</text>
-  </string>
-  <string id="encyclopedia_password">
-    <text>РљРѕРґРё Р№ РїР°СЂРѕР»С–</text>
-  </string>
-  <string id="encyclopedia_letter">
-    <text>Р—Р°РїРёСЃРё</text>
-  </string>
-  <string id="encyclopedia_map">
-    <text>РљР°СЂС‚Р° Р· РїРѕР·РЅР°С‡РєРѕСЋ</text>
-  </string>
-  <string id="encyclopedia_record">
-    <text>РђСѓРґС–РѕР·Р°РїРёСЃ</text>
-  </string>
-  <string id="encyclopedia_other">
-    <text>Р С–Р·РЅРµ</text>
-  </string>
-  <string id="encyclopedia_weapon_cold">
-    <text>РҐРѕР»РѕРґРЅР° Р·Р±СЂРѕСЏ</text>
-  </string>
-  <string id="encyclopedia_weapon_pistol">
-    <text>РџС–СЃС‚РѕР»РµС‚Рё</text>
-  </string>
-  <string id="encyclopedia_weapon_submachine">
-    <text>РџС–СЃС‚РѕР»РµС‚Рё-РєСѓР»РµРјРµС‚Рё</text>
-  </string>
-  <string id="encyclopedia_weapon_shotgun">
-    <text>Р”СЂРѕР±РѕРІРёРєРё</text>
-  </string>
-  <string id="encyclopedia_weapon_assault">
-    <text>РЁС‚СѓСЂРјРѕРІС– РіРІРёРЅС‚С–РІРєРё</text>
-  </string>
-  <string id="encyclopedia_weapon_sniper">
-    <text>РЎРЅР°Р№РїРµСЂСЃСЊРєС– РіРІРёРЅС‚С–РІРєРё</text>
-  </string>
-  <string id="encyclopedia_weapon_heavy">
-    <text>Р’Р°Р¶РєР° Р·Р±СЂРѕСЏ</text>
-  </string>
-  <string id="encyclopedia_weapon_grenade">
-    <text>Р“СЂР°РЅР°С‚Рё</text>
-  </string>
-  <string id="pda_btn_encyclopedia_title">
-    <text>Р”РѕРІС–РґРЅРёРє</text>
-  </string>
+
+	<string id="pda_btn_encyclopedia">
+		<text>Довідник</text>
+	</string>
+
+	<string id="pda_btn_encyclopedia_hint">
+		<text>Прочитати</text>
+	</string>
+
+	<string id="pda_new_article">
+		<text>НОВИЙ ЗАПИС</text>
+	</string>
+
+	<string id="pda_new_info">
+		<text>ІНФОРМАЦІЯ</text>
+	</string>
+
+	<string id="pda_new_note">
+		<text>НОВА СТАТТЯ</text>
+	</string>
+
+	<string id="pda_chapter">
+		<text>розділ</text>
+	</string>
+
+	<string id="encyclopedia_locations">
+		<text>Локації</text>
+	</string>
+
+	<string id="encyclopedia_weapons">
+		<text>Зброя</text>
+	</string>
+
+	<string id="encyclopedia_characters">
+		<text>Персонажі</text>
+	</string>
+
+	<string id="encyclopedia_mutants">
+		<text>Бестіарій</text>
+	</string>
+
+	<string id="notes_tasks">
+		<text>Для завдань</text>
+	</string>
+
+	<string id="notes_records">
+		<text>Записи</text>
+	</string>
+
+	<string id="encyclopedia_password">
+		<text>Коди й паролі</text>
+	</string>
+
+	<string id="encyclopedia_letter">
+		<text>Записи</text>
+	</string>
+
+	<string id="encyclopedia_map">
+		<text>Карта з позначкою</text>
+	</string>
+
+	<string id="encyclopedia_record">
+		<text>Аудіозапис</text>
+	</string>
+
+	<string id="encyclopedia_other">
+		<text>Різне</text>
+	</string>
+
+	<string id="encyclopedia_weapon_cold">
+		<text>Холодна зброя</text>
+	</string>
+
+	<string id="encyclopedia_weapon_pistol">
+		<text>Пістолети</text>
+	</string>
+
+	<string id="encyclopedia_weapon_submachine">
+		<text>Пістолети-кулемети</text>
+	</string>
+
+	<string id="encyclopedia_weapon_shotgun">
+		<text>Дробовики</text>
+	</string>
+
+	<string id="encyclopedia_weapon_assault">
+		<text>Штурмові гвинтівки</text>
+	</string>
+
+	<string id="encyclopedia_weapon_sniper">
+		<text>Снайперські гвинтівки</text>
+	</string>
+
+	<string id="encyclopedia_weapon_heavy">
+		<text>Важка зброя</text>
+	</string>
+
+	<string id="encyclopedia_weapon_grenade">
+		<text>Гранати</text>
+	</string>
+
+	<string id="pda_btn_encyclopedia_title">
+		<text>Довідник</text>
+	</string>
+
 </string_table>

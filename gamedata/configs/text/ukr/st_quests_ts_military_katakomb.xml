@@ -1,24 +1,32 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="mkat_battle_task">
-    <text>РљРћР РћР›Р†Р’РЎР¬РљРђ Р‘РРўР’Рђ</text>
-  </string>
-  <string id="mkat_battle_task_main_title_name">
-    <text>Р’РёР¶РёС‚Рё</text>
-  </string>
-  <string id="mkat_battle_task_main_title_text">
-    <text>РќР°СЃ СЃРїС–Р№РјР°Р»Рё РЅР°Р№РјР°РЅС†С– Р№ Р·РјСѓСЃРёР»Рё Р·С–РіСЂР°С‚Рё Сѓ С—С…РЅСЋ РіСЂСѓ. Р— РґРµСЃСЏС‚Рё СЃС‚Р°Р»РєРµСЂС–РІ РјР°С” РІРёР¶РёС‚Рё Р»РёС€Рµ РѕРґРёРЅ. Р’РёР±РѕСЂСѓ Сѓ РјРµРЅРµ, СЏРє СЏ СЂРѕР·СѓРјС–СЋ, РЅРµРјР°С”.</text>
-  </string>
-  <string id="mkat_battle_task_final_merc_leader_name">
-    <text>Р’РёР±СЂР°С‚РёСЃСЏ Р· РЅРµРІС–РґРѕРјРёРј РЅР° РїРѕРІРµСЂС…РЅСЋ</text>
-  </string>
-  <string id="mkat_battle_task_final_merc_leader_text">
-    <text>Р”РёРІРЅРѕ, С‰Рѕ РЅРµРІС–РґРѕРјРёР№ РЅРµ РІР±РёРІ РјРµРЅРµ РІ РїРѕС‚РёР»РёС†СЋ, РїРѕРєРё СЏ Р·Р°Р»Р°Р·РёРІ СЃС…РѕРґР°РјРё... РўРµРїРµСЂ С‚СЂРµР±Р° Р№С‚Рё Р·Р° РЅРёРј, С‰РѕР± РІРёР±СЂР°С‚РёСЃСЏ Р· С†С–С”С— С‡РѕСЂС‚РѕРІРѕС— РїС–РґР·РµРјРєРё.</text>
-  </string>
-  <string id="mkat_battle_task_final_solo_name">
-    <text>Р’РёР±СЂР°С‚РёСЃСЏ РЅР° РїРѕРІРµСЂС…РЅСЋ РїРѕРѕРґРёРЅС†С–</text>
-  </string>
-  <string id="mkat_battle_task_final_solo_text">
-    <text>РќРµРІС–РґРѕРјРёР№ СЏРє Сѓ РІРѕРґСѓ РєР°РЅСѓРІ, РєРѕР»Рё РґРѕ РЅСЊРѕРіРѕ РїСЂРёР»РµС‚С–Р»Р° РєСѓР»СЏ. РЈ РјР°Р№Р±СѓС‚РЅСЊРѕРјСѓ С‚СЂРµР±Р° Р±СѓС‚Рё Р· РЅРёРј РјР°РєСЃРёРјР°Р»СЊРЅРѕ Р°РєСѓСЂР°С‚РЅРёРј, Р° Р·Р°СЂР°Р· РЅР°СЃС‚Р°РІ С‡Р°СЃ РІРёР±РёСЂР°С‚РёСЃСЏ Р·РІС–РґСЃРё  вЂ”  РІС–РЅ РіРѕРІРѕСЂРёРІ РїСЂРѕ СЏРєСѓСЃСЊ РЅРѕСЂСѓ.</text>
-  </string>
+
+	<string id="mkat_battle_task">
+		<text>КОРОЛІВСЬКА БИТВА</text>
+	</string>
+
+	<string id="mkat_battle_task_main_title_name">
+		<text>Вижити</text>
+	</string>
+
+	<string id="mkat_battle_task_main_title_text">
+		<text>Нас спіймали найманці й змусили зіграти у їхню гру. З десяти сталкерів має вижити лише один. Вибору у мене, як я розумію, немає.</text>
+	</string>
+
+	<string id="mkat_battle_task_final_merc_leader_name">
+		<text>Вибратися з невідомим на поверхню</text>
+	</string>
+
+	<string id="mkat_battle_task_final_merc_leader_text">
+		<text>Дивно, що невідомий не вбив мене в потилицю, поки я залазив сходами... Тепер треба йти за ним, щоб вибратися з цієї чортової підземки.</text>
+	</string>
+
+	<string id="mkat_battle_task_final_solo_name">
+		<text>Вибратися на поверхню поодинці</text>
+	</string>
+
+	<string id="mkat_battle_task_final_solo_text">
+		<text>Невідомий як у воду канув, коли до нього прилетіла куля. У майбутньому треба бути з ним максимально акуратним, а зараз настав час вибиратися звідси  -  він говорив про якусь нору.</text>
+	</string>
+
 </string_table>

@@ -1,868 +1,1160 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="esc_task_actor_treasure">
-    <text>Р—РђРќРђР§РљРђ</text>
-  </string>
-  <string id="esc_task_actor_treasure_start_name">
-    <text>Р—Р°Р±СЂР°С‚Рё СЃРІС–Р№ С…Р°Р±Р°СЂ</text>
-  </string>
-  <string id="esc_task_actor_treasure_start_text">
-    <text>Р—РѕРІСЃС–Рј РЅРµРґР°РІРЅРѕ Р·Р°Р»РёС€Р°РІ СЃРІРѕС— СЂРµС‡С– Сѓ РЅРёС‡С†С–. РЎРїРѕРґС–РІР°СЋСЃСЊ, РІРѕРЅРё РІСЃРµ С‰Рµ РЅР° РјС–СЃС†С–.</text>
-  </string>
-  <string id="esc_trader_take_job">
-    <text>РџР•Р РЁР† Р—РђР РћР‘Р†РўРљР</text>
-  </string>
-  <string id="esc_trader_take_job_start_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· С‚РѕСЂРіРѕРІС†РµРј</text>
-  </string>
-  <string id="esc_trader_take_job_start_text">
-    <text>РЎРёР»СЊРЅРѕ РјРё Р· Р®СЂРєРѕРј РЅР°Р¶РµСЂР»РёСЃСЏ. РџРѕСЂР° Р· С†РёРј Р·Р°РІ'СЏР·СѓРІР°С‚Рё. РўСЂРµР±Р° Р·РЅР°Р№С‚Рё СЂРѕР±РѕС‚Сѓ, РїС–РґСѓ РґРѕ РЎРёРґРѕСЂРѕРІРёС‡Р°.</text>
-  </string>
-  <string id="esc_trader_search_collector_arts">
-    <text>РќРћР’Рђ Р’РР›РђР—РљРђ</text>
-  </string>
-  <string id="esc_trader_search_collector_arts_start_name">
-    <text>Р—РЅР°Р№С‚Рё Р·Р±РёСЂР°С‡Р° Р°СЂС‚РµС„Р°РєС‚С–РІ</text>
-  </string>
-  <string id="esc_trader_search_collector_arts_start_text">
-    <text>Р”Р°РІРЅРѕ СЏ РЅРµ Р±Р»СѓРєР°РІ РїРѕ РљРѕСЂРґРѕРЅСѓ. РџРѕСЂР° Р·РіР°РґР°С‚Рё РјРёРЅСѓР»Рµ. РЎРёРґРѕСЂРѕРІРёС‡ РїРѕРїСЂРѕСЃРёРІ Р·РЅР°Р№С‚Рё Р·Р±РёСЂР°С‡Р° Р°СЂС‚РµС„Р°РєС‚С–РІ. Р—Р° СЃР»РѕРІР°РјРё С‚РѕСЂРіРѕРІС†СЏ, РІС–РЅ РїС–С€РѕРІ РґРѕ С‚СѓРЅРµР»СЋ Р· В«Р•Р»РµРєС‚СЂР°РјРёВ», С‰Рѕ РїС–Рґ РјРѕСЃС‚РѕРј.</text>
-  </string>
-  <string id="esc_trader_search_collector_arts_pda_taken_name">
-    <text>Р РѕР·РїРѕРІС–СЃС‚Рё РЎРёРґРѕСЂРѕРІРёС‡Сѓ РїСЂРѕ СЃРјРµСЂС‚СЊ Р·Р±РёСЂР°С‡Р°</text>
-  </string>
-  <string id="esc_trader_search_collector_arts_pda_taken_text">
-    <text>РЇ Р·РЅР°Р№С€РѕРІ С‚СЂСѓРї Р·Р±РёСЂР°С‡Р° Р°СЂС‚РµС„Р°РєС‚С–РІ. РџРѕСЂР° РґРѕРїРѕРІС–СЃС‚Рё РЎРёРґРѕСЂРѕРІРёС‡Сѓ.</text>
-  </string>
-  <string id="esc_trader_search_collector_arts_go_back_name">
-    <text>Р РѕР·РїРѕРІС–СЃС‚Рё РЎРёРґРѕСЂРѕРІРёС‡Сѓ РїСЂРѕ В«СЃРјРµСЂС‚СЊВ» Р·Р±РёСЂР°С‡Р° Р°Р±Рѕ Р·РґР°С‚Рё Р№РѕРіРѕ</text>
-  </string>
-  <string id="esc_trader_search_collector_arts_go_back_text">
-    <text>Р—Р±РёСЂР°С‡ РїРѕРїР°РІ РЅР° РІРµР»РёРєС– Р±Р°Р±РєРё Сѓ С‚РѕСЂРіРѕРІС†СЏ, С– РІРёСЂС–С€РёРІ С–РјС–С‚СѓРІР°С‚Рё СЃРІРѕСЋ СЃРјРµСЂС‚СЊ Р·Р° РґРѕРїРѕРјРѕРіРѕСЋ СЏРєРѕРіРѕСЃСЊ С‚СЂСѓРїР°... РўСЂРµР±Р° РґСѓРјР°С‚Рё, С‰Рѕ Р· С†РёРј СЂРѕР±РёС‚Рё.</text>
-  </string>
-  <string id="esc_find_art_kutek">
-    <text>РўРЈРќР•Р›Р¬ Р— В«Р•Р›Р•РљРўР РђРњРВ»</text>
-  </string>
-  <string id="esc_find_art_kutek_start_name">
-    <text>Р”С–СЃС‚Р°С‚Рё Р°СЂС‚РµС„Р°РєС‚ Р· Р°РЅРѕРјР°Р»С–С—</text>
-  </string>
-  <string id="esc_find_art_kutek_start_text">
-    <text>Р’РёС…РѕРґСЏС‡Рё Р· Р·Р°РїРёСЃСѓ Р·Р±РёСЂР°С‡Р° Р°СЂС‚РµС„Р°РєС‚С–РІ, Сѓ С‚СѓРЅРµР»С– С” СЏРєРёР№СЃСЊ Р°СЂС‚РµС„Р°РєС‚. РўСЂРµР±Р° РїРµСЂРµРІС–СЂРёС‚Рё.</text>
-  </string>
-  <string id="arts_for_trader">
-    <text>РђР РўР•Р¤РђРљРўР Р”Р›РЇ РўРћР Р“РћР’Р¦РЇ</text>
-  </string>
-  <string id="trader_arts_inspect_first_anomaly_name">
-    <text>РџРµСЂРµРІС–СЂРёС‚Рё РЅР°СЏРІРЅС–СЃС‚СЊ Р°СЂС‚РµС„Р°РєС‚С–РІ Сѓ РїРµСЂС€С–Р№ Р°РЅРѕРјР°Р»С–С—</text>
-  </string>
-  <string id="trader_arts_inspect_second_anomaly_name">
-    <text>РџРµСЂРµРІС–СЂРёС‚Рё РЅР°СЏРІРЅС–СЃС‚СЊ Р°СЂС‚РµС„Р°РєС‚С–РІ Сѓ РґСЂСѓРіС–Р№ Р°РЅРѕРјР°Р»С–С—</text>
-  </string>
-  <string id="trader_arts_inspect_third_anomaly_name">
-    <text>РџРµСЂРµРІС–СЂРёС‚Рё РЅР°СЏРІРЅС–СЃС‚СЊ Р°СЂС‚РµС„Р°РєС‚С–РІ Сѓ С‚СЂРµС‚С–Р№ Р°РЅРѕРјР°Р»С–С—</text>
-  </string>
-  <string id="trader_arts_inspect_anomalies_text">
-    <text>Р—Р° РєРѕР¶РЅРёР№ РїСЂРёРЅРµСЃРµРЅРёР№ Р°СЂС‚РµС„Р°РєС‚, РЎРёРґРѕСЂРѕРІРёС‡ РѕР±С–С†СЏРІ РіСЂСѓР±С– РіСЂРѕС€С–, Р° РІРѕРЅРё РјРµРЅС– Р·Р°СЂР°Р· РґСѓР¶Рµ РїРѕС‚СЂС–Р±РЅС–. РҐРѕС‡РµС‚СЊСЃСЏ СЏРєРЅР°Р№С€РІРёРґС€Рµ СЂРІРѕРЅСѓС‚Рё РІРіР»РёР± Р—РѕРЅРё.</text>
-  </string>
-  <string id="arts_for_trader_back_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ РЎРёРґРѕСЂРѕРІРёС‡Р°</text>
-  </string>
-  <string id="fatalities_army">
-    <text>Р—РђР“РР‘Р›Р† Р’ РђРќРћРњРђР›Р†Р‡</text>
-  </string>
-  <string id="fatalities_army_start_name">
-    <text>РћРіР»СЏРЅСѓС‚Рё РјС–СЃС†Рµ Р·Р°РіРёР±РµР»С– РІС–Р№СЃСЊРєРѕРІРёС…</text>
-  </string>
-  <string id="fatalities_army_start_text">
-    <text>Р®СЂРєРѕ РїРѕРІС–РґРѕРјРёРІ, С‰Рѕ РІРѕСЏРєРё, СЏРєРёС… Р·Р° РЅР°РјРё РІС–РґРїСЂР°РІРёР»Рё, Р·РіРёРЅСѓР»Рё РІ Р°РЅРѕРјР°Р»С–С—. РњРѕР¶Рµ, Сѓ РЅРёС… Р·РЅР°Р№РґРµС‚СЊСЃСЏ С‰РѕСЃСЊ С†С–РЅРЅРµ. РўСЂРµР±Р° РїРµСЂРµРІС–СЂРёС‚Рё.</text>
-  </string>
-  <string id="esc_mechanic_night_polters">
-    <text>Р”РР’РќР† РЎР’Р†РўР†РќРќРЇ</text>
-  </string>
-  <string id="esc_mechanic_night_polters_wait_night_name">
-    <text>Р”РѕС‡РµРєР°С‚РёСЃСЏ РЅРѕС‡С–</text>
-  </string>
-  <string id="esc_mechanic_night_polters_wait_night_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ РґРѕС‡РµРєР°С‚РёСЃСЏ РїС–Р·РЅСЊРѕС— РЅРѕС‡С–, С‰РѕР± РїРµСЂРµРІС–СЂРёС‚Рё С‚РµРѕСЂС–СЋ РњРёС…Р°Р№Р»РѕРІРёС‡Р° РїСЂРѕ РЅС–С‡РЅС– СЃРІС–С‚С–РЅРЅСЏ, СЏРєС– РІС–РЅ РїСЂРёР№РјР°С” Р·Р° Р°СЂС‚РµС„Р°РєС‚Рё. РќР°РІС–РґР°СЋСЃСЊ С‚СѓРґРё РґРµСЃСЊ Рѕ РґСЂСѓРіС–Р№, С‰РѕР± РЅР°РїРµРІРЅРѕ.</text>
-  </string>
-  <string id="mechanic_go_check_anomaly_name">
-    <text>Р’РёСЂСѓС€Р°С‚Рё РґРѕ Р°РЅРѕРјР°Р»С–С—</text>
-  </string>
-  <string id="mechanic_go_check_anomaly_text">
-    <text>Р’Р¶Рµ С‡Р°СЃ РІРёСЂСѓС€Р°С‚Рё РґРѕ Р°РЅРѕРјР°Р»С–С— С‚Р° СЃРїСЂРѕР±СѓРІР°С‚Рё Р·РЅР°Р№С‚Рё Р°СЂС‚РµС„Р°РєС‚Рё, РїСЂРѕ СЏРєС– РіРѕРІРѕСЂРёРІ С‚РµС…РЅС–Рє.</text>
-  </string>
-  <string id="mechanic_kill_polters_name">
-    <text>Р’Р±РёС‚Рё РїРѕР»С‚РµСЂРіРµР№СЃС‚С–РІ Р°Р±Рѕ РїРѕРІРµСЂРЅСѓС‚РёСЃСЏ</text>
-  </string>
-  <string id="mechanic_kill_polters_text">
-    <text>РЎРІС–С‚С–РЅРЅСЏ Р±СѓР»Рё Р·РѕРІСЃС–Рј РЅРµ РІС–Рґ Р°СЂС‚РµС„Р°РєС‚С–РІ. РќРѕС‡Р°РјРё РІ Р°РЅРѕРјР°Р»С–С— Р·'СЏРІР»СЏСЋС‚СЊСЃСЏ РїРѕР»С‚РµСЂРіРµР№СЃС‚Рё. Р’РѕРЅРё Р№ СЃС‚РІРѕСЂСЋСЋС‚СЊ С‚Р°РєС– РїСЂРёРІР°Р±Р»РёРІС– СЃРІС–С‚РѕРІС– С–Р»СЋР·С–С—...</text>
-  </string>
-  <string id="mechanic_squad_polters_death_name">
-    <text>Р РѕР·РїРѕРІС–СЃС‚Рё РњРёС…Р°Р№Р»РѕРІРёС‡Сѓ РїСЂРѕ РїРѕР»С‚РµСЂРіРµР№СЃС‚Рё</text>
-  </string>
-  <string id="mechanic_squad_polters_death_text">
-    <text>Р’Р¶Рµ С‡Р°СЃ СЂРѕР·РїРѕРІС–СЃС‚Рё РњРёС…Р°Р№Р»РѕРІРёС‡Сѓ РїСЂРѕ РІСЃРµ, С‰Рѕ СЏ РїРѕР±Р°С‡РёРІ Сѓ Р°РЅРѕРјР°Р»С–С—.</text>
-  </string>
-  <string id="esc_fanat_logovo_start">
-    <text>РЎРўРђР Р† Р—РќРђР™РћРњР†</text>
-  </string>
-  <string id="esc_fanat_logovo_start_dlg_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р¤Р°РЅР°С‚РѕРј</text>
-  </string>
-  <string id="esc_fanat_logovo_start_dlg_text">
-    <text>РўРѕСЂРіРѕРІРµС†СЊ СЃРєР°Р·Р°РІ, С‰Рѕ Р¤Р°РЅР°С‚Сѓ РјРѕР¶Рµ Р·РЅР°РґРѕР±РёС‚РёСЃСЏ РґРѕРїРѕРјРѕРіР°... Р° РјРµРЅС– Р±Р°Р±РєРё Р·Р°СЂР°Р· РґСѓР¶Рµ РїРѕС‚СЂС–Р±РЅС–.</text>
-  </string>
-  <string id="esc_fanat_logovo">
-    <text>Р›Р†Р“Р’Рћ РњРЈРўРђРќРўР†Р’</text>
-  </string>
-  <string id="logovo_take_dinamit_name">
-    <text>Р”С–СЃС‚Р°С‚Рё РґРёРЅР°РјС–С‚</text>
-  </string>
-  <string id="logovo_take_dinamit_text">
-    <text>Р¤Р°РЅР°С‚ СЃРєР°Р·Р°РІ РґС–СЃС‚Р°С‚Рё РґРёРЅР°РјС–С‚, РїРѕРєРё РІС–РЅ Р· С…Р»РѕРїС†СЏРјРё РґС–СЃС‚Р°С”С‚СЊСЃСЏ РјС–СЃС†СЏ. РЁСѓРєР°С‚Рё С‚СЂРµР±Р° РґРµСЃСЊ Р±С–Р»СЏ Р»РѕРєРѕРјРѕС‚РёРІР°.</text>
-  </string>
-  <string id="logovo_go_marker_name">
-    <text>Р”С–СЃС‚Р°С‚РёСЃСЏ РјС–СЃС†СЏ</text>
-  </string>
-  <string id="logovo_go_marker_text">
-    <text>Р¤Р°РЅР°С‚ РґР°РІР°РІ РєРѕРѕСЂРґРёРЅР°С‚Рё Р»С–РіРІР°. РџРѕС‚СЂС–Р±РЅРѕ С‚СѓРґРё РІРёСЂСѓС€Р°С‚Рё  вЂ”  РІС–РЅ Р· С…Р»РѕРїС†СЏРјРё РІР¶Рµ РјРµРЅРµ С‡РµРєР°С”.</text>
-  </string>
-  <string id="logovo_put_dinamit_name">
-    <text>РџРѕСЃС‚Р°РІРёС‚Рё РґРёРЅР°РјС–С‚</text>
-  </string>
-  <string id="logovo_put_dinamit_text">
-    <text>Р¤Р°РЅР°С‚ Р· С…Р»РѕРїС†СЏРјРё РјРµРЅРµ РїСЂРёРєСЂРёРІР°С‚РёРјРµ, РїРѕРєРё СЏ СЃС‚Р°РІР»СЋ РґРёРЅР°РјС–С‚. Р— Р±РѕРіРѕРј.</text>
-  </string>
-  <string id="logovo_speak_fanat_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р¤Р°РЅР°С‚РѕРј</text>
-  </string>
-  <string id="logovo_speak_fanat_text">
-    <text>РќС–С‡РѕРіРѕ С‚Р°Рє СЂРІРѕРЅСѓР»Рѕ. РџРѕСЂР° С‚СЂСЏСЃС‚Рё Р· Р¤Р°РЅР°С‚Р° РЅР°РіРѕСЂРѕРґСѓ.</text>
-  </string>
-  <string id="esc_actor_repair_ar">
-    <text>РџР•Р РЁРР™ РђР’РўРћРњРђРў</text>
-  </string>
-  <string id="esc_actor_repair_ar_start_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· С‚РµС…РЅС–РєРѕРј</text>
-  </string>
-  <string id="esc_actor_repair_ar_start_text">
-    <text>Р’ РЅР°РіРѕСЂРѕРґСѓ Р¤Р°РЅР°С‚ РґР°РІ СЃРІС–Р№ СЃС‚Р°СЂРёР№, Р°Р»Рµ С†С–Р»РєРѕРј СЃРїСЂР°РІРЅРёР№ РєР°Р»Р°С€. Р™РѕРіРѕ С‚СЂРµР±Р° РґРѕРІРµСЃС‚Рё РґРѕ Р»Р°РґСѓ, С‰РѕР± Р· РЅСЊРѕРіРѕ РјРѕР¶РЅР° Р±СѓР»Рѕ Р·РЅРѕРІСѓ СЃС‚СЂС–Р»СЏС‚Рё.</text>
-  </string>
-  <string id="esc_actor_repair_ar_wait_name">
-    <text>Р”РѕС‡РµРєР°С‚РёСЃСЏ, РїРѕРєРё С‚РµС…РЅС–Рє Р·Р°РєС–РЅС‡РёС‚СЊ СЂРµРјРѕРЅС‚</text>
-  </string>
-  <string id="esc_actor_repair_ar_wait_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡ РґР°СЃС‚СЊ Р·РЅР°С‚Рё, РєРѕР»Рё Р·Р°РєС–РЅС‡РёС‚СЊ Р· СЂРµРјРѕРЅС‚РѕРј РјРѕРіРѕ РєР°Р»Р°С€Р°. РџРѕРєРё РјРѕР¶РЅР° Р·Р°Р№РЅСЏС‚РёСЃСЏ СЏРєРёРјРёСЃСЊ СЃРїСЂР°РІР°РјРё.</text>
-  </string>
-  <string id="esc_actor_repair_ar_final_name">
-    <text>Р—Р°Р±СЂР°С‚Рё РєР°Р»Р°С€ Сѓ С‚РµС…РЅС–РєР°</text>
-  </string>
-  <string id="esc_actor_repair_ar_final_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡ РјР°СЏРєРЅСѓРІ, С‰Рѕ Р·Р°РєС–РЅС‡РёРІ СЂРѕР±РѕС‚Сѓ. РџРѕСЂР° Р·Р°Р±РёСЂР°С‚Рё СЃС‚РІРѕР».</text>
-  </string>
-  <string id="fanat_friend_quest">
-    <text>Р‘РћР Р“</text>
-  </string>
-  <string id="fanat_friend_quest_start_name">
-    <text>Р’РёР±РёС‚Рё Р·С– СЃС‚Р°Р»РєРµСЂР° РіСЂРѕС€С–</text>
-  </string>
-  <string id="fanat_friend_quest_start_text">
-    <text>Р’РѕР»РѕРґСЊРєРѕ Р‘РёС‚РёР№ СЃРєР°Р·Р°РІ, С‰Рѕ РєРёРґР°Р»Рѕ Р·РЅР°С…РѕРґРёС‚СЊСЃСЏ РЅР° РѕРєРѕР»РёС†СЏС… РµР»РµРІР°С‚РѕСЂР°. РўСЂРµР±Р° РІРёР±РёС‚Рё Р· РЅСЊРѕРіРѕ Р±РѕСЂРі  вЂ”  РІС–СЃС–Рј С‚РёСЃСЏС‡.</text>
-  </string>
-  <string id="fanat_friend_quest_vibil_name">
-    <text>Р’С–РґРґР°С‚Рё РіСЂРѕС€С– Р’РѕР»РѕРґСЊРєРѕРІС–</text>
-  </string>
-  <string id="fanat_friend_quest_vibil_text">
-    <text>РЎР»РёР·СЊРєРёР№ С‚РёРї РІРёСЏРІРёРІСЃСЏ, Р°Р»Рµ РіСЂРѕС€С– РІСЃРµ Р¶ С‚Р°РєРё С‚РµРїРµСЂ Сѓ РјРµРЅРµ. Р”Р°Р»С– РІСЃРµ РїСЂРѕСЃС‚Рѕ.</text>
-  </string>
-  <string id="esc_trader_take_job_second">
-    <text>Р РћР‘РћРўРђ РќРђ РљРћР Р”РћРќР†</text>
-  </string>
-  <string id="esc_trader_take_job_2_start_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё С–Р· РЎРёРґРѕСЂРѕРІРёС‡РµРј</text>
-  </string>
-  <string id="esc_trader_take_job_2_start_text">
-    <text>РўР° С‰Рѕ Р¶ С‚Р°РєРµ, Р·РЅРѕРІСѓ РІ РјРѕС‚Р»РѕС… РЅР°Р¶РµСЂСЃСЏ... РЇРє Р¶Рµ Р±Р°С€РєР° С‚СЂС–С‰РёС‚СЊ! Р’СЃРµ, С‚РѕС‡РЅРѕ Р·Р°РІ'СЏР·СѓСЋ. РџС–РґСѓ РґРѕ РЎРёРґРѕСЂР° РїРѕ СЂРѕР±РѕС‚Сѓ, С–РЅР°РєС€Рµ С‚Р°РєРёРјРё С‚РµРјРїР°РјРё РЅС–РєРѕР»Рё РґРѕ РЎРјС–С‚РЅРёРєР° РЅРµ РґРѕР±РµСЂСѓСЃСЏ...</text>
-  </string>
-  <string id="esc_defence_village">
-    <text>РђРўРђРљРђ РќРђ РЎР•Р›Рћ</text>
-  </string>
-  <string id="esc_defence_village_start_name">
-    <text>Р’С–РґР±РёС‚РёСЃСЏ РІС–Рґ РјСѓС‚Р°РЅС‚С–РІ</text>
-  </string>
-  <string id="esc_defence_village_start_text">
-    <text>Р”С–РґСЊРєРѕ, Р·РІС–РґРєРё РІРѕРЅРё РІР·СЏР»РёСЃСЏ?! Р¦Рµ РІСЃРµ РєР»СЏС‚С– СЏР№С†РµРіРѕР»РѕРІС– Р·С– СЃРІРѕС—Рј РїСЂРёР»Р°РґРѕРј!</text>
-  </string>
-  <string id="esc_defence_village_tech_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ С‚РµС…РЅС–РєР°</text>
-  </string>
-  <string id="esc_defence_village_tech_text">
-    <text>РђС‚Р°РєСѓ РІС–РґР±РёС‚Рѕ. РџРѕСЂР° Р·'СЏСЃСѓРІР°С‚Рё, С‰Рѕ Р¶ С†Рµ Р·Р° РїСЂРёР»Р°Рґ, С‰Рѕ РїСЂРёРјР°РЅСЋС” РјРѕРЅСЃС‚СЂС–РІ...</text>
-  </string>
-  <string id="esc_technic_device_atp_task">
-    <text>Р РћР‘РћРўРђ РќРђ РљРћРњР‘Р•Р—</text>
-  </string>
-  <string id="esc_technic_device_atp_task_start_name">
-    <text>Р’СЃС‚Р°РЅРѕРІРёС‚Рё РїСЂРёР»Р°Рґ РІС‡РµРЅРёС… РЅР° РђРўРџ</text>
-  </string>
-  <string id="esc_technic_device_atp_task_start_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡ РїРѕРїСЂРѕСЃРёРІ РІСЃС‚Р°РЅРѕРІРёС‚Рё РїСЂРёР»Р°Рґ РІС‡РµРЅРёС… Сѓ Р±Р°РЅРґРёС‚СЃСЊРєРѕРјСѓ С‚Р°Р±РѕСЂС– РЅР° РђРўРџ, Р·Р° С‰Рѕ РѕР±С–С†СЏРІ РїС–РґС–РіРЅР°С‚Рё РєРѕРјР±РµР·.</text>
-  </string>
-  <string id="esc_technic_device_atp_task_final_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ РњРёС…Р°Р№Р»РѕРІРёС‡Р°</text>
-  </string>
-  <string id="esc_technic_device_atp_task_final_text">
-    <text>РЎРїСЂР°РІСѓ РІРёРєРѕРЅР°РЅРѕ. РўРµРїРµСЂ С‡Р°СЃ РїРѕРІРµСЂС‚Р°С‚РёСЃСЏ РґРѕ РњРёС…Р°Р№Р»РѕРІРёС‡Р° Р·Р° РѕР±С–С†СЏРЅРёРј РєРѕРјР±РµР·РѕРј.</text>
-  </string>
-  <string id="esc_trader_fail_speak_jurok">
-    <text>Р”Р РЈР“ РќР• РџРћРљРРќР•</text>
-  </string>
-  <string id="esc_trader_fail_speak_jurok_start_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р®СЂРєРѕРј</text>
-  </string>
-  <string id="esc_trader_fail_speak_jurok_start_text">
-    <text>РќР°Р№Р±Р»РёР¶С‡РёРј С‡Р°СЃРѕРј РјРѕС— СЃРїСЂР°РІРё Р· С‚РѕСЂРіРѕРІС†РµРј Р·Р°РєС–РЅС‡РµРЅРѕ. РўСЂРµР±Р° Р± СЃС…РѕРґРёС‚Рё РґРѕ Р®СЂРєР°: Р±С–Р»СЊС€Рµ С‚СѓС‚ С…РѕСЂРѕС€РёС… Р·РЅР°Р№РѕРјРёС… Сѓ РјРµРЅРµ РЅРµРјР°С”. РЎРїРѕРґС–РІР°СЋСЃСЊ, РІС–РЅ РІР¶Рµ РїСЂРѕСЃРїР°РІСЃСЏ С– РїРѕРјРѕР¶Рµ РїРѕСЂР°РґРѕСЋ...</text>
-  </string>
-  <string id="travel_task_provodnik">
-    <text>Р РћР‘РћРўРђ РџР РћР’Р†Р”РќРРљРћРњ</text>
-  </string>
-  <string id="travel_task_provodnik_go_tonnel_name">
-    <text>Р’РёСЂСѓС€Р°С‚Рё РґРѕ С‚СѓРЅРµР»СЋ</text>
-  </string>
-  <string id="travel_task_provodnik_go_tonnel_text">
-    <text>РўР°Рє, СЃРёР»СЊРЅРѕ Р®СЂРєРѕ РЅР°Р±Р°РЅСЏС‡РёРІСЃСЏ. РђР»Рµ РЅС–С‡РѕРіРѕ, Р·Р°С‚Рµ Р·Р° РЅСЊРѕРіРѕ РЅРѕРІР°С‡РєС–РІ РІС–РґРІРµРґСѓ С‚Р° РіСЂРѕС€РµР№ Р·Р°СЂРѕР±Р»СЋ. Р’РµСЃС‚Рё С‚СЂРµР±Р° СЂР°РЅРѕ РІСЂР°РЅС†С–, С–РЅР°РєС€Рµ РІРёР№РґРµ, СЏРє РјРёРЅСѓР»РѕРіРѕ СЂР°Р·Сѓ...</text>
-  </string>
-  <string id="travel_task_provodnik_go_village_name">
-    <text>Р’С–РґРІРµСЃС‚Рё РЅРѕРІР°С‡РєС–РІ Сѓ СЃРµР»Рѕ</text>
-  </string>
-  <string id="travel_task_provodnik_go_village_text">
-    <text>РЇРєС–СЃСЊ РІРѕРЅРё РґРёРІРЅС–... РќСѓ РіР°СЂР°Р·Рґ, Р·Р°СЂР°Р· РІС–РґРІРµРґСѓ, РѕС‚СЂРёРјР°СЋ РіСЂРѕС€РµРЅСЏС‚, Р·Р°РєСѓРїР»СЋСЃСЏ С– РјРѕР¶РЅР° СЂРІР°С‚Рё РЅР° РЎРјС–С‚РЅРёРє.</text>
-  </string>
-  <string id="travel_robbery_speak">
-    <text>РџРћР“Р РђР‘РЈР’РђРќРќРЇ</text>
-  </string>
-  <string id="travel_robbery_speak_start_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РІ СЃРµР»Рѕ</text>
-  </string>
-  <string id="travel_robbery_speak_start_text">
-    <text>Р—Р°СЂРѕР±РёРІ, Р±Р»СЏС…Р°, РіСЂРѕС€РµР№, Р°РіР°... Р”Рµ Р¶ С†РёС… РІРёСЂРѕРґРєС–РІ С‚РµРїРµСЂ С€СѓРєР°С‚Рё? Р”Рµ РјРѕС— СЂРµС‡С–? РџС–РґСѓ РґРѕ Р®СЂРєР°.</text>
-  </string>
-  <string id="travel_robbery_task">
-    <text>Р’РљР РђР”Р•РќР• Р”РћР‘Р Рћ</text>
-  </string>
-  <string id="travel_robbery_task_grabitely_name">
-    <text>Р—РЅР°Р№С‚Рё Р·Р»РѕРґС–С—РІ</text>
-  </string>
-  <string id="travel_robbery_task_grabitely_text">
-    <text>РћС‚ Р¶Рµ СЃРєРѕС‚РёРЅСЏРєРё  вЂ”  С‰РѕР№РЅРѕ РїСЂРёР№С€Р»Рё Сѓ Р—РѕРЅСѓ С– РІР¶Рµ С‚Р°РєРёРј РїСЂРѕРјРёС€Р»СЏСЋС‚СЊ! РћС‚ СЏРє Р·РЅР°Р№РґСѓ РіР°РґС–РІ! Р®СЂРєРѕ РєР°Р·Р°РІ РїРѕС€СѓРєР°С‚Рё РЅР° РµР»РµРІР°С‚РѕСЂС– Р°Р±Рѕ РЅР° С„РµСЂРјС–.</text>
-  </string>
-  <string id="travel_robbery_task_items_name">
-    <text>Р—Р°Р±СЂР°С‚Рё СЂРµС‡С–</text>
-  </string>
-  <string id="travel_robbery_task_items_text">
-    <text>РЎР»Р°РІР° Р±РѕРіСѓ, РјРѕС— СЂРµС‡С– РЅРµСѓС€РєРѕРґР¶РµРЅС–! РќРµ РІСЃС‚РёРіР»Рё РїРѕРєРёРґСЊРєРё РїСЂРѕРґР°С‚Рё.</text>
-  </string>
-  <string id="travel_robbery_task_go_back_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ Р®СЂРєР°</text>
-  </string>
-  <string id="travel_robbery_task_go_back_text">
-    <text>Р—С– Р·Р»РѕРґС–СЏРјРё Р·Р°РєС–РЅС‡РёРІ. РўСЂРµР±Р° РїРѕРІРµСЂРЅСѓС‚Рё РїС–СЃС‚РѕР»РµС‚ Р®СЂРєРѕРІС–.</text>
-  </string>
-  <string id="go_to_garbage">
-    <text>РЎРўР РђРҐ РќР•Р’Р†Р”РћРњРћР“Рћ</text>
-  </string>
-  <string id="go_to_garbage_start_name">
-    <text>Р’РёСЂСѓС€Р°С‚Рё РЅР° РЎРјС–С‚РЅРёРє</text>
-  </string>
-  <string id="go_to_garbage_start_text">
-    <text>РќР°СЂРµС€С‚С– СЏ Р·Р°РєС–РЅС‡РёРІ С–Р· С†РёРј РЅСѓРґРЅРёРј РљРѕСЂРґРѕРЅРѕРј, С‚РµРїРµСЂ РїРѕР±Р°С‡Сѓ РЅРѕРІС– РѕРєРѕР»РёС†С–! РћРґРЅРѕС‡Р°СЃРЅРѕ С– СЃС‚СЂР°С€РЅРѕ, С– РґСѓР¶Рµ С…РѕС‡РµС‚СЊСЃСЏ РїРѕРґРёРІРёС‚РёСЃСЏ РЅР° С‚РµСЂРёС‚РѕСЂС–СЋ Р—РѕРЅРё Р·Р° РјРµР¶Р°РјРё РљРѕСЂРґРѕРЅСѓ. РњРµРЅС– РїРѕСЂР°.</text>
-  </string>
-  <string id="trader_notebook_task">
-    <text>Р”Р Р†Р‘'РЇР—РљРћР’Рђ Р РћР‘РћРўРђ</text>
-  </string>
-  <string id="trader_notebook_go_technic_name">
-    <text>Р—Р°Р±СЂР°С‚Рё РЅРѕСѓС‚Р±СѓРє С‚РѕСЂРіРѕРІС†СЏ</text>
-  </string>
-  <string id="trader_notebook_go_technic_text">
-    <text>РЎРёРґРѕСЂ, СЃСѓРґСЏС‡Рё Р· СѓСЃСЊРѕРіРѕ, СЃРІРѕС—РјРё РєР»РµС€РЅСЏРјРё СѓРіСЂРѕР±РёРІ РЅРѕСѓС‚. Р—Р°СЂР°Р· РІС–РЅ Сѓ С‚РµС…РЅС–РєР°, С– Р№РѕРіРѕ С‚СЂРµР±Р° Р·Р°Р±СЂР°С‚Рё.</text>
-  </string>
-  <string id="trader_notebook_go_trader_name">
-    <text>Р’С–РґРЅРµСЃС‚Рё РЅРѕСѓС‚Р±СѓРє РЎРёРґРѕСЂРѕРІРёС‡Сѓ</text>
-  </string>
-  <string id="trader_notebook_go_trader_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡ РїРѕР»Р°РіРѕРґРёРІ РЅРѕСѓС‚Р±СѓРє. РўРµРїРµСЂ Р№РѕРіРѕ РјРѕР¶РЅР° РІС–РґРґР°С‚Рё С‚РѕСЂРіРѕРІС†СЋ РЅР° Р·Р°РјС–РЅСѓ СЃС‚Р°СЂРѕРјСѓ РєРѕРјРїСѓ.</text>
-  </string>
-  <string id="stalker_car_benzin_task">
-    <text>Р’РР“Р†Р”РќРђ РџР РћРџРћР—РР¦Р†РЇ</text>
-  </string>
-  <string id="stalker_car_benzin_task_go_village_name">
-    <text>РЎС…РѕРґРёС‚Рё РґРѕ С‚РµС…РЅС–РєР° Р·Р° Р±РµРЅР·РёРЅРѕРј</text>
-  </string>
-  <string id="stalker_car_benzin_task_go_village_text">
-    <text>Р§РѕР»РѕРІС–Рє Р·РЅР°Р№С€РѕРІ РјР°Р»Рѕ РЅРµ РїРѕСЃРµСЂРµРґ РґРѕСЂРѕРіРё РЅСѓР»СЊРѕРІСѓ С‚Р°С‡РєСѓ С– РїСЂРѕСЃРёС‚СЊ Р·РіР°РЅСЏС‚Рё Р·Р° Р±РµРЅР·РёРЅРѕРј, РїРѕРєРё СЃР°Рј С—С— С‡Р°С‚СѓС”.</text>
-  </string>
-  <string id="stalker_car_benzin_task_go_car_name">
-    <text>Р’С–РґРЅРµСЃС‚Рё РєР°РЅС–СЃС‚СЂСѓ СЃС‚Р°Р»РєРµСЂСѓ</text>
-  </string>
-  <string id="stalker_car_benzin_task_go_car_text">
-    <text>Р©Рµ РєРѕСЃР°СЂ РґРѕРІРµР»РѕСЃСЏ РІС–РґРґР°С‚Рё... РќР°РІС–С‰Рѕ СЏ РїС–РґРїРёСЃР°РІСЃСЏ РЅР° С†СЋ С…РµСЂРЅСЋ? РЎРїРѕРґС–РІР°СЋСЃСЊ, С…РѕС‡ РЅР°РіРѕСЂРѕРґР° РѕРєСѓРїРёС‚СЊ РІРёС‚СЂР°С‡РµРЅРµ.</text>
-  </string>
-  <string id="help_stalker_car">
-    <text>РўРћР’РђР РРЁ РЈ Р‘Р†Р”Р†</text>
-  </string>
-  <string id="help_stalker_name">
-    <text>Р”РѕРїРѕРјРѕРіС‚Рё СЃС‚Р°Р»РєРµСЂРѕРІС–</text>
-  </string>
-  <string id="help_stalker_text">
-    <text>РќР° СЃС‚Р°Р»РєРµСЂР° РЅР°РїР°Р»Рё Р±Р°РЅРґРёС‚Рё, РІС–РЅ РїСЂРѕСЃРёС‚СЊ РґРѕРїРѕРјРѕРіРё. Р“СЂС–С… РЅРµ РїРѕРјРѕРіС‚Рё.</text>
-  </string>
-  <string id="visit_stancia">
-    <text>РњР Р†Р‡</text>
-  </string>
-  <string id="visit_stancia_start_name">
-    <text>РџРѕР±СѓРІР°С‚Рё РЅР° Р§РђР•РЎ</text>
-  </string>
-  <string id="visit_stancia_start_text">
-    <text>РћС‚, Р±Р»СЏС…Р°, РЅР°СЃР»СѓС…Р°РІСЃСЏ РІСЃСЏРєРёС… Р±Р°Р№РѕРє, С‚Р°Рє С– С…РѕС‡РµС‚СЊСЃСЏ Сѓ Р¦РµРЅС‚СЂ Р—РѕРЅРё! РђСЂС‚РµС„Р°РєС‚Рё, Р’РёРєРѕРЅР°РІРµС†СЊ Р‘Р°Р¶Р°РЅСЊ!</text>
-  </string>
-  <string id="esc_trader_job">
-    <text>Р РћР‘РћРўРђ РќРђ РўРћР Р“РћР’Р¦РЇ</text>
-  </string>
-  <string id="esc_task_for_trailer">
-    <text>Р—РќРРљР›РР™ РЎРўРђР›РљР•Р </text>
-  </string>
-  <string id="esc_task_for_trailer_search_stalker_name">
-    <text>Р—РЅР°Р№С‚Рё СЃР»С–РґРё РљРёСЂСЋС…Рё</text>
-  </string>
-  <string id="esc_task_for_trailer_search_stalker_text">
-    <text>РЎС‚Р°Р»РєРµСЂ РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ РЁР°Р№Р±Р° РїРѕРїСЂРѕСЃРёРІ РїРѕ РјРѕР¶Р»РёРІРѕСЃС‚С– Р·РЅР°Р№С‚Рё Р№РѕРіРѕ Р·РЅРёРєР»РѕРіРѕ РґСЂСѓРіР°. РњР°Р±СѓС‚СЊ, РІС–РЅ РјРѕР¶Рµ Р±СѓС‚Рё РґРµСЃСЊ Р·Р° РјС–СЃС‚РєРѕРј.</text>
-  </string>
-  <string id="esc_task_for_trailer_follow_the_sounds_name">
-    <text>РџС–С‚Рё РЅР° РєСЂРёРєРё РїСЂРѕ РґРѕРїРѕРјРѕРіСѓ</text>
-  </string>
-  <string id="esc_task_for_trailer_follow_the_sounds_text">
-    <text>Р— С‚РµСЂРёС‚РѕСЂС–С— РµР»РµРІР°С‚РѕСЂР° РґРѕРЅРѕСЃСЏС‚СЊСЃСЏ РєСЂРёРєРё РїСЂРѕ РґРѕРїРѕРјРѕРіСѓ. РўСЂРµР±Р° РїРµСЂРµРІС–СЂРёС‚Рё.</text>
-  </string>
-  <string id="esc_task_for_trailer_kill_flesh_name">
-    <text>Р’Р±РёС‚Рё РЅРµР·РІРёС‡Р°Р№РЅСѓ РїР»РѕС‚СЊ</text>
-  </string>
-  <string id="esc_task_for_trailer_kill_flesh_text">
-    <text>РќР° РµР»РµРІР°С‚РѕСЂС– РјРµС€РєР°С” СЏРєР°СЃСЊ РїР»РѕС‚СЊ, С‰Рѕ РІРјС–С” РіРѕРІРѕСЂРёС‚Рё, С– С‡РµСЂРµР· СЏРєСѓ, СЃС…РѕР¶Рµ, Р·Р°РіРёРЅСѓР»Рѕ Р±Р°РіР°С‚Рѕ СЃС‚Р°Р»РєРµСЂС–РІ.</text>
-  </string>
-  <string id="esc_task_for_trailer_help_stalker_name">
-    <text>Р”РѕРїРѕРјРѕРіС‚Рё РІС†С–Р»С–Р»РѕРјСѓ</text>
-  </string>
-  <string id="esc_task_for_trailer_help_stalker_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ СЂРѕР·РїРёС‚Р°С‚Рё РІС†С–Р»С–Р»РѕРіРѕ РїСЂРѕ С‚Рµ, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ РЅР° РµР»РµРІР°С‚РѕСЂС– С‚Р° СЃРїСЂРѕР±СѓРІР°С‚Рё РґРѕРїРѕРјРѕРіС‚Рё РґС–СЃС‚Р°С‚РёСЃСЏ РґРѕ Р±РµР·РїРµС‡РЅРѕРіРѕ РјС–СЃС†СЏ.</text>
-  </string>
-  <string id="esc_task_for_trailer_start_village_name">
-    <text>Р’РёСЂСѓС€РёС‚Рё РІ СЃРµР»Рѕ Р·Р° РґРѕРїРѕРјРѕРіРѕСЋ</text>
-  </string>
-  <string id="esc_task_for_trailer_start_village_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ СЂРѕР·РїРѕРІС–СЃС‚Рё РЁР°Р№Р±С– РїСЂРѕ С‚Рµ, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ, РїСЂРѕ СЃРјРµСЂС‚СЊ Р№РѕРіРѕ С‚РѕРІР°СЂРёС€Р° С‚Р° РІРёСЂС–С€РёС‚Рё, С‰Рѕ СЂРѕР±РёС‚Рё РґР°Р»С–.</text>
-  </string>
-  <string id="esc_task_for_trailer_attack_ready_name">
-    <text>РџРѕРІС–РґРѕРјРёС‚Рё РЁР°Р№Р±С– РїСЂРѕ РіРѕС‚РѕРІРЅС–СЃС‚СЊ</text>
-  </string>
-  <string id="esc_task_for_trailer_attack_ready_text">
-    <text>РљРѕР»Рё Р±СѓРґСѓ РіРѕС‚РѕРІРёР№, С‚СЂРµР±Р° РїРѕРІС–РґРѕРјРёС‚Рё РЁР°Р№Р±С–. РџС–РґРµРјРѕ Р·РЅРёС‰СѓРІР°С‚Рё С‚РёС… РЅРµР·РІРёС‡РЅРёС… РїР»РѕС‚РµР№.</text>
-  </string>
-  <string id="esc_task_for_trailer_attack_start_name">
-    <text>Р РѕР·СЃС‚СЂС–Р»СЏС‚Рё Р·РіСЂР°СЋ РїР»РѕС‚РµР№</text>
-  </string>
-  <string id="esc_task_for_trailer_attack_start_text">
-    <text>РџРѕСЂР° РїРѕРјСЃС‚РёС‚РёСЃСЏ С†РёРј С‚РІР°СЂСЋРєР°Рј Р·Р° Р·РіСѓР±Р»РµРЅРёС… РЅР° РµР»РµРІР°С‚РѕСЂС– СЃС‚Р°Р»РєРµСЂС–РІ. РќСѓ, Р· Р±РѕРіРѕРј...</text>
-  </string>
-  <string id="esc_task_for_trailer_attack_surge_name">
-    <text>РЎС…РѕРІР°С‚РёСЃСЏ РІС–Рґ РІРёРєРёРґСѓ Сѓ С‚СѓРЅРµР»С–</text>
-  </string>
-  <string id="esc_task_for_trailer_attack_surge_text">
-    <text>РЇРє Р¶Рµ РЅРµ РІС‡Р°СЃРЅРѕ! РџРѕС‚СЂС–Р±РЅРѕ С‚РµСЂРјС–РЅРѕРІРѕ Р±С–РіС‚Рё РґРѕ С‚СѓРЅРµР»СЋ...</text>
-  </string>
-  <string id="esc_task_for_trailer_attack_surge_defence_name">
-    <text>РЈС‚СЂРёРјР°С‚Рё РїРѕР·РёС†С–С— Сѓ С‚СѓРЅРµР»С–</text>
-  </string>
-  <string id="esc_task_for_trailer_attack_surge_defence_text">
-    <text>Р—РґР°С”С‚СЊСЃСЏ, С†С– С‚РІР°СЂСЋРєРё СѓРІ'СЏР·Р°Р»РёСЃСЏ Р·Р° РЅР°РјРё, С‚Р° С‰Рµ Р№ РїС–Рґ РІРёРєРёРґ... Р‡С… РЅРµ РјРѕР¶РЅР° РїС–РґРїСѓСЃРєР°С‚Рё.</text>
-  </string>
-  <string id="esc_task_for_trailer_attack_go_village_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РІ СЃРµР»Рѕ</text>
-  </string>
-  <string id="esc_task_for_trailer_attack_go_village_text">
-    <text>РћС‚ РІР¶Рµ РЅР°СЃ СЃРїРѕРґРѕР±РёР»Рѕ, Р°Р»Рµ РІРїРѕСЂР°Р»РёСЃСЏ! РџРѕСЂР° РїРѕРІРµСЂС‚Р°С‚РёСЃСЏ. РўСЂРµР±Р° РІС–РґРїРѕС‡РёС‚Рё.</text>
-  </string>
-  <string id="esc_repair_nimble_rifle">
-    <text>РЈРќР†РљРђР›Р¬РќРђ В«Р“Р РћР—РђВ»</text>
-  </string>
-  <string id="esc_repair_nimble_rifle_go_technic_name">
-    <text>РЎРїРёС‚Р°С‚Рё РњРёС…Р°Р№Р»РѕРІРёС‡Р° РїСЂРѕ СЂРµРјРѕРЅС‚</text>
-  </string>
-  <string id="esc_repair_nimble_rifle_go_technic_text">
-    <text>РћС†Рµ С‚Р°Рє, РїСЂРѕ С‚Р°РєСѓ РїСѓС€РєСѓ РјРѕР¶РЅР° Р»РёС€Рµ РјСЂС–СЏС‚Рё! Р©РѕРїСЂР°РІРґР°, СЃС‚Р°РЅ Сѓ РЅРµС— РЅС–РєС‡РµРјРЅРёР№. Р—РІРµСЂРЅСѓСЃСЏ РґРѕ РњРёС…Р°Р№Р»РѕРІРёС‡Р° Р·Р° РґРѕРїРѕРјРѕРіРѕСЋ.</text>
-  </string>
-  <string id="esc_repair_nimble_rifle_search_technic_materials_name">
-    <text>Р”С–СЃС‚Р°С‚Рё РњРёС…Р°Р№Р»РѕРІРёС‡Сѓ РјР°С‚РµСЂС–Р°Р»Рё</text>
-  </string>
-  <string id="esc_repair_nimble_rifle_search_technic_materials_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡ РЅРµ РїРѕРіРѕРґРёРІСЃСЏ РЅР° РіСЂРѕС€С– Р·Р° СЂРµРјРѕРЅС‚ В«Р“СЂРѕР·РёВ» С– РїРѕРїСЂРѕСЃРёРІ РґС–СЃС‚Р°С‚Рё Р№РѕРјСѓ РјР°С‚РµСЂС–Р°Р»Рё РґР»СЏ СЂРѕР±РѕС‚Рё. РљР°Р¶Рµ, РїРѕС‚СЂС–Р±РЅРѕ Р»С–Р·С‚Рё РІ РїС–РґР·РµРјРєСѓ, С‰Рѕ РїС–Рґ Р°РЅРіР°СЂРѕРј РЅР° РЎРјС–С‚РЅРёРєСѓ. РџСЂРёС‚СЏРіРЅСѓ РІСЃРµ, С‰Рѕ Р·РЅР°Р№РґСѓ.</text>
-  </string>
-  <string id="esc_repair_nimble_rifle_final_technic_materials_name">
-    <text>Р’С–РґРґР°С‚Рё РњРёС…Р°Р№Р»РѕРІРёС‡Сѓ РјР°С‚РµСЂС–Р°Р»Рё</text>
-  </string>
-  <string id="esc_repair_nimble_rifle_final_technic_materials_text">
-    <text>РќР°СЂРµС€С‚С– СЏ Р·С–Р±СЂР°РІ Р№РѕРјСѓ С†Рµ Р±Р°СЂР°С…Р»Рѕ. РџРѕСЂР° РїРѕРІРµСЂС‚Р°С‚РёСЃСЏ Р·Р° РїСѓС€РєРѕСЋ.</text>
-  </string>
-  <string id="esc_repair_nimble_rifle_wait_time_name">
-    <text>Р”РѕС‡РµРєР°С‚РёСЃСЏ, РїРѕРєРё С‚РµС…РЅС–Рє Р·Р°РєС–РЅС‡РёС‚СЊ СЂРµРјРѕРЅС‚</text>
-  </string>
-  <string id="esc_repair_nimble_rifle_wait_time_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡ РґР°СЃС‚СЊ Р·РЅР°С‚Рё, РєРѕР»Рё Р·Р°РєС–РЅС‡РёС‚СЊ Р· СЂРµРјРѕРЅС‚РѕРј РіРІРёРЅС‚С–РІРєРё. РџРѕРєРё РјРѕР¶РЅР° Р·Р°Р№РЅСЏС‚РёСЃСЏ СЃРІРѕС—РјРё СЃРїСЂР°РІР°РјРё.</text>
-  </string>
-  <string id="esc_repair_nimble_rifle_take_name">
-    <text>Р—Р°Р±СЂР°С‚Рё Р·Р±СЂРѕСЋ</text>
-  </string>
-  <string id="esc_repair_nimble_rifle_take_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡ РїРѕРІС–РґРѕРјРёРІ, С‰Рѕ Р·Р°РєС–РЅС‡РёРІ Р· СЂРµРјРѕРЅС‚РѕРј. Р§Р°СЃ Р·Р°Р±РёСЂР°С‚Рё РґРѕРІРіРѕРѕС‡С–РєСѓРІР°РЅСѓ РїСѓС€РєСѓ.</text>
-  </string>
-  <string id="esc_village_new_meet">
-    <text>РЎРўРђР Р† Р”Р РЈР—Р†</text>
-  </string>
-  <string id="esc_village_new_meet_start_name">
-    <text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ Р· Р®СЂРєРѕРј</text>
-  </string>
-  <string id="esc_village_new_meet_start_text">
-    <text>Р”Р°РІРЅРѕ РІР¶Рµ РЅРµ Р±СѓРІ РЅР° РљРѕСЂРґРѕРЅС–, РЅР°РІС–С‚СЊ РІСЃС‚РёРі СЃРєСѓС‡РёС‚Рё Р·Р° С†РёРјРё РјС–СЃС†СЏРјРё. РњС–Р№ РїСЂРёСЏС‚РµР»СЊ Р®СЂРєРѕ РїРѕРїСЂРѕСЃРёРІ Р·Р°Р№С‚Рё РІ СЃРµР»Рѕ РЅРѕРІР°С‡РєС–РІ: РІС–РЅ РјР°С” РґР»СЏ РјРµРЅРµ СЏРєСѓСЃСЊ СЂРѕР·РјРѕРІСѓ.</text>
-  </string>
-  <string id="esc_strange_things">
-    <text>Р”РЈР–Р• Р”РР’РќР† РЎРџР РђР’Р</text>
-  </string>
-  <string id="esc_strange_things_speak_fanat_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р¤Р°РЅР°С‚РѕРј</text>
-  </string>
-  <string id="esc_strange_things_speak_fanat_text">
-    <text>РЎС‚СѓСЂР±РѕРІР°РЅРёР№ Р®СЂРєРѕ РїРѕРІС–РґРѕРјРёРІ РїСЂРѕ СЏРєС–СЃСЊ РїСЂРѕР±Р»РµРјРё. РўСЂРµР±Р° РґС–Р·РЅР°С‚РёСЃСЏ Сѓ Р¤Р°РЅР°С‚Р°, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ.</text>
-  </string>
-  <string id="esc_strange_things_start_go_name">
-    <text>Р’РёСЂСѓС€Р°С‚Рё РґРѕ С‚Р°Р±РѕСЂСѓ РЅР°Р№РјР°РЅС†С–РІ</text>
-  </string>
-  <string id="esc_strange_things_start_go_text">
-    <text>Р¤Р°РЅР°С‚ СЂРѕР·РїРѕРІС–РІ РїСЂРѕ РіСЂСѓРїСѓ РЅР°Р№РјР°РЅС†С–РІ, СЏРєС– РІР±РёР»Рё С‚СЂСЊРѕС… СЃС‚Р°Р»РєРµСЂС–РІ С–Р· СЃРµР»Р° РЅРѕРІР°С‡РєС–РІ. РќР° СЃРІС–С‚Р°РЅРєСѓ РІРёСЃСѓРІР°С”РјРѕСЃСЊ РґРѕ С—С…РЅСЊРѕРіРѕ С‚Р°Р±РѕСЂСѓ, С‰РѕР± РїРѕРєРІРёС‚Р°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="esc_strange_things_attack_mercs_name">
-    <text>РђС‚Р°РєСѓРІР°С‚Рё РЅР°Р№РјР°РЅС†С–РІ</text>
-  </string>
-  <string id="esc_strange_things_attack_mercs_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ РґРѕРїРѕРјРѕРіС‚Рё РјРѕС—Рј С‚РѕРІР°СЂРёС€Р°Рј Р°С‚Р°РєСѓРІР°С‚Рё С‚Р°Р±С–СЂ РЅР°Р№РјР°РЅС†С–РІ.</text>
-  </string>
-  <string id="esc_strange_things_attack_speak_fanat_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р¤Р°РЅР°С‚РѕРј</text>
-  </string>
-  <string id="esc_strange_things_attack_speak_fanat_text">
-    <text>РќР°Р№РјР°РЅС†С– Р±РµР·СЃР»С–РґРЅРѕ Р·РЅРёРєР»Рё Р· С‚Р°Р±РѕСЂСѓ. РџРѕС‚СЂС–Р±РЅРѕ СЃРїРёС‚Р°С‚Рё Р¤Р°РЅР°С‚Р°, С‰Рѕ РІС–РЅ РїСЂРѕ С†Рµ РґСѓРјР°С”.</text>
-  </string>
-  <string id="esc_jurok_drunk_task">
-    <text>РќР†Р§РћР“Рћ РќР• Р—РњР†РќР®Р„РўР¬РЎРЇ</text>
-  </string>
-  <string id="esc_jurok_drunk_task_start_name">
-    <text>Р’РёРїРёС‚Рё Р· Р®СЂРєРѕРј Р±С–Р»СЏ Р±Р°РіР°С‚С‚СЏ</text>
-  </string>
-  <string id="esc_jurok_drunk_task_start_text">
-    <text>РўС–Р»СЊРєРё-РЅРѕ РІС–РґС–Р№С€РѕРІ РїС–СЃР»СЏ РјРёРЅСѓР»РѕРіРѕ, Р° РјРµРЅРµ РІР¶Рµ Р·РЅРѕРІСѓ РєР»РёС‡СѓС‚СЊ РІРёРїРёС‚Рё. РќРµ РІС–РґРјРѕРІР»СЏС‚РёРјСѓ СЃС‚Р°СЂРѕРјСѓ РґСЂСѓРіСѓ  вЂ”  РІСЃРµ РѕРґРЅРѕ Р·Р°Р№РЅСЏС‚РёСЃСЏ РѕСЃРѕР±Р»РёРІРѕ РЅРµРјР° С‡РёРј.</text>
-  </string>
-  <string id="esc_scientists_task">
-    <text>РЎРўР•Р–Р•РќРќРЇ</text>
-  </string>
-  <string id="esc_scientists_task_start_name">
-    <text>РџСЂРѕР±СЂР°С‚РёСЃСЏ РґРѕ Р±Р»РѕРєРїРѕСЃС‚Сѓ</text>
-  </string>
-  <string id="esc_scientists_task_start_text">
-    <text>РЎРёРґРѕСЂРѕРІРёС‡ РїРѕРїСЂРѕСЃРёРІ РїСЂРѕСЃС‚РµР¶РёС‚Рё Р·Р° РІС‡РµРЅРёРјРё. Р‡С…РЅСЏ РіСЂСѓРїР° РѕСЃСЊ-РѕСЃСЊ РјР°С” РїСЂРёР±СѓС‚Рё РЅР° РљРџРџ.</text>
-  </string>
-  <string id="esc_scientists_task_wait_alarm_name">
-    <text>Р—Р°С‡РµРєР°С‚Рё, РґРѕРєРё С‚СЂРёРІРѕРіР° РІС‰СѓС…РЅРµ</text>
-  </string>
-  <string id="esc_scientists_task_wait_alarm_text">
-    <text>РњРµРЅРµ РїРѕРјС–С‚РёР»Рё... Р’ Р±С–Р№ РєСЂР°С‰Рµ РЅРµ Р»С–Р·С‚Рё. Р’Р°СЂС‚Рѕ С‚СЂРѕС…Рё РїРµСЂРµС‡РµРєР°С‚Рё, РґРѕРєРё РІСЃРµ РІС‰СѓС…РЅРµ. РњРѕР¶Рµ, РїРѕСЃРїР°С‚Рё Сѓ СЃРµР»С–?</text>
-  </string>
-  <string id="esc_scientists_task_jobs_cancel_name">
-    <text>Р РѕР·РїРѕРІС–СЃС‚Рё РЎРёРґРѕСЂРѕРІРёС‡Сѓ, С‰Рѕ СЂРѕР±РѕС‚Рё РІС‡РµРЅРёС… СЃРєР°СЃРѕРІР°РЅС–</text>
-  </string>
-  <string id="esc_scientists_task_jobs_cancel_text">
-    <text>Р’С–Р№СЃСЊРєРѕРІС– СЃРєР°СЃСѓРІР°Р»Рё РїРѕР»СЊРѕРІС– СЂРѕР±РѕС‚Рё Р· РІС‡РµРЅРёРјРё С‡РµСЂРµР· С‚Рµ, С‰Рѕ СЂРѕР·РїРѕС‡Р°РІСЃСЏ Р±С–Р№. Р”СѓРјР°СЋ, РІРѕРЅРё С‚РµРїРµСЂ РґРѕРІРіРѕ СЃСЋРґРё РЅРµ РїРѕС‚РєРЅСѓС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="esc_scientists_task_follow_the_scientists_name">
-    <text>РџСЂРѕСЃС‚РµР¶РёС‚Рё Р·Р° РІС‡РµРЅРёРјРё</text>
-  </string>
-  <string id="esc_scientists_task_follow_the_scientists_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ Р°РєСѓСЂР°С‚РЅРѕ РїСЂРѕР№С‚Рё Р·Р° РІС‡РµРЅРёРјРё С‚Р° Р·СЂРѕР·СѓРјС–С‚Рё, С‰Рѕ РІРѕРЅРё Р·Р°Р±СѓР»Рё РЅР° РљРѕСЂРґРѕРЅС–.</text>
-  </string>
-  <string id="esc_scientists_task_make_decision_name">
-    <text>РџСЂРёР№РЅСЏС‚Рё СЂС–С€РµРЅРЅСЏ</text>
-  </string>
-  <string id="esc_scientists_task_make_decision_text">
-    <text>РћС‚ Р±Р»СЏС…Р°! РўРµРїРµСЂ С‚СЂРµР±Р° СЏРєРѕСЃСЊ РІРёРєСЂСѓС‡СѓРІР°С‚РёСЃСЊ. РЇРєС‰Рѕ РїСЂРѕСЃС‚Рѕ С‚Р°Рє СЃРєР°Р·Р°С‚Рё РЎРёРґРѕСЂРѕРІРёС‡Сѓ РїСЂРѕ РїСЂРѕРІР°Р», РјРѕСЏ СЂРµРїСѓС‚Р°С†С–СЏ Р·С–Р№РґРµ РЅР°РЅС–РІРµС†СЊ. РњРѕР¶Рµ, СЃРїСЂРѕР±СѓРІР°С‚Рё СЂРѕР·РїСЂР°РІРёС‚РёСЃСЏ Р· РІРѕСЏРєР°РјРё Р№ РґС–Р·РЅР°С‚РёСЃСЊ, С‡РѕРіРѕ С…РѕС‚С–Р»Рё РІС‡РµРЅС–? Рђ Р°РґСЂРµРЅР°Р»С–РЅ СЏРє Р±'С”!</text>
-  </string>
-  <string id="esc_scientists_task_talk_scientist_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РІС‡РµРЅРёРјРё</text>
-  </string>
-  <string id="esc_scientists_task_talk_scientist_text">
-    <text>РћС‚Рѕ СЏ РґСЂРѕРІ РЅР°Р»Р°РјР°РІ... Р’С–Р№СЃСЊРєРѕРІС– РјРµСЂС‚РІС–. РўРµРїРµСЂ РІР°СЂС‚Рѕ РїРѕРіРѕРІРѕСЂРёС‚Рё Р· РІС‡РµРЅРёРјРё, СЏРєС‰Рѕ РІР¶Рµ СЃС‚С–Р»СЊРєРё РЅР°Р±СЂРѕС—РІ.</text>
-  </string>
-  <string id="esc_scientists_task_check_corpses_name">
-    <text>РћР±С€СѓРєР°С‚Рё С‚С–Р»Р° РІС‡РµРЅРёС…</text>
-  </string>
-  <string id="esc_scientists_task_check_corpses_text">
-    <text>РљРѕР»Рё РІР¶Рµ С‚Р°Рє РІРёР№С€Р»Рѕ, РїРѕС‚СЂС–Р±РЅРѕ РѕРіР»СЏРЅСѓС‚Рё С‚С–Р»Р° РІС‡РµРЅРёС…. РњРѕР¶Рµ, Р·РЅР°Р№РґСѓ С‰РѕСЃСЊ С†С–РєР°РІРµ.</text>
-  </string>
-  <string id="esc_scientists_task_fail_speak_trader_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ РЎРёРґРѕСЂРѕРІРёС‡Р°</text>
-  </string>
-  <string id="esc_scientists_task_fail_speak_trader_text">
-    <text>РњРµРЅС– РІРґР°Р»РѕСЃСЏ РґС–СЃС‚Р°С‚Рё РїСЂРёСЃС‚СЂС–Р№ РІС‡РµРЅРёС…. Р РѕР·РїРѕРІС–Рј РЎРёРґРѕСЂРѕРІРёС‡Сѓ, С‰Рѕ РїРѕР»СЊРѕРІС– СЂРѕР±РѕС‚Рё РЅРµ Р±СѓРґСѓС‚СЊ РїСЂРѕРІРµРґРµРЅС–.</text>
-  </string>
-  <string id="esc_scientiscts_task_fly_village_compl_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ С‚РѕСЂРіРѕРІС†СЏ</text>
-  </string>
-  <string id="esc_scientiscts_task_fly_village_compl_text">
-    <text>РџСЂРѕСЃС‚РµР¶РёРІ Р·Р° РІС‡РµРЅРёРјРё. РџРѕСЂР° СЂРѕР·РєР°Р·Р°С‚Рё РЎРёРґРѕСЂРѕРІРёС‡Сѓ РїРѕРґСЂРѕР±РёС†С– Р№ Р·Р°Р±СЂР°С‚Рё РЅР°РіРѕСЂРѕРґСѓ.</text>
-  </string>
-  <string id="esc_scientiscts_task_fly_village_scene_cancel_name">
-    <text>РџРµСЂРµРґР°С‚Рё РЎРёРґРѕСЂРѕРІРёС‡Сѓ С–РЅС„РѕСЂРјР°С†С–СЋ РІС–Рґ РЁР°Р№Р±Рё</text>
-  </string>
-  <string id="esc_scientiscts_task_fly_village_scene_cancel_text">
-    <text>РЎС‚Р°Р»РєРµСЂ РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ РЁР°Р№Р±Р° РѕРіРѕР»РѕСЃРёРІ СЃС‚Р°Р»РєРµСЂР°Рј, С‰Рѕ РІС‡РµРЅС– Р· РІС–Р№СЃСЊРєРѕРІРёРјРё РІСЃС‚Р°РЅРѕРІРёР»Рё СЏРєРёР№СЃСЊ РїСЂРёР»Р°Рґ Сѓ Р»РµС‚СЋС‡РѕРјСѓ СЃРµР»РёС‰С– Р·Р° РђРўРџ. Р РѕР·РїРѕРІС–Рј РїСЂРѕ С†Рµ С‚РѕСЂРіРѕРІС†СЋ.</text>
-  </string>
-  <string id="esc_technic_scientists_device_task">
-    <text>Р”РћР РЈР§Р•РќРќРЇ РўР•РҐРќР†РљРђ</text>
-  </string>
-  <string id="esc_technic_scientists_device_task_start_name">
-    <text>РџСЂРёРЅРµСЃС‚Рё РњРёС…Р°Р№Р»РѕРІРёС‡Сѓ РїСЂРёСЃС‚СЂС–Р№ РІС‡РµРЅРёС…</text>
-  </string>
-  <string id="esc_technic_scientists_device_task_start_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡ РїРѕРїСЂРѕСЃРёРІ РїСЂРёРЅРµСЃС‚Рё РїСЂРёСЃС‚СЂС–Р№ РІС‡РµРЅРёС…. РњР°Р±СѓС‚СЊ, РґР»СЏ С‚РµС…РЅС–РєР° С‚Р°Рј Р·РЅР°Р№РґРµС‚СЊСЃСЏ С‰РѕСЃСЊ С†С–РєР°РІРµ.</text>
-  </string>
-  <string id="esc_technic_scientists_device_task_teleports_go_name">
-    <text>Р”С–СЃС‚Р°С‚Рё РїСЂРёСЃС‚СЂС–Р№ РІС‡РµРЅРёС…, РїСЂРѕР№С€РѕРІС€Рё С‡РµСЂРµР· С‚РµР»РµРїРѕСЂС‚Рё</text>
-  </string>
-  <string id="esc_technic_scientists_device_task_teleports_go_text">
-    <text>РќС–РєРѕР»Рё РЅРµ Р·Р°С…РѕРґРёРІ Сѓ С‚РµР»РµРїРѕСЂС‚Рё... РЎРїРѕРґС–РІР°СЋСЃСЊ, РјРµРЅРµ РЅРµ СЂРѕР·С–СЂРІРµ РЅР° С€РјР°С‚РєРё. Р’С‚С–Рј, РіРѕР»РѕРІР°СЃС‚РёР№ С†С–Р»РєРѕРј СЃРїРѕРєС–Р№РЅРѕ РіСѓР»СЏРІ РїРѕ РЅРёС…. Р“РѕР»РѕРІРЅРµ, Р·РЅР°Р№С‚Рё РїСЂР°РІРёР»СЊРЅРёР№ РјР°СЂС€СЂСѓС‚, С‰РѕР± РґС–СЃС‚Р°С‚РёСЃСЏ РїСЂРёСЃС‚СЂРѕСЋ.</text>
-  </string>
-  <string id="esc_technic_scientists_device_task_final_talk_name">
-    <text>Р’С–РґРґР°С‚Рё РїСЂРёСЃС‚СЂС–Р№ РІС‡РµРЅРёС… РњРёС…Р°Р№Р»РѕРІРёС‡Сѓ</text>
-  </string>
-  <string id="esc_technic_scientists_device_task_final_talk_text">
-    <text>Р”С–СЃС‚Р°РІ С†СЋ Р·Р°Р»С–Р·СЏРєСѓ. РўРµРїРµСЂ РІС–РґРЅРµСЃСѓ С‚РµС…РЅС–РєСѓ, РІС–РЅ РѕР±С–С†СЏРІ РЅР°РіРѕСЂРѕРґСѓ.</text>
-  </string>
-  <string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_name">
-    <text>Р”С–СЃС‚Р°С‚Рё РїСЂРёСЃС‚СЂС–Р№ РІС‡РµРЅРёС… РІ Р°РЅРѕРјР°Р»СЊРЅРѕРјСѓ СЃРµР»С–</text>
-  </string>
-  <string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_text">
-    <text>РќС–РєРѕР»Рё РЅРµ Р·Р°С…РѕРґРёРІ Сѓ С‚РµР»РµРїРѕСЂС‚Рё. РЎРїРѕРґС–РІР°СЋСЃСЊ, РјРµРЅРµ РЅРµ СЂРѕР·С–СЂРІРµ РЅР° С€РјР°С‚РєРё... Р’С‚С–Рј, РІС‡РµРЅРёР№ СЏРєРѕСЃСЊ РїСЂРѕР№С€РѕРІ РІ РѕР±РёРґРІС– СЃС‚РѕСЂРѕРЅРё. Р“РѕР»РѕРІРЅРµ, Р·РЅР°Р№С‚Рё РїСЂР°РІРёР»СЊРЅРёР№ РјР°СЂС€СЂСѓС‚, С‰РѕР± РґС–СЃС‚Р°С‚РёСЃСЏ РїСЂРёСЃС‚СЂРѕСЋ.</text>
-  </string>
-  <string id="esc_sweep_task">
-    <text>Р—РђР§РР©Р•РќРќРЇ</text>
-  </string>
-  <string id="esc_sweep_task_kill_dogs_name">
-    <text>Р РѕР·С–Р±СЂР°С‚РёСЃСЏ Р· РјСѓС‚Р°РЅС‚Р°РјРё РЅРµРґР°Р»РµРєРѕ РІС–Рґ С‚СѓРЅРµР»СЋ</text>
-  </string>
-  <string id="esc_sweep_task_kill_dogs_text">
-    <text>РЎРёРґРѕСЂРѕРІРёС‡ РїРѕРїСЂРѕСЃРёРІ РїРѕР·Р±СѓС‚РёСЃСЏ РЅРµС‡РёСЃС‚С– РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ С‚СѓРЅРµР»СЋ Р· В«Р•Р»РµРєС‚СЂР°РјРёВ».</text>
-  </string>
-  <string id="esc_sweep_task_final_talk_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РїРѕ РІРёРЅР°РіРѕСЂРѕРґСѓ</text>
-  </string>
-  <string id="esc_sweep_task_final_talk_text">
-    <text>РўРІР°СЂСЋРє РІР±РёС‚Рѕ. РџРѕСЂР° Р·Р°Р±РёСЂР°С‚Рё РЅР°РіРѕСЂРѕРґСѓ Сѓ РЎРёРґРѕСЂРѕРІРёС‡Р°.</text>
-  </string>
-  <string id="find_the_missing_stalker">
-    <text>РњРђР™РЎРўР Р Р— РљРћР Р”РћРќРЈ</text>
-  </string>
-  <string id="esc_find_the_missing_stalker_start_name">
-    <text>Р—РЅР°Р№С‚Рё СЃС‚Р°Р»РєРµСЂР° РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ РќС–РјРёР№</text>
-  </string>
-  <string id="esc_find_the_missing_stalker_start_text">
-    <text>РЎС‚Р°Р»РєРµСЂРё Р· РљРѕСЂРґРѕРЅСѓ РІС‚СЂР°С‚РёР»Рё СЃРІРѕРіРѕ С‚РѕРІР°СЂРёС€Р°. Р—Р° С—С…РЅС–РјРё СЃР»РѕРІР°Рј, РІС–РЅ РІРёСЂСѓС€Р°РІ РЅР° СЂРѕР·РІС–РґРєСѓ РґРѕ РђСЂРјС–Р№СЃСЊРєРёС… СЃРєР»Р°РґС–РІ. РЇРєС‰Рѕ РєРѕР»РёСЃСЊ С‚Р°Рј РѕРїРёРЅСЋСЃСЊ, С‚СЂРµР±Р° Р±СѓРґРµ РІРёРІСѓРґРёС‚Рё С–РЅС„РѕСЂРјР°С†С–СЋ РїСЂРѕ РЅСЊРѕРіРѕ.</text>
-  </string>
-  <string id="esc_find_the_missing_stalker_help_name">
-    <text>Р’РёС‚СЏРіС‚Рё РќС–РјРѕРіРѕ</text>
-  </string>
-  <string id="esc_find_the_missing_stalker_help_text">
-    <text>РќС–РјРёР№, СЃС‚Р°Р»РєРµСЂ Р· РіСЂСѓРїРё Р›СЋС‚РѕРіРѕ, Р·Р°РїСЂРѕС‚РѕСЂРёРІ Р·Р° Т‘СЂР°С‚Рё Р±Р°РЅРґРёС‚С–РІ. РўСЂРµР±Р° СЏРєРѕСЃСЊ Р№РѕРіРѕ Р·РІС–РґС‚Рё РІРёС‚СЏРіС‚Рё...</text>
-  </string>
-  <string id="esc_find_the_missing_stalker_take_reward_name">
-    <text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ Р·С– СЃС‚Р°Р»РєРµСЂР°РјРё РІ Р±Р°СЂС–</text>
-  </string>
-  <string id="esc_find_the_missing_stalker_take_reward_text">
-    <text>РњРµРЅС– РІРґР°Р»РѕСЃСЏ Р·РІС–Р»СЊРЅРёС‚Рё СЃС‚Р°Р»РєРµСЂР° РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ РќС–РјРёР№ Р· РїРѕР»РѕРЅСѓ Р±Р°РЅРґРёС‚С–РІ. Р’С–РЅ Р·Р°РїСЂРѕРїРѕРЅСѓРІР°РІ РјРµРЅС– Р·СѓСЃС‚СЂС–С‚РёСЃСЏ РІ Р±Р°СЂС– Р№ РІС–РґСЃРІСЏС‚РєСѓРІР°С‚Рё Р№РѕРіРѕ РІС‚РµС‡Сѓ.</text>
-  </string>
-  <string id="esc_find_the_missing_stalker_take_second_reward_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ Р›СЋС‚РѕРіРѕ</text>
-  </string>
-  <string id="esc_find_the_missing_stalker_take_second_reward_text">
-    <text>РњРµРЅС– РІРґР°Р»РѕСЃСЏ Р·РІС–Р»СЊРЅРёС‚Рё РґСЂСѓРіР° Р›СЋС‚РѕРіРѕ, СЏРєРёР№ РґРёРІРѕРј РѕРїРёРЅРёРІСЃСЏ Сѓ РўРµРјРЅС–Р№ РґРѕР»РёРЅС–. РќС–РјРёР№ СЃРєР°Р·Р°РІ, С‰Рѕ РјСѓР¶РёРєРё Р· Р№РѕРіРѕ РіСЂСѓРїРё Р±СѓРґСѓС‚СЊ СЂР°РґС– РјРµРЅРµ Р±Р°С‡РёС‚Рё, РїСЂРѕРїРѕРЅСѓРІР°РІ РІС–РґСЃРІСЏС‚РєСѓРІР°С‚Рё Р№РѕРіРѕ РІС‚РµС‡Сѓ. Р’Р°СЂС‚Рѕ РЅР°РІС–РґР°С‚РёСЃСЏ РґРѕ РЅРёС….</text>
-  </string>
-  <string id="esc_visit_trader_task">
-    <text>Р§РЈР–РР™ РЎР•Р Р•Р” Р§РЈР–РРҐ</text>
-  </string>
-  <string id="esc_visit_trader_task_talk_with_leader_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РєРѕРјР°РЅРґРёСЂРѕРј Р±Р»РѕРєРїРѕСЃС‚Сѓ</text>
-  </string>
-  <string id="esc_visit_trader_task_talk_with_leader_text">
-    <text>Р”Р»СЏ РїРѕРґР°Р»СЊС€РѕРіРѕ РїСЂРѕСЃСѓРІР°РЅРЅСЏ СЂРѕР·СЃР»С–РґСѓРІР°РЅРЅСЏ, РїРµСЂС€ Р·Р° РІСЃРµ РІР°СЂС‚Рѕ РїРѕРіРѕРІРѕСЂРёС‚Рё Р· РєРѕРјР°РЅРґРёСЂРѕРј Р±Р»РѕРєРїРѕСЃС‚Сѓ. Р—Р°СЂР°Р· РјРµРЅС– Р·РјРѕР¶Рµ РґРѕРїРѕРјРѕРіС‚Рё Р±СѓРґСЊ-СЏРєР° С–РЅС„РѕСЂРјР°С†С–СЏ.</text>
-  </string>
-  <string id="esc_visit_trader_task_talk_with_prison_stalkers_name">
-    <text>Р”РѕРїРёС‚Р°С‚Рё Р°СЂРµС€С‚РѕРІР°РЅРёС… СЃС‚Р°Р»РєРµСЂС–РІ</text>
-  </string>
-  <string id="esc_visit_trader_task_talk_with_prison_stalkers_text">
-    <text>РџРµСЂРµРґ РїРѕС…РѕРґРѕРј РґРѕ РЎРёРґРѕСЂРѕРІРёС‡Р° РІР°СЂС‚Рѕ РѕРїРёС‚Р°С‚Рё Р°СЂРµС€С‚Р°РЅС‚С–РІ РЅР° РљРџРџ. РњРѕР¶Р»РёРІРѕ, РІРѕРЅРё С‰РѕСЃСЊ Р·РЅР°СЋС‚СЊ РїСЂРѕ СЃС‚Р°Р»РєРµСЂР°, СЏРєРѕРіРѕ РјРё С€СѓРєР°С”РјРѕ.</text>
-  </string>
-  <string id="esc_visit_trader_task_start_name">
-    <text>РџРµСЂРµРІРґСЏРіРЅСѓС‚РёСЃСЏ Сѓ СЃС‚Р°Р»РєРµСЂСЃСЊРєРёР№ РѕРґСЏРі</text>
-  </string>
-  <string id="esc_visit_trader_task_start_text">
-    <text>Р†С‚Рё Сѓ РІС–Р№СЃСЊРєРѕРІС–Р№ С„РѕСЂРјС– Сѓ СЃРµР»Рѕ РЅРѕРІР°С‡РєС–РІ  вЂ”  С‡РёСЃС‚РѕС— РІРѕРґРё РїСЂРѕРІРѕРєР°С†С–СЏ СЃС‚Р°Р»РєРµСЂС–РІ. РљРѕРјР°РЅРґРёСЂ РљРџРџ СЂРѕР·РїРѕРІС–РІ РїСЂРѕ С‚РѕРЅРЅСѓ РєРѕРЅС„С–СЃРєР°С‚Сѓ Р· РЅРµР»РµРіР°Р»С–РІ. РџРѕС‚СЂС–Р±РЅРѕ Р·РЅР°Р№С‚Рё РїС–РґС…РѕРґСЏС‰РёР№ РѕРґСЏРі Р°Р±Рѕ РІР·Р°РіР°Р»С– Р№С‚Рё РІ С‡РѕРјСѓ РјР°С‚Рё РЅР°СЂРѕРґРёР»Р°.</text>
-  </string>
-  <string id="esc_visit_trader_task_go_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РЎРёРґРѕСЂРѕРІРёС‡РµРј</text>
-  </string>
-  <string id="esc_visit_trader_task_go_text">
-    <text>РџРѕСЂР° РїРµСЂРµРіРѕРІРѕСЂРёС‚Рё Р· РЎРёРґРѕСЂРѕРІРёС‡РµРј С‰РѕРґРѕ СЃС‚Р°Р»РєРµСЂР° РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ РЎРѕРєРёСЂР°. РџС–Рґ С‚Р°РєРёРј С–Рј'СЏРј Р№РѕРіРѕ Р·РЅР°СЋС‚СЊ РјС–СЃС†РµРІС– СЃС‚Р°Р»РєРµСЂРё, СЏРєС‰Рѕ СѓРІ'СЏР·РЅРµРЅРёР№ РјРµРЅС– РЅРµ Р·Р±СЂРµС…Р°РІ.</text>
-  </string>
-  <string id="esc_first_actor_bridge_task">
-    <text>РџРћ РЎР›Р†Р”РђРҐ РЎРўРђР›РљР•Р Рђ</text>
-  </string>
-  <string id="esc_first_actor_bridge_task_start_name">
-    <text>Р’РёСЂСѓС€РёС‚Рё РґРѕ Р·СЂСѓР№РЅРѕРІР°РЅРѕРіРѕ РјРѕСЃС‚Сѓ</text>
-  </string>
-  <string id="esc_first_actor_bridge_task_start_text">
-    <text>РЎРёРґРѕСЂРѕРІРёС‡ РЅС–С‡РѕРіРѕ РЅРµ СЂРѕР·РїРѕРІС–РІ РјРµРЅС– РїСЂРѕ СЃС‚Р°Р»РєРµСЂР°, Р·Р°С‚Рµ РІРёРґР°РІ Р№РѕРіРѕ С‚РѕС‡РЅРµ РјС–СЃС†РµРїРµСЂРµР±СѓРІР°РЅРЅСЏ. Р’С–РґС‡СѓРІР°СЋ, Р°Р±Рѕ РґС–Рґ РјРµРЅРµ РѕР±РІС–РІ РЅР°РІРєРѕР»Рѕ РїР°Р»СЊС†СЏ, Р°Р±Рѕ С‚СѓС‚ С” СЏРєР°СЃСЊ РїР°СЃС‚РєР°.</text>
-  </string>
-  <string id="esc_first_actor_bridge_task_fail_name">
-    <text>РЁСѓРєР°С‚Рё Р·Р°С‡С–РїРєРё РЅР° РљРѕСЂРґРѕРЅС–</text>
-  </string>
-  <string id="esc_first_actor_bridge_task_fail_text">
-    <text>РќРµ РІРґР°Р»РѕСЃСЏ РґС–СЃС‚Р°С‚РёСЃСЏ РЎРёРґРѕСЂРѕРІРёС‡Р° Р·С– СЃРІРѕС—РјРё Р»Р°С…Р°РјРё, Р° СѓСЃС– РјС–СЃС†РµРІС– РЅРµРјРѕРІ РІРѕРґРё Сѓ СЂРѕС‚Р° РїРѕРЅР°Р±РёСЂР°Р»Рё. Р”Р°Р»С– РґРѕРІРµРґРµС‚СЊСЃСЏ С€СѓРєР°С‚Рё С–РЅС„РѕСЂРјР°С†С–СЋ РїСЂРѕ СЃС‚Р°Р»РєРµСЂР° СЃР°РјРѕРјСѓ. Р’Р°СЂС‚Рѕ РїСЂРѕР№С‚РёСЃСЏ РІРіР»РёР± РљРѕСЂРґРѕРЅСѓ: РјРѕР¶Рµ, С‚Р°Рј С…С‚РѕСЃСЊ С‰РѕСЃСЊ РїС–РґРєР°Р¶Рµ.</text>
-  </string>
-  <string id="esc_scientist_in_trouble_task">
-    <text>Р’Р§Р•РќРР™ РЈ Р‘Р†Р”Р†</text>
-  </string>
-  <string id="esc_scientist_in_trouble_task_start_name">
-    <text>Р”С–СЃС‚Р°С‚РёСЃСЏ РЎРјС–С‚РЅРёРєР°</text>
-  </string>
-  <string id="esc_scientist_in_trouble_task_start_text">
-    <text>РџРѕР»РєРѕРІРЅРёРє РїРѕРїСЂРѕСЃРёРІ РІРёСЂСѓС‡РёС‚Рё РѕРґРЅРѕРіРѕ РІС‡РµРЅРѕРіРѕ, СЏРєРёР№ РїСЂРёРјСѓРґСЂРёРІСЃСЏ Р· РґРѕСЂРѕРіРёРј РѕР±Р»Р°РґРЅР°РЅРЅСЏРј РїРѕС‚СЂР°РїРёС‚Рё РґРѕ СЂСѓРє Р±Р°РЅРґРёС‚С–РІ. Р† С‡РѕРјСѓ РІС–РЅ РІРёСЂСѓС€РёРІ Р±РµР· СЃСѓРїСЂРѕРІРѕРґСѓ?</text>
-  </string>
-  <string id="esc_scientist_in_trouble_task_help_name">
-    <text>Р”РѕРїРѕРјРѕРіС‚Рё СЃРїС–РІСЂРѕР±С–С‚РЅРёРєСѓ</text>
-  </string>
-  <string id="esc_scientist_in_trouble_task_help_text">
-    <text>РЇ РЅР° РЎРјС–С‚РЅРёРєСѓ. РџРѕСЂР° РІРёСЂСѓС‡Р°С‚Рё РІС‡РµРЅРѕРіРѕ, С‰Рѕ РїРѕС‚СЂР°РїРёРІ Сѓ РІРµСЂРµРјС–СЋ.</text>
-  </string>
-  <string id="esc_scientist_in_trouble_task_kill_bandits_name">
-    <text>Р’Р±РёС‚Рё Р±Р°РЅРґРёС‚С–РІ С– РІСЂСЏС‚СѓРІР°С‚Рё РљРѕРІР°Р»СЏ</text>
-  </string>
-  <string id="esc_scientist_in_trouble_task_kill_bandits_text">
-    <text>Р’С‡РµРЅРёРј, СЏРєРѕРіРѕ РЅРµРѕР±С…С–РґРЅРѕ Р±СѓР»Рѕ РІРёСЂСѓС‡РёС‚Рё, РІРёСЏРІРёРІСЃСЏ РљРѕРІР°Р»СЊ. Р‘Р°РЅРґРёС‚Рё РїСЂРёР№РЅСЏР»Рё Р№РѕРіРѕ Р· РЅРѕРІРёРј РґРµС‚РµРєС‚РѕСЂРѕРј. Р‘С–Р·РЅРµСЃ РїРѕР»РєРѕРІРЅРёРєР° РІР¶Рµ РїРѕС‡РёРЅР°С” РїРµСЂРµС…РѕРґРёС‚Рё СѓСЃС– РјРµР¶С–. Р’С‚С–Рј, РІСЃРµ РѕРґРЅРѕ РґРѕРІРµРґРµС‚СЊСЃСЏ РґРѕРїРѕРјРѕРіС‚Рё.</text>
-  </string>
-  <string id="esc_scientist_in_trouble_task_talk_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РљРѕРІР°Р»РµРј</text>
-  </string>
-  <string id="esc_scientist_in_trouble_task_talk_text">
-    <text>Р‘Р°РЅРґРёС‚Рё Р±С–Р»СЊС€Рµ РЅРµ РїРµСЂРµС€РєРѕРґР¶Р°С‚РёРјСѓС‚СЊ. РџРѕСЂР° РїРѕСЃС‚Р°РІРёС‚Рё С†СЊРѕРјСѓ В«РІС‡РµРЅРѕРјСѓВ» РєС–Р»СЊРєР° РїРёС‚Р°РЅСЊ.</text>
-  </string>
-  <string id="esc_composer_task">
-    <text>РЎРўРђР Рђ Р“Р’РђР Р”Р†РЇ</text>
-  </string>
-  <string id="esc_composer_task_talk_with_gar_trader_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РљРѕСЃС‚СѓСЂРѕРј</text>
-  </string>
-  <string id="esc_composer_task_talk_with_gar_trader_text">
-    <text>РљРѕСЃС‚СѓСЂ РїРѕРІС–РґРѕРјРёРІ, С‰Рѕ РІ РЅСЊРѕРіРѕ С” СЏРєР°СЃСЊ С‚РµСЂРјС–РЅРѕРІР° СЂРѕР·РјРѕРІР°. РџРѕС‚СЂС–Р±РЅРѕ РЅР°РІС–РґР°С‚РёСЃСЏ Р·Р° РјРѕР¶Р»РёРІРѕСЃС‚С–.</text>
-  </string>
-  <string id="esc_composer_task_start_name">
-    <text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ Р· РіСЂСѓРїРѕСЋ СЃС‚Р°Р»РєРµСЂС–РІ</text>
-  </string>
-  <string id="esc_composer_task_start_text">
-    <text>РЎРёРґРѕСЂРѕРІРёС‡ РІС–РґРїСЂР°РІРёРІ РЅР° РЎРјС–С‚РЅРёРє РґРѕРїРѕРјРѕРіС‚Рё РіСЂСѓРїС– СЃС‚Р°Р»РєРµСЂС–РІ. РџРѕС‚СЂС–Р±РЅРѕ Р·Р°Р±РµР·РїРµС‡РёС‚Рё С—С…РЅСЋ Р±РµР·РїРµРєСѓ, РїРѕРєРё С‚С– С€СѓРєР°СЋС‚СЊ Р°СЂС‚РµС„Р°РєС‚Рё.</text>
-  </string>
-  <string id="esc_composer_task_actor_check_corpses_name">
-    <text>РћРіР»СЏРЅСѓС‚Рё РјС–СЃС†Рµ Р·Р°РіРёР±РµР»С– СЃС‚Р°Р»РєРµСЂС–РІ</text>
-  </string>
-  <string id="esc_composer_task_actor_check_corpses_text">
-    <text>Р’СЃСЏ РіСЂСѓРїР° РјРµСЂС‚РІР°. РџРѕС‚СЂС–Р±РЅРѕ РѕРіР»СЏРЅСѓС‚Рё РјС–СЃС†Рµ Р·Р°РіРёР±РµР»С– С‚Р° РѕР±С€СѓРєР°С‚Рё С‚С–Р»Р° РЅР° РїСЂРµРґРјРµС‚ СЏРєРѕС—СЃСЊ С–РЅС„РѕСЂРјР°С†С–С—.</text>
-  </string>
-  <string id="esc_composer_task_meet_merc_leader_name">
-    <text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ С–Р· Р’С–Р·РёСЂРµРј</text>
-  </string>
-  <string id="esc_composer_task_meet_merc_leader_text">
-    <text>Р—РЅР°Р№С€РѕРІ РљРџРљ РЅР°Р№РјР°РЅС†С–РІ, Сѓ СЏРєРѕРјСѓ С” РЅР°РІРѕРґРєР° РЅР° СЏРєРѕРіРѕСЃСЊ Р’С–Р·РёСЂСЏ. Р—Р° С—С…РЅС–Рј СЂРµРіР»Р°РјРµРЅС‚РѕРј, Р·РЅР°Р№РґРµРЅРёР№ РљРџРљ СЏ РјР°СЋ РІС–РґРЅРµСЃС‚Рё С—С…РЅСЊРѕРјСѓ РІР°С‚Р°Р¶РєСѓ. РЎСѓРґСЏС‡Рё Р· РєРѕРѕСЂРґРёРЅР°С‚, РјРµРЅС– РІ РўРµРјРЅСѓ РґРѕР»РёРЅСѓ.</text>
-  </string>
-  <string id="esc_composer_task_check_spare_seat_name">
-    <text>РџРµСЂРµРІС–СЂРёС‚Рё Р·Р°РїР°СЃРЅРµ РјС–СЃС†Рµ Р·СѓСЃС‚СЂС–С‡С–</text>
-  </string>
-  <string id="esc_composer_task_check_spare_seat_text">
-    <text>Р’С–Р·РёСЂСЊ РІС–РґРїСЂР°РІРёРІ РјРµРЅРµ Р· РѕРґРЅРёРј Р·С– СЃРІРѕС—С… Р±С–Р№С†С–РІ РїРµСЂРµРІС–СЂРёС‚Рё СЏРєРµСЃСЊ Р·Р°РїР°СЃРЅРµ РјС–СЃС†Рµ Р·СѓСЃС‚СЂС–С‡С–. РњР°Р»Рѕ С‰Рѕ СЂРѕР·СѓРјС–СЋ, Р°Р»Рµ РІС–РґРјРѕРІР»СЏС‚РёСЃСЏ РЅРµ РјРѕР¶РЅР° Р±СѓР»Рѕ: РјСѓС‚РЅС– РІРѕРЅРё СЏРєС–СЃСЊ, РїСЂРёР±РёР»Рё Р± С‰Рµ РЅР° РјС–СЃС†С–...</text>
-  </string>
-  <string id="esc_composer_task_check_bandit_savior_treasure_name">
-    <text>РџСЂРѕС‡РёС‚Р°С‚Рё С–РЅС„РѕСЂРјР°С†С–СЋ Р· РљРџРљ СЃС‚Р°Р»РєРµСЂР° Сѓ СЃС…РѕРІРєСѓ РљСѓРїРё</text>
-  </string>
-  <string id="esc_composer_task_check_bandit_savior_treasure_text">
-    <text>РќР° РјС–СЃС†С– СЃРјРµСЂС‚С– РіСЂСѓРїРё СЃС‚Р°Р»РєРµСЂС–РІ РљСѓРїР° Р·РЅР°Р№С€РѕРІ РљРџРљ, Р° С‰РѕР± РїРµСЂРµРєРѕРЅР°С‚РёСЃСЏ Сѓ РІС–РґСЃСѓС‚РЅРѕСЃС‚С– С…РІРѕСЃС‚Р°, С‚РёРјС‡Р°СЃРѕРІРѕ Р·Р°Р»РёС€РёРІ Р№РѕРіРѕ Сѓ СЃС…РѕРІРєСѓ. Р—Р°СЂР°Р· РІСЃРµ СЃС‚РёС…Р»Рѕ, РјРѕР¶РЅР° Р·Р°РіР»СЏРЅСѓС‚Рё С‚СѓРґРё Р№ СЃРїСЂРѕР±СѓРІР°С‚Рё Р·РЅР°Р№С‚Рё РїРѕС‚РµРЅС†С–Р№РЅРѕ РєРѕСЂРёСЃРЅСѓ С–РЅС„РѕСЂРјР°С†С–СЋ Сѓ С†С–Р№ СЃРїСЂР°РІС–.</text>
-  </string>
-  <string id="esc_composer_task_check_bandit_savior_treasure_compl_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РљСѓРїРѕСЋ</text>
-  </string>
-  <string id="esc_composer_task_check_bandit_savior_treasure_compl_text">
-    <text>Р—Р° С–РЅС„РѕСЂРјР°С†С–С”СЋ Р· РљРџРљ СЃС‚Р°Р»РєРµСЂР° СЃРєР»Р°РґР°С”С‚СЊСЃСЏ РґРѕСЃРёС‚СЊ С†С–РєР°РІР° РєР°СЂС‚РёРЅР°. РџРѕС‚СЂС–Р±РЅРѕ РѕР±РіРѕРІРѕСЂРёС‚Рё РїРѕРґР°Р»СЊС€РёР№ РїР»Р°РЅ РґС–Р№ Р· РљСѓРїРѕСЋ.</text>
-  </string>
-  <string id="esc_composer_task_find_survivors_name">
-    <text>Р—РЅР°Р№С‚Рё РІС†С–Р»С–Р»РёС… Р· РіСЂСѓРїРё СЃС‚Р°Р»РєРµСЂС–РІ С‚Р° РґС–Р·РЅР°С‚РёСЃСЏ, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ</text>
-  </string>
-  <string id="esc_composer_task_find_survivors_text">
-    <text>Р‘Р°РЅРґРёС‚ РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ РљСѓРїР° РґРѕРїРѕРјС–Рі РІРёР±СЂР°С‚РёСЃСЏ Р·-РїС–Рґ РґСѓР»Р° СЃС‚Р°Р»РєРµСЂР° Р· РіСЂСѓРїРё Р’С–Р·РёСЂСЏ. РўРµРїРµСЂ РїРѕС‚СЂС–Р±РЅРѕ РґС–СЃС‚Р°С‚Рё Р±СѓРґСЊ-СЏРєСѓ С–РЅС„РѕСЂРјР°С†С–СЋ СЃС‚РѕСЃРѕРІРЅРѕ РІР°РЅС‚Р°Р¶Сѓ, СЏРєРёР№ РЅРµСЃР»Рё СЃС‚Р°Р»РєРµСЂРё. РќР° С‚С–Р»С– РѕРґРЅРѕРіРѕ Р· РЅРёС… РљСѓРїР° Р·РЅР°Р№С€РѕРІ РљРџРљ, РІ СЏРєРѕРјСѓ С” С–РЅС„РѕСЂРјР°С†С–СЏ РїСЂРѕ РјС–СЃС†РµР·РЅР°С…РѕРґР¶РµРЅРЅСЏ РѕРґРЅРѕРіРѕ Р· С—С…РЅС–С… С‚РѕРІР°СЂРёС€С–РІ. РџРѕС‚СЂС–Р±РЅРѕ С‚СѓРґРё РЅР°РІС–РґР°С‚РёСЃСЊ С‚Р° РґС–Р·РЅР°С‚РёСЃСЏ РїРѕРґСЂРѕР±РёС†СЊ.</text>
-  </string>
-  <string id="esc_composer_task_wait_time_name">
-    <text>Р§РµРєР°С‚Рё РЅР° РІРєР°Р·С–РІРєРё РІС–Рґ РЎРјРёС€Р»РѕРІР°</text>
-  </string>
-  <string id="esc_composer_task_wait_time_text">
-    <text>РЇРєРёР№СЃСЊ РїСЂРѕС„РµСЃРѕСЂ РЎРјРёС€Р»РѕРІ РґРёСЃС‚Р°РЅС†С–Р№РЅРѕ Р»Р°РіРѕРґРёС‚СЊ РЅРµРІС–РґРѕРјРёР№ РЅР°Рј Р· РљСѓСЂРѕСЋ РїСЂРёСЃС‚СЂС–Р№, СЏРєРёР№, РІРѕС‡РµРІРёРґСЊ, РґР°Р»РµРєРѕ РЅРµ РЅРµС€РєС–РґР»РёРІРёР№. РџРѕС‚СЂС–Р±РЅРѕ РґРѕС‡РµРєР°С‚РёСЃСЏ РЅР° РІРєР°Р·С–РІРєРё РІС–Рґ РЎРјРёС€Р»РѕРІР°, СѓС‚СЂРёРјСѓСЋС‡Рё РїРѕР·РёС†С–С— РЅР°РІРєРѕР»Рѕ С†С–С”С— Р·Р°Р»С–Р·СЏРєРё.</text>
-  </string>
-  <string id="esc_composer_task_talk_after_attack_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РљСѓРїРѕСЋ</text>
-  </string>
-  <string id="esc_composer_task_talk_after_attack_text">
-    <text>РђС‚Р°РєСѓ РІС–РґР±РёС‚Рѕ, РїРѕРґР°Р»СЊС€С– С–РЅСЃС‚СЂСѓРєС†С–С— РІС–Рґ РЎРјРёС€Р»РѕРІР° РѕС‚СЂРёРјР°РЅС–. РџРѕС‚СЂС–Р±РЅРѕ РѕР±РіРѕРІРѕСЂРёС‚Рё РїРѕРґР°Р»СЊС€РёР№ РїР»Р°РЅ РґС–Р№ Р· РљСѓРїРѕСЋ С‚Р° РІРёСЂС–С€РёС‚Рё, С‰Рѕ СЂРѕР±РёС‚Рё Р· РЅРµР·РЅР°Р№РѕРјС†РµРј РџС‚Р°С…РѕСЋ.</text>
-  </string>
-  <string id="esc_composer_task_get_to_the_fork_name">
-    <text>Р”С–СЃС‚Р°С‚РёСЃСЏ СЂРѕР·РІРёР»РєРё</text>
-  </string>
-  <string id="esc_composer_task_get_to_the_fork_text">
-    <text>РџРѕРєРё СЂСѓС€Р°Р№РјРѕ РІ Р±С–Рє РЎРјС–С‚РЅРёРєР°, С‚СЂРµР±Р° РІРёСЂС–С€РёС‚Рё, РєРѕРјСѓ Р·СЂРµС€С‚РѕСЋ РІС–РґРґР°РІР°С‚РёРјРµРјРѕ РїСЂРёСЃС‚СЂС–Р№: РЎРјРёС€Р»РѕРІСѓ С‡Рё Р»СЋРґСЏРј РўСѓСЂРѕРІР°, Р· СЏРєРёРјРё РЅР°Рј, РїРѕ СЃСѓС‚С–, С‰Рµ РЅРµ РґРѕРІРµР»РѕСЃСЏ РїРѕР·РЅР°Р№РѕРјРёС‚РёСЃСЊ.</text>
-  </string>
-  <string id="esc_composer_task_wait_to_garbage_name">
-    <text>Р’РёСЂС–С€РёС‚Рё, С‰Рѕ СЂРѕР±РёС‚Рё РґР°Р»С–</text>
-  </string>
-  <string id="esc_composer_task_wait_to_garbage_text">
-    <text>РњРё Р±С–Р»СЏ СЂРѕР·РІРёР»РєРё. РўРµРїРµСЂ РїРѕС‚СЂС–Р±РЅРѕ РїСЂРёР№РЅСЏС‚Рё РѕСЃС‚Р°С‚РѕС‡РЅРµ СЂС–С€РµРЅРЅСЏ, РІС–Рґ СЏРєРѕРіРѕ Р·Р°Р»РµР¶Р°С‚РёРјРµ, С…С‚Рѕ РѕС‚СЂРёРјР°С” РїСЂРёСЃС‚СЂС–Р№: РўСѓСЂРѕРІ С‡Рё РЎРјРёС€Р»РѕРІ.</text>
-  </string>
-  <string id="esc_composer_task_controler_kill_name">
-    <text>Р’Р±РёС‚Рё РєРѕРЅС‚СЂРѕР»РµСЂР° С– РїСЂРѕРІРµСЃС‚Рё Р·Р°РјС–СЂРё</text>
-  </string>
-  <string id="esc_composer_task_controler_kill_text">
-    <text>РўСѓСЂРѕРІ Р·Р°Р¶Р°РґР°РІ РїСЂРѕРІРµСЃС‚Рё РІРёРјС–СЂРё РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ РІ Р±РµР·РїРѕСЃРµСЂРµРґРЅС–Р№ Р±Р»РёР·СЊРєРѕСЃС‚С– РІС–Рґ РјС–СЃС†СЏ Р·РЅР°С…РѕРґР¶РµРЅРЅСЏ РєРѕРЅС‚СЂРѕР»РµСЂР°, СЏРєРѕРіРѕ РїРѕС‚СЂС–Р±РЅРѕ РґР»СЏ РїРѕС‡Р°С‚РєСѓ РІР±РёС‚Рё.</text>
-  </string>
-  <string id="esc_composer_task_controler_kill_complete_name"><text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ РўСѓСЂРѕРІР°</text>.
+
+	<string id="esc_task_actor_treasure">
+		<text>ЗАНАЧКА</text>
 	</string>
-  <string id="esc_composer_task_controler_kill_complete_text">
-    <text>Р— Р±РѕР¶РѕСЋ РґРѕРїРѕРјРѕРіРѕСЋ РІРґР°Р»РѕСЃСЏ РІР±РёС‚Рё РєРѕРЅС‚СЂРѕР»РµСЂР° С‚Р° РїСЂРѕРІРµСЃС‚Рё Р·Р°РјС–СЂРё. РўРµРїРµСЂ С‡Р°СЃ РґРѕ РўСѓСЂРѕРІР°.</text>
-  </string>
-  <string id="esc_composer_task_visit_scientist_genius_name"><text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ Р·С– РЎРјРёС€Р»РѕРІРёРј</text>.
+
+	<string id="esc_task_actor_treasure_start_name">
+		<text>Забрати свій хабар</text>
 	</string>
-  <string id="esc_composer_task_visit_scientist_genius_text">
-    <text>-</text>
-  </string>
-  <string id="esc_composer_task_visit_trader_name">
-    <text>Р’Р·СЏС‚Рё Сѓ РЎРёРґРѕСЂРѕРІРёС‡Р° РєРѕРјРїР»РµРєС‚ РїСЃС–-Р±Р»РѕРєР°Рґ</text>
-  </string>
-  <string id="esc_composer_task_visit_trader_text">
-    <text>РЎРјРёС€Р»РѕРІСѓ РїРѕС‚СЂС–Р±РЅС– РїСЂРµРїР°СЂР°С‚Рё РґР»СЏ РїСЃС–-Р·Р°С…РёСЃС‚Сѓ. Р’С–РЅ РґРѕРјРѕРІРёРІСЃСЏ С–Р· РЎРёРґРѕСЂРѕРІРёС‡РµРј РїСЂРѕ СѓРіРѕРґСѓ, РјРµРЅС– Р·Р°Р»РёС€РёР»РѕСЃСЏ С—С… Р·Р°Р±СЂР°С‚Рё.</text>
-  </string>
-  <string id="esc_composer_task_drugs_complete_name">
-    <text>Р’С–РґРЅРµСЃС‚Рё РїСЂРµРїР°СЂР°С‚Рё РЎРјРёС€Р»РѕРІСѓ</text>
-  </string>
-  <string id="esc_composer_task_drugs_complete_text">
-    <text>РўРѕСЂРіРѕРІРµС†СЊ Р»СЋР±'СЏР·РЅРѕ РІС–РґРґР°РІ РєРѕРјРїР»РµРєС‚ РїСЃС–-Р±Р»РѕРєР°Рґ. Р§Р°СЃ СЂСѓС…Р°С‚Рё РґРѕ РЎРјРёС€Р»РѕРІР°.</text>
-  </string>
-  <string id="esc_composer_task_scientist_wait_actor_name">
-    <text>РџРѕРІС–РґРѕРјРёС‚Рё РЎРјРёС€Р»РѕРІСѓ РїСЂРѕ РіРѕС‚РѕРІРЅС–СЃС‚СЊ</text>
-  </string>
-  <string id="esc_composer_task_scientist_wait_actor_text">
-    <text>РЎРјРёС€Р»РѕРІ С‡РµРєР°С”, С‰РѕР± РїРѕС‡Р°С‚Рё СЂСѓС…Р°С‚РёСЃСЏ РґРѕ РўСѓСЂРѕРІР°. РџРѕС‚СЂС–Р±РЅРѕ СЏРєРЅР°Р№С€РІРёРґС€Рµ Р·Р°РєС–РЅС‡СѓРІР°С‚Рё СЃРїСЂР°РІРё Р№ РІРёСЂСѓС€Р°С‚Рё.</text>
-  </string>
-  <string id="esc_composer_task_visit_scientist_boss_final_name">
-    <text>Р’С–РґРїСЂР°РІР»СЏС‚РёСЃСЏ РґРѕ РўСѓСЂРѕРІР°</text>
-  </string>
-  <string id="esc_composer_task_visit_scientist_boss_final_text">
-    <text>-</text>
-  </string>
-  <string id="esc_stalker_liar_task">
-    <text>РќР•Р—Р’РР§РђР™РќРР™ РђР РўР•Р¤РђРљРў</text>
-  </string>
-  <string id="esc_stalker_liar_task_wait_name">
-    <text>Р’РёСЂСѓС€РёС‚Рё Р· Р‘СЂРµС…СѓРЅРѕРј Р·Р° Р°СЂС‚РµС„Р°РєС‚РѕРј</text>
-  </string>
-  <string id="esc_stalker_liar_task_wait_text">
-    <text>РЎС‚Р°Р»РєРµСЂ Р· СЃРµР»Р°, РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ Р‘СЂРµС…СѓРЅ, СЂРѕР·РїРѕРІС–РІ, С‰Рѕ Р±Р°С‡РёРІ РЅРµР·РІРёС‡Р°Р№РЅРёР№ Р°СЂС‚РµС„Р°РєС‚ Р·Р° Р·Р°Р»С–Р·РЅРёС‡РЅРёРј РЅР°СЃРёРїРѕРј. Р’Р°СЂС‚Рѕ РІРёСЂСѓС€РёС‚Рё Р· РЅРёРј С‚СѓРґРё Р№ РїРµСЂРµРІС–СЂРёС‚Рё, С‡Рё С†Рµ С‚Р°Рє РЅР°СЃРїСЂР°РІРґС–.</text>
-  </string>
-  <string id="esc_stalker_liar_task_take_artefact_name">
-    <text>Р”С–СЃС‚Р°С‚Рё Р°СЂС‚РµС„Р°РєС‚</text>
-  </string>
-  <string id="esc_stalker_liar_task_take_artefact_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ СЃР»С–РґСѓРІР°С‚Рё Р·Р° Р‘СЂРµС…СѓРЅРѕРј С‚Р° РґС–СЃС‚Р°С‚Рё Р°СЂС‚РµС„Р°РєС‚, РїСЂРѕ СЏРєРёР№ РІС–РЅ РіРѕРІРѕСЂРёРІ.</text>
-  </string>
-  <string id="esc_stalker_liar_task_artefact_talk_name">
-    <text>РџРѕРєР°Р·Р°С‚Рё Р‘СЂРµС…СѓРЅСѓ Р°СЂС‚РµС„Р°РєС‚</text>
-  </string>
-  <string id="esc_stalker_liar_task_artefact_talk_text">
-    <text>Р‘СЂРµС…СѓРЅ РЅРµ РѕР±РґСѓСЂРёРІ: РјРё РґС–Р№СЃРЅРѕ Р·РЅР°Р№С€Р»Рё СЏРєРёР№СЃСЊ СЂС–РґРєС–СЃРЅРёР№ Р°СЂС‚РµС„Р°РєС‚ Р·Р° С„РµСЂРјРѕСЋ. РџРѕСЂР° РѕР±РіРѕРІРѕСЂРёС‚Рё Р· РЅРёРј С†Рµ.</text>
-  </string>
-  <string id="esc_stalker_liar_task_artefact_wait_trade_name">
-    <text>Р”РѕС‡РµРєР°С‚РёСЃСЏ, РїРѕРєРё Р‘СЂРµС…СѓРЅ РїСЂРѕРґР°СЃС‚СЊ Р°СЂС‚РµС„Р°РєС‚</text>
-  </string>
-  <string id="esc_stalker_liar_task_artefact_wait_trade_text">
-    <text>РЎРїСЂР°РІСѓ РІРёРєРѕРЅР°РЅРѕ. Р‘СЂРµС…СѓРЅ СЃРєР°Р·Р°РІ, СЂРѕР·Р±РµСЂРµС‚СЊСЃСЏ Р·С– СЃРїСЂР°РІР°РјРё, РїСЂРѕРґР°СЃС‚СЊ Р°СЂС‚РµС„Р°РєС‚ С– РґР°СЃС‚СЊ Р·РЅР°С‚Рё, РєРѕР»Рё РїСЂРёС…РѕРґРёС‚Рё Р·Р° СЃРІРѕС”СЋ С‡Р°СЃС‚РєРѕСЋ.</text>
-  </string>
-  <string id="esc_stalker_liar_task_take_reward_name">
-    <text>Р—Р°Р±СЂР°С‚Рё СЃРІРѕСЋ С‡Р°СЃС‚РєСѓ</text>
-  </string>
-  <string id="esc_stalker_liar_task_take_reward_text">
-    <text>Р‘СЂРµС…СѓРЅ РїСЂРѕРґР°РІ Р°СЂС‚РµС„Р°РєС‚. Р’Р¶Рµ С‡Р°СЃ РІР·СЏС‚Рё Сѓ РЅСЊРѕРіРѕ СЃРІРѕСЋ С‡Р°СЃС‚РєСѓ.</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_task_name">
-    <text>Р”РѕРїРѕРјРѕРіР° РњРёС…Р°Р№Р»РѕРІРёС‡Сѓ</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_1_task_start_name">
-    <text>Р—РЅР°Р№С‚Рё С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ РіСЂСѓР±РѕС— СЂРѕР±РѕС‚Рё</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_1_task_start_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡ РїРѕРїСЂРѕСЃРёРІ Р·РЅР°Р№С‚Рё С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ РіСЂСѓР±РѕС— СЂРѕР±РѕС‚Рё, С‰РѕР± РјР°С‚Рё РјРѕР¶Р»РёРІС–СЃС‚СЊ СЂРѕР±РёС‚Рё РґРµСЏРєС– РїСЂРѕСЃС‚С– Р°РїРіСЂРµР№РґРё СЃРїРѕСЂСЏРґР¶РµРЅРЅСЏ.</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_1_task_final_name">
-    <text>Р’С–РґРЅРµСЃС‚Рё С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ РіСЂСѓР±РѕС— СЂРѕР±РѕС‚Рё Р·Р°РјРѕРІРЅРёРєСѓ</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_1_task_final_text">
-    <text>Р’РґР°Р»РѕСЃСЏ Р·РЅР°Р№С‚Рё С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ РіСЂСѓР±РѕС— СЂРѕР±РѕС‚Рё. РўРµРїРµСЂ РњРёС…Р°Р№Р»РѕРІРёС‡ Р·РјРѕР¶Рµ СЂРѕР±РёС‚Рё СЏРєС–-РЅРµ-СЏРєС– Р°РїРіСЂРµР№РґРё РґР»СЏ РјРѕС”С— СЃРїРѕСЂСЏРіРё.</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_2_task_start_name">
-    <text>Р—РЅР°Р№С‚Рё С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ С‚РѕРЅРєРѕС— СЂРѕР±РѕС‚Рё</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_2_task_start_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡Сѓ РїРѕС‚СЂС–Р±РЅС– С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ С‚РѕРЅРєРѕС— СЂРѕР±РѕС‚Рё, С‰РѕР± РѕС‚СЂРёРјР°С‚Рё РјРѕР¶Р»РёРІС–СЃС‚СЊ СЂРѕР±РёС‚Рё РґРµСЏРєС– РІС–РґРЅРѕСЃРЅРѕ СЃРєР»Р°РґРЅС– Р°РїРіСЂРµР№РґРё Р·Р±СЂРѕС— С‚Р° Р±СЂРѕРЅС–.</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_2_task_final_name">
-    <text>Р’С–РґРЅРµСЃС‚Рё С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ С‚РѕРЅРєРѕС— СЂРѕР±РѕС‚Рё Р·Р°РјРѕРІРЅРёРєСѓ</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_2_task_final_text">
-    <text>Р†РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ С‚РѕРЅРєРѕС— СЂРѕР±РѕС‚Рё Р·РЅР°Р№РґРµРЅС–. РќР°СЂРµС€С‚С– РњРёС…Р°Р№Р»РѕРІРёС‡ Р·РјРѕР¶Рµ СЂРѕР±РёС‚Рё СЃРєР»Р°РґРЅС– Р°РїРіСЂРµР№РґРё РґР»СЏ СЃРїРѕСЂСЏРґР¶РµРЅРЅСЏ.</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_3_task_start_name">
-    <text>Р—РЅР°Р№С‚Рё С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ РєР°Р»С–Р±СЂСѓРІР°РЅРЅСЏ</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_3_task_start_text">
-    <text>РњРёС…Р°Р№Р»РѕРІРёС‡Сѓ РїРѕС‚СЂС–Р±РЅС– С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ РєР°Р»С–Р±СЂСѓРІР°РЅРЅСЏ. РЇРєС‰Рѕ С—С… Р·РЅР°Р№С‚Рё, РІС–РЅ Р·РјРѕР¶Рµ СЂРѕР±РёС‚Рё РїСЂР°РєС‚РёС‡РЅРѕ Р±СѓРґСЊ-СЏРєС– РјРѕРґРёС„С–РєР°С†С–С— РґР»СЏ СЃРїРѕСЂСЏРґР¶РµРЅРЅСЏ.</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_3_task_final_name">
-    <text>Р’С–РґРЅРµСЃС‚Рё С–РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ РєР°Р»С–Р±СЂСѓРІР°РЅРЅСЏ Р·Р°РјРѕРІРЅРёРєСѓ</text>
-  </string>
-  <string id="esc_stalker_technic_toolkit_3_task_final_text">
-    <text>Р†РЅСЃС‚СЂСѓРјРµРЅС‚Рё РґР»СЏ РєР°Р»С–Р±СЂСѓРІР°РЅРЅСЏ Сѓ РјРµРЅРµ. РњРёС…Р°Р№Р»РѕРІРёС‡ С‚РµРїРµСЂ Р· Р»РµРіРєС–СЃС‚СЋ СЂРѕР±РёС‚РёРјРµ СЃРєР»Р°РґРЅС– Р°РїРіСЂРµР№РґРё.</text>
-  </string>
-  <string id="esc_actor_stalker_sos_task">
-    <text>Р”РР’РќРР™ РЎРР“РќРђР›</text>
-  </string>
-  <string id="esc_actor_stalker_sos_task_title">
-    <text>Р’С–РґРіСѓРєРЅСѓС‚РёСЃСЏ РЅР° СЃРёРіРЅР°Р» SOS</text>
-  </string>
-  <string id="esc_actor_stalker_sos_task_descr">
-    <text>Р— С‚РµСЂРёС‚РѕСЂС–С— РµР»РµРІР°С‚РѕСЂР° Р±РµР·РїРµСЂРµСЂРІРЅРѕ РїРµСЂРµРґР°С”С‚СЊСЃСЏ СЃРёРіРЅР°Р» SOS. РњРѕР¶Р»РёРІРѕ, РІР°СЂС‚Рѕ РїРµСЂРµРІС–СЂРёС‚Рё, С‰Рѕ С‚Р°Рј.</text>
-  </string>
+
+	<string id="esc_task_actor_treasure_start_text">
+		<text>Зовсім недавно залишав свої речі у ничці. Сподіваюсь, вони все ще на місці.</text>
+	</string>
+
+	<string id="esc_trader_take_job">
+		<text>ПЕРШІ ЗАРОБІТКИ</text>
+	</string>
+
+	<string id="esc_trader_take_job_start_name">
+		<text>Поговорити з торговцем</text>
+	</string>
+
+	<string id="esc_trader_take_job_start_text">
+		<text>Сильно ми з Юрком нажерлися. Пора з цим зав'язувати. Треба знайти роботу, піду до Сидоровича.</text>
+	</string>
+
+	<string id="esc_trader_search_collector_arts">
+		<text>НОВА ВИЛАЗКА</text>
+	</string>
+
+	<string id="esc_trader_search_collector_arts_start_name">
+		<text>Знайти збирача артефактів</text>
+	</string>
+
+	<string id="esc_trader_search_collector_arts_start_text">
+		<text>Давно я не блукав по Кордону. Пора згадати минуле. Сидорович попросив знайти збирача артефактів. За словами торговця, він пішов до тунелю з «Електрами», що під мостом.</text>
+	</string>
+
+	<string id="esc_trader_search_collector_arts_pda_taken_name">
+		<text>Розповісти Сидоровичу про смерть збирача</text>
+	</string>
+
+	<string id="esc_trader_search_collector_arts_pda_taken_text">
+		<text>Я знайшов труп збирача артефактів. Пора доповісти Сидоровичу.</text>
+	</string>
+
+	<string id="esc_trader_search_collector_arts_go_back_name">
+		<text>Розповісти Сидоровичу про «смерть» збирача або здати його</text>
+	</string>
+
+	<string id="esc_trader_search_collector_arts_go_back_text">
+		<text>Збирач попав на великі бабки у торговця, і вирішив імітувати свою смерть за допомогою якогось трупа... Треба думати, що з цим робити.</text>
+	</string>
+
+	<string id="esc_find_art_kutek">
+		<text>ТУНЕЛЬ З «ЕЛЕКТРАМИ»</text>
+	</string>
+
+	<string id="esc_find_art_kutek_start_name">
+		<text>Дістати артефакт з аномалії</text>
+	</string>
+
+	<string id="esc_find_art_kutek_start_text">
+		<text>Виходячи з запису збирача артефактів, у тунелі є якийсь артефакт. Треба перевірити.</text>
+	</string>
+
+	<string id="arts_for_trader">
+		<text>АРТЕФАКТИ ДЛЯ ТОРГОВЦЯ</text>
+	</string>
+
+	<string id="trader_arts_inspect_first_anomaly_name">
+		<text>Перевірити наявність артефактів у першій аномалії</text>
+	</string>
+
+	<string id="trader_arts_inspect_second_anomaly_name">
+		<text>Перевірити наявність артефактів у другій аномалії</text>
+	</string>
+
+	<string id="trader_arts_inspect_third_anomaly_name">
+		<text>Перевірити наявність артефактів у третій аномалії</text>
+	</string>
+
+	<string id="trader_arts_inspect_anomalies_text">
+		<text>За кожний принесений артефакт, Сидорович обіцяв грубі гроші, а вони мені зараз дуже потрібні. Хочеться якнайшвидше рвонути вглиб Зони.</text>
+	</string>
+
+	<string id="arts_for_trader_back_name">
+		<text>Повернутися до Сидоровича</text>
+	</string>
+
+	<string id="fatalities_army">
+		<text>ЗАГИБЛІ В АНОМАЛІЇ</text>
+	</string>
+
+	<string id="fatalities_army_start_name">
+		<text>Оглянути місце загибелі військових</text>
+	</string>
+
+	<string id="fatalities_army_start_text">
+		<text>Юрко повідомив, що вояки, яких за нами відправили, згинули в аномалії. Може, у них знайдеться щось цінне. Треба перевірити.</text>
+	</string>
+
+	<string id="esc_mechanic_night_polters">
+		<text>ДИВНІ СВІТІННЯ</text>
+	</string>
+
+	<string id="esc_mechanic_night_polters_wait_night_name">
+		<text>Дочекатися ночі</text>
+	</string>
+
+	<string id="esc_mechanic_night_polters_wait_night_text">
+		<text>Потрібно дочекатися пізньої ночі, щоб перевірити теорію Михайловича про нічні світіння, які він приймає за артефакти. Навідаюсь туди десь о другій, щоб напевно.</text>
+	</string>
+
+	<string id="mechanic_go_check_anomaly_name">
+		<text>Вирушати до аномалії</text>
+	</string>
+
+	<string id="mechanic_go_check_anomaly_text">
+		<text>Вже час вирушати до аномалії та спробувати знайти артефакти, про які говорив технік.</text>
+	</string>
+
+	<string id="mechanic_kill_polters_name">
+		<text>Вбити полтергейстів або повернутися</text>
+	</string>
+
+	<string id="mechanic_kill_polters_text">
+		<text>Світіння були зовсім не від артефактів. Ночами в аномалії з'являються полтергейсти. Вони й створюють такі привабливі світові ілюзії...</text>
+	</string>
+
+	<string id="mechanic_squad_polters_death_name">
+		<text>Розповісти Михайловичу про полтергейсти</text>
+	</string>
+
+	<string id="mechanic_squad_polters_death_text">
+		<text>Вже час розповісти Михайловичу про все, що я побачив у аномалії.</text>
+	</string>
+
+	<string id="esc_fanat_logovo_start">
+		<text>СТАРІ ЗНАЙОМІ</text>
+	</string>
+
+	<string id="esc_fanat_logovo_start_dlg_name">
+		<text>Поговорити з Фанатом</text>
+	</string>
+
+	<string id="esc_fanat_logovo_start_dlg_text">
+		<text>Торговець сказав, що Фанату може знадобитися допомога... а мені бабки зараз дуже потрібні.</text>
+	</string>
+
+	<string id="esc_fanat_logovo">
+		<text>ЛІГВО МУТАНТІВ</text>
+	</string>
+
+	<string id="logovo_take_dinamit_name">
+		<text>Дістати динаміт</text>
+	</string>
+
+	<string id="logovo_take_dinamit_text">
+		<text>Фанат сказав дістати динаміт, поки він з хлопцями дістається місця. Шукати треба десь біля локомотива.</text>
+	</string>
+
+	<string id="logovo_go_marker_name">
+		<text>Дістатися місця</text>
+	</string>
+
+	<string id="logovo_go_marker_text">
+		<text>Фанат давав координати лігва. Потрібно туди вирушати  -  він з хлопцями вже мене чекає.</text>
+	</string>
+
+	<string id="logovo_put_dinamit_name">
+		<text>Поставити динаміт</text>
+	</string>
+
+	<string id="logovo_put_dinamit_text">
+		<text>Фанат з хлопцями мене прикриватиме, поки я ставлю динаміт. З богом.</text>
+	</string>
+
+	<string id="logovo_speak_fanat_name">
+		<text>Поговорити з Фанатом</text>
+	</string>
+
+	<string id="logovo_speak_fanat_text">
+		<text>Нічого так рвонуло. Пора трясти з Фаната нагороду.</text>
+	</string>
+
+	<string id="esc_actor_repair_ar">
+		<text>ПЕРШИЙ АВТОМАТ</text>
+	</string>
+
+	<string id="esc_actor_repair_ar_start_name">
+		<text>Поговорити з техніком</text>
+	</string>
+
+	<string id="esc_actor_repair_ar_start_text">
+		<text>В нагороду Фанат дав свій старий, але цілком справний калаш. Його треба довести до ладу, щоб з нього можна було знову стріляти.</text>
+	</string>
+
+	<string id="esc_actor_repair_ar_wait_name">
+		<text>Дочекатися, поки технік закінчить ремонт</text>
+	</string>
+
+	<string id="esc_actor_repair_ar_wait_text">
+		<text>Михайлович дасть знати, коли закінчить з ремонтом мого калаша. Поки можна зайнятися якимись справами.</text>
+	</string>
+
+	<string id="esc_actor_repair_ar_final_name">
+		<text>Забрати калаш у техніка</text>
+	</string>
+
+	<string id="esc_actor_repair_ar_final_text">
+		<text>Михайлович маякнув, що закінчив роботу. Пора забирати ствол.</text>
+	</string>
+
+	<string id="fanat_friend_quest">
+		<text>БОРГ</text>
+	</string>
+
+	<string id="fanat_friend_quest_start_name">
+		<text>Вибити зі сталкера гроші</text>
+	</string>
+
+	<string id="fanat_friend_quest_start_text">
+		<text>Володько Битий сказав, що кидало знаходиться на околицях елеватора. Треба вибити з нього борг  -  вісім тисяч.</text>
+	</string>
+
+	<string id="fanat_friend_quest_vibil_name">
+		<text>Віддати гроші Володькові</text>
+	</string>
+
+	<string id="fanat_friend_quest_vibil_text">
+		<text>Слизький тип виявився, але гроші все ж таки тепер у мене. Далі все просто.</text>
+	</string>
+
+	<string id="esc_trader_take_job_second">
+		<text>РОБОТА НА КОРДОНІ</text>
+	</string>
+
+	<string id="esc_trader_take_job_2_start_name">
+		<text>Поговорити із Сидоровичем</text>
+	</string>
+
+	<string id="esc_trader_take_job_2_start_text">
+		<text>Та що ж таке, знову в мотлох нажерся... Як же башка тріщить! Все, точно зав'язую. Піду до Сидора по роботу, інакше такими темпами ніколи до Смітника не доберуся...</text>
+	</string>
+
+	<string id="esc_defence_village">
+		<text>АТАКА НА СЕЛО</text>
+	</string>
+
+	<string id="esc_defence_village_start_name">
+		<text>Відбитися від мутантів</text>
+	</string>
+
+	<string id="esc_defence_village_start_text">
+		<text>Дідько, звідки вони взялися?! Це все кляті яйцеголові зі своїм приладом!</text>
+	</string>
+
+	<string id="esc_defence_village_tech_name">
+		<text>Повернутися до техніка</text>
+	</string>
+
+	<string id="esc_defence_village_tech_text">
+		<text>Атаку відбито. Пора з'ясувати, що ж це за прилад, що приманює монстрів...</text>
+	</string>
+
+	<string id="esc_technic_device_atp_task">
+		<text>РОБОТА НА КОМБЕЗ</text>
+	</string>
+
+	<string id="esc_technic_device_atp_task_start_name">
+		<text>Встановити прилад вчених на АТП</text>
+	</string>
+
+	<string id="esc_technic_device_atp_task_start_text">
+		<text>Михайлович попросив встановити прилад вчених у бандитському таборі на АТП, за що обіцяв підігнати комбез.</text>
+	</string>
+
+	<string id="esc_technic_device_atp_task_final_name">
+		<text>Повернутися до Михайловича</text>
+	</string>
+
+	<string id="esc_technic_device_atp_task_final_text">
+		<text>Справу виконано. Тепер час повертатися до Михайловича за обіцяним комбезом.</text>
+	</string>
+
+	<string id="esc_trader_fail_speak_jurok">
+		<text>ДРУГ НЕ ПОКИНЕ</text>
+	</string>
+
+	<string id="esc_trader_fail_speak_jurok_start_name">
+		<text>Поговорити з Юрком</text>
+	</string>
+
+	<string id="esc_trader_fail_speak_jurok_start_text">
+		<text>Найближчим часом мої справи з торговцем закінчено. Треба б сходити до Юрка: більше тут хороших знайомих у мене немає. Сподіваюсь, він вже проспався і поможе порадою...</text>
+	</string>
+
+	<string id="travel_task_provodnik">
+		<text>РОБОТА ПРОВІДНИКОМ</text>
+	</string>
+
+	<string id="travel_task_provodnik_go_tonnel_name">
+		<text>Вирушати до тунелю</text>
+	</string>
+
+	<string id="travel_task_provodnik_go_tonnel_text">
+		<text>Так, сильно Юрко набанячився. Але нічого, зате за нього новачків відведу та грошей зароблю. Вести треба рано вранці, інакше вийде, як минулого разу...</text>
+	</string>
+
+	<string id="travel_task_provodnik_go_village_name">
+		<text>Відвести новачків у село</text>
+	</string>
+
+	<string id="travel_task_provodnik_go_village_text">
+		<text>Якісь вони дивні... Ну гаразд, зараз відведу, отримаю грошенят, закуплюся і можна рвати на Смітник.</text>
+	</string>
+
+	<string id="travel_robbery_speak">
+		<text>ПОГРАБУВАННЯ</text>
+	</string>
+
+	<string id="travel_robbery_speak_start_name">
+		<text>Повернутися в село</text>
+	</string>
+
+	<string id="travel_robbery_speak_start_text">
+		<text>Заробив, бляха, грошей, ага... Де ж цих виродків тепер шукати? Де мої речі? Піду до Юрка.</text>
+	</string>
+
+	<string id="travel_robbery_task">
+		<text>ВКРАДЕНЕ ДОБРО</text>
+	</string>
+
+	<string id="travel_robbery_task_grabitely_name">
+		<text>Знайти злодіїв</text>
+	</string>
+
+	<string id="travel_robbery_task_grabitely_text">
+		<text>От же скотиняки  -  щойно прийшли у Зону і вже таким промишляють! От як знайду гадів! Юрко казав пошукати на елеваторі або на фермі.</text>
+	</string>
+
+	<string id="travel_robbery_task_items_name">
+		<text>Забрати речі</text>
+	</string>
+
+	<string id="travel_robbery_task_items_text">
+		<text>Слава богу, мої речі неушкоджені! Не встигли покидьки продати.</text>
+	</string>
+
+	<string id="travel_robbery_task_go_back_name">
+		<text>Повернутися до Юрка</text>
+	</string>
+
+	<string id="travel_robbery_task_go_back_text">
+		<text>Зі злодіями закінчив. Треба повернути пістолет Юркові.</text>
+	</string>
+
+	<string id="go_to_garbage">
+		<text>СТРАХ НЕВІДОМОГО</text>
+	</string>
+
+	<string id="go_to_garbage_start_name">
+		<text>Вирушати на Смітник</text>
+	</string>
+
+	<string id="go_to_garbage_start_text">
+		<text>Нарешті я закінчив із цим нудним Кордоном, тепер побачу нові околиці! Одночасно і страшно, і дуже хочеться подивитися на територію Зони за межами Кордону. Мені пора.</text>
+	</string>
+
+	<string id="trader_notebook_task">
+		<text>ДРІБ'ЯЗКОВА РОБОТА</text>
+	</string>
+
+	<string id="trader_notebook_go_technic_name">
+		<text>Забрати ноутбук торговця</text>
+	</string>
+
+	<string id="trader_notebook_go_technic_text">
+		<text>Сидор, судячи з усього, своїми клешнями угробив ноут. Зараз він у техніка, і його треба забрати.</text>
+	</string>
+
+	<string id="trader_notebook_go_trader_name">
+		<text>Віднести ноутбук Сидоровичу</text>
+	</string>
+
+	<string id="trader_notebook_go_trader_text">
+		<text>Михайлович полагодив ноутбук. Тепер його можна віддати торговцю на заміну старому компу.</text>
+	</string>
+
+	<string id="stalker_car_benzin_task">
+		<text>ВИГІДНА ПРОПОЗИЦІЯ</text>
+	</string>
+
+	<string id="stalker_car_benzin_task_go_village_name">
+		<text>Сходити до техніка за бензином</text>
+	</string>
+
+	<string id="stalker_car_benzin_task_go_village_text">
+		<text>Чоловік знайшов мало не посеред дороги нульову тачку і просить зганяти за бензином, поки сам її чатує.</text>
+	</string>
+
+	<string id="stalker_car_benzin_task_go_car_name">
+		<text>Віднести каністру сталкеру</text>
+	</string>
+
+	<string id="stalker_car_benzin_task_go_car_text">
+		<text>Ще косар довелося віддати... Навіщо я підписався на цю херню? Сподіваюсь, хоч нагорода окупить витрачене.</text>
+	</string>
+
+	<string id="help_stalker_car">
+		<text>ТОВАРИШ У БІДІ</text>
+	</string>
+
+	<string id="help_stalker_name">
+		<text>Допомогти сталкерові</text>
+	</string>
+
+	<string id="help_stalker_text">
+		<text>На сталкера напали бандити, він просить допомоги. Гріх не помогти.</text>
+	</string>
+
+	<string id="visit_stancia">
+		<text>МРІЇ</text>
+	</string>
+
+	<string id="visit_stancia_start_name">
+		<text>Побувати на ЧАЕС</text>
+	</string>
+
+	<string id="visit_stancia_start_text">
+		<text>От, бляха, наслухався всяких байок, так і хочеться у Центр Зони! Артефакти, Виконавець Бажань!</text>
+	</string>
+
+	<string id="esc_trader_job">
+		<text>РОБОТА НА ТОРГОВЦЯ</text>
+	</string>
+
+	<string id="esc_task_for_trailer">
+		<text>ЗНИКЛИЙ СТАЛКЕР</text>
+	</string>
+
+	<string id="esc_task_for_trailer_search_stalker_name">
+		<text>Знайти сліди Кирюхи</text>
+	</string>
+
+	<string id="esc_task_for_trailer_search_stalker_text">
+		<text>Сталкер на прізвисько Шайба попросив по можливості знайти його зниклого друга. Мабуть, він може бути десь за містком.</text>
+	</string>
+
+	<string id="esc_task_for_trailer_follow_the_sounds_name">
+		<text>Піти на крики про допомогу</text>
+	</string>
+
+	<string id="esc_task_for_trailer_follow_the_sounds_text">
+		<text>З території елеватора доносяться крики про допомогу. Треба перевірити.</text>
+	</string>
+
+	<string id="esc_task_for_trailer_kill_flesh_name">
+		<text>Вбити незвичайну плоть</text>
+	</string>
+
+	<string id="esc_task_for_trailer_kill_flesh_text">
+		<text>На елеваторі мешкає якась плоть, що вміє говорити, і через яку, схоже, загинуло багато сталкерів.</text>
+	</string>
+
+	<string id="esc_task_for_trailer_help_stalker_name">
+		<text>Допомогти вцілілому</text>
+	</string>
+
+	<string id="esc_task_for_trailer_help_stalker_text">
+		<text>Потрібно розпитати вцілілого про те, що сталося на елеваторі та спробувати допомогти дістатися до безпечного місця.</text>
+	</string>
+
+	<string id="esc_task_for_trailer_start_village_name">
+		<text>Вирушити в село за допомогою</text>
+	</string>
+
+	<string id="esc_task_for_trailer_start_village_text">
+		<text>Потрібно розповісти Шайбі про те, що сталося, про смерть його товариша та вирішити, що робити далі.</text>
+	</string>
+
+	<string id="esc_task_for_trailer_attack_ready_name">
+		<text>Повідомити Шайбі про готовність</text>
+	</string>
+
+	<string id="esc_task_for_trailer_attack_ready_text">
+		<text>Коли буду готовий, треба повідомити Шайбі. Підемо знищувати тих незвичних плотей.</text>
+	</string>
+
+	<string id="esc_task_for_trailer_attack_start_name">
+		<text>Розстріляти зграю плотей</text>
+	</string>
+
+	<string id="esc_task_for_trailer_attack_start_text">
+		<text>Пора помститися цим тварюкам за згублених на елеваторі сталкерів. Ну, з богом...</text>
+	</string>
+
+	<string id="esc_task_for_trailer_attack_surge_name">
+		<text>Сховатися від викиду у тунелі</text>
+	</string>
+
+	<string id="esc_task_for_trailer_attack_surge_text">
+		<text>Як же не вчасно! Потрібно терміново бігти до тунелю...</text>
+	</string>
+
+	<string id="esc_task_for_trailer_attack_surge_defence_name">
+		<text>Утримати позиції у тунелі</text>
+	</string>
+
+	<string id="esc_task_for_trailer_attack_surge_defence_text">
+		<text>Здається, ці тварюки ув'язалися за нами, та ще й під викид... Їх не можна підпускати.</text>
+	</string>
+
+	<string id="esc_task_for_trailer_attack_go_village_name">
+		<text>Повернутися в село</text>
+	</string>
+
+	<string id="esc_task_for_trailer_attack_go_village_text">
+		<text>От вже нас сподобило, але впоралися! Пора повертатися. Треба відпочити.</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle">
+		<text>УНІКАЛЬНА «ГРОЗА»</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle_go_technic_name">
+		<text>Спитати Михайловича про ремонт</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle_go_technic_text">
+		<text>Оце так, про таку пушку можна лише мріяти! Щоправда, стан у неї нікчемний. Звернуся до Михайловича за допомогою.</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle_search_technic_materials_name">
+		<text>Дістати Михайловичу матеріали</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle_search_technic_materials_text">
+		<text>Михайлович не погодився на гроші за ремонт «Грози» і попросив дістати йому матеріали для роботи. Каже, потрібно лізти в підземку, що під ангаром на Смітнику. Притягну все, що знайду.</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle_final_technic_materials_name">
+		<text>Віддати Михайловичу матеріали</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle_final_technic_materials_text">
+		<text>Нарешті я зібрав йому це барахло. Пора повертатися за пушкою.</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle_wait_time_name">
+		<text>Дочекатися, поки технік закінчить ремонт</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle_wait_time_text">
+		<text>Михайлович дасть знати, коли закінчить з ремонтом гвинтівки. Поки можна зайнятися своїми справами.</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle_take_name">
+		<text>Забрати зброю</text>
+	</string>
+
+	<string id="esc_repair_nimble_rifle_take_text">
+		<text>Михайлович повідомив, що закінчив з ремонтом. Час забирати довгоочікувану пушку.</text>
+	</string>
+
+	<string id="esc_village_new_meet">
+		<text>СТАРІ ДРУЗІ</text>
+	</string>
+
+	<string id="esc_village_new_meet_start_name">
+		<text>Зустрітися з Юрком</text>
+	</string>
+
+	<string id="esc_village_new_meet_start_text">
+		<text>Давно вже не був на Кордоні, навіть встиг скучити за цими місцями. Мій приятель Юрко попросив зайти в село новачків: він має для мене якусь розмову.</text>
+	</string>
+
+	<string id="esc_strange_things">
+		<text>ДУЖЕ ДИВНІ СПРАВИ</text>
+	</string>
+
+	<string id="esc_strange_things_speak_fanat_name">
+		<text>Поговорити з Фанатом</text>
+	</string>
+
+	<string id="esc_strange_things_speak_fanat_text">
+		<text>Стурбований Юрко повідомив про якісь проблеми. Треба дізнатися у Фаната, що сталося.</text>
+	</string>
+
+	<string id="esc_strange_things_start_go_name">
+		<text>Вирушати до табору найманців</text>
+	</string>
+
+	<string id="esc_strange_things_start_go_text">
+		<text>Фанат розповів про групу найманців, які вбили трьох сталкерів із села новачків. На світанку висуваємось до їхнього табору, щоб поквитатися.</text>
+	</string>
+
+	<string id="esc_strange_things_attack_mercs_name">
+		<text>Атакувати найманців</text>
+	</string>
+
+	<string id="esc_strange_things_attack_mercs_text">
+		<text>Потрібно допомогти моїм товаришам атакувати табір найманців.</text>
+	</string>
+
+	<string id="esc_strange_things_attack_speak_fanat_name">
+		<text>Поговорити з Фанатом</text>
+	</string>
+
+	<string id="esc_strange_things_attack_speak_fanat_text">
+		<text>Найманці безслідно зникли з табору. Потрібно спитати Фаната, що він про це думає.</text>
+	</string>
+
+	<string id="esc_jurok_drunk_task">
+		<text>НІЧОГО НЕ ЗМІНЮЄТЬСЯ</text>
+	</string>
+
+	<string id="esc_jurok_drunk_task_start_name">
+		<text>Випити з Юрком біля багаття</text>
+	</string>
+
+	<string id="esc_jurok_drunk_task_start_text">
+		<text>Тільки-но відійшов після минулого, а мене вже знову кличуть випити. Не відмовлятиму старому другу  -  все одно зайнятися особливо нема чим.</text>
+	</string>
+
+	<string id="esc_scientists_task">
+		<text>СТЕЖЕННЯ</text>
+	</string>
+
+	<string id="esc_scientists_task_start_name">
+		<text>Пробратися до блокпосту</text>
+	</string>
+
+	<string id="esc_scientists_task_start_text">
+		<text>Сидорович попросив простежити за вченими. Їхня група ось-ось має прибути на КПП.</text>
+	</string>
+
+	<string id="esc_scientists_task_wait_alarm_name">
+		<text>Зачекати, доки тривога вщухне</text>
+	</string>
+
+	<string id="esc_scientists_task_wait_alarm_text">
+		<text>Мене помітили... В бій краще не лізти. Варто трохи перечекати, доки все вщухне. Може, поспати у селі?</text>
+	</string>
+
+	<string id="esc_scientists_task_jobs_cancel_name">
+		<text>Розповісти Сидоровичу, що роботи вчених скасовані</text>
+	</string>
+
+	<string id="esc_scientists_task_jobs_cancel_text">
+		<text>Військові скасували польові роботи з вченими через те, що розпочався бій. Думаю, вони тепер довго сюди не поткнуться.</text>
+	</string>
+
+	<string id="esc_scientists_task_follow_the_scientists_name">
+		<text>Простежити за вченими</text>
+	</string>
+
+	<string id="esc_scientists_task_follow_the_scientists_text">
+		<text>Потрібно акуратно пройти за вченими та зрозуміти, що вони забули на Кордоні.</text>
+	</string>
+
+	<string id="esc_scientists_task_make_decision_name">
+		<text>Прийняти рішення</text>
+	</string>
+
+	<string id="esc_scientists_task_make_decision_text">
+		<text>От бляха! Тепер треба якось викручуватись. Якщо просто так сказати Сидоровичу про провал, моя репутація зійде нанівець. Може, спробувати розправитися з вояками й дізнатись, чого хотіли вчені? А адреналін як б'є!</text>
+	</string>
+
+	<string id="esc_scientists_task_talk_scientist_name">
+		<text>Поговорити з вченими</text>
+	</string>
+
+	<string id="esc_scientists_task_talk_scientist_text">
+		<text>Ото я дров наламав... Військові мертві. Тепер варто поговорити з вченими, якщо вже стільки наброїв.</text>
+	</string>
+
+	<string id="esc_scientists_task_check_corpses_name">
+		<text>Обшукати тіла вчених</text>
+	</string>
+
+	<string id="esc_scientists_task_check_corpses_text">
+		<text>Коли вже так вийшло, потрібно оглянути тіла вчених. Може, знайду щось цікаве.</text>
+	</string>
+
+	<string id="esc_scientists_task_fail_speak_trader_name">
+		<text>Повернутися до Сидоровича</text>
+	</string>
+
+	<string id="esc_scientists_task_fail_speak_trader_text">
+		<text>Мені вдалося дістати пристрій вчених. Розповім Сидоровичу, що польові роботи не будуть проведені.</text>
+	</string>
+
+	<string id="esc_scientiscts_task_fly_village_compl_name">
+		<text>Повернутися до торговця</text>
+	</string>
+
+	<string id="esc_scientiscts_task_fly_village_compl_text">
+		<text>Простежив за вченими. Пора розказати Сидоровичу подробиці й забрати нагороду.</text>
+	</string>
+
+	<string id="esc_scientiscts_task_fly_village_scene_cancel_name">
+		<text>Передати Сидоровичу інформацію від Шайби</text>
+	</string>
+
+	<string id="esc_scientiscts_task_fly_village_scene_cancel_text">
+		<text>Сталкер на прізвисько Шайба оголосив сталкерам, що вчені з військовими встановили якийсь прилад у летючому селищі за АТП. Розповім про це торговцю.</text>
+	</string>
+
+	<string id="esc_technic_scientists_device_task">
+		<text>ДОРУЧЕННЯ ТЕХНІКА</text>
+	</string>
+
+	<string id="esc_technic_scientists_device_task_start_name">
+		<text>Принести Михайловичу пристрій вчених</text>
+	</string>
+
+	<string id="esc_technic_scientists_device_task_start_text">
+		<text>Михайлович попросив принести пристрій вчених. Мабуть, для техніка там знайдеться щось цікаве.</text>
+	</string>
+
+	<string id="esc_technic_scientists_device_task_teleports_go_name">
+		<text>Дістати пристрій вчених, пройшовши через телепорти</text>
+	</string>
+
+	<string id="esc_technic_scientists_device_task_teleports_go_text">
+		<text>Ніколи не заходив у телепорти... Сподіваюсь, мене не розірве на шматки. Втім, головастий цілком спокійно гуляв по них. Головне, знайти правильний маршрут, щоб дістатися пристрою.</text>
+	</string>
+
+	<string id="esc_technic_scientists_device_task_final_talk_name">
+		<text>Віддати пристрій вчених Михайловичу</text>
+	</string>
+
+	<string id="esc_technic_scientists_device_task_final_talk_text">
+		<text>Дістав цю залізяку. Тепер віднесу техніку, він обіцяв нагороду.</text>
+	</string>
+
+	<string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_name">
+		<text>Дістати пристрій вчених в аномальному селі</text>
+	</string>
+
+	<string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_text">
+		<text>Ніколи не заходив у телепорти. Сподіваюсь, мене не розірве на шматки... Втім, вчений якось пройшов в обидві сторони. Головне, знайти правильний маршрут, щоб дістатися пристрою.</text>
+	</string>
+
+	<string id="esc_sweep_task">
+		<text>ЗАЧИЩЕННЯ</text>
+	</string>
+
+	<string id="esc_sweep_task_kill_dogs_name">
+		<text>Розібратися з мутантами недалеко від тунелю</text>
+	</string>
+
+	<string id="esc_sweep_task_kill_dogs_text">
+		<text>Сидорович попросив позбутися нечисті неподалік від тунелю з «Електрами».</text>
+	</string>
+
+	<string id="esc_sweep_task_final_talk_name">
+		<text>Повернутися по винагороду</text>
+	</string>
+
+	<string id="esc_sweep_task_final_talk_text">
+		<text>Тварюк вбито. Пора забирати нагороду у Сидоровича.</text>
+	</string>
+
+	<string id="find_the_missing_stalker">
+		<text>МАЙСТРИ З КОРДОНУ</text>
+	</string>
+
+	<string id="esc_find_the_missing_stalker_start_name">
+		<text>Знайти сталкера на прізвисько Німий</text>
+	</string>
+
+	<string id="esc_find_the_missing_stalker_start_text">
+		<text>Сталкери з Кордону втратили свого товариша. За їхніми словам, він вирушав на розвідку до Армійських складів. Якщо колись там опинюсь, треба буде вивудити інформацію про нього.</text>
+	</string>
+
+	<string id="esc_find_the_missing_stalker_help_name">
+		<text>Витягти Німого</text>
+	</string>
+
+	<string id="esc_find_the_missing_stalker_help_text">
+		<text>Німий, сталкер з групи Лютого, запроторив за ґрати бандитів. Треба якось його звідти витягти...</text>
+	</string>
+
+	<string id="esc_find_the_missing_stalker_take_reward_name">
+		<text>Зустрітися зі сталкерами в барі</text>
+	</string>
+
+	<string id="esc_find_the_missing_stalker_take_reward_text">
+		<text>Мені вдалося звільнити сталкера на прізвисько Німий з полону бандитів. Він запропонував мені зустрітися в барі й відсвяткувати його втечу.</text>
+	</string>
+
+	<string id="esc_find_the_missing_stalker_take_second_reward_name">
+		<text>Повернутися до Лютого</text>
+	</string>
+
+	<string id="esc_find_the_missing_stalker_take_second_reward_text">
+		<text>Мені вдалося звільнити друга Лютого, який дивом опинився у Темній долині. Німий сказав, що мужики з його групи будуть раді мене бачити, пропонував відсвяткувати його втечу. Варто навідатися до них.</text>
+	</string>
+
+	<string id="esc_visit_trader_task">
+		<text>ЧУЖИЙ СЕРЕД ЧУЖИХ</text>
+	</string>
+
+	<string id="esc_visit_trader_task_talk_with_leader_name">
+		<text>Поговорити з командиром блокпосту</text>
+	</string>
+
+	<string id="esc_visit_trader_task_talk_with_leader_text">
+		<text>Для подальшого просування розслідування, перш за все варто поговорити з командиром блокпосту. Зараз мені зможе допомогти будь-яка інформація.</text>
+	</string>
+
+	<string id="esc_visit_trader_task_talk_with_prison_stalkers_name">
+		<text>Допитати арештованих сталкерів</text>
+	</string>
+
+	<string id="esc_visit_trader_task_talk_with_prison_stalkers_text">
+		<text>Перед походом до Сидоровича варто опитати арештантів на КПП. Можливо, вони щось знають про сталкера, якого ми шукаємо.</text>
+	</string>
+
+	<string id="esc_visit_trader_task_start_name">
+		<text>Перевдягнутися у сталкерський одяг</text>
+	</string>
+
+	<string id="esc_visit_trader_task_start_text">
+		<text>Іти у військовій формі у село новачків  -  чистої води провокація сталкерів. Командир КПП розповів про тонну конфіскату з нелегалів. Потрібно знайти підходящий одяг або взагалі йти в чому мати народила.</text>
+	</string>
+
+	<string id="esc_visit_trader_task_go_name">
+		<text>Поговорити з Сидоровичем</text>
+	</string>
+
+	<string id="esc_visit_trader_task_go_text">
+		<text>Пора переговорити з Сидоровичем щодо сталкера на прізвисько Сокира. Під таким ім'ям його знають місцеві сталкери, якщо ув'язнений мені не збрехав.</text>
+	</string>
+
+	<string id="esc_first_actor_bridge_task">
+		<text>ПО СЛІДАХ СТАЛКЕРА</text>
+	</string>
+
+	<string id="esc_first_actor_bridge_task_start_name">
+		<text>Вирушити до зруйнованого мосту</text>
+	</string>
+
+	<string id="esc_first_actor_bridge_task_start_text">
+		<text>Сидорович нічого не розповів мені про сталкера, зате видав його точне місцеперебування. Відчуваю, або дід мене обвів навколо пальця, або тут є якась пастка.</text>
+	</string>
+
+	<string id="esc_first_actor_bridge_task_fail_name">
+		<text>Шукати зачіпки на Кордоні</text>
+	</string>
+
+	<string id="esc_first_actor_bridge_task_fail_text">
+		<text>Не вдалося дістатися Сидоровича зі своїми лахами, а усі місцеві немов води у рота понабирали. Далі доведеться шукати інформацію про сталкера самому. Варто пройтися вглиб Кордону: може, там хтось щось підкаже.</text>
+	</string>
+
+	<string id="esc_scientist_in_trouble_task">
+		<text>ВЧЕНИЙ У БІДІ</text>
+	</string>
+
+	<string id="esc_scientist_in_trouble_task_start_name">
+		<text>Дістатися Смітника</text>
+	</string>
+
+	<string id="esc_scientist_in_trouble_task_start_text">
+		<text>Полковник попросив виручити одного вченого, який примудрився з дорогим обладнанням потрапити до рук бандитів. І чому він вирушив без супроводу?</text>
+	</string>
+
+	<string id="esc_scientist_in_trouble_task_help_name">
+		<text>Допомогти співробітнику</text>
+	</string>
+
+	<string id="esc_scientist_in_trouble_task_help_text">
+		<text>Я на Смітнику. Пора виручати вченого, що потрапив у веремію.</text>
+	</string>
+
+	<string id="esc_scientist_in_trouble_task_kill_bandits_name">
+		<text>Вбити бандитів і врятувати Коваля</text>
+	</string>
+
+	<string id="esc_scientist_in_trouble_task_kill_bandits_text">
+		<text>Вченим, якого необхідно було виручити, виявився Коваль. Бандити прийняли його з новим детектором. Бізнес полковника вже починає переходити усі межі. Втім, все одно доведеться допомогти.</text>
+	</string>
+
+	<string id="esc_scientist_in_trouble_task_talk_name">
+		<text>Поговорити з Ковалем</text>
+	</string>
+
+	<string id="esc_scientist_in_trouble_task_talk_text">
+		<text>Бандити більше не перешкоджатимуть. Пора поставити цьому «вченому» кілька питань.</text>
+	</string>
+
+	<string id="esc_composer_task">
+		<text>СТАРА ГВАРДІЯ</text>
+	</string>
+
+	<string id="esc_composer_task_talk_with_gar_trader_name">
+		<text>Поговорити з Костуром</text>
+	</string>
+
+	<string id="esc_composer_task_talk_with_gar_trader_text">
+		<text>Костур повідомив, що в нього є якась термінова розмова. Потрібно навідатися за можливості.</text>
+	</string>
+
+	<string id="esc_composer_task_start_name">
+		<text>Зустрітися з групою сталкерів</text>
+	</string>
+
+	<string id="esc_composer_task_start_text">
+		<text>Сидорович відправив на Смітник допомогти групі сталкерів. Потрібно забезпечити їхню безпеку, поки ті шукають артефакти.</text>
+	</string>
+
+	<string id="esc_composer_task_actor_check_corpses_name">
+		<text>Оглянути місце загибелі сталкерів</text>
+	</string>
+
+	<string id="esc_composer_task_actor_check_corpses_text">
+		<text>Вся група мертва. Потрібно оглянути місце загибелі та обшукати тіла на предмет якоїсь інформації.</text>
+	</string>
+
+	<string id="esc_composer_task_meet_merc_leader_name">
+		<text>Зустрітися із Візирем</text>
+	</string>
+
+	<string id="esc_composer_task_meet_merc_leader_text">
+		<text>Знайшов КПК найманців, у якому є наводка на якогось Візиря. За їхнім регламентом, знайдений КПК я маю віднести їхньому ватажку. Судячи з координат, мені в Темну долину.</text>
+	</string>
+
+	<string id="esc_composer_task_check_spare_seat_name">
+		<text>Перевірити запасне місце зустрічі</text>
+	</string>
+
+	<string id="esc_composer_task_check_spare_seat_text">
+		<text>Візирь відправив мене з одним зі своїх бійців перевірити якесь запасне місце зустрічі. Мало що розумію, але відмовлятися не можна було: мутні вони якісь, прибили б ще на місці...</text>
+	</string>
+
+	<string id="esc_composer_task_check_bandit_savior_treasure_name">
+		<text>Прочитати інформацію з КПК сталкера у сховку Купи</text>
+	</string>
+
+	<string id="esc_composer_task_check_bandit_savior_treasure_text">
+		<text>На місці смерті групи сталкерів Купа знайшов КПК, а щоб переконатися у відсутності хвоста, тимчасово залишив його у сховку. Зараз все стихло, можна заглянути туди й спробувати знайти потенційно корисну інформацію у цій справі.</text>
+	</string>
+
+	<string id="esc_composer_task_check_bandit_savior_treasure_compl_name">
+		<text>Поговорити з Купою</text>
+	</string>
+
+	<string id="esc_composer_task_check_bandit_savior_treasure_compl_text">
+		<text>За інформацією з КПК сталкера складається досить цікава картина. Потрібно обговорити подальший план дій з Купою.</text>
+	</string>
+
+	<string id="esc_composer_task_find_survivors_name">
+		<text>Знайти вцілілих з групи сталкерів та дізнатися, що сталося</text>
+	</string>
+
+	<string id="esc_composer_task_find_survivors_text">
+		<text>Бандит на прізвисько Купа допоміг вибратися з-під дула сталкера з групи Візиря. Тепер потрібно дістати будь-яку інформацію стосовно вантажу, який несли сталкери. На тілі одного з них Купа знайшов КПК, в якому є інформація про місцезнаходження одного з їхніх товаришів. Потрібно туди навідатись та дізнатися подробиць.</text>
+	</string>
+
+	<string id="esc_composer_task_wait_time_name">
+		<text>Чекати на вказівки від Смишлова</text>
+	</string>
+
+	<string id="esc_composer_task_wait_time_text">
+		<text>Якийсь професор Смишлов дистанційно лагодить невідомий нам з Курою пристрій, який, вочевидь, далеко не нешкідливий. Потрібно дочекатися на вказівки від Смишлова, утримуючи позиції навколо цієї залізяки.</text>
+	</string>
+
+	<string id="esc_composer_task_talk_after_attack_name">
+		<text>Поговорити з Купою</text>
+	</string>
+
+	<string id="esc_composer_task_talk_after_attack_text">
+		<text>Атаку відбито, подальші інструкції від Смишлова отримані. Потрібно обговорити подальший план дій з Купою та вирішити, що робити з незнайомцем Птахою.</text>
+	</string>
+
+	<string id="esc_composer_task_get_to_the_fork_name">
+		<text>Дістатися розвилки</text>
+	</string>
+
+	<string id="esc_composer_task_get_to_the_fork_text">
+		<text>Поки рушаймо в бік Смітника, треба вирішити, кому зрештою віддаватимемо пристрій: Смишлову чи людям Турова, з якими нам, по суті, ще не довелося познайомитись.</text>
+	</string>
+
+	<string id="esc_composer_task_wait_to_garbage_name">
+		<text>Вирішити, що робити далі</text>
+	</string>
+
+	<string id="esc_composer_task_wait_to_garbage_text">
+		<text>Ми біля розвилки. Тепер потрібно прийняти остаточне рішення, від якого залежатиме, хто отримає пристрій: Туров чи Смишлов.</text>
+	</string>
+
+	<string id="esc_composer_task_controler_kill_name">
+		<text>Вбити контролера і провести заміри</text>
+	</string>
+
+	<string id="esc_composer_task_controler_kill_text">
+		<text>Туров зажадав провести виміри випромінювання в безпосередній близькості від місця знаходження контролера, якого потрібно для початку вбити.</text>
+	</string>
+
+	<string id="esc_composer_task_controler_kill_complete_name">
+		<text>Повернутися до Турова</text>.
+	</string>
+
+	<string id="esc_composer_task_controler_kill_complete_text">
+		<text>З божою допомогою вдалося вбити контролера та провести заміри. Тепер час до Турова.</text>
+	</string>
+
+	<string id="esc_composer_task_visit_scientist_genius_name">
+		<text>Зустрітися зі Смишловим</text>.
+	</string>
+
+	<string id="esc_composer_task_visit_scientist_genius_text">
+		<text>-</text>
+	</string>
+
+	<string id="esc_composer_task_visit_trader_name">
+		<text>Взяти у Сидоровича комплект псі-блокад</text>
+	</string>	
+
+	<string id="esc_composer_task_visit_trader_text">
+		<text>Смишлову потрібні препарати для псі-захисту. Він домовився із Сидоровичем про угоду, мені залишилося їх забрати.</text>
+	</string>
+
+	<string id="esc_composer_task_drugs_complete_name">
+		<text>Віднести препарати Смишлову</text>
+	</string>
+
+	<string id="esc_composer_task_drugs_complete_text">
+		<text>Торговець люб'язно віддав комплект псі-блокад. Час рухати до Смишлова.</text>
+	</string>
+
+	<string id="esc_composer_task_scientist_wait_actor_name">
+		<text>Повідомити Смишлову про готовність</text>
+	</string>
+
+	<string id="esc_composer_task_scientist_wait_actor_text">
+		<text>Смишлов чекає, щоб почати рухатися до Турова. Потрібно якнайшвидше закінчувати справи й вирушати.</text>
+	</string>
+
+	<string id="esc_composer_task_visit_scientist_boss_final_name">
+		<text>Відправлятися до Турова</text>
+	</string>
+
+	<string id="esc_composer_task_visit_scientist_boss_final_text">
+		<text>-</text>
+	</string>
+
+	<string id="esc_stalker_liar_task">
+		<text>НЕЗВИЧАЙНИЙ АРТЕФАКТ</text>
+	</string>
+
+	<string id="esc_stalker_liar_task_wait_name">
+		<text>Вирушити з Брехуном за артефактом</text>
+	</string>
+
+	<string id="esc_stalker_liar_task_wait_text">
+		<text>Сталкер з села, на прізвисько Брехун, розповів, що бачив незвичайний артефакт за залізничним насипом. Варто вирушити з ним туди й перевірити, чи це так насправді.</text>
+	</string>
+
+	<string id="esc_stalker_liar_task_take_artefact_name">
+		<text>Дістати артефакт</text>
+	</string>
+
+	<string id="esc_stalker_liar_task_take_artefact_text">
+		<text>Потрібно слідувати за Брехуном та дістати артефакт, про який він говорив.</text>
+	</string>
+
+	<string id="esc_stalker_liar_task_artefact_talk_name">
+		<text>Показати Брехуну артефакт</text>
+	</string>
+
+	<string id="esc_stalker_liar_task_artefact_talk_text">
+		<text>Брехун не обдурив: ми дійсно знайшли якийсь рідкісний артефакт за фермою. Пора обговорити з ним це.</text>
+	</string>
+
+	<string id="esc_stalker_liar_task_artefact_wait_trade_name">
+		<text>Дочекатися, поки Брехун продасть артефакт</text>
+	</string>
+
+	<string id="esc_stalker_liar_task_artefact_wait_trade_text">
+		<text>Справу виконано. Брехун сказав, розбереться зі справами, продасть артефакт і дасть знати, коли приходити за своєю часткою.</text>
+	</string>
+
+	<string id="esc_stalker_liar_task_take_reward_name">
+		<text>Забрати свою частку</text>
+	</string>
+
+	<string id="esc_stalker_liar_task_take_reward_text">
+		<text>Брехун продав артефакт. Вже час взяти у нього свою частку.</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_task_name">
+		<text>Допомога Михайловичу</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_1_task_start_name">
+		<text>Знайти інструменти для грубої роботи</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_1_task_start_text">
+		<text>Михайлович попросив знайти інструменти для грубої роботи, щоб мати можливість робити деякі прості апгрейди спорядження.</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_1_task_final_name">
+		<text>Віднести інструменти для грубої роботи замовнику</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_1_task_final_text">
+		<text>Вдалося знайти інструменти для грубої роботи. Тепер Михайлович зможе робити які-не-які апгрейди для моєї споряги.</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_2_task_start_name">
+		<text>Знайти інструменти для тонкої роботи</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_2_task_start_text">
+		<text>Михайловичу потрібні інструменти для тонкої роботи, щоб отримати можливість робити деякі відносно складні апгрейди зброї та броні.</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_2_task_final_name">
+		<text>Віднести інструменти для тонкої роботи замовнику</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_2_task_final_text">
+		<text>Інструменти для тонкої роботи знайдені. Нарешті Михайлович зможе робити складні апгрейди для спорядження.</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_3_task_start_name">
+		<text>Знайти інструменти для калібрування</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_3_task_start_text">
+		<text>Михайловичу потрібні інструменти для калібрування. Якщо їх знайти, він зможе робити практично будь-які модифікації для спорядження.</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_3_task_final_name">
+		<text>Віднести інструменти для калібрування замовнику</text>
+	</string>
+
+	<string id="esc_stalker_technic_toolkit_3_task_final_text">
+		<text>Інструменти для калібрування у мене. Михайлович тепер з легкістю робитиме складні апгрейди.</text>
+	</string>
+
+	<string id="esc_actor_stalker_sos_task">
+		<text>ДИВНИЙ СИГНАЛ</text>
+	</string>
+
+	<string id="esc_actor_stalker_sos_task_title">
+		<text>Відгукнутися на сигнал SOS</text>
+	</string>
+
+	<string id="esc_actor_stalker_sos_task_descr">
+		<text>З території елеватора безперервно передається сигнал SOS. Можливо, варто перевірити, що там.</text>
+	</string>
+
 </string_table>

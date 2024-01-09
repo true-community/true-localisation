@@ -1,543 +1,724 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_nsp_brawl_task_actor_scene_speak_jurok_answer_1">
-    <text>РќР° Р·РІ'СЏР·РєСѓ, РЎРѕРєРёСЂРѕ. Р§РѕРіРѕ С…РѕС‚С–РІ?</text>
-  </string>
-  <string id="st_nsp_brawl_task_actor_scene_speak_jurok_answer_2">
-    <text>Р•... С‚Р°, РїР°Рј'СЏС‚Р°СЋ. РЇСЃРЅРѕ, РЎРѕРєРёСЂРѕ, Р±СѓРґСѓ С‡РµРєР°С‚Рё.</text>
-  </string>
-  <string id="st_nsp_brawl_task_actor_scene_speak_jurok_1">
-    <text>РџСЂРёР№РѕРј, Р®СЂРєСѓ. РўРё С‚СѓС‚?</text>
-  </string>
-  <string id="st_nsp_brawl_task_actor_scene_speak_jurok_2_1">
-    <text>РњРµРЅС– РїРѕС‚СЂС–Р±РЅР° С‚РІРѕСЏ РґРѕРїРѕРјРѕРіР°. РўСЂРµР±Р° С‚РµСЂРјС–РЅРѕРІРѕ РІРёР±СЂР°С‚РёСЃСЊ Р·Р° РїРµСЂРёРјРµС‚СЂ.</text>
-  </string>
-  <string id="st_nsp_brawl_task_actor_scene_speak_jurok_2_2">
-    <text>РЈ СЃРµР»РёС‰Рµ Р·Р°Р№С‚Рё РЅРµ РјРѕР¶Сѓ  вЂ”  Р·Р° РјРЅРѕСЋ РјРѕР¶СѓС‚СЊ СЃС‚РµР¶РёС‚Рё.</text>
-  </string>
-  <string id="st_nsp_brawl_task_actor_scene_speak_jurok_2_3">
-    <text>Р—СѓСЃС‚СЂС–РЅРµРјРѕСЃСЊ Р· С‚РѕР±РѕСЋ РЅР° С‚РѕРјСѓ РјС–СЃС†С–, РґРµ С…РѕРІР°Р»РёСЃСЊ РґРІР° Р±Р°РєР»Р°РЅРё Р· РјРѕС—Рј С…Р°Р±Р°СЂРµРј. РџР°Рј'СЏС‚Р°С”С€?</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_boar_corp_end">
-    <text>Р’СЃРµ, СЏ РјР°Р№Р¶Рµ Р·Р°РєС–РЅС‡РёРІ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_bye_1">
-    <text>Р”Рѕ Р·СѓСЃС‚СЂС–С‡С–.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_bye_2">
-    <text>Р‘СѓРІР°Р№, С‡РѕР»РѕРІС–С‡Рµ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_bye_3">
-    <text>Р©Рµ РїРѕР±Р°С‡РёРјРѕСЃСЊ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_check_bush">
-    <text>РћРІРІР°, Р° С†Рµ Сѓ РЅР°СЃ С…С‚Рѕ?</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_dessert_1">
-    <text>РџРѕРѕР±С–РґР°Р»Рё, РѕС‚Р¶Рµ, Р·РІС–СЂСЏС‚Р°?</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_dessert_2">
-    <text>РќСѓ, Р·Р°СЂР°Р· РјРё РІР°Рј РїРѕРґР°РјРѕ РґРµСЃРµСЂС‚РёРє.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_dog_dist">
-    <text>РђРјСѓСЂРµ! РќРµ С…РѕРґРё РґР°Р»РµРєРѕ!</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_dog_eat_1">
-    <text>РђРјСѓСЂРµ, С„Сѓ!</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_dog_eat_2">
-    <text>РЈ С‚Р°Р±РѕСЂС– РЅРѕСЂРјР°Р»СЊРЅРѕС— С—Р¶С–\nС‚РѕР±С– РІС–РґСЃРёРїР»СЋ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_dog_eat_3">
-    <text>РљС–РЅС‡Р°Р№ С†Рµ РїР°РґР»Рѕ Р¶РµСЂС‚Рё!</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_hear">
-    <text>РўРёС…Рѕ! РЇ С‰РѕСЃСЊ С‡СѓРІ.</text>
-  </string>
-  <string id="st_nsp_scientific_task_scientist_boss_complete_1">
-    <text>Р—РґСЂР°СЃС‚СѓР№С‚Рµ. РЇ Р·Р°СЃС–Рє, С‰Рѕ Сѓ РІР°С€С–Р№ РјС–СЃС†РµРІРѕСЃС‚С– Р±СѓРІ СЃРїР»РµСЃРє РµРЅРµСЂРіС–С—.</text>
-  </string>
-  <string id="st_nsp_scientific_task_scientist_boss_complete_2">
-    <text>Р¦Рµ РѕР·РЅР°С‡Р°С”, РІР°Рј РІРґР°Р»РѕСЃСЊ С‚СЂР°РЅСЃРјСѓС‚СѓРІР°С‚Рё Р°СЂС‚РµС„Р°РєС‚? Р—Р°Р»РёС€Р°Р№С‚РµСЃСЊ РЅР° РјС–СЃС†С–.</text>
-  </string>
-  <string id="st_nsp_scientific_task_scientist_boss_complete_3">
-    <text>РќРµРїРѕРґР°Р»С–Рє РЅР°С€Р° РµРєСЃРїРµРґРёС†С–СЏ, СЏРєС–Р№ РІРё РїРµСЂРµРґР°СЃС‚Рµ Р°СЂС‚РµС„Р°РєС‚.</text>
-  </string>
-  <string id="st_nsp_scientific_task_scientist_boss_complete_4">
-    <text>РҐРѕСЂРѕС€Р° СЂРѕР±РѕС‚Р°, СЃС‚Р°Р»РєРµСЂРµ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_hello_1">
-    <text>РЇРє СЃРїСЂР°РІРё, РјРёСЃР»РёРІС‡РёРєСѓ?</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_hello_2">
-    <text>РЎР»СѓС…Р°СЋ, СЃС‚Р°Р»РєРµСЂРµ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_hello_3">
-    <text>РљР°Р¶Рё, С‰Рѕ С‚Р°Рј РІ С‚РµР±Рµ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_hit_cc">
-    <text>[СЃС‚РѕРіС–РЅ РІС–Рґ Р±РѕР»СЋ]</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_see_boars_1">
-    <text>РўСЃ-СЃ! РљР°Р±Р°РЅРё СЃРїР»СЏС‚СЊ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_see_boars_2">
-    <text>РЎР»СѓС…Р°Р№, РЅСѓРјРѕ С—С… РїРѕ-С‚РёС…РѕРјСѓ РЅР°РєСЂРёС”РјРѕ,\nРґРѕРєРё РЅРµ РІСЃС‚РёРіР»Рё РѕРіРѕРІС‚Р°С‚РёСЃСЊ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_start_dog_1">
-    <text>РђРјСѓСЂРµ, РїС–РґС–Р№РјР°Р№ СЃСЂР°РєСѓ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_start_dog_2">
-    <text>РќР°СЃС‚Р°РІ С‡Р°СЃ РїСЂРѕРіСѓР»СЏС‚РёСЃСЊ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_swamp_1">
-    <text>РўР°Рє-С‚Р°Рє, РІРѕРЅРё РЅРµС‰РѕРґР°РІРЅРѕ С‚СѓС‚ Р±СѓР»Рё.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_swamp_2">
-    <text>Р‘Р°РІРёР»РёСЃСЊ Сѓ С†СЊРѕРјСѓ Р±РѕР»С–С‚С†С–.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_swamp_3">
-    <text>Р“Р°СЂР°Р·Рґ, СЂСѓС…Р°С”РјРѕСЃСЊ РґР°Р»С–.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_boss_swamp_4">
-    <text>РўС–Р»СЊРєРё С‚РёС…С–С€Рµ! Р’РѕРЅРё РґРµСЃСЊ РїРѕСЂСѓС‡!</text>
-  </string>
-  <string id="st_nsp_masters_leader_hello">
-    <text>РџС–РґС…РѕРґСЊ, СЃС‚Р°Р»РєРµСЂРµ.\nРџРѕСЃРёРґРёРјРѕ, РїРѕРіРѕРІРѕСЂРёРјРѕ.</text>
-  </string>
-  <string id="st_nsp_masters_stalker_car_flashback_start_1">
-    <text>РўР°Рє, РїСЂР°С†СЋС”РјРѕ С‚РёС…Рѕ.</text>
-  </string>
-  <string id="st_nsp_masters_stalker_car_flashback_start_2">
-    <text>РЎРїРѕС‡Р°С‚РєСѓ РІРёСЂСѓР±Р°С”РјРѕ РІР°СЂС‚РѕРІРѕРіРѕ,</text>
-  </string>
-  <string id="st_nsp_masters_stalker_car_flashback_start_3">
-    <text>РїРѕС‚С–Рј СЃРїРѕРєС–Р№РЅРѕ СЂС–Р¶РµРјРѕ СЂРµС€С‚Сѓ</text>
-  </string>
-  <string id="st_nsp_masters_stalker_car_flashback_start_4">
-    <text>С– Р·Р°Р±РёСЂР°С”Рј С…Р°Р±Р°СЂ.</text>
-  </string>
-  <string id="st_nsp_masters_stalker_car_flashback_start_5">
-    <text>Р’СЃРµ Р·СЂРѕР·СѓРјС–РІ?</text>
-  </string>
-  <string id="st_nsp_masters_stalker_car_flashback_start_6">
-    <text>РќСѓ, С‚РѕРґС– РїРѕРїРµСЂР»Рё.</text>
-  </string>
-  <string id="st_nsp_masters_stalker_wanderer_stop_actor">
-    <text>РњСѓР¶РёС‡Рµ, С‚Рё С€Рѕ Р·Р°РґСѓРјР°РІ? РђРЅСѓ Р·Р»Р°Р·СЊ Р·РІС–РґС‚Рё РЅР°С…С”СЂ!</text>
-  </string>
-  <string id="st_nsp_masters_whisper_1">
-    <text>Р”Р°СЂРјР° С‚Рё СЃСЋРґРё Р·Р°Р»С–Р·.</text>
-  </string>
-  <string id="st_nsp_masters_whisper_2">
-    <text>РўРё Р·Р°РіРёРЅРµС€, СЃС‚Р°Р»РєРµСЂРµ.</text>
-  </string>
-  <string id="st_nsp_masters_whisper_3">
-    <text>РҐС–Р±Р° РјРё С†СЊРѕРіРѕ Р·Р°СЃР»СѓРіРѕРІСѓС”РјРѕ?</text>
-  </string>
-  <string id="st_nsp_masters_whisper_4">
-    <text>Р¦Рµ РєС–РЅРµС†СЊ.</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_bye_1">
-    <text>РҐР°Р№ С‰Р°СЃС‚РёС‚СЊ. Р—Р°С…РѕРґСЊ С‰Рµ!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_bye_2">
-    <text>РќСѓ, Р±СѓРІР°Р№!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_bye_3">
-    <text>РќСѓ, РїРѕР±Р°С‡РёРјРѕСЃСЊ!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_hello_1">
-    <text>РќСѓ, С‰Рѕ С‚РѕР±С– Р·С–РіСЂР°С‚Рё?</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_hello_2">
-    <text>Р’С–С‚Р°СЋ.\nР—С–РіСЂР°С‚Рё С‚РѕР±С– С‰РѕСЃСЊ?</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_hello_3">
-    <text>Р Р°РґРёР№ С‚РµР±Рµ Р±Р°С‡РёС‚Рё, РґСЂСѓР·СЏРєРѕ!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_order_1">
-    <text>Р—Р°СЂР°Р· Р·Р±Р°С†Р°СЋ!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_order_2">
-    <text>РўР°Рє, РїРѕС—С…Р°Р»Рё!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_order_3">
-    <text>РќРµ РІС–РґРІРѕР»С–РєР°Р№СЃСЏ.\nР—Р°СЂР°Р· СЃРїСЂРѕР±СѓСЋ Р·С–РіСЂР°С‚Рё С‰РѕСЃСЊ РєР»Р°СЃРЅРµ.</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_sad_1">
-    <text>Р•С…, Р·С–РіСЂР°РІ Р±Рё СЏ РІР°Рј,\nС‚Р° РѕСЃСЊ: РґС–СЂРєР°.</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_sad_2">
-    <text>РћС‚Р°РєРѕС—.</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_sad_3">
-    <text>Р•С….</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_sad_4_cc">
-    <text>[СЃС‚РѕРіС–РЅ]</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_sad_start_1">
-    <text>РћС‚ РіР°РґРё.</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_sad_start_2">
-    <text>Р’С–РґРјРѕСЂРѕР·РєРё РєР»СЏС‚С–.\nРўР°РєСѓ РіС–С‚Р°СЂСѓ СЂРѕР·Р±РёР»Рё!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_thanks_1">
-    <text>РќСѓ, СѓРґСЂСѓР¶РёРІ, СЃС‚Р°Р»РєРµСЂРµ.\nР”СЏРєСѓСЋ С‚РѕР±С–!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_thanks_2">
-    <text>РўРµРїРµСЂ РґСѓС€Сѓ СЃРѕР±С– РІРїСЂР°РІРёС‚Рё Р·РјРѕР¶Сѓ\nРІ Р±СѓРґСЊ-СЏРєРёР№ РјРѕРјРµРЅС‚!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_try_play_1">
-    <text>РђРЅСѓ, Р·Р°СЂР°Р· СЃРїСЂРѕР±СѓС”РјРѕ\nРЅРѕРІРёР№ С–РЅСЃС‚СЂСѓРјРµРЅС‚.</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_try_play_2">
-    <text>РќСѓ РѕС‚.\nР†РЅС€Р° СЃРїСЂР°РІР°, РіРµС‚СЊ С–РЅС€Р°!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_try_play_3">
-    <text>Р”РѕР±СЂРµ Р·РІСѓС‡РёС‚СЊ, РєСЂР°Р»СЏ!</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_try_play_4">
-    <text>РўР°Рє, Р° СЏРєС‰Рѕ СЃРїСЂРѕР±СѓРІР°С‚Рё\nР·С–РіСЂР°С‚Рё С†СЋ?</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_try_play_5">
-    <text>РђРіР°, Р° РґР°Р№ РѕСЃСЊ С‚Р°Рє СЃРїСЂРѕР±СѓСЋ...</text>
-  </string>
-  <string id="st_nsp_musician_stalker_guitar_try_play_6">
-    <text>РўР°Рє, С‡СѓРґРѕРІРѕ РІРёС…РѕРґРёС‚СЊ.\nР”СЏРєСѓСЋ, С‡РѕР»РѕРІС–С‡Рµ!</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_1">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, Р±РµСЂРµР¶Рё СЃРµР±Рµ.\nР—РѕРЅР° вЂ” РїСЂРѕРєР»СЏС‚Рµ РјС–СЃС†Рµ.</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_2">
-    <text>РЇ С…РѕС‚С–РІ, С‰РѕР± С…С‚РѕСЃСЊ РґС–Р·РЅР°РІСЃСЏ, С‰Рѕ Р·С– РјРЅРѕСЋ СЃС‚Р°Р»РѕСЃСЏ.</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_3_cc">
-    <text>[РІРёРґРёС…]</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_4">
-    <text>РўРµРїРµСЂ СЏ РїРѕС‡СѓРІР°СЋСЃСЊ СЃРїРѕРєС–Р№РЅС–С€Рµ.</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_5">
-    <text>РџС–СЃР»СЏ С‚РѕРіРѕ РІРёРїР°РґРєСѓ РЅР° Р±Р°Р·С–,\nР· РєРѕР¶РЅРёРј РґРЅРµРј СЏ РІС–РґС‡СѓРІР°РІ,</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_6">
-    <text>С‰Рѕ РјРµРЅРµ С‰РѕСЃСЊ СЃС‚РёСЃРєР°С”.</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_7">
-    <text>РўРµРїРµСЂ СЏ С‚РѕР№,\nРєРёРј С‚Рё РјРµРЅРµ Р·Р°СЂР°Р· Р±Р°С‡РёС€.</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_8">
-    <text>Р‘РµСЂРµР¶РёСЃСЊ С†РёС… РїРѕРєРёРґСЊРєС–РІ РІС‡РµРЅРёС…,</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_9">
-    <text>С–РЅР°РєС€Рµ Р· С‚РѕР±РѕСЋ СЃС‚Р°РЅРµС‚СЊСЃСЏ\nС‰РѕСЃСЊ РїРѕРґС–Р±РЅРµ.</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_10">
-    <text>РћСЃСЊ, РІС–Р·СЊРјРё РІС–Рґ РјРµРЅРµ Р°СЂС‚РµС„Р°РєС‚ С‚Р° РіРІРёРЅС‚С–РІРєСѓ.</text>
-  </string>
-  <string id="st_nsp_soldier_polter_final_phrase_11">
-    <text>Р©Р°СЃР»РёРІРѕС— С‚РѕР±С– РґРѕСЂРѕРіРё, Р±СЂРѕРґСЏРіРѕ.</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_1_1">
-    <text>РњР°Р±СѓС‚СЊ, С‚СѓС‚ С– СЃРёРґС–РІ РўС…С–СЂ РїС–Рґ С‡Р°СЃ СЃРІРѕРіРѕ СЃР°РјРѕРіСѓР±СЃС‚РІР°.</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_1_2">
-    <text>РќР° СЃС‚С–РЅС– Р»РёС€РёРІСЃСЏ РІРµР»РёРєРёР№ Р·РіСѓСЃС‚РѕРє Р№РѕРіРѕ РєСЂРѕРІС–...</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_2_1">
-    <text>Р—Р°РїРёСЃРё, РЅР° СЏРєРёС… РїРѕРєС–Р№РЅРёР№ РўС…С–СЂ РѕРїРёСЃСѓРІР°РІ\nР±РµР·РїРµС‡РЅС– СЃС‚РµР¶РєРё РїРѕ Р°РЅРѕРјР°Р»СЊРЅРёС… РїРѕР»СЏС…,</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_2_2">
-    <text>РІС–РґРјС–С‡Р°РІ СЃРєСѓРїС‡РµРЅРЅСЏ РјСѓС‚Р°РЅС‚С–РІ,\nС„С–РєСЃСѓРІР°РІ РїРµСЂС–РѕРґРёС‡РЅС–СЃС‚СЊ РІРёРєРёРґС–РІ...</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_2_3">
-    <text>РҐРј, С†С–РєР°РІРѕ. Р’С–РЅ С‚РѕС‡РЅРѕ РЅРµ РїР»Р°РЅСѓРІР°РІ\nРѕСЃСЊ С‚Р°Рє РїСЂРѕСЃС‚Рѕ Р·Р°СЃС‚СЂРµР»РёС‚РёСЃСЏ...</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_3_1">
-    <text>Р“Рј, СЏРєРёР№СЃСЊ РґРёРІРЅРёР№ РјР°Р»СЋРЅРѕРє РЅР° СЃС‚С–РЅС–...</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_3_2">
-    <text>Р¦С–РєР°РІРѕ, РІС–РЅ РІР¶Рµ Р±СѓРІ С‚СѓС‚ РґРѕ РїСЂРёС…РѕРґСѓ СЃС‚Р°Р»РєРµСЂС–РІ\nС‡Рё Р№РѕРіРѕ РЅР°РјР°Р»СЋРІР°РІ РўС…С–СЂ?</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_4_1_1">
-    <text>РЎС‚Р°Р»РєРµСЂРё Р·Р°Р±РёР»Рё РІС–РєРЅРѕ,\nР±Рѕ С—Рј Р±СѓР»Рѕ РјРѕС‚РѕСЂРѕС€РЅРѕ РІС–Рґ С†СЊРѕРіРѕ РјС–СЃС†СЏ.</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_4_1_2">
-    <text>Р’С–С‚РµСЂ Р· РІС–РєРЅР° С†С–Р»РєРѕРј РјС–Рі СЃРєРёРЅСѓС‚Рё РїРµСЂРµРґСЃРјРµСЂС‚РЅСѓ Р·Р°РїРёСЃРєСѓ Р· С‚СЂСѓРїР°,\nСЏРєС‰Рѕ РІРѕРЅР° С‚СѓС‚, Р·РІС–СЃРЅРѕ, Р±СѓР»Р°...</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_4_2_1">
-    <text>РЎС‚Р°Р»РєРµСЂРё Р·Р°Р±РёР»Рё РІС–РєРЅРѕ.\nРЎС…РѕР¶Рµ, С—Рј Р±СѓР»Рѕ РјРѕС‚РѕСЂРѕС€РЅРѕ РІС–Рґ С†СЊРѕРіРѕ РјС–СЃС†СЏ.</text>
-  </string>
-  <string id="st_nsp_village_actor_check_home_4_2_2">
-    <text>РџРµРІРЅРѕ, Р·Р°РїРёСЃРєСѓ, С‰Рѕ СЏ С‰РѕР№РЅРѕ Р·РЅР°Р№С€РѕРІ, Р·РјРµР»Рѕ РІС–С‚СЂРѕРј...</text>
-  </string>
-  <string id="st_nsp_village_stalker_check_scanner_pos_angry_1">
-    <text>Р“РµР№, РјСѓР¶РёРє, РІР°Р»Рё Р·РІС–РґСЃРё!</text>
-  </string>
-  <string id="st_nsp_village_stalker_check_scanner_pos_angry_2">
-    <text>Р©Рµ СЂР°Р· РїРѕР±Р°С‡Сѓ С‚РµР±Рµ Р·Р° РІСЃС‚Р°РЅРѕРІР»РµРЅРЅСЏРј РІСЃСЏРєРёС… СЃРєР°РЅРµСЂС–РІ РЅР° РЅР°С€С–Р№ С‚РµСЂРёС‚РѕСЂС–С—  вЂ” </text>
-  </string>
-  <string id="st_nsp_village_stalker_check_scanner_pos_angry_3">
-    <text>РѕС‚СЂРёРјР°С”С€ РїРѕ Р±Р°С€С†С–.</text>
-  </string>
-  <string id="st_nsp_village_stalker_check_scanner_pos_angry_4">
-    <text>РќР°Рј С†С– Р·Р°Р»С–Р·СЏРєРё С‚СѓС‚ РЅС– РґРѕ С‡РѕРіРѕ!</text>
-  </string>
-  <string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_1_1">
-    <text>РћС‚ Р¶Рµ РїР°СЃРєСѓРґР°.</text>
-  </string>
-  <string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_1_2">
-    <text>Р’Р°С€Сѓ РјР°С‚Рё, РЅРµС‡РёСЃС‚Р° С‚СѓС‚ СЃРїСЂР°РІР°.</text>
-  </string>
-  <string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_1_3">
-    <text>РњРѕР¶Рµ, С‚РІР°СЂСЋРєР° СЏРєР°СЃСЊ\nРїРѕР±Р»РёР·Сѓ РјС–Р·РєРё Р»СЋРґСЏРј РїРѕР»РѕС‰Рµ?</text>
-  </string>
-  <string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_2_1">
-    <text>Р§РѕСЂС‚С–РІРЅСЏ СЏРєР°СЃСЊ.</text>
-  </string>
-  <string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_2_2">
-    <text>РњРѕС‚РѕСЂРѕС€РЅРѕ, РЅРµС…РѕСЂРѕС€Рµ С‚СѓС‚ РјС–СЃС†Рµ.</text>
-  </string>
-  <string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_3">
-    <text>Р’РёР¶РёРІРµРј.\nРЎРїРѕРґС–РІР°СЋСЃСЊ, РІРёР¶РёРІРµРј.</text>
-  </string>
-  <string id="st_nsp_village_stalker_patrol_3_mysterious_dialog_1_1">
-    <text>Р”РёРІРёСЃСЊ РїРёР»СЊРЅРѕ, РґСЂСѓРіР°РЅРµ!</text>
-  </string>
-  <string id="st_nsp_village_stalker_patrol_3_mysterious_dialog_1_2">
-    <text>РњРё С‚СѓС‚ РіРµС‚СЊ СЃР°РјС–. РќС–С…С‚Рѕ РЅРµ РґРѕРїРѕРјРѕР¶Рµ.</text>
-  </string>
-  <string id="st_nsp_village_stalker_patrol_3_mysterious_dialog_2">
-    <text>Р’РёР¶РёРІРµРјРѕ вЂ”\nРЅРѕРіРё С‚СѓС‚ РЅР°С€РѕС— РЅРµ Р±СѓРґРµ!</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_1">
-    <text>РќСѓ С‰Рѕ, РґРѕР±СЂРµ РїСЂРѕР±С–РіСЃСЏ, РїСЂСѓРґРєРѕРЅРѕРіРёР№?</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_2">
-    <text>РћС‚Р¶Рµ, С‚Р°Рє. РЎР»СѓС…Р°Р№ РјРµРЅРµ СѓРІР°Р¶РЅРѕ:</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_3">
-    <text>Р’С–РґРґР°СЃРё Р°СЂС‚РµС„Р°РєС‚ С– РјРѕР¶РµС€ РІР°Р»РёС‚Рё РЅР° РІСЃС– С‡РѕС‚РёСЂРё СЃС‚РѕСЂРѕРЅРё.</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_4">
-    <text>РўРё РЅР°Рј РІ СЃСЂР°РєСѓ РЅРµ РІРїРµСЂСЃСЏ.</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_5">
-    <text>РњРѕРІС‡РёС€?</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_6">
-    <text>РўРѕР±С– Р¶ РґРѕСЂРѕР¶С‡Рµ. РЇ С‚РµР±Рµ РїРѕРїРµСЂРµРґР¶Р°РІ.</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_two_1">
-    <text>РЇ Р·РЅР°СЋ, С‰Рѕ С‚Рё РјРµРЅРµ С‡СѓС”С€, СЃС‚Р°Р»РєРµСЂРµ.</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_two_2">
-    <text>РќРµ Р·РјСѓС€СѓР№ РЅР°СЃ Р±С–РіР°С‚Рё Р·Р° С‚РѕР±РѕСЋ РїРѕ РІСЃС–Р№ Р—РѕРЅС–.</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_two_3">
-    <text>РџРѕРІС–СЂ, РјРё С‚РµР±Рµ РІСЃРµ РѕРґРЅРѕ РґС–СЃС‚Р°РЅРµРј С– РѕС‚СЂРёРјР°С”Рј С‚Рµ, С‰Рѕ С…РѕС‡РµРј.</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_two_4">
-    <text>РўРё РЅР°СЃ Р±Р°С‡РёРІ РІ РґС–С—  вЂ”  РїСЂРµРєСЂР°СЃРЅРѕ Р·РЅР°С”С€, РЅР° С‰Рѕ Р·РґР°С‚РЅС–.</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_two_5">
-    <text>Р¦Рµ Р¶ С‚Рё Р±СѓРІ С‚РѕРґС– Р·С– СЃС‚Р°Р»РєРµСЂР°РјРё РЅР° РљРѕСЂРґРѕРЅС–.</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_two_6">
-    <text>РќРµС…Р°Р№ С‚Р°Рє. РџСЂРѕС‰Сѓ С‚РѕР±С– СЃРјРµСЂС‚СЊ РјРѕС—С… Р»СЋРґРµР№,</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_two_7">
-    <text>Р°Р»Рµ С‚С–Р»СЊРєРё, СЏРєС‰Рѕ РІС–РґРґР°СЃРё Р°СЂС‚РµС„Р°РєС‚.</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_two_8">
-    <text>РџРѕС‚С–Рј РјРѕР¶РµС€ СЃРїРѕРєС–Р№РЅРѕ РіСѓР»СЏС‚Рё, РЅРµ Р·Р°С‡РµРїРёРј.</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_two_9">
-    <text>РўРё С‰Рѕ, РЅРµ РІС–СЂРёС€ РјРµРЅС–, РЎРѕРєРёСЂРєРѕ?</text>
-  </string>
-  <string id="st_nsp_brawl_task_merc_leader_angry_message_two_10">
-    <text>Р“Р°СЂР°Р·Рґ. РЇ С‚РµР±Рµ Р·СЂРѕР·СѓРјС–РІ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_pot_start_message_sound_1">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, С‚Рё РЅРµ РЅР° СЃРІРѕС—Р№ С‚РµСЂРёС‚РѕСЂС–С—.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_pot_start_message_sound_2">
-    <text>РџРѕРІРѕРґСЊСЃСЏ РіС–РґРЅРѕ, С– Сѓ РЅР°СЃ Р· С‚РѕР±РѕСЋ РЅРµ РІРёРЅРёРєРЅРµ РЅС–СЏРєРёС… СЃСѓРїРµСЂРµС‡РЅРѕСЃС‚РµР№.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_pot_start_message_sound_3">
-    <text>РЇРєС‰Рѕ С” СЏРєС–СЃСЊ РїРёС‚Р°РЅРЅСЏ, Р·Р°РіР»СЏРґР°Р№  вЂ”  РїРѕСЃРїС–Р»РєСѓС”РјРѕСЃСЊ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_first_meet_1">
-    <text>РђРіРѕРІ, СЃС‚Р°Р»РєРµСЂРµ! РўРё РІРїРµСЂС€Рµ РІ С†РёС… РєСЂР°СЏС…?</text>
-  </string>
-  <string id="st_nsp_freedom_leader_first_meet_2">
-    <text>РџС–РґС–Р№РґРё РґРѕ РЅР°СЃ, РЅРµ СЃС†Рё. РњРѕР¶Рµ, РґРѕРјРѕРІРёРјРѕСЃСЊ РїСЂРѕ РѕРґРЅРµ РґС–Р»СЊС†Рµ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_first_meet_cancel_1">
-    <text>РќСѓ, С‚Рё С†РµР№РІРѕ, Р±СЂР°С‚РёРєСѓ,</text>
-  </string>
-  <string id="st_nsp_freedom_leader_first_meet_cancel_2">
-    <text>Р·Р°РіР»СЏРґСѓР№, СЏРєС‰Рѕ РЅР°РґСѓРјР°С”С€ РЅР°Рј РїРѕРјРѕРіС‚Рё.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_attack_prepare_1">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, Р±РµСЂРё С‚РѕРіРѕ, С‰Рѕ РІ С‡РѕСЂРЅРѕРјСѓ РїР»Р°С‰С–. РњС–Р№  вЂ”  РІ РєРѕСЂРёС‡РЅРµРІРѕРјСѓ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_attack_prepare_2">
-    <text>РњСѓР¶РёРєРё, СЃРѕР±С– С†С–Р»С– РІРёР±РёСЂР°Р№С‚Рµ СЃР°РјС–.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_main_info_1">
-    <text>Р—Р°СЂР°Р· РіРѕР»РѕРІРЅРµ вЂ” РІРёСЂСѓР±РёС‚Рё С‚РёС…, С…С‚Рѕ Сѓ РЅР°СЃ РЅР° РІРёРґСѓ,</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_main_info_2">
-    <text>Р° РїРѕС‚С–Рј РІС–РґС–СЂРІРµРјРѕСЃСЊ Р±РµР· С…РѕРІР°РЅРѕРє.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_wait_fire_1">
-    <text>Р† РїР°Рј'СЏС‚Р°Р№РјРѕ: РІРѕРіРѕРЅСЊ РІС–РґРєСЂРёРІР°С”С‚СЊСЃСЏ Р»РёС€Рµ Р·Р° РјРѕС”СЋ РєРѕРјР°РЅРґРѕСЋ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_wait_fire_2">
-    <text>Р“РѕС‚РѕРІС–?</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_wait_time">
-    <text>РўСЂРё, РґРІР°...</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_start_attack">
-    <text>Р’Р°Р»Рё РєРѕР·Р»СЏСЂ!</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_all_death_1">
-    <text>РќРµРІР¶Рµ СѓСЃС–С… РІРєР»Р°Р»Рё? РќРµ РІС‚СЂР°С‚РёР»Рё С‰Рµ РІРїСЂР°РІРЅС–СЃС‚СЊ, РјСѓР¶РёРєРё!</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_all_death_2">
-    <text>РђРіРѕРІ, СЃС‚Р°Р»РєРµСЂРµ, С‚РµРїРµСЂ РїРѕРіРѕРІРѕСЂС–РјРѕ Р· С‚РѕР±РѕСЋ РїСЂРѕ РЅР°РіРѕСЂРѕРґСѓ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_reward_complete_1">
-    <text>РќСѓ, Р±СѓРІР°Р№, РјСѓР¶РёС‡Рµ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_reward_complete_2">
-    <text>Р—РІ'СЏР¶СѓСЃСЊ Р· С‚РѕР±РѕСЋ, СЏРєС‰Рѕ С‰Рµ СЏРєСѓСЃСЊ СЃРїСЂР°РІСѓ\nС‚СЂРµР±Р° Р±СѓРґРµ РїСЂРѕРІРµСЂРЅСѓС‚Рё.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_actor_leave_1_1">
-    <text>Р“РµР№, Р±СЂР°С‚РёРєСѓ, С‚Рё РєСѓРґРё РЅР°РјР°Р·Р°РІ Рї'СЏС‚Рё?</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_actor_leave_1_2">
-    <text>РђРЅСѓ РІРµСЂРЅРёСЃСЊ!</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bandits_task_actor_leave_2">
-    <text>РўРѕ Р№ РІР°Р»Рё, Р·РІС–РґРєРё РїСЂРёР№С€РѕРІ. РЎР°РјС– РІРїРѕСЂР°С”РјРѕСЃСЊ!</text>
-  </string>
-  <string id="st_nsp_freedom_leader_big_problem_1_1">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, С‚СѓС‚ РЅР°РјР°Р»СЋРІР°Р»Р°СЃСЊ РІРµР»РёРєР° РїСЂРѕР±Р»РµРјР°.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_big_problem_1_2">
-    <text>РџСЂРѕР±Р»РµРјР° РЅРµ Р»РёС€Рµ РґР»СЏ РјРѕРіРѕ Р·Р°РіРѕРЅСѓ, Р°Р»Рµ Р№ РґР»СЏ РІСЃС–С”С— РѕРєРѕР»РёС†С–.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_big_problem_1_3">
-    <text>Р—Р°Р·РёСЂРЅРё РґРѕ РјРµРЅРµ, СЏРєРѕ С‚РѕР±С– С†С–РєР°РІРѕ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_big_problem_2_1">
-    <text>Р“РµР№, СЃС‚Р°Р»РєРµСЂ. Р¦Рµ С‚Рё С‚Р°Рє Р±Р°РЅРґРёС‚С–РІ СѓСЂРѕР±РёРІ?</text>
-  </string>
-  <string id="st_nsp_freedom_leader_big_problem_2_2">
-    <text>Р‘Р»СЏС…Р°, Сѓ С‚РµР±Рµ СЏРІРЅРѕ Р· РіРѕР»РѕРІРѕСЋ РЅРµ РІСЃРµ РіР°СЂР°Р·Рґ. РњРѕС” С€Р°РЅСѓРІР°РЅРЅСЏ!</text>
-  </string>
-  <string id="st_nsp_freedom_leader_big_problem_2_3">
-    <text>Р—Р°Р·РёСЂРЅРё Р·Р° РјРѕР¶Р»РёРІРѕСЃС‚С–: С” РѕРґРЅР° РЅР°РіР°Р»СЊРЅР° СЃРїСЂР°РІР°.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_big_problem_2_4">
-    <text>РњРѕР¶Р»РёРІРѕ, С‚РѕР±С– Р±СѓРґРµ С†С–РєР°РІРѕ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_big_problem_3_1">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, С‚СѓС‚ РѕРґРЅР° РІРµР»РёРєР° РїСЂРѕР±Р»РµРјР°. Р’РёРјР°РіР°С” РґРѕРїРѕРјРѕРіРё РґРѕСЃРІС–РґС‡РµРЅРѕРіРѕ СЃС‚Р°Р»РєРµСЂР°.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_big_problem_3_2">
-    <text>РњРѕР¶Рµ, С†СЊРѕРіРѕ СЂР°Р·Сѓ Р·Р°РіР»СЏРЅРµС€? РџРѕРіРѕРІРѕСЂРёС‚Рё С‚СЂРµР±Р°.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_monster_task_start_1">
-    <text>РњРё РјР°Р№Р¶Рµ РїСЂРёР№С€Р»Рё. Р СѓС…Р°С”РјРѕСЃСЊ РјР°РєСЃРёРјР°Р»СЊРЅРѕ Р°РєСѓСЂР°С‚РЅРѕ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_monster_task_start_2">
-    <text>Р”РёРІРёСЃСЊ РїРёР»СЊРЅРѕ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_monster_task_start_3">
-    <text>РҐР»РѕРїС†С– РїС–РґС–Р№РґСѓС‚СЊ Р· С–РЅС€РѕРіРѕ Р±РѕРєСѓ,\nС– РјРё РѕС‚РѕС‡РёРјРѕ С†СЋ С‚РІР°СЂСЋРєСѓ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_monster_task_see_enemy">
-    <text>РћСЃСЊ РІРѕРЅР°, РєСЂР°СЃСѓРЅСЏ. РЎРёРґРёС‚СЊ, С‡СѓС…Р°С”С‚СЊСЃСЏ...</text>
-  </string>
-  <string id="st_nsp_freedom_leader_monster_task_check_all_ready">
-    <text>Р’СЃС– РіРѕС‚РѕРІС–?</text>
-  </string>
-  <string id="st_nsp_freedom_leader_monster_task_start_fire">
-    <text>Р’РѕРіРѕРЅСЊ!</text>
-  </string>
-  <string id="st_nsp_freedom_leader_monster_task_actor_leave">
-    <text>РћС‚Р°РєРѕС—. РќРµ РґСѓРјР°РІ СЏ, С‰Рѕ С‚Рё РІРёСЏРІРёС€СЃСЏ СЃС†РёРєР»РёРІРёРј РїР°С†СЋРєРѕРј!</text>
-  </string>
-  <string id="st_nsp_freedom_leader_monster_task_enemy_death_1">
-    <text>Р’Р°С€Сѓ Р¶ РјР°С‚Рё, С‚Р° РјРё РїСЂРѕСЃС‚Рѕ РіСЂРѕР·Р° РѕРєРѕР»РёС†С–: Р·СЂРѕР±РёР»Рё Р·Р° РјРёСЃР»РёРІС†С–РІ С—С…РЅСЋ СЂРѕР±РѕС‚Сѓ!</text>
-  </string>
-  <string id="st_nsp_freedom_leader_monster_task_enemy_death_2">
-    <text>РќСѓ Р№ РЅР° С…СЂС–РЅР° РІРѕРЅРё С‚РѕРґС– РїРѕС‚СЂС–Р±РЅС–?</text>
-  </string>
-  <string id="st_nsp_freedom_leader_hello_1">
-    <text>Р—РґРѕСЂРѕРІ, РјРµРЅ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_hello_2">
-    <text>РђР»РѕС…Р°, РјРµРЅ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_hello_3">
-    <text>РќСѓ РїСЂРёРІС–С‚, РјРµРЅ!\nРђРЅСѓ, СЂРѕР·РєР°Р·СѓР№. РЇРє РїРѕР¶РёРІР°С”С€?</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bye_1">
-    <text>Р”РѕР±СЂРµ. Р—СѓСЃС‚СЂС–РЅРµРјРѕСЃСЊ!</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bye_2">
-    <text>Р‘СѓРІР°Р№, РјРµРЅ.</text>
-  </string>
-  <string id="st_nsp_freedom_leader_bye_3">
-    <text>РќСѓ, РґРѕР±СЂРµ, Р±СЂР°С‚РёРєСѓ.\nР—Р°РіР»СЏРґР°Р№, СЂР°РїС‚РѕРј С‰Рѕ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_1_1">
-    <text>Р¦СЏ РґРѕС…Р»СЏС‚РёРЅР°, РЁС‚РѕРє, СЃСЊРѕРіРѕРґРЅС– СЂРѕР·РїРѕСЂРѕР»Р° РњР°Р·Р°СЋ РїСѓР·Рѕ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_1_2">
-    <text>Р“РѕСЂС‰РёРє РіРѕРІРѕСЂРёС‚СЊ, РІСЂР°РЅС†С– Р·Р±РµСЂРµРјРѕ Р±СЂРёРіР°РґСѓ С– РІРёСЂСѓС€РёРјРѕ РЅР° РїРѕС€СѓРєРё РєР°Р±Р°РЅР°.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_1_3">
-    <text>РўР° С…СЂС–РЅР° Р· РґРІР° СЏ Р±СѓРґСѓ С‡РµРєР°С‚Рё СЂР°РЅРєСѓ!</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_1_4">
-    <text>Р”РѕРєРё РЅРµ СЃС‚РµРјРЅС–Р»Рѕ, РІРёСЂСѓС€Сѓ СЃР°Рј С– С–РєР»Р° Р№РѕРјСѓ РїРѕРІРёСЂРёРІР°СЋ!</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_1_5">
-    <text>РњРёСЃР»РёРІС†С– РјРё РІСЂРµС€С‚С–-СЂРµС€С‚ С‡Рё Р±Р·РґСѓРЅРё Р±РѕСЏРіСѓР·Р»РёРІС–?!</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_2_1">
-    <text>РҐСЂС–РЅРґРµС†СЊ...</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_2_2">
-    <text>РќР°РјР°РіР°РІСЃСЏ РІРёСЃС‚РµР¶РёС‚Рё С‚РІР°СЂРёРЅСѓ, Р° РІС–РЅ Р· РЅС–Р·РІС–РґРєРё РІРёР±С–Рі С– Р·Р±РёРІ РјРµРЅРµ Р· РЅС–Рі.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_2_3">
-    <text>Р”РѕРєРё РІР°Р»СЏСЋС‚СЊСЃСЏ Сѓ РІС–РґРєР»СЋС‡С†С–, С†СЏ С‚РІР°СЂСЋРєР° РїСЂРёС‚СЏРіРЅСѓР»Р° РјРµРЅРµ Сѓ СЃРІРѕСЋ РЅРѕСЂСѓ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_2_4">
-    <text>Р§РѕСЂС‚, Р±РѕР»СЏС‡Рµ Р¶ СЏРє... РќРµ РјРѕР¶Сѓ РЅР°РІС–С‚СЊ РїРѕРІРѕСЂСѓС…РЅСѓС‚РёСЃСЊ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_2_5">
-    <text>Р—РІ'СЏР·РѕРє РЅРµ Р»РѕРІРёС‚СЊ Сѓ С†С–Р№ РґРѕРІР±Р°РЅС–Р№ РЅРѕСЂС–.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_2_6">
-    <text>РЇ РІРёРїСѓСЃС‚РёРІ РґРµСЃСЊ СЂСѓС€РЅРёС†СЋ, Р°Р»Рµ РїС–СЃС‚РѕР»РµС‚ Р· Р±СЂРѕРЅРµР±С–Р№РЅРёРјРё С‰Рµ Р·С– РјРЅРѕСЋ.</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_2_7">
-    <text>РљРѕР»Рё РЁС‚РѕРє РїРѕРІРµСЂРЅРµС‚СЊСЃСЏ, СЏ Р№РѕРјСѓ РІР»Р°С€С‚СѓСЋ...</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_2_8">
-    <text>РўРІРѕСЋ Р¶ РјР°С‚Рё!</text>
-  </string>
-  <string id="st_nsp_hunters_hunter_corp_general_boar_record_2_9">
-    <text>...</text>
-  </string>
+
+	<string id="st_nsp_brawl_task_actor_scene_speak_jurok_answer_1">
+		<text>На зв'язку, Сокиро. Чого хотів?</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_actor_scene_speak_jurok_answer_2">
+		<text>Е... та, пам'ятаю. Ясно, Сокиро, буду чекати.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_actor_scene_speak_jurok_1">
+		<text>Прийом, Юрку. Ти тут?</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_actor_scene_speak_jurok_2_1">
+		<text>Мені потрібна твоя допомога. Треба терміново вибратись за периметр.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_actor_scene_speak_jurok_2_2">
+		<text>У селище зайти не можу  -  за мною можуть стежити.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_actor_scene_speak_jurok_2_3">
+		<text>Зустрінемось з тобою на тому місці, де ховались два баклани з моїм хабарем. Пам'ятаєш?</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_boar_corp_end">
+		<text>Все, я майже закінчив.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_bye_1">
+		<text>До зустрічі.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_bye_2">
+		<text>Бувай, чоловіче.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_bye_3">
+		<text>Ще побачимось.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_check_bush">
+		<text>Овва, а це у нас хто?</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_dessert_1">
+		<text>Пообідали, отже, звірята?</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_dessert_2">
+		<text>Ну, зараз ми вам подамо десертик.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_dog_dist">
+		<text>Амуре! Не ходи далеко!</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_dog_eat_1">
+		<text>Амуре, фу!</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_dog_eat_2">
+		<text>У таборі нормальної їжі\nтобі відсиплю.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_dog_eat_3">
+		<text>Кінчай це падло жерти!</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_hear">
+		<text>Тихо! Я щось чув.</text>
+	</string>
+
+	<string id="st_nsp_scientific_task_scientist_boss_complete_1">
+		<text>Здрастуйте. Я засік, що у вашій місцевості був сплеск енергії.</text>
+	</string>
+
+	<string id="st_nsp_scientific_task_scientist_boss_complete_2">
+		<text>Це означає, вам вдалось трансмутувати артефакт? Залишайтесь на місці.</text>
+	</string>
+
+	<string id="st_nsp_scientific_task_scientist_boss_complete_3">
+		<text>Неподалік наша експедиція, якій ви передасте артефакт.</text>
+	</string>
+
+	<string id="st_nsp_scientific_task_scientist_boss_complete_4">
+		<text>Хороша робота, сталкере.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_hello_1">
+		<text>Як справи, мисливчику?</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_hello_2">
+		<text>Слухаю, сталкере.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_hello_3">
+		<text>Кажи, що там в тебе.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_hit_cc">
+		<text>[стогін від болю]</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_see_boars_1">
+		<text>Тс-с! Кабани сплять.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_see_boars_2">
+		<text>Слухай, нумо їх по-тихому накриємо,\nдоки не встигли оговтатись.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_start_dog_1">
+		<text>Амуре, підіймай сраку.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_start_dog_2">
+		<text>Настав час прогулятись.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_swamp_1">
+		<text>Так-так, вони нещодавно тут були.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_swamp_2">
+		<text>Бавились у цьому болітці.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_swamp_3">
+		<text>Гаразд, рухаємось далі.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_boss_swamp_4">
+		<text>Тільки тихіше! Вони десь поруч!</text>
+	</string>
+
+	<string id="st_nsp_masters_leader_hello">
+		<text>Підходь, сталкере.\nПосидимо, поговоримо.</text>
+	</string>
+
+	<string id="st_nsp_masters_stalker_car_flashback_start_1">
+		<text>Так, працюємо тихо.</text>
+	</string>
+
+	<string id="st_nsp_masters_stalker_car_flashback_start_2">
+		<text>Спочатку вирубаємо вартового,</text>
+	</string>
+
+	<string id="st_nsp_masters_stalker_car_flashback_start_3">
+		<text>потім спокійно ріжемо решту</text>
+	</string>
+
+	<string id="st_nsp_masters_stalker_car_flashback_start_4">
+		<text>і забираєм хабар.</text>
+	</string>
+
+	<string id="st_nsp_masters_stalker_car_flashback_start_5">
+		<text>Все зрозумів?</text>
+	</string>
+
+	<string id="st_nsp_masters_stalker_car_flashback_start_6">
+		<text>Ну, тоді поперли.</text>
+	</string>
+
+	<string id="st_nsp_masters_stalker_wanderer_stop_actor">
+		<text>Мужиче, ти шо задумав? Ану злазь звідти нахєр!</text>
+	</string>
+
+	<string id="st_nsp_masters_whisper_1">
+		<text>Дарма ти сюди заліз.</text>
+	</string>
+
+	<string id="st_nsp_masters_whisper_2">
+		<text>Ти загинеш, сталкере.</text>
+	</string>
+
+	<string id="st_nsp_masters_whisper_3">
+		<text>Хіба ми цього заслуговуємо?</text>
+	</string>
+
+	<string id="st_nsp_masters_whisper_4">
+		<text>Це кінець.</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_bye_1">
+		<text>Хай щастить. Заходь ще!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_bye_2">
+		<text>Ну, бувай!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_bye_3">
+		<text>Ну, побачимось!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_hello_1">
+		<text>Ну, що тобі зіграти?</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_hello_2">
+		<text>Вітаю.\nЗіграти тобі щось?</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_hello_3">
+		<text>Радий тебе бачити, друзяко!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_order_1">
+		<text>Зараз збацаю!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_order_2">
+		<text>Так, поїхали!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_order_3">
+		<text>Не відволікайся.\nЗараз спробую зіграти щось класне.</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_sad_1">
+		<text>Ех, зіграв би я вам,\nта ось: дірка.</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_sad_2">
+		<text>Отакої.</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_sad_3">
+		<text>Ех.</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_sad_4_cc">
+		<text>[стогін]</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_sad_start_1">
+		<text>От гади.</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_sad_start_2">
+		<text>Відморозки кляті.\nТаку гітару розбили!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_thanks_1">
+		<text>Ну, удружив, сталкере.\nДякую тобі!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_thanks_2">
+		<text>Тепер душу собі вправити зможу\nв будь-який момент!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_try_play_1">
+		<text>Ану, зараз спробуємо\nновий інструмент.</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_try_play_2">
+		<text>Ну от.\nІнша справа, геть інша!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_try_play_3">
+		<text>Добре звучить, краля!</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_try_play_4">
+		<text>Так, а якщо спробувати\nзіграти цю?</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_try_play_5">
+		<text>Ага, а дай ось так спробую...</text>
+	</string>
+
+	<string id="st_nsp_musician_stalker_guitar_try_play_6">
+		<text>Так, чудово виходить.\nДякую, чоловіче!</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_1">
+		<text>Сталкере, бережи себе.\nЗона — прокляте місце.</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_2">
+		<text>Я хотів, щоб хтось дізнався, що зі мною сталося.</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_3_cc">
+		<text>[видих]</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_4">
+		<text>Тепер я почуваюсь спокійніше.</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_5">
+		<text>Після того випадку на базі,\nз кожним днем я відчував,</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_6">
+		<text>що мене щось стискає.</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_7">
+		<text>Тепер я той,\nким ти мене зараз бачиш.</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_8">
+		<text>Бережись цих покидьків вчених,</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_9">
+		<text>інакше з тобою станеться\nщось подібне.</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_10">
+		<text>Ось, візьми від мене артефакт та гвинтівку.</text>
+	</string>
+
+	<string id="st_nsp_soldier_polter_final_phrase_11">
+		<text>Щасливої тобі дороги, бродяго.</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_1_1">
+		<text>Мабуть, тут і сидів Тхір під час свого самогубства.</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_1_2">
+		<text>На стіні лишився великий згусток його крові...</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_2_1">
+		<text>Записи, на яких покійний Тхір описував\nбезпечні стежки по аномальних полях,</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_2_2">
+		<text>відмічав скупчення мутантів,\nфіксував періодичність викидів...</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_2_3">
+		<text>Хм, цікаво. Він точно не планував\nось так просто застрелитися...</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_3_1">
+		<text>Гм, якийсь дивний малюнок на стіні...</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_3_2">
+		<text>Цікаво, він вже був тут до приходу сталкерів\nчи його намалював Тхір?</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_4_1_1">
+		<text>Сталкери забили вікно,\nбо їм було моторошно від цього місця.</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_4_1_2">
+		<text>Вітер з вікна цілком міг скинути передсмертну записку з трупа,\nякщо вона тут, звісно, була...</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_4_2_1">
+		<text>Сталкери забили вікно.\nСхоже, їм було моторошно від цього місця.</text>
+	</string>
+
+	<string id="st_nsp_village_actor_check_home_4_2_2">
+		<text>Певно, записку, що я щойно знайшов, змело вітром...</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_check_scanner_pos_angry_1">
+		<text>Гей, мужик, вали звідси!</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_check_scanner_pos_angry_2">
+		<text>Ще раз побачу тебе за встановленням всяких сканерів на нашій території  - </text>
+	</string>
+
+	<string id="st_nsp_village_stalker_check_scanner_pos_angry_3">
+		<text>отримаєш по башці.</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_check_scanner_pos_angry_4">
+		<text>Нам ці залізяки тут ні до чого!</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_1_1">
+		<text>От же паскуда.</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_1_2">
+		<text>Вашу мати, нечиста тут справа.</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_1_3">
+		<text>Може, тварюка якась\nпоблизу мізки людям полоще?</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_2_1">
+		<text>Чортівня якась.</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_2_2">
+		<text>Моторошно, нехороше тут місце.</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_patrol_2_mysterious_dialog_3">
+		<text>Виживем.\nСподіваюсь, виживем.</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_patrol_3_mysterious_dialog_1_1">
+		<text>Дивись пильно, другане!</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_patrol_3_mysterious_dialog_1_2">
+		<text>Ми тут геть самі. Ніхто не допоможе.</text>
+	</string>
+
+	<string id="st_nsp_village_stalker_patrol_3_mysterious_dialog_2">
+		<text>Виживемо —\nноги тут нашої не буде!</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_1">
+		<text>Ну що, добре пробігся, прудконогий?</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_2">
+		<text>Отже, так. Слухай мене уважно:</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_3">
+		<text>Віддаси артефакт і можеш валити на всі чотири сторони.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_4">
+		<text>Ти нам в сраку не вперся.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_5">
+		<text>Мовчиш?</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_6">
+		<text>Тобі ж дорожче. Я тебе попереджав.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_two_1">
+		<text>Я знаю, що ти мене чуєш, сталкере.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_two_2">
+		<text>Не змушуй нас бігати за тобою по всій Зоні.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_two_3">
+		<text>Повір, ми тебе все одно дістанем і отримаєм те, що хочем.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_two_4">
+		<text>Ти нас бачив в дії  -  прекрасно знаєш, на що здатні.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_two_5">
+		<text>Це ж ти був тоді зі сталкерами на Кордоні.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_two_6">
+		<text>Нехай так. Прощу тобі смерть моїх людей,</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_two_7">
+		<text>але тільки, якщо віддаси артефакт.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_two_8">
+		<text>Потім можеш спокійно гуляти, не зачепим.</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_two_9">
+		<text>Ти що, не віриш мені, Сокирко?</text>
+	</string>
+
+	<string id="st_nsp_brawl_task_merc_leader_angry_message_two_10">
+		<text>Гаразд. Я тебе зрозумів.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_pot_start_message_sound_1">
+		<text>Сталкере, ти не на своїй території.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_pot_start_message_sound_2">
+		<text>Поводься гідно, і у нас з тобою не виникне ніяких суперечностей.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_pot_start_message_sound_3">
+		<text>Якщо є якісь питання, заглядай  -  поспілкуємось.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_first_meet_1">
+		<text>Агов, сталкере! Ти вперше в цих краях?</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_first_meet_2">
+		<text>Підійди до нас, не сци. Може, домовимось про одне дільце.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_first_meet_cancel_1">
+		<text>Ну, ти цейво, братику,</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_first_meet_cancel_2">
+		<text>заглядуй, якщо надумаєш нам помогти.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_attack_prepare_1">
+		<text>Сталкере, бери того, що в чорному плащі. Мій  -  в коричневому.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_attack_prepare_2">
+		<text>Мужики, собі цілі вибирайте самі.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_main_info_1">
+		<text>Зараз головне — вирубити тих, хто у нас на виду,</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_main_info_2">
+		<text>а потім відірвемось без хованок.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_wait_fire_1">
+		<text>І пам'ятаймо: вогонь відкривається лише за моєю командою.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_wait_fire_2">
+		<text>Готові?</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_wait_time">
+		<text>Три, два...</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_start_attack">
+		<text>Вали козляр!</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_all_death_1">
+		<text>Невже усіх вклали? Не втратили ще вправність, мужики!</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_all_death_2">
+		<text>Агов, сталкере, тепер поговорімо з тобою про нагороду.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_reward_complete_1">
+		<text>Ну, бувай, мужиче.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_reward_complete_2">
+		<text>Зв'яжусь з тобою, якщо ще якусь справу\nтреба буде провернути.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_actor_leave_1_1">
+		<text>Гей, братику, ти куди намазав п'яти?</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_actor_leave_1_2">
+		<text>Ану вернись!</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bandits_task_actor_leave_2">
+		<text>То й вали, звідки прийшов. Самі впораємось!</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_big_problem_1_1">
+		<text>Сталкере, тут намалювалась велика проблема.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_big_problem_1_2">
+		<text>Проблема не лише для мого загону, але й для всієї околиці.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_big_problem_1_3">
+		<text>Зазирни до мене, яко тобі цікаво.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_big_problem_2_1">
+		<text>Гей, сталкер. Це ти так бандитів уробив?</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_big_problem_2_2">
+		<text>Бляха, у тебе явно з головою не все гаразд. Моє шанування!</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_big_problem_2_3">
+		<text>Зазирни за можливості: є одна нагальна справа.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_big_problem_2_4">
+		<text>Можливо, тобі буде цікаво.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_big_problem_3_1">
+		<text>Сталкере, тут одна велика проблема. Вимагає допомоги досвідченого сталкера.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_big_problem_3_2">
+		<text>Може, цього разу заглянеш? Поговорити треба.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_monster_task_start_1">
+		<text>Ми майже прийшли. Рухаємось максимально акуратно.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_monster_task_start_2">
+		<text>Дивись пильно.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_monster_task_start_3">
+		<text>Хлопці підійдуть з іншого боку,\nі ми оточимо цю тварюку.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_monster_task_see_enemy">
+		<text>Ось вона, красуня. Сидить, чухається...</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_monster_task_check_all_ready">
+		<text>Всі готові?</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_monster_task_start_fire">
+		<text>Вогонь!</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_monster_task_actor_leave">
+		<text>Отакої. Не думав я, що ти виявишся сцикливим пацюком!</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_monster_task_enemy_death_1">
+		<text>Вашу ж мати, та ми просто гроза околиці: зробили за мисливців їхню роботу!</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_monster_task_enemy_death_2">
+		<text>Ну й на хріна вони тоді потрібні?</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_hello_1">
+		<text>Здоров, мен.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_hello_2">
+		<text>Алоха, мен.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_hello_3">
+		<text>Ну привіт, мен!\nАну, розказуй. Як поживаєш?</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bye_1">
+		<text>Добре. Зустрінемось!</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bye_2">
+		<text>Бувай, мен.</text>
+	</string>
+
+	<string id="st_nsp_freedom_leader_bye_3">
+		<text>Ну, добре, братику.\nЗаглядай, раптом що.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_1_1">
+		<text>Ця дохлятина, Шток, сьогодні розпорола Мазаю пузо.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_1_2">
+		<text>Горщик говорить, вранці зберемо бригаду і вирушимо на пошуки кабана.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_1_3">
+		<text>Та хріна з два я буду чекати ранку!</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_1_4">
+		<text>Доки не стемніло, вирушу сам і ікла йому повириваю!</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_1_5">
+		<text>Мисливці ми врешті-решт чи бздуни боягузливі?!</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_2_1">
+		<text>Хріндець...</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_2_2">
+		<text>Намагався вистежити тварину, а він з нізвідки вибіг і збив мене з ніг.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_2_3">
+		<text>Доки валяються у відключці, ця тварюка притягнула мене у свою нору.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_2_4">
+		<text>Чорт, боляче ж як... Не можу навіть поворухнутись.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_2_5">
+		<text>Зв'язок не ловить у цій довбаній норі.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_2_6">
+		<text>Я випустив десь рушницю, але пістолет з бронебійними ще зі мною.</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_2_7">
+		<text>Коли Шток повернеться, я йому влаштую...</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_2_8">
+		<text>Твою ж мати!</text>
+	</string>
+
+	<string id="st_nsp_hunters_hunter_corp_general_boar_record_2_9">
+		<text>...</text>
+	</string>
+
 </string_table>

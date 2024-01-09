@@ -1,120 +1,160 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_stalker_esc_army_base_smart">
-    <text>РљРѕСЂРґРѕРЅ. Р‘Р»РѕРєРїРѕСЃС‚ РІС–Р№СЃСЊРєРѕРІРёС….</text>
-  </string>
-  <string id="st_stalker_esc_village_smart">
-    <text>РљРѕСЂРґРѕРЅ. РЎРµР»РёС‰Рµ.</text>
-  </string>
-  <string id="st_stalker_esc_dogs_smart">
-    <text>РљРѕСЂРґРѕРЅ. Р‘РѕР»С–С‚С†Рµ.</text>
-  </string>
-  <string id="st_stalker_esc_kutek_smart">
-    <text>РљРѕСЂРґРѕРЅ. РўСѓРЅРµР»СЊ С–Р· В«Р•Р»РµРєС‚СЂР°РјРёВ».</text>
-  </string>
-  <string id="st_stalker_esc_bandit_smart">
-    <text>РљРѕСЂРґРѕРЅ. РўСѓРЅРµР»СЊ Сѓ РўРµРјРЅСѓ РґРѕР»РёРЅСѓ.</text>
-  </string>
-  <string id="st_stalker_esc_banda_smart">
-    <text>РљРѕСЂРґРѕРЅ. РњС–СЃС†РёРЅР° Р±С–Р»СЏ РІР°РіРѕРЅС‡РёРєР°.</text>
-  </string>
-  <string id="st_stalker_esc_polter_smart">
-    <text>РљРѕСЂРґРѕРЅ. Р‘РѕР»РѕС‚Рѕ Р· Р°РЅРѕРјР°Р»С–СЏРјРё.</text>
-  </string>
-  <string id="st_stalker_esc_scientists_smart">
-    <text>РљРѕСЂРґРѕРЅ. Р—Р° РґРѕСЂРѕРіРѕСЋ.</text>
-  </string>
-  <string id="st_stalker_esc_logovo_smart">
-    <text>РљРѕСЂРґРѕРЅ. РќРѕСЂР° РјСѓС‚Р°РЅС‚С–РІ.</text>
-  </string>
-  <string id="st_stalker_esc_nora_monsters_smart">
-    <text>РљРѕСЂРґРѕРЅ. РќРµРїРѕРґР°Р»С–Рє РЅРѕСЂРё.</text>
-  </string>
-  <string id="st_stalker_esc_atp_smart">
-    <text>РљРѕСЂРґРѕРЅ. РђРўРџ.</text>
-  </string>
-  <string id="st_stalker_esc_bandits_car_smart">
-    <text>РљРѕСЂРґРѕРЅ. РќРµРґР°Р»РµРєРѕ РІС–Рґ РљРџРџ РЅР° РЎРјС–С‚РЅРёРєСѓ.</text>
-  </string>
-  <string id="st_stalker_esc_tushkano_smart">
-    <text>РљРѕСЂРґРѕРЅ. Р›С–РіРІРѕ С‚СѓС€РєР°РЅС–РІ.</text>
-  </string>
-  <string id="st_stalker_esc_mflesh_smart">
-    <text>РљРѕСЂРґРѕРЅ. Р›С–РіРІРѕ РїР»РѕС‚РµР№.</text>
-  </string>
-  <string id="st_stalker_esc_boars_most_smart">
-    <text>РљРѕСЂРґРѕРЅ. Р›С–РіРІРѕ РєР°Р±Р°РЅС–РІ.</text>
-  </string>
-  <string id="st_stalker_esc_bridge_zone_smart">
-    <text>РљРѕСЂРґРѕРЅ. РњС–СЃС‚.</text>
-  </string>
-  <string id="st_stalker_gar_kladbishe">
-    <text>РЎРјС–С‚РЅРёРє. РљР»Р°РґРѕРІРёС‰Рµ С‚РµС…РЅС–РєРё.</text>
-  </string>
-  <string id="st_stalker_gar_stalker_base">
-    <text>РЎРјС–С‚РЅРёРє. Р‘Р°Р·Р° СЃС‚Р°Р»РєРµСЂС–РІ.</text>
-  </string>
-  <string id="st_stalker_gar_mishgan_smart">
-    <text>РЎРјС–С‚РЅРёРє. Р‘С–Р»СЏ РїРµСЂРµС…РѕРґСѓ РЅР° РљРѕСЂРґРѕРЅ.</text>
-  </string>
-  <string id="st_stalker_gar_dolg_zastava">
-    <text>РЎРјС–С‚РЅРёРє. Р—Р°СЃС‚Р°РІР° В«Р”РѕР»РіСѓВ».</text>
-  </string>
-  <string id="st_stalker_gar_desertir_smart">
-    <text>РЎРјС–С‚РЅРёРє. Р‘Р°СЂР°С…РѕР»РєР°.</text>
-  </string>
-  <string id="st_stalker_gar_jurok_smart">
-    <text>РЎРјС–С‚РЅРёРє. Р‘С–Р»СЏ РїРµСЂРµС…РѕРґСѓ РЅР° РљРѕСЂРґРѕРЅ в„–2.</text>
-  </string>
-  <string id="st_stalker_gar_dogs_desertir">
-    <text>РЎРјС–С‚РЅРёРє. Р—СѓРїРёРЅРєР°.</text>
-  </string>
-  <string id="st_stalker_gar_ambush">
-    <text>РЎРјС–С‚РЅРёРє. Р¦РµРЅС‚СЂР°Р»СЊРЅР° РґРѕСЂРѕРіР°.</text>
-  </string>
-  <string id="st_stalker_gar_corvalol">
-    <text>РЎРјС–С‚РЅРёРє. Р—Р° Р±Р°СЂР°С…РѕР»РєРѕСЋ.</text>
-  </string>
-  <string id="st_stalker_gar_forest_scene">
-    <text>РЎРјС–С‚РЅРёРє. Р›С–СЃ.</text>
-  </string>
-  <string id="st_stalker_gar_tushkano_indoor">
-    <text>РЎРјС–С‚РЅРёРє. РџС–РґР·РµРјРєР° РїС–Рґ Р°РЅРіР°СЂРѕРј.</text>
-  </string>
-  <string id="st_stalker_gar_boars_smart">
-    <text>РЎРјС–С‚РЅРёРє. Р›С–РіРІРѕ РєР°Р±Р°РЅС–РІ.</text>
-  </string>
-  <string id="st_stalker_gar_pseudodogs_smart">
-    <text>РЎРјС–С‚РЅРёРє. Р›С–РіРІРѕ СЃРѕР±Р°Рє.</text>
-  </string>
-  <string id="st_stalker_gar_flesh_smart">
-    <text>РЎРјС–С‚РЅРёРє. Р›С–РіРІРѕ РїР»РѕС‚РµР№.</text>
-  </string>
-  <string id="st_stalker_gar_zombie_forest">
-    <text>РЎРјС–С‚РЅРёРє. Р›С–СЃ 2.</text>
-  </string>
-  <string id="st_stalker_gar_tonnel_bandits">
-    <text>РЎРјС–С‚РЅРёРє. Р‘Р°РЅРґРёС‚СЃСЊРєРёР№ С‚СѓРЅРµР»СЊ.</text>
-  </string>
-  <string id="st_stalker_agr_diggers">
-    <text>В«РђРіСЂРѕРїСЂРѕРјВ». Р‘Р°Р·Р° РґРёРіРµСЂС–РІ.</text>
-  </string>
-  <string id="st_stalker_agr_pseudogiant">
-    <text>В«РђРіСЂРѕРїСЂРѕРјВ». Р›С–РіРІРѕ РїСЃРµРІРґРѕРіС–РіР°РЅС‚Р°.</text>
-  </string>
-  <string id="st_esc_village_smart_name">
-    <text>РЎРµР»РёС‰Рµ</text>
-  </string>
-  <string id="st_stalker_esc_sim_1">
-    <text>РќР° С„РµСЂРјСѓ Р№РґСѓ: С‚Р°Рј РґРѕР±СЂРµ РјС–СЃС†Рµ РґР»СЏ РІС–РґРїРѕС‡РёРЅРєСѓ.</text>
-  </string>
-  <string id="st_esc_sim_1_name">
-    <text>Р¤РµСЂРјР°</text>
-  </string>
-  <string id="st_stalker_esc_stalkers_most_smart">
-    <text>Р†РґСѓ РґРѕ СЂСѓС—РЅ С…СѓС‚РѕСЂР°, С‰Рѕ РЅРµРїРѕРґР°Р»С–Рє РјРѕСЃС‚Сѓ. РўР°Рј РїСЂРёРІР°Р» РјРѕР¶РЅР° РіР°СЂРЅРёР№ Р·СЂРѕР±РёС‚Рё.</text>
-  </string>
-  <string id="st_esc_stalkers_most_smart_name">
-    <text>Р СѓС—РЅРё С…СѓС‚РѕСЂР°</text>
-  </string>
+
+	<string id="st_stalker_esc_army_base_smart">
+		<text>Кордон. Блокпост військових.</text>
+	</string>
+
+	<string id="st_stalker_esc_village_smart">
+		<text>Кордон. Селище.</text>
+	</string>
+
+	<string id="st_stalker_esc_dogs_smart">
+		<text>Кордон. Болітце.</text>
+	</string>
+
+	<string id="st_stalker_esc_kutek_smart">
+		<text>Кордон. Тунель із «Електрами».</text>
+	</string>
+
+	<string id="st_stalker_esc_bandit_smart">
+		<text>Кордон. Тунель у Темну долину.</text>
+	</string>
+
+	<string id="st_stalker_esc_banda_smart">
+		<text>Кордон. Місцина біля вагончика.</text>
+	</string>
+
+	<string id="st_stalker_esc_polter_smart">
+		<text>Кордон. Болото з аномаліями.</text>
+	</string>
+
+	<string id="st_stalker_esc_scientists_smart">
+		<text>Кордон. За дорогою.</text>
+	</string>
+
+	<string id="st_stalker_esc_logovo_smart">
+		<text>Кордон. Нора мутантів.</text>
+	</string>
+
+	<string id="st_stalker_esc_nora_monsters_smart">
+		<text>Кордон. Неподалік нори.</text>
+	</string>
+
+	<string id="st_stalker_esc_atp_smart">
+		<text>Кордон. АТП.</text>
+	</string>
+
+	<string id="st_stalker_esc_bandits_car_smart">
+		<text>Кордон. Недалеко від КПП на Смітнику.</text>
+	</string>
+
+	<string id="st_stalker_esc_tushkano_smart">
+		<text>Кордон. Лігво тушканів.</text>
+	</string>
+
+	<string id="st_stalker_esc_mflesh_smart">
+		<text>Кордон. Лігво плотей.</text>
+	</string>
+
+	<string id="st_stalker_esc_boars_most_smart">
+		<text>Кордон. Лігво кабанів.</text>
+	</string>
+
+	<string id="st_stalker_esc_bridge_zone_smart">
+		<text>Кордон. Міст.</text>
+	</string>
+
+	<string id="st_stalker_gar_kladbishe">
+		<text>Смітник. Кладовище техніки.</text>
+	</string>
+
+	<string id="st_stalker_gar_stalker_base">
+		<text>Смітник. База сталкерів.</text>
+	</string>
+
+	<string id="st_stalker_gar_mishgan_smart">
+		<text>Смітник. Біля переходу на Кордон.</text>
+	</string>
+
+	<string id="st_stalker_gar_dolg_zastava">
+		<text>Смітник. Застава «Долгу».</text>
+	</string>
+
+	<string id="st_stalker_gar_desertir_smart">
+		<text>Смітник. Барахолка.</text>
+	</string>
+
+	<string id="st_stalker_gar_jurok_smart">
+		<text>Смітник. Біля переходу на Кордон №2.</text>
+	</string>
+
+	<string id="st_stalker_gar_dogs_desertir">
+		<text>Смітник. Зупинка.</text>
+	</string>
+
+	<string id="st_stalker_gar_ambush">
+		<text>Смітник. Центральна дорога.</text>
+	</string>
+
+	<string id="st_stalker_gar_corvalol">
+		<text>Смітник. За барахолкою.</text>
+	</string>
+
+	<string id="st_stalker_gar_forest_scene">
+		<text>Смітник. Ліс.</text>
+	</string>
+
+	<string id="st_stalker_gar_tushkano_indoor">
+		<text>Смітник. Підземка під ангаром.</text>
+	</string>
+
+	<string id="st_stalker_gar_boars_smart">
+		<text>Смітник. Лігво кабанів.</text>
+	</string>
+
+	<string id="st_stalker_gar_pseudodogs_smart">
+		<text>Смітник. Лігво собак.</text>
+	</string>
+
+	<string id="st_stalker_gar_flesh_smart">
+		<text>Смітник. Лігво плотей.</text>
+	</string>
+
+	<string id="st_stalker_gar_zombie_forest">
+		<text>Смітник. Ліс 2.</text>
+	</string>
+
+	<string id="st_stalker_gar_tonnel_bandits">
+		<text>Смітник. Бандитський тунель.</text>
+	</string>
+
+	<string id="st_stalker_agr_diggers">
+		<text>«Агропром». База дигерів.</text>
+	</string>
+
+	<string id="st_stalker_agr_pseudogiant">
+		<text>«Агропром». Лігво псевдогіганта.</text>
+	</string>
+
+	<string id="st_esc_village_smart_name">
+		<text>Селище</text>
+	</string>
+
+	<string id="st_stalker_esc_sim_1">
+		<text>На ферму йду: там добре місце для відпочинку.</text>
+	</string>
+
+	<string id="st_esc_sim_1_name">
+		<text>Ферма</text>
+	</string>
+
+	<string id="st_stalker_esc_stalkers_most_smart">
+		<text>Іду до руїн хутора, що неподалік мосту. Там привал можна гарний зробити.</text>
+	</string>
+
+	<string id="st_esc_stalkers_most_smart_name">
+		<text>Руїни хутора</text>
+	</string>
+
 </string_table>

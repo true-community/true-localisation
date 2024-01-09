@@ -1,615 +1,820 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_new_achievement">
-    <text>РќРѕРІРѕРµ РґРѕСЃС‚РёР¶РµРЅРёРµ</text>
-  </string>
-  <string id="st_general_in_item">
-    <text>РџРћР›РЈР§Р•Рќ РџР Р•Р”РњР•Рў</text>
-  </string>
-  <string id="st_general_in_items">
-    <text>РџРћР›РЈР§Р•РќР« РџР Р•Р”РњР•РўР«</text>
-  </string>
-  <string id="st_general_in_money">
-    <text>РџРћР›РЈР§Р•РќР« Р”Р•РќР¬Р“Р</text>
-  </string>
-  <string id="st_general_out_item">
-    <text>РџРћРўР•Р РЇРќ РџР Р•Р”РњР•Рў</text>
-  </string>
-  <string id="st_general_out_items">
-    <text>РџРћРўР•Р РЇРќР« РџР Р•Р”РњР•РўР«</text>
-  </string>
-  <string id="st_general_out_money">
-    <text>РџРћРўР•Р РЇРќР« Р”Р•РќР¬Р“Р</text>
-  </string>
-  <string id="st_lock_save">
-    <text>РЎРµР№С‡Р°СЃ РІС‹ РЅРµ РјРѕР¶РµС‚Рµ СЃРѕС…СЂР°РЅРёС‚СЊ РёРіСЂСѓ!</text>
-  </string>
-  <string id="esc_start_show_mesto">
-    <text>Р§Р•Р РќРћР‘Р«Р›Р¬РЎРљРђРЇ Р—РћРќРђ РћРўР§РЈР–Р”Р•РќРРЇ. РљРћР Р”РћРќ</text>
-  </string>
-  <string id="esc_start_show_date">
-    <text>4 РР®РќРЇ. 2013 Р“РћР”</text>
-  </string>
-  <string id="chapter_title">
-    <text>Р“Р›РђР’Рђ</text>
-  </string>
-  <string id="chapter_1">
-    <text>В«РџР РР‘Р«РўРР•В»</text>
-  </string>
-  <string id="chapter_2">
-    <text>В«Р—Рђ РљРћР Р”РћРќРћРњВ»</text>
-  </string>
-  <string id="chapter_3">
-    <text>В«Р‘РђРќР”РРўРЎРљРђРЇ Р”РћР›РРќРђВ»</text>
-  </string>
-  <string id="chapter_4">
-    <text>В«РҐРћР—РЇРРќ РџРћР”Р—Р•РњР•Р›РР™В»</text>
-  </string>
-  <string id="chapter_5">
-    <text>В«РўР РђРќРЎРњРЈРўРђР¦РРЇВ»</text>
-  </string>
-  <string id="chapter_6">
-    <text>В«РђР РўР•Р¤РђРљРў РЎРњР•Р РўРВ»</text>
-  </string>
-  <string id="chapter_7">
-    <text>В«Р’ Р§РЃР РќРћР™ Р—РђР’РћР”Р РљРћР›РћР”Р¦РђВ»</text>
-  </string>
-  <string id="chapter_8">
-    <text>В«Р›РР¦РћРњ Рљ Р›РР¦РЈВ»</text>
-  </string>
-  <string id="chapter_9">
-    <text>В«Р РђР—Р’РЇР—РљРђВ»</text>
-  </string>
-  <string id="esc_task_for_trailer_text">
-    <text>РќР•РљРћРўРћР РћР• Р’Р Р•РњРЇ РЎРџРЈРЎРўРЇ</text>
-  </string>
-  <string id="esc_nora_dinamit_explode">
-    <text>Р”Рѕ РІР·СЂС‹РІР° РѕСЃС‚Р°Р»РѕСЃСЊ</text>
-  </string>
-  <string id="st_ts_nosleep">
-    <text>РљР°РєРѕР№ СЃРѕРЅ?! РџСЂРѕСЃРїР°Р»СЃСЏ СѓР¶Рµ, РёРґРё СЂР°Р±РѕС‚Р°Р№!</text>
-  </string>
-  <string id="esc_scients_message_forward_time">
-    <text>РџСЂРѕС€Р»Рѕ 10 РјРёРЅСѓС‚</text>
-  </string>
-  <string id="sr_lc_possible">
-    <text>РџР•Р Р•Р™РўР РќРђ Р”Р РЈР“РЈР® Р›РћРљРђР¦РР®</text>
-  </string>
-  <string id="sr_lc_esc_to_gar_impossible">
-    <text>РќРЈР–РќРћ Р—РђРљРћРќР§РРўР¬ Р”Р•Р›Рђ РќРђ РљРћР Р”РћРќР•</text>
-  </string>
-  <string id="esc_to_nsp_level_changer_disabled">
-    <text>Р’РџР•Р Р•Р”Р РќР•Р РђР—Р’Р•Р”РђРќРќРђРЇ РўР•Р Р РРўРћР РРЇ</text>
-  </string>
-  <string id="esc_to_mar_fake_level_changer_disabled">
-    <text>РџРЈРўР¬ РќРђ Р‘РћР›РћРўРђ Р’ РћР”РРќРћР§РљРЈ вЂ” Р’Р•Р РќРђРЇ РЎРњР•Р РўР¬</text>
-  </string>
-  <string id="labx18_lc_to_val_impossible">
-    <text>РЎР•Р™Р§РђРЎ РќР•Р›Р¬Р—РЇ РЈР™РўР</text>
-  </string>
-  <string id="agr_to_gar_level_changers_disabled">
-    <text>Р”Р•Р™РЎРўР’РР• Р’Р Р•РњР•РќРќРћ РќР•Р”РћРЎРўРЈРџРќРћ</text>
-  </string>
-  <string id="esc_technic_repair_ar_compl">
-    <text>РЇ Р·Р°РєРѕРЅС‡РёР» СЃ СЂРµРјРѕРЅС‚РѕРј, РјРѕР¶РµС€СЊ Р·Р°Р±РёСЂР°С‚СЊ СЃРІРѕР№ РєР°Р»Р°С€.</text>
-  </string>
-  <string id="default_clear">
-    <text>Р‘РµР·РѕР±Р»Р°С‡РЅРѕ</text>
-  </string>
-  <string id="default_rain">
-    <text>Р”РѕР¶РґСЊ</text>
-  </string>
-  <string id="default_thunder">
-    <text>Р“СЂРѕР·Р°</text>
-  </string>
-  <string id="default_cloudy">
-    <text>РџР°СЃРјСѓСЂРЅРѕ</text>
-  </string>
-  <string id="weather_surge">
-    <text>Р’С‹Р±СЂРѕСЃ!</text>
-  </string>
-  <string id="time_morning">
-    <text>СѓС‚СЂРѕ</text>
-  </string>
-  <string id="time_day">
-    <text>РґРµРЅСЊ</text>
-  </string>
-  <string id="time_evening">
-    <text>РІРµС‡РµСЂ</text>
-  </string>
-  <string id="time_night">
-    <text>РЅРѕС‡СЊ</text>
-  </string>
-  <string id="weather_manager">
-    <text>РџРѕРіРѕРґР°</text>
-  </string>
-  <string id="esc_actor_message_not_pay_for_fuel">
-    <text>РЎР»СѓС€Р°Р№, РјСѓР¶РёРє, С‚СѓС‚ С‚РµС…РЅРёРє Р±Р°Р±РєРё Р·Р° Р±РµРЅР·РёРЅ С‚СЂРµР±СѓРµС‚, СЏ РїР»Р°С‚РёС‚СЊ РЅРµ СЃС‚Р°РЅСѓ, РґР°РІР°Р№ РєР°Рє-РЅРёР±СѓРґСЊ СЃР°Рј. РЈРґР°С‡Рё.</text>
-  </string>
-  <string id="esc_stalker_car_message_help">
-    <text>Р”Р° РїР»РµРІР°С‚СЊ РјРЅРµ СЃРµР№С‡Р°СЃ РЅР° Р±РµРЅР·РёРЅ! РџРѕРјРѕРіРё РјРЅРµ, РЅР° РјРµРЅСЏ Р±Р°РЅРґРёС‚С‹ РїСЂСѓС‚!</text>
-  </string>
-  <string id="esc_actor_message_for_help_stalker_car">
-    <text>РўРІРѕСЋ Р¶ РјР°С‚СЊ... Р”РµСЂР¶РёСЃСЊ, СЏ РёРґСѓ!</text>
-  </string>
-  <string id="gar_jurok_sms_soldier">
-    <text>РџСЂРёРІРµС‚, РґСЂСѓРіР°РЅ! Р—Р°Р±С‹Р» РІС‡РµСЂР° СЃРѕРѕР±С‰РёС‚СЊ, С‡С‚Рѕ РІРѕСЏРєСѓ СЏ РїСЂРѕРІРѕРґРёР». Р РµР°Р»СЊРЅРѕ СЃРѕР»РёРґРЅРѕ Р·Р°РїР»Р°С‚РёР»! РЎРїР°СЃРёР±Рѕ Р·Р° РЅР°РІРѕРґРєСѓ. РЇ РІ РґРѕР»РіСѓ РЅРµ РѕСЃС‚Р°РЅСѓСЃСЊ! Р”Рѕ СЃРІСЏР·Рё!</text>
-  </string>
-  <string id="gar_stalker_medic_message_not_see_bloodsucker">
-    <text>РЇ РµРіРѕ РїРѕС‚РµСЂСЏР»! Р§С‘СЂС‚, РєР°Р¶РµС‚СЃСЏ, РѕРЅ РѕР±СЂР°С‚РёР»СЃСЏ РІ РЅРµРІРёРґРёРјРѕРіРѕ... Р‘С‹СЃС‚СЂРѕ РіРѕРЅРё РµРіРѕ РєРѕ РјРЅРµ, РёРЅР°С‡Рµ РѕРЅ С‚РµР±СЏ РїРѕСЂРµС€РёС‚!</text>
-  </string>
-  <string id="gar_stalkers_meet_corpse_info">
-    <text>РРЅС„РѕСЂРјР°С†РёСЏ СЃ С‚СЂСѓРїР° СЃС‚Р°Р»РєРµСЂР°</text>
-  </string>
-  <string id="gar_actor_info_code">
-    <text>РљРѕРґ РѕС‚ СЃРµР№С„Р°: 127625</text>
-  </string>
-  <string id="agr_diggers_safe_locked">
-    <text>РЎРµР№С„ Р·Р°РєСЂС‹С‚: РЅСѓР¶РµРЅ РєРѕРґ</text>
-  </string>
-  <string id="safe_door_locked">
-    <text>Р—Р°РїРµСЂС‚Рѕ</text>
-  </string>
-  <string id="agr_diggers_safe_locked_2">
-    <text>РќСѓР¶РЅРѕ РёР·Р±Р°РІРёС‚СЊСЃСЏ РѕС‚ РїРѕСЃС‚РѕСЂРѕРЅРЅРёС…, С‡С‚РѕР±С‹ РЅРµ РїСЂРёРІР»РµС‡СЊ РІРЅРёРјР°РЅРёСЏ</text>
-  </string>
-  <string id="agr_diggers_box_locked">
-    <text>Р—Р°РєСЂС‹С‚Рѕ: РЅСѓР¶РµРЅ РєР»СЋС‡</text>
-  </string>
-  <string id="labx18_monster_scene_door_tip">
-    <text>Р§С‚Рѕ-С‚Рѕ СѓРґРµСЂР¶РёРІР°РµС‚ РґРІРµСЂСЊ</text>
-  </string>
-  <string id="labx18_codedoor_locked">
-    <text>РќСѓР¶РµРЅ РєРѕРґ</text>
-  </string>
-  <string id="ts_build_sender">
-    <text>Overfirst</text>
-  </string>
-  <string id="ts_build_text">
-    <text>Р‘РёР»Рґ РїСЂРѕР№РґРµРЅ! РћСЃС‚Р°РІС€РёРµСЃСЏ РєРІРµСЃС‚С‹ СЃРµР№С‡Р°СЃ РІС‹РїРѕР»РЅРёС‚СЊ РЅРµРІРѕР·РјРѕР¶РЅРѕ.</text>
-  </string>
-  <string id="st_lchanger_disabled">
-    <text>Р—Р°РєСЂС‹С‚С‹Р№ РїРµСЂРµС…РѕРґ</text>
-  </string>
-  <string id="st_lchanger_to_escape">
-    <text>РќР° РљРѕСЂРґРѕРЅ</text>
-  </string>
-  <string id="st_lchanger_to_garbage">
-    <text>РќР° РЎРІР°Р»РєСѓ</text>
-  </string>
-  <string id="st_lchanger_to_agroprom">
-    <text>РќР° РђРіСЂРѕРїСЂРѕРј</text>
-  </string>
-  <string id="st_lchanger_to_agroprom_underground">
-    <text>Р’ РџРѕРґР·РµРјРµР»СЊСЏ РђРіСЂРѕРїСЂРѕРјР°</text>
-  </string>
-  <string id="st_lchanger_to_darkvalley">
-    <text>Р’ РўС‘РјРЅСѓСЋ Р”РѕР»РёРЅСѓ</text>
-  </string>
-  <string id="st_lchanger_to_labx18">
-    <text>Р’ Р›Р°Р±РѕСЂР°С‚РѕСЂРёСЋ РҐ-18</text>
-  </string>
-  <string id="level_changer_invitation">
-    <text>РџР•Р Р•РҐРћР” РќРђ Р”Р РЈР“РЈР® Р›РћРљРђР¦РР®</text>
-  </string>
-  <string id="esc_to_gar_level_changer_disabled">
-    <text>РќРЈР–РќРћ Р—РђРљРћРќР§РРўР¬ Р”Р•Р›Рђ РќРђ РљРћР Р”РћРќР•</text>
-  </string>
-  <string id="val_to_labx18_level_changer_disabled">
-    <text>РЎР•Р™Р§РђРЎ РќР•Р›Р¬Р—РЇ РџРћРџРђРЎРўР¬ Р’ Р›РђР‘РћР РђРўРћР РР®</text>
-  </string>
-  <string id="agr_to_mar_level_changer_disabled">
-    <text>Р”РђР›Р¬РЁР• Р”РћР РћР“Р РќР•Рў</text>
-  </string>
-  <string id="agr_to_und_level_changers_disabled">
-    <text>Р”РђР›Р¬РЁР• РР”РўР РЎР›РРЁРљРћРњ РћРџРђРЎРќРћ</text>
-  </string>
-  <string id="esc_technic_repair_groza_complete">
-    <text>Р­Р№, СЃС‚Р°Р»РєРµСЂ, СЏ Р·Р°РєРѕРЅС‡РёР» СЃ С‚РІРѕРµР№ РІРёРЅС‚РѕРІРєРѕР№. РњРѕР¶РµС€СЊ Р·Р°Р±РёСЂР°С‚СЊ.</text>
-  </string>
-  <string id="st_pda_change_spot_hint">
-    <text>РџРµСЂРµРёРјРµРЅРѕРІР°С‚СЊ</text>
-  </string>
-  <string id="st_pda_add_spot">
-    <text>Р”РѕР±Р°РІРёС‚СЊ РјРµС‚РєСѓ</text>
-  </string>
-  <string id="st_pda_delete_spot">
-    <text>РЈРґР°Р»РёС‚СЊ РјРµС‚РєСѓ</text>
-  </string>
-  <string id="kat_boss_note_text_1">
-    <text>Р”РѕС‡Р°, РєР°Рє РІРµСЂРЅРµС€СЊСЃСЏ РёР· С€РєРѕР»С‹</text>
-  </string>
-  <string id="kat_boss_note_text_2">
-    <text>вЂ” РЅРµ Р·Р°Р±СѓРґСЊ РїРѕРєСѓС€Р°С‚СЊ, СЃРґРµР»Р°С‚СЊ</text>
-  </string>
-  <string id="kat_boss_note_text_3">
-    <text>СѓСЂРѕРєРё. РЈС‡С‘РЅС‹Рµ РґСЏРґРё</text>
-  </string>
-  <string id="kat_boss_note_text_4">
-    <text>РѕСЂРіР°РЅРёР·РѕРІР°Р»Рё РєР°РєРѕРµ-С‚Рѕ РѕР±С‰РµРµ</text>
-  </string>
-  <string id="kat_boss_note_text_5">
-    <text>СЃРѕР±СЂР°РЅРёРµ, РЅР°РґРѕ Р±СѓРґРµС‚ СЃС…РѕРґРёС‚СЊ вЂ”</text>
-  </string>
-  <string id="kat_boss_note_text_6">
-    <text>РЅРµ С‚РµСЂСЏР№, Р·Р°РґРµСЂР¶СѓСЃСЊ РЅР° РїР°СЂСѓ</text>
-  </string>
-  <string id="kat_boss_note_text_7">
-    <text>С‡Р°СЃРѕРІ. Р¦РµР»СѓСЋ, Р±СѓРґСЊ СѓРјРЅРёС‡РєРѕР№.</text>
-  </string>
-  <string id="kat_boss_note_text_8">
-    <text>РџР°РїР°! РќР°СЃ СЃ РјР°РјРѕР№ Рё РЎР°С€РєРѕР№ СѓРІРѕР·СЏС‚ РёР· РґРµСЂРµРІРЅРё!</text>
-  </string>
-  <string id="kat_boss_note_text_9">
-    <text>РўСѓС‚ РѕРїСЏС‚СЊ С‡С‚Рѕ-С‚Рѕ РІР·РѕСЂРІР°Р»РѕСЃСЊ, Рё С‚РµРїРµСЂСЊ РІСЃРµРј РіРѕРІРѕСЂСЏС‚</text>
-  </string>
-  <string id="kat_boss_note_text_10">
-    <text>СѓРµС…Р°С‚СЊ. РњР°РјР° РґСѓРјР°РµС‚, С‚С‹ РЅРµ РІРµСЂРЅС‘С€СЊСЃСЏ, Р° СЏ РІ СЌС‚Рѕ РЅРµ</text>
-  </string>
-  <string id="kat_boss_note_text_11">
-    <text>РІРµСЂСЋ! РЇ Р·РЅР°СЋ, С‡С‚Рѕ С‚С‹ РІРµСЂРЅС‘С€СЊСЃСЏ Рё Р±СѓРґРµС€СЊ СЃ РЅР°РјРё,</text>
-  </string>
-  <string id="kat_boss_note_text_12">
-    <text>РїР°РїРѕС‡РєР°. РЇ С‚РµР±СЏ РѕС‡РµРЅСЊ Р»СЋР±Р»СЋ!</text>
-  </string>
-  <string id="kat_boss_note_text_13">
-    <text>[РЅРёР¶Рµ РґРѕРїРёСЃР°РЅРѕ РґСЂСѓРіРёРј РїРѕС‡РµСЂРєРѕРј]</text>
-  </string>
-  <string id="gar_stalker_medic_after_katakomb">
-    <text>РЎС‚Р°Р»РєРµСЂ, Сѓ РјРµРЅСЏ РµСЃС‚СЊ РёРЅС‚РµСЂРµСЃРЅРѕРµ РїСЂРµРґР»РѕР¶РµРЅРёРµ. Р—Р°РєР°РЅС‡РёРІР°Р№ СЃ РґРµР»Р°РјРё Рё РїРѕРґСЂСѓР»РёРІР°Р№. Р–РґСѓ.</text>
-  </string>
-  <string id="agr_stalker_help_sos_sms">
-    <text>Р•СЃС‚СЊ РєС‚Рѕ РїРѕР±Р»РёР·РѕСЃС‚Рё? РЎСЂРѕС‡РЅРѕ РЅСѓР¶РЅР° РїРѕРјРѕС‰СЊ! Р–РґСѓ Сѓ РІС…РѕРґР° РІ РїРѕРґР·РµРјРµР»СЊСЏ!</text>
-  </string>
-  <string id="nsp_masters_stalker_leader_hello_message">
-    <text>РџРѕРґС…РѕРґРё, СЃС‚Р°Р»РєРµСЂ. РџРѕСЃРёРґРёРј, РїРѕР±РѕР»С‚Р°РµРј.</text>
-  </string>
-  <string id="nsp_to_esc_level_changer_disabled_one">
-    <text>РЎР•Р™Р§РђРЎ РќР•Р‘Р•Р—РћРџРђРЎРќРћ РџРћРљРР”РђРўР¬ РќРћР’РћРЁР•РџР•Р›РР§Р</text>
-  </string>
-  <string id="nsp_to_esc_level_changer_disabled_two">
-    <text>РЎРќРђР§РђР›Рђ РЎР›Р•Р”РЈР•Рў РР—Р‘РђР’РРўР¬РЎРЇ РћРў РўР РђРќРЎРњРЈРўРђРўРђ</text>
-  </string>
-  <string id="nsp_to_esc_level_changer_disabled_three">
-    <text>РЎР•Р™Р§РђРЎ РќРЈР–РќРћ РР”РўР РќРђ РљРћР Р”РћРќ</text>
-  </string>
-  <string id="level_changer_disabled_anomalies">
-    <text>Р”РћР РћР“Рђ Р’РџР•Р Р•Р”Р РџРћР›РќРђ РђРќРћРњРђР›РР™</text>
-  </string>
-  <string id="agr_to_bar_level_changer_disabled">
-    <text>РќР•Рў Р РђР—Р Р•РЁР•РќРРЇ Р”Р›РЇ РџР РћРҐРћР”Рђ Р’ Р‘РђР </text>
-  </string>
-  <string id="nsp_hunters_sleep_locked_text">
-    <text>РљР°РєРѕР№ СЃРѕРЅ? Р—Р°С…Р°СЂ Р¶РґР°С‚СЊ РЅРµ Р±СѓРґРµС‚!</text>
-  </string>
-  <string id="gar_to_bar_level_changer_locked">
-    <text>РќР•Рў Р РђР—Р Р•РЁР•РќРРЇ Р“Р РЈРџРџРР РћР’РљР В«Р”РћР›Р“В»!</text>
-  </string>
-  <string id="esc_to_gar_level_changer_two_disabled">
-    <text>Р’РџР•Р Р•Р”Р Р—РђР’РђР›</text>
-  </string>
-  <string id="agru_to_agr_level_changer_lock">
-    <text>Р—РђРљР Р«РўРћ</text>
-  </string>
-  <string id="kat_to_val_level_changer_lock_message">
-    <text>Р’РѕР·РІСЂР°С‰Р°С‚СЊСЃСЏ РЅР° Р±Р°РЅРґРёС‚СЃРєСѓСЋ Р±Р°Р·Сѓ вЂ” СЃР°РјРѕСѓР±РёР№СЃС‚РІРѕ. РЎС‚РѕРёС‚ РїРѕРёСЃРєР°С‚СЊ РґСЂСѓРіРѕР№ РїСѓС‚СЊ.</text>
-  </string>
-  <string id="esc_scientists_task_fail_actor_message_device_taken">
-    <text>РЎРёРґРѕСЂС‹С‡, СЏ С‡СѓРґРѕРј РІС‹Р¶РёР» Рё СЂР°Р·РґРѕР±С‹Р» СѓСЃС‚СЂРѕР№СЃС‚РІРѕ СѓС‡С‘РЅС‹С…. РўРµР±Рµ РїСЂРёС‚Р°С‰РёС‚СЊ?</text>
-  </string>
-  <string id="esc_scientists_task_fail_trader_message_device_taken">
-    <text>РќРµ РІР·РґСѓРјР°Р№ С‚Р°Рј РЅРёС‡РµРіРѕ Р±СЂР°С‚СЊ, С…СЂРµРЅ РµРіРѕ Р·РЅР°РµС‚, С‡С‚Рѕ С‚Р°Рј Р·Р° С€С‚СѓРєР° С‚Р°РєР°СЏ! Р–РґСѓ С‚РµР±СЏ Сѓ СЃРµР±СЏ, СЂР°СЃСЃРєР°Р¶РµС€СЊ, С‡С‚Рѕ СЃР»СѓС‡РёР»РѕСЃСЊ.</text>
-  </string>
-  <string id="esc_scientists_task_fail_technic_message_device_taken">
-    <text>РўРѕРїРѕСЂ! РџРѕСЃР»СѓС€Р°Р№, РїСЂРёС‚Р°С‰Рё-РєР° С‚С‹ РјРЅРµ СЌС‚Сѓ Р¶РµР»РµР·РєСѓ, Р±РѕР»СЊРЅРѕ РёРЅС‚РµСЂРµСЃРЅРѕ, С‡С‚Рѕ РѕРЅР° РёР· СЃРµР±СЏ РїСЂРµРґСЃС‚Р°РІР»СЏРµС‚.</text>
-  </string>
-  <string id="esc_scientists_task_fail_actor_second_message_device_taken">
-    <text>РњРёС…Р°Р»С‹С‡? РўС‹ Р·РґРµСЃСЊ РІРѕРѕР±С‰Рµ РєР°Рє, РєР°РєРѕРіРѕ С‡С‘СЂС‚Р°?</text>
-  </string>
-  <string id="esc_scientists_task_fail_technic_second_message_device_taken">
-    <text>РћРїС‹С‚ РІР·Р»РѕРјР° СЃ Р±РѕР»СЊС€РѕР№ Р·РµРјР»Рё, РѕР± СЌС‚РѕРј РїРѕС‚РѕРј. РўР°С‰Рё РїСЂРёР±РѕСЂ РјРЅРµ, СЏ РЅР°Р№РґСѓ, С‡РµРј С‚РµР±СЏ РѕС‚Р±Р»Р°РіРѕРґР°СЂРёС‚СЊ.</text>
-  </string>
-  <string id="esc_trader_angry_message_for_attack_village">
-    <text>Р§С‚Рѕ Сѓ РІР°СЃ С‚Р°Рј РїСЂРѕРёСЃС…РѕРґРёС‚? РџСЂРёРґСѓСЂРѕРє, С‚С‹ РїСЂРёР±РѕСЂ СѓС‡С‘РЅС‹С… РІ РґРµСЂРµРІРЅСЋ РїСЂРёС‚Р°С‰РёР»?! РњРѕР·РіРѕРІ СЃРѕРІСЃРµРј РЅРµС‚!</text>
-  </string>
-  <string id="esc_scientists_task_actor_message_see_device">
-    <text>РЎРёРґРѕСЂ, С‚СѓС‚ РєР°РєР°СЏ-С‚Рѕ Р·Р°РґРЅРёС†Р° С‚РІРѕСЂРёС‚СЃСЏ. Р“РѕР»РѕРІР°СЃС‚С‹Рµ РґРѕС€Р»Рё РґРѕ Р»РµС‚Р°СЋС‰РµР№ РґРµСЂРµРІРЅРё. РћРґРёРЅ РёР· РЅРёС… Р»РµР·РµС‚ РїРѕ С‚РµР»РµРїРѕСЂС‚Р°Рј, РІРїРµСЂРІС‹Рµ С‚Р°РєРѕРµ РІРёР¶Сѓ! РџРѕС…РѕР¶Рµ, С‡С‚Рѕ-С‚Рѕ С‚Р°Рј СЃРѕР±РёСЂР°РµС‚СЃСЏ РІРѕС‚РєРЅСѓС‚СЊ РёР· СЃРІРѕРµРіРѕ РѕР±РѕСЂСѓРґРѕРІР°РЅРёСЏ.</text>
-  </string>
-  <string id="esc_scientists_task_trader_message_for_actor_see_device">
-    <text>РЇСЃРЅРѕ. Р›СѓС‡С€Рµ РЅРµ Р»РµР·СЊ С‚СѓРґР°, РЅРёРєР°РєРёРµ РїСЂРёР±РѕСЂС‹ РјРЅРµ РІ Р±СѓРЅРєРµСЂРµ РЅРµ РЅСѓР¶РЅС‹. РњР°Р»Рѕ Р»Рё, С‡С‚Рѕ С‚Р°Рј РІРЅСѓС‚СЂРё Сѓ СЌС‚РёС… Р¶РµР»РµР·РѕРє.</text>
-  </string>
-  <string id="esc_scientists_task_technic_message_for_actor_first">
-    <text>РўРѕРїРѕСЂ! РЈ РјРµРЅСЏ Рє С‚РµР±Рµ РїСЂРѕСЃСЊР±Р°: РґРѕСЃС‚Р°РЅСЊ РґР»СЏ РјРµРЅСЏ С‚Сѓ С€С‚СѓРєСѓ, РїСЂРѕ РєРѕС‚РѕСЂСѓСЋ С‚С‹ СЃРµР№С‡Р°СЃ С‡С‚Рѕ-С‚Рѕ РіРѕРІРѕСЂРёР» С‚РѕСЂРіРѕРІС†Сѓ. РњРЅРµ С‚РѕР¶Рµ РёРЅС‚РµСЂРµСЃРЅРѕ, С‡С‚Рѕ Р·Р°РјС‹С€Р»СЏСЋС‚ СЌС‚Рё С‡РµСЂС‚Рё.</text>
-  </string>
-  <string id="esc_scientists_task_actor_for_technic_message_first">
-    <text>РњРёС…Р°Р»С‹С‡?! РўС‹ РѕС‚РєСѓРґР° РїСЂРѕ СЌС‚Рѕ Р·РЅР°РµС€СЊ?</text>
-  </string>
-  <string id="esc_scientists_task_technic_message_for_actor_second">
-    <text>РЈ РјРµРЅСЏ СЃРІРѕРё Р»Р°Р·РµР№РєРё. РћРїС‹С‚ РІР·Р»РѕРјР° СЃ Р±РѕР»СЊС€РѕР№ Р·РµРјР»Рё! РЎРµР№С‡Р°СЃ РЅРµ РѕР± СЌС‚РѕРј. Р”РѕСЃС‚Р°РЅСЊ РґР»СЏ РјРµРЅСЏ РїСЂРёР±РѕСЂ, СЏ С‚РµР±СЏ С‰РµРґСЂРѕ РѕС‚Р±Р»Р°РіРѕРґР°СЂСЋ.</text>
-  </string>
-  <string id="esc_scientists_task_actor_for_technic_message_second">
-    <text>РЈР±РµРґРёР». РџРѕСЃС‚Р°СЂР°СЋСЃСЊ. РўРѕР»СЊРєРѕ РїРѕРґРѕР¶РґСѓ, РїРѕРєР° РіРѕР»РѕРІР°СЃС‚С‹Рµ СЃРІР°Р»СЏС‚.</text>
-  </string>
-  <string id="esc_scientists_task_tertiary_actor_message_see_device">
-    <text>РЎРёРґРѕСЂ, СЏ РѕС‚СЃС‚Р°Р» РѕС‚ СѓС‡С‘РЅС‹С…, РЅРѕ СѓР·РЅР°Р» РёР· СЃРѕРѕР±С‰РµРЅРёСЏ РѕРґРЅРѕРіРѕ СЃС‚Р°Р»РєРµСЂР°, С‡С‚Рѕ РѕРЅРё РґРѕС€Р»Рё РґРѕ Р»РµС‚Р°СЋС‰РµР№ РґРµСЂРµРІРЅРё. РћРґРёРЅ РёР· РЅРёС… РїРѕР»РµР· С‡РµСЂРµР· С‚РµР»РµРїРѕСЂС‚С‹ Рё СѓСЃС‚Р°РЅРѕРІРёР» С‚Р°Рј РєР°РєРѕР№-С‚Рѕ РїСЂРёР±РѕСЂ. РњРѕР¶РµС‚, РјРЅРµ РµРіРѕ РґРѕСЃС‚Р°С‚СЊ РїРѕРїСЂРѕР±РѕРІР°С‚СЊ?</text>
-  </string>
-  <string id="esc_scientists_task_tertiary_trader_message_for_actor_see_device">
-    <text>Р›СѓС‡С€Рµ РЅРµ Р»РµР·СЊ С‚СѓРґР°, РЅРёРєР°РєРёРµ РїСЂРёР±РѕСЂС‹ РјРЅРµ РІ Р±СѓРЅРєРµСЂРµ РЅРµ РЅСѓР¶РЅС‹. РњР°Р»Рѕ Р»Рё, С‡С‚Рѕ С‚Р°Рј РІРЅСѓС‚СЂРё Сѓ СЌС‚РёС… Р¶РµР»РµР·РѕРє.</text>
-  </string>
-  <string id="esc_scientists_task_tertiary_technic_message_for_actor_first">
-    <text>РўРѕРїРѕСЂ! РЈ РјРµРЅСЏ Рє С‚РµР±Рµ РїСЂРѕСЃСЊР±Р°: РґРѕСЃС‚Р°РЅСЊ РґР»СЏ РјРµРЅСЏ С‚Сѓ С€С‚СѓРєСѓ, РїСЂРѕ РєРѕС‚РѕСЂСѓСЋ С‚С‹ СЃРµР№С‡Р°СЃ С‡С‚Рѕ-С‚Рѕ РіРѕРІРѕСЂРёР» С‚РѕСЂРіРѕРІС†Сѓ. РњРЅРµ С‚РѕР¶Рµ РёРЅС‚РµСЂРµСЃРЅРѕ, С‡С‚Рѕ Р·Р°РјС‹С€Р»СЏСЋС‚ СЌС‚Рё С‡РµСЂС‚Рё.</text>
-  </string>
-  <string id="esc_scientists_task_tertiary_actor_for_technic_message_first">
-    <text>РњРёС…Р°Р»С‹С‡?! РўС‹ РѕС‚РєСѓРґР° РїСЂРѕ СЌС‚Рѕ Р·РЅР°РµС€СЊ?</text>
-  </string>
-  <string id="esc_scientists_task_tertiary_technic_message_for_actor_second">
-    <text>РЈ РјРµРЅСЏ СЃРІРѕРё Р»Р°Р·РµР№РєРё. РћРїС‹С‚ РІР·Р»РѕРјР° СЃ Р±РѕР»СЊС€РѕР№ Р·РµРјР»Рё, РЅРѕ СЃРµР№С‡Р°СЃ РЅРµ РѕР± СЌС‚РѕРј. Р”РѕСЃС‚Р°РЅСЊ РґР»СЏ РјРµРЅСЏ РїСЂРёР±РѕСЂ, СЏ С‚РµР±СЏ С‰РµРґСЂРѕ РѕС‚Р±Р»Р°РіРѕРґР°СЂСЋ.</text>
-  </string>
-  <string id="esc_scientists_task_tertiary_actor_for_technic_message_second">
-    <text>РџРѕСЃРјРѕС‚СЂСЋ, С‡С‚Рѕ РјРѕР¶РЅРѕ СЃРґРµР»Р°С‚СЊ...</text>
-  </string>
-  <string id="overfirst">
-    <text>Overfirst</text>
-  </string>
-  <string id="agr_mid_final_build_complete">
-    <text>Р‘РёР»Рґ Р·Р°РєРѕРЅС‡РёР»СЃСЏ, Р° СЃ РЅРёРј Р·Р°РєРѕРЅС‡РёР»РёСЃСЊ Рё РїСЂРёРєР»СЋС‡РµРЅРёСЏ РўРѕРїРѕСЂР°! Р’ РЅРµРґР°Р»С‘РєРѕРј Р±СѓРґСѓС‰РµРј Р±СѓРґСѓС‚ СЂРµР°Р»РёР·РѕРІР°РЅС‹ РѕСЃС‚Р°РІС€РёРµСЃСЏ С‚СЂРё РіР»Р°РІС‹ СЃСЋР¶РµС‚РЅРѕР№ Р»РёРЅРёРё Р·Р° РґСЂСѓРіРѕРіРѕ РіРµСЂРѕСЏ, РЅР° РєРѕС‚РѕСЂРѕРіРѕ РёРіСЂР° СѓР¶Рµ РїРµСЂРµРєР»СЋС‡РёР»Р°СЃСЊ!</text>
-  </string>
-  <string id="bar_arena_temp_lock">
-    <text>РќР° Р°СЂРµРЅРµ Р±С‹Р»Рё РіРѕС‚РѕРІС‹ С‚РѕР»СЊРєРѕ РґРІР° Р±РѕСЏ. РџРѕР»РЅРѕС†РµРЅРЅРѕРµ РµС‘ РІРѕРїР»РѕС‰РµРЅРёРµ СЃ РЅРѕРІРѕР№ РѕР·РІСѓС‡РєРѕР№ РїРѕСЏРІРёС‚СЃСЏ РІ РґР°Р»СЊРЅРµР№С€РµРј.</text>
-  </string>
-  <string id="yan_xottab_breaking_the_door_start_message">
-    <text>РџРѕРїСЂРѕР±СѓСЋ СЂР°Р·РѕР±СЂР°С‚СЊСЃСЏ СЃ РґРІРµСЂСЊСЋ...</text>
-  </string>
-  <string id="yan_actor_check_bunker_territory_message">
-    <text>РњС‹ РїРѕРєР° РѕСЃРјРѕС‚СЂРёРј РґРІРѕСЂ.</text>
-  </string>
-  <string id="yan_vuslich_see_oddities_message">
-    <text>РљРѕРјР°РЅРґРёСЂ, СЏ СЃРµР№С‡Р°СЃ РЅР°Р±Р»СЋРґР°СЋ Р·Р° РѕРєСЂРµСЃС‚РЅРѕСЃС‚СЏРјРё Рё, РєР°Р¶РµС‚СЃСЏ, С‡С‚Рѕ-С‚Рѕ СѓРІРёРґРµР». Р§С‚Рѕ-С‚Рѕ СЃС‚СЂР°РЅРЅРѕРµ.</text>
-  </string>
-  <string id="yan_koval_can_handle_message">
-    <text>РРґРёС‚Рµ, СЏ СЃРїСЂР°РІР»СЋСЃСЊ СЃР°Рј. Р—Р° РјРµРЅСЏ РЅРµ РІРѕР»РЅСѓР№С‚РµСЃСЊ.</text>
-  </string>
-  <string id="yan_actor_koval_start_connect_message">
-    <text>РљРѕРІР°Р»СЊ, РїСЂРёС‘Рј! РўС‹ Р·Р°РєРѕРЅС‡РёР» СЃРѕ СЃРІРѕРёРј РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµРј? РџСЂРёС‘Рј, РєР°Рє СЃР»С‹С€РёС€СЊ?</text>
-  </string>
-  <string id="yan_actor_koval_lost_message">
-    <text>РЎСѓРєР°, С‚Р°Рє Рё Р·РЅР°Р», С‡С‚Рѕ СЃ РЅРёРј Р±СѓРґСѓС‚ РїСЂРѕР±Р»РµРјС‹!</text>
-  </string>
-  <string id="yan_decryption_process">
-    <text>Р Р°СЃС€РёС„СЂРѕРІРєР°</text>
-  </string>
-  <string id="yan_decryption_process_message">
-    <text>РРґС‘С‚ РїСЂРѕС†РµСЃСЃ СЂР°СЃС€РёС„СЂРѕРІРєРё. РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РїРѕРґРѕР¶РґРёС‚Рµ.</text>
-  </string>
-  <string id="yan_decryption_process_fail_message">
-    <text>РћС€РёР±РєР°. РЈСЃС‚СЂРѕР№СЃС‚РІРѕ РїРѕРІСЂРµР¶РґРµРЅРѕ.</text>
-  </string>
-  <string id="yan_koval_actor_long_dist_1_message">
-    <text>РљРѕРјР°РЅРґРёСЂ, РЅРµ РѕС‚СЃС‚Р°РІР°Р№!</text>
-  </string>
-  <string id="yan_koval_actor_long_dist_2_message">
-    <text>Р”РѕРіРѕРЅСЏР№, Р±РѕСЃСЃ, С‚С‹ РіРґРµ С‚Р°Рј РїРѕС‚РµСЂСЏР»СЃСЏ?</text>
-  </string>
-  <string id="yan_koval_actor_long_dist_3_message">
-    <text>Р”Р°РІР°Р№ РґРѕРіРѕРЅСЏР№, С‡РµРіРѕ С‚Р°Рј С‚РѕСЂРјРѕР·РёС€СЊ?</text>
-  </string>
-  <string id="yan_koval_dogs_death_message">
-    <text>Р’РѕС‚ СЌС‚Рѕ С‚С‹ РІРѕРІСЂРµРјСЏ!</text>
-  </string>
-  <string id="yan_koval_sorry_message">
-    <text>РќРµ СЃРµСЂС‡Р°Р№, РєРѕРјР°РЅРґРёСЂ, Р±РѕР»СЊС€Рµ С‚Р°РєРѕРіРѕ РЅРµ РїРѕРІС‚РѕСЂРёС‚СЃСЏ!</text>
-  </string>
-  <string id="yan_koval_devices_start_message">
-    <text>РЎРµР№С‡Р°СЃ СЂР°СЃСЃС‚Р°РІР»СЋ РЅСѓР¶РЅРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ. РўС‹ РїРѕРєР° СЌС‚Рѕ, РіР»СЏРґРё РІ РѕР±Р°, Р°РіР°?</text>
-  </string>
-  <string id="yan_vuslich_psy_talk_message">
-    <text>РљРѕРјР°РЅРґРёСЂ, С‚СѓС‚ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ С‡С‚Рѕ-С‚Рѕ РЅРµ С‚Р°Рє. РњРµРЅСЏ С‚РѕР¶Рµ СЃР»РµРіРєР° РїРѕС€Р°С‚С‹РІР°РµС‚.</text>
-  </string>
-  <string id="yan_vuslich_see_zombie_message">
-    <text>РљРѕРјР°РЅРґРёСЂ, Р·РѕРјР±РёСЂРѕРІР°РЅРЅС‹Рµ!</text>
-  </string>
-  <string id="yan_vuslich_actor_go_off_switcher_message">
-    <text>РљРѕРјР°РЅРґРёСЂ, РґР°РІР°Р№ РЅР°РІРµСЂС…, РјС‹ РїСЂРёРєСЂРѕРµРј, С‚РѕР»СЊРєРѕ Р±С‹СЃС‚СЂРµРµ, РёС… С‚СѓС‚ РѕС‡РµРЅСЊ РјРЅРѕРіРѕ!</text>
-  </string>
-  <string id="yan_help_message_name">
-    <text>РћР±С‰Р°СЏ СЃРµС‚СЊ</text>
-  </string>
-  <string id="yan_vuslich_actor_switcher_compl_message">
-    <text>РўС‹ РєР°Рє, РєРѕРјР°РЅРґРёСЂ? Р•С‰С‘ Р±С‹ РјРёРЅСѓС‚Р°, Рё РЅР°Рј С‚РѕС‡РЅРѕ Р±С‹Р» Р±С‹ РєРѕРЅРµС†! Р’РѕРІСЂРµРјСЏ С‚С‹ СЌС‚Сѓ РіРѕР»РѕРІРѕР»РѕРјРєСѓ РІС‹РєР»СЋС‡РёР»!</text>
-  </string>
-  <string id="yan_vuslich_condolence_1_message">
-    <text>Р–Р°Р»РєРѕ РёС…. Р’СЃРµС… СЌС‚РёС… СѓС‡РµРЅС‹С…, РѕС…СЂР°РЅСѓ, СЃС‚Р°Р»РєРµСЂРѕРІ... РўР°Рє Рё РѕСЃС‚Р°РЅСѓС‚СЃСЏ С‚РµРїРµСЂСЊ С‚СѓС‚, РґР°Р¶Рµ РїРѕС…РѕСЂРѕРЅРёС‚СЊ РЅРµРєРѕРјСѓ.</text>
-  </string>
-  <string id="yan_vuslich_condolence_2_message">
-    <text>Р”Р° С‚Р°Рє Рё С‚Р°Рє РѕР±РёРґРЅРѕ. РћР±РёРґРЅРѕ, С‡С‚Рѕ РІСЃРµ СЌС‚Рѕ СЃР»СѓС‡РёР»РѕСЃСЊ РёР·-Р·Р° РєР°РєРѕР№-С‚Рѕ РЅРµР»РµРїРѕСЃС‚Рё...</text>
-  </string>
-  <string id="yan_actor_final_scene_heli_start_message">
-    <text>Р‘С‹СЃС‚СЂРµРµ, Р±С‹СЃС‚СЂРµРµ, РІР·Р»РµС‚Р°РµРј!</text>
-  </string>
-  <string id="val_stalker_base_gauss_message">
-    <text>РЎР»С‹С€СЊ, Р±СЂР°С‚РµР»Рѕ, РїРѕРґРѕР№РґРё-РєР°, Сѓ РјРµРЅСЏ РґРµР»РѕРІРѕРµ РїСЂРµРґР»РѕР¶РµРЅРёРµ.</text>
-  </string>
-  <string id="quicksave">
-    <text>Р‘Р«РЎРўР РћР• РЎРћРҐР РђРќР•РќРР•</text>
-  </string>
-  <string id="autosave">
-    <text>РђР’РўРћРЎРћРҐР РђРќР•РќРР•</text>
-  </string>
-  <string id="st_level_change">
-    <text>РџР•Р Р•РҐРћР” РќРђ Р›РћРљРђР¦РР®</text>
-  </string>
-  <string id="gar_to_val_level_changer_disabled">
-    <text>Р‘Р•Р— Р”Р•Р›Рђ РЎРћР’РђРўР¬РЎРЇ Рљ Р‘РђРќР”РРўРђРњ РќР• РЎРўРћРРў</text>
-  </string>
-  <string id="st_agr_soldier_sky_scientist_tonnel_info">
-    <text>Р•СЃС‚СЊ Р·Р°С†РµРїРєР° РїРѕ РЅР°С€РµРјСѓ РґРµР»Сѓ. РЇ Р±С‹ СЃРєР°Р·Р°Р», Р·Р°С†РµРїРёС‰Рµ! Р”РІР° РґРЅСЏ РЅР°Р·Р°Рґ РєР°РєРёРµ-С‚Рѕ cС‚Р°Р»РєРµСЂС‹ РІ РѕР±С‰СѓСЋ СЃРµС‚СЊ СЃР±СЂРѕСЃРёР»Рё СЃРѕРѕР±С‰РµРЅРёРµ, С‡С‚Рѕ Р°РЅРѕРјР°Р»РёСЏ РІ С‚РѕРЅРЅРµР»Рµ РЅР° РєСѓСЃРєРё РїРѕСЂРІР°Р»Р° СѓС‡С‘РЅРѕРіРѕ. РќРµ РЅР°С€ Р»Рё СЌС‚Рѕ РєР»РёРµРЅС‚?</text>
-  </string>
-  <string id="st_esc_soldier_sky_tonnel_remains_info">
-    <text>Р–СѓСЂР°РІР»С‘РІ, РїСЂРёРµРј! РЇ РїРѕР»СѓС‡РёР» СЂРµР·СѓР»СЊС‚Р°С‚С‹ СЌРєСЃРїРµСЂС‚РёР·С‹. РўРµ РѕСЃС‚Р°РЅРєРё, С‡С‚Рѕ С‚С‹ РЅР°С€С‘Р» Сѓ Р°РЅРѕРјР°Р»РёРё, РЅРµ РїСЂРёРЅР°РґР»РµР¶Р°С‚ Р”СѓР±РёРЅРёРЅСѓ. Р’СЃС‘ РїРѕРґСЃС‚СЂРѕРµРЅРѕ, С‡С‚РѕР±С‹ РјС‹ РµРіРѕ РЅРµ РёСЃРєР°Р»Рё. РўР°РєРёРµ РІРѕС‚ РЅРѕРІРѕСЃС‚Рё. Р”Рѕ СЃРІСЏР·Рё!</text>
-  </string>
-  <string id="ts_information_send">
-    <text>РћС‚РїСЂР°РІР»РµРЅР° РёРЅС„РѕСЂРјР°С†РёСЏ:</text>
-  </string>
-  <string id="esc_actor_give_maps_for_trader_text">
-    <text>РљР°СЂС‚С‹ РЇРЅС‚Р°СЂСЏ</text>
-  </string>
-  <string id="esc_to_nsp_level_changer_after_yantar_disabled">
-    <text>Р”РђР›Р¬РЁР• РР”РЃРў РќР•Р РђР—Р’Р•Р”РђРќРќРђРЇ РўР•Р Р РРўРћР РРЇ</text>
-  </string>
-  <string id="esc_to_gar_level_changer_after_yantar_disabled">
-    <text>РЎРўРћРРў РџРћРРЎРљРђРўР¬ РћРЎРўРђР’РЁРР•РЎРЇ Р—РђР¦Р•РџРљР РќРђ РљРћР Р”РћРќР•</text>
-  </string>
-  <string id="agr_to_gar_level_changer_mid_final_disabled">
-    <text>РќР• Р‘Р«Р›Рћ РџР РРљРђР—Рђ РџРћРљРР”РђРўР¬ РђР“Р РћРџР РћРњ</text>
-  </string>
-  <string id="mil_to_bar_level_changer_danger_disabled">
-    <text>Р’Р•Р РќРЈРўР¬РЎРЇ Р’ Р‘РђР  вЂ” РЎРђРњРћРЈР‘РР™РЎРўР’Рћ</text>
-  </string>
-  <string id="agr_to_yan_level_changer_disabled">
-    <text>РќР•Рў РЎР’Р•Р–РРҐ РЎР’Р•Р”Р•РќРР™ РћР‘ Р­РўРћРњ РџРЈРўР</text>
-  </string>
-  <string id="yan_to_agr_level_changer_disabled">
-    <text>РќРЈР–РќРћ Р—РђРљРћРќР§РРўР¬ РЎ РџРћРЎРўРђР’Р›Р•РќРќРћР™ Р—РђР”РђР§Р•Р™</text>
-  </string>
-  <string id="mil_to_mkat_level_changer_disabled">
-    <text>РќРћР Рђ РџР РђРљРўРР§Р•РЎРљР РџРћР›РќРћРЎРўР¬Р® Р—РђР’РђР›Р•РќРђ</text>
-  </string>
-  <string id="mil_to_red_forest_fake_level_changer_disabled">
-    <text>Р”РћР РћР“Рђ Р’ Р Р«Р–РР™ Р›Р•РЎ Р”РђР’РќРћ РљРРЁРРў РњРЈРўРђРќРўРђРњР</text>
-  </string>
-  <string id="mil_to_radar_level_changer_disabled">
-    <text>РџРћРҐРћР” РќРђ Р РђР”РђР  вЂ” Р”РћР РћР“Рђ Р’ РћР”РРќ РљРћРќР•Р¦</text>
-  </string>
-  <string id="st_mil_skylight_device_name">
-    <text>SkyLight</text>
-  </string>
-  <string id="st_skylight_device_start_message">
-    <text>РЎРѕРµРґРёРЅРµРЅРёРµ РїРѕС‚РµСЂСЏРЅРѕ.</text>
-  </string>
-  <string id="st_skylight_device_reconnect_message">
-    <text>РџРµСЂРµРїРѕРґРєР»СЋС‡РµРЅРёРµ...</text>
-  </string>
-  <string id="st_skylight_device_error_message">
-    <text>РћС€РёР±РєР° СЃРѕРµРґРёРЅРµРЅРёСЏ.</text>
-  </string>
-  <string id="st_key_action_use">
-    <text>[$$ACTION_USE$$]</text>
-  </string>
-  <string id="sleep_warning_all_pleasures">
-    <text>Р’Р«РЎРћРљРР™ РЈР РћР’Р•РќР¬ РћР‘Р›РЈР§Р•РќРРЇ, РЎРР›Р¬РќРћР• РљР РћР’РћРўР•Р§Р•РќРР•</text>
-  </string>
-  <string id="sleep_warning_bleeding">
-    <text>РЎРР›Р¬РќРћР• РљР РћР’РћРўР•Р§Р•РќРР•</text>
-  </string>
-  <string id="sleep_warning_radiation">
-    <text>Р’Р«РЎРћРљРР™ РЈР РћР’Р•РќР¬ РћР‘Р›РЈР§Р•РќРРЇ</text>
-  </string>
-  <string id="mlab_week_static_text">
-    <text>РќР•Р”Р•Р›Р® РЎРџРЈРЎРўРЇ</text>
-  </string>
-  <string id="mlab_smart_clock">
-    <text>РЎРјР°СЂС‚-С‡Р°СЃС‹</text>
-  </string>
-  <string id="mlab_smart_call_info">
-    <text>Р’С…РѕРґСЏС‰РёР№ РІС‹Р·РѕРІ (РєР°Р±РёРЅРµС‚ Р”СѓР±РёРЅРёРЅР°)</text>
-  </string>
-  <string id="ls_chapter_name">
-    <text>Р“Р›РђР’Рђ</text>
-  </string>
-  <string id="ls_TS_chapter_1_name">
-    <text>В«РџСЂРёР±С‹С‚РёРµВ»</text>
-  </string>
-  <string id="ls_TS_chapter_1_desc">
-    <text>Р’РѕС‚ Рё СЃРЅРѕРІР° СЏ РІ Р—РѕРЅРµ. РќСѓР¶РЅРѕ РЅРµРјРЅРѕРіРѕ Р·Р°СЂР°Р±РѕС‚Р°С‚СЊ РЅР° РљРѕСЂРґРѕРЅРµ, РѕР±Р·Р°РІРµСЃС‚РёСЃСЊ СЃРЅР°СЂСЏРіРѕР№, СЃРЅРѕРІР° РїСЂРёРІС‹РєРЅСѓС‚СЊ Рє Р·РґРµС€РЅРёРј РїСЂР°РІРёР»Р°Рј Рё РІС‹РґРІРёРіР°С‚СЊСЃСЏ РґР°Р»СЊС€Рµ. РўСѓРґР°, РіРґРµ РёРЅС‚РµСЂРµСЃРЅРѕ Рё РѕРїР°СЃРЅРѕ. РўСѓРґР°, РіРґРµ С‚С‹ СЃР°Рј Р·Р° СЃРµР±СЏ.</text>
-  </string>
-  <string id="ls_TS_chapter_2_name">
-    <text>В«Р—Р° РљРѕСЂРґРѕРЅРѕРјВ»</text>
-  </string>
-  <string id="ls_TS_chapter_2_desc">
-    <text>РќРѕРІС‹Рј РѕРєСЂРµСЃС‚РЅРѕСЃС‚СЏРј РЅРµ РїСЂРёС€Р»РѕСЃСЊ РґРѕР»РіРѕ РјРµРЅСЏ Р¶РґР°С‚СЊ. РўРµРїРµСЂСЊ РјРѕСЏ Р·Р°РґР°С‡Р° вЂ” РѕСЃРІРѕРёС‚СЊСЃСЏ РІ Р·РґРµС€РЅРёС… РєСЂР°СЏС… Рё РЅР°С‡Р°С‚СЊ Р·Р°СЂР°Р±Р°С‚С‹РІР°С‚СЊ РЅР° Р¶РёР·РЅСЊ РґР°Р»РµРєРѕ РѕС‚ РїРµСЂРёРјРµС‚СЂР°.</text>
-  </string>
-  <string id="ls_TS_chapter_3_name">
-    <text>В«Р‘Р°РЅРґРёС‚СЃРєР°СЏ РґРѕР»РёРЅР°В»</text>
-  </string>
-  <string id="ls_TS_chapter_3_desc">
-    <text>РќРёРєРѕРіРґР° Р±С‹ РЅРµ РїРѕРґСѓРјР°Р», С‡С‚Рѕ РїСЂРёРґС‘С‚СЃСЏ РІРµСЃС‚Рё РґРµР»Р° СЃ СЃР°РјС‹РјРё РЅР°СЃС‚РѕСЏС‰РёРјРё Р±Р°РЅРґРёС‚Р°РјРё. Р‘СѓРґСѓ РЅР°РґРµСЏС‚СЊСЃСЏ, С‡С‚Рѕ РёР· СЌС‚РѕРіРѕ РІС‹Р№РґРµС‚ РјРЅРµ С…РѕС‚СЊ РєР°РєР°СЏ-С‚Рѕ РїРѕР»СЊР·Р°... РёР»Рё С…РѕС‚СЏ Р±С‹ РѕСЃС‚Р°РЅСѓСЃСЊ РїСЂРё СЃРІРѕС‘Рј.</text>
-  </string>
-  <string id="ls_TS_chapter_4_name">
-    <text>В«РҐРѕР·СЏРёРЅ РїРѕРґР·РµРјРµР»РёР№В»</text>
-  </string>
-  <string id="ls_TS_chapter_4_desc">
-    <text>РўСЂСѓС…Р»СЏР№ РјС‘СЂС‚РІ вЂ” РµРіРѕ Р±С‹РІС€РёРµ РґСЂСѓР·СЊСЏ РЅР°РїР°Р»Рё РІ СЃР°РјС‹Р№ РЅРµРїРѕРґС…РѕРґСЏС‰РёР№ РјРѕРјРµРЅС‚. Р’ РїРѕРїС‹С…Р°С… Р·Р°Р±СЂС‘Р» РІ РєР°РєРѕРµ-С‚Рѕ РїРѕРґР·РµРјРµР»СЊРµ РїРѕРґ Р±Р°Р·РѕР№ Р±Р°РЅРґРёС‚РѕРІ. РЎРµР№С‡Р°СЃ РЅСѓР¶РЅРѕ Р±С‹С‚СЊ Р°РєРєСѓСЂР°С‚РЅС‹Рј Рё СЃС‚Р°СЂР°С‚СЊСЃСЏ РЅРµ РІР»СЏРїР°С‚СЊСЃСЏ РєСѓРґР°-РЅРёР±СѓРґСЊ РµС‰С‘.</text>
-  </string>
-  <string id="ls_TS_chapter_5_name">
-    <text>В«РўСЂР°РЅСЃРјСѓС‚Р°С†РёСЏВ»</text>
-  </string>
-  <string id="ls_TS_chapter_5_desc">
-    <text>Р—Р° Р±Р°РЅРґРёС‚СЃРєРёРјРё РґРµР»Р°РјРё РїРѕСЃР»РµРґРѕРІР°Р»Рѕ РЅРµ РјРµРЅРµРµ РёРЅС‚РµСЂРµСЃРЅРѕРµ РїСЂРёРєР»СЋС‡РµРЅРёРµ вЂ” РІСЃСЏС‡РµСЃРєР°СЏ Р±РµРіРѕС‚РЅСЏ РїРѕ РїСЂРѕСЃСЊР±Р°Рј СѓС‡С‘РЅС‹С…. Р—Р°С‚Рѕ РїР»Р°С‚СЏС‚ С…РѕСЂРѕС€Рѕ Рё РёСЃРїСЂР°РІРЅРѕ. Р’РµР·РґРµ Р±С‹ С‚Р°Рє.</text>
-  </string>
-  <string id="ls_TS_chapter_6_name">
-    <text>В«РђСЂС‚РµС„Р°РєС‚ СЃРјРµСЂС‚РёВ»</text>
-  </string>
-  <string id="ls_TS_chapter_6_desc">
-    <text>РћРєСЂРµСЃС‚РЅРѕСЃС‚Рё В«РќРѕРІРѕС€РµРїРµР»РёС‡РµР№В» РґР»СЏ РјРµРЅСЏ С‚РµРїРµСЂСЊ Р±СѓРґСѓС‚ РѕРґРЅРёРјРё РёР· СЃР°РјС‹С… РёРЅС‚РµСЂРµСЃРЅС‹С… Рё Р·Р°РіР°РґРѕС‡РЅС‹С… РјРµСЃС‚ РІ Р—РѕРЅРµ. РЈР¶Рµ РЅР° РїРѕРґС…РѕРґРµ СЏ РѕС‰СѓС‚РёР» РјР°СЃС€С‚Р°Р±С‹ СЌС‚РёС… Р»РµСЃРЅС‹С… РїСЂРѕСЃС‚РѕСЂРѕРІ, Рё СЃ РєР°Р¶РґРѕР№ РјРёРЅСѓС‚РѕР№ РїСЂРµР±С‹РІР°РЅРёСЏ Р·РґРµСЃСЊ РјРЅРµ РІСЃС‘ Р±РѕР»СЊС€Рµ СЃС‚Р°РЅРѕРІРёС‚СЃСЏ РЅРµ РїРѕ СЃРµР±Рµ.</text>
-  </string>
-  <string id="ls_TS_chapter_7_name">
-    <text>В«Р’ С‡С‘СЂРЅРѕР№ Р·Р°РІРѕРґРё РєРѕР»РѕРґС†Р°В»</text>
-  </string>
-  <string id="ls_TS_chapter_7_desc">
-    <text>РџРµСЂРµРґРѕ РјРЅРѕР№ Рё РјРѕРёРј РѕС‚СЂСЏРґРѕРј РїРѕСЃС‚Р°РІР»РµРЅР° Р·Р°РґР°С‡Р°: РЅСѓР¶РЅРѕ РѕС‚РїСЂР°РІРёС‚СЊСЃСЏ РІ РѕРєСЂРµСЃС‚РЅРѕСЃС‚Рё РѕР·РµСЂР° В«РЇРЅС‚Р°СЂСЊВ» Рё СѓР·РЅР°С‚СЊ РїСЂРёС‡РёРЅС‹ РѕР±СЂС‹РІР° СЃРІСЏР·Рё СЃ СЌС‚РѕР№ С‚РµСЂСЂРёС‚РѕСЂРёРµР№.</text>
-  </string>
-  <string id="ls_TS_chapter_8_name">
-    <text>В«Р›РёС†РѕРј Рє Р»РёС†СѓВ»</text>
-  </string>
-  <string id="ls_TS_chapter_8_desc">
-    <text>РџСЂРѕРїР°Р¶Р° РїСЂРѕС„РµСЃСЃРѕСЂР° Р”СѓР±РёРЅРёРЅР° РЅРµ РЅР° С€СѓС‚РєСѓ РІСЃС‚СЂРµРІРѕР¶РёР»Р° СЂСѓРєРѕРІРѕРґСЃС‚РІРѕ РќРР. РњРЅРµ РїРѕСЂСѓС‡РµРЅРѕ РЅР°Р№С‚Рё Р»СЋР±С‹Рµ Р·Р°С†РµРїРєРё Рѕ РµРіРѕ РїСЂРѕРїР°Р¶Рµ РёР»Рё, С‡С‚Рѕ РµС‰С‘ Р»СѓС‡С€Рµ, РµРіРѕ СЃР°РјРѕРіРѕ.</text>
-  </string>
-  <string id="ls_TS_chapter_9_name">
-    <text>В«Р Р°Р·РІСЏР·РєР°В»</text>
-  </string>
-  <string id="ls_TS_chapter_9_desc">
-    <text>РќР°СЃС‚СѓРїРёР»Р° РїРѕСЂР° СѓР·РЅР°С‚СЊ, С‡С‚Рѕ СЃРєСЂС‹РІР°РµС‚СЃСЏ РІ СЌС‚РѕР№ РїРѕРґР·РµРјРЅРѕР№ Р»Р°Р±РѕСЂР°С‚РѕСЂРёРё: РєС‚Рѕ С‚Р°РєРёРµ СЌС‚Рё РЅР°С‘РјРЅРёРєРё РІРѕ РіР»Р°РІРµ СЃ РўРµСЂРјРёС‚РѕРј, Рё С‡С‚Рѕ Р¶Рµ Р·РґРµСЃСЊ РґРµР»Р°РµС‚ РїСЂРѕС„РµСЃСЃРѕСЂ Р”СѓР±РёРЅРёРЅ.</text>
-  </string>
-  <string id="agr_composer_task_wait_time">
-    <text>РЈР”Р•Р Р–РР’РђРўР¬ РџРћР—РР¦РР</text>
-  </string>
-  <string id="agr_composer_task_wait_controller_zone_time">
-    <text>РР”РЃРў Р—РђРњР•Р  РџРЎР-РђРљРўРР’РќРћРЎРўР</text>
-  </string>
-  <string id="gar_stalker_nimble_order_complete_message_1">
-    <text>РЎС‚Р°Р»РєРµСЂ, Р·Р°РєР°Р· РіРѕС‚РѕРІ, РјРѕР¶РµС€СЊ Р·Р°Р±РёСЂР°С‚СЊ.</text>
-  </string>
-  <string id="gar_stalker_nimble_order_complete_message_2">
-    <text>Р—Р°РєР°Р· РїСЂРёР±С‹Р», РїРѕРґСЂСѓР»РёРІР°Р№.</text>
-  </string>
-  <string id="gar_stalker_nimble_order_complete_message_3">
-    <text>РњРѕР¶РµС€СЊ РїСЂРёС…РѕРґРёС‚СЊ Р·Р° С‚РѕРІР°СЂРѕРј, СЃС‚Р°Р»РєРµСЂ.</text>
-  </string>
-  <string id="esc_stalker_liar_reward_message">
-    <text>Р”СЂСѓР¶РёС‰Рµ, СЏ РґРѕРіРѕРІРѕСЂРёР»СЃСЏ СЃ РЎРёРґРѕСЂРѕРј, РїСЂРёС…РѕРґРё РІ РґРµСЂРµРІРЅСЋ, СЏ РѕС‚РґР°Рј С‚РµР±Рµ С‚РІРѕСЋ РЅР°РіСЂР°РґСѓ. Р‘СѓРґСѓ Сѓ РєРѕСЃС‚СЂР° СЃ СЂРµР±СЏС‚Р°РјРё.</text>
-  </string>
-  <string id="gar_stalker_google_chrome_actor_leave_message">
-    <text>РќРµСЃРіРѕРІРѕСЂС‡РёРІС‹Р№ С‚С‹ РєР°РєРѕР№-С‚Рѕ, СЃС‚Р°Р»РєРµСЂ. Р›РѕРІРё РІ РєР°С‡РµСЃС‚РІРµ РЅР°РіСЂР°РґС‹ РєРѕРѕСЂРґРёРЅР°С‚С‹ РјРѕРµРіРѕ С‚Р°Р№РЅРёРєР°. РџРѕРїСѓС‚РЅРѕРіРѕ РІРµС‚СЂР°.</text>
-  </string>
-  <string id="esc_actor_stalker_task_sos_message">
-    <text>РџРѕР»СѓС‡РµРЅС‹ РєРѕРѕСЂРґРёРЅР°С‚С‹ РёСЃС‚РѕС‡РЅРёРєР° СЃРёРіРЅР°Р»Р° SOS</text>
-  </string>
-  <string id="esc_actor_stalker_task_open_box_message">
-    <text>Р’С‹ РїРѕР»СѓС‡РёР»Рё РґРѕСЃС‚СѓРї Рє РІРµС‰Р°Рј РёР· Р»РёС‡РЅРѕРіРѕ СЏС‰РёРєР° РўРѕРїРѕСЂР°</text>
-  </string>
-  <string id="esc_fake_final_message_box_answer">
-    <text>Р’Р« Р”Р•Р™РЎРўР’РРўР•Р›Р¬РќРћ РҐРћРўРРўР• РџРћРљРРќРЈРўР¬ Р—РћРќРЈ?</text>
-  </string>
-  <string id="esc_fake_final_message_box_locked">
-    <text>РќРђР—РђР” Р”РћР РћР“Р РќР•Рў!</text>
-  </string>
-  <string id="esc_pre_final_message_title">
-    <text>Р’РќРРњРђРќРР•!</text>
-  </string>
-  <string id="esc_pre_final_message_text">
-    <text>Р”РђР›Р•Р• Р’ РРЎРўРћР РР РџРћРЎР›Р•Р”РЈР•Рў Р§Р•Р Р•Р”Рђ Р Р•РЁРђР®Р©РРҐ РЎРћР‘Р«РўРР™. РЈР‘Р•Р”РРўР•РЎР¬,\nР§РўРћ Р—РђР’Р•Р РЁРР›Р Р’РЎР• РЎР’РћР Р”Р•Р›Рђ, РџР Р•Р–Р”Р• Р§Р•Рњ РћРўРџР РђР’РРўР¬РЎРЇ Р”РђР›Р¬РЁР•,\nР§РўРћР‘Р« РќР• РџРћРўР•Р РЇРўР¬ Р”РћРЎРўРР“РќРЈРўР«Р™ РџР РћР“Р Р•РЎРЎ.</text>
-  </string>
-  <string id="esc_pre_final_message_confirm">
-    <text>РџР РћР”РћР›Р–РРўР¬</text>
-  </string>
+
+	<string id="st_new_achievement">
+		<text>Новое достижение</text>
+	</string>
+
+	<string id="st_general_in_item">
+		<text>ПОЛУЧЕН ПРЕДМЕТ</text>
+	</string>
+
+	<string id="st_general_in_items">
+		<text>ПОЛУЧЕНЫ ПРЕДМЕТЫ</text>
+	</string>
+
+	<string id="st_general_in_money">
+		<text>ПОЛУЧЕНЫ ДЕНЬГИ</text>
+	</string>
+
+	<string id="st_general_out_item">
+		<text>ПОТЕРЯН ПРЕДМЕТ</text>
+	</string>
+
+	<string id="st_general_out_items">
+		<text>ПОТЕРЯНЫ ПРЕДМЕТЫ</text>
+	</string>
+
+	<string id="st_general_out_money">
+		<text>ПОТЕРЯНЫ ДЕНЬГИ</text>
+	</string>
+
+	<string id="st_lock_save">
+		<text>Сейчас Вы не можете сохранить игру!</text>
+	</string>
+
+	<string id="esc_start_show_mesto">
+		<text>ЧЕРНОБЫЛЬСКАЯ ЗОНА ОТЧУЖДЕНИЯ. КОРДОН</text>
+	</string>
+
+	<string id="esc_start_show_date">
+		<text>4 ИЮНЯ. 2013 ГОД</text>
+	</string>
+
+	<string id="chapter_title">
+		<text>ГЛАВА</text>
+	</string>
+
+	<string id="chapter_1">
+		<text>«ПРИБЫТИЕ»</text>
+	</string>
+
+	<string id="chapter_2">
+		<text>«ЗА КОРДОНОМ»</text>
+	</string>
+
+	<string id="chapter_3">
+		<text>«БАНДИТСКАЯ ДОЛИНА»</text>
+	</string>
+
+	<string id="chapter_4">
+		<text>«ХОЗЯИН ПОДЗЕМЕЛИЙ»</text>
+	</string>
+
+	<string id="chapter_5">
+		<text>«ТРАНСМУТАЦИЯ»</text>
+	</string>
+
+	<string id="chapter_6">
+		<text>«АРТЕФАКТ СМЕРТИ»</text>
+	</string>
+
+	<string id="chapter_7">
+		<text>«В ЧЁРНОЙ ЗАВОДИ КОЛОДЦА»</text>
+	</string>
+
+	<string id="chapter_8">
+		<text>«ЛИЦОМ К ЛИЦУ»</text>
+	</string>
+
+	<string id="chapter_9">
+		<text>«РАЗВЯЗКА»</text>
+	</string>
+
+	<string id="esc_task_for_trailer_text">
+		<text>НЕКОТОРОЕ ВРЕМЯ СПУСТЯ</text>
+	</string>
+
+	<string id="esc_nora_dinamit_explode">
+		<text>До взрыва осталось</text>
+	</string>
+
+	<string id="st_ts_nosleep">
+		<text>Какой сон?! Проспался уже, иди работай!</text>
+	</string>
+
+	<string id="esc_scients_message_forward_time">
+		<text>Прошло 10 минут</text>
+	</string>
+
+	<string id="sr_lc_possible">
+		<text>ПЕРЕЙТИ НА ДРУГУЮ ЛОКАЦИЮ</text>
+	</string>
+
+	<string id="sr_lc_esc_to_gar_impossible">
+		<text>НУЖНО ЗАКОНЧИТЬ ДЕЛА НА КОРДОНЕ</text>
+	</string>
+
+	<string id="esc_to_nsp_level_changer_disabled">
+		<text>ВПЕРЕДИ НЕРАЗВЕДАННАЯ ТЕРРИТОРИЯ</text>
+	</string>
+
+	<string id="esc_to_mar_fake_level_changer_disabled">
+		<text>ПУТЬ НА БОЛОТА В ОДИНОЧКУ - ВЕРНАЯ СМЕРТЬ</text>
+	</string>
+
+	<string id="labx18_lc_to_val_impossible">
+		<text>СЕЙЧАС НЕЛЬЗЯ УЙТИ</text>
+	</string>
+
+	<string id="agr_to_gar_level_changers_disabled">
+		<text>ДЕЙСТВИЕ ВРЕМЕННО НЕДОСТУПНО</text>
+	</string>
+
+	<string id="esc_technic_repair_ar_compl">
+		<text>Я закончил с ремонтом, можешь забирать свой калаш.</text>
+	</string>
+
+	<string id="default_clear">
+		<text>Безоблачно</text>
+	</string>
+
+	<string id="default_rain">
+		<text>Дождь</text>
+	</string>
+
+	<string id="default_thunder">
+		<text>Гроза</text>
+	</string>
+
+	<string id="default_cloudy">
+		<text>Пасмурно</text>
+	</string>
+
+	<string id="weather_surge">
+		<text>Выброс!</text>
+	</string>
+
+	<string id="time_morning">
+		<text>утро</text>
+	</string>
+
+	<string id="time_day">
+		<text>день</text>
+	</string>
+
+	<string id="time_evening">
+		<text>вечер</text>
+	</string>
+
+	<string id="time_night">
+		<text>ночь</text>
+	</string>
+
+	<string id="weather_manager">
+		<text>Погода</text>
+	</string>
+
+	<string id="esc_actor_message_not_pay_for_fuel">
+		<text>Слушай, мужик, тут техник бабки за бензин требует, я платить не стану, давай как-нибудь сам. Удачи.</text>
+	</string>
+
+	<string id="esc_stalker_car_message_help">
+		<text>Да плевать мне сейчас на бензин! Помоги мне, на меня бандиты прут!</text>
+	</string>
+
+	<string id="esc_actor_message_for_help_stalker_car">
+		<text>Твою ж мать... Держись, я иду!</text>
+	</string>
+
+	<string id="gar_jurok_sms_soldier">
+		<text>Привет, друган! Забыл вчера сообщить, что вояку я проводил. Реально солидно заплатил! Спасибо за наводку. Я в долгу не останусь! До связи!</text>
+	</string>
+
+	<string id="gar_stalker_medic_message_not_see_bloodsucker">
+		<text>Я его потерял! Чёрт, кажется, он обратился в невидимого... Быстро гони его ко мне, иначе он тебя порешит!</text>
+	</string>
+
+	<string id="gar_stalkers_meet_corpse_info">
+		<text>Информация с трупа сталкера</text>
+	</string>
+
+	<string id="gar_actor_info_code">
+		<text>Код от сейфа: 127625</text>
+	</string>
+
+	<string id="agr_diggers_safe_locked">
+		<text>Сейф закрыт: нужен код</text>
+	</string>
+
+	<string id="safe_door_locked">
+		<text>Заперто</text>
+	</string>
+
+	<string id="agr_diggers_safe_locked_2">
+		<text>Нужно избавиться от посторонних, чтобы не привлечь внимания</text>
+	</string>
+
+	<string id="agr_diggers_box_locked">
+		<text>Закрыто: нужен ключ</text>
+	</string>
+
+	<string id="labx18_monster_scene_door_tip">
+		<text>Что-то удерживает дверь</text>
+	</string>
+
+	<string id="labx18_codedoor_locked">
+		<text>Нужен код</text>
+	</string>
+
+	<string id="ts_build_sender">
+		<text>Overfirst</text>
+	</string>
+
+	<string id="ts_build_text">
+		<text>Билд пройден! Оставшиеся квесты сейчас выполнить невозможно.</text>
+	</string>
+
+	<string id="st_lchanger_disabled">
+		<text>Закрытый переход</text>
+	</string>
+
+	<string id="st_lchanger_to_escape">
+		<text>На Кордон</text>
+	</string>
+
+	<string id="st_lchanger_to_garbage">
+		<text>На Свалку</text>
+	</string>
+
+	<string id="st_lchanger_to_agroprom">
+		<text>На Агропром</text>
+	</string>
+
+	<string id="st_lchanger_to_agroprom_underground">
+		<text>В Подземелья Агропрома</text>
+	</string>
+
+	<string id="st_lchanger_to_darkvalley">
+		<text>В Тёмную Долину</text>
+	</string>
+
+	<string id="st_lchanger_to_labx18">
+		<text>В Лабораторию Х-18</text>
+	</string>
+
+	<string id="level_changer_invitation">
+		<text>ПЕРЕХОД НА ДРУГУЮ ЛОКАЦИЮ</text>
+	</string>
+
+	<string id="esc_to_gar_level_changer_disabled">
+		<text>НУЖНО ЗАКОНЧИТЬ ДЕЛА НА КОРДОНЕ</text>
+	</string>
+
+	<string id="val_to_labx18_level_changer_disabled">
+		<text>СЕЙЧАС НЕЛЬЗЯ ПОПАСТЬ В ЛАБОРАТОРИЮ</text>
+	</string>
+
+	<string id="agr_to_mar_level_changer_disabled">
+		<text>ДАЛЬШЕ ДОРОГИ НЕТ</text>
+	</string>
+
+	<string id="agr_to_und_level_changers_disabled">
+		<text>ДАЛЬШЕ ИДТИ СЛИШКОМ ОПАСНО</text>
+	</string>
+
+	<string id="esc_technic_repair_groza_complete">
+		<text>Эй, сталкер, я закончил с твоей винтовкой. Можешь забирать.</text>
+	</string>
+
+	<string id="st_pda_change_spot_hint">
+		<text>Переименовать</text>
+	</string>
+
+	<string id="st_pda_add_spot">
+		<text>Добавить метку</text>
+	</string>
+
+	<string id="st_pda_delete_spot">
+		<text>Удалить метку</text>
+	</string>
+
+	<string id="kat_boss_note_text_1">
+		<text>Доча, как вернешься из школы</text>
+	</string>
+
+	<string id="kat_boss_note_text_2">
+		<text>- не забудь покушать, сделать</text>
+	</string>
+
+	<string id="kat_boss_note_text_3">
+		<text>уроки. Учёные дяди</text>
+	</string>
+
+	<string id="kat_boss_note_text_4">
+		<text>организовали какое-то общее</text>
+	</string>
+
+	<string id="kat_boss_note_text_5">
+		<text>собрание, надо будет сходить -</text>
+	</string>
+
+	<string id="kat_boss_note_text_6">
+		<text>не теряй, задержусь на пару</text>
+	</string>
+
+	<string id="kat_boss_note_text_7">
+		<text>часов. Целую, будь умничкой.</text>
+	</string>
+
+	<string id="kat_boss_note_text_8">
+		<text>Папа! Нас с мамой и Сашкой увозят из деревни!</text>
+	</string>
+
+	<string id="kat_boss_note_text_9">
+		<text>Тут опять что-то взорвалось, и теперь всем говорят</text>
+	</string>
+
+	<string id="kat_boss_note_text_10">
+		<text>уехать. Мама думает, ты не вернёшься, а я в это не</text>
+	</string>
+
+	<string id="kat_boss_note_text_11">
+		<text>верю! Я знаю, что ты вернёшься и будешь с нами,</text>
+	</string>
+
+	<string id="kat_boss_note_text_12">
+		<text>папочка. Я тебя очень люблю!</text>
+	</string>
+
+	<string id="kat_boss_note_text_13">
+		<text>[ниже дописано другим почерком]</text>
+	</string>
+
+	<string id="gar_stalker_medic_after_katakomb">
+		<text>Сталкер, у меня есть интересное предложение. Заканчивай с делами и подруливай. Жду.</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_sms">
+		<text>Есть кто поблизости? Срочно нужна помощь! Жду у входа в подземелья!</text>
+	</string>
+
+	<string id="nsp_masters_stalker_leader_hello_message">
+		<text>Подходи, сталкер. Посидим, поболтаем.</text>
+	</string>
+
+	<string id="nsp_to_esc_level_changer_disabled_one">
+		<text>СЕЙЧАС НЕБЕЗОПАСНО ПОКИДАТЬ НОВОШЕПЕЛИЧИ</text>
+	</string>
+
+	<string id="nsp_to_esc_level_changer_disabled_two">
+		<text>СНАЧАЛА СЛЕДУЕТ ИЗБАВИТЬСЯ ОТ ТРАНСМУТАТА</text>
+	</string>
+
+	<string id="nsp_to_esc_level_changer_disabled_three">
+		<text>СЕЙЧАС НУЖНО ИДТИ НА КОРДОН</text>
+	</string>
+
+	<string id="level_changer_disabled_anomalies">
+		<text>ДОРОГА ВПЕРЕДИ ПОЛНА АНОМАЛИЙ</text>
+	</string>
+
+	<string id="agr_to_bar_level_changer_disabled">
+		<text>НЕТ РАЗРЕШЕНИЯ ДЛЯ ПРОХОДА В БАР</text>
+	</string>
+
+	<string id="nsp_hunters_sleep_locked_text">
+		<text>Какой сон? Захар ждать не будет!</text>
+	</string>
+
+	<string id="gar_to_bar_level_changer_locked">
+		<text>НЕТ РАЗРЕШЕНИЯ ГРУППИРОВКИ «ДОЛГ»!</text>
+	</string>
+
+	<string id="esc_to_gar_level_changer_two_disabled">
+		<text>ВПЕРЕДИ ЗАВАЛ</text>
+	</string>
+
+	<string id="agru_to_agr_level_changer_lock">
+		<text>ЗАКРЫТО</text>
+	</string>
+
+	<string id="kat_to_val_level_changer_lock_message">
+		<text>Возвращаться на бандитскую базу - самоубийство. Стоит поискать другой путь.</text>
+	</string>
+
+	<string id="esc_scientists_task_fail_actor_message_device_taken">
+		<text>Сидорыч, я чудом выжил и раздобыл устройство учёных. Тебе притащить?</text>
+	</string>
+
+	<string id="esc_scientists_task_fail_trader_message_device_taken">
+		<text>Не вздумай там ничего брать, хрен его знает, что там за штука такая! Жду тебя у себя, расскажешь, что случилось.</text>
+	</string>
+
+	<string id="esc_scientists_task_fail_technic_message_device_taken">
+		<text>Топор! Послушай, притащи-ка ты мне эту железку, больно интересно, что она из себя представляет.</text>
+	</string>
+
+	<string id="esc_scientists_task_fail_actor_second_message_device_taken">
+		<text>Михалыч? Ты здесь вообще как, какого чёрта?</text>
+	</string>
+
+	<string id="esc_scientists_task_fail_technic_second_message_device_taken">
+		<text>Опыт взлома с большой земли, об этом потом. Тащи прибор мне, я найду, чем тебя отблагодарить.</text>
+	</string>
+
+	<string id="esc_trader_angry_message_for_attack_village">
+		<text>Что у вас там происходит? Придурок, ты прибор учёных в деревню притащил?! Мозгов совсем нет!</text>
+	</string>
+
+	<string id="esc_scientists_task_actor_message_see_device">
+		<text>Сидор, тут какая-то задница творится. Головастые дошли до летающей деревни. Один из них лезет по телепортам, впервые такое вижу! Похоже, что-то там собирается воткнуть из своего оборудования.</text>
+	</string>
+
+	<string id="esc_scientists_task_trader_message_for_actor_see_device">
+		<text>Ясно. Лучше не лезь туда, никакие приборы мне в бункере не нужны. Мало ли, что там внутри у этих железок.</text>
+	</string>
+
+	<string id="esc_scientists_task_technic_message_for_actor_first">
+		<text>Топор! У меня к тебе просьба: достань для меня ту штуку, про которую ты сейчас что-то говорил торговцу. Мне тоже интересно, что замышляют эти черти.</text>
+	</string>
+
+	<string id="esc_scientists_task_actor_for_technic_message_first">
+		<text>Михалыч?! Ты откуда про это знаешь?</text>
+	</string>
+
+	<string id="esc_scientists_task_technic_message_for_actor_second">
+		<text>У меня свои лазейки. Опыт взлома с большой земли! Сейчас не об этом. Достань для меня прибор, я тебя щедро отблагодарю.</text>
+	</string>
+
+	<string id="esc_scientists_task_actor_for_technic_message_second">
+		<text>Убедил. Постараюсь. Только подожду, пока головастые свалят.</text>
+	</string>
+
+	<string id="esc_scientists_task_tertiary_actor_message_see_device">
+		<text>Сидор, я отстал от учёных, но узнал из сообщения одного сталкера, что они дошли до летающей деревни. Один из них полез через телепорты и установил там какой-то прибор. Может, мне его достать попробовать?</text>
+	</string>
+
+	<string id="esc_scientists_task_tertiary_trader_message_for_actor_see_device">
+		<text>Лучше не лезь туда, никакие приборы мне в бункере не нужны. Мало ли, что там внутри у этих железок.</text>
+	</string>
+
+	<string id="esc_scientists_task_tertiary_technic_message_for_actor_first">
+		<text>Топор! У меня к тебе просьба: достань для меня ту штуку, про которую ты сейчас что-то говорил торговцу. Мне тоже интересно, что замышляют эти черти.</text>
+	</string>
+
+	<string id="esc_scientists_task_tertiary_actor_for_technic_message_first">
+		<text>Михалыч?! Ты откуда про это знаешь?</text>
+	</string>
+
+	<string id="esc_scientists_task_tertiary_technic_message_for_actor_second">
+		<text>У меня свои лазейки. Опыт взлома с большой земли, но сейчас не об этом. Достань для меня прибор, я тебя щедро отблагодарю.</text>
+	</string>
+
+	<string id="esc_scientists_task_tertiary_actor_for_technic_message_second">
+		<text>Посмотрю, что можно сделать...</text>
+	</string>
+
+	<string id="overfirst">
+		<text>Overfirst</text>
+	</string>
+
+	<string id="agr_mid_final_build_complete">
+		<text>Билд закончился, а с ним закончились и приключения Топора! В недалёком будущем будут реализованы оставшиеся три главы сюжетной линии за другого героя, на которого игра уже переключилась!</text>
+	</string>
+
+	<string id="bar_arena_temp_lock">
+		<text>На арене были готовы только два боя. Полноценное её воплощение с новой озвучкой появится в дальнейшем.</text>
+	</string>
+
+	<string id="yan_xottab_breaking_the_door_start_message">
+		<text>Попробую разобраться с дверью...</text>
+	</string>
+
+	<string id="yan_actor_check_bunker_territory_message">
+		<text>Мы пока осмотрим двор.</text>
+	</string>
+
+	<string id="yan_vuslich_see_oddities_message">
+		<text>Командир, я сейчас наблюдаю за окрестностями, и кажется, что-то увидел. Что-то странное.</text>
+	</string>
+
+	<string id="yan_koval_can_handle_message">
+		<text>Идите, я справлюсь сам. За меня не волнуйтесь.</text>
+	</string>
+
+	<string id="yan_actor_koval_start_connect_message">
+		<text>Коваль, прием! Ты закончил со своим оборудованием? Прием, как слышишь?</text>
+	</string>
+
+	<string id="yan_actor_koval_lost_message">
+		<text>Сука, так и знал, что с ним будут проблемы!</text>
+	</string>
+
+	<string id="yan_decryption_process">
+		<text>Расшифровка</text>
+	</string>
+
+	<string id="yan_decryption_process_message">
+		<text>Идёт процесс расшифровки. Пожалуйста, подождите.</text>
+	</string>
+
+	<string id="yan_decryption_process_fail_message">
+		<text>Ошибка. Устройство повреждено.</text>
+	</string>
+
+	<string id="yan_koval_actor_long_dist_1_message">
+		<text>Командир, не отставай!</text>
+	</string>
+
+	<string id="yan_koval_actor_long_dist_2_message">
+		<text>Догоняй, босс, ты где там потерялся?</text>
+	</string>
+
+	<string id="yan_koval_actor_long_dist_3_message">
+		<text>Давай догоняй, чего там тормозишь?</text>
+	</string>
+
+	<string id="yan_koval_dogs_death_message">
+		<text>Вот это ты вовремя!</text>
+	</string>
+
+	<string id="yan_koval_sorry_message">
+		<text>Не серчай, командир, больше такого не повторится!</text>
+	</string>
+
+	<string id="yan_koval_devices_start_message">
+		<text>Сейчас расставлю нужное оборудование. Ты пока это, гляди в оба, ага?</text>
+	</string>
+
+	<string id="yan_vuslich_psy_talk_message">
+		<text>Командир, тут действительно что-то не так. Меня тоже слегка пошатывает.</text>
+	</string>
+
+	<string id="yan_vuslich_see_zombie_message">
+		<text>Командир, зомбированные!</text>
+	</string>
+
+	<string id="yan_vuslich_actor_go_off_switcher_message">
+		<text>Командир, давай наверх, мы прикроем, только быстрее, их тут очень много!</text>
+	</string>
+
+	<string id="yan_help_message_name">
+		<text>Общая сеть</text>
+	</string>
+
+	<string id="yan_vuslich_actor_switcher_compl_message">
+		<text>Ты как, командир? Еще бы минута, и нам точно был бы конец! Вовремя ты эту головоломку выключил!</text>
+	</string>
+
+	<string id="yan_vuslich_condolence_1_message">
+		<text>Жалко их. Всех этих ученых, охрану, сталкеров... Так и останутся теперь тут, даже похоронить некому.</text>
+	</string>
+
+	<string id="yan_vuslich_condolence_2_message">
+		<text>Да так и так обидно. Обидно, что все это случилось из-за какой-то нелепости...</text>
+	</string>
+
+	<string id="yan_actor_final_scene_heli_start_message">
+		<text>Быстрее, быстрее, взлетаем!</text>
+	</string>
+
+	<string id="val_stalker_base_gauss_message">
+		<text>Слышь, братело, подойди-ка, у меня деловое предложение.</text>
+	</string>
+
+	<string id="quicksave">
+		<text>БЫСТРОЕ СОХРАНЕНИЕ</text>
+	</string>
+
+	<string id="autosave">
+		<text>АВТОСОХРАНЕНИЕ</text>
+	</string>
+
+	<string id="st_level_change">
+		<text>ПЕРЕХОД НА ЛОКАЦИЮ</text>
+	</string>
+
+	<string id="gar_to_val_level_changer_disabled">
+		<text>БЕЗ ДЕЛА СОВАТЬСЯ К БАНДИТАМ НЕ СТОИТ</text>
+	</string>
+
+	<string id="st_agr_soldier_sky_scientist_tonnel_info">
+		<text>Есть зацепка по нашему делу. Я бы сказал, зацепище! Два дня назад какие-то cталкеры в общую сеть сбросили сообщение, что аномалия в тоннеле на куски порвала учёного. Не наш ли это клиент?</text>
+	</string>
+
+	<string id="st_esc_soldier_sky_tonnel_remains_info">
+		<text>Журавлев, прием! Я получил результаты экспертизы. Те останки, что ты нашел у аномалии, не принадлежат Дубинину. Все подстроено, чтобы мы его не искали. Такие вот новости. До связи!</text>
+	</string>
+
+	<string id="ts_information_send">
+		<text>Отправлена информация:</text>
+	</string>
+
+	<string id="esc_actor_give_maps_for_trader_text">
+		<text>Карты Янтаря</text>
+	</string>
+
+	<string id="esc_to_nsp_level_changer_after_yantar_disabled">
+		<text>ДАЛЬШЕ ИДЁТ НЕРАЗВЕДАННАЯ ТЕРРИТОРИЯ</text>
+	</string>
+
+	<string id="esc_to_gar_level_changer_after_yantar_disabled">
+		<text>СТОИТ ПОИСКАТЬ ОСТАВШИЕСЯ ЗАЦЕПКИ НА КОРДОНЕ</text>
+	</string>
+
+	<string id="agr_to_gar_level_changer_mid_final_disabled">
+		<text>НЕ БЫЛО ПРИКАЗА ПОКИДАТЬ АГРОПРОМ</text>
+	</string>
+
+	<string id="mil_to_bar_level_changer_danger_disabled">
+		<text>ВЕРНУТЬСЯ В БАР - САМОУБИЙСТВО</text>
+	</string>
+
+	<string id="agr_to_yan_level_changer_disabled">
+		<text>НЕТ СВЕЖИХ СВЕДЕНИЙ ОБ ЭТОМ ПУТИ</text>
+	</string>
+
+	<string id="yan_to_agr_level_changer_disabled">
+		<text>НУЖНО ЗАКОНЧИТЬ С ПОСТАВЛЕННОЙ ЗАДАЧЕЙ</text>
+	</string>
+
+	<string id="mil_to_mkat_level_changer_disabled">
+		<text>НОРА ПРАКТИЧЕСКИ ПОЛНОСТЬЮ ЗАВАЛЕНА</text>
+	</string>
+
+	<string id="mil_to_red_forest_fake_level_changer_disabled">
+		<text>ДОРОГА В РЫЖИЙ ЛЕС ДАВНО КИШИТ МУТАНТАМИ</text>
+	</string>
+
+	<string id="mil_to_radar_level_changer_disabled">
+		<text>ПОХОД НА РАДАР — ДОРОГА В ОДИН КОНЕЦ</text>
+	</string>
+
+	<string id="st_mil_skylight_device_name">
+		<text>SkyLight</text>
+	</string>
+
+	<string id="st_skylight_device_start_message">
+		<text>Соединение потеряно.</text>
+	</string>
+
+	<string id="st_skylight_device_reconnect_message">
+		<text>Переподключение...</text>
+	</string>
+
+	<string id="st_skylight_device_error_message">
+		<text>Ошибка соединения.</text>
+	</string>
+
+	<string id="st_key_action_use">
+		<text>[$$ACTION_USE$$]</text>
+	</string>
+
+	<string id="sleep_warning_all_pleasures">
+		<text>ВЫСОКИЙ УРОВЕНЬ ОБЛУЧЕНИЯ, СИЛЬНОЕ КРОВОТЕЧЕНИЕ</text>
+	</string>
+
+	<string id="sleep_warning_bleeding">
+		<text>СИЛЬНОЕ КРОВОТЕЧЕНИЕ</text>
+	</string>
+
+	<string id="sleep_warning_radiation">
+		<text>ВЫСОКИЙ УРОВЕНЬ ОБЛУЧЕНИЯ</text>
+	</string>
+
+	<string id="mlab_week_static_text">
+		<text>НЕДЕЛЮ СПУСТЯ</text>
+	</string>
+
+	<string id="mlab_smart_clock">
+		<text>Смарт-часы</text>
+	</string>
+
+	<string id="mlab_smart_call_info">
+		<text>Входящий вызов (кабинет Дубинина)</text>
+	</string>
+
+	<string id="ls_chapter_name">
+		<text>ГЛАВА</text>
+	</string>
+
+	<string id="ls_TS_chapter_1_name">
+		<text>«Прибытие»</text>
+	</string>
+
+	<string id="ls_TS_chapter_1_desc">
+		<text>Вот и снова я в Зоне. Нужно немного заработать на Кордоне, обзавестись снарягой, снова привыкнуть к здешним правилам и выдвигаться дальше. Туда, где интересно и опасно. Туда, где ты сам за себя.</text>
+	</string>
+
+	<string id="ls_TS_chapter_2_name">
+		<text>«За Кордоном»</text>
+	</string>
+
+	<string id="ls_TS_chapter_2_desc">
+		<text>Новым окрестностям не пришлось долго меня ждать. Теперь моя задача - освоиться в здешних краях и начать зарабатывать на жизнь далеко от периметра.</text>
+	</string>
+
+	<string id="ls_TS_chapter_3_name">
+		<text>«Бандитская долина»</text>
+	</string>
+
+	<string id="ls_TS_chapter_3_desc">
+		<text>Никогда бы не подумал, что придётся вести дела с самыми настоящими бандитами. Буду надеяться, что из этого выйдет мне хоть какая-то польза... или хотя бы останусь при своём.</text>
+	</string>
+
+	<string id="ls_TS_chapter_4_name">
+		<text>«Хозяин подземелий»</text>
+	</string>
+
+	<string id="ls_TS_chapter_4_desc">
+		<text>Трухляй мёртв - его бывшие друзья напали в самый неподходящий момент. В попыхах забрёл в какое-то подземелье под базой бандитов. Сейчас нужно быть аккуратным и стараться не вляпаться куда-нибудь ещё.</text>
+	</string>
+
+	<string id="ls_TS_chapter_5_name">
+		<text>«Трансмутация»</text>
+	</string>
+
+	<string id="ls_TS_chapter_5_desc">
+		<text>За бандитскими делами последовало не менее интересное приключение - всяческая беготня по просьбам учёных. Зато платят хорошо и исправно. Везде бы так.</text>
+	</string>
+
+	<string id="ls_TS_chapter_6_name">
+		<text>«Артефакт смерти»</text>
+	</string>
+
+	<string id="ls_TS_chapter_6_desc">
+		<text>Окрестности «Новошепеличей» для меня теперь будут одними из самых интересных и загадочных мест в Зоне. Уже на подходе я ощутил масштабы этих лесных просторов, и с каждой минутой пребывания здесь мне всё больше становится не по себе.</text>
+	</string>
+
+	<string id="ls_TS_chapter_7_name">
+		<text>«В чёрной заводи колодца»</text>
+	</string>
+
+	<string id="ls_TS_chapter_7_desc">
+		<text>Передо мной и моим отрядом поставлена задача: нужно отправиться в окрестности озера «Янтарь» и узнать причины обрыва связи с этой территорией.</text>
+	</string>
+
+	<string id="ls_TS_chapter_8_name">
+		<text>«Лицом к лицу»</text>
+	</string>
+
+	<string id="ls_TS_chapter_8_desc">
+		<text>Пропажа профессора Дубинина не на шутку встревожила руководство НИИ. Мне поручено найти любые зацепки о его пропаже или, что ещё лучше, его самого.</text>
+	</string>
+
+	<string id="ls_TS_chapter_9_name">
+		<text>«Развязка»</text>
+	</string>
+
+	<string id="ls_TS_chapter_9_desc">
+		<text>Наступила пора узнать, что скрывается в этой подземной лаборатории: кто такие эти наёмники во главе с Термитом и что же здесь делает профессор Дубинин.</text>
+	</string>
+
+	<string id="agr_composer_task_wait_time">
+		<text>УДЕРЖИВАТЬ ПОЗИЦИИ</text>
+	</string>
+
+	<string id="agr_composer_task_wait_controller_zone_time">
+		<text>ИДЁТ ЗАМЕР ПСИ-АКТИВНОСТИ</text>
+	</string>
+
+	<string id="gar_stalker_nimble_order_complete_message_1">
+		<text>Сталкер, заказ готов, можешь забирать.</text>
+	</string>
+
+	<string id="gar_stalker_nimble_order_complete_message_2">
+		<text>Заказ прибыл, подруливай.</text>
+	</string>
+
+	<string id="gar_stalker_nimble_order_complete_message_3">
+		<text>Можешь приходить за товаром, сталкер.</text>
+	</string>
+
+	<string id="esc_stalker_liar_reward_message">
+		<text>Дружище, я договорился с Сидором, приходи в деревню, я отдам тебе твою награду. Буду у костра с ребятами.</text>
+	</string>
+
+	<string id="gar_stalker_google_chrome_actor_leave_message">
+		<text>Несговорчивый ты какой-то, сталкер. Лови в качестве награды координаты моего тайника. Попутного ветра.</text>
+	</string>
+
+	<string id="esc_actor_stalker_task_sos_message">
+		<text>Получены координаты источника сигнала SOS</text>
+	</string>
+
+	<string id="esc_actor_stalker_task_open_box_message">
+		<text>Вы получили доступ к вещам из личного ящика Топора</text>
+	</string>
+
+	<string id="esc_fake_final_message_box_answer">
+		<text>ВЫ ДЕЙСТВИТЕЛЬНО ХОТИТЕ ПОКИНУТЬ ЗОНУ?</text>
+	</string>
+
+	<string id="esc_fake_final_message_box_locked">
+		<text>НАЗАД ДОРОГИ НЕТ!</text>
+	</string>
+
+	<string id="esc_pre_final_message_title">
+		<text>ВНИМАНИЕ!</text>
+	</string>
+
+	<string id="esc_pre_final_message_text">
+		<text>ДАЛЕЕ В ИСТОРИИ ПОСЛЕДУЕТ ЧЕРЕДА РЕШАЮЩИХ СОБЫТИЙ. УБЕДИТЕСЬ,\nЧТО ЗАВЕРШИЛИ ВСЕ СВОИ ДЕЛА, ПРЕЖДЕ ЧЕМ ОТПРАВИТЬСЯ ДАЛЬШЕ,\nЧТОБЫ НЕ ПОТЕРЯТЬ ДОСТИГНУТЫЙ ПРОГРЕСС.</text>
+	</string>
+
+	<string id="esc_pre_final_message_confirm">
+		<text>ПРОДОЛЖИТЬ</text>
+	</string>
+
 </string_table>

@@ -1,324 +1,432 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_hidden_place">
-    <text>РќРµРёР·РІРµРґР°РЅРЅР°СЏ С‚РµСЂСЂРёС‚РѕСЂРёСЏ</text>
-  </string>
-  <string id="st_hidden_place_inspected">
-    <text>РРЎРЎР›Р•Р”РћР’РђРќРђ РўР•Р Р РРўРћР РРЇ</text>
-  </string>
-  <string id="st_agr_inspect_zone_1">
-    <text>РђРЅРѕРјР°Р»СЊРЅС‹Р№ С‚РѕРЅРЅРµР»СЊ</text>
-  </string>
-  <string id="st_agr_inspect_zone_2">
-    <text>РљР°Р±Р°РЅРёР№ С„РѕСЂРїРѕСЃС‚</text>
-  </string>
-  <string id="st_agr_inspect_zone_3">
-    <text>РњС‘СЂС‚РІР°СЏ РїРѕР»СЏРЅР°</text>
-  </string>
-  <string id="st_agr_inspect_zone_4">
-    <text>Р›РµСЃ</text>
-  </string>
-  <string id="st_agr_inspect_zone_5">
-    <text>Р¦РљРџ В«Р‘РѕСЂРѕРІРёРєВ»</text>
-  </string>
-  <string id="st_agr_inspect_zone_6">
-    <text>РђРЅРѕРјР°Р»СЊРЅРѕРµ РїР»Р°С‚Рѕ</text>
-  </string>
-  <string id="st_agr_inspect_zone_7">
-    <text>Р Р¶Р°РІРѕРµ РѕР·РµСЂРѕ</text>
-  </string>
-  <string id="st_agr_inspect_zone_8">
-    <text>РќРР В«РђРіСЂРѕРїСЂРѕРјВ»</text>
-  </string>
-  <string id="st_agr_inspect_zone_9">
-    <text>РђРЅРѕРјР°Р»СЊРЅРѕРµ РїРѕР»Рµ</text>
-  </string>
-  <string id="st_agr_inspect_zone_10">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РљР°С‚РѕСЂРіР°В»</text>
-  </string>
-  <string id="st_bar_inspect_zone_1">
-    <text>Р“Р°СЂР°Р¶</text>
-  </string>
-  <string id="st_bar_inspect_zone_2">
-    <text>Р—Р°РїР°РґРЅС‹Р№ Р±Р»РѕРєРїРѕСЃС‚</text>
-  </string>
-  <string id="st_bar_inspect_zone_3">
-    <text>Р‘Р°Р·Р° В«Р”РѕР»РіР°В»</text>
-  </string>
-  <string id="st_bar_inspect_zone_4">
-    <text>РђСЂРµРЅР°</text>
-  </string>
-  <string id="st_bar_inspect_zone_5">
-    <text>Р‘Р°СЂ В«100 СЂРµРЅС‚РіРµРЅВ»</text>
-  </string>
-  <string id="st_bar_inspect_zone_6">
-    <text>Р®Р¶РЅС‹Р№ Р±Р»РѕРєРїРѕСЃС‚</text>
-  </string>
-  <string id="st_bar_inspect_zone_7">
-    <text>РџСЂРёРІР°Р»</text>
-  </string>
-  <string id="st_bar_inspect_zone_8">
-    <text>РЎРѕР±Р°С‡СЊСЏ РїРµСЂРµРїСЂР°РІР°</text>
-  </string>
-  <string id="st_val_inspect_zone_1">
-    <text>Р¤РµСЂРјР°</text>
-  </string>
-  <string id="st_val_inspect_zone_2">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РўРµР»РµРіСЂР°С„В»</text>
-  </string>
-  <string id="st_val_inspect_zone_3">
-    <text>Р—РІРµСЂРёРЅРµС†</text>
-  </string>
-  <string id="st_val_inspect_zone_4">
-    <text>РђРЅРѕРјР°Р»СЊРЅРѕРµ Р±РѕР»РѕС‚Рѕ</text>
-  </string>
-  <string id="st_val_inspect_zone_5">
-    <text>Р—Р°РїР°РґРЅС‹Р№ Р±Р»РѕРєРїРѕСЃС‚</text>
-  </string>
-  <string id="st_val_inspect_zone_6">
-    <text>РћСЃС‚Р°РЅРѕРІРєР°</text>
-  </string>
-  <string id="st_val_inspect_zone_7">
-    <text>Р—Р°РІРѕРґ</text>
-  </string>
-  <string id="st_val_inspect_zone_8">
-    <text>Р‘РµСЂРµРі СЂРµРєРё</text>
-  </string>
-  <string id="st_val_inspect_zone_9">
-    <text>Р‘Р°Р·Р° Р±Р°РЅРґРёС‚РѕРІ</text>
-  </string>
-  <string id="st_val_inspect_zone_10">
-    <text>Р—Р°РїСЂР°РІРєР°</text>
-  </string>
-  <string id="st_val_inspect_zone_11">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РўРёС…РёРµ Р·РѕСЂРёВ»</text>
-  </string>
-  <string id="st_esc_inspect_zone_1">
-    <text>Р‘Р»РѕРєРїРѕСЃС‚ В«Р”РёС‚СЏС‚РєРёВ»</text>
-  </string>
-  <string id="st_esc_inspect_zone_2">
-    <text>РўРѕРЅРЅРµР»СЊ РЅР° Р‘РѕР»РѕС‚Р°</text>
-  </string>
-  <string id="st_esc_inspect_zone_3">
-    <text>Р”РµСЂРµРІРЅСЏ РЅРѕРІРёС‡РєРѕРІ</text>
-  </string>
-  <string id="st_esc_inspect_zone_4">
-    <text>Р Р°РґРёРѕР°РєС‚РёРІРЅРѕРµ Р±РѕР»РѕС‚Рѕ</text>
-  </string>
-  <string id="st_esc_inspect_zone_5">
-    <text>РђРЅРѕРјР°Р»СЊРЅС‹Р№ РїРµСЂРµС…РѕРґ</text>
-  </string>
-  <string id="st_esc_inspect_zone_6">
-    <text>Р­Р»РµРІР°С‚РѕСЂ</text>
-  </string>
-  <string id="st_esc_inspect_zone_7">
-    <text>РђРўРџ</text>
-  </string>
-  <string id="st_esc_inspect_zone_8">
-    <text>РђРЅРѕРјР°Р»СЊРЅС‹Р№ С‚РѕРЅРЅРµР»СЊ</text>
-  </string>
-  <string id="st_esc_inspect_zone_9">
-    <text>Р¤РѕСЂРїРѕСЃС‚</text>
-  </string>
-  <string id="st_esc_inspect_zone_10">
-    <text>Р­Р»РµРєС‚СЂРёС‡РµСЃРєРёР№ С‚РѕРЅРЅРµР»СЊ</text>
-  </string>
-  <string id="st_esc_inspect_zone_11">
-    <text>РќРёР¶РЅРёР№ С…СѓС‚РѕСЂ</text>
-  </string>
-  <string id="st_esc_inspect_zone_12">
-    <text>РђРЅРѕРјР°Р»СЊРЅС‹Р№ С‚РµРїР»РѕРІРѕР·</text>
-  </string>
-  <string id="st_esc_inspect_zone_13">
-    <text>РўР°Р№РЅС‹Р№ РїРµСЂРµС…РѕРґ</text>
-  </string>
-  <string id="st_esc_inspect_zone_14">
-    <text>Р¤РµСЂРјР°</text>
-  </string>
-  <string id="st_esc_inspect_zone_15">
-    <text>Р’РµСЂС…РЅРёР№ С…СѓС‚РѕСЂ</text>
-  </string>
-  <string id="st_esc_inspect_zone_16">
-    <text>В«Р“СЂСѓР·РѕРІРёРє СЃРјРµСЂС‚РёВ»</text>
-  </string>
-  <string id="st_esc_inspect_zone_17">
-    <text>Р›РµСЃРѕРїРёР»РєР°</text>
-  </string>
-  <string id="st_esc_inspect_zone_18">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РџРµРєР»РѕВ»</text>
-  </string>
-  <string id="st_esc_inspect_zone_19">
-    <text>РљРџРџ</text>
-  </string>
-  <string id="st_mil_inspect_zone_1">
-    <text>Р’РѕРµРЅРЅР°СЏ Р±Р°Р·Р°</text>
-  </string>
-  <string id="st_mil_inspect_zone_2">
-    <text>РўРёСЂ</text>
-  </string>
-  <string id="st_mil_inspect_zone_3">
-    <text>РњРёРЅРЅРѕРµ РїРѕР»Рµ</text>
-  </string>
-  <string id="st_mil_inspect_zone_4">
-    <text>Р‘РѕР»РѕС‚С†Рµ</text>
-  </string>
-  <string id="st_mil_inspect_zone_5">
-    <text>Р‘Р°СЂСЊРµСЂ</text>
-  </string>
-  <string id="st_mil_inspect_zone_6">
-    <text>РўСЂСѓРґРЅРѕРґРѕСЃС‚СѓРїРЅС‹Р№ РІРµСЂС‚РѕР»С‘С‚</text>
-  </string>
-  <string id="st_mil_inspect_zone_7">
-    <text>РЎРµРІРµСЂРЅС‹Р№ С…СѓС‚РѕСЂ</text>
-  </string>
-  <string id="st_mil_inspect_zone_8">
-    <text>РљРџРџ</text>
-  </string>
-  <string id="st_mil_inspect_zone_9">
-    <text>В«РљСЂРѕРІРѕСЃРѕСЃРѕРІРєР°В»</text>
-  </string>
-  <string id="st_mil_inspect_zone_10">
-    <text>Р®Р¶РЅС‹Р№ РІС…РѕРґ</text>
-  </string>
-  <string id="st_mil_inspect_zone_11">
-    <text>РџСЂРёРІР°Р» РјР°СЃС‚РµСЂРѕРІ</text>
-  </string>
-  <string id="st_mil_inspect_zone_12">
-    <text>Р®Р¶РЅС‹Р№ С…СѓС‚РѕСЂ</text>
-  </string>
-  <string id="st_mil_inspect_zone_13">
-    <text>РђРЅРѕРјР°Р»СЊРЅС‹Р№ С‚СЂР°РєС‚РѕСЂ</text>
-  </string>
-  <string id="st_yan_inspect_zone_1">
-    <text>РџСЂРёРІР°Р»</text>
-  </string>
-  <string id="st_yan_inspect_zone_2">
-    <text>РџСЂРѕРІР°Р»</text>
-  </string>
-  <string id="st_yan_inspect_zone_3">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РЎРјСЂР°РґВ»</text>
-  </string>
-  <string id="st_yan_inspect_zone_4">
-    <text>Р—Р°РІРѕРґ В«РЇРЅС‚Р°СЂСЊВ»</text>
-  </string>
-  <string id="st_yan_inspect_zone_5">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РљРѕС‚С‘Р»В»</text>
-  </string>
-  <string id="st_yan_inspect_zone_6">
-    <text>РџР»Р°С‚Рѕ</text>
-  </string>
-  <string id="st_yan_inspect_zone_7">
-    <text>Р‘СѓРЅРєРµСЂ СѓС‡С‘РЅС‹С…</text>
-  </string>
-  <string id="st_yan_inspect_zone_8">
-    <text>РћР·РµСЂРѕ В«РЇРЅС‚Р°СЂСЊВ»</text>
-  </string>
-  <string id="st_nsp_inspect_zone_1">
-    <text>РђРЅРѕРјР°Р»СЊРЅРѕРµ С…СЂР°РЅРёР»РёС‰Рµ</text>
-  </string>
-  <string id="st_nsp_inspect_zone_2">
-    <text>Р”РµСЂРµРІРЅСЏ В«РќРѕРІРѕС€РµРїРµР»РёС‡РёВ»</text>
-  </string>
-  <string id="st_nsp_inspect_zone_3">
-    <text>Р‘Р°СЂ</text>
-  </string>
-  <string id="st_nsp_inspect_zone_4">
-    <text>РћСЃС‚Р°РЅРѕРІРєР°</text>
-  </string>
-  <string id="st_nsp_inspect_zone_5">
-    <text>РќР°СѓС‡РЅРѕ-РІРѕРµРЅРЅР°СЏ Р±Р°Р·Р°</text>
-  </string>
-  <string id="st_nsp_inspect_zone_6">
-    <text>РџСЂРёРІР°Р» РѕС…РѕС‚РЅРёРєРѕРІ</text>
-  </string>
-  <string id="st_nsp_inspect_zone_7">
-    <text>РќРµС„С‚РµР±Р°Р·Р°</text>
-  </string>
-  <string id="st_nsp_inspect_zone_8">
-    <text>РќР°СѓС‡РЅС‹Р№ РєРѕРјРїР»РµРєСЃ В«Р‘Р°СЃСЃРµР№РЅВ»</text>
-  </string>
-  <string id="st_nsp_inspect_zone_9">
-    <text>Р‘РѕР»РѕС‚С†Рµ</text>
-  </string>
-  <string id="st_nsp_inspect_zone_10">
-    <text>РџРѕР»СЏ</text>
-  </string>
-  <string id="st_nsp_inspect_zone_11">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РЎР°С…Р°СЂР°В»</text>
-  </string>
-  <string id="st_nsp_inspect_zone_12">
-    <text>РўРѕРЅРЅРµР»СЊ РЅР° РљРѕСЂРґРѕРЅ</text>
-  </string>
-  <string id="st_nsp_inspect_zone_13">
-    <text>РљРџРџ</text>
-  </string>
-  <string id="st_nsp_inspect_zone_14">
-    <text>РџРµСЂРµРµР·Рґ</text>
-  </string>
-  <string id="st_nsp_inspect_zone_15">
-    <text>РЎРµРјРёС…РѕРґСЃРєРёР№ РјРѕСЃС‚</text>
-  </string>
-  <string id="st_nsp_inspect_zone_16">
-    <text>РџРµСЂРµРІР°Р» Сѓ РјРѕСЃС‚Р°</text>
-  </string>
-  <string id="st_nsp_inspect_zone_17">
-    <text>РџР°Р»Р°С‚РѕС‡РЅС‹Р№ Р»Р°РіРµСЂСЊ</text>
-  </string>
-  <string id="st_nsp_inspect_zone_18">
-    <text>РќРµСѓРґР°С‡РЅР°СЏ РїРµСЂРµРїСЂР°РІР°</text>
-  </string>
-  <string id="st_nsp_inspect_zone_19">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РџРѕРіРѕСЃС‚В»</text>
-  </string>
-  <string id="st_gar_inspect_zone_1">
-    <text>РћСЃС‚РѕРІ РґРµСЂРµРІРЅРё</text>
-  </string>
-  <string id="st_gar_inspect_zone_2">
-    <text>Р‘РѕР»РѕС‚Рѕ Сѓ РїРѕРґСЃС‚Р°РЅС†РёРё</text>
-  </string>
-  <string id="st_gar_inspect_zone_3">
-    <text>Р—Р°РіР°РґРѕС‡РЅС‹Р№ Р»РµСЃ</text>
-  </string>
-  <string id="st_gar_inspect_zone_4">
-    <text>РљР»Р°РґР±РёС‰Рµ С‚РµС…РЅРёРєРё</text>
-  </string>
-  <string id="st_gar_inspect_zone_5">
-    <text>РђРЅРѕРјР°Р»СЊРЅС‹Р№ С„РѕСЂРїРѕСЃС‚</text>
-  </string>
-  <string id="st_gar_inspect_zone_6">
-    <text>РљР»Р°РґР±РёС‰Рµ РІРµСЂС‚РѕР»С‘С‚РѕРІ</text>
-  </string>
-  <string id="st_gar_inspect_zone_7">
-    <text>РџСЂРёРІР°Р» РЅР° РѕР±РѕС‡РёРЅРµ</text>
-  </string>
-  <string id="st_gar_inspect_zone_8">
-    <text>Р”Р•РџРћ</text>
-  </string>
-  <string id="st_gar_inspect_zone_9">
-    <text>РЎС‚РѕСЏРЅРєР° Р±Р°РЅРґРёС‚РѕРІ</text>
-  </string>
-  <string id="st_gar_inspect_zone_10">
-    <text>РўРѕРЅРЅРµР»СЊ</text>
-  </string>
-  <string id="st_gar_inspect_zone_11">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РўРµСЃР»Р°В»</text>
-  </string>
-  <string id="st_gar_inspect_zone_12">
-    <text>Р—Р°СЃС‚Р°РІР° В«Р”РѕР»РіР°В»</text>
-  </string>
-  <string id="st_gar_inspect_zone_13">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РџРѕР»РµВ»</text>
-  </string>
-  <string id="st_gar_inspect_zone_14">
-    <text>Р›Р°РіРµСЂСЊ РІ РєР°РјРЅСЏС…</text>
-  </string>
-  <string id="st_gar_inspect_zone_15">
-    <text>Р›РµСЃРѕРїРѕР»РѕСЃР°</text>
-  </string>
-  <string id="st_gar_inspect_zone_16">
-    <text>Р‘Р°СЂР°С…РѕР»РєР°</text>
-  </string>
-  <string id="st_gar_inspect_zone_17">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РњСѓСЃРѕСЂРєР°В»</text>
-  </string>
+
+	<string id="st_hidden_place">
+		<text>Неизведанная территория</text>
+	</string>
+
+	<string id="st_hidden_place_inspected">
+		<text>ИССЛЕДОВАНА ТЕРРИТОРИЯ</text>
+	</string>
+
+	<string id="st_agr_inspect_zone_1">
+		<text>Аномальный тоннель</text>
+	</string>
+
+	<string id="st_agr_inspect_zone_2">
+		<text>Кабаний форпост</text>
+	</string>
+
+	<string id="st_agr_inspect_zone_3">
+		<text>Мёртвая поляна</text>
+	</string>
+
+	<string id="st_agr_inspect_zone_4">
+		<text>Лес</text>
+	</string>
+
+	<string id="st_agr_inspect_zone_5">
+		<text>ЦКП «Боровик»</text>
+	</string>
+
+	<string id="st_agr_inspect_zone_6">
+		<text>Аномальное плато</text>
+	</string>
+
+	<string id="st_agr_inspect_zone_7">
+		<text>Ржавое озеро</text>
+	</string>
+
+	<string id="st_agr_inspect_zone_8">
+		<text>НИИ «Агропром»</text>
+	</string>
+
+	<string id="st_agr_inspect_zone_9">
+		<text>Аномальное поле</text>
+	</string>
+
+	<string id="st_agr_inspect_zone_10">
+		<text>Аномалия «Каторга»</text>
+	</string>
+
+	<string id="st_bar_inspect_zone_1">
+		<text>Гараж</text>
+	</string>
+
+	<string id="st_bar_inspect_zone_2">
+		<text>Западный блокпост</text>
+	</string>
+
+	<string id="st_bar_inspect_zone_3">
+		<text>База «Долга»</text>
+	</string>
+
+	<string id="st_bar_inspect_zone_4">
+		<text>Арена</text>
+	</string>
+
+	<string id="st_bar_inspect_zone_5">
+		<text>Бар «100 рентген»</text>
+	</string>
+
+	<string id="st_bar_inspect_zone_6">
+		<text>Южный блокпост</text>
+	</string>
+
+	<string id="st_bar_inspect_zone_7">
+		<text>Привал</text>
+	</string>
+
+	<string id="st_bar_inspect_zone_8">
+		<text>Собачья переправа</text>
+	</string>
+
+	<string id="st_val_inspect_zone_1">
+		<text>Ферма</text>
+	</string>
+
+	<string id="st_val_inspect_zone_2">
+		<text>Аномалия «Телеграф»</text>
+	</string>
+
+	<string id="st_val_inspect_zone_3">
+		<text>Зверинец</text>
+	</string>
+
+	<string id="st_val_inspect_zone_4">
+		<text>Аномальное болото</text>
+	</string>
+
+	<string id="st_val_inspect_zone_5">
+		<text>Западный блокпост</text>
+	</string>
+
+	<string id="st_val_inspect_zone_6">
+		<text>Остановка</text>
+	</string>
+
+	<string id="st_val_inspect_zone_7">
+		<text>Завод</text>
+	</string>
+
+	<string id="st_val_inspect_zone_8">
+		<text>Берег реки</text>
+	</string>
+
+	<string id="st_val_inspect_zone_9">
+		<text>База бандитов</text>
+	</string>
+
+	<string id="st_val_inspect_zone_10">
+		<text>Заправка</text>
+	</string>
+
+	<string id="st_val_inspect_zone_11">
+		<text>Аномалия «Тихие зори»</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_1">
+		<text>Блокпост «Дитятки»</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_2">
+		<text>Тоннель на Болота</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_3">
+		<text>Деревня новичков</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_4">
+		<text>Радиоактивное болото</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_5">
+		<text>Аномальный переход</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_6">
+		<text>Элеватор</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_7">
+		<text>АТП</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_8">
+		<text>Аномальный тоннель</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_9">
+		<text>Форпост</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_10">
+		<text>Электрический тоннель</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_11">
+		<text>Нижний хутор</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_12">
+		<text>Аномальный тепловоз</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_13">
+		<text>Тайный переход</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_14">
+		<text>Ферма</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_15">
+		<text>Верхний хутор</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_16">
+		<text>«Грузовик смерти»</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_17">
+		<text>Лесопилка</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_18">
+		<text>Аномалия «Пекло»</text>
+	</string>
+
+	<string id="st_esc_inspect_zone_19">
+		<text>КПП</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_1">
+		<text>Военная база</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_2">
+		<text>Тир</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_3">
+		<text>Минное поле</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_4">
+		<text>Болотце</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_5">
+		<text>Барьер</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_6">
+		<text>Труднодоступный вертолёт</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_7">
+		<text>Северный хутор</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_8">
+		<text>КПП</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_9">
+		<text>«Кровососовка»</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_10">
+		<text>Южный вход</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_11">
+		<text>Привал мастеров</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_12">
+		<text>Южный хутор</text>
+	</string>
+
+	<string id="st_mil_inspect_zone_13">
+		<text>Аномальный трактор</text>
+	</string>
+
+	<string id="st_yan_inspect_zone_1">
+		<text>Привал</text>
+	</string>
+
+	<string id="st_yan_inspect_zone_2">
+		<text>Провал</text>
+	</string>
+
+	<string id="st_yan_inspect_zone_3">
+		<text>Аномалия «Смрад»</text>
+	</string>
+
+	<string id="st_yan_inspect_zone_4">
+		<text>Завод «Янтарь»</text>
+	</string>
+
+	<string id="st_yan_inspect_zone_5">
+		<text>Аномалия «Котёл»</text>
+	</string>
+
+	<string id="st_yan_inspect_zone_6">
+		<text>Плато</text>
+	</string>
+
+	<string id="st_yan_inspect_zone_7">
+		<text>Бункер учёных</text>
+	</string>
+
+	<string id="st_yan_inspect_zone_8">
+		<text>Озеро «Янтарь»</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_1">
+		<text>Аномальное хранилище</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_2">
+		<text>Деревня «Новошепеличи»</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_3">
+		<text>Бар</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_4">
+		<text>Остановка</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_5">
+		<text>Научно-военная база</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_6">
+		<text>Привал охотников</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_7">
+		<text>Нефтебаза</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_8">
+		<text>Научный комплекс «Бассейн»</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_9">
+		<text>Болотце</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_10">
+		<text>Поля</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_11">
+		<text>Аномалия «Сахара»</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_12">
+		<text>Тоннель на Кордон</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_13">
+		<text>КПП</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_14">
+		<text>Переезд</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_15">
+		<text>Семиходский мост</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_16">
+		<text>Перевал у моста</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_17">
+		<text>Палаточный лагерь</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_18">
+		<text>Неудачная переправа</text>
+	</string>
+
+	<string id="st_nsp_inspect_zone_19">
+		<text>Аномалия «Погост»</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_1">
+		<text>Остов деревни</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_2">
+		<text>Болото у подстанции</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_3">
+		<text>Загадочный лес</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_4">
+		<text>Кладбище техники</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_5">
+		<text>Аномальный форпост</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_6">
+		<text>Кладбище вертолётов</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_7">
+		<text>Привал на обочине</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_8">
+		<text>ДЕПО</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_9">
+		<text>Стоянка бандитов</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_10">
+		<text>Тоннель</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_11">
+		<text>Аномалия «Тесла»</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_12">
+		<text>Застава «Долга»</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_13">
+		<text>Аномалия «Поле»</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_14">
+		<text>Лагерь в камнях</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_15">
+		<text>Лесополоса</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_16">
+		<text>Барахолка</text>
+	</string>
+
+	<string id="st_gar_inspect_zone_17">
+		<text>Аномалия «Мусорка»</text>
+	</string>
+
 </string_table>

@@ -1,147 +1,196 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="escape">
-    <text>РљРѕСЂРґРѕРЅ</text>
-  </string>
-  <string id="garbage">
-    <text>РЎРІР°Р»РєР°</text>
-  </string>
-  <string id="agroprom">
-    <text>РђРіСЂРѕРїСЂРѕРј</text>
-  </string>
-  <string id="agroprom_underground">
-    <text>РџРѕРґР·РµРјРµР»СЊСЏ РђРіСЂРѕРїСЂРѕРјР°</text>
-  </string>
-  <string id="darkvalley">
-    <text>РўС‘РјРЅР°СЏ Р”РѕР»РёРЅР°</text>
-  </string>
-  <string id="labx18">
-    <text>Р›Р°Р±РѕСЂР°С‚РѕСЂРёСЏ РҐ-18</text>
-  </string>
-  <string id="ts_valley_katakomb">
-    <text>РЁР»СЋР· В«CВ»</text>
-  </string>
-  <string id="ts_nshep">
-    <text>РќРѕРІРѕС€РµРїРµР»РёС‡Рё</text>
-  </string>
-  <string id="bar">
-    <text>Р‘Р°СЂ</text>
-  </string>
-  <string id="yantar">
-    <text>РЇРЅС‚Р°СЂСЊ</text>
-  </string>
-  <string id="military">
-    <text>РђСЂРјРµР№СЃРєРёРµ РЎРєР»Р°РґС‹</text>
-  </string>
-  <string id="ts_military_katakomb">
-    <text>РЁР»СЋР· В«DВ»</text>
-  </string>
-  <string id="ts_millab">
-    <text>РћР±СЉРµРєС‚-21</text>
-  </string>
-  <string id="to_esc">
-    <text>РќР° РљРѕСЂРґРѕРЅ</text>
-  </string>
-  <string id="to_gar">
-    <text>РќР° РЎРІР°Р»РєСѓ</text>
-  </string>
-  <string id="to_agr">
-    <text>РќР° РђРіСЂРѕРїСЂРѕРј</text>
-  </string>
-  <string id="to_val">
-    <text>Р’ РўС‘РјРЅСѓСЋ Р”РѕР»РёРЅСѓ</text>
-  </string>
-  <string id="to_labx18">
-    <text>Р’ Р›Р°Р±РѕСЂР°С‚РѕСЂРёСЋ РҐ-18</text>
-  </string>
-  <string id="st_lchanger_to_ts_nshep">
-    <text>Р’ РќРѕРІРѕС€РµРїРµР»РёС‡Рё</text>
-  </string>
-  <string id="st_lchanger_to_bar">
-    <text>Р’ Р‘Р°СЂ</text>
-  </string>
-  <string id="esc_sr_dynamite_spot_name">
-    <text>Р“РґРµ-С‚Рѕ Р·РґРµСЃСЊ Р’РѕР»Рє СЃРїСЂСЏС‚Р°Р» РґРёРЅР°РјРёС‚</text>
-  </string>
-  <string id="esc_robbery_novices_spot_elevator_name">
-    <text>Р­Р»РµРІР°С‚РѕСЂ\nР—РґРµСЃСЊ СЃС‚РѕРёС‚ РїРѕРёСЃРєР°С‚СЊ РІРѕСЂРѕРІ</text>
-  </string>
-  <string id="esc_robbery_novices_spot_ferma_name">
-    <text>Р¤РµСЂРјР°\nР—РґРµСЃСЊ СЃС‚РѕРёС‚ РїРѕРёСЃРєР°С‚СЊ РІРѕСЂРѕРІ</text>
-  </string>
-  <string id="esc_sr_forestry_spot_name">
-    <text>Р›РµСЃРѕРїРёР»РєР°</text>
-  </string>
-  <string id="nsp_sr_pool_spot_name">
-    <text>Р‘Р°СЃСЃРµР№РЅ</text>
-  </string>
-  <string id="nsp_sr_military_base_spot_name">
-    <text>Р’РѕРµРЅРЅР°СЏ Р±Р°Р·Р°</text>
-  </string>
-  <string id="nsp_sr_village_spot_name">
-    <text>Р”РµСЂРµРІРЅСЏ В«РќРѕРІРѕС€РµРїРµР»РёС‡РёВ»</text>
-  </string>
-  <string id="nsp_sr_bridge_spot_name">
-    <text>РњРѕСЃС‚</text>
-  </string>
-  <string id="nsp_sr_oil_industry_name">
-    <text>РќРµС„С‚РµР±Р°Р·Р°</text>
-  </string>
-  <string id="nsp_thermal_anomaly_spot_name">
-    <text>РђРЅРѕРјР°Р»РёСЏ В«РљРѕС‚Р»РѕРІР°РЅВ»</text>
-  </string>
-  <string id="nsp_kladbishe_spot_name">
-    <text>РљР»Р°Р±РґРёС‰Рµ</text>
-  </string>
-  <string id="nsp_zone_place_scanner">
-    <text>Р—РґРµСЃСЊ РЅСѓР¶РЅРѕ СѓСЃС‚Р°РЅРѕРІРёС‚СЊ СЃРєР°РЅРµСЂ</text>
-  </string>
-  <string id="nsp_village_stalkers_spot">
-    <text>РЎС‚РѕРёС‚ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РјРµСЃС‚РЅС‹РјРё СЃС‚Р°Р»РєРµСЂР°РјРё, С‡С‚РѕР±С‹ СЂР°Р·СѓР·РЅР°С‚СЊ С‡С‚Рѕ-С‚Рѕ Рѕ СЃС‚СЂР°РЅРЅС‹С… СЃРјРµСЂС‚СЏС… РІ РќРѕРІРѕС€РµРїРµР»РёС‡Р°С…</text>
-  </string>
-  <string id="nsp_masters_flashback_kill_spot">
-    <text>РќСѓР¶РЅРѕ РёР·Р±Р°РІРёС‚СЊСЃСЏ РѕС‚ СЃС‚Р°Р»РєРµСЂРѕРІ</text>
-  </string>
-  <string id="yan_primary_spot">
-    <text>РћСЃРјРѕС‚СЂРµС‚СЊ РјРµСЃС‚Рѕ</text>
-  </string>
-  <string id="agr_scientists_base_soldiers_spot">
-    <text>РќСѓР¶РЅРѕ СѓР·РЅР°С‚СЊ Сѓ РІРѕРµРЅРЅС‹С… РІРѕР·РјРѕР¶РЅС‹Рµ РїРѕРґСЂРѕР±РЅРѕСЃС‚Рё Рѕ РїСЂРѕРїР°РІС€РµРј СѓС‡С‘РЅРѕРј</text>
-  </string>
-  <string id="nsp_sr_hunters_base_spot_name">
-    <text>Р›Р°РіРµСЂСЊ РѕС…РѕС‚РЅРёРєРѕРІ</text>
-  </string>
-  <string id="st_global_map_level_escape">
-    <text>РљРћР Р”РћРќ</text>
-  </string>
-  <string id="st_global_map_level_garbage">
-    <text>РЎР’РђР›РљРђ</text>
-  </string>
-  <string id="st_global_map_level_agroprom">
-    <text>РђР“Р РћРџР РћРњ</text>
-  </string>
-  <string id="st_global_map_level_darkvalley">
-    <text>РўРЃРњРќРђРЇ Р”РћР›РРќРђ</text>
-  </string>
-  <string id="st_global_map_level_ts_nshep">
-    <text>РќРћР’РћРЁР•РџР•Р›РР§Р</text>
-  </string>
-  <string id="st_global_map_level_bar">
-    <text>Р‘РђР </text>
-  </string>
-  <string id="st_global_map_level_yantar">
-    <text>РЇРќРўРђР Р¬</text>
-  </string>
-  <string id="st_global_map_level_military">
-    <text>РђР РњР•Р™РЎРљРР• РЎРљР›РђР”Р«</text>
-  </string>
-  <string id="st_global_map_level_not_known">
-    <text>РќР• РР—Р’Р•Р”РђРќРћ</text>
-  </string>
-  <string id="st_global_map_level_actor_current_level">
-    <text>Р’Р« Р—Р”Р•РЎР¬</text>
-  </string>
-  <string id="gar_stalker_messenger_stalkers_spot_title">
-    <text>Р’РѕР·РјРѕР¶РЅРѕ, С‚СѓС‚ РјРѕР¶РЅРѕ РЅР°Р№С‚Рё РѕРґРЅРѕРіРѕ РёР· СЃС‚Р°Р»РєРµСЂРѕРІ, Р·РЅР°СЋС‰РёС… РєРѕРґ РѕС‚ СЃРµР№С„Р° РґРёРіРіРµСЂРѕРІ РЅР° РђРіСЂРѕРїСЂРѕРјРµ</text>
-  </string>
+
+	<string id="escape">
+		<text>Кордон</text>
+	</string>
+
+	<string id="garbage">
+		<text>Свалка</text>
+	</string>
+
+	<string id="agroprom">
+		<text>Агропром</text>
+	</string>
+
+	<string id="agroprom_underground">
+		<text>Подземелья Агропрома</text>
+	</string>
+
+	<string id="darkvalley">
+		<text>Тёмная Долина</text>
+	</string>
+
+	<string id="labx18">
+		<text>Лаборатория Х-18</text>
+	</string>
+
+	<string id="ts_valley_katakomb">
+		<text>Шлюз «C»</text>
+	</string>
+
+	<string id="ts_nshep">
+		<text>Новошепеличи</text>
+	</string>
+
+	<string id="bar">
+		<text>Бар</text>
+	</string>
+
+	<string id="yantar">
+		<text>Янтарь</text>
+	</string>
+
+	<string id="military">
+		<text>Армейские Склады</text>
+	</string>
+
+	<string id="ts_military_katakomb">
+		<text>Шлюз «D»</text>
+	</string>
+
+	<string id="ts_millab">
+		<text>Объект-21</text>
+	</string>
+
+	<string id="to_esc">
+		<text>На Кордон</text>
+	</string>
+
+	<string id="to_gar">
+		<text>На Свалку</text>
+	</string>
+
+	<string id="to_agr">
+		<text>На Агропром</text>
+	</string>
+
+	<string id="to_val">
+		<text>В Тёмную Долину</text>
+	</string>
+
+	<string id="to_labx18">
+		<text>В Лабораторию Х-18</text>
+	</string>
+
+	<string id="st_lchanger_to_ts_nshep">
+		<text>В Новошепеличи</text>
+	</string>
+
+	<string id="st_lchanger_to_bar">
+		<text>В Бар</text>
+	</string>
+
+	<string id="esc_sr_dynamite_spot_name">
+		<text>Где-то здесь Волк спрятал динамит</text>
+	</string>
+
+	<string id="esc_robbery_novices_spot_elevator_name">
+		<text>Элеватор\nЗдесь стоит поискать воров</text>
+	</string>
+
+	<string id="esc_robbery_novices_spot_ferma_name">
+		<text>Ферма\nЗдесь стоит поискать воров</text>
+	</string>
+
+	<string id="esc_sr_forestry_spot_name">
+		<text>Лесопилка</text>
+	</string>
+
+	<string id="nsp_sr_pool_spot_name">
+		<text>Бассейн</text>
+	</string>
+
+	<string id="nsp_sr_military_base_spot_name">
+		<text>Военная база</text>
+	</string>
+
+	<string id="nsp_sr_village_spot_name">
+		<text>Деревня «Новошепеличи»</text>
+	</string>
+
+	<string id="nsp_sr_bridge_spot_name">
+		<text>Мост</text>
+	</string>
+
+	<string id="nsp_sr_oil_industry_name">
+		<text>Нефтебаза</text>
+	</string>
+
+	<string id="nsp_thermal_anomaly_spot_name">
+		<text>Аномалия «Котлован»</text>
+	</string>
+
+	<string id="nsp_kladbishe_spot_name">
+		<text>Клабдище</text>
+	</string>
+
+	<string id="nsp_zone_place_scanner">
+		<text>Здесь нужно установить сканер</text>
+	</string>
+
+	<string id="nsp_village_stalkers_spot">
+		<text>Стоит поговорить с местными сталкерами, чтобы разузнать что-то о странных смертях в Новошепеличах</text>
+	</string>
+
+	<string id="nsp_masters_flashback_kill_spot">
+		<text>Нужно избавиться от сталкеров</text>
+	</string>
+
+	<string id="yan_primary_spot">
+		<text>Осмотреть место</text>
+	</string>
+
+	<string id="agr_scientists_base_soldiers_spot">
+		<text>Нужно узнать у военных возможные подробности о пропавшем учёном</text>
+	</string>
+
+	<string id="nsp_sr_hunters_base_spot_name">
+		<text>Лагерь охотников</text>
+	</string>
+
+	<string id="st_global_map_level_escape">
+		<text>КОРДОН</text>
+	</string>
+
+	<string id="st_global_map_level_garbage">
+		<text>СВАЛКА</text>
+	</string>
+
+	<string id="st_global_map_level_agroprom">
+		<text>АГРОПРОМ</text>
+	</string>
+
+	<string id="st_global_map_level_darkvalley">
+		<text>ТЁМНАЯ ДОЛИНА</text>
+	</string>
+
+	<string id="st_global_map_level_ts_nshep">
+		<text>НОВОШЕПЕЛИЧИ</text>
+	</string>
+
+	<string id="st_global_map_level_bar">
+		<text>БАР</text>
+	</string>
+
+	<string id="st_global_map_level_yantar">
+		<text>ЯНТАРЬ</text>
+	</string>
+
+	<string id="st_global_map_level_military">
+		<text>АРМЕЙСКИЕ СКЛАДЫ</text>
+	</string>
+
+	<string id="st_global_map_level_not_known">
+		<text>НЕ ИЗВЕДАНО</text>
+	</string>
+
+	<string id="st_global_map_level_actor_current_level">
+		<text>ВЫ ЗДЕСЬ</text>
+	</string>
+
+	<string id="gar_stalker_messenger_stalkers_spot_title">
+		<text>Возможно, тут можно найти одного из сталкеров, знающих код от сейфа диггеров на Агропроме</text>
+	</string>
+
 </string_table>

@@ -1,390 +1,520 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_mlab_merc_leader_scientist_hello">
-    <text>РџСЂРёРІРµС‚СЃС‚РІСѓСЋ, РґРѕРє.\nРљР°РєРёРјРё СЃСѓРґСЊР±Р°РјРё РІ РЅР°С€РµРј РѕС‚РґРµР»Рµ?</text>
-  </string>
-  <string id="st_mlab_merc_leader_scientist_start_talk">
-    <text>РџСЂРѕС„РµСЃСЃРѕСЂ,\nРЅР° РјРёРЅСѓС‚Сѓ. РЎСЂРѕС‡РЅРѕ!</text>
-  </string>
-  <string id="st_mlab_merc_leader_kill_actor_1">
-    <text>РљСѓРґР° Р¶ С‚С‹ РїСЂС‘С€СЊ,\nР±РµСЃС‚РѕР»РєРѕРІС‹Р№?</text>
-  </string>
-  <string id="st_mlab_merc_leader_kill_actor_2">
-    <text>Р’РѕС‚ Рё РІСЃС‘!</text>
-  </string>
-  <string id="st_mlab_merc_leader_final_monolog_1">
-    <text>Рђ РІРѕС‚ Рё РЅР°С€Р° РІРѕРµРЅРЅР°СЏ С€Р°РІРєР°!</text>
-  </string>
-  <string id="st_mlab_merc_leader_final_monolog_2">
-    <text>РњС‹ Р·РґРµСЃСЊ С‚РѕР»СЊРєРѕ С‚РµР±СЏ Р¶РґС‘Рј,</text>
-  </string>
-  <string id="st_mlab_merc_leader_final_monolog_3">
-    <text>РїСЂРµР¶РґРµ С‡РµРј СЌС„С„РµРєС‚РЅРѕ\nСЂР°СЃС‚РІРѕСЂРёС‚СЊСЃСЏ РІ РїСЂРѕСЃС‚СЂР°РЅСЃС‚РІРµ!</text>
-  </string>
-  <string id="st_mlab_merc_leader_final_monolog_4">
-    <text>РўС‹ Р·РЅР°РµС€СЊ, СЏ Р±С‹ РјРѕРі\nРІСЃР°РґРёС‚СЊ С‚РµР±Рµ РїСѓР»СЋ</text>
-  </string>
-  <string id="st_mlab_merc_leader_final_monolog_5">
-    <text>РёР»Рё РїСЂРёРґСѓРјР°С‚СЊ Р»СЋР±СѓСЋ РґСЂСѓРіСѓСЋ\nР¶РёРІРѕРїРёСЃРЅСѓСЋ СЃРјРµСЂС‚СЊ,</text>
-  </string>
-  <string id="st_mlab_merc_leader_final_monolog_6">
-    <text>РЅРѕ РјРЅРµ С‚Р°Рє С…РѕС‡РµС‚СЃСЏ\nСѓРґРёРІРёС‚СЊ С‚РІРѕРёС… РґСЂСѓР¶РєРѕРІ,</text>
-  </string>
-  <string id="st_mlab_merc_leader_final_monolog_7">
-    <text>РєРѕРіРґР° РѕРЅРё РїСЂРёР±СѓРґСѓС‚ С‚РµР±СЏ СЃРїР°СЃР°С‚СЊ!</text>
-  </string>
-  <string id="st_mlab_merc_leader_final_monolog_8">
-    <text>РџРѕСЌС‚РѕРјСѓ РЅР° С‚РµР±СЏ Сѓ РјРµРЅСЏ\nРґСЂСѓРіРёРµ РїР»Р°РЅС‹, С‡РµРј РїСЂРѕСЃС‚Рѕ СЃРјРµСЂС‚СЊ.</text>
-  </string>
-  <string id="st_mlab_start_scientist_first_hello">
-    <text>РџСЂРѕС„РµСЃСЃРѕСЂ!</text>
-  </string>
-  <string id="st_mlab_start_scientist_first_bye">
-    <text>Р”Рѕ РІСЃС‚СЂРµС‡Рё\nРЅР° РёСЃРїС‹С‚Р°РЅРёСЏС…, РїСЂРѕС„РµСЃСЃРѕСЂ.</text>
-  </string>
-  <string id="st_mlab_start_scientist_colba_1">
-    <text>РљРѕР»Р±Р° РЅРѕРјРµСЂ 1 РІС‹С€Р»Р° РёР· СЃС‚СЂРѕСЏ.</text>
-  </string>
-  <string id="st_mlab_start_scientist_colba_2">
-    <text>РџРѕРґРѕРїС‹С‚РЅС‹Р№ РЅРѕРјРµСЂ 2 СЃРєРѕРЅС‡Р°Р»СЃСЏ.</text>
-  </string>
-  <string id="st_mlab_start_scientist_colba_3">
-    <text>РџРѕРґРѕРїС‹С‚РЅС‹Р№ РЅРѕРјРµСЂ 3 СЃРєРѕРЅС‡Р°Р»СЃСЏ.</text>
-  </string>
-  <string id="st_mlab_start_scientist_colba_4_1">
-    <text>РЎРѕСЃС‚РѕСЏРЅРёРµ 4-РіРѕ РѕР±СЉРµРєС‚Р°\nРЅРѕСЂРјР°Р»РёР·РѕРІР°Р»РѕСЃСЊ.</text>
-  </string>
-  <string id="st_mlab_start_scientist_colba_4_2">
-    <text>РџРѕРґРѕРїС‹С‚РЅС‹Р№ РЅРѕРјРµСЂ 4 РјС‘СЂС‚РІ.</text>
-  </string>
-  <string id="st_mlab_start_scientist_colba_final">
-    <text>РћС‚РјСѓС‡РёР»РёСЃСЊ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_start_monolog_1">
-    <text>РљРѕР»Р»РµРіРё, СЃРµРіРѕРґРЅСЏ РјС‹\nРїСЂРёСЃС‚СѓРїР°РµРј Рє РїРµСЂРІС‹Рј РёСЃРїС‹С‚Р°РЅРёСЏРј</text>
-  </string>
-  <string id="st_mlab_scientist_boss_start_monolog_2">
-    <text>РїРѕ РЅР°С€РµРјСѓ РЅРѕРІРѕРјСѓ\nРЅР°РїСЂР°РІР»РµРЅРёСЋ СЂР°Р·СЂР°Р±РѕС‚РѕРє.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_start_monolog_3">
-    <text>РќР°С€Р° С†РµР»СЊ вЂ” РёР·СѓС‡РёС‚СЊ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ\nРѕР±СЂР°С‚РёРјРѕСЃС‚Рё РјСѓС‚Р°С†РёР№ РІ Р—РѕРЅРµ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_start_monolog_4">
-    <text>РњС‹ С€Р»Рё Рє СЌС‚РѕРјСѓ РЅРµСЃРєРѕР»СЊРєРѕ РЅРµРґРµР»СЊ,</text>
-  </string>
-  <string id="st_mlab_scientist_boss_start_monolog_5">
-    <text>Рё СЃРµРіРѕРґРЅСЏ СЃРјРѕР¶РµРј РїРѕР»СѓС‡РёС‚СЊ\nРїРµСЂРІС‹Рµ СЂРµР·СѓР»СЊС‚Р°С‚С‹.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_start_monolog_6">
-    <text>Р”Р°, РІРѕР·РјРѕР¶РЅРѕ, РЅРµ СЃСЂР°Р·Сѓ,</text>
-  </string>
-  <string id="st_mlab_scientist_boss_start_monolog_7">
-    <text>РЅРѕ СЃРѕ РІСЂРµРјРµРЅРµРј\nСѓ РЅР°СЃ РІСЃС‘ РјРѕР¶РµС‚ РїРѕР»СѓС‡РёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_start_monolog_8">
-    <text>РќР°С‡РёРЅР°РµРј.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_start_monolog_9">
-    <text>РСЃРїС‹С‚Р°РЅРёРµ РїСЂРѕРІРѕРґРёРј\nСЃРѕРіР»Р°СЃРЅРѕ СѓС‚РІРµСЂР¶РґС‘РЅРЅС‹Рј РёРЅСЃС‚СЂСѓРєС†РёСЏРј.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_actor_panic">
-    <text>Р—СЂСЏ РІС‹ С‚Р°Рє, Р–СѓСЂР°РІР»С‘РІ!</text>
-  </string>
-  <string id="st_mlab_scientist_boss_suicide">
-    <text>РЎС‡Р°СЃС‚Р»РёРІРѕ РѕСЃС‚Р°РІР°С‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_mlab_wsystem_name">
-    <text>РЎРёСЃС‚РµРјР°</text>
-  </string>
-  <string id="st_mlab_wsystem_danger_1">
-    <text>РўСЂРµРІРѕРіР°!\nРџСЂРѕРЅРёРєРЅРѕРІРµРЅРёРµ РІ Р»Р°Р±РѕСЂР°С‚РѕСЂРёСЋ!</text>
-  </string>
-  <string id="st_mlab_wsystem_danger_2">
-    <text>\nРќРµСЃР°РЅРєС†РёРѕРЅРёСЂРѕРІР°РЅРЅС‹Р№ РґРѕСЃС‚СѓРї!</text>
-  </string>
-  <string id="st_mlab_wsystem_danger_3">
-    <text>Р’РЅРёРјР°РЅРёРµ! Р’СЃРµРјСѓ РїРµСЂСЃРѕРЅР°Р»Сѓ\nРЅРµРјРµРґР»РµРЅРЅРѕ РїРѕРєРёРЅСѓС‚СЊ Р»Р°Р±РѕСЂР°С‚РѕСЂРёСЋ!</text>
-  </string>
-  <string id="st_mlab_wsystem_electronics_off_1">
-    <text>Р­РЅРµСЂРіРµС‚РёС‡РµСЃРєР°СЏ\nСЃРёСЃС‚РµРјР° РѕС‚РєР»СЋС‡РµРЅР°.</text>
-  </string>
-  <string id="st_mlab_wsystem_electronics_off_2">
-    <text>РџРµСЂРµС…РѕРґ РЅР° СЂРµР·РµСЂРІРЅРѕРµ РїРёС‚Р°РЅРёРµ.</text>
-  </string>
-  <string id="st_mlab_wsystem_reserve_unavailable">
-    <text>РЎРёСЃС‚РµРјР°\nСЂРµР·РµСЂРІРЅРѕРіРѕ РїРёС‚Р°РЅРёСЏ РЅРµРґРѕСЃС‚СѓРїРЅР°.</text>
-  </string>
-  <string id="st_mlab_wsystem_restart_try">
-    <text>РџРѕРїС‹С‚РєР° РїРµСЂРµР·Р°РїСѓСЃРєР°.</text>
-  </string>
-  <string id="st_mlab_wsystem_trials_complete_1">
-    <text>РСЃРїС‹С‚Р°РЅРёСЏ Р·Р°РІРµСЂС€РµРЅС‹.</text>
-  </string>
-  <string id="st_mlab_wsystem_trials_complete_2">
-    <text>Р РµР·СѓР»СЊС‚Р°С‚С‹ РґРѕСЃС‚СѓРїРЅС‹ РЅР° РєРѕРјРїСЊСЋС‚РµСЂРµ Р°РґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂР°.</text>
-  </string>
-  <string id="st_mlab_wsystem_trials_prepare_1">
-    <text>Р—Р°РіСЂСѓР·РєР° СЃС‚РёРјСѓР»СЏС‚РѕСЂРѕРІ\nРІ РѕС‚СЃРµРєРё.</text>
-  </string>
-  <string id="st_mlab_wsystem_trials_prepare_2">
-    <text>РџРѕР¶Р°Р»СѓР№СЃС‚Р°, РїРѕРґРѕР¶РґРёС‚Рµ.</text>
-  </string>
-  <string id="st_mlab_wsystem_trials_ready">
-    <text>Р’СЃРµ РїРѕРєР°Р·Р°С‚РµР»Рё РІ РЅРѕСЂРјРµ.\nРћР±РѕСЂСѓРґРѕРІР°РЅРёРµ РіРѕС‚РѕРІРѕ Рє СЂР°Р±РѕС‚Рµ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_1_1">
-    <text>Р”РѕР±СЂС‹Р№ РґРµРЅСЊ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_1_2">
-    <text>РќРµРґРµР»СЋ РЅР°Р·Р°Рґ РјС‹ РѕС‚РїСЂР°РІРёР»Рё Р°СЂС‚РµС„Р°РєС‚.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_1_3">
-    <text>Рљ СЌС‚РѕРјСѓ РјРѕРјРµРЅС‚Сѓ Р·Р°РєР°Р·С‡РёРєРё\nСѓР¶Рµ РґРѕР»Р¶РЅС‹ Р±С‹Р»Рё РµРіРѕ РїРѕР»СѓС‡РёС‚СЊ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_2">
-    <text>Р”Р°, Р·Р°РєРѕРЅС‡РёР»РёСЃСЊ\nРЅРµСЃРєРѕР»СЊРєРѕ РјРёРЅСѓС‚ РЅР°Р·Р°Рґ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_3_1">
-    <text>РџРѕРєР° СЂРµР·СѓР»СЊС‚Р°С‚РѕРІ РЅРµС‚,\nРЅРѕ СЌС‚Рѕ С‚РѕР»СЊРєРѕ РЅР°С‡Р°Р»Рѕ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_3_2">
-    <text>Р’РїРµСЂРµРґРё РµС‰С‘ РґРѕСЃС‚Р°С‚РѕС‡РЅРѕ СЂР°Р±РѕС‚С‹.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_4">
-    <text>Р’ РїР»Р°РЅРµ?</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_5_1">
-    <text>РќРµС‚, РІСЃС‘ Р·Р°РјРµС‡Р°С‚РµР»СЊРЅРѕ. Р”РµР»Рѕ РЅРµ РІ СЌС‚РѕРј.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_5_2">
-    <text>РџСЂРѕСЃС‚Рѕ РЅР° СЌС‚Рѕ РЅСѓР¶РЅРѕ РІСЂРµРјСЏ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_5_3">
-    <text>РџРѕРїС‹С‚РєРё РѕР±СЂР°С‚РёС‚СЊ РјСѓС‚Р°С†РёРё вЂ”\nРіРѕСЂР°Р·РґРѕ Р±РѕР»РµРµ СЃРµСЂСЊС‘Р·РЅР°СЏ Р·Р°РґР°С‡Р°,</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_5_4">
-    <text>С‡РµРј СЃРєСЂРµС‰РёРІР°РЅРёРµ Р°СЂС‚РµС„Р°РєС‚РѕРІ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_5_5">
-    <text>РќРѕ РјС‹ РїСЂРёР»РѕР¶РёРј РІСЃРµ СѓСЃРёР»РёСЏ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_6">
-    <text>Р Р°Р·СЂРµС€РёС‚Рµ РїРѕРёРЅС‚РµСЂРµСЃРѕРІР°С‚СЊСЃСЏ?</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_7_1">
-    <text>РџРѕС‡РµРјСѓ СЌС‚Рё РёСЃСЃР»РµРґРѕРІР°РЅРёСЏ\nС‚Р°Рє РІР°Р¶РЅС‹ РґР»СЏ СЂСѓРєРѕРІРѕРґСЃС‚РІР°?</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_7_2">
-    <text>РЇ РїСЂРµРєСЂР°СЃРЅРѕ РїРѕРЅРёРјР°СЋ\nРЅР°СЃС‡С‘С‚ СЃРµР»РµРєС†РёРё Р°СЂС‚РµС„Р°РєС‚РѕРІ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_7_3">
-    <text>Р’ РјРёСЂРµ РѕС‡РµРЅСЊ РјРЅРѕРіРѕ Р»СЋРґРµР№,\nРєРѕРјСѓ РѕРЅРё РјРѕРіСѓС‚ РїРѕРјРѕС‡СЊ Рё СЃРїР°СЃС‚Рё Р¶РёР·РЅСЊ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_7_4">
-    <text>РќРѕ РјСѓС‚Р°С†РёРё? РЈ РІР°СЃ РµСЃС‚СЊ РєР°РєРѕР№-С‚Рѕ РїР»Р°РЅ,\nРѕ РєРѕС‚РѕСЂРѕРј СЏ РЅРµ РІ РєСѓСЂСЃРµ?</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_8">
-    <text>Р”Р°РЅРЅС‹Рµ РїСЂРѕ РјСѓС‚Р°С†РёСЋ РІРµСЂРЅС‹?</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_9">
-    <text>РЇ РІР°СЃ СѓСЃР»С‹С€Р°Р».\nРЈ РјРµРЅСЏ РµСЃС‚СЊ РµС‰С‘ РѕРґРёРЅ РІРѕРїСЂРѕСЃ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_10">
-    <text>РўРµСЂРјРёС‚.\nР’С‹ СѓРІРµСЂРµРЅС‹ РІ СЌС‚РѕРј С‡РµР»РѕРІРµРєРµ?</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_11">
-    <text>Р•РіРѕ РјРµС‚РѕРґС‹.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_phone_scene_12">
-    <text>РќРµС‚, СЌС‚Рѕ РІСЃС‘.</text>
-  </string>
-  <string id="st_mlab_phone_voice_name">
-    <text>Р СѓРєРѕРІРѕРґСЃС‚РІРѕ</text>
-  </string>
-  <string id="st_mlab_phone_voice_1_1">
-    <text>Р—РґСЂР°РІСЃС‚РІСѓР№С‚Рµ, РїСЂРѕС„РµСЃСЃРѕСЂ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_1_2">
-    <text>РќСѓ С‡С‚Рѕ, РїРѕСЂР°РґСѓРµС‚Рµ РјРµРЅСЏ СЃРµРіРѕРґРЅСЏ?</text>
-  </string>
-  <string id="st_mlab_phone_voice_2_1">
-    <text>Р”Р°, РѕРЅРё РµРіРѕ РїРѕР»СѓС‡РёР»Рё.</text>
-  </string>
-  <string id="st_mlab_phone_voice_2_2">
-    <text>Р”РµР№СЃС‚РІРёСЏ Р°СЂС‚РµС„Р°РєС‚Р° РІС‹Р·РІР°Р»Рё Сѓ РЅРёС… С€РѕРє.</text>
-  </string>
-  <string id="st_mlab_phone_voice_2_3">
-    <text>Р’ С…РѕСЂРѕС€РµРј СЃРјС‹СЃР»Рµ СЃР»РѕРІР°, РєРѕРЅРµС‡РЅРѕ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_2_4">
-    <text>РџРѕСЌС‚РѕРјСѓ СѓРІРµСЂРµРЅ, С‡С‚Рѕ РѕРЅРё РЅРµ РІ РїРѕСЃР»РµРґРЅРёР№ СЂР°Р·\nРїРѕР»СЊР·СѓСЋС‚СЃСЏ РЅР°С€РёРјРё СѓСЃР»СѓРіР°РјРё.</text>
-  </string>
-  <string id="st_mlab_phone_voice_2_5">
-    <text>РќРѕ СЏ Р·РІРѕРЅСЋ РЅРµ Р·Р° СЌС‚РёРј.\nРЈ РІР°СЃ СЃРµРіРѕРґРЅСЏ Р±С‹Р»Рё РёСЃРїС‹С‚Р°РЅРёСЏ?</text>
-  </string>
-  <string id="st_mlab_phone_voice_3">
-    <text>РќСѓ С‚Р°Рє РїРѕСЂР°РґСѓРµС‚Рµ РјРµРЅСЏ\nСЃРµРіРѕРґРЅСЏ, РїСЂРѕС„РµСЃСЃРѕСЂ?</text>
-  </string>
-  <string id="st_mlab_phone_voice_4">
-    <text>Р’Р°Рј С‡РµРіРѕ-С‚Рѕ РЅРµ С…РІР°С‚Р°РµС‚?</text>
-  </string>
-  <string id="st_mlab_phone_voice_5_1">
-    <text>Р’ РїР»Р°РЅРµ\nРѕР±РѕСЂСѓРґРѕРІР°РЅРёСЏ, С„РёРЅР°РЅСЃРёСЂРѕРІР°РЅРёСЏ,</text>
-  </string>
-  <string id="st_mlab_phone_voice_5_2">
-    <text>РєРѕРјС„РѕСЂС‚Р° РІРѕ РІСЂРµРјСЏ СЂР°Р±РѕС‚С‹?</text>
-  </string>
-  <string id="st_mlab_phone_voice_6_1">
-    <text>РҐРѕСЂРѕС€Рѕ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_6_2">
-    <text>РќРѕ СЏ РЅР°РґРµСЋСЃСЊ, С‡С‚Рѕ РІ Р±Р»РёР¶Р°Р№С€РµРµ РІСЂРµРјСЏ\nСѓ РІР°СЃ Р±СѓРґСѓС‚ СЂРµР·СѓР»СЊС‚Р°С‚С‹,</text>
-  </string>
-  <string id="st_mlab_phone_voice_6_3">
-    <text>РєРѕС‚РѕСЂС‹Рµ РјРµРЅСЏ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ РїРѕСЂР°РґСѓСЋС‚.</text>
-  </string>
-  <string id="st_mlab_phone_voice_7_1">
-    <text>РќРµ СЃРїСЂР°С€РёРІР°Р№С‚Рµ СЂР°Р·СЂРµС€РµРЅРёСЏ, РїСЂРѕС„РµСЃСЃРѕСЂ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_7_2">
-    <text>РњС‹ Р¶Рµ РґРѕРіРѕРІР°СЂРёРІР°Р»РёСЃСЊ, С‡С‚Рѕ РµСЃР»Рё Р±СѓРґРµС‚Рµ СЂР°Р±РѕС‚Р°С‚СЊ СЃ РЅР°РјРё,</text>
-  </string>
-  <string id="st_mlab_phone_voice_7_3">
-    <text>Сѓ РІР°СЃ Р±СѓРґРµС‚ РїРѕР»РЅР°СЏ СЃРІРѕР±РѕРґР° РґРµР№СЃС‚РІРёР№.</text>
-  </string>
-  <string id="st_mlab_phone_voice_7_4">
-    <text>Р’ С‚РѕРј С‡РёСЃР»Рµ РІ РёРЅС„РѕСЂРјР°С†РёРѕРЅРЅРѕРј РїР»Р°РЅРµ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_7_5">
-    <text>РўР°Рє С‡С‚Рѕ РЅРµ СЃС‚РµСЃРЅСЏР№С‚РµСЃСЊ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_1">
-    <text>РџРѕСЃРєРѕР»СЊРєСѓ СЏ РѕР±РµС‰Р°Р»\nР±С‹С‚СЊ СЃ РІР°РјРё С‡РµСЃС‚РЅС‹Рј,</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_2">
-    <text>СЏ СЃРєР°Р¶Сѓ РєР°Рє РµСЃС‚СЊ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_3">
-    <text>РђСЂС‚РµС„Р°РєС‚С‹, РєРѕС‚РѕСЂС‹Рµ РјС‹ РѕС‚РїСЂР°РІР»СЏРµРј\nРЅР° Р‘РѕР»СЊС€СѓСЋ Р·РµРјР»СЋ,</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_4">
-    <text>РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ РїРѕРјРѕРіР°СЋС‚ Р»СЋРґСЏРј.</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_5">
-    <text>РќРѕ РѕРґРЅРѕРІСЂРµРјРµРЅРЅРѕ СЃ СЌС‚РёРј РѕРЅРё РјРµРЅСЏСЋС‚СЃСЏ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_6">
-    <text>РњС‹ Р·Р°РјРµС‚РёР»Рё СЂР°РЅРЅСЋСЋ СЃС‚Р°РґРёСЋ РјСѓС‚Р°С†РёРё\nСѓ Р±РѕР»СЊС€РёРЅСЃС‚РІР° РЅР°С€РёС… РєР»РёРµРЅС‚РѕРІ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_7">
-    <text>Р•СЃР»Рё РјС‹ РЅРµ СЃРјРѕР¶РµРј СЌС‚Рѕ РєРѕРЅС‚СЂРѕР»РёСЂРѕРІР°С‚СЊ,</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_8">
-    <text>РІСЃСЏ С‚Р° РіР°РґРѕСЃС‚СЊ, РєРѕС‚РѕСЂСѓСЋ РјС‹ РІРёРґРёРј\nРІ Р§РµСЂРЅРѕР±С‹Р»СЊСЃРєРѕР№ Р·РѕРЅРµ,</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_9">
-    <text>РІС‹Р№РґРµС‚ Р·Р° РµС‘ РїСЂРµРґРµР»С‹ РІ РѕСЃС‚Р°Р»СЊРЅРѕР№ РјРёСЂ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_10">
-    <text>РЇ СЌС‚РѕРіРѕ РЅРµ С…РѕС‡Сѓ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_11">
-    <text>РЇ С†РµРЅСЋ СЌС‚Рѕ РјРµСЃС‚Рѕ,</text>
-  </string>
-  <string id="st_mlab_phone_voice_8_12">
-    <text>РЅРѕ РѕРЅРѕ РЅРµ РґРѕР»Р¶РЅРѕ РєР°Рє Р·Р°СЂР°Р·Р°\nСЂР°СЃРїСЂРѕСЃС‚СЂР°РЅСЏС‚СЊСЃСЏ РїРѕ РІСЃРµРјСѓ РјРёСЂСѓ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_9_1">
-    <text>РђР±СЃРѕР»СЋС‚РЅРѕ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_9_2">
-    <text>РџРѕСЌС‚РѕРјСѓ РІР°С€Рµ РёСЃСЃР»РµРґРѕРІР°РЅРёРµ\nРєСЂР°Р№РЅРµ РІР°Р¶РЅРѕ РґР»СЏ РЅР°СЃ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_9_3">
-    <text>РџСЂРёР»РѕР¶РёС‚Рµ РґР»СЏ СЌС‚РѕРіРѕ\nРІСЃРµ СѓСЃРёР»РёСЏ, РїСЂРѕС„РµСЃСЃРѕСЂ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_10">
-    <text>Р—Р°РґР°РІР°Р№С‚Рµ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_11_1">
-    <text>Р‘РѕР»СЊС€Рµ, С‡РµРј РІ РєРѕРј-Р»РёР±Рѕ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_11_2">
-    <text>Р‘РµР· РЅРµРіРѕ РЅР°Рј Р±С‹ РЅРµ СѓРґР°Р»РѕСЃСЊ\nСЃРѕР·РґР°С‚СЊ РїСЂРѕРµРєС‚</text>
-  </string>
-  <string id="st_mlab_phone_voice_11_3">
-    <text>Рё РѕСЂРіР°РЅРёР·РѕРІР°С‚СЊ РІСЃСЋ СЂР°Р±РѕС‚Сѓ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_11_4">
-    <text>РћРЅ РјРЅРѕРіРѕРµ СЃРґРµР»Р°Р».</text>
-  </string>
-  <string id="st_mlab_phone_voice_11_5">
-    <text>Рђ С‡С‚Рѕ РІР°СЃ С‚СЂРµРІРѕР¶РёС‚?</text>
-  </string>
-  <string id="st_mlab_phone_voice_12_1">
-    <text>Р”Р°, РµРіРѕ РјРµС‚РѕРґС‹\nРјРѕРіСѓС‚ Р±С‹С‚СЊ Р¶РµСЃС‚РѕРєРё.</text>
-  </string>
-  <string id="st_mlab_phone_voice_12_2">
-    <text>РџСЂРµРєСЂР°СЃРЅРѕ РїСЂРѕ СЌС‚Рѕ РѕСЃРІРµРґРѕРјР»С‘РЅ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_12_3">
-    <text>РљР°Рє СЂР°Р· РїРѕ СЌС‚РѕР№ РїСЂРёС‡РёРЅРµ\nСЏ Рё РїСЂРёРіР»Р°СЃРёР» РµРіРѕ РІ РїСЂРѕРµРєС‚.</text>
-  </string>
-  <string id="st_mlab_phone_voice_12_4">
-    <text>РћРЅ Р·РЅР°РµС‚, С‡С‚Рѕ РґРµР»Р°РµС‚.</text>
-  </string>
-  <string id="st_mlab_phone_voice_12_5">
-    <text>Р’ Р»СЋР±РѕРј СЃР»СѓС‡Р°Рµ РІР°Рј С‚РѕС‡РЅРѕ\nРЅРµ СЃС‚РѕРёС‚ Р±РµСЃРїРѕРєРѕРёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_mlab_phone_voice_12_6">
-    <text>РџРѕ РєСЂР°Р№РЅРµР№ РјРµСЂРµ РґРѕ С‚РµС… РїРѕСЂ,\nРїРѕРєР° РІС‹ РЅРµ СЏРІР»СЏРµС‚РµСЃСЊ СѓРіСЂРѕР·РѕР№.</text>
-  </string>
-  <string id="st_mlab_phone_voice_12_7">
-    <text>Р§С‚Рѕ-С‚Рѕ РµС‰С‘, РїСЂРѕС„РµСЃСЃРѕСЂ?</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_complete_way_1">
-    <text>Р’РѕС‚ Р·РґРµСЃСЊ СЂСѓР±РёР»СЊРЅРёРє.\nР—Р°РєР°РЅС‡РёРІР°Р№С‚Рµ СЃ СЌС‚РёРј.</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_complete_way_2">
-    <text>РўРѕР»СЊРєРѕ РЅРµ СѓР±РёРІР°Р№С‚Рµ: СЏ РїСЂРѕСЃС‚Рѕ Р»Р°Р±РѕСЂР°РЅС‚!</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_follow_me">
-    <text>РЎР»РµРґСѓР№С‚Рµ Р·Р° РјРЅРѕР№, СЃРєРѕСЂРµРµ!</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_panic_1">
-    <text>Р—Р°С‡РµРј СЏ РЅР° СЌС‚Рѕ РїРѕРґРїРёСЃР°Р»СЃСЏ?</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_panic_2">
-    <text>РњРЅРµ Р¶Рµ РєСЂС‹С€РєР° С‚РµРїРµСЂСЊ.</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_panic_3">
-    <text>Р§С‚Рѕ Р¶Рµ РґРµР»Р°С‚СЊ, С‡С‚Рѕ Р¶Рµ РґРµР»Р°С‚СЊ...</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_panic_4">
-    <text>РўРѕР»СЊРєРѕ Р±С‹ РїСЂРѕРЅРµСЃР»Рѕ РІСЃС‘,\nС‚РѕР»СЊРєРѕ Р±С‹ РїСЂРѕРЅРµСЃР»Рѕ!</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_panic_5">
-    <text>РќР°С‚РІРѕСЂРёР» СЏ РґРµР»РѕРІ...</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_wait_1">
-    <text>Р’СЂРµРјРµРЅРё РјР°Р»Рѕ, РЅСѓ Р¶Рµ!</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_wait_2">
-    <text>РћС‚РєР»СЋС‡Р°Р№С‚Рµ РїРёС‚Р°РЅРёРµ\nРё СѓС…РѕРґРёС‚Рµ!</text>
-  </string>
-  <string id="st_mlab_scientist_laborant_wait_3">
-    <text>Р”Р°РІР°Р№С‚Рµ,\nРґРµР»Р°Р№С‚Рµ С‡С‚Рѕ СЃРѕР±СЂР°Р»РёСЃСЊ!</text>
-  </string>
-  <string id="st_mlab_scientist_boss_actor_angry">
-    <text>Р—Р°РґРµСЂР¶РёС‚Рµ РµРіРѕ!\nРњРЅРµ РЅСѓР¶РЅРѕ Р·Р°РїСѓСЃС‚РёС‚СЊ С‚РµР»РµРїРѕСЂС‚!</text>
-  </string>
-  <string id="st_mlab_scientist_boss_actor_let_leave_1">
-    <text>РЎРїР°СЃРёР±Рѕ Р·Р° РїРѕРЅРёРјР°РЅРёРµ,\nР–СѓСЂР°РІР»С‘РІ. РЎС‚СѓРїР°Р№С‚Рµ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_actor_let_leave_2">
-    <text>Р РЅРёРєРѕРіРґР° Р±РѕР»СЊС€Рµ\nРїСЂРѕ СЌС‚Рѕ РЅРµ РІСЃРїРѕРјРёРЅР°Р№С‚Рµ.</text>
-  </string>
-  <string id="st_mlab_scientist_boss_final_teleport">
-    <text>РљРѕР»Р»РµРіРё, Р±С‹СЃС‚СЂРµРµ, Р±С‹СЃС‚СЂРµРµ!</text>
-  </string>
+
+	<string id="st_mlab_merc_leader_scientist_hello">
+		<text>Приветствую, док.\nКакими судьбами в нашем отделе?</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_scientist_start_talk">
+		<text>Профессор,\nна минуту. Срочно!</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_kill_actor_1">
+		<text>Куда ж ты прёшь,\nбестолковый?</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_kill_actor_2">
+		<text>Вот и всё!</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_1">
+		<text>А вот и наша военная шавка!</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_2">
+		<text>Мы здесь только тебя ждём,</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_3">
+		<text>прежде чем эффектно\nраствориться в пространстве!</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_4">
+		<text>Ты знаешь, я бы мог\nвсадить тебе пулю</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_5">
+		<text>или придумать любую другую\nживописную смерть,</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_6">
+		<text>но мне так хочется\nудивить твоих дружков,</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_7">
+		<text>когда они прибудут тебя спасать!</text>
+	</string>
+
+	<string id="st_mlab_merc_leader_final_monolog_8">
+		<text>Поэтому на тебя у меня\nдругие планы, чем просто смерть.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_first_hello">
+		<text>Профессор!</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_first_bye">
+		<text>До встречи\nна испытаниях, профессор.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_1">
+		<text>Колба номер 1 вышла из строя.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_2">
+		<text>Подопытный номер 2 скончался.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_3">
+		<text>Подопытный номер 3 скончался.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_4_1">
+		<text>Состояние 4-го объекта\nнормализовалось.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_4_2">
+		<text>Подопытный номер 4 мёртв.</text>
+	</string>
+
+	<string id="st_mlab_start_scientist_colba_final">
+		<text>Отмучились.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_1">
+		<text>Коллеги, сегодня мы\nприступаем к первым испытаниям</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_2">
+		<text>по нашему новому\nнаправлению разработок.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_3">
+		<text>Наша цель — изучить возможность\nобратимости мутаций в Зоне.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_4">
+		<text>Мы шли к этому несколько недель,</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_5">
+		<text>и сегодня сможем получить\nпервые результаты.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_6">
+		<text>Да, возможно, не сразу,</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_7">
+		<text>но со временем\nу нас всё может получиться.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_8">
+		<text>Начинаем.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_start_monolog_9">
+		<text>Испытание проводим\nсогласно утверждённым инструкциям.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_actor_panic">
+		<text>Зря Вы так, Журавлёв!</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_suicide">
+		<text>Счастливо оставаться.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_name">
+		<text>Система</text>
+	</string>
+
+	<string id="st_mlab_wsystem_danger_1">
+		<text>Тревога!\nПроникновение в лабораторию!</text>
+	</string>
+
+	<string id="st_mlab_wsystem_danger_2">
+		<text>\nНесанкционированный доступ!</text>
+	</string>
+
+	<string id="st_mlab_wsystem_danger_3">
+		<text>Внимание! Всему персоналу\nнемедленно покинуть лабораторию!</text>
+	</string>
+
+	<string id="st_mlab_wsystem_electronics_off_1">
+		<text>Энергетическая\nсистема отключена.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_electronics_off_2">
+		<text>Переход на резервное питание.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_reserve_unavailable">
+		<text>Система\nрезервного питания недоступна.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_restart_try">
+		<text>Попытка перезапуска.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_trials_complete_1">
+		<text>Испытания завершены.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_trials_complete_2">
+		<text>Результаты доступны на компьютере администратора.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_trials_prepare_1">
+		<text>Загрузка стимуляторов\nв отсеки.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_trials_prepare_2">
+		<text>Пожалуйста, подождите.</text>
+	</string>
+
+	<string id="st_mlab_wsystem_trials_ready">
+		<text>Все показатели в норме.\nОборудование готово к работе.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_1_1">
+		<text>Добрый день.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_1_2">
+		<text>Неделю назад мы отправили артефакт.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_1_3">
+		<text>К этому моменту заказчики\nуже должны были его получить.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_2">
+		<text>Да, закончились\nнесколько минут назад.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_3_1">
+		<text>Пока результатов нет,\nно это только начало.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_3_2">
+		<text>Впереди ещё достаточно работы.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_4">
+		<text>В плане?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_5_1">
+		<text>Нет, всё замечательно. Дело не в этом.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_5_2">
+		<text>Просто на это нужно время.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_5_3">
+		<text>Попытки обратить мутации —\nгораздо более серьёзная задача,</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_5_4">
+		<text>чем скрещивание артефактов.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_5_5">
+		<text>Но мы приложим все усилия.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_6">
+		<text>Разрешите поинтересоваться?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_7_1">
+		<text>Почему эти исследования\nтак важны для руководства?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_7_2">
+		<text>Я прекрасно понимаю\nнасчёт селекции артефактов.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_7_3">
+		<text>В мире очень много людей,\nкому они могут помочь и спасти жизнь.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_7_4">
+		<text>Но мутации? У вас есть какой-то план,\nо котором я не в курсе?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_8">
+		<text>Данные про мутацию верны?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_9">
+		<text>Я вас услышал.\nУ меня есть ещё один вопрос.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_10">
+		<text>Термит.\nВы уверены в этом человеке?</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_11">
+		<text>Его методы.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_phone_scene_12">
+		<text>Нет, это всё.</text>
+	</string>	
+
+	<string id="st_mlab_phone_voice_name">
+		<text>Руководство</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_1_1">
+		<text>Здравствуйте, профессор.</text>
+	</string>	
+
+	<string id="st_mlab_phone_voice_1_2">
+		<text>Ну что, порадуете меня сегодня?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_2_1">
+		<text>Да, они его получили.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_2_2">
+		<text>Действия артефакта вызвали у них шок.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_2_3">
+		<text>В хорошем смысле слова, конечно.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_2_4">
+		<text>Поэтому уверен, что они не в последний раз\nпользуются нашими услугами.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_2_5">
+		<text>Но я звоню не за этим.\nУ вас сегодня были испытания?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_3">
+		<text>Ну так порадуете меня\nсегодня, профессор?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_4">
+		<text>Вам чего-то не хватает?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_5_1">
+		<text>В плане\nоборудования, финансирования,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_5_2">
+		<text>комфорта во время работы?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_6_1">
+		<text>Хорошо.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_6_2">
+		<text>Но я надеюсь, что в ближайшее время\nу Вас будут результаты,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_6_3">
+		<text>которые меня действительно порадуют.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_7_1">
+		<text>Не спрашивайте разрешения, профессор.</text>
+	</string>
+	
+	<string id="st_mlab_phone_voice_7_2">
+		<text>Мы же договаривались, что если будете работать с нами,</text>
+	</string>	
+
+	<string id="st_mlab_phone_voice_7_3">
+		<text>у вас будет полная свобода действий.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_7_4">
+		<text>В том числе в информационном плане.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_7_5">
+		<text>Так что не стесняйтесь.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_1">
+		<text>Поскольку я обещал\nбыть с вами честным,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_2">
+		<text>я скажу как есть.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_3">
+		<text>Артефакты, которые мы отправляем\nна Большую землю,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_4">
+		<text>действительно помогают людям.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_5">
+		<text>Но одновременно с этим они меняются.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_6">
+		<text>Мы заметили раннюю стадию мутации\nу большинства наших клиентов.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_7">
+		<text>Если мы не сможем это контролировать,</text>
+	</string>	
+
+	<string id="st_mlab_phone_voice_8_8">
+		<text>вся та гадость, которую мы видим\nв Чернобыльской зоне,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_9">
+		<text>выйдет за её пределы в остальной мир.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_10">
+		<text>Я этого не хочу.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_11">
+		<text>Я ценю это место,</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_8_12">
+		<text>но оно не должно как зараза\nраспространяться по всему миру.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_9_1">
+		<text>Абсолютно.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_9_2">
+		<text>Поэтому ваше исследование\nкрайне важно для нас.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_9_3">
+		<text>Приложите для этого\nвсе усилия, профессор.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_10">
+		<text>Задавайте.</text>
+	</string>
+	
+	<string id="st_mlab_phone_voice_11_1">
+		<text>Больше, чем в ком-либо.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_11_2">
+		<text>Без него нам бы не удалось\nсоздать проект</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_11_3">
+		<text>и организовать всю работу.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_11_4">
+		<text>Он многое сделал.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_11_5">
+		<text>А что Вас тревожит?</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_1">
+		<text>Да, его методы\nмогут быть жестоки.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_2">
+		<text>Прекрасно про это осведомлён.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_3">
+		<text>Как раз по этой причине\nя и пригласил его в проект.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_4">
+		<text>Он знает, что делает.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_5">
+		<text>В любом случае Вам точно\nне стоит беспокоиться.</text>
+	</string>
+	
+	<string id="st_mlab_phone_voice_12_6">
+		<text>По крайней мере до тех пор,\nпока Вы не являетесь угрозой.</text>
+	</string>
+
+	<string id="st_mlab_phone_voice_12_7">
+		<text>Что-то ещё, профессор?</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_complete_way_1">
+		<text>Вот здесь рубильник.\nЗаканчивайте с этим.</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_complete_way_2">
+		<text>Только не убивайте: я просто лаборант!</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_follow_me">
+		<text>Следуйте за мной, скорее!</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_panic_1">
+		<text>Зачем я на это подписался?</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_panic_2">
+		<text>Мне же крышка теперь.</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_panic_3">
+		<text>Что же делать, что же делать...</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_panic_4">
+		<text>Только бы пронесло всё,\nтолько бы пронесло!</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_panic_5">
+		<text>Натворил я делов...</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_wait_1">
+		<text>Времени мало, ну же!</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_wait_2">
+		<text>Отключайте питание\nи уходите!</text>
+	</string>
+
+	<string id="st_mlab_scientist_laborant_wait_3">
+		<text>Давайте,\nделайте что собрались!</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_actor_angry">
+		<text>Задержите его!\nМне нужно запустить телепорт!</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_actor_let_leave_1">
+		<text>Спасибо за понимание,\nЖуравлёв. Ступайте.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_actor_let_leave_2">
+		<text>И никогда больше\nпро это не вспоминайте.</text>
+	</string>
+
+	<string id="st_mlab_scientist_boss_final_teleport">
+		<text>Коллеги, быстрее, быстрее!</text>
+	</string>
+
 </string_table>

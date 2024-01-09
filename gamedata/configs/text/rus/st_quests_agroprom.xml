@@ -1,330 +1,441 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
+
 <string_table>
-  <string id="agroprom_docs">
-    <text>РљР•Р™РЎ РџРћР” Р—РђРњРљРћРњ</text>
-  </string>
-  <string id="agr_diggers_reach_base_name">
-    <text>Р”РѕР±СЂР°С‚СЊСЃСЏ РґРѕ Р±Р°Р·С‹ РґРёРіРіРµСЂРѕРІ</text>
-  </string>
-  <string id="agr_diggers_reach_base_text">
-    <text>РљРѕРґ РѕС‚ СЃРµР№С„Р° РґРёРіРіРµСЂРѕРІ Сѓ РјРµРЅСЏ. РћСЃС‚Р°С‘С‚СЃСЏ С‚РѕР»СЊРєРѕ РїСЂРѕРЅРёРєРЅСѓС‚СЊ РЅР° РёС… Р±Р°Р·Сѓ, РєРѕС‚РѕСЂР°СЏ СЂР°СЃРїРѕР»Р°РіР°РµС‚СЃСЏ РЅР° РђРіСЂРѕРїСЂРѕРјРµ. Р“Р»Р°РІРЅРѕРµ, РѕСЃС‚Р°С‚СЊСЃСЏ РЅРµР·Р°РјРµС‡РµРЅРЅС‹Рј.</text>
-  </string>
-  <string id="agr_diggers_speak_leader_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ Р»РёРґРµСЂРѕРј РґРёРіРіРµСЂРѕРІ</text>
-  </string>
-  <string id="agr_diggers_speak_leader_text">
-    <text>РќР°РґРѕ РїСѓСЃС‚РёС‚СЊ РїС‹Р»СЊ РІ РіР»Р°Р·Р° Рё СѓР±РµРґРёС‚СЊ РєР»Р°РЅ, С‡С‚Рѕ СЏ С‚СѓС‚ СЃ Р±Р»Р°РіРёРјРё РЅР°РјРµСЂРµРЅРёСЏРјРё. РџСЂРёРґРµС‚СЃСЏ РёРјРїСЂРѕРІРёР·РёСЂРѕРІР°С‚СЊ.</text>
-  </string>
-  <string id="agr_diggers_speak_leave_base_name">
-    <text>РџРѕРєРёРЅСѓС‚СЊ РїРѕРјРµС‰РµРЅРёРµ</text>
-  </string>
-  <string id="agr_diggers_speak_leave_base_text">
-    <text>РљР°Р¶РµС‚СЃСЏ, СЏ СЃРјРѕРі СѓР±РµРґРёС‚СЊ СЌС‚РѕРіРѕ С‡СѓРґР°РєР°. РћСЃС‚Р°Р»РѕСЃСЊ Р¶РґР°С‚СЊ, С‡С‚Рѕ Р±СѓРґРµС‚ РґР°Р»СЊС€Рµ.</text>
-  </string>
-  <string id="agr_diggers_go_open_safe_name">
-    <text>РћС‚РєСЂС‹С‚СЊ СЃРµР№С„</text>
-  </string>
-  <string id="agr_diggers_go_open_safe_text">
-    <text>РќСѓР¶РЅРѕ РѕС‚РєСЂС‹С‚СЊ СЃРµР№С„, Р·Р°Р±СЂР°С‚СЊ РґРѕРєСѓРјРµРЅС‚С‹ Рё СЃРјР°С‚С‹РІР°С‚СЊСЃСЏ РѕС‚СЃСЋРґР°.</text>
-  </string>
-  <string id="agr_diggers_not_full_take_case_name">
-    <text>Р—Р°Р±СЂР°С‚СЊ РґРѕРєСѓРјРµРЅС‚С‹ РёР· СЃРµР№С„Р°</text>
-  </string>
-  <string id="agr_diggers_not_full_take_case_text">
-    <text>РЎРµР№С„ РѕС‚РєСЂС‹С‚, РїРѕСЂР° Р·Р°Р±РёСЂР°С‚СЊ РґРѕР±С‹С‡Сѓ.</text>
-  </string>
-  <string id="diggers_take_weapons">
-    <text>РџРЈРЁРљР</text>
-  </string>
-  <string id="agr_diggers_weapons_take_start_name">
-    <text>Р—Р°Р±СЂР°С‚СЊ РѕСЂСѓР¶РёРµ</text>
-  </string>
-  <string id="agr_diggers_weapons_take_start_text">
-    <text>РќСѓР¶РЅРѕ Р·Р°Р±СЂР°С‚СЊ СЃРІРѕС‘ РѕСЂСѓР¶РёРµ, РєРѕС‚РѕСЂРѕРµ РјРЅРµ РїСЂРёС€Р»РѕСЃСЊ СЃРґР°С‚СЊ РїСЂРё РІС…РѕРґРµ РЅР° Р±Р°Р·Сѓ РґРёРіРіРµСЂРѕРІ.</text>
-  </string>
-  <string id="agr_diggers_speak_patron_name">
-    <text>Р”РѕР»РѕР¶РёС‚СЊ РџР°С‚СЂРѕРЅСѓ</text>
-  </string>
-  <string id="agr_diggers_speak_patron_text">
-    <text>РљРµР№СЃ Сѓ РјРµРЅСЏ, РїРѕСЂР° РґРѕРєР»Р°РґС‹РІР°С‚СЊ Р·Р°РєР°Р·С‡РёРєСѓ.</text>
-  </string>
-  <string id="agr_diggers_speak_trader_name">
-    <text>РћС‚РґР°С‚СЊ РґРѕР±С‹С‚С‹Р№ РєРµР№СЃ РљРѕСЃС‚С‹Р»СЋ</text>
-  </string>
-  <string id="agr_diggers_speak_trader_text">
-    <text>РћСЃС‚Р°Р»РѕСЃСЊ РїРѕСЃР»РµРґРЅРµРµ вЂ” РѕС‚РґР°С‚СЊ РєРµР№СЃ С‚РѕСЂРіРѕРІС†Сѓ. РќР°РґРµСЋСЃСЊ, СЌС‚Рѕ РїРѕРґРЅРёРјРµС‚ РµРіРѕ РґРѕРІРµСЂРёРµ РєРѕ РјРЅРµ.</text>
-  </string>
-  <string id="agroprom_docs_new_attempt">
-    <text>Р’РћР™РќРђ Р—Рђ РљР•Р™РЎ</text>
-  </string>
-  <string id="agr_diggers_go_attack_case_name">
-    <text>Р—Р°Р±СЂР°С‚СЊ РєРµР№СЃ СЃРёР»РѕР№</text>
-  </string>
-  <string id="agr_diggers_go_attack_case_text">
-    <text>РџРѕ-РЅРѕСЂРјР°Р»СЊРЅРѕРјСѓ РІР·СЏС‚СЊ РєРµР№СЃ РЅРµ РїРѕР»СѓС‡РёР»РѕСЃСЊ вЂ” РїСЂРёРґС‘С‚СЃСЏ РґРѕР±С‹РІР°С‚СЊ СЃРёР»РѕР№, Р±РµР· РЅРµРіРѕ СЏ РЅРµ РїРѕР»СѓС‡Сѓ РґРѕРІРµСЂРёРµ С‚РѕСЂРіРѕРІС†Р°.</text>
-  </string>
-  <string id="agroprom_docs_not_full">
-    <text>РљРћР” РћРў РЎР•Р™Р¤Рђ</text>
-  </string>
-  <string id="agr_diggers_not_full_go_attack_leader_name">
-    <text>РЈР±РёС‚СЊ Р»РёРґРµСЂР° РґРёРіРіРµСЂРѕРІ</text>
-  </string>
-  <string id="agr_diggers_not_full_go_attack_leader_text">
-    <text>РџРѕ-РЅРѕСЂРјР°Р»СЊРЅРѕРјСѓ РЅРµ РїРѕР»СѓС‡РёР»РѕСЃСЊ, РїСЂРёРґРµС‚СЃСЏ РёРґС‚Рё РЅР°РїСЂРѕР»РѕРј. РљРѕРґ РЅР°РІРµСЂРЅСЏРєР° Сѓ Р»РёРґРµСЂР°.</text>
-  </string>
-  <string id="agr_stalker_help_sos_task">
-    <text>РЎРР“РќРђР› SOS</text>
-  </string>
-  <string id="agr_stalker_help_sos_task_start_name">
-    <text>РџСЂРёР№С‚Рё РЅР° РїРѕРјРѕС‰СЊ Рє СЃС‚Р°Р»РєРµСЂСѓ</text>
-  </string>
-  <string id="agr_stalker_help_sos_task_start_text">
-    <text>РЎС‚Р°Р»РєРµСЂ Р СЌРґ РїРѕСЃР»Р°Р» СЃРёРіРЅР°Р» SOS, РµРјСѓ С‚СЂРµР±СѓРµС‚СЃСЏ РєР°РєР°СЏ-С‚Рѕ РїРѕРјРѕС‰СЊ. РЎС‚РѕРёС‚ РїСЂРѕСЃР»РµРґРѕРІР°С‚СЊ РєРѕ РІС…РѕРґСѓ РІ РїРѕРґР·РµРјРµР»СЊСЏ РђРіСЂРѕРїСЂРѕРјР°.</text>
-  </string>
-  <string id="agr_stalker_help_sos_task_under_start_name">
-    <text>РџРѕРјРѕС‡СЊ Р СЌРґСѓ РІС‹С‚Р°С‰РёС‚СЊ РµРіРѕ РґСЂСѓРіР°</text>
-  </string>
-  <string id="agr_stalker_help_sos_task_under_start_text">
-    <text>Р СЌРґСѓ РЅСѓР¶РЅРѕ РїРѕРјРѕС‡СЊ РІС‹С‚Р°С‰РёС‚СЊ РµРіРѕ РґСЂСѓРіР° РёР· Р°РЅРѕРјР°Р»РёРё. РџРѕСЃРјРѕС‚СЂРёРј, С‡С‚Рѕ РёР· СЌС‚РѕРіРѕ РІС‹Р№РґРµС‚...</text>
-  </string>
-  <string id="agr_stalker_help_sos_task_follow_name">
-    <text>РЎР»РµРґРѕРІР°С‚СЊ Р·Р° Р СЌРґРѕРј</text>
-  </string>
-  <string id="agr_stalker_help_sos_task_follow_text">
-    <text>РќСѓР¶РЅРѕ РґРѕР№С‚Рё СЃ Р СЌРґРѕРј РґРѕ РјРµСЃС‚Р°, РіРґРµ РѕСЃС‚Р°Р»СЃСЏ Р¶РґР°С‚СЊ РїРѕРјРѕС‰Рё РµРіРѕ С‚РѕРІР°СЂРёС‰.</text>
-  </string>
-  <string id="agr_stalker_help_sos_task_speak_final_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ Р СЌРґРѕРј</text>
-  </string>
-  <string id="agr_stalker_help_sos_task_speak_final_text">
-    <text>РљР°Р¶РµС‚СЃСЏ, РјС‹ РїСЂРёС€Р»Рё, РЅРѕ С‚СѓС‚ С‚РѕР»СЊРєРѕ РѕРґРЅРё С‚СЂСѓРїС‹...</text>
-  </string>
-  <string id="agr_stalker_perch_task">
-    <text>РћРџРђРЎРќР«Р• Р—РђР”РђРќРРЇ</text>
-  </string>
-  <string id="agr_stalker_perch_task_start_name">
-    <text>Р’СЃС‚СЂРµС‚РёС‚СЊСЃСЏ СЃ РћРєСѓРЅРµРј РІ Р‘Р°СЂРµ</text>
-  </string>
-  <string id="agr_stalker_perch_task_start_text">
-    <text>РЎС‚Р°Р»РєРµСЂ РїРѕ РєР»РёС‡РєРµ РћРєСѓРЅСЊ РїСЂРµРґР»РѕР¶РёР» РїРѕСЂР°Р±РѕС‚Р°С‚СЊ СЃ РЅРёРјРё РЅР° Р‘Р°СЂРјРµРЅР°. РџР»Р°С‚СЏС‚ РґРѕСЃС‚РѕР№РЅРѕ. Р•СЃР»Рё Р±СѓРґСѓ РІ Р‘Р°СЂРµ, Р·Р°РіР»СЏРЅСѓ.</text>
-  </string>
-  <string id="agr_soldier_post_task">
-    <text>Р“РћР›РћР”РќР«Р™ РџРћРЎРўРћР’РћР™</text>
-  </string>
-  <string id="agr_soldier_post_start_name">
-    <text>Р”РѕСЃС‚Р°С‚СЊ РІРѕРµРЅРЅРѕРјСѓ РµРґС‹</text>
-  </string>
-  <string id="agr_soldier_post_start_text">
-    <text>Р’РѕРµРЅРЅС‹Р№ РЅР° С‚РµСЂСЂРёС‚РѕСЂРёРё Р±Р°Р·С‹ СѓС‡С‘РЅС‹С… РїСЂРѕСЃРёС‚ РµРґС‹, С‚РѕР»СЊРєРѕ С‚РѕРіРґР° РѕРЅ РїРѕР·РѕРІС‘С‚ Р”СѓР±РёРЅРёРЅР°. Р”СѓРјР°СЋ, РєР°РєРёС…-РЅРёР±СѓРґСЊ С‡РµС‚С‹СЂРµ Р±Р°С‚РѕРЅР°, РєРѕРЅСЃРµСЂРІС‹ РёР»Рё С‡РµРіРѕ-С‚Рѕ РµС‰С‘ РёР· РµРґС‹ РµРјСѓ С…РІР°С‚РёС‚.</text>
-  </string>
-  <string id="agr_soldier_post_final_name">
-    <text>РћС‚РґР°С‚СЊ РІРѕРµРЅРЅРѕРјСѓ РµРґСѓ</text>
-  </string>
-  <string id="agr_soldier_post_final_text">
-    <text>РќР°РґРµСЋСЃСЊ, С‚РµРїРµСЂСЊ РІРѕСЏРєР° РґРѕРіРѕРІРѕСЂРёС‚СЃСЏ Рѕ РІСЃС‚СЂРµС‡Рµ СЃ Р”СѓР±РёРЅРёРЅС‹Рј.</text>
-  </string>
-  <string id="agr_drunk_medic_search">
-    <text>РџР¬РЇРќР«Р™ РњР•Р”РРљ</text>
-  </string>
-  <string id="agr_drunk_medic_search_start_name">
-    <text>РќР°Р№С‚Рё РђР»РµРєСЃР°РЅРґСЂР°</text>
-  </string>
-  <string id="agr_drunk_medic_search_start_text">
-    <text>Р›Р°РіРµСЂСЊ СЃС‚Р°Р»РєРµСЂРѕРІ РѕРїСЂРµРґРµР»РµРЅРЅРѕ РЅСѓР¶РґР°РµС‚СЃСЏ РІ РјРµРґРёРєРµ. РЎР°РјС‹Р№ РІРµСЂРЅС‹Р№ РІР°СЂРёР°РЅС‚ вЂ” РїСЂРёРІРµСЃС‚Рё РЅР° Р±Р°Р·Сѓ Р±С‹РІС€РµРіРѕ РЅР°СѓС‡РЅРѕРіРѕ СЃРѕС‚СЂСѓРґРЅРёРєР°. РўРѕР»СЊРєРѕ СЃРїРµСЂРІР° РµРіРѕ РЅСѓР¶РЅРѕ РЅР°Р№С‚Рё, Р° РїРѕС‚РѕРј РѕС‚С†РµРїРёС‚СЊ РѕС‚ Р±СѓС‚С‹Р»РєРё.</text>
-  </string>
-  <string id="agr_scientific_job">
-    <text>РќРђРЈР§РќРђРЇ Р РђР‘РћРўРђ</text>
-  </string>
-  <string id="agr_scientific_job_start_speak_scientist_task_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ Р”СѓР±РёРЅРёРЅС‹Рј</text>
-  </string>
-  <string id="agr_scientific_job_start_speak_scientist_task_text">
-    <text>Р“РѕР»РѕРІР° РіСѓРґРёС‚, РЅРѕ РЅСѓР¶РЅРѕ РІСЃС‚Р°РІР°С‚СЊ Рё РёРґС‚Рё РЅР° РІСЃС‚СЂРµС‡Сѓ СЃ Р”СѓР±РёРЅРёРЅС‹Рј. РЈ РЅРµРіРѕ РєРѕ РјРЅРµ СЂР°Р·РіРѕРІРѕСЂ РЅР°СЃС‡РµС‚ Р·Р°РїРёСЃРµР№ Р“Р°РјР·Р°С‚Р°.</text>
-  </string>
-  <string id="agr_scientific_job_start_speak_assistant_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ Р°СЃСЃРёСЃС‚РµРЅС‚РѕРј Р”СѓР±РёРЅРёРЅР°</text>
-  </string>
-  <string id="agr_scientific_job_start_speak_assistant_text">
-    <text>РџРѕРґРїРёСЃР°Р»СЃСЏ РїРѕРјРѕРіР°С‚СЊ РЅР°СѓРєРµ РІ РёР·СѓС‡РµРЅРёРё С‚СЂР°РЅСЃРјСѓС‚Р°С†РёРё Р°СЂС‚РµС„Р°РєС‚РѕРІ. Р’С‹РґР°Р»Рё РїСЂРѕРїСѓСЃРє, С‰РµРґСЂРѕ Р·Р°РїР»Р°С‚РёР»Рё. Р Р°Р±РѕС‚Р°, РІСЂРѕРґРµ РЅРµ РїС‹Р»СЊРЅР°СЏ, РґР° Рё РјРЅРµ РїСЂРµРґРµР»СЊРЅРѕ РїРѕРЅСЏС‚РЅР°СЏ. Р›СѓС‡С€Рµ Р»Р°Р·РёС‚СЊ РїРѕ Р°РЅРѕРјР°Р»РёСЏРј, С‡РµРј Р±РµРіР°С‚СЊ РѕС‚ РјСѓС‚Р°РЅС‚РѕРІ Рё С‚Р°СЃРєР°С‚СЊ СЏС‰РёРєРё РѕС‚ Р±Р°РЅРґРёС‚РѕРІ.</text>
-  </string>
-  <string id="agr_scientific_job_start_go_name">
-    <text>РћС‚РїСЂР°РІРёС‚СЊСЃСЏ Рє Р°РЅРѕРјР°Р»СЊРЅРѕРјСѓ Р±РѕР»РѕС‚Сѓ</text>
-  </string>
-  <string id="agr_scientific_job_start_go_text">
-    <text>Р’ Р°РЅРѕРјР°Р»СЊРЅРѕРј Р±РѕР»РѕС‚Рµ С‚СЂРµР±СѓРµС‚СЃСЏ РґРѕР±С‹С‚СЊ СЃРµР»РµРєС†РёРѕРЅРЅС‹Р№ Р°СЂС‚РµС„Р°РєС‚. РљР°СЂР°РІР°РµРІ РѕРєР°Р¶РµС‚ РІ СЌС‚РѕРј СЃРѕРґРµР№СЃС‚РІРёРµ.</text>
-  </string>
-  <string id="agr_scientific_job_kill_stalkers_name">
-    <text>РЈР±РёС‚СЊ СЃС‚Р°Р»РєРµСЂРѕРІ</text>
-  </string>
-  <string id="agr_scientific_job_kill_stalkers_text">
-    <text>РћРєРѕР»Рѕ Р°РЅРѕРјР°Р»РёРё РІСЃС‚СЂРµС‚РёР»Рё Р¶РµР»Р°СЋС‰РёС… Р·Р°РїРѕР»СѓС‡РёС‚СЊ С‚СЂР°РЅСЃРјСѓС‚Р°РіРµРЅРЅС‹Р№ Р°СЂС‚РµС„Р°РєС‚. РЈРїСѓСЃРєР°С‚СЊ РґРѕР±С‹С‡Сѓ РїСЂРѕСЃС‚Рѕ С‚Р°Рє РѕРЅРё РЅРµ Р¶РµР»Р°СЋС‚...</text>
-  </string>
-  <string id="agr_scientific_job_relax_speak_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РљР°СЂР°РІР°РµРІС‹Рј</text>
-  </string>
-  <string id="agr_scientific_job_relax_speak_text">
-    <text>РќР°РґРѕ РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РљР°СЂР°РІР°РµРІС‹Рј Рё РѕР±СЃСѓРґРёС‚СЊ РїР»Р°РЅ РґРµР№СЃС‚РІРёР№.</text>
-  </string>
-  <string id="agr_scientific_job_relax_wait_assistant_name">
-    <text>Р”РѕР¶РґР°С‚СЊСЃСЏ, РїРѕРєР° РљР°СЂР°РІР°РµРІ РѕР±РЅР°СЂСѓР¶РёС‚ РјР°СЂС€СЂСѓС‚</text>
-  </string>
-  <string id="agr_scientific_job_relax_wait_assistant_text">
-    <text>РЈС‡С‘РЅС‹Р№ РґРѕР»Р¶РµРЅ РЅР°Р№С‚Рё Р±РµР·РѕРїР°СЃРЅСѓСЋ РґРѕСЂРѕРіСѓ РґРѕ Р°СЂС‚РµС„Р°РєС‚Р°. РџРѕСЃРјРѕС‚СЂРёРј, С‡С‚Рѕ РёР· СЌС‚РѕРіРѕ РїРѕР»СѓС‡РёС‚СЃСЏ.</text>
-  </string>
-  <string id="agr_scientific_job_detector_broken_speak_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РљР°СЂР°РІР°РµРІС‹Рј</text>
-  </string>
-  <string id="agr_scientific_job_detector_broken_speak_text">
-    <text>РљР°Р¶РµС‚СЃСЏ, Сѓ РіРѕР»РѕРІР°СЃС‚РѕРіРѕ С‡С‚Рѕ-С‚Рѕ РїРѕС€Р»Рѕ РЅРµ РїРѕ РїР»Р°РЅСѓ...</text>
-  </string>
-  <string id="agr_scientific_job_take_artefact_name">
-    <text>Р”РѕСЃС‚Р°С‚СЊ Р°СЂС‚РµС„Р°РєС‚</text>
-  </string>
-  <string id="agr_scientific_job_take_artefact_text">
-    <text>РџСЂРёРґРµС‚СЃСЏ РґРµР№СЃС‚РІРѕРІР°С‚СЊ РїРѕ СЃС‚Р°СЂРёРЅРєРµ: Р±РµР· РЅР°СѓС‡РЅРѕРіРѕ РѕР±РѕСЂСѓРґРѕРІР°РЅРёСЏ. РџСЂРµРґСЃС‚РѕРёС‚ РЅР°Р№С‚Рё Р±РµР·РѕРїР°СЃРЅС‹Р№ РјР°СЂС€СЂСѓС‚ РґРѕ Р°СЂС‚РµС„Р°РєС‚Р° Рё РґРѕСЃС‚Р°С‚СЊ РµРіРѕ.</text>
-  </string>
-  <string id="agr_scientific_job_speak_final_assistant_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РљР°СЂР°РІР°РµРІС‹Рј</text>
-  </string>
-  <string id="agr_scientific_job_speak_final_assistant_text">
-    <text>РЇ РґРѕСЃС‚Р°Р» Р°СЂС‚РµС„Р°РєС‚. РўРµРїРµСЂСЊ РјРѕР¶РЅРѕ РІРѕР·РІСЂР°С‰Р°С‚СЊСЃСЏ РІ РЅР°СѓС‡РЅС‹Р№ РєРѕРјРїР»РµРєСЃ.</text>
-  </string>
-  <string id="agr_scientific_job_go_base_name">
-    <text>Р’РµСЂРЅСѓС‚СЊСЃСЏ Рє Р”СѓР±РёРЅРёРЅСѓ</text>
-  </string>
-  <string id="agr_scientific_job_go_base_text">
-    <text>РџРѕСЂР° РІРµСЂРЅСѓС‚СЊСЃСЏ РІ РЅР°СѓС‡РЅС‹Р№ РєРѕРјРїР»РµРєСЃ Рё РїРѕРіРѕРІРѕСЂРёС‚СЊ СЃ Р”СѓР±РёРЅРёРЅС‹Рј РЅР°СЃС‡С‘С‚ РґРѕР±С‹С‚РѕРіРѕ Р°СЂС‚РµС„Р°РєС‚Р°.</text>
-  </string>
-  <string id="agr_scientific_job_second">
-    <text>РќРћР’Р«Р• РћРљР Р•РЎРўРќРћРЎРўР</text>
-  </string>
-  <string id="agr_scientific_job_second_start_name">
-    <text>РЈР·РЅР°С‚СЊ Сѓ Р®СЂРєР° Рѕ РґРѕСЂРѕРіРµ РІ РќРѕРІРѕС€РµРїРµР»РёС‡Рё</text>
-  </string>
-  <string id="agr_scientific_job_second_start_text">
-    <text>Р’РїРµСЂРµРґРё РґРѕР»РіР°СЏ РґРѕСЂРѕРіР° РІ СЂР°РЅРµРµ РЅРµСЂР°Р·РІРµРґР°РЅРЅС‹Рµ РјРµСЃС‚Р°! РџРѕР№РґСѓ С‡РµСЂРµР· РљРѕСЂРґРѕРЅ, Р·Р°РіР»СЏРЅСѓ Рє СЃС‚Р°СЂС‹Рј Р·РЅР°РєРѕРјС‹Рј. РќСѓР¶РЅРѕ СѓР·РЅР°С‚СЊ Сѓ Р®СЂРєР°, РєР°Рє Р±РµР·РѕРїР°СЃРЅРµРµ РІСЃРµРіРѕ РїРѕРїР°СЃС‚СЊ РІ РќРѕРІРѕС€РµРїРµР»РёС‡Рё.</text>
-  </string>
-  <string id="agr_scientific_job_second_change_level_name">
-    <text>РћС‚РїСЂР°РІР»СЏС‚СЊСЃСЏ РІ РќРѕРІРѕС€РµРїРµР»РёС‡Рё</text>
-  </string>
-  <string id="agr_scientific_job_second_change_level_text">
-    <text>Р’СЃС‘, РїРѕСЂР° РѕСЃРІР°РёРІР°С‚СЊ РЅРѕРІС‹Рµ РѕРєСЂРµСЃС‚РЅРѕСЃС‚Рё. Р®СЂРѕРє СЃРєР°Р·Р°Р», С‡С‚Рѕ РІ РќРѕРІРѕС€РµРїРµР»РёС‡Р°С… РѕРїР°СЃРЅРµРµ, С‡РµРј РЅР° РЎРІР°Р»РєРµ. Р‘СѓРґСѓ РёРјРµС‚СЊ СЌС‚Рѕ РІ РІРёРґСѓ.</text>
-  </string>
-  <string id="agr_mid_final_task">
-    <text>РЎРћРџР РћР’РћР–Р”Р•РќРР•</text>
-  </string>
-  <string id="agr_mid_final_task_follow_the_scientists_name">
-    <text>РџСЂРёРєСЂС‹РІР°С‚СЊ СѓС‡РµРЅС‹С… РїРѕ РґРѕСЂРѕРіРµ РІ РєРѕРјРїР»РµРєСЃ</text>
-  </string>
-  <string id="agr_mid_final_task_follow_the_scientists_text">
-    <text>РќРµРѕР±С…РѕРґРёРјРѕ РѕС…СЂР°РЅСЏС‚СЊ СѓС‡РµРЅС‹С… РІРѕ РІСЂРµРјСЏ РёС… РЅР°СѓС‡РЅРѕР№ СЂР°Р±РѕС‚С‹.</text>
-  </string>
-  <string id="agr_colonel_task">
-    <text>РљРћРњРђРќР”РР  Р’Р«Р—Р«Р’РђР•Рў</text>
-  </string>
-  <string id="agr_colonel_task_go_talk_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РїРѕР»РєРѕРІРЅРёРєРѕРј</text>
-  </string>
-  <string id="agr_colonel_task_go_talk_text">
-    <text>РџРѕР»РєРѕРІРЅРёРє РљР»РёРЅСЃРєРёС… РІС‹Р·РІР°Р» Рє СЃРµР±Рµ. РќР°РґРµСЋСЃСЊ, Сѓ РЅРµРіРѕ РїРѕСЏРІРёР»РёСЃСЊ РєРѕ РјРЅРµ Р±РѕР»РµРµ СЃРµСЂСЊС‘Р·РЅС‹Рµ РґРµР»Р°, С‡РµРј РїСЂРѕРіСѓР»РєРё СЃ СѓС‡С‘РЅС‹РјРё.</text>
-  </string>
-  <string id="agr_before_sending">
-    <text>РџР•Р Р•Р” РћРўРџР РђР’РљРћР™</text>
-  </string>
-  <string id="agr_before_sending_talk_with_squad_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РѕС‚СЂСЏРґРѕРј</text>
-  </string>
-  <string id="agr_before_sending_talk_with_squad_text">
-    <text>РњРѕРµРјСѓ РѕС‚СЂСЏРґСѓ, РЅР°РєРѕРЅРµС†, РїРѕСЂСѓС‡РёР»Рё СЃРµСЂСЊРµР·РЅСѓСЋ РѕРїРµСЂР°С†РёСЋ. РћС‚ РµС‘ РёСЃС…РѕРґР° Р±СѓРґРµС‚ Р·Р°РІРёСЃРµС‚СЊ РІСЃРµ: Р»РёР±Рѕ СЏ Рё РґР°Р»СЊС€Рµ РѕС…СЂР°РЅСЏСЋ РїРѕРєРѕРё СѓС‡РµРЅС‹С… РґРѕ РєРѕРЅС†Р° РєРѕРЅС‚СЂР°РєС‚Р°, РёР»Рё РІРѕР·РІСЂР°С‰Р°СЋСЃСЊ Рє СЂР°Р±РѕС‚Рµ РІ С†РµРЅС‚СЂ Р—РѕРЅС‹. РќСѓР¶РЅРѕ РїРѕРґРіРѕС‚РѕРІРёС‚СЊСЃСЏ Рє РѕС‚РїСЂР°РІРєРµ Рё РїРµСЂРµРіРѕРІРѕСЂРёС‚СЊ СЃ СЂРµР±СЏС‚Р°РјРё РёР· РјРѕРµР№ РєРѕРјР°РЅРґС‹.</text>
-  </string>
-  <string id="agr_before_sending_talk_with_koval_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РљРѕРІР°Р»РµРј</text>
-  </string>
-  <string id="agr_before_sending_talk_with_koval_text">
-    <text>РџРµСЂРµРґ РЅР°С‡Р°Р»РѕРј РѕРїРµСЂР°С†РёРё РЅСѓР¶РЅРѕ РїРѕР»СѓС‡С€Рµ СѓР·РЅР°С‚СЊ РїСЂРѕ РљРѕРІР°Р»СЏ. РЎС‚СЂР°РЅРЅС‹Р№ С‚РёРї. РћРЅ СЂРµРґРєРѕ РѕР±С‰Р°РµС‚СЃСЏ СЃ РґСЂСѓРіРёРјРё РІРѕРµРЅСЃС‚Р°Р»РєРµСЂР°РјРё, Р·Р°РјРєРЅСѓС‚ РІ СЃРµР±Рµ. РџСЂРѕРїР°РґР°РµС‚ СЃ РєРѕРјРїР»РµРєСЃР°. Р РїРѕС‡РµРјСѓ РїРѕР»РєРѕРІРЅРёРє РІСЃРµ СЌС‚Рѕ С‚РµСЂРїРёС‚, С‚Р°Рє Рё РµС‰С‘ Рё РЅР°РІСЏР·С‹РІР°РµС‚ РµРіРѕ Рє РЅР°Рј РєРѕРјР°РЅРґСѓ? Р•РіРѕ СЃРёРіРЅР°Р» РїРµР»РµРЅРіСѓРµС‚СЃСЏ РЅР° РѕРєСЂР°РёРЅРµ РђРіСЂРѕРїСЂРѕРјР°. РџРѕР№РґСѓ, РїСЂРѕРіСѓР»СЏСЋСЃСЊ.</text>
-  </string>
-  <string id="agr_before_sending_go_sleep_name">
-    <text>РћС‚РґРѕС…РЅСѓС‚СЊ РґРѕ СѓС‚СЂР°</text>
-  </string>
-  <string id="agr_before_sending_go_sleep_text">
-    <text>РћС‚СЂСЏРґ РіРѕС‚РѕРІ Рє РІС‹Р»РµС‚Сѓ РЅР° РѕРїРµСЂР°С†РёСЋ. Рђ РїРѕРєР° РЅСѓР¶РЅРѕ РїРѕСЃРїР°С‚СЊ Рё РЅР°Р±СЂР°С‚СЊСЃСЏ СЃРёР». РћРєСЂРµСЃС‚РЅРѕСЃС‚Рё РЇРЅС‚Р°СЂСЏ РІСЃРµРіРґР° РІС‹Р·С‹РІР°Р»Рё Сѓ РјРµРЅСЏ СЃС‚СЂР°РЅРЅС‹Рµ, РіРЅРµС‚СѓС‰РёРµ С‡СѓРІСЃС‚РІР°. РўР°Рј РІСЃРµРіРґР° РїР°С…Р»Рѕ СЃС‹СЂРѕСЃС‚СЊСЋ, Р±РµР·РЅР°РґРµРіРѕР№ Рё СЃРјРµСЂС‚СЊСЋ. Р СЌС‚Рѕ РІ С‚Рµ РІСЂРµРјРµРЅР°, РєРѕРіРґР° РјРѕР±РёР»СЊРЅС‹Р№ Р±СѓРЅРєРµСЂ РµС‰С‘ СЂР°Р±РѕС‚Р°Р», Р° РІ СЌС‚Сѓ РјРµСЃС‚РЅРѕСЃС‚СЊ СЃС‚СЏРіРёРІР°Р»РёСЃСЊ СЃС‚Р°Р»РєРµСЂС‹ Р·Р° СЂР°Р±РѕС‚РѕР№ Рё РґР»СЏ РїРѕРёСЃРєР° Р°СЂС‚РµС„Р°РєС‚РѕРІ. РќРѕ С‡С‚Рѕ С‚Р°Рј С‚РµРїРµСЂСЊ? РЈР¶Рµ РјРµСЃСЏС† РѕР± РѕР·РµСЂРµ СЃР»Р°РіР°СЋС‚ Р»РµРіРµРЅРґС‹. РЎС‚Р°Р»РєРµСЂС‹ СЃС‚Р°СЂР°СЋС‚СЃСЏ РѕР±С…РѕРґРёС‚СЊ РµРіРѕ СЃС‚РѕСЂРѕРЅРѕР№, СЃРІСЏР·Рё СЃ СѓС‡РµРЅС‹РјРё Р±РѕР»СЊС€Рµ РЅРµС‚, РІРѕР·СЂРѕСЃР»Р° Р°РЅРѕРјР°Р»СЊРЅР°СЏ Р°РєС‚РёРІРЅРѕСЃС‚СЊ. Р§С‚Рѕ РёР·СѓС‡Р°Р» РЎР°С…Р°СЂРѕРІ? Р–РёРІС‹ Р»Рё РѕРЅРё РµС‰Рµ? Р—Р°РІС‚СЂР° РјС‹ РјРЅРѕРіРѕРµ СѓР·РЅР°РµРј.</text>
-  </string>
-  <string id="agr_after_yantar_task">
-    <text>РџР РћР‘РЈР–Р”Р•РќРР•</text>
-  </string>
-  <string id="agr_after_yantar_task_talk_with_xottab_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РҐРѕС‚С‚Р°Р±С‹С‡РµРј</text>
-  </string>
-  <string id="agr_after_yantar_task_talk_with_xottab_text">
-    <text>РџРѕСЃР»Рµ РѕС‚С‡РµС‚Р° РїРµСЂРµРґ РїРѕР»РєРѕРІРЅРёРєРѕРј РѕР± СѓСЃРїРµС€РЅРѕРј РІС‹РїРѕР»РЅРµРЅРёРё РѕРїРµСЂР°С†РёРё РјС‹ СЂРµС€РёР»Рё РѕС‚РјРµС‚РёС‚СЊ СѓРґР°С‡РЅРѕРµ РІРѕР·РІСЂР°С‰РµРЅРёРµ СЃРѕ СЃС‚РѕР»СЊ РѕРїР°СЃРЅС‹С… РјРµСЃС‚. РҐРѕСЂРѕС€Рѕ РїРѕСЃРёРґРµР»Рё. Р РµР±СЏС‚Р° РµС‰С‘ СЃРїСЏС‚, Р° РҐРѕС‚С‚Р°Р±С‹С‡ СѓР¶Рµ Р±РѕРґСЂСЃС‚РІСѓРµС‚. РџРѕР±РѕР»С‚Р°СЋ-РєР° СЃ РЅРёРј.</text>
-  </string>
-  <string id="agr_after_yantar_task_to_wash_name">
-    <text>РЎС…РѕРґРёС‚СЊ РІ СѓРјС‹РІР°Р»РєСѓ</text>
-  </string>
-  <string id="agr_after_yantar_task_to_wash_text">
-    <text>РќСѓР¶РЅРѕ РїСЂРёРІРµСЃС‚Рё СЃРµР±СЏ РІ РїРѕСЂСЏРґРѕРє, РїСЂРµР¶РґРµ С‡РµРј РёРґС‚Рё Рє РїРѕР»РєРѕРІРЅРёРєСѓ.</text>
-  </string>
-  <string id="agr_scientist_boss_info_task">
-    <text>РќРђ РљРћР’РЃР </text>
-  </string>
-  <string id="agr_scientist_boss_info_task_start_name">
-    <text>РћС‚РїСЂР°РІРёС‚СЊСЃСЏ РІ РєР°Р±РёРЅРµС‚ РїРѕР»РєРѕРІРЅРёРєР°</text>
-  </string>
-  <string id="agr_scientist_boss_info_task_start_text">
-    <text>РЎ СѓС‚СЂР° РїРѕР»РєРѕРІРЅРёРє РёСЃРєР°Р» РјРµРЅСЏ РґР»СЏ СЂР°Р·РіРѕРІРѕСЂР°. РќСѓР¶РЅРѕ СѓР·РЅР°С‚СЊ, РЅР° РєР°РєСѓСЋ С‚РµРјСѓ.</text>
-  </string>
-  <string id="agr_scientist_boss_search_task">
-    <text>РџР РћРџРђР’РЁРР™ РЈР§РЃРќР«Р™</text>
-  </string>
-  <string id="agr_scientist_boss_search_task_start_name">
-    <text>РџРµСЂРµРіРѕРІРѕСЂРёС‚СЊ СЃРѕ СЃРІРѕРµР№ РіСЂСѓРїРїРѕР№</text>
-  </string>
-  <string id="agr_scientist_boss_search_task_start_text">
-    <text>РџРѕР»РєРѕРІРЅРёРє РїРѕСЃС‚Р°РІРёР» С†РµР»СЊ РЅР°Р№С‚Рё РїСЂРѕРїР°РІС€РµРіРѕ СѓС‡РµРЅРѕРіРѕ РїРѕ С„Р°РјРёР»РёРё Р”СѓР±РёРЅРёРЅ. РќР° РїРѕРёСЃРєРё СЏ РѕС‚РїСЂР°РІР»СЋСЃСЊ РІ РѕРґРёРЅРѕС‡РєСѓ, С‡С‚РѕР±С‹ РЅРµ РЅР°РґРµР»Р°С‚СЊ Р»РёС€РЅРµРіРѕ С€СѓРјР°. РџРµСЂРµРґ СЌС‚РёРј РЅСѓР¶РЅРѕ РїРѕСЃС‚Р°РІРёС‚СЊ СЃРІРѕСЋ РіСЂСѓРїРїСѓ РІ РёР·РІРµСЃС‚РЅРѕСЃС‚СЊ, С‡С‚РѕР±С‹ РѕРЅРё РјРѕРіР»Рё РѕРєР°Р·Р°С‚СЊ СЃРѕРґРµР№СЃС‚РІРёРµ, РєРѕРіРґР° РїРѕСЏРІРёС‚СЃСЏ РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚СЊ.</text>
-  </string>
-  <string id="agr_scientist_boss_search_task_talk_with_soldiers_name">
-    <text>РџРµСЂРµРіРѕРІРѕСЂРёС‚СЊ СЃ РІРѕРµРЅРЅС‹РјРё СЃС‚Р°Р»РєРµСЂР°РјРё</text>
-  </string>
-  <string id="agr_scientist_boss_search_task_talk_with_soldiers_text">
-    <text>Р§С‚Рѕ-С‚Рѕ Р·РЅР°С‚СЊ Рѕ РїСЂРѕРїР°Р¶Рµ СѓС‡РµРЅРѕРіРѕ РјРѕРіСѓС‚ РІРѕРµРЅРЅС‹Рµ СЃС‚Р°Р»РєРµСЂС‹, РєРѕС‚РѕСЂС‹Рµ СЃРѕРїСЂРѕРІРѕР¶РґР°Р»Рё РµРіРѕ РЅР° РїРѕР»РµРІС‹С… СЂР°Р±РѕС‚Р°С…. РќСѓР¶РЅРѕ РёС… РґРѕРїСЂРѕСЃРёС‚СЊ.</text>
-  </string>
-  <string id="agr_scientist_boss_search_task_check_tonnel_name">
-    <text>РћСЃРјРѕС‚СЂРµС‚СЊ С‚РѕРЅРЅРµР»СЊ РЅР° РђРіСЂРѕРїСЂРѕРјРµ</text>
-  </string>
-  <string id="agr_scientist_boss_search_task_check_tonnel_text">
-    <text>РџРѕ СЃР»РѕРІР°Рј СЃС‚Р°Р»РєРµСЂРѕРІ, РІ С‚РѕРЅРЅРµР»Рµ РЅР° РђРіСЂРѕРїСЂРѕРјРµ РѕРґРёРЅ СѓС‡РµРЅС‹Р№ СѓРіРѕРґРёР» РІ Р°РЅРѕРјР°Р»РёСЋ. Р­С‚Рѕ РјРѕРі Р±С‹С‚СЊ Р”СѓР±РёРЅРёРЅ. РќР°РґРѕ РѕСЃРјРѕС‚СЂРµС‚СЊ СЌС‚Рѕ РјРµСЃС‚Рѕ Рё РїСЂРѕРІРµСЂРёС‚СЊ С‚РµРѕСЂРёСЋ.</text>
-  </string>
-  <string id="agr_scientist_boss_search_task_go_back_name">
-    <text>РћС‚РЅРµСЃС‚Рё РѕСЃС‚Р°РЅРєРё РЅР° СЌРєСЃРїРµСЂС‚РёР·Сѓ</text>
-  </string>
-  <string id="agr_scientist_boss_search_task_go_back_text">
-    <text>Р’РѕР·Р»Рµ Р°РЅРѕРјР°Р»РёРё РѕР±РЅР°СЂСѓР¶РµРЅС‹ С‡РµР»РѕРІРµС‡РµСЃРєРёРµ РѕСЃС‚Р°РЅРєРё Рё Р»РѕСЃРєСѓС‚С‹ РёРјРµРЅРЅРѕРіРѕ СЃРєР°С„Р°РЅРґСЂР° Р”СѓР±РёРЅРёРЅР°. Р§С‚РѕР±С‹ СѓР±РµРґРёС‚СЊСЃСЏ, С‡С‚Рѕ СЌС‚Рѕ РґРµР№СЃС‚РІРёС‚РµР»СЊРЅРѕ РѕРЅ, РЅСѓР¶РЅРѕ РѕС‚РЅРµСЃС‚Рё РіРµРЅРµС‚РёС‡РµСЃРєРёР№ РјР°С‚РµСЂРёР°Р» РІ РЅР°СѓС‡РЅС‹Р№ РєРѕРјРїР»РµРєСЃ.</text>
-  </string>
-  <string id="agr_scientist_boss_search_task_heli_name">
-    <text>РћС‚РїСЂР°РІРёС‚СЊСЃСЏ РЅР° РљРѕСЂРґРѕРЅ</text>
-  </string>
-  <string id="agr_scientist_boss_search_task_heli_text">
-    <text>РќР° Р”РёС‚СЏС‚РєРё СЃРѕР±РёСЂР°РµС‚СЃСЏ Р»РµС‚РµС‚СЊ РЅР°СѓС‡РЅР°СЏ СЌРєСЃРїРµРґРёС†РёСЏ. Р’РѕР·РјРѕР¶РЅРѕ, РѕРЅРё РІРѕР·СЊРјСѓС‚ РјРµРЅСЏ РЅР° Р±РѕСЂС‚, С‡С‚РѕР±С‹ РјРЅРµ РЅРµ С‚Р°С‰РёС‚СЊСЃСЏ РїРµС€РєРѕРј РґРѕ РЎРёРґРѕСЂРѕРІРёС‡Р°.</text>
-  </string>
-  <string id="agr_scientist_boss_global_state_name">
-    <text>РќР°Р№С‚Рё Р·Р°С†РµРїРєРё Рѕ РїСЂРѕРїР°Р¶Рµ Р”СѓР±РёРЅРёРЅР°</text>
-  </string>
-  <string id="agr_scientist_boss_global_state_text">
-    <text>РџРѕ Р±РѕР»СЊС€РѕРјСѓ СЃС‡С‘С‚Сѓ, РјРµРЅСЏ РѕС‚РїСЂР°РІРёР»Рё РІ СЃРІРѕР±РѕРґРЅРѕРµ РїР»Р°РІР°РЅРёРµ. РЇ РґРѕР»Р¶РµРЅ РЅР°Р№С‚Рё РІСЃРµ РІРѕР·РјРѕР¶РЅС‹Рµ Р·Р°С†РµРїРєРё, С‡С‚РѕР±С‹ СѓР·РЅР°С‚СЊ, РєСѓРґР° РґРµР»СЃСЏ РїСЂРѕС„РµСЃСЃРѕСЂ Р”СѓР±РёРЅРёРЅ.</text>
-  </string>
-  <string id="agr_tonnel_dogs_task">
-    <text>РќРђРџРђР”Р•РќРР• РЎРћР‘РђРљ</text>
-  </string>
-  <string id="agr_tonnel_dogs_task_kill_dogs_name">
-    <text>РџРѕРјРѕС‡СЊ РїРѕР»РµРІРѕР№ РіСЂСѓРїРїРµ РѕС‚Р±РёС‚СЊСЃСЏ</text>
-  </string>
-  <string id="agr_tonnel_dogs_task_kill_dogs_text">
-    <text>РџРѕРґРѕР±РЅС‹Рµ РЅР°РїР°РґРµРЅРёСЏ РјСѓС‚Р°РЅС‚РѕРІ РЅР° РіСЂСѓРїРїС‹ РїРѕР»РµРІС‹С… СЃРѕС‚СЂСѓРґРЅРёРєРѕРІ вЂ” РґРµР»Рѕ РїСЂРёРІС‹С‡РЅРѕРµ. РќР°РґРѕ РїРѕРјРѕС‡СЊ РєРѕР»Р»РµРіР°Рј Р·Р°С‰РёС‚РёС‚СЊ СѓС‡С‘РЅС‹С….</text>
-  </string>
-  <string id="agr_tonnel_dogs_task_talk_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚СЊ СЃ РљСЂРёРґРѕРІС‹Рј</text>
-  </string>
-  <string id="agr_tonnel_dogs_task_talk_text">
-    <text>РџРµСЂРµРґ СѓС…РѕРґРѕРј РµС‰С‘ СЂР°Р· РїРµСЂРµРєРёРЅСѓСЃСЊ СЃ РљСЂРёРґРѕРІС‹Рј РЅРµСЃРєРѕР»СЊРєРёРјРё СЃР»РѕРІР°РјРё.</text>
-  </string>
+
+	<string id="agroprom_docs">
+		<text>КЕЙС ПОД ЗАМКОМ</text>
+	</string>
+
+	<string id="agr_diggers_reach_base_name">
+		<text>Добраться до базы диггеров</text>
+	</string>
+
+	<string id="agr_diggers_reach_base_text">
+		<text>Код от сейфа диггеров у меня. Остаётся только проникнуть на их базу, которая располагается на Агропроме. Главное, остаться незамеченным.</text>
+	</string>
+
+	<string id="agr_diggers_speak_leader_name">
+		<text>Поговорить с лидером диггеров</text>
+	</string>
+
+	<string id="agr_diggers_speak_leader_text">
+		<text>Надо пустить пыль в глаза и убедить клан, что я тут с благими намерениями. Придется импровизировать.</text>
+	</string>
+
+	<string id="agr_diggers_speak_leave_base_name">
+		<text>Покинуть помещение</text>
+	</string>
+
+	<string id="agr_diggers_speak_leave_base_text">
+		<text>Кажется, я смог убедить этого чудака. Осталось ждать, что будет дальше.</text>
+	</string>
+
+	<string id="agr_diggers_go_open_safe_name">
+		<text>Открыть сейф</text>
+	</string>
+
+	<string id="agr_diggers_go_open_safe_text">
+		<text>Нужно открыть сейф, забрать документы и сматываться отсюда.</text>
+	</string>
+
+	<string id="agr_diggers_not_full_take_case_name">
+		<text>Забрать документы из сейфа</text>
+	</string>
+
+	<string id="agr_diggers_not_full_take_case_text">
+		<text>Сейф открыт, пора забирать добычу.</text>
+	</string>
+
+	<string id="diggers_take_weapons">
+		<text>ПУШКИ</text>
+	</string>
+
+	<string id="agr_diggers_weapons_take_start_name">
+		<text>Забрать оружие</text>
+	</string>
+
+	<string id="agr_diggers_weapons_take_start_text">
+		<text>Нужно забрать своё оружие, которое мне пришлось сдать при входе на базу диггеров.</text>
+	</string>
+
+	<string id="agr_diggers_speak_patron_name">
+		<text>Доложить Патрону</text>
+	</string>
+
+	<string id="agr_diggers_speak_patron_text">
+		<text>Кейс у меня, пора докладывать заказчику.</text>
+	</string>
+
+	<string id="agr_diggers_speak_trader_name">
+		<text>Отдать добытый кейс Костылю</text>
+	</string>
+
+	<string id="agr_diggers_speak_trader_text">
+		<text>Осталось последнее - отдать кейс торговцу. Надеюсь, это поднимет его доверие ко мне.</text>
+	</string>
+
+	<string id="agroprom_docs_new_attempt">
+		<text>ВОЙНА ЗА КЕЙС</text>
+	</string>
+
+	<string id="agr_diggers_go_attack_case_name">
+		<text>Забрать кейс силой</text>
+	</string>
+
+	<string id="agr_diggers_go_attack_case_text">
+		<text>По-нормальному взять кейс не получилось - придётся добывать силой, без него я не получу доверие торговца.</text>
+	</string>
+
+	<string id="agroprom_docs_not_full">
+		<text>КОД ОТ СЕЙФА</text>
+	</string>	
+
+	<string id="agr_diggers_not_full_go_attack_leader_name">
+		<text>Убить лидера диггеров</text>
+	</string>
+
+	<string id="agr_diggers_not_full_go_attack_leader_text">
+		<text>По-нормальному не получилось, придется идти напролом. Код наверняка у лидера.</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task">
+		<text>СИГНАЛ SOS</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_start_name">
+		<text>Прийти на помощь к сталкеру</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_start_text">
+		<text>Сталкер Рэд послал сигнал SOS, ему требуется какая-то помощь. Стоит проследовать ко входу в подземелья Агропрома.</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_under_start_name">
+		<text>Помочь Рэду вытащить его друга</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_under_start_text">
+		<text>Рэду нужно помочь вытащить его друга из аномалии. Посмотрим, что из этого выйдет...</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_follow_name">
+		<text>Следовать за Рэдом</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_follow_text">
+		<text>Нужно дойти с Рэдом до места, где остался ждать помощи его товарищ.</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_speak_final_name">
+		<text>Поговорить с Рэдом</text>
+	</string>
+
+	<string id="agr_stalker_help_sos_task_speak_final_text">
+		<text>Кажется, мы пришли, но тут только одни трупы...</text>
+	</string>
+
+	<string id="agr_stalker_perch_task">
+		<text>ОПАСНЫЕ ЗАДАНИЯ</text>
+	</string>
+
+	<string id="agr_stalker_perch_task_start_name">
+		<text>Встретиться с Окунем в Баре</text>
+	</string>
+
+	<string id="agr_stalker_perch_task_start_text">
+		<text>Сталкер по кличке Окунь предложил поработать с ними на Бармена. Платят достойно. Если буду в Баре, загляну.</text>
+	</string>
+
+	<string id="agr_soldier_post_task">
+		<text>ГОЛОДНЫЙ ПОСТОВОЙ</text>
+	</string>	
+
+	<string id="agr_soldier_post_start_name">
+		<text>Достать военному еды</text>
+	</string>
+
+	<string id="agr_soldier_post_start_text">
+		<text>Военный на территории базы учёных просит еды, только тогда он позовёт Дубинина. Думаю, каких-нибудь четыре батона, консервы или чего-то ещё из еды ему хватит.</text>
+	</string>
+
+	<string id="agr_soldier_post_final_name">
+		<text>Отдать военному еду</text>
+	</string>
+
+	<string id="agr_soldier_post_final_text">
+		<text>Надеюсь, теперь вояка договорится о встрече с Дубининым.</text>
+	</string>
+
+	<string id="agr_drunk_medic_search">
+		<text>ПЬЯНЫЙ МЕДИК</text>
+	</string>	
+
+	<string id="agr_drunk_medic_search_start_name">
+		<text>Найти Александра</text>
+	</string>
+
+	<string id="agr_drunk_medic_search_start_text">
+		<text>Лагерь сталкеров определенно нуждается в медике. Самый верный вариант - привести на базу бывшего научного сотрудника. Только сперва его нужно найти, а потом отцепить от бутылки.</text>
+	</string>
+
+	<string id="agr_scientific_job">
+		<text>НАУЧНАЯ РАБОТА</text>
+	</string>	
+
+	<string id="agr_scientific_job_start_speak_scientist_task_name">
+		<text>Поговорить с Дубининым</text>
+	</string>
+
+	<string id="agr_scientific_job_start_speak_scientist_task_text">
+		<text>Голова гудит, но нужно вставать и идти на встречу с Дубининым. У него ко мне разговор насчет записей Гамзата.</text>
+	</string>
+
+	<string id="agr_scientific_job_start_speak_assistant_name">
+		<text>Поговорить с ассистентом Дубинина</text>
+	</string>
+
+	<string id="agr_scientific_job_start_speak_assistant_text">
+		<text>Подписался помогать науке в изучении трансмутации артефактов. Выдали пропуск, щедро заплатили. Работа, вроде не пыльная, да и мне предельно понятная. Лучше лазить по аномалиям, чем бегать от мутантов и таскать ящики от бандитов.</text>
+	</string>
+
+	<string id="agr_scientific_job_start_go_name">
+		<text>Отправиться к аномальному болоту</text>
+	</string>
+
+	<string id="agr_scientific_job_start_go_text">
+		<text>В аномальном болоте требуется добыть селекционный артефакт. Караваев окажет в этом содействие.</text>
+	</string>
+
+	<string id="agr_scientific_job_kill_stalkers_name">
+		<text>Убить сталкеров</text>
+	</string>
+
+	<string id="agr_scientific_job_kill_stalkers_text">
+		<text>Около аномалии встретили желающих заполучить трансмутагенный артефакт. Упускать добычу просто так они не желают...</text>
+	</string>
+
+	<string id="agr_scientific_job_relax_speak_name">
+		<text>Поговорить с Караваевым</text>
+	</string>
+
+	<string id="agr_scientific_job_relax_speak_text">
+		<text>Надо поговорить с Караваевым и обсудить план действий.</text>
+	</string>
+
+	<string id="agr_scientific_job_relax_wait_assistant_name">
+		<text>Дождаться, пока Караваев обнаружит маршрут</text>
+	</string>
+
+	<string id="agr_scientific_job_relax_wait_assistant_text">
+		<text>Учёный должен найти безопасную дорогу до артефакта. Посмотрим, что из этого получится.</text>
+	</string>
+
+	<string id="agr_scientific_job_detector_broken_speak_name">
+		<text>Поговорить с Караваевым</text>
+	</string>
+
+	<string id="agr_scientific_job_detector_broken_speak_text">
+		<text>Кажется, у головастого что-то пошло не по плану...</text>
+	</string>
+
+	<string id="agr_scientific_job_take_artefact_name">
+		<text>Достать артефакт</text>
+	</string>
+
+	<string id="agr_scientific_job_take_artefact_text">
+		<text>Придется действовать по старинке: без научного оборудования. Предстоит найти безопасный маршрут до артефакта и достать его.</text>
+	</string>
+
+	<string id="agr_scientific_job_speak_final_assistant_name">
+		<text>Поговорить с Караваевым</text>
+	</string>
+
+	<string id="agr_scientific_job_speak_final_assistant_text">
+		<text>Я достал артефакт. Теперь можно возвращаться в научный комплекс.</text>
+	</string>
+
+	<string id="agr_scientific_job_go_base_name">
+		<text>Вернуться к Дубинину</text>
+	</string>
+
+	<string id="agr_scientific_job_go_base_text">
+		<text>Пора вернуться в научный комплекс и поговорить с Дубининым насчёт добытого артефакта.</text>
+	</string>
+
+	<string id="agr_scientific_job_second">
+		<text>НОВЫЕ ОКРЕСТНОСТИ</text>
+	</string>
+
+	<string id="agr_scientific_job_second_start_name">
+		<text>Узнать у Юрка о дороге в Новошепеличи</text>
+	</string>
+
+	<string id="agr_scientific_job_second_start_text">
+		<text>Впереди долгая дорога в ранее неразведанные места! Пойду через Кордон, загляну к старым знакомым. Нужно узнать у Юрка, как безопаснее всего попасть в Новошепеличи.</text>
+	</string>
+
+	<string id="agr_scientific_job_second_change_level_name">
+		<text>Отправляться в Новошепеличи</text>
+	</string>
+
+	<string id="agr_scientific_job_second_change_level_text">
+		<text>Всё, пора осваивать новые окрестности. Юрок сказал, что в Новошепеличах опаснее, чем на Свалке. Буду иметь это в виду.</text>
+	</string>
+
+	<string id="agr_mid_final_task">
+		<text>СОПРОВОЖДЕНИЕ</text>
+	</string>
+
+	<string id="agr_mid_final_task_follow_the_scientists_name">
+		<text>Прикрывать ученых по дороге в комплекс</text>
+	</string>
+
+	<string id="agr_mid_final_task_follow_the_scientists_text">
+		<text>Необходимо охранять ученых во время их научной работы.</text>
+	</string>
+
+	<string id="agr_colonel_task">
+		<text>КОМАНДИР ВЫЗЫВАЕТ</text>
+	</string>	
+
+	<string id="agr_colonel_task_go_talk_name">
+		<text>Поговорить с полковником</text>
+	</string>
+
+	<string id="agr_colonel_task_go_talk_text">
+		<text>Полковник Клинских вызвал к себе. Надеюсь, у него появились ко мне более серьёзные дела, чем прогулки с учёными.</text>
+	</string>
+
+	<string id="agr_before_sending">
+		<text>ПЕРЕД ОТПРАВКОЙ</text>
+	</string>
+
+	<string id="agr_before_sending_talk_with_squad_name">
+		<text>Поговорить с отрядом</text>
+	</string>
+
+	<string id="agr_before_sending_talk_with_squad_text">
+		<text>Моему отряду, наконец, поручили серьезную операцию. От ее исхода будет зависеть все: либо я и дальше охраняю покои ученых до конца контракта, или возвращаюсь к работе в центр Зоны. Нужно подготовиться к отправке и переговорить с ребятами из моей команды.</text>
+	</string>
+
+	<string id="agr_before_sending_talk_with_koval_name">
+		<text>Поговорить с Ковалем</text>
+	</string>
+
+	<string id="agr_before_sending_talk_with_koval_text">
+		<text>Перед началом операции нужно получше узнать про Коваля. Странный тип. Он редко общается с другими военсталкерами, замкнут в себе. Пропадает с комплекса. И почему полковник все это терпит, так и ещё и навязывает его к нам команду? Его сигнал пеленгуется на окраине Агропрома. Пойду, прогуляюсь.</text>
+	</string>
+
+	<string id="agr_before_sending_go_sleep_name">
+		<text>Отдохнуть до утра</text>
+	</string>
+
+	<string id="agr_before_sending_go_sleep_text">
+		<text>Отряд готов к вылету на операцию. А пока нужно поспать и набраться сил. Окрестности Янтаря всегда вызывали у меня странные, гнетущие чувства. Там всегда пахло сыростью, безнадегой и смертью. И это в те времена, когда мобильный бункер ещё работал, а в эту местность стягивались сталкеры за работой и для поиска артефактов. Но что там теперь? Уже месяц об озере слагают легенды. Сталкеры стараются обходить его стороной, связи с учеными больше нет, возросла аномальная активность. Что изучал Сахаров? Живы ли они еще? Завтра мы многое узнаем.</text>
+	</string>
+
+	<string id="agr_after_yantar_task">
+		<text>ПРОБУЖДЕНИЕ</text>
+	</string>
+
+	<string id="agr_after_yantar_task_talk_with_xottab_name">
+		<text>Поговорить с Хоттабычем</text>
+	</string>
+
+	<string id="agr_after_yantar_task_talk_with_xottab_text">
+		<text>После отчета перед полковником об успешном выполнении операции мы решили отметить удачное возвращение со столь опасных мест. Хорошо посидели. Ребята ещё спят, а Хоттабыч уже бодрствует. Поболтаю-ка с ним.</text>
+	</string>
+
+	<string id="agr_after_yantar_task_to_wash_name">
+		<text>Сходить в умывалку</text>
+	</string>
+
+	<string id="agr_after_yantar_task_to_wash_text">
+		<text>Нужно привести себя в порядок, прежде чем идти к полковнику.</text>
+	</string>
+
+	<string id="agr_scientist_boss_info_task">
+		<text>НА КОВЁР</text>
+	</string>
+
+	<string id="agr_scientist_boss_info_task_start_name">
+		<text>Отправиться в кабинет полковника</text>
+	</string>
+
+	<string id="agr_scientist_boss_info_task_start_text">
+		<text>С утра полковник искал меня для разговора. Нужно узнать, на какую тему.</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task">
+		<text>ПРОПАВШИЙ УЧЁНЫЙ</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_start_name">
+		<text>Переговорить со своей группой</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_start_text">
+		<text>Полковник поставил цель найти пропавшего ученого по фамилии Дубинин. На поиски я отправлюсь в одиночку, чтобы не наделать лишнего шума. Перед этим нужно поставить свою группу в известность, чтобы они могли оказать содействие, когда появится необходимость.</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_talk_with_soldiers_name">
+		<text>Переговорить с военными сталкерами</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_talk_with_soldiers_text">
+		<text>Что-то знать о пропаже ученого могут военные сталкеры, которые сопровождали его на полевых работах. Нужно их допросить.</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_check_tonnel_name">
+		<text>Осмотреть тоннель на Агропроме</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_check_tonnel_text">
+		<text>По словам сталкеров, в тоннеле на Агропроме один ученый угодил в аномалию. Это мог быть Дубинин. Надо осмотреть это место и проверить теорию.</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_go_back_name">
+		<text>Отнести останки на экспертизу</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_go_back_text">
+		<text>Возле аномалии обнаружены человеческие останки и лоскуты именного скафандра Дубинина. Чтобы убедиться, что это действительно он, нужно отнести генетический материал в научный комплекс.</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_heli_name">
+		<text>Отправиться на Кордон</text>
+	</string>
+
+	<string id="agr_scientist_boss_search_task_heli_text">
+		<text>На Дитятки собирается лететь научная экспедиция. Возможно, они возьмут меня на борт, чтобы мне не тащиться пешком до Сидоровича.</text>
+	</string>
+
+	<string id="agr_scientist_boss_global_state_name">
+		<text>Найти зацепки о пропаже Дубинина</text>
+	</string>
+
+	<string id="agr_scientist_boss_global_state_text">
+		<text>По большому счёту, меня отправили в свободное плавание. Я должен найти все возможные зацепки, чтобы узнать, куда делся профессор Дубинин.</text>
+	</string>
+
+	<string id="agr_tonnel_dogs_task">
+		<text>НАПАДЕНИЕ СОБАК</text>
+	</string>
+
+	<string id="agr_tonnel_dogs_task_kill_dogs_name">
+		<text>Помочь полевой группе отбиться</text>
+	</string>
+
+	<string id="agr_tonnel_dogs_task_kill_dogs_text">
+		<text>Подобные нападения мутантов на группы полевых сотрудников - дело привычное. Надо помочь коллегам защитить учёных.</text>
+	</string>
+
+	<string id="agr_tonnel_dogs_task_talk_name">
+		<text>Поговорить с Кридовым</text>
+	</string>
+
+	<string id="agr_tonnel_dogs_task_talk_text">
+		<text>Перед уходом ещё раз перекинусь с Кридовым несколькими словами.</text>
+	</string>
+
 </string_table>

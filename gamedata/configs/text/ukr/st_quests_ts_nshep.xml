@@ -1,423 +1,564 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="nsp_scientific_job_place_scanners">
-    <text>РђРќРћРњРђР›Р¬РќРђ РђРљРўРР’РќР†РЎРўР¬</text>
-  </string>
-  <string id="nsp_scientific_job_place_scanners_name">
-    <text>Р’СЃС‚Р°РЅРѕРІРёС‚Рё Рї'СЏС‚СЊ СЃРєР°РЅРµСЂС–РІ Сѓ РІРєР°Р·Р°РЅРёС… РјС–СЃС†СЏС…</text>
-  </string>
-  <string id="nsp_scientific_job_place_scanners_text">
-    <text>РџРµСЂС€ РЅС–Р¶ СЏ СЂРѕР·РїРѕС‡РЅСѓ С‚СЂР°РЅСЃРјСѓС‚Р°С†С–СЋ, РїРѕС‚СЂС–Р±РЅРѕ Р·РЅР°Р№С‚Рё РЅР°Р№РїРѕС‚СѓР¶РЅС–С€Сѓ Р°РЅРѕРјР°Р»СЊРЅСѓ Р·РѕРЅСѓ. Р”Р»СЏ С†СЊРѕРіРѕ С‚СЂРµР±Р° РІСЃС‚Р°РЅРѕРІРёС‚Рё СЃРєР°РЅРµСЂРё Сѓ РІРєР°Р·Р°РЅРёС… С‚РѕС‡РєР°С….</text>
-  </string>
-  <string id="nsp_scientific_job_full">
-    <text>РўР РђРќРЎРњРЈРўРђР¦Р†РЇ</text>
-  </string>
-  <string id="nsp_scientific_job_full_place_artefacts_name">
-    <text>Р’РёРєРѕРЅР°С‚Рё С‚СЂР°РЅСЃРјСѓС‚Р°С†С–СЋ</text>
-  </string>
-  <string id="nsp_scientific_job_full_place_artefacts_text">
-    <text>Р’СЃРµ РЅРµРѕР±С…С–РґРЅРµ РґР»СЏ С‚СЂР°РЅСЃРјСѓС‚Р°С†С–С— Р°СЂС‚РµС„Р°РєС‚Сѓ СЏ РјР°СЋ. Р§Р°СЃ РІР°СЂРёС‚Рё!</text>
-  </string>
-  <string id="nsp_scientific_job_full_wait_process_name">
-    <text>Р”РѕС‡РµРєР°С‚РёСЃСЏ Р·Р°РєС–РЅС‡РµРЅРЅСЏ РїСЂРѕС†РµСЃСѓ</text>
-  </string>
-  <string id="nsp_scientific_job_full_wait_process_text">
-    <text>Р—РґР°С”С‚СЊСЃСЏ, С‚СЂР°РЅСЃРјСѓС‚Р°С†С–СЏ РїРѕС‡Р°Р»Р°СЃСЊ. РўРµРїРµСЂ С‚СЂРµР±Р° С‚СЂРѕС…Рё Р·Р°С‡РµРєР°С‚Рё.</text>
-  </string>
-  <string id="nsp_scientific_job_full_take_artefact_name">
-    <text>Р—Р°Р±РёСЂР°С‚Рё Р°СЂС‚РµС„Р°РєС‚</text>
-  </string>
-  <string id="nsp_scientific_job_full_take_artefact_text">
-    <text>РўР°Рј С‰РѕСЃСЊ Р·'СЏРІРёР»РѕСЃСЊ. РЎС…РѕР¶Рµ, С‚СЂР°РЅСЃРјСѓС‚Р°С†С–СЏ РІРґР°Р»Р°СЃСЊ.</text>
-  </string>
-  <string id="nsp_scientific_job_full_go_agroprom_name">
-    <text>Р’С–РґРґР°С‚Рё С‚СЂР°РЅСЃРјСѓС‚Р°С‚ Р”СѓР±С–РЅС–РЅСѓ</text>
-  </string>
-  <string id="nsp_scientific_job_full_go_agroprom_text">
-    <text>РЎС…РѕР¶Рµ, РІРґР°Р»РѕСЃСЏ. Р§Р°СЃ РїРѕРІРµСЂРЅСѓС‚РёСЃСЊ РЅР° В«РђРіСЂРѕРїСЂРѕРјВ» С– РѕС‚СЂРёРјР°С‚Рё Р·Р°СЃР»СѓР¶РµРЅСѓ РІРёРЅР°РіРѕСЂРѕРґСѓ.</text>
-  </string>
-  <string id="nsp_scientific_job_find_artefact">
-    <text>РќР•Р—Р’РР§РђР™РќРР™ РђР РўР•Р¤РђРљРў</text>
-  </string>
-  <string id="nsp_scientific_job_find_artefact_name">
-    <text>Р—РЅР°Р№С‚Рё В«Р—РјС–РЅРµРЅРёР№ С–Р·РѕР»СЏС‚РѕСЂВ» РЅР° РІРѕС”РЅРЅС–Р№ Р±Р°Р·С–</text>
-  </string>
-  <string id="nsp_scientific_job_find_artefact_text">
-    <text>Р”Р»СЏ СѓСЃРїС–С€РЅРѕС— С‚СЂР°РЅСЃРјСѓС‚Р°С†С–С— РїРѕС‚СЂС–Р±РЅРѕ РІС–РґС€СѓРєР°С‚Рё СѓРЅС–РєР°Р»СЊРЅРёР№ Р°СЂС‚РµС„Р°РєС‚ В«Р—РјС–РЅРµРЅРёР№ С–Р·РѕР»СЏС‚РѕСЂВ». Р’С–РЅ РјР°С” Р±СѓС‚Рё РґРµСЃСЊ РІ СЂР°Р№РѕРЅС– Р·Р°РєРёРЅСѓС‚РѕС— РІРѕС”РЅРЅРѕС— Р±Р°Р·Рё.</text>
-  </string>
-  <string id="nsp_scientific_job_generators">
-    <text>Р“Р•РќР•Р РђРўРћР Р</text>
-  </string>
-  <string id="nsp_scientific_job_generators_start_name">
-    <text>Р—РЅР°Р№С‚Рё СЃРїРѕСЃС–Р± РІРёРјРєРЅСѓС‚Рё СЃС‚СЂСѓРј</text>
-  </string>
-  <string id="nsp_scientific_job_generators_start_text">
-    <text>Р“РµРЅРµСЂР°С‚РѕСЂРё РІРёСЏРІРёР»РёСЃСЊ СЂРѕР±РѕС‡РёРјРё. Р©Рѕ РїС–РґС‚СЂРёРјСѓС” С—С…РЅСЋ СЂРѕР±РѕС‚Сѓ  вЂ”  РЅРµР·СЂРѕР·СѓРјС–Р»Рѕ. РџРѕС‚СЂС–Р±РЅРѕ Р·РЅР°Р№С‚Рё СЃРїРѕСЃС–Р± РїРѕС‚СЂР°РїРёС‚Рё РґРѕ РєС–РјРЅР°С‚Рё РєРµСЂСѓРІР°РЅРЅСЏ, РґРµ Р№ РјР°С” Р±СѓС‚Рё Р°СЂС‚РµС„Р°РєС‚, Р°Р»Рµ СЏРє РІРёРјРєРЅСѓС‚Рё СЃС‚СЂСѓРј? Р’Р°СЂС‚Рѕ РІСЃРµ СѓРІР°Р¶РЅРѕ РѕРіР»СЏРЅСѓС‚Рё. Р™С‚Рё РЅР°РїСЂРѕР»РѕРј  вЂ”  РЅРµ РІР°СЂС–Р°РЅС‚.</text>
-  </string>
-  <string id="nsp_mysterious_death">
-    <text>РўРђР„РњРќРР§Рђ РЎРњР•Р РўР¬</text>
-  </string>
-  <string id="nsp_mysterious_death_check_corpse_name">
-    <text>РћРіР»СЏРЅСѓС‚Рё С‚СЂСѓРї СЃС‚Р°Р»РєРµСЂР°</text>
-  </string>
-  <string id="nsp_mysterious_death_check_corpse_text">
-    <text>РџСЂСЏРјРѕ РїРµСЂРµРґ РјРѕС—РјРё РѕС‡РёРјР° Р·РіРѕСЂРё РІРїР°РІ РјРµСЂС‚РІРёР№ РЅРµРІС–РґРѕРјРёР№ СЃС‚Р°Р»РєРµСЂ. РћРіР»СЏРЅСѓ С‚С–Р»Рѕ. РњРѕР¶Рµ, РІРґР°СЃС‚СЊСЃСЏ С‰РѕСЃСЊ Р·РЅР°Р№С‚Рё.</text>
-  </string>
-  <string id="nsp_mysterious_death_go_village_name">
-    <text>РћРїРёС‚Р°С‚Рё РјС–СЃС†РµРІРёС… РїСЂРѕ РјРµСЂС‚РІРѕРіРѕ СЃС‚Р°Р»РєРµСЂР°</text>
-  </string>
-  <string id="nsp_mysterious_death_go_village_text">
-    <text>РџРµСЂРµРґ СЃРјРµСЂС‚СЋ СЃС‚Р°Р»РєРµСЂ РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ РЁСѓР»С–РєР° Р·Р°Р»РёС€РёРІ Р·Р°РїРёСЃРєСѓ, Сѓ СЏРєС–Р№ СЂРѕР·РєР°Р·Р°РІ РїСЂРѕ СЏРєРµСЃСЊ РїРµСЂРµСЃР»С–РґСѓРІР°РЅРЅСЏ. Р’Р°СЂС‚Рѕ СЂРѕР·РїРёС‚Р°С‚Рё РјС–СЃС†РµРІРёС…, С‰Рѕ РїСЂР°С†СЋСЋС‚СЊ Сѓ СЃРµР»С–, РїСЂРѕ С†СЊРѕРіРѕ СЃС‚Р°Р»РєРµСЂР°. Р—Р°РІС–С‚Р°СЋ РґРѕ С—С…РЅСЊРѕРіРѕ Р»С–РґРµСЂР°.</text>
-  </string>
-  <string id="nsp_mysterious_death_check_home_name">
-    <text>РћРіР»СЏРЅСѓС‚Рё РјС–СЃС†Рµ СЃР°РјРѕРіСѓР±СЃС‚РІР° РўС…РѕСЂР°</text>
-  </string>
-  <string id="nsp_mysterious_death_check_home_text">
-    <text>Р®СЃС‚Р°СЃ СЂРѕР·РєР°Р·Р°РІ, С‰Рѕ РЁСѓР»С–РєР° Р±СѓРІ РЅРµ С”РґРёРЅРёРј, С…С‚Рѕ РІРёСЂС–С€РёРІ Р·РІРµСЃС‚Рё СЂР°С…СѓРЅРєРё Р· Р¶РёС‚С‚СЏРј. РўР°РєРёР№ СЃРѕР±С– СЃС‚Р°Р»РєРµСЂ Р· РєР»РёС‡РєРѕСЋ РўС…С–СЂ Р·Р°СЃС‚СЂРµР»РёРІСЃСЏ РІ РѕРґРЅРѕРјСѓ Р· Р±СѓРґРёРЅРєС–РІ РїС–РІ СЂРѕРєСѓ С‚РѕРјСѓ. РўСЂРµР±Р° РѕРіР»СЏРЅСѓС‚Рё РјС–СЃС†Рµ СЃРјРµСЂС‚С–, СЂР°РїС‚РѕРј РІРґР°СЃС‚СЊСЃСЏ С‰РѕСЃСЊ РІС–РґС€СѓРєР°С‚Рё.</text>
-  </string>
-  <string id="nsp_mysterious_death_check_home_letter_end_name">
-    <text>РџРѕРєР°Р·Р°С‚Рё Р·Р°РїРёСЃРєСѓ Р®СЃС‚Р°СЃСѓ</text>
-  </string>
-  <string id="nsp_mysterious_death_check_home_letter_end_text">
-    <text>РЈ Р±СѓРґРёРЅРєСѓ, РґРµ Р·Р°СЃС‚СЂРµР»РёРІСЃСЏ РўС…С–СЂ, РІРґР°Р»РѕСЃСЊ Р·РЅР°Р№С‚Рё Р№РѕРіРѕ Р·Р°РїРёСЃРєСѓ. Р’Р°СЂС‚Рѕ РїРѕРєР°Р·Р°С‚Рё С—С— Р®СЃС‚Р°СЃСѓ.</text>
-  </string>
-  <string id="nsp_mysterious_death_speak_with_stalkers_name">
-    <text>РћРїРёС‚Р°С‚Рё РјС–СЃС†РµРІРёС… СЃС‚Р°Р»РєРµСЂС–РІ</text>
-  </string>
-  <string id="nsp_mysterious_death_speak_with_stalkers_text">
-    <text>РќР° РјС–СЃС†С– СЃР°РјРѕРіСѓР±СЃС‚РІР° РўС…РѕСЂР° СЏ Р·РЅР°Р№С€РѕРІ Р·Р°РїРёСЃРєСѓ, Р°Р»Рµ РїРёС‚Р°РЅСЊ СЃС‚Р°Р»Рѕ С‰Рµ Р±С–Р»СЊС€Рµ. РҐС‚Рѕ РїРµСЂРµСЃР»С–РґСѓС” СЃС‚Р°Р»РєРµСЂС–РІ РїРµСЂРµРґ СЃРјРµСЂС‚СЋ? РЎРїСЂРѕР±СѓСЋ СЂРѕР·РїРёС‚Р°С‚Рё РјС–СЃС†РµРІРёС…, РјРѕР¶Рµ, РІРґР°СЃС‚СЊСЃСЏ С‰РѕСЃСЊ РґС–Р·РЅР°С‚РёСЃСЊ. РўРёРј С‡Р°СЃРѕРј Р®СЃС‚Р°СЃ РІРёСЂСѓС€РёРІ РґРѕ РјР°Р№СЃС‚СЂС–РІ, РЅР° СЏРєРёС… РїСЂР°С†СЋРІР°РІ Р·Р°РіРёР±Р»РёР№ РЁСѓР»С–РєР°. Р’РѕРЅРё РјРѕР¶СѓС‚СЊ РЅР°РґР°С‚Рё С–РЅС„РѕСЂРјР°С†С–СЋ.</text>
-  </string>
-  <string id="nsp_mysterious_death_speak_suicide_stalker_informator_name">
-    <text>Р—РЅР°Р№С‚Рё Р—Р°СЂРјСѓС‚Р° С– РїРѕРіРѕРІРѕСЂРёС‚Рё РїСЂРѕ РўС…РѕСЂР°</text>
-  </string>
-  <string id="nsp_mysterious_death_speak_suicide_stalker_informator_text">
-    <text>РњРѕР»РѕРґРёР№ СЃС‚Р°Р»РєРµСЂ РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ Р—Р°СЂРјСѓС‚ РјРѕР¶Рµ С‰РѕСЃСЊ Р·РЅР°С‚Рё РїСЂРѕ СЃРјРµСЂС‚СЊ РўС…РѕСЂР°. РўСЂРµР±Р° РІС–РґС€СѓРєР°С‚Рё Р№РѕРіРѕ РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ С‚Р°Р±РѕСЂСѓ Р±С–Р»СЏ СЏРєРѕС—СЃСЊ Р·Р°РєРёРЅСѓС‚РѕС— С…Р°Р»СѓРїРё.</text>
-  </string>
-  <string id="nsp_mysterious_death_speak_leader_suicide_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ Р®СЃС‚Р°СЃР°</text>
-  </string>
-  <string id="nsp_mysterious_death_speak_leader_suicide_text">
-    <text>Р—РґР°С”С‚СЊСЃСЏ, С†Рµ РіР»СѓС…РёР№ РєСѓС‚. РЇ РЅРµ РґС–Р·РЅР°РІСЃСЏ РїСЂР°РєС‚РёС‡РЅРѕ РЅС–С‡РѕРіРѕ РЅРѕРІРѕРіРѕ. РўСЂРµР±Р° РїРѕРіРѕРІРѕСЂРёС‚Рё Р· Р®СЃС‚Р°СЃРѕРј. Р’С–РЅ РІР¶Рµ, РјР°Р±СѓС‚СЊ, РїРѕРІРµСЂРЅСѓРІСЃСЏ РІС–Рґ РјР°Р№СЃС‚СЂС–РІ С– РјС–Рі С‰РѕСЃСЊ РІ РЅРёС… РґС–Р·РЅР°С‚РёСЃСЊ.</text>
-  </string>
-  <string id="nsp_mysterious_death_take_leader_letter_name">
-    <text>РџСЂРѕС‡РёС‚Р°С‚Рё РїРµСЂРµРґСЃРјРµСЂС‚РЅСѓ Р·Р°РїРёСЃРєСѓ Р®СЃС‚Р°СЃР°</text>
-  </string>
-  <string id="nsp_mysterious_death_take_leader_letter_text">
-    <text>Р®СЃС‚Р°СЃ РјРµСЂС‚РІРёР№. РџРѕСЂСѓС‡ Р· С‚С–Р»РѕРј С” Р·Р°РїРёСЃРєР°.</text>
-  </string>
-  <string id="nsp_mysterious_death_relax_leader_suicide_name">
-    <text>РћР±РіРѕРІРѕСЂРёС‚Рё С‚Рµ, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ</text>
-  </string>
-  <string id="nsp_mysterious_death_relax_leader_suicide_text">
-    <text>РћС†Рµ Р¶ С‡РѕСЂС‚С–РІРЅСЏ! РЇРє С†Рµ РІР·Р°РіР°Р»С– РІС–РґР±СѓРІР°С”С‚СЊСЃСЏ? РўСЂРµР±Р° РѕР±РіРѕРІРѕСЂРёС‚Рё Р·С– СЃС‚Р°Р»РєРµСЂР°РјРё, С‰Рѕ СЂРѕР±РёС‚Рё РґР°Р»С–.</text>
-  </string>
-  <string id="nsp_mysterious_death_speak_masters_name">
-    <text>Р—Р°РїРёС‚Р°С‚Рё Сѓ СЃС‚Р°Р»РєРµСЂС–РІ-РјР°Р№СЃС‚СЂС–РІ РїСЂРѕ Р®СЃС‚Р°СЃР°</text>
-  </string>
-  <string id="nsp_mysterious_death_speak_masters_text">
-    <text>РћРґРЅРёРј Р· РѕСЃС‚Р°РЅРЅС–С…, С…С‚Рѕ Р±Р°С‡РёРІ Р·Р°РіРёР±Р»РёС… СЃС‚Р°Р»РєРµСЂС–РІ Р¶РёРІРёРјРё, Р±СѓР»Рё РґРѕСЃРІС–РґС‡РµРЅС– СЃС‚Р°Р»РєРµСЂРё Р±С–Р»СЏ РјРѕСЃС‚Сѓ. РЈРІРµС‡РµСЂС– С‚СЂРµР±Р° СЃС…РѕРґРёС‚Рё РЅР° СЂРѕР·РІС–РґРєСѓ С– СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ, С‰Рѕ СЂРѕР±РёС‚Рё РґР°Р»С–.</text>
-  </string>
-  <string id="nsp_mysterious_death_run_away_name">
-    <text>Р’С‚РµРєС‚Рё</text>
-  </string>
-  <string id="nsp_mysterious_death_run_away_text">
-    <text>...</text>
-  </string>
-  <string id="nsp_mysterious_death_suicide_actor_name">
-    <text>Р—С–СЃС‚СЂРёР±РЅСѓС‚Рё Р· РјРѕСЃС‚Сѓ</text>
-  </string>
-  <string id="nsp_mysterious_death_suicide_actor_text">
-    <text>РЇ Р±С–Р»СЊС€Рµ РЅРµ Р±Р°С‡Сѓ С–РЅС€РѕРіРѕ РІРёС…РѕРґСѓ. Р¦Рµ С‡РѕСЂРЅС– С‚С–РЅС–. Р’РѕРЅРё РІ РјРµРЅС–. РЇРєС‰Рѕ СЏ РЅРµ РІР±'СЋ СЃРµР±Рµ, С‚Рѕ РЅРµ РІР±'СЋ С—С….</text>
-  </string>
-  <string id="nsp_mysterious_death_search_killer_name">
-    <text>Р—РЅР°Р№С‚Рё РІР±РёРІС†СЋ СЃС‚Р°Р»РєРµСЂС–РІ</text>
-  </string>
-  <string id="nsp_mysterious_death_search_killer_text">
-    <text>РўРѕР№, С…С‚Рѕ РІР±РёРІ СЃС‚Р°Р»РєРµСЂС–РІ С– РЅР°РІС–РІ РїСЂРѕРєР»СЏС‚С‚СЏ РЅР° РІСЃРµ СЃРµР»Рѕ, РїСЂРѕРїР°С… РјР°С€РёРЅРЅРёРј РјР°СЃС‚РёР»РѕРј. Р©Рѕ С†Рµ РјРѕРіР»Рѕ Р± Р±СѓС‚Рё? Р’С–РґРїСЂР°РІР»СЋСЃСЊ РґРѕ СЃРµР»Р°, СЂРѕР·РІС–РґР°СЋ.</text>
-  </string>
-  <string id="nsp_mysterious_death_deliver_killer_name">
-    <text>РџСЂРёРІРµСЃС‚Рё РџР°РЅРєСЂР°С‚Р° РґРѕ Р±РµСЂРµРіР°</text>
-  </string>
-  <string id="nsp_mysterious_death_deliver_killer_text">
-    <text>РџР°РЅРєСЂР°С‚ РєР»СЋРЅСѓРІ РЅР° РјРѕСЋ РїСЂРёРјР°РЅРєСѓ. Р›РёС€РёР»РѕСЃСЊ С‚С–Р»СЊРєРё РґРѕРІРµСЃС‚Рё Р№РѕРіРѕ РґРѕ РјРѕСЃС‚Сѓ, РґРµ, СЃРїРѕРґС–РІР°СЋСЃСЊ, РІСЃРµ Р№ Р·Р°РІРµСЂС€РёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="nsp_mysterious_death_final_name">
-    <text>РџРѕС…РѕРІР°С‚Рё Рї'СЏС‚СЊРѕС… СЃС‚Р°Р»РєРµСЂС–РІ</text>
-  </string>
-  <string id="nsp_mysterious_death_final_text">
-    <text>Рџ'СЏС‚РµСЂРѕ СЃС‚Р°Р»РєРµСЂС–РІ Р·Р°РіРёРЅСѓР»Рё Р·Р°СЂР°РґРё С‡РёС”С—СЃСЊ РЅР°Р¶РёРІРё. РћРґРёРЅ Р· РЅРёС… Р±СѓРІ РќР°Р·РіСѓР», СЏРєРёР№ СЏРєРёРјРѕСЃСЊ С‡РёРЅРѕРј Р·РјС–Рі РґРѕРїРѕРјРѕРіС‚Рё РјРµРЅС– СЂРѕР·РїР»СѓС‚Р°С‚Рё С†СЋ СЃРїСЂР°РІСѓ. РўРµРїРµСЂ, СЃРїРѕРґС–РІР°СЋСЃСЊ, РЅР° РЅРёС… С‡РµРєР°С” РІС–С‡РЅРёР№ СЃРїРѕРєС–Р№, Р° С‚Р°Р±С–СЂ СЃС‚Р°Р»РєРµСЂС–РІ Р±С–Р»СЊС€Рµ РЅРµ Р±СѓРґРµ РїРµСЂРµСЃР»С–РґСѓРІР°С‚Рё РїСЂРѕРєР»СЏС‚С‚СЏ.</text>
-  </string>
-  <string id="nsp_masters_flashback_task">
-    <text>Р›Р•Р“РљРђ РќРђР–РР’Рђ</text>
-  </string>
-  <string id="nsp_masters_flashback_task_task_kill_stalkers_name">
-    <text>РџРѕР·Р±СѓС‚РёСЃСЏ СЃРїР»СЏС‡РёС… СЃС‚Р°Р»РєРµСЂС–РІ</text>
-  </string>
-  <string id="nsp_masters_flashback_task_task_kill_stalkers_text">
-    <text>РџСЂРѕ РІСЃСЏРє РІРёРїР°РґРѕРє С‚СЂРµР±Р° РїРѕР·Р±СѓС‚РёСЃСЏ С†РёС… СЃС‚Р°Р»РєРµСЂС–РІ.</text>
-  </string>
-  <string id="nsp_masters_flashback_task_task_take_items_name">
-    <text>Р—Р°Р±СЂР°С‚Рё С…Р°Р±Р°СЂ</text>
-  </string>
-  <string id="nsp_masters_flashback_task_task_take_items_text">
-    <text>Рђ РѕС‚ С– СЂСЋРєР·Р°С‡РѕРє Р· РїСЂРёРїР°СЃР°РјРё...</text>
-  </string>
-  <string id="nsp_masters_flashback_task_task_speak_stalker_car_help_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РІС–РґРјРёС‡РєРѕСЋ</text>
-  </string>
-  <string id="nsp_masters_flashback_task_task_speak_stalker_car_help_text">
-    <text>Р§Р°СЃ СЂРѕР·РІ'СЏР·СѓРІР°С‚Рё РїРёС‚Р°РЅРЅСЏ Р· РІС–РґРјРёС‡РєРѕСЋ.</text>
-  </string>
-  <string id="nsp_village_gain_confidence">
-    <text>РЎРљРђРќР•Р  РЈ РЎР•Р›Р†</text>
-  </string>
-  <string id="nsp_village_gain_confidence_start_name">
-    <text>РћС‚СЂРёРјР°С‚Рё РґРѕРІС–СЂСѓ СЃС‚Р°Р»РєРµСЂС–РІ</text>
-  </string>
-  <string id="nsp_village_gain_confidence_start_text">
-    <text>РњС–СЃС†РµРІС– СЃС‚Р°Р»РєРµСЂРё РЅРµ СЂР°РґС–СЋС‚СЊ, С‰Рѕ РЅРµР·РЅР°Р№РѕРјРµС†СЊ СЃС‚Р°РІРёС‚СЊ Сѓ С—С…РЅСЊРѕРјСѓ С‚Р°Р±РѕСЂС– РЅРµРІС–РґРѕРјРµ РѕР±Р»Р°РґРЅР°РЅРЅСЏ. РЎРїРµСЂС€Сѓ С‚СЂРµР±Р° Р·Р°СЂСѓС‡РёС‚РёСЃСЏ С—С…РЅСЊРѕСЋ РґРѕРІС–СЂРѕСЋ. РњРѕР¶Р»РёРІРѕ, СЂРѕР·РІ'СЏР·Р°РІС€Рё С—С…РЅС– РїСЂРѕР±Р»РµРјРё, СЏ Р·РјРѕР¶Сѓ С†СЊРѕРіРѕ РґРѕСЃСЏРіРЅСѓС‚Рё.</text>
-  </string>
-  <string id="nsp_village_gain_confidence_place_scaner_name">
-    <text>РЎРїСЂРѕР±СѓРІР°С‚Рё РІСЃС‚Р°РЅРѕРІРёС‚Рё СЃРєР°РЅРµСЂ</text>
-  </string>
-  <string id="nsp_village_gain_confidence_place_scaner_text">
-    <text>Р—РґР°С”С‚СЊСЃСЏ, СЏ Р·СЂРѕР±РёРІ РІСЃРµ, С‰РѕР± СЃС‚Р°Р»РєРµСЂРё СЃС‚Р°РІРёР»РёСЃСЏ РґРѕ РјРµРЅРµ СЏРє РґРѕ СЃРІРѕРіРѕ. РЎРїРѕРґС–РІР°СЋСЃСЊ, С‚РµРїРµСЂ РІРґР°СЃС‚СЊСЃСЏ РІСЃС‚Р°РЅРѕРІРёС‚Рё СЃРєР°РЅРµСЂ Сѓ СЃРµР»С–.</text>
-  </string>
-  <string id="nsp_suicide_stalker_treasure_task">
-    <text>РҐРђР‘РђР  РЁРЈР›Р†РљР</text>
-  </string>
-  <string id="nsp_suicide_stalker_treasure_task_start_name">
-    <text>РћРіР»СЏРЅСѓС‚Рё РјС–СЃС†Рµ</text>
-  </string>
-  <string id="nsp_suicide_stalker_treasure_task_start_text">
-    <text>РњРµРЅС– СЃС‚Р°Р»Рѕ РІС–РґРѕРјРѕ, РґРµ РЁСѓР»С–РєР° Р·Р±РµСЂС–РіР°РІ С…Р°Р±Р°СЂ. РњРѕР¶Р»РёРІРѕ, С‚Р°Рј СЏ Р·РјРѕР¶Сѓ Р·РЅР°Р№С‚Рё С‰РѕСЃСЊ С†С–РєР°РІРµ.</text>
-  </string>
-  <string id="nsp_polter_scaner_task">
-    <text>РџРћР›РўР•Р Р“Р•Р™РЎРў</text>
-  </string>
-  <string id="nsp_polter_scaner_task_start_name">
-    <text>Р—СЂРѕР·СѓРјС–С‚Рё, С‰Рѕ РїРѕРІ'СЏР·СѓС” РЅРµР·РІРёС‡Р°Р№РЅРѕРіРѕ РјСѓС‚Р°РЅС‚Р° С–Р· Р·СѓРїРёРЅРєРѕСЋ</text>
-  </string>
-  <string id="nsp_polter_scaner_task_start_text">
-    <text>РќРµР·РІРёС‡Р°Р№РЅРёР№ РїРѕР»С‚РµСЂРіРµР№СЃС‚ Р»С–С‚Р°С” Р±С–Р»СЏ Р·СѓРїРёРЅРєРё Р№ РЅРµ Р·Р±РёСЂР°С”С‚СЊСЃСЏ Р№С‚Рё. РњРѕР¶Рµ, С†Рµ Р№РѕРіРѕ Р»С–РіРІРѕ? РўРѕРґС– С‡РѕРјСѓ РІС–РЅ РЅРµ Р°С‚Р°РєСѓС”? Р”РёРІРЅРѕ С†Рµ РІСЃРµ... РўСЂРµР±Р° РІСЃРµ РѕРіР»СЏРЅСѓС‚Рё. Р’СЃС‚Р°РЅРѕРІР»СЋРІР°С‚Рё СЃРєР°РЅРµСЂ Сѓ Р»С–РіРІС–, РјР°Р±СѓС‚СЊ, РЅРµ РЅР°Р№РєСЂР°С‰Р° С–РґРµСЏ. РўСЂРµР±Р° СЏРєРѕСЃСЊ РїРѕР·Р±СѓС‚РёСЃСЏ С†С–С”С— РЅРµС‡РёСЃС‚С–.</text>
-  </string>
-  <string id="nsp_polter_scaner_task_search_items_name">
-    <text>Р—РЅР°Р№С‚Рё СЂРµС‡С– РІРѕС”РЅРЅРѕРіРѕ</text>
-  </string>
-  <string id="nsp_polter_scaner_task_search_items_text">
-    <text>РЎСѓРґСЏС‡Рё Р· СѓСЃСЊРѕРіРѕ, Р»РµС‚СЋС‡Р° СЃСѓС‚РЅС–СЃС‚СЊ РЅР° Р·СѓРїРёРЅС†С–  вЂ”  РїРѕР»С‚РµСЂРіРµР№СЃС‚, РЅР° СЏРєРѕРіРѕ РїРµСЂРµС‚РІРѕСЂРёРІСЃСЏ РѕРґРёРЅ РІС–Р№СЃСЊРєРѕРІРёР№ Р· Р±Р°Р·Рё РЅРµРїРѕРґР°Р»С–Рє. РЈ Р№РѕРіРѕ Р·Р°РїРёСЃР°С… РІС–РґР·РЅР°С‡РµРЅРµ РјС–СЃС†Рµ, РґРµ РІС–РЅ Р·Р±РµСЂС–РіР°РІ СЃРІРѕС— СЂРµС‡С–. Р’Р°СЂС‚Рѕ СЃС…РѕРґРёС‚Рё С‚СѓРґРё Р№ СЃРїСЂРѕР±СѓРІР°С‚Рё С‰РѕСЃСЊ РґС–Р·РЅР°С‚РёСЃСЊ.</text>
-  </string>
-  <string id="nsp_polter_scaner_task_follow_polter_name">
-    <text>РЎР»С–РґСѓРІР°С‚Рё Р·Р° С–СЃС‚РѕС‚РѕСЋ</text>
-  </string>
-  <string id="nsp_polter_scaner_task_follow_polter_text">
-    <text>Р¦РµР№ РґРёРІРЅРёР№ РїРѕР»С‚РµСЂРіРµР№СЃС‚ РІРёСЂС–С€РёРІ РїРµСЂРµР±СЂР°С‚РёСЃСЏ СЃСЋРґРё. РЇРє РЅР° РјРµРЅРµ, РІС–РЅ СЏРІРЅРѕ РЅРµ РЅР°Р»Р°С€С‚РѕРІР°РЅРёР№ РІРѕСЂРѕР¶Рµ С– РЅР°РјР°РіР°С”С‚СЊСЃСЏ С‰РѕСЃСЊ РјРµРЅС– СЃРєР°Р·Р°С‚Рё. РњРѕР¶Рµ, РІР°СЂС‚Рѕ Р·Р° РЅРёРј РїС–С‚Рё?</text>
-  </string>
-  <string id="nsp_polter_scaner_task_take_reward_name">
-    <text>Р’Р·СЏС‚Рё РІРёРЅР°РіРѕСЂРѕРґСѓ</text>
-  </string>
-  <string id="nsp_polter_scaner_task_take_reward_text">
-    <text>Р¦Рµ С‰Рѕ, РЅР°РіРѕСЂРѕРґР° Р·Р° СЂРµС‡С– РІС–Р№СЃСЊРєРѕРІРѕРіРѕ? РЇРє Р¶Рµ С†Рµ РІСЃРµ РјРѕС‚РѕСЂРѕС€РЅРѕ Р№ РЅРµР·СЂРѕР·СѓРјС–Р»Рѕ...</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner">
-    <text>РџРћР›Р®Р’РђРќРќРЇ</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_start_speak_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё С–Р· Р—Р°С…Р°СЂРѕРј</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_start_speak_text">
-    <text>Р›С–РґРµСЂ РјС–СЃС†РµРІРёС… РјРёСЃР»РёРІС†С–РІ Р·Р°Р±СЂР°РІ РїРµСЂРµРІС–СЂРёС‚Рё РјС–Р№ СЃРєР°РЅРµСЂ. Р”РѕРєРё СЏ С‡РµРєР°СЋ, Р·РіРѕРґРёРІСЃСЏ РІРёСЂСѓС€РёС‚Рё РЅР° РїРѕР»СЋРІР°РЅРЅСЏ. Р“РѕСЂС‰РёРє СЃРєР°Р·Р°РІ, С‰Рѕ РЅР° С†СЊРѕРјСѓ РјРѕР¶РЅР° Р·Р°СЂРѕР±РёС‚Рё РґРѕР±СЂС– РіСЂРѕС€С–. Р§РѕРј Р±Рё Р№ РЅРµ СЃРїСЂРѕР±СѓРІР°С‚Рё?</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_wait_night_name">
-    <text>РџРµСЂРµС‡РµРєР°С‚Рё РЅС–С‡</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_wait_night_text">
-    <text>Р—Р°С…Р°СЂ РіРѕРІРѕСЂРёС‚СЊ, РІРЅРѕС‡С– Сѓ Р»С–СЃС– РЅРµР±РµР·РїРµС‡РЅРѕ. Р’Р°СЂС‚Рѕ РїРµСЂРµС‡РµРєР°С‚Рё, Р° РІР¶Рµ РїС–СЃР»СЏ СЂСѓС€Р°С‚Рё РЅР° РїРѕР»СЋРІР°РЅРЅСЏ.</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_search_shotgun_name">
-    <text>Р РѕР·РґРѕР±СѓС‚Рё РґСЂРѕР±РѕРІРёРє</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_search_shotgun_text">
-    <text>Р—Р°С…Р°СЂ РІРёРјР°РіР°С”, С‰РѕР± Сѓ РјРµРЅРµ Р±СѓРІ РґСЂРѕР±РѕРІРёРє. Р— Р№РѕРіРѕ СЃР»С–РІ, РЅР° РІРѕС”РЅРЅС–Р№ Р±Р°Р·С– РјРѕРіР»Рё Р»РёС€РёС‚РёСЃСЏ СЏРєС–СЃСЊ Р·СЂР°Р·РєРё Р·Р±СЂРѕС—. Р’Р°СЂС‚Рѕ РїРѕРєРѕРїР°С‚РёСЃСЊ С‚Р°Рј. РќР°РїРµРІРЅРµ, С‰РѕСЃСЊ Р·РЅР°Р№РґСѓ.</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_start_hunt_name">
-    <text>Р’РёСЂСѓС€РёС‚Рё Р· Р—Р°С…Р°СЂРѕРј РЅР° РїРѕР»СЋРІР°РЅРЅСЏ</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_start_hunt_text">
-    <text>Р’РёСЂСѓС€Р°СЋ СЂР°Р·РѕРј Р· Р—Р°С…Р°СЂРѕРј РЅР° РїРѕР»СЋРІР°РЅРЅСЏ. РЎРїСЂР°РІР° РЅРµСЃРєР»Р°РґРЅР°: РїРѕСЃС‚СЂС–Р»СЏС‚Рё Р№ РїСЂРёРєСЂРёС‚Рё СЂР°РїС‚РѕРј С‰Рѕ.</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_kill_monsters_name">
-    <text>Р—РЅРёС‰РёС‚Рё С‡СѓРґРѕРІРёСЃСЊРє</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_kill_monsters_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ РґРѕРїРѕРјРѕРіС‚Рё Р—Р°С…Р°СЂСѓ РїРµСЂРµСЃС‚СЂС–Р»СЏС‚Рё РјСѓС‚Р°РЅС‚С–РІ.</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_help_boss_name">
-    <text>Р”РѕРїРѕРјРѕРіС‚Рё Р—Р°С…Р°СЂСѓ</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_help_boss_text">
-    <text>...</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_take_scanner_name">
-    <text>Р—Р°Р±СЂР°С‚Рё СЃРєР°РЅРµСЂ</text>
-  </string>
-  <string id="nsp_hunter_retrieve_scanner_take_scanner_text">
-    <text>...</text>
-  </string>
-  <string id="nsp_brawl_task">
-    <text>Р‘Р†Р™РљРђ</text>
-  </string>
-  <string id="nsp_brawl_task_start_name">
-    <text>РЎС…РѕРІР°С‚РёСЃСЊ РІС–Рґ РЅРµРІС–РґРѕРјРёС…</text>
-  </string>
-  <string id="nsp_brawl_task_start_text">
-    <text>РќР° РјС–СЃС†С– Р·СѓСЃС‚СЂС–С‡С– Р· РµРєСЃРїРµРґРёС†С–С”СЋ РІС‡РµРЅРёС… РЅР° РјРµРЅРµ С‡РµРєР°Р»Р° Р·Р°СЃС–РґРєР°. Р©Рѕ С†Рµ РІСЃРµ РѕР·РЅР°С‡Р°С”?</text>
-  </string>
-  <string id="nsp_brawl_task_hide_in_village_name">
-    <text>РЎС…РѕРІР°С‚РёСЃСЊ РІ СЃРµР»С–</text>
-  </string>
-  <string id="nsp_brawl_task_hide_in_village_text">
-    <text>РќРµ РґСѓРјР°СЋ, С‰Рѕ РІР°СЂС‚Рѕ РґРѕРІС–СЂСЏС‚Рё РЅРµРІС–РґРѕРјРёРј, Р°РґР¶Рµ С‰Рµ РєС–Р»СЊРєР° С…РІРёР»РёРЅ С‚РѕРјСѓ РІРѕРЅРё РІС–РґРєСЂРёР»Рё РїРѕ РјРµРЅС– РІРѕРіРѕРЅСЊ. Р„РґРёРЅРµ Р±РµР·РїРµС‡РЅРµ РјС–СЃС†Рµ РІ РѕРєРѕР»РёС†С–  вЂ”  С‚Р°Р±С–СЂ СЃС‚Р°Р»РєРµСЂС–РІ Сѓ Р·Р°РєРёРЅСѓС‚РѕРјСѓ СЃРµР»С–. РЇРєРёРјРё Р± РєСЂСѓС‚РёРјРё С†С– С…Р»РѕРїС†С– РЅРµ Р±СѓР»Рё, С‚СѓРґРё РІРѕРЅРё РЅРµ СЂРёР·РёРєРЅСѓС‚СЊ СЃСѓРЅСѓС‚РёСЃСЊ.</text>
-  </string>
-  <string id="nsp_brawl_task_hide_artefact_name">
-    <text>Р—Р°РєРѕРїР°С‚Рё С‚СЂР°РЅСЃРјСѓС‚Р°С‚</text>
-  </string>
-  <string id="nsp_brawl_task_hide_artefact_text">
-    <text>РљРѕС—С‚СЊСЃСЏ С‰РѕСЃСЊ РґРёРІРЅРµ. РњРµРЅС– РїРѕС‚СЂС–Р±РЅРѕ РїРѕР·Р±СѓС‚РёСЃСЏ Р°СЂС‚РµС„Р°РєС‚Сѓ. Р”СѓРјР°СЋ, РІР°СЂС‚Рѕ Р·Р°РєРѕРїР°С‚Рё Р№РѕРіРѕ Сѓ СЂСѓС—РЅР°С… С‚СѓРЅРµР»СЋ: С‚Р°Рј С” РґРµ СЂРѕР·РіСѓР»СЏС‚РёСЃСЊ. Р—РІС–РґС‚Рё Р¶ Р№ РїРѕСЃСѓРЅСѓ РЅР° РљРѕСЂРґРѕРЅ.</text>
-  </string>
-  <string id="nsp_brawl_task_leave_the_territory_name">
-    <text>РџРѕРєРёРЅСѓС‚Рё РќРѕРІРѕС€РµРїРµР»РёС‡С–</text>
-  </string>
-  <string id="nsp_brawl_task_leave_the_territory_text">
-    <text>РўРµРїРµСЂ РјРµРЅС– С‡Р°СЃ Р№С‚Рё. Р©Рµ С‚СЂРµР±Р° Р·РІ'СЏР·Р°С‚РёСЃСЊ Р· Р®СЂРєРѕРј. РџРѕС‚СЂС–Р±РЅРѕ РїРѕРєРёРЅСѓС‚Рё Р—РѕРЅСѓ.</text>
-  </string>
-  <string id="nsp_brawl_task_speak_jurok_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р®СЂРєРѕРј</text>
-  </string>
-  <string id="nsp_brawl_task_speak_jurok_text">
-    <text>РЇ Р·Р±РёСЂР°СЋСЃСЊ РїРѕРєРёРЅСѓС‚Рё Р—РѕРЅСѓ. РџРѕС‚СЂС–Р±РЅРѕ РЅР°РѕСЃС‚Р°РЅРѕРє РїРѕР±Р°С‡РёС‚РёСЃСЊ Р· Р®СЂРєРѕРј С– СЂРѕР·РїРѕРІС–СЃС‚Рё Р№РѕРјСѓ РїСЂРѕ РІСЃРµ.</text>
-  </string>
-  <string id="nsp_general_boar_task">
-    <text>Р“Р•РќР•Р РђР› РЁРўРћРљ</text>
-  </string>
-  <string id="nsp_general_boar_task_go_last_meeting_place_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЊ РЅР° РіР°Р»СЏРІРёРЅСѓ</text>
-  </string>
-  <string id="nsp_general_boar_task_go_last_meeting_place_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ РїРѕРІРµСЂРЅСѓС‚РёСЃСЊ РЅР° РіР°Р»СЏРІРёРЅСѓ, РґРµ РјРё РѕСЃС‚Р°РЅРЅСЊРѕРіРѕ СЂР°Р·Сѓ Р·СѓСЃС‚СЂС–Р»Рё Р“РµРЅРµСЂР°Р»Р°. РњРё Р· Р—Р°С…Р°СЂРѕРј Р№РѕРіРѕ РЅРµРїРѕРіР°РЅРѕ РїРѕСЂР°РЅРёР»Рё. РњРѕР¶Рµ, РІРґР°СЃС‚СЊСЃСЏ Р·РЅР°Р№С‚Рё СЏРєС–СЃСЊ СЃР»С–РґРё.</text>
-  </string>
-  <string id="nsp_general_boar_task_following_bloody_drops_name">
-    <text>РџСЂРѕР№С‚Рё Р·Р° РєСЂРёРІР°РІРёРјРё СЃР»С–РґР°РјРё</text>
-  </string>
-  <string id="nsp_general_boar_task_following_bloody_drops_text">
-    <text>Р—Р°С…Р°СЂ РїРѕСЂР°РЅРёРІ РєР°Р±Р°РЅР°. РўСЂРµР±Р° СЃРїСЂРѕР±СѓРІР°С‚Рё РїСЂРѕР№С‚Рё Р·Р° РєСЂРёРІР°РІРёРјРё СЃР»С–РґР°РјРё, СЏРєС– РІРёРІРµРґСѓС‚СЊ РјРµРЅРµ РґРѕ Р№РѕРіРѕ Р»С–РіРІР°.</text>
-  </string>
-  <string id="nsp_general_boar_task_check_boar_home_name">
-    <text>РћРіР»СЏРЅСѓС‚Рё РЅРѕСЂСѓ</text>
-  </string>
-  <string id="nsp_general_boar_task_check_boar_home_text">
-    <text>Р—РґР°С”С‚СЊСЃСЏ, С‚СѓС‚ С– Р¶РёРІРµ РіРµРЅРµСЂР°Р» РЁС‚РѕРє. РўСЂРµР±Р° РґРѕСЃР»С–РґРёС‚Рё Р»С–РіРІРѕ Р№ Р·Р°РІРµСЂС€РёС‚Рё Р· РјСѓС‚Р°РЅС‚РѕРј, РґРѕРєРё РІС–РЅ РїРѕСЂР°РЅРµРЅРёР№.</text>
-  </string>
-  <string id="nsp_general_boar_task_kill_boar_name">
-    <text>Р’Р±РёС‚Рё С‡СѓРґРѕРІРёСЃСЊРєРѕ</text>
-  </string>
-  <string id="nsp_general_boar_task_kill_boar_text">
-    <text>РЇ Р·РЅР°Р№С€РѕРІ РІРµР»РµС‚РµРЅСЃСЊРєРѕРіРѕ РєР°Р±Р°РЅР°. Р—Р°Р»РёС€РёР»РѕСЃСЊ Р»РёС€Рµ Р· РЅРёРј РїРѕРєС–РЅС‡РёС‚Рё.</text>
-  </string>
-  <string id="nsp_general_boar_task_search_corp_name">
-    <text>РћР±С€СѓРєР°С‚Рё С‚СЂСѓРї РјРёСЃР»РёРІС†СЏ</text>
-  </string>
-  <string id="nsp_general_boar_task_search_corp_text">
-    <text>РЇ Р·РЅР°Р№С€РѕРІ Сѓ РїРµС‡РµСЂС– С‚С–Р»Рѕ РѕРґРЅРѕРіРѕ Р·С– Р·РЅРёРєР»РёС… РјРёСЃР»РёРІС†С–РІ. РўСЂРµР±Р° Р№РѕРіРѕ РѕРіР»СЏРЅСѓС‚Рё.</text>
-  </string>
-  <string id="nsp_general_boar_task_hunter_pot_go_reward_name">
-    <text>Р”РѕРїРѕРІС–СЃС‚Рё Р“РѕСЂС‰РёРєСѓ РїСЂРѕ РїРѕРґС–С—</text>
-  </string>
-  <string id="nsp_general_boar_task_hunter_pot_go_reward_text">
-    <text>РњРµРЅС– РІРґР°Р»РѕСЃСЊ РІР±РёС‚Рё Р“РµРЅРµСЂР°Р»Р° РЁС‚РѕРєР°. Р РѕР·РєР°Р¶Сѓ РїСЂРѕ РІСЃРµ Р“РѕСЂС‰РёРєСѓ.</text>
-  </string>
-  <string id="nsp_musician_stalker_guitar_task">
-    <text>РњРЈР—РРљРђРќРў Р— РќРћР’РћРЁРРџР†Р›РР§Р†Р’</text>
-  </string>
-  <string id="nsp_musician_stalker_guitar_task_start_talk_name">
-    <text>Р”С–Р·РЅР°С‚РёСЃСЊ Сѓ СЃС‚Р°Р»РєРµСЂР°, С‡РѕРјСѓ Р№РѕРјСѓ РЅРµ РІРґР°С”С‚СЊСЃСЏ РіСЂР°С‚Рё</text>
-  </string>
-  <string id="nsp_musician_stalker_guitar_task_start_talk_text">
-    <text>РќР°Р±СЂС–РІ РЅР° РЅРµРІРµР»РёС‡РєРёР№ РїСЂРёРІР°Р» СЃС‚Р°Р»РєРµСЂС–РІ. РћРґРёРЅ Р· РЅРёС… Р¶Р°С…Р»РёРІРѕ РіСЂР°С” РЅР° РіС–С‚Р°СЂС–. Р“СЂС–С… РЅРµ РїРѕР¶Р°СЂС‚СѓРІР°С‚Рё С‰РѕРґРѕ С†СЊРѕРіРѕ.</text>
-  </string>
-  <string id="nsp_musician_stalker_guitar_task_find_item_name">
-    <text>Р РѕР·РґРѕР±СѓС‚Рё РіС–С‚Р°СЂСѓ РґР»СЏ Р®СЂС†СЏ</text>
-  </string>
-  <string id="nsp_musician_stalker_guitar_task_find_item_text">
-    <text>РџРѕРѕР±С–С†СЏРІ СЃС‚Р°Р»РєРµСЂСѓ РІС–РґС€СѓРєР°С‚Рё РЅРѕРІСѓ РіС–С‚Р°СЂСѓ. Р™РјРѕРІС–СЂРЅРѕ, Сѓ СЃРµР»С– РќРѕРІРѕС€РёРїС–Р»РёС‡С– Р±СѓРґРµ С‰РѕСЃСЊ РїС–РґС…РѕР¶Рµ. Р’Р°СЂС‚Рѕ СЂРѕР·РїРёС‚Р°С‚Рё РјРµС€РєР°РЅС†С–РІ СЃРµР»Р° РїСЂРѕ С†Рµ.</text>
-  </string>
-  <string id="nsp_musician_stalker_guitar_task_take_reward_name">
-    <text>Р’С–РґРґР°С‚Рё РіС–С‚Р°СЂСѓ Р®СЂС‡РёРєСѓ</text>
-  </string>
-  <string id="nsp_musician_stalker_guitar_task_take_reward_text">
-    <text>Р’РґР°Р»РѕСЃСЊ СЂРѕР·РґРѕР±СѓС‚Рё РїСЂРёРЅР°Р№РјРЅС– С†С–Р»РёР№ С–РЅСЃС‚СЂСѓРјРµРЅС‚. РЎРїРѕРґС–РІР°СЋСЃСЊ, С†Рµ С‚Рµ, С‰Рѕ С‚СЂРµР±Р° СЃС‚Р°Р»РєРµСЂСѓ.</text>
-  </string>
-  <string id="nsp_musician_stalker_guitar_task_search_stalker_name">
-    <text>Р’С–РґРЅРµСЃС‚Рё Р·РЅР°Р№РґРµРЅСѓ РіС–С‚Р°СЂСѓ Р®СЂС‡РёРєСѓ</text>
-  </string>
-  <string id="nsp_musician_stalker_guitar_task_search_stalker_text">
-    <text>РќРµ С‚Р°Рє РґР°РІРЅРѕ Р·СѓСЃС‚СЂС–РІ Р±С–РґРѕР»Р°С…Сѓ-РјСѓР·РёРєР°РЅС‚Р° Р· СЂРѕР·Р±РёС‚РѕСЋ РіС–С‚Р°СЂРѕСЋ. Р“Р°РґР°СЋ, РјРѕСЏ Р·РЅР°С…С–РґРєР° Р±СѓРґРµ РґСѓР¶Рµ РґРѕСЂРµС‡РЅРѕСЋ РґР»СЏ РЅСЊРѕРіРѕ. РќРµ РїСЂРѕРїР°РґР°С‚Рё Р¶ РґРѕР±СЂСѓ.</text>
-  </string>
-  <string id="nsp_freedom_meet_task">
-    <text>Р—РђР“Р†Рќ В«РЎР’РћР‘РћР”РВ»</text>
-  </string>
-  <string id="nsp_freedom_meet_task_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р»С–РґРµСЂРѕРј</text>
-  </string>
-  <string id="nsp_freedom_meet_task_text">
-    <text>РўР°РєРёР№ СЃРѕР±С– Р Р°Рє Р· СѓРіСЂСѓРїСѓРІР°РЅРЅСЏ В«РЎРІРѕР±РѕРґР°В» РїРѕРїСЂРѕСЃРёРІ РїС–РґС–Р№С‚Рё Р· РЅР°С‚СЏРєРѕРј РЅР° СЏРєСѓСЃСЊ СЃРїСЂР°РІСѓ. Р§РѕРјСѓ Р± С– РЅС–? РљРѕСЂРѕРЅР° РЅРµ РІРїР°РґРµ, СЏРєС‰Рѕ РїРѕСЃРїС–Р»РєСѓС”РјРѕСЃСЊ.</text>
-  </string>
-  <string id="nsp_freedom_bandits_task">
-    <text>РќРђР¤РўРћР‘РђР—Рђ</text>
-  </string>
-  <string id="nsp_freedom_bandits_task_start_name">
-    <text>Р”РѕРїРѕРјРѕРіС‚Рё Р Р°РєСѓ СЂРѕР·С–Р±СЂР°С‚РёСЃСЊ Р· Р±Р°РЅРґРёС‚Р°РјРё</text>
-  </string>
-  <string id="nsp_freedom_bandits_task_start_text">
-    <text>Р Р°Рє С– Р№РѕРіРѕ РіСЂСѓРїР°  вЂ”  РѕРґРЅС– Р· РѕСЃС‚Р°РЅРЅС–С… СЃРІРѕР±РѕРґС–РІС†С–РІ, С‰Рѕ Р»РёС€РёР»РёСЃСЊ Сѓ Р—РѕРЅС–. Р’С–РЅ РїРѕРїСЂРѕСЃРёРІ РґРѕРїРѕРјРѕРіС‚Рё Р№РѕРјСѓ С– Р№РѕРіРѕ С‚РѕРІР°СЂРёС€Р°Рј РІРёР±РёС‚Рё Р±Р°РЅРґРёС‚С–РІ Р· РЅР°С„С‚РѕР±Р°Р·Рё, С‰РѕР± РЅР° СЏРєРёР№СЃСЊ С‡Р°СЃ С‚Р°Рј РѕР±Р»Р°С€С‚СѓРІР°С‚РёСЃСЊ.</text>
-  </string>
-  <string id="nsp_freedom_bandits_task_take_reward_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р Р°РєРѕРј</text>
-  </string>
-  <string id="nsp_freedom_bandits_task_take_reward_text">
-    <text>Р‘Р°РЅРґРёС‚С–РІ Р·РЅРµС€РєРѕРґР¶РµРЅРѕ. РўРµРїРµСЂ РїРѕРіРѕРІРѕСЂСЋ Р· Р»С–РґРµСЂРѕРј Р·Р°РіРѕРЅСѓ В«РЎРІРѕР±РѕРґРёВ» С‰РѕРґРѕ РЅР°РіРѕСЂРѕРґРё.</text>
-  </string>
-  <string id="nsp_freedom_monster_task">
-    <text>Р’Р•Р›РРљРђ РџР РћР‘Р›Р•РњРђ</text>
-  </string>
-  <string id="nsp_freedom_monster_task_start_talk_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р Р°РєРѕРј</text>
-  </string>
-  <string id="nsp_freedom_monster_task_start_talk_text">
-    <text>РЎРІРѕР±РѕРґС–РІС†СЏРј Р·РЅРѕРІСѓ С‰РѕСЃСЊ РІС–Рґ РјРµРЅРµ РїРѕС‚СЂС–Р±РЅРѕ. РњРѕР¶Р»РёРІРѕ, С‰РѕСЃСЊ С†С–РєР°РІРµ. РЇРєС‰Рѕ Р±СѓРґСѓ Сѓ С‚РёС… РєСЂР°СЏС…, РјРѕР¶РЅР° Р±СѓРґРµ Р№ Р·Р°Р·РёСЂРЅСѓС‚Рё.</text>
-  </string>
-  <string id="nsp_freedom_monster_task_need_to_think_name">
-    <text>РџС–РґРіРѕС‚СѓРІР°С‚РёСЃСЊ РґРѕ РїРѕР»СЋРІР°РЅРЅСЏ РЅР° С…РёРјРµСЂСѓ</text>
-  </string>
-  <string id="nsp_freedom_monster_task_need_to_think_text">
-    <text>Р—Р°РіС–РЅ В«РЎРІРѕР±РѕРґРёВ» РїРѕС‚СЂРµР±СѓС” РґРѕРїРѕРјРѕРіРё. Р Р°Рє РїРѕРїСЂРѕС…Р°РІ РІР·СЏС‚Рё СѓС‡Р°СЃС‚СЊ Сѓ РїРѕР»СЋРІР°РЅРЅС– РЅР° С…РёРјРµСЂСѓ, СЏРєР° С‚РёРЅСЏС”С‚СЊСЃСЏ РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ С—С…РЅСЊРѕРіРѕ С‚Р°Р±РѕСЂСѓ. РќС–РєРѕР»Рё РґРѕ С†СЊРѕРіРѕ РЅРµ РґРѕРІРѕРґРёР»РѕСЃСЊ Р·СѓСЃС‚СЂС–С‡Р°С‚РёСЃСЊ Р· С‚Р°РєРёРјРё РјСѓС‚Р°РЅС‚Р°РјРё, С‚РѕР¶ РІР°СЂС‚Рѕ РґСѓР¶Рµ РґРѕР±СЂРµ РїС–РґРіРѕС‚СѓРІР°С‚РёСЃСЊ РґРѕ С†С–С”С— РІРёР»Р°Р·РєРё.</text>
-  </string>
-  <string id="nsp_freedom_monster_task_follow_leader_name">
-    <text>Р™С‚Рё СЃР»С–РґРѕРј Р·Р° Р Р°РєРѕРј</text>
-  </string>
-  <string id="nsp_freedom_monster_task_follow_leader_text">
-    <text>РњР°Р№Р¶Рµ РґРѕР±СЂР°Р»РёСЃСЊ РґРѕ РјС–СЃС†СЏ. РўРµРїРµСЂ С‚СЂРµР±Р° Р°РєСѓСЂР°С‚РЅРѕ РїС–РґС–Р±СЂР°С‚РёСЃСЊ РґРѕ С…РёРјРµСЂРё Р№ РІР»Р°С€С‚СѓРІР°С‚Рё С—С… РіР°СЂРјР°С‚РЅРёР№ Р·Р°Р»Рї Р· С‡РѕС‚РёСЂСЊРѕС… СЃС‚РІРѕР»С–РІ.</text>
-  </string>
-  <string id="nsp_freedom_monster_task_kill_monster_name">
-    <text>Р’Р±РёС‚Рё С…РёРјРµСЂСѓ</text>
-  </string>
-  <string id="nsp_freedom_monster_task_kill_monster_text">
-    <text>РўРµРїРµСЂ РЅР°Р№СЃРєР»Р°РґРЅС–С€Рµ  вЂ”  СЂРѕР·С–Р±СЂР°С‚РёСЃСЊ Р· С…РёРјРµСЂРѕСЋ. РҐР°Р№ РЅР°Рј Р±РѕРі РґРѕРїРѕРјР°РіР°С”.</text>
-  </string>
-  <string id="nsp_freedom_monster_task_final_talk_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р Р°РєРѕРј</text>
-  </string>
-  <string id="nsp_freedom_monster_task_final_talk_text">
-    <text>РҐРёРјРµСЂР° РјРµСЂС‚РІР°, С– С‚РµРїРµСЂ РІ РѕРєРѕР»РёС†СЏС… СЃС‚Р°Р»Рѕ Р±РµР·РїРµС‡РЅС–С€Рµ. Р§Р°СЃ РїРѕРіРѕРІРѕСЂРёС‚Рё РїСЂРѕ РЅР°РіРѕСЂРѕРґСѓ Р· Р»С–РґРµСЂРѕРј Р·Р°РіРѕРЅСѓ В«РЎРІРѕР±РѕРґР°В».</text>
-  </string>
+
+	<string id="nsp_scientific_job_place_scanners">
+		<text>АНОМАЛЬНА АКТИВНІСТЬ</text>
+	</string>
+
+	<string id="nsp_scientific_job_place_scanners_name">
+		<text>Встановити п'ять сканерів у вказаних місцях</text>
+	</string>
+
+	<string id="nsp_scientific_job_place_scanners_text">
+		<text>Перш ніж я розпочну трансмутацію, потрібно знайти найпотужнішу аномальну зону. Для цього треба встановити сканери у вказаних точках.</text>
+	</string>
+
+	<string id="nsp_scientific_job_full">
+		<text>ТРАНСМУТАЦІЯ</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_place_artefacts_name">
+		<text>Виконати трансмутацію</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_place_artefacts_text">
+		<text>Все необхідне для трансмутації артефакту я маю. Час варити!</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_wait_process_name">
+		<text>Дочекатися закінчення процесу</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_wait_process_text">
+		<text>Здається, трансмутація почалась. Тепер треба трохи зачекати.</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_take_artefact_name">
+		<text>Забирати артефакт</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_take_artefact_text">
+		<text>Там щось з'явилось. Схоже, трансмутація вдалась.</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_go_agroprom_name">
+		<text>Віддати трансмутат Дубініну</text>
+	</string>
+
+	<string id="nsp_scientific_job_full_go_agroprom_text">
+		<text>Схоже, вдалося. Час повернутись на «Агропром» і отримати заслужену винагороду.</text>
+	</string>
+
+	<string id="nsp_scientific_job_find_artefact">
+		<text>НЕЗВИЧАЙНИЙ АРТЕФАКТ</text>
+	</string>
+
+	<string id="nsp_scientific_job_find_artefact_name">
+		<text>Знайти «Змінений ізолятор» на воєнній базі</text>
+	</string>
+
+	<string id="nsp_scientific_job_find_artefact_text">
+		<text>Для успішної трансмутації потрібно відшукати унікальний артефакт «Змінений ізолятор». Він має бути десь в районі закинутої воєнної бази.</text>
+	</string>
+
+	<string id="nsp_scientific_job_generators">
+		<text>ГЕНЕРАТОРИ</text>
+	</string>
+
+	<string id="nsp_scientific_job_generators_start_name">
+		<text>Знайти спосіб вимкнути струм</text>
+	</string>
+
+	<string id="nsp_scientific_job_generators_start_text">
+		<text>Генератори виявились робочими. Що підтримує їхню роботу  -  незрозуміло. Потрібно знайти спосіб потрапити до кімнати керування, де й має бути артефакт, але як вимкнути струм? Варто все уважно оглянути. Йти напролом  -  не варіант.</text>
+	</string>
+
+	<string id="nsp_mysterious_death">
+		<text>ТАЄМНИЧА СМЕРТЬ</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_corpse_name">
+		<text>Оглянути труп сталкера</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_corpse_text">
+		<text>Прямо перед моїми очима згори впав мертвий невідомий сталкер. Огляну тіло. Може, вдасться щось знайти.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_go_village_name">
+		<text>Опитати місцевих про мертвого сталкера</text>
+	</string>
+
+	<string id="nsp_mysterious_death_go_village_text">
+		<text>Перед смертю сталкер на прізвисько Шуліка залишив записку, у якій розказав про якесь переслідування. Варто розпитати місцевих, що працюють у селі, про цього сталкера. Завітаю до їхнього лідера.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_home_name">
+		<text>Оглянути місце самогубства Тхора</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_home_text">
+		<text>Юстас розказав, що Шуліка був не єдиним, хто вирішив звести рахунки з життям. Такий собі сталкер з кличкою Тхір застрелився в одному з будинків пів року тому. Треба оглянути місце смерті, раптом вдасться щось відшукати.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_home_letter_end_name">
+		<text>Показати записку Юстасу</text>
+	</string>
+
+	<string id="nsp_mysterious_death_check_home_letter_end_text">
+		<text>У будинку, де застрелився Тхір, вдалось знайти його записку. Варто показати її Юстасу.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_with_stalkers_name">
+		<text>Опитати місцевих сталкерів</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_with_stalkers_text">
+		<text>На місці самогубства Тхора я знайшов записку, але питань стало ще більше. Хто переслідує сталкерів перед смертю? Спробую розпитати місцевих, може, вдасться щось дізнатись. Тим часом Юстас вирушив до майстрів, на яких працював загиблий Шуліка. Вони можуть надати інформацію.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_suicide_stalker_informator_name">
+		<text>Знайти Зармута і поговорити про Тхора</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_suicide_stalker_informator_text">
+		<text>Молодий сталкер на прізвисько Зармут може щось знати про смерть Тхора. Треба відшукати його неподалік від табору біля якоїсь закинутої халупи.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_leader_suicide_name">
+		<text>Повернутися до Юстаса</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_leader_suicide_text">
+		<text>Здається, це глухий кут. Я не дізнався практично нічого нового. Треба поговорити з Юстасом. Він вже, мабуть, повернувся від майстрів і міг щось в них дізнатись.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_take_leader_letter_name">
+		<text>Прочитати передсмертну записку Юстаса</text>
+	</string>
+
+	<string id="nsp_mysterious_death_take_leader_letter_text">
+		<text>Юстас мертвий. Поруч з тілом є записка.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_relax_leader_suicide_name">
+		<text>Обговорити те, що сталося</text>
+	</string>
+
+	<string id="nsp_mysterious_death_relax_leader_suicide_text">
+		<text>Оце ж чортівня! Як це взагалі відбувається? Треба обговорити зі сталкерами, що робити далі.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_masters_name">
+		<text>Запитати у сталкерів-майстрів про Юстаса</text>
+	</string>
+
+	<string id="nsp_mysterious_death_speak_masters_text">
+		<text>Одним з останніх, хто бачив загиблих сталкерів живими, були досвідчені сталкери біля мосту. Увечері треба сходити на розвідку і розібратися, що робити далі.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_run_away_name">
+		<text>Втекти</text>
+	</string>
+
+	<string id="nsp_mysterious_death_run_away_text">
+		<text>...</text>
+	</string>
+
+	<string id="nsp_mysterious_death_suicide_actor_name">
+		<text>Зістрибнути з мосту</text>
+	</string>
+
+	<string id="nsp_mysterious_death_suicide_actor_text">
+		<text>Я більше не бачу іншого виходу. Це чорні тіні. Вони в мені. Якщо я не вб'ю себе, то не вб'ю їх.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_search_killer_name">
+		<text>Знайти вбивцю сталкерів</text>
+	</string>
+
+	<string id="nsp_mysterious_death_search_killer_text">
+		<text>Той, хто вбив сталкерів і навів прокляття на все село, пропах машинним мастилом. Що це могло б бути? Відправлюсь до села, розвідаю.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_deliver_killer_name">
+		<text>Привести Панкрата до берега</text>
+	</string>
+
+	<string id="nsp_mysterious_death_deliver_killer_text">
+		<text>Панкрат клюнув на мою приманку. Лишилось тільки довести його до мосту, де, сподіваюсь, все й завершиться.</text>
+	</string>
+
+	<string id="nsp_mysterious_death_final_name">
+		<text>Поховати п'ятьох сталкерів</text>
+	</string>
+
+	<string id="nsp_mysterious_death_final_text">
+		<text>П'ятеро сталкерів загинули заради чиєїсь наживи. Один з них був Назгул, який якимось чином зміг допомогти мені розплутати цю справу. Тепер, сподіваюсь, на них чекає вічний спокій, а табір сталкерів більше не буде переслідувати прокляття.</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task">
+		<text>ЛЕГКА НАЖИВА</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_kill_stalkers_name">
+		<text>Позбутися сплячих сталкерів</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_kill_stalkers_text">
+		<text>Про всяк випадок треба позбутися цих сталкерів.</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_take_items_name">
+		<text>Забрати хабар</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_take_items_text">
+		<text>А от і рюкзачок з припасами...</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_speak_stalker_car_help_name">
+		<text>Поговорити з відмичкою</text>
+	</string>
+
+	<string id="nsp_masters_flashback_task_task_speak_stalker_car_help_text">
+		<text>Час розв'язувати питання з відмичкою.</text>
+	</string>
+
+	<string id="nsp_village_gain_confidence">
+		<text>СКАНЕР У СЕЛІ</text>
+	</string>
+
+	<string id="nsp_village_gain_confidence_start_name">
+		<text>Отримати довіру сталкерів</text>
+	</string>
+
+	<string id="nsp_village_gain_confidence_start_text">
+		<text>Місцеві сталкери не радіють, що незнайомець ставить у їхньому таборі невідоме обладнання. Спершу треба заручитися їхньою довірою. Можливо, розв'язавши їхні проблеми, я зможу цього досягнути.</text>
+	</string>
+
+	<string id="nsp_village_gain_confidence_place_scaner_name">
+		<text>Спробувати встановити сканер</text>
+	</string>
+
+	<string id="nsp_village_gain_confidence_place_scaner_text">
+		<text>Здається, я зробив все, щоб сталкери ставилися до мене як до свого. Сподіваюсь, тепер вдасться встановити сканер у селі.</text>
+	</string>
+
+	<string id="nsp_suicide_stalker_treasure_task">
+		<text>ХАБАР ШУЛІКИ</text>
+	</string>
+
+	<string id="nsp_suicide_stalker_treasure_task_start_name">
+		<text>Оглянути місце</text>
+	</string>
+
+	<string id="nsp_suicide_stalker_treasure_task_start_text">
+		<text>Мені стало відомо, де Шуліка зберігав хабар. Можливо, там я зможу знайти щось цікаве.</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task">
+		<text>ПОЛТЕРГЕЙСТ</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_start_name">
+		<text>Зрозуміти, що пов'язує незвичайного мутанта із зупинкою</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_start_text">
+		<text>Незвичайний полтергейст літає біля зупинки й не збирається йти. Може, це його лігво? Тоді чому він не атакує? Дивно це все... Треба все оглянути. Встановлювати сканер у лігві, мабуть, не найкраща ідея. Треба якось позбутися цієї нечисті.</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_search_items_name">
+		<text>Знайти речі воєнного</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_search_items_text">
+		<text>Судячи з усього, летюча сутність на зупинці  -  полтергейст, на якого перетворився один військовий з бази неподалік. У його записах відзначене місце, де він зберігав свої речі. Варто сходити туди й спробувати щось дізнатись.</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_follow_polter_name">
+		<text>Слідувати за істотою</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_follow_polter_text">
+		<text>Цей дивний полтергейст вирішив перебратися сюди. Як на мене, він явно не налаштований вороже і намагається щось мені сказати. Може, варто за ним піти?</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_take_reward_name">
+		<text>Взяти винагороду</text>
+	</string>
+
+	<string id="nsp_polter_scaner_task_take_reward_text">
+		<text>Це що, нагорода за речі військового? Як же це все моторошно й незрозуміло...</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner">
+		<text>ПОЛЮВАННЯ</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_start_speak_name">
+		<text>Поговорити із Захаром</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_start_speak_text">
+		<text>Лідер місцевих мисливців забрав перевірити мій сканер. Доки я чекаю, згодився вирушити на полювання. Горщик сказав, що на цьому можна заробити добрі гроші. Чом би й не спробувати?</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_wait_night_name">
+		<text>Перечекати ніч</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_wait_night_text">
+		<text>Захар говорить, вночі у лісі небезпечно. Варто перечекати, а вже після рушати на полювання.</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_search_shotgun_name">
+		<text>Роздобути дробовик</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_search_shotgun_text">
+		<text>Захар вимагає, щоб у мене був дробовик. З його слів, на воєнній базі могли лишитися якісь зразки зброї. Варто покопатись там. Напевне, щось знайду.</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_start_hunt_name">
+		<text>Вирушити з Захаром на полювання</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_start_hunt_text">
+		<text>Вирушаю разом з Захаром на полювання. Справа нескладна: постріляти й прикрити раптом що.</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_kill_monsters_name">
+		<text>Знищити чудовиськ</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_kill_monsters_text">
+		<text>Потрібно допомогти Захару перестріляти мутантів.</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_help_boss_name">
+		<text>Допомогти Захару</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_help_boss_text">
+		<text>...</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_take_scanner_name">
+		<text>Забрати сканер</text>
+	</string>
+
+	<string id="nsp_hunter_retrieve_scanner_take_scanner_text">
+		<text>...</text>
+	</string>
+
+	<string id="nsp_brawl_task">
+		<text>БІЙКА</text>
+	</string>
+
+	<string id="nsp_brawl_task_start_name">
+		<text>Сховатись від невідомих</text>
+	</string>
+
+	<string id="nsp_brawl_task_start_text">
+		<text>На місці зустрічі з експедицією вчених на мене чекала засідка. Що це все означає?</text>
+	</string>
+
+	<string id="nsp_brawl_task_hide_in_village_name">
+		<text>Сховатись в селі</text>
+	</string>
+
+	<string id="nsp_brawl_task_hide_in_village_text">
+		<text>Не думаю, що варто довіряти невідомим, адже ще кілька хвилин тому вони відкрили по мені вогонь. Єдине безпечне місце в околиці  -  табір сталкерів у закинутому селі. Якими б крутими ці хлопці не були, туди вони не ризикнуть сунутись.</text>
+	</string>
+
+	<string id="nsp_brawl_task_hide_artefact_name">
+		<text>Закопати трансмутат</text>
+	</string>
+
+	<string id="nsp_brawl_task_hide_artefact_text">
+		<text>Коїться щось дивне. Мені потрібно позбутися артефакту. Думаю, варто закопати його у руїнах тунелю: там є де розгулятись. Звідти ж й посуну на Кордон.</text>
+	</string>
+
+	<string id="nsp_brawl_task_leave_the_territory_name">
+		<text>Покинути Новошепеличі</text>
+	</string>
+
+	<string id="nsp_brawl_task_leave_the_territory_text">
+		<text>Тепер мені час йти. Ще треба зв'язатись з Юрком. Потрібно покинути Зону.</text>
+	</string>
+
+	<string id="nsp_brawl_task_speak_jurok_name">
+		<text>Поговорити з Юрком</text>
+	</string>
+
+	<string id="nsp_brawl_task_speak_jurok_text">
+		<text>Я збираюсь покинути Зону. Потрібно наостанок побачитись з Юрком і розповісти йому про все.</text>
+	</string>
+
+	<string id="nsp_general_boar_task">
+		<text>ГЕНЕРАЛ ШТОК</text>
+	</string>
+
+	<string id="nsp_general_boar_task_go_last_meeting_place_name">
+		<text>Повернутись на галявину</text>
+	</string>
+
+	<string id="nsp_general_boar_task_go_last_meeting_place_text">
+		<text>Потрібно повернутись на галявину, де ми останнього разу зустріли Генерала. Ми з Захаром його непогано поранили. Може, вдасться знайти якісь сліди.</text>
+	</string>
+
+	<string id="nsp_general_boar_task_following_bloody_drops_name">
+		<text>Пройти за кривавими слідами</text>
+	</string>
+
+	<string id="nsp_general_boar_task_following_bloody_drops_text">
+		<text>Захар поранив кабана. Треба спробувати пройти за кривавими слідами, які виведуть мене до його лігва.</text>
+	</string>
+
+	<string id="nsp_general_boar_task_check_boar_home_name">
+		<text>Оглянути нору</text>
+	</string>
+
+	<string id="nsp_general_boar_task_check_boar_home_text">
+		<text>Здається, тут і живе генерал Шток. Треба дослідити лігво й завершити з мутантом, доки він поранений.</text>
+	</string>
+
+	<string id="nsp_general_boar_task_kill_boar_name">
+		<text>Вбити чудовисько</text>
+	</string>
+
+	<string id="nsp_general_boar_task_kill_boar_text">
+		<text>Я знайшов велетенського кабана. Залишилось лише з ним покінчити.</text>
+	</string>
+
+	<string id="nsp_general_boar_task_search_corp_name">
+		<text>Обшукати труп мисливця</text>
+	</string>
+
+	<string id="nsp_general_boar_task_search_corp_text">
+		<text>Я знайшов у печері тіло одного зі зниклих мисливців. Треба його оглянути.</text>
+	</string>
+
+	<string id="nsp_general_boar_task_hunter_pot_go_reward_name">
+		<text>Доповісти Горщику про події</text>
+	</string>
+
+	<string id="nsp_general_boar_task_hunter_pot_go_reward_text">
+		<text>Мені вдалось вбити Генерала Штока. Розкажу про все Горщику.</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task">
+		<text>МУЗИКАНТ З НОВОШИПІЛИЧІВ</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_start_talk_name">
+		<text>Дізнатись у сталкера, чому йому не вдається грати</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_start_talk_text">
+		<text>Набрів на невеличкий привал сталкерів. Один з них жахливо грає на гітарі. Гріх не пожартувати щодо цього.</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_find_item_name">
+		<text>Роздобути гітару для Юрця</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_find_item_text">
+		<text>Пообіцяв сталкеру відшукати нову гітару. Ймовірно, у селі Новошипіличі буде щось підхоже. Варто розпитати мешканців села про це.</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_take_reward_name">
+		<text>Віддати гітару Юрчику</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_take_reward_text">
+		<text>Вдалось роздобути принаймні цілий інструмент. Сподіваюсь, це те, що треба сталкеру.</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_search_stalker_name">
+		<text>Віднести знайдену гітару Юрчику</text>
+	</string>
+
+	<string id="nsp_musician_stalker_guitar_task_search_stalker_text">
+		<text>Не так давно зустрів бідолаху-музиканта з розбитою гітарою. Гадаю, моя знахідка буде дуже доречною для нього. Не пропадати ж добру.</text>
+	</string>
+
+	<string id="nsp_freedom_meet_task">
+		<text>ЗАГІН «СВОБОДИ»</text>
+	</string>
+
+	<string id="nsp_freedom_meet_task_name">
+		<text>Поговорити з лідером</text>
+	</string>
+
+	<string id="nsp_freedom_meet_task_text">
+		<text>Такий собі Рак з угрупування «Свобода» попросив підійти з натяком на якусь справу. Чому б і ні? Корона не впаде, якщо поспілкуємось.</text>
+	</string>
+
+	<string id="nsp_freedom_bandits_task">
+		<text>НАФТОБАЗА</text>
+	</string>
+
+	<string id="nsp_freedom_bandits_task_start_name">
+		<text>Допомогти Раку розібратись з бандитами</text>
+	</string>
+
+	<string id="nsp_freedom_bandits_task_start_text">
+		<text>Рак і його група  -  одні з останніх свободівців, що лишились у Зоні. Він попросив допомогти йому і його товаришам вибити бандитів з нафтобази, щоб на якийсь час там облаштуватись.</text>
+	</string>
+
+	<string id="nsp_freedom_bandits_task_take_reward_name">
+		<text>Поговорити з Раком</text>
+	</string>
+
+	<string id="nsp_freedom_bandits_task_take_reward_text">
+		<text>Бандитів знешкоджено. Тепер поговорю з лідером загону «Свободи» щодо нагороди.</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task">
+		<text>ВЕЛИКА ПРОБЛЕМА</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_start_talk_name">
+		<text>Поговорити з Раком</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_start_talk_text">
+		<text>Свободівцям знову щось від мене потрібно. Можливо, щось цікаве. Якщо буду у тих краях, можна буде й зазирнути.</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_need_to_think_name">
+		<text>Підготуватись до полювання на химеру</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_need_to_think_text">
+		<text>Загін «Свободи» потребує допомоги. Рак попрохав взяти участь у полюванні на химеру, яка тиняється неподалік від їхнього табору. Ніколи до цього не доводилось зустрічатись з такими мутантами, тож варто дуже добре підготуватись до цієї вилазки.</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_follow_leader_name">
+		<text>Йти слідом за Раком</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_follow_leader_text">
+		<text>Майже добрались до місця. Тепер треба акуратно підібратись до химери й влаштувати їх гарматний залп з чотирьох стволів.</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_kill_monster_name">
+		<text>Вбити химеру</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_kill_monster_text">
+		<text>Тепер найскладніше  -  розібратись з химерою. Хай нам бог допомагає.</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_final_talk_name">
+		<text>Поговорити з Раком</text>
+	</string>
+
+	<string id="nsp_freedom_monster_task_final_talk_text">
+		<text>Химера мертва, і тепер в околицях стало безпечніше. Час поговорити про нагороду з лідером загону «Свобода».</text>
+	</string>
+
 </string_table>

@@ -1,217 +1,320 @@
-<?xml version="1.0" encoding="windows-1252"?>
+ï»¿<?xml version="1.0" encoding="UTF-8" ?>
 <string_table>
-  <string id="ts_random_dialog_actor_hello">
-    <text>What can you tell me that's interesting?</text>
-  </string>
-  <string id="ts_random_dialog_stalker_ba_1">
-    <text>I'm not really up to date on the latest developments.</text>
-  </string>
-  <string id="ts_random_dialog_stalker_ba_2">
-    <text>Listen, go ask other people questions!</text>
-  </string>
-  <string id="ts_random_dialog_stalker_ba_3">
-    <text>Nothing. I'm not one for idle chatter.</text>
-  </string>
-  <string id="ts_random_dialog_stalker_ba_4">
-    <text>Don't you have anything better to do than talk? Go do something useful, guy!</text>
-  </string>
-  <string id="ts_random_dialog_stalker_ba_5">
-    <text>I'm not in the mood to talk.</text>
-  </string>
-  <string id="ts_random_dialog_bandit_ba_1">
-    <text>Don't purr! Go where you're going!</text>
-  </string>
-  <string id="ts_random_dialog_bandit_ba_2">
-    <text>Get out of here before I kick your ass!</text>
-  </string>
-  <string id="ts_random_dialog_bandit_ba_3">
-    <text>What do you want, defective? Get out of here with your talk! The sight of you makes me want to vomit.</text>
-  </string>
-  <string id="ts_random_dialog_bandit_ba_4">
-    <text>Stop pissing in my ears and get out of here before I cut your tendons!</text>
-  </string>
-  <string id="ts_random_dialog_bandit_ba_5">
-    <text>You like to talk? Why don't you go talk to the man in charge, and I'll rest.</text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_1">
-    <text>I'm thinking of joining the scientists. There seem to be not bad pay, equipment can give not bad, and if you do a good job — even give a pass! And you won't have to pay off the soldiers all the time! Legalized stalkerism, so to speak. As long as they don't put you on the operating table. I don't know what they're doing in their labs. They'll say, Give me your organs for the good of science! And that's it. It's a risky business, of course...</text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_2">
-    <text>It's hot as hell! I wish it were fall already, because I'm sick of steaming in this suit. If there was more money, I wouldn't go hiking in summer and winter at all.</text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_3">
-    <text>I heard a story. I don't know if it's true or not. Stalkers from Novoshepelichi told it. Well, it's a village near the Semikhodsky bridge, you know? Well, at night there's a monster swimming in the river! A big bitch! Scary! There's a reason why stalkers disappear there all the time... Maybe they decided to cool off after such a heat, jumped in the water, and that's it — they went to feed that the Loch Zone monster! Fuck it, I'd rather swim in the swamp with frogs than go into the river!</text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_4">
-    <text>They say the science bunker on Yantar has gone under the radar. I don't know what happened there, but none of the experienced ones are going there lately. And you know what? I don't give a shit! I've been there once, not the best hike of my life! Yeah, we made money, yeah, we survived. But I had eye twitching and couldn't sleep for a couple weeks. I don't need that kind of money. I'd rather hunt here in the south or look for artifacts than go into this hellhole.  I can't believe the scientists thought to put their tin can in a place like this. It smells like death, swamp, and cheap pills! I wouldn't recommend it.</text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_5">
-    <text>You're not going to the Bar on friday? I'm back from an outing, handed in my loot, upgraded my gear a bit, and still have a bit left for drinks. I'm looking for some traveling companions, because you know what the roads are like here... And then maybe we'll go towards the warehouses. Scientists are paying good money for bloodsucker's jaws. We can make some money and go back to the bar. Good plan? Anyway, if you're thinking about it, come by the end of the week, we'll go together.</text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_6">
-    <text>Did you see that overturned truck on the way to the Garbage? Right now it's lying there rusting, emitting radiation, and being useless, but before that it used to be a transport vehicle used to haul people's bodies out of the center of the Zone. I've heard local folk say that the truck was struck by lightning during a storm, making it fly off the road. Do you know who was in the back? I'll spoil it for you — it was Strelok himself! You know, the guy who shut down the Brain Scorcher! Some stalker found him barely alive, and brought him to Sidorovich. The old man got him back on his feet and decided to capitalize on all of this. And he did. Soon after Strelok managed to shut off the installation located at Radar. A ton of stalkers rushed to the center of the Zone, thinking they'd meet no resistance. They were wrong. The heart of Chornobyl was guarded for a reason. The Zone wouldn't let anyone in just like that...
+
+	<string id="ts_random_dialog_actor_hello">
+		<text>What can you tell me that's interesting?</text>
+	</string>
+
+
+
+
+	<string id="ts_random_dialog_stalker_ba_1">
+		<text>I'm not really up to date on the latest developments.</text>
+	</string>
+
+	<string id="ts_random_dialog_stalker_ba_2">
+		<text>Listen, go ask other people questions!</text>
+	</string>
+
+	<string id="ts_random_dialog_stalker_ba_3">
+		<text>Nothing. I'm not one for idle chatter.</text>
+	</string>
+
+	<string id="ts_random_dialog_stalker_ba_4">
+		<text>Don't you have anything better to do than talk? Go do something useful, guy!</text>
+	</string>
+
+	<string id="ts_random_dialog_stalker_ba_5">
+		<text>I'm not in the mood to talk.</text>
+	</string>
+
+
+
+
+	<string id="ts_random_dialog_bandit_ba_1">
+		<text>Don't purr! Go where you're going!</text>
+	</string>
+
+	<string id="ts_random_dialog_bandit_ba_2">
+		<text>Get out of here before I kick your ass!</text>
+	</string>
+
+	<string id="ts_random_dialog_bandit_ba_3">
+		<text>What do you want, defective? Get out of here with your talk! The sight of you makes me want to vomit.</text>
+	</string>
+
+	<string id="ts_random_dialog_bandit_ba_4">
+		<text>Stop pissing in my ears and get out of here before I cut your tendons!</text>
+	</string>
+
+	<string id="ts_random_dialog_bandit_ba_5">
+		<text>You like to talk? Why don't you go talk to the man in charge, and I'll rest.</text>
+	</string>
+
+
+
+
+	<string id="ts_random_dialog_escape_stalker_ga_1">
+		<text>I'm thinking of joining the scientists. There seem to be not bad pay, equipment can give not bad, and if you do a good job - even give a pass! And you won't have to pay off the soldiers all the time! Legalized stalkerism, so to speak. As long as they don't put you on the operating table. I don't know what they're doing in their labs. They'll say, Give me your organs for the good of science! And that's it. It's a risky business, of course...</text>
+	</string>
+
+	<string id="ts_random_dialog_escape_stalker_ga_2">
+		<text>It's hot as hell! I wish it were fall already, because I'm sick of steaming in this suit. If there was more money, I wouldn't go hiking in summer and winter at all.</text>
+	</string>
+
+	<string id="ts_random_dialog_escape_stalker_ga_3">
+		<text>I heard a story. I don't know if it's true or not. Stalkers from Novoshepelichi told it. Well, it's a village near the Semikhodsky bridge, you know? Well, at night there's a monster swimming in the river! A big bitch! Scary! There's a reason why stalkers disappear there all the time... Maybe they decided to cool off after such a heat, jumped in the water, and that's it - they went to feed that the Loch ZonÐµ monster! Fuck it, I'd rather swim in the swamp with frogs than go into the river!</text>
+	</string>
+
+	<string id="ts_random_dialog_escape_stalker_ga_4">
+		<text>They say the science bunker on Yantar has gone under the radar. I don't know what happened there, but none of the experienced ones are going there lately. And you know what? I don't give a shit! I've been there once, not the best hike of my life! Yeah, we made money, yeah, we survived. But I had eye twitching and couldn't sleep for a couple weeks. I don't need that kind of money. I'd rather hunt here in the south or look for artifacts than go into this hellhole.  I can't believe the scientists thought to put their tin can in a place like this. It smells like death, swamp, and cheap pills! I wouldn't recommend it.</text>
+	</string>
+
+	<string id="ts_random_dialog_escape_stalker_ga_5">
+		<text>You're not going to the Bar on friday? I'm back from an outing, handed in my loot, upgraded my gear a bit, and still have a bit left for drinks. I'm looking for some traveling companions, because you know what the roads are like here... And then maybe we'll go towards the warehouses. Scientists are paying good money for bloodsucker's jaws. We can make some money and go back to the bar. Good plan? Anyway, if you're thinking about it, come by the end of the week, we'll go together.</text>
+	</string>
+
+	<string id="ts_random_dialog_escape_stalker_ga_6">
+		<text>Did you see that overturned truck on the way to the Garbage? Right now it's lying there rusting, emitting radiation, and being useless, but before that it used to be a transport vehicle used to haul people's bodies out of the center of the Zone. I've heard local folk say that the truck was struck by lightning during a storm, making it fly off the road. Do you know who was in the back? I'll spoil it for you - it was Strelok himself! You know, the guy who shut down the Brain Scorcher! Some stalker found him barely alive, and brought him to Sidorovich. The old man got him back on his feet and decided to capitalize on all of this. And he did. Soon after Strelok managed to shut off the installation located at Radar. A ton of stalkers rushed to the center of the Zone, thinking they'd meet no resistance. They were wrong. The heart of Chornobyl was guarded for a reason. The Zone wouldn't let anyone in just like that...
 </text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_7">
-    <text>You've probably seen the flying village behind vehicle station by now, right? It's a fucking marvel of nature! It just recently appeared here, because there was nothing there in the fall. There's pieces of the village right there, there's even a latrine! It's funny if someone was sitting in it at the time, huh! But really, there's nothing funny about it. The moment she was teleported here, there was an immediate increase in scientist activity. I can't count the number of expeditions that have gone there. That's why stalkers are afraid to go up there. They might get shot by the soldiers. And they don't really want to. Even from afar, you can see air distortions there, which means that either the teleports are barely visible, or the anomaly is insidious. I wouldn't go in there, and I wouldn't advise you to.</text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_8">
-    <text>If you're gonna be at the junkyard, be careful. They say the bandits have lost their fear. You know the anomalous field behind the swamp? Well, forget about it! They're there, like fishing. And they're not fishing for artifacts! They don't want to go into the anomaly themselves, you know. They wait for some stalker to come and force him at gunpoint to go after the artifact. Stinking ghouls! I'd like to beat them out of there, but who's going to go?</text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_9">
-    <text>Did you hear how Petya pranked the stalkers in the Rookie Village? He bought a scary mask somewhere that looked like it was made of iron. Kinda like in that Fallen Star movie. You didn't see it, did you? Oh, well, that's not the point! Anyway, every night he wore and went around camp sneaking up on the stalkers. Most of the people here were still fresh and scared of everything. And very scared they got! They even went to Fanatic to complain, but he didn't believe them, thought they were too impressionable. But they were wrong. One guy got so scared of the mask that he fired a shotgun at Petya. Now he's getting treatment outside the Zone. He'll undoubtedly live, but whether he'll return to the Zone is a big question.</text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_10">
-    <text>Have you ever been caught by the military? If a patrol catches you somewhere in the Zone, pray it's not Petty Officer Gonchar. I hate him so much, I hate him so fucking much. Okay, I realize I breached the perimeter and that I'm a criminal to them. But why the gesture? Gonchar always takes all the food when he searches the place, all of it! Don't they have anything to eat at the checkpoint? They're state-funded! He took a can of canned peaches from me once, the bastard! I took it with me to diversify my diet of crap. And this asshole took it! So my advice to you is, if you see the military, you better watch your back and don't get caught.</text>
-  </string>
-  <string id="ts_random_dialog_escape_stalker_ga_11">
-    <text>Don't eat sunflowers in the country! Well, the seeds from there. I ate some of them, and then I couldn't get out of the toilet all day. If you want to chew something, you'd better eat some dried fish. The guys from the village caught some carp somewhere, dried them, and now at least some variety of local food. I'd like some more beer with fish, but Sidorovich, the bastard, doesn't bring any...</text>
-  </string>
-  <string id="ts_random_dialog_garbage_stalker_ga_1">
-    <text>Did you hear the shooting at the vehicle graveyard recently? There was a lot of shooting! They finally put those bandits in their place. Fucking freeloaders! With their notions, their primitive jargon. They came out of the cave, scumbags! Well, we'll kick their asses! Just don't tell them I said that about them. Okay? That's good.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_stalker_ga_2">
-    <text>They let you into the Bar? I was about to go in, and there's some red-bellied guys standing there. You know, the Duty. They say until we make sure you're a decent man, you can't go anywhere. But nobody can cancel the holes in the barbed wire, ha-ha. I can get anywhere without their permission. I'm gonna try to sneak in one of these days. Maybe I can find a good job there, because there isn't one here.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_stalker_ga_3">
-    <text>Perhaps the most interesting thing that has happened recently on the Garbage is the opening of the tunnel passage behind the depot. There used to be a blockage there, and then it suddenly disappeared. Another mystery of the Zone. And this tunnel is very interesting! Before the bandits settled there, a few stalkers went for reconnaissance and saw the plans of the railroad tracks. So they go to Agroprom, and to the Wild Territory, and even stretch into the legendary Pripyat dungeons! Imagine, you can go half an Zone! You go in Garbage, you come out in Pripyat! Although, I'm of the opinion that underground is even more dangerous than outside. That's why I've never heard of anyone going that way. And now those bastards are settling down there. The nasties immediately smelled the scent of profit and took a place to nab anyone interested in these tunnels. It's the same situation near the entrance to the X-18 lab, by the way. Yeah...</text>
-  </string>
-  <string id="ts_random_dialog_garbage_stalker_ga_4">
-    <text>Did you hear that the diggers found a hatch on the outskirts of the Garbage? At first they thought it was just garbage, but when they started digging under it, it turned out to be a whole bunker buried in the ground! They dug, they dug, they dug for months — they didn't get it! They tried various ways to open the hatch door itself — nothing worked. It's locked shut! Then the stalker brought some dynamite and blew up the doorway. And inside, guess what? A man was sitting there, all overgrown and bearded. They asked him: Who are you? And he said, "I'm Denis. I'm here to save the whole Zone from the next big blowout! He said that every 108 minutes he had to enter a code on the computer — 4 8 15 16 23 42. He uses it to discharge the energy so that the outburst doesn't happen. Everyone looked at him like a fool and, of course, no one believed in such nonsense. But in the bunker itself there really was a computer, various equipment of bearded years, a pantry full of food. For a long time this man sat like that and pressed the button. Except that he didn't save the Zone from the ejection. It was his scientists specially put him in a bunker for human experiments in complete isolation, but with a great social role and responsibility! So there you go. What do you think about that? It's crazy, isn't it? Of course it's crazy, who do you believe? I'm just bored, so I thought I'd give you a little bit of nonsense.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_stalker_ga_5">
-    <text>I'll tell you about an anomaly that no one has ever seen! I received a reward from Sidorovich for one task. Which one I won't tell you, it's a secret. I transferred money, put food, ammunition, and a bonus whisky, Jack Daniels. I return satisfied to the camp, in my PDA to my friends bragging about the fat loot and thinking how I will celebrate the successfully completed task. Suddenly... I slip, my hands go up, my PDA flies away, and I fall under the ground, in a hole deeper than my height. So I'm lying in this pit, I see the sky, a small space around me, and I think — where did this pit come from? It's never been here before. Well, what's the point of lying down, we've got to get out! I immediately tried to grab my hand on the ledge and climb out, but my hand got stuck in some disgusting viscous substance, which looked like dry earth, but felt like dough. But I didn't give up and started to try again. I had to take off my backpack. The movements were viscous, it was very difficult, but with the last of my strength I got out and lay on my back. When I looked back at the culprit of my troubles, the pit was no longer there. It was as if it had never been there. Gently touching the place, I found nothing. Only grass was growing on the spot, and the ground was hard. Picking up my PDA, I told my friends and called this anomaly Pit, and they stopped communicating with me from that moment on! They thought that I did not lose my backpack in the anomaly, but drank Jack Daniels in one face. Eh.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ga_1">
-    <text>Did you hear the story of how a stalker stumbled upon an artifact six months ago? Nobody remembers his name anymore. But everyone remembers what happened. What am I talking about? Oh, yeah. Well, anyway, this stalker found an artifact, "Medusa" looks like "Medusa", but only spoiled as if — no radiation, no-thing. Well, he didn't throw it away, he had some kind of instinct, they say. He carried it with him on long trips, like a talisman. Somebody said the Zone loved him. Who the hell knows who the Zone could love? But the fact that he went far... But then, as it turned out, not so much. He disappeared somewhere around Radar. A week later, a new weirdo with the exact same artifact was running around. We're telling you, stalkers, don't take artifacts to scientists. It's evil. Real evil. No, all you want is money. Why are you hanging up your nose? Why don't you join us in the "Duty"? You don't want to? Well, then get out of here, don't get in my way.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ga_2">
-    <text>I'm so sick of that metallic scraping! I can't sleep well at night, and then there's that nasty sound. Sometimes I want to get up, take a bolt cutter in my hands and saw off that creaky shit!</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ga_3">
-    <text>Oh, I wish someone had blown up on a mine! And that set up around the base, two days of climbing, and at least one mine went off! I mean mutants, of course. Stalkers are not stupid people — signs, I think, will see.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ga_4">
-    <text>You hang around Cordon a lot? The military didn't catch you yet? I used to be stationed at that southern checkpoint myself. Everything was fine and dandy until this one lieutenant came to the place. He was so self-important, he started to establish his own order right away. Little did he know that the Zone has its own set of rules! What works effectively on any military garrison in the world will not work here! To destroy the enemy, you need to know its face, know its habits. And the Zone does not reveal its face. Not to you, not to me, and certainly not to this lieutenant from god-knows-where Uryupinsk military enlistment center... Alright, that's all I have to say. Go on your own way, there's nothing else to see here!</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ga_5">
-    <text>Let me tell you, if you every meet representatives of those "Freedom" druggies, don't even listen to what they pour into your ears. Freedom, huh? Who needs their "freedom" when peaceful cities will be in ruins from the destructive actions of the Zone? They don't realize you can't make this place a free-for-all. Fucking stoners! I hope you heard me and you'll make the right conclusions.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ga_6">
-    <text>Stalker, protect the world from the Zone! Join Duty! Ugh, damn it, I hate hearing these same lines over and over again — it gets stuck in my head... You're probably out here thinking to yourself, "why join Duty with all the strict order there, their mandate, and their charter"... I'll tell you thing: how can there be no order in the situation we're in? People always say, "if you want to change the world, start with yourself". So we've done that, we brought order in the faction, and now we're bringing it to the rest of the Zone. I recommend you think about joining. Every fighter, every new recruit is always welcome. Maybe we'll even serve together at the same outpost!</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ga_7">
-    <text>I see that detector sticking out of your pocket? Who do you sell the artifacts you find? I advise you to sell them only to scientists. They use them for their intended purpose and to their advantage. But all sorts of local hustlers, Sidorovich, Ivanovich, Kolyanych — smuggle them to the big earth, and then all this contagion gets on the black market and spreads all over the world. What do you think would happen if these radioactive elements flooded peaceful cities? What if it all falls into the hands of bad people? Thankfully, artifacts don't function for long outside the Zone. At least that's what I've heard.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ga_8">
-    <text>You ask me why I'm in Duty? And who else but me? Who else will stop the spread of this contagion? In Slavutich, which is outside the protected perimeter, the radioactive background has been steadily rising for months. Locals have even reported aggressive dogs and people with long limbs. Ring any bells? The Zone is growing. Maybe not so fast, not so tangible, but it's still growing. Today I voluntarily took up arms and came here to stop it. Tomorrow it may happen that people won't have such a choice.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ba_1">
-    <text>There's nothing to tell, I'm just guarding my post.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ba_2">
-    <text>Go on, I don't want to talk right now.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ba_3">
-    <text>Talk to the others, I don't have time for you right now.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ba_4">
-    <text>Stay out of the way, stalker. The enemy is not sleeping, and here you are with talk.</text>
-  </string>
-  <string id="ts_random_dialog_garbage_dolg_ba_5">
-    <text>Nothing, get out of here.</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_stalker_ga_1">
-    <text>Have you visited the scientists? I don't feel safe with so many military men there! If you look at them askance now, they'll put you in jail for ten years for stalking and possession of weapons! Although, the nerds promised they wouldn't hurt us if we didn't do anything stupid. Is it worth going?</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_stalker_ga_2">
-    <text>Have you seen the kid in the anomaly in the swamp? Yeah, he's got it bad! And the body's still wiggling around. They say the stalker's name was Sugar. He'd just bought himself a new outfit, went on an outing, and got sucked into an anomaly. It's scary to live, you get into trouble, and fuck who will help. Look, what if he's still alive? No, there's no way.</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_stalker_ga_3">
-    <text>Have you noticed the military presence? Not just on Agroprom, but in the south of the Zone in general. Helicopters flying, patrols roaming around, scientists taking measurements at almost every anomaly. They're strangling us. I feel like we're gonna be overrun with warriors soon. We need to move deeper into the Zone. There's monolithians out there. You're gonna have to get better equipment. Body armor, automatic rifle with drum magazine, helmet... Yeah, that's a lot of money.</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_army_actor_hello">
-    <text>Greetings!</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_army_ba_1">
-    <text>I'm not supposed to talk to civilians! Although, what kind of civilian are you? A criminal element, a real criminal element! You're lucky I have different orders now, or I'd be... Get out of here!</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_army_ba_2">
-    <text>Stay out of the way.</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_army_ba_3">
-    <text>I'm on duty, go away.</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_army_ba_4">
-    <text>Get out of here, or my finger on the trigger will shake.</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_army_ga_1">
-    <text>Eh, now I'd like to go on vacation, on a fishing trip, instead of all this...</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_army_ga_2">
-    <text>Do you have a cigarette? Too bad. I wish they'd put a grocery store here, I don't even have enough smokes for a day! I didn't smoke at all when I was a civilian... It all started here, after what I saw...</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_army_ga_3">
-    <text>If you see any bandits in this neighborhood, you let me know! We need to get this scum as far away from here as possible! And you'll be rewarded for your information. MRE, for example! Do you know how good the buckwheat is? Mmm. And you'll be in good standing with us.</text>
-  </string>
-  <string id="ts_random_dialog_agroprom_army_ga_4">
-    <text>Don't you dare go rogue! We've got strict control over every stray. And if you're good, we might offer you a job. That's it, the briefing's over, get outta here.</text>
-  </string>
-  <string id="ts_random_dialog_darkvalley_stalker_ga_1">
-    <text>All right, rookie, I'll give you a little oral tour! You probably came in here through the gorge. This is the most famous safe path leading to these parts. If you go further, there is an abnormal swamp on the right and some abandoned unfinished factory on the left. We climbed there with stalkers and saw the construction plans. Apparently, in this place planned to build some kind of research institute, well, like on Agroprom. But that thing languished halfway there, as you can see. You better not go there now. The bandits have taken up residence there. They don't shoot, but it's always unpleasant to talk to them. There's a gas station across from the construction site. I'm telling you right away: don't try to start the motorcycle — it's dead. If you go straight from the gorge without turning around, you'll come to an abandoned factory. Well, it's a classic Soviet factory with shops, warehouses and a boiler room. A factory and a factory, what can I say about it? If it weren't for the fact that it's the place where the entrance to the legendary X-18 laboratory is located. Well, and another notable place here is an abandoned farm. Perhaps the safest in the area, since the stalkers camped here. One building, however, is in trouble. It collapsed! Let's hope the other one doesn't collapse as well. Oh, and if you want to think about your hard stalker life in silence or have a picnic, you should go to the river bank in the east. It's beautiful there! Stand like that for a couple of minutes, stare at the flow of the river, and even forget that you are in the Zone. And so, there are many other interesting places here. I've only told you about the main attractions.</text>
-  </string>
-  <string id="ts_random_dialog_darkvalley_stalker_ga_2">
-    <text>Listen, have you ever wondered why there are so many snorks in the Zone? Why haven't they all been wiped out over the years? Don't tell me they're breeding. Are they born with gas masks, too, in that case? Then the theory of snorkel reproduction is out of the question. They couldn't have been created in laboratories either: the same gas masks couldn't be part of the monster's basic equipment. That's absurd! The last option remains — all of them used to be humans, but at some point mutated under the influence of something unknown to us. They say that after the second disaster at Chernobyl, the government sent entire columns of equipment and thousands of soldiers to the station to find out the reasons for what happened and take control of the object. It turns out that these are the guys who came back to us from the center of the Zone in the form of monsters.... What do you think of my investigation? Did you get the facts straight?</text>
-  </string>
-  <string id="ts_random_dialog_darkvalley_stalker_ga_3">
-    <text>Think twice if you suddenly want to go to the bandits' base. Of course, they are more or less neutral towards stalkers here — they have a lot of goods, if necessary, you can drop by for food and ammunition — it is profitable for them. But be prepared to be scammed! I once came to replenish my water supply, and they charged me a lot of money for just one entrance, took away my artifact and all my anti-rads! Fucking assholes.</text>
-  </string>
-  <string id="ts_random_dialog_darkvalley_bandit_ga_1">
-    <text>Hey, you know how to cook? Maybe you could give me some tips for the future? I had to cook for all the guys, but they wouldn't eat my grub at all. And those who tried my cooking sat on the toilet for half a day Now I'm embarrassed in front of the guys. They said if I had another one of these, they'd make me clean the toilets. Okay, why am I making excuses to you? Get out of here.</text>
-  </string>
-  <string id="ts_random_dialog_darkvalley_bandit_ga_2">
-    <text>Am I your tour guide or something? Well, well... We're sitting here, doing business. If you want to join our group, go to the boss. If you don't want to, get out of here!</text>
-  </string>
-  <string id="ts_random_dialog_darkvalley_bandit_ga_3">
-    <text>I'm thinking here, and how it would have turned out if I hadn't gotten to the prison zone... I don't know why the fuck I leaked that build, man. What are you looking at? You don't know what a build is? Asshole! Anyway? Listen. I was a hacker back in the big land. So one day I hacked into the server of some firm that made programs. And then they found out my IP, raided my house, and that's it, I'm in jail. They didn't give me much, but life didn't go the way I wanted it to. And then I ended up in the Zone. You get it, you get it, right? I was in the prison zone, then I was in the Zone, ha-ha! All right, get outta here, asshole. Why am I repenting to you?!</text>
-  </string>
-  <string id="ts_random_dialog_darkvalley_bandit_ga_4">
-    <text>No shit interesting, it's been pushing on my bottom for three hours, and I can't go anywhere, I can't get off the altar. If Boss sees it, he'll forbid me to take a shit. And anyway, get the fuck outta here!</text>
-  </string>
-  <string id="ts_random_dialog_darkvalley_bandit_ga_5">
-    <text>If it were up to me, I'd make Boss clean his shit! He's been very tough lately — yesterday I deprived him of lunch, and today I made him clean his shit. Why am I reporting to you? Get out of here.</text>
-  </string>
-  <string id="ts_random_dialog_ts_nshep_stalker_ga_1">
-    <text>Interesting? Probably the most interesting and mysterious thing to me is the swimming pool near here. Ever been there? I'm sure you have! I keep going there, and I don't know why. It's like a stalker's instinct tells you to go there. In the end, no matter how many times I looked there, I never found anything interesting. I'm attracted to it anyway... There's even talk among the local stalkers that there's an artifact lying there somewhere, giving off some kind of radiation that we can feel. But no one can find it. In fact, the construction there is extremely interesting. Something to do with scientific experiments. There's an abandoned military base nearby for a reason. There's plenty of wonders there, too, by the way. Did you see that flying thing? Don't get into it, it will shock you, you won't get up later! It's better not to go in there at all. I was just passing by last night and saw a dozen flashlights shining in the rooms. It's not clear who's snooping around and why.</text>
-  </string>
-  <string id="ts_random_dialog_ts_nshep_stalker_ga_2">
-    <text>If you want to talk so much, I can tell you about the village. Novoshepelichi. Stalkers who first discovered this place after the second blowout, said that previously the settlement was occupied by zombies. Zombies are like zombies, what's unusual about that? Except that they were not just hanging around, but as if they were imitating a full-fledged life activity! In the store, a salesman stood, and another zombie pretended to buy something. Women were pushing strollers, like with children. Others generally imitated how to work in the vegetable garden. In short, like real people. The only things that gave them away were their ridiculous movements and visible physical injuries. Stalkers with binoculars from the hill watched all this and literally freaked out at what was happening. Then we had to shoot all the zombies, because at one point all this "life simulator" he came straight at us. So now you wonder what the hell is this? Controllers' tricks? Someone's next scientific experiments on people? Or maybe it's local residents who refused to evacuate in 1986, and then just zombified by the impact of local conditions? Dunno!</text>
-  </string>
-  <string id="ts_random_dialog_ts_nshep_stalker_ga_3">
-    <text>I was walking along the riverbank and I saw two dead people! It was horrible! Good thing I saw them from afar, because there was a big pack of dogs wandering around them. I guess they were the ones who chewed them up. I looked through binoculars and noticed that the bodies were lying next to two wooden boats. There's food and supplies in the boats. Probably they wanted to go to the other shore, but it didn't work out...</text>
-  </string>
-  <string id="ts_random_dialog_ts_nshep_stalker_ga_4">
-    <text>Have you ever wondered why the village of Novoshepelichi is so hilly? I'll tell you why! A meteorite fell here a long time ago! If you don't believe me, climb the hill and look at the village from the top. The village stands right in the crater! Now here's the interesting part. What if aliens used to live here? Maybe this is where intelligent life began on our planet? Okay, I'm overreacting, but I'm sure of the meteorite. Interesting place for the former inhabitants to settle, isn't it?</text>
-  </string>
-  <string id="ts_random_dialog_ts_nshep_stalker_ga_5">
-    <text>I'm from Yakutia, you know? Have you figured out how far I've traveled here? How many thousands of kilometers separate my native land from the Chernobyl Zone! I raised reindeer there, and now I'm a stalker. But my business didn't work out there. My pasture only lasted four days. I paid off my debts and decided to come here. That's when things started to pick up. Yesterday, I found "Goldfish" and then found "Medusa"! This is my calling! Okay, I'm sorry, I've been talking to you. Why did I even tell you that?</text>
-  </string>
-  <string id="ts_random_dialog_bar_stalker_ga_1">
-    <text>Interesting? Well, listen. Have you heard about the village near the Semikhody rail bridge? Strange things are happening there! People are dying there like flies. And all these deaths happen in a very strange way. For example, I'll tell you about one such case. Stalkers are sitting around a campfire, having dinner. And then suddenly starts the engine of an old rusty tractor, and it ran straight at the crowd! Three managed to bounce away, but one remained under the wheels... Then we approached the machinery to see why it suddenly started. And there's not even an engine. There's no way this junk could have started! It's a mystery! Others told how in the evening they went down to the river, decided to wash their feet. So what? Radiation is radiation, but you still want to cool down after a hot day. They went into the water, and suddenly whirlpools began to appear around them. They tried to get ashore at once, but something kept them in the water, like a mire. And then they were dragged down to the depth, and they ran along the river, obeying the stream... And the locals can tell you a lot of such stories! The places near the bridge are rich in swag. There are plenty of artifacts and places to hunt. The military is far away from this place, they can't get to it. That's why they invented such stories to keep people away. Or maybe it was all for real. There's nothing strange in the Zone.</text>
-  </string>
-  <string id="ts_random_dialog_bar_stalker_ga_2">
-    <text>Marked One turned off the Brain Scorcher, and so what? The way to the center was a nightmare to go through, and it still is. Radar is a mutant hellhole, and Pripyat is filled to the brim with snipers, marauders, and Monolith. And the CNPP itself? Geiger counters don't even work there, that's how high the background radiation is! Sure, with all the loot you'll find there, you'll be richer than anyone else around, but getting the gear to go there in the first place will set you back a ton. And it might not even save you there either. I personally wouldn't go any further than the Army Warehouses.</text>
-  </string>
-  <string id="ts_random_dialog_bar_stalker_ga_3">
-    <text>I'm on a photo hunt for a tark. What, you've never heard of this monster? They say it's a very rare, endangered species. A mutated horse! It looks as lousy as possible — no tail, crooked teeth protruding from its head, a hump like a camel! And this thing stinks like a motherfucker! I bought myself a camera, I want to take pictures and sell them to scientists. They've announced a big reward for it. But no matter where in the Zone I visit, I can't find it anywhere. They couldn't have been lying about this mutant, could they? I believe it's definitely out there somewhere!</text>
-  </string>
-  <string id="ts_random_dialog_bar_stalker_ga_4">
-    <text>I heard that there was a programmer who lived in Bar for a while. He had a strange last name. German or something. But he spoke our language like a native. I don't know what he forgot in the Zone, but after a while, someone stole almost all his electronics. And this hacker. he didn't seem to give a shit. He left almost immediately. It's just the weirdos that come in here...</text>
-  </string>
-  <string id="ts_random_dialog_bar_stalker_ga_5">
-    <text>There was a guy wandering around Garbage the other day. And you know... it was like the Zone was guarding him. He always walked in such a way that neither mutants, nor radiation, nor hostile people clung to him. It was like the anomalies disappeared in front of him. And you know — he used this "gift" to the fullest! Except that with such abilities, he began to offer other stalkers his services: to lead them on a safe path through the anomalous zones, so that they allegedly could collect artifacts from it ... Well, here comes our "lucky" with such a stalker through the anomalies, and this very stalker follows him. But for some reason, he falls into a "vortex", "electra" or something else ... Then they rob him and sell all his possessions. And so it goes on and on. But fate punished him after all. Stalkers spotted something wrong with him. They followed him secretly, caught him in the act and lynched him... Just like that.</text>
-  </string>
-  <string id="ts_random_dialog_bar_stalker_ga_6">
-    <text>The Zone is an illogical place, isn't it? And I'm not just talking about the laws of physics — that's just too obvious with all these anomalies, hovering villages, and burers. I often wonder if Duty and Freedom are in their proper places. I mean, think about it: Duty has red attire, which is the color of anarchy. Who do you think that suits better? Freedom, of course, with their free Zone ideology. They're the opposite, the colors of their equipment are green, which is more typical of a paramilitary group... Alright, but let's forget about color. Who guards the Barrier at the Army Warehouses and protects the south of the Zone from mutants and Monolith? Freedom, of course! That is, not the brave soldiers from Duty, who claim they protect the civilians on the outside from the Zone, but a group comprised of hippies... And meanwhile Duty just hangs out at the Bar all day, surrounded by stalkers. Literally one of the safest places in the entire Zone. Freedom even used to hold a bunch of abandoned military warehouses under their control, when logically it should've been Duty! That's the paradox of the Zone, bro.</text>
-  </string>
+	</string>
+
+	<string id="ts_random_dialog_escape_stalker_ga_7">
+		<text>You've probably seen the flying village behind vehicle station by now, right? It's a fucking marvel of nature! It just recently appeared here, because there was nothing there in the fall. There's pieces of the village right there, there's even a latrine! It's funny if someone was sitting in it at the time, huh! But really, there's nothing funny about it. The moment she was teleported here, there was an immediate increase in scientist activity. I can't count the number of expeditions that have gone there. That's why stalkers are afraid to go up there. They might get shot by the soldiers. And they don't really want to. Even from afar, you can see air distortions there, which means that either the teleports are barely visible, or the anomaly is insidious. I wouldn't go in there, and I wouldn't advise you to.</text>
+	</string>
+
+	<string id="ts_random_dialog_escape_stalker_ga_8">
+		<text>If you're gonna be at the junkyard, be careful. They say the bandits have lost their fear. You know the anomalous field behind the swamp? Well, forget about it! They're there, like fishing. And they're not fishing for artifacts! They don't want to go into the anomaly themselves, you know. They wait for some stalker to come and force him at gunpoint to go after the artifact. Stinking ghouls! I'd like to beat them out of there, but who's going to go?</text>
+	</string>
+
+	<string id="ts_random_dialog_escape_stalker_ga_9">
+		<text>Did you hear how Petya pranked the stalkers in the newcomers' village? He bought a scary mask somewhere, as if it were made of iron. There was one of those in the movie Fell Star, didn't you see it? Oh, well, that's not the point! Anyway, every night he put it on himself, and let's wander around the camp, sneaking up on the stalkers. Most of the people here are still green and scared. In general, they were very scared! They even went to Fanat to complain. But he didn't believe them, thought they were too impressionable. But they were wrong. One guy was so scared of the iron mask that he foolishly fired a shotgun. Now Petya's been sent to the big earth for treatment. He'll live, but whether he'll return to the Zone is a big question.</text>
+	</string>
+
+	<string id="ts_random_dialog_escape_stalker_ga_10">
+		<text>Have you ever been caught by the military? If a patrol catches you somewhere in the Zone, pray it's not Petty Officer Gonchar. I hate him so much, I hate him so fucking much. Okay, I realize I breached the perimeter and that I'm a criminal to them. But why the gesture? Gonchar always takes all the food when he searches the place, all of it! Don't they have anything to eat at the checkpoint? They're state-funded! He took a can of canned peaches from me once, the bastard! I took it with me to diversify my diet of crap. And this asshole took it! So my advice to you is, if you see the military, you better watch your back and don't get caught.</text>
+	</string>
+
+	<string id="ts_random_dialog_escape_stalker_ga_11">
+		<text>Don't eat sunflowers in the country! Well, the seeds from there. I ate some of them, and then I couldn't get out of the toilet all day. If you want to chew something, you'd better eat some dried fish. The guys from the village caught some carp somewhere, dried them, and now at least some variety of local food. I'd like some more beer with fish, but Sidorovich, the bastard, doesn't bring any...</text>
+	</string>
+
+
+
+
+	<string id="ts_random_dialog_garbage_stalker_ga_1">
+		<text>Did you hear the shooting at the vehicle graveyard recently? There was a lot of shooting! They finally put those bandits in their place. Fucking freeloaders! With their notions, their primitive jargon. They came out of the cave, scumbags! Well, we'll kick their asses! Just don't tell them I said that about them. Okay? That's good.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_stalker_ga_2">
+		<text>They let you into the Bar? I was about to go in, and there's some red-bellied guys standing there. You know, the Duty. They say until we make sure you're a decent man, you can't go anywhere. But nobody can cancel the holes in the barbed wire, ha-ha. I can get anywhere without their permission. I'm gonna try to sneak in one of these days. Maybe I can find a good job there, because there isn't one here.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_stalker_ga_3">
+		<text>Perhaps the most interesting thing that has happened recently on the Garbage is the opening of the tunnel passage behind the depot. There used to be a blockage there, and then it suddenly disappeared. Another mystery of the Zone. And this tunnel is very interesting! Before the bandits settled there, a few stalkers went for reconnaissance and saw the plans of the railroad tracks. So they go to Agroprom, and to the Wild Territory, and even stretch into the legendary Pripyat dungeons! Imagine, you can go half an Zone! You go in Garbage, you come out in Pripyat! Although, I'm of the opinion that underground is even more dangerous than outside. That's why I've never heard of anyone going that way. And now those bastards are settling down there. The nasties immediately smelled the scent of profit and took a place to nab anyone interested in these tunnels. It's the same situation near the entrance to the X-18 lab, by the way. Yeah...</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_stalker_ga_4">
+		<text>Did you hear that the diggers found a hatch on the outskirts of the Garbage? At first they thought it was just garbage, but when they started digging under it, it turned out to be a whole bunker buried in the ground! They dug, they dug, they dug for months - they didn't get it! They tried various ways to open the hatch door itself - nothing worked. It's locked shut! Then the stalker brought some dynamite and blew up the doorway. And inside, guess what? A man was sitting there, all overgrown and bearded. They asked him: Who are you? And he said, "I'm Denis. I'm here to save the whole Zone from the next big blowout! He said that every 108 minutes he had to enter a code on the computer - 4 8 15 16 23 42. He uses it to discharge the energy so that the outburst doesn't happen. Everyone looked at him like a fool and, of course, no one believed in such nonsense. But in the bunker itself there really was a computer, various equipment of bearded years, a pantry full of food. For a long time this man sat like that and pressed the button. Except that he didn't save the Zone from the ejection. It was his scientists specially put him in a bunker for human experiments in complete isolation, but with a great social role and responsibility! So there you go. What do you think about that? It's crazy, isn't it? Of course it's crazy, who do you believe? I'm just bored, so I thought I'd give you a little bit of nonsense.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_stalker_ga_5">
+		<text>I'll tell you about an anomaly that no one has ever seen! I received a reward from Sidorovich for one task. Which one I won't tell you, it's a secret. I transferred money, put food, ammunition, and a bonus whisky, Jack Daniels. I return satisfied to the camp, in my PDA to my friends bragging about the fat loot and thinking how I will celebrate the successfully completed task. Suddenly... I slip, my hands go up, my PDA flies away, and I fall under the ground, in a hole deeper than my height. So I'm lying in this pit, I see the sky, a small space around me, and I think - where did this pit come from? It's never been here before. Well, what's the point of lying down, we've got to get out! I immediately tried to grab my hand on the ledge and climb out, but my hand got stuck in some disgusting viscous substance, which looked like dry earth, but felt like dough. But I didn't give up and started to try again. I had to take off my backpack. The movements were viscous, it was very difficult, but with the last of my strength I got out and lay on my back. When I looked back at the culprit of my troubles, the pit was no longer there. It was as if it had never been there. Gently touching the place, I found nothing. Only grass was growing on the spot, and the ground was hard. Picking up my PDA, I told my friends and called this anomaly Pit, and they stopped communicating with me from that moment on! They thought that I did not lose my backpack in the anomaly, but drank Jack Daniels in one face. Eh.</text>
+	</string>
+
+
+
+	<string id="ts_random_dialog_garbage_dolg_ga_1">
+		<text>Did you hear the story of how a stalker stumbled upon an artifact six months ago? Nobody remembers his name anymore. But everyone remembers what happened. What am I talking about? Oh, yeah. Well, anyway, this stalker found an artifact, "Medusa" looks like "Medusa", but only spoiled as if - no radiation, no-thing. Well, he didn't throw it away, he had some kind of instinct, they say. He carried it with him on long trips, like a talisman. Somebody said the Zone loved him. Who the hell knows who the Zone could love? But the fact that he went far... But then, as it turned out, not so much. He disappeared somewhere around Radar. A week later, a new weirdo with the exact same artifact was running around. We're telling you, stalkers, don't take artifacts to scientists. It's evil. Real evil. No, all you want is money. Why are you hanging up your nose? Why don't you join us in the "Duty"? You don't want to? Well, then get out of here, don't get in my way.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ga_2">
+		<text>I'm so sick of that metallic scraping! I can't sleep well at night, and then there's that nasty sound. Sometimes I want to get up, take a bolt cutter in my hands and saw off that creaky shit!</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ga_3">
+		<text>Oh, I wish someone had blown up on a mine! And that set up around the base, two days of climbing, and at least one mine went off! I mean mutants, of course. Stalkers are not stupid people - signs, I think, will see.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ga_4">
+		<text>You hang around Cordon a lot? The military didn't catch you yet? I used to be stationed at that southern checkpoint myself. Everything was fine and dandy until this one lieutenant came to the place. He was so self-important, he started to establish his own order right away. Little did he know that the Zone has its own set of rules! What works effectively on any military garrison in the world will not work here! To destroy the enemy, you need to know its face, know its habits. And the Zone does not reveal its face. Not to you, not to me, and certainly not to this lieutenant from god-knows-where Uryupinsk military enlistment center... Alright, that's all I have to say. Go on your own way, there's nothing else to see here!</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ga_5">
+		<text>Let me tell you, if you every meet representatives of those "Freedom" druggies, don't even listen to what they pour into your ears. Freedom, huh? Who needs their "freedom" when peaceful cities will be in ruins from the destructive actions of the Zone? They don't realize you can't make this place a free-for-all. Fucking stoners! I hope you heard me and you'll make the right conclusions.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ga_6">
+		<text>Stalker, protect the world from the Zone! Join Duty! Ugh, damn it, I hate hearing these same lines over and over again - it gets stuck in my head... You're probably out here thinking to yourself, "why join Duty with all the strict order there, their mandate, and their charter"... I'll tell you thing: how can there be no order in the situation we're in? People always say, "if you want to change the world, start with yourself". So we've done that, we brought order in the faction, and now we're bringing it to the rest of the Zone. I recommend you think about joining. Every fighter, every new recruit is always welcome. Maybe we'll even serve together at the same outpost!</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ga_7">
+		<text>I see that detector sticking out of your pocket? Who do you sell the artifacts you find? I advise you to sell them only to scientists. They use them for their intended purpose and to their advantage. But all sorts of local hustlers, Sidorovich, Ivanovich, Kolyanych - smuggle them to the big earth, and then all this contagion gets on the black market and spreads all over the world. What do you think would happen if these radioactive elements flooded peaceful cities? What if it all falls into the hands of bad people? Thankfully, artifacts don't function for long outside the Zone. At least that's what I've heard.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ga_8">
+		<text>You ask me why I'm in Duty? And who else but me? Who else will stop the spread of this contagion? In Slavutich, which is outside the protected perimeter, the radioactive background has been steadily rising for months. Locals have even reported aggressive dogs and people with long limbs. Ring any bells? The Zone is growing. Maybe not so fast, not so tangible, but it's still growing. Today I voluntarily took up arms and came here to stop it. Tomorrow it may happen that people won't have such a choice.</text>
+	</string>
+
+
+	<string id="ts_random_dialog_garbage_dolg_ba_1">
+		<text>There's nothing to tell, I'm just guarding my post.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ba_2">
+		<text>Go on, I don't want to talk right now.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ba_3">
+		<text>Talk to the others, I don't have time for you right now.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ba_4">
+		<text>Stay out of the way, stalker. The enemy is not sleeping, and here you are with talk.</text>
+	</string>
+
+	<string id="ts_random_dialog_garbage_dolg_ba_5">
+		<text>Nothing, get out of here.</text>
+	</string>
+
+
+
+	<string id="ts_random_dialog_agroprom_stalker_ga_1">
+		<text>Have you visited the scientists? I don't feel safe with so many military men there! If you look at them askance now, they'll put you in jail for ten years for stalking and possession of weapons! Although, the nerds promised they wouldn't hurt us if we didn't do anything stupid. Is it worth going?</text>
+	</string>
+
+	<string id="ts_random_dialog_agroprom_stalker_ga_2">
+		<text>Have you seen the kid in the anomaly in the swamp? Yeah, he's got it bad! And the body's still wiggling around. They say the stalker's name was Sugar. He'd just bought himself a new outfit, went on an outing, and got sucked into an anomaly. It's scary to live, you get into trouble, and fuck who will help. Look, what if he's still alive? No, there's no way.</text>
+	</string>
+
+	<string id="ts_random_dialog_agroprom_stalker_ga_3">
+		<text>Have you noticed the military presence? Not just on Agroprom, but in the south of the Zone in general. Helicopters flying, patrols roaming around, scientists taking measurements at almost every anomaly. They're strangling us. I feel like we're gonna be overrun with warriors soon. We need to move deeper into the Zone. There's monolithians out there. You're gonna have to get better equipment. Body armor, automatic rifle with drum magazine, helmet... Yeah, that's a lot of money.</text>
+	</string>
+
+
+
+	<string id="ts_random_dialog_agroprom_army_actor_hello">
+		<text>Greetings!</text>
+	</string>
+
+	<string id="ts_random_dialog_agroprom_army_ba_1">
+		<text>I'm not supposed to talk to civilians! Although, what kind of civilian are you? A criminal element, a real criminal element! You're lucky I have different orders now, or I'd be... Get out of here!</text>
+	</string>
+
+	<string id="ts_random_dialog_agroprom_army_ba_2">
+		<text>Stay out of the way.</text>
+	</string>
+
+	<string id="ts_random_dialog_agroprom_army_ba_3">
+		<text>I'm on duty, go away.</text>
+	</string>
+
+	<string id="ts_random_dialog_agroprom_army_ba_4">
+		<text>Get out of here, or my finger on the trigger will shake.</text>
+	</string>
+
+	<string id="ts_random_dialog_agroprom_army_ga_1">
+		<text>Eh, now I'd like to go on vacation, on a fishing trip, instead of all this...</text>
+	</string>
+
+	<string id="ts_random_dialog_agroprom_army_ga_2">
+		<text>Do you have a cigarette? Too bad. I wish they'd put a grocery store here, I don't even have enough smokes for a day! I didn't smoke at all when I was a civilian... It all started here, after what I saw...</text>
+	</string>
+
+	<string id="ts_random_dialog_agroprom_army_ga_3">
+		<text>If you see any bandits in this neighborhood, you let me know! We need to get this scum as far away from here as possible! And you'll be rewarded for your information. MRE, for example! Do you know how good the buckwheat is? Mmm. And you'll be in good standing with us.</text>
+	</string>
+
+	<string id="ts_random_dialog_agroprom_army_ga_4">
+		<text>Don't you dare go rogue! We've got strict control over every stray. And if you're good, we might offer you a job. That's it, the briefing's over, get outta here.</text>
+	</string>
+
+
+
+
+	<string id="ts_random_dialog_darkvalley_stalker_ga_1">
+		<text>All right, rookie, I'll give you a little oral tour! You probably came in here through the gorge. This is the most famous safe path leading to these parts. If you go further, there is an abnormal swamp on the right and some abandoned unfinished factory on the left. We climbed there with stalkers and saw the construction plans. Apparently, in this place planned to build some kind of research institute, well, like on Agroprom. But that thing languished halfway there, as you can see. You better not go there now. The bandits have taken up residence there. They don't shoot, but it's always unpleasant to talk to them. There's a gas station across from the construction site. I'm telling you right away: don't try to start the motorcycle - it's dead. If you go straight from the gorge without turning around, you'll come to an abandoned factory. Well, it's a classic Soviet factory with shops, warehouses and a boiler room. A factory and a factory, what can I say about it? If it weren't for the fact that it's the place where the entrance to the legendary X-18 laboratory is located. Well, and another notable place here is an abandoned farm. Perhaps the safest in the area, since the stalkers camped here. One building, however, is in trouble. It collapsed! Let's hope the other one doesn't collapse as well. Oh, and if you want to think about your hard stalker life in silence or have a picnic, you should go to the river bank in the east. It's beautiful there! Stand like that for a couple of minutes, stare at the flow of the river, and even forget that you are in the Zone. And so, there are many other interesting places here. I've only told you about the main attractions.</text>
+	</string>
+
+	<string id="ts_random_dialog_darkvalley_stalker_ga_2">
+		<text>Listen, have you ever wondered why there are so many snorks in the Zone? Why haven't they all been wiped out over the years? Don't tell me they're breeding. Are they born with gas masks, too, in that case? Then the theory of snorkel reproduction is out of the question. They couldn't have been created in laboratories either: the same gas masks couldn't be part of the monster's basic equipment. That's absurd! The last option remains - all of them used to be humans, but at some point mutated under the influence of something unknown to us. They say that after the second disaster at Chernobyl, the government sent entire columns of equipment and thousands of soldiers to the station to find out the reasons for what happened and take control of the object. It turns out that these are the guys who came back to us from the center of the Zone in the form of monsters.... What do you think of my investigation? Did you get the facts straight?</text>
+	</string>
+
+	<string id="ts_random_dialog_darkvalley_stalker_ga_3">
+		<text>Think twice if you suddenly want to go to the bandits' base. Of course, they are more or less neutral towards stalkers here - they have a lot of goods, if necessary, you can drop by for food and ammunition - it is profitable for them. But be prepared to be scammed! I once came to replenish my water supply, and they charged me a lot of money for just one entrance, took away my artifact and all my anti-rads! Fucking assholes.</text>
+	</string>
+
+
+
+
+	<string id="ts_random_dialog_darkvalley_bandit_ga_1">
+		<text>Hey, you know how to cook? Maybe you could give me some tips for the future? I had to cook for all the guys, but they wouldn't eat my grub at all. And those who tried my cooking sat on the toilet for half a day Now I'm embarrassed in front of the guys. They said if I had another one of these, they'd make me clean the toilets. Okay, why am I making excuses to you? Get out of here.</text>
+	</string>
+
+	<string id="ts_random_dialog_darkvalley_bandit_ga_2">
+		<text>Am I your tour guide or something? Well, well... We're sitting here, doing business. If you want to join our group, go to the boss. If you don't want to, get out of here!</text>
+	</string>
+
+	<string id="ts_random_dialog_darkvalley_bandit_ga_3">
+		<text>I'm thinking here, and how it would have turned out if I hadn't gotten to the prison zone... I don't know why the fuck I leaked that build, man. What are you looking at? You don't know what a build is? Asshole! Anyway? Listen. I was a hacker back in the big land. So one day I hacked into the server of some firm that made programs. And then they found out my IP, raided my house, and that's it, I'm in jail. They didn't give me much, but life didn't go the way I wanted it to. And then I ended up in the Zone. You get it, you get it, right? I was in the prison zone, then I was in the Zone, ha-ha! All right, get outta here, asshole. Why am I repenting to you?!</text>
+	</string>
+
+	<string id="ts_random_dialog_darkvalley_bandit_ga_4">
+		<text>No shit interesting, it's been pushing on my bottom for three hours, and I can't go anywhere, I can't get off the altar. If Boss sees it, he'll forbid me to take a shit. And anyway, get the fuck outta here!</text>
+	</string>
+
+	<string id="ts_random_dialog_darkvalley_bandit_ga_5">
+		<text>If it were up to me, I'd make Boss clean his shit! He's been very tough lately - yesterday I deprived him of lunch, and today I made him clean his shit. Why am I reporting to you? Get out of here.</text>
+	</string>
+
+
+
+
+	<string id="ts_random_dialog_ts_nshep_stalker_ga_1">
+		<text>Interesting? Probably the most interesting and mysterious thing to me is the swimming pool near here. Ever been there? I'm sure you have! I keep going there, and I don't know why. It's like a stalker's instinct tells you to go there. In the end, no matter how many times I looked there, I never found anything interesting. I'm attracted to it anyway... There's even talk among the local stalkers that there's an artifact lying there somewhere, giving off some kind of radiation that we can feel. But no one can find it. In fact, the construction there is extremely interesting. Something to do with scientific experiments. There's an abandoned military base nearby for a reason. There's plenty of wonders there, too, by the way. Did you see that flying thing? Don't get into it, it will shock you, you won't get up later! It's better not to go in there at all. I was just passing by last night and saw a dozen flashlights shining in the rooms. It's not clear who's snooping around and why.</text>
+	</string>
+
+	<string id="ts_random_dialog_ts_nshep_stalker_ga_2">
+		<text>If you want to talk so much, I can tell you about the village. Novoshepelichi. Stalkers who first discovered this place after the second blowout, said that previously the settlement was occupied by zombies. Zombies are like zombies, what's unusual about that? Except that they were not just hanging around, but as if they were imitating a full-fledged life activity! In the store, a salesman stood, and another zombie pretended to buy something. Women were pushing strollers, like with children. Others generally imitated how to work in the vegetable garden. In short, like real people. The only things that gave them away were their ridiculous movements and visible physical injuries. Stalkers with binoculars from the hill watched all this and literally freaked out at what was happening. Then we had to shoot all the zombies, because at one point all this "life simulator" he came straight at us. So now you wonder what the hell is this? Controllers' tricks? Someone's next scientific experiments on people? Or maybe it's local residents who refused to evacuate in 1986, and then just zombified by the impact of local conditions? Dunno!</text>
+	</string>
+
+	<string id="ts_random_dialog_ts_nshep_stalker_ga_3">
+		<text>I was walking along the riverbank and I saw two dead people! It was horrible! Good thing I saw them from afar, because there was a big pack of dogs wandering around them. I guess they were the ones who chewed them up. I looked through binoculars and noticed that the bodies were lying next to two wooden boats. There's food and supplies in the boats. Probably they wanted to go to the other shore, but it didn't work out...</text>
+	</string>
+
+	<string id="ts_random_dialog_ts_nshep_stalker_ga_4">
+		<text>Have you ever wondered why the village of Novoshepelichi is so hilly? I'll tell you why! A meteorite fell here a long time ago! If you don't believe me, climb the hill and look at the village from the top. The village stands right in the crater! Now here's the interesting part. What if aliens used to live here? Maybe this is where intelligent life began on our planet? Okay, I'm overreacting, but I'm sure of the meteorite. Interesting place for the former inhabitants to settle, isn't it?</text>
+	</string>
+
+	<string id="ts_random_dialog_ts_nshep_stalker_ga_5">
+		<text>I'm from Yakutia, you know? Have you figured out how far I've traveled here? How many thousands of kilometers separate my native land from the Chernobyl Zone! I raised reindeer there, and now I'm a stalker. But my business didn't work out there. My pasture only lasted four days. I paid off my debts and decided to come here. That's when things started to pick up. Yesterday, I found "Goldfish" and then found "Medusa"! This is my calling! Okay, I'm sorry, I've been talking to you. Why did I even tell you that?</text>
+	</string>
+
+
+
+	<string id="ts_random_dialog_bar_stalker_ga_1">
+		<text>Interesting? Well, listen. Have you heard about the village near the Semikhody rail bridge? Strange things are happening there! People are dying there like flies. And all these deaths happen in a very strange way. For example, I'll tell you about one such case. Stalkers are sitting around a campfire, having dinner. And then suddenly starts the engine of an old rusty tractor, and it ran straight at the crowd! Three managed to bounce away, but one remained under the wheels... Then we approached the machinery to see why it suddenly started. And there's not even an engine. There's no way this junk could have started! It's a mystery! Others told how in the evening they went down to the river, decided to wash their feet. So what? Radiation is radiation, but you still want to cool down after a hot day. They went into the water, and suddenly whirlpools began to appear around them. They tried to get ashore at once, but something kept them in the water, like a mire. And then they were dragged down to the depth, and they ran along the river, obeying the stream... And the locals can tell you a lot of such stories! The places near the bridge are rich in swag. There are plenty of artifacts and places to hunt. The military is far away from this place, they can't get to it. That's why they invented such stories to keep people away. Or maybe it was all for real. There's nothing strange in the Zone.</text>
+	</string>
+
+	<string id="ts_random_dialog_bar_stalker_ga_2">
+		<text>Marked One turned off the Brain Scorcher, and so what? The way to the center was a nightmare to go through, and it still is. Radar is a mutant hellhole, and Pripyat is filled to the brim with snipers, marauders, and Monolith. And the CNPP itself? Geiger counters don't even work there, that's how high the background radiation is! Sure, with all the loot you'll find there, you'll be richer than anyone else around, but getting the gear to go there in the first place will set you back a ton. And it might not even save you there either. I personally wouldn't go any further than the Army Warehouses.</text>
+	</string>
+
+	<string id="ts_random_dialog_bar_stalker_ga_3">
+		<text>I'm on a photo hunt for a tark. What, you've never heard of this monster? They say it's a very rare, endangered species. A mutated horse! It looks as lousy as possible - no tail, crooked teeth protruding from its head, a hump like a camel! And this thing stinks like a motherfucker! I bought myself a camera, I want to take pictures and sell them to scientists. They've announced a big reward for it. But no matter where in the Zone I visit, I can't find it anywhere. They couldn't have been lying about this mutant, could they? I believe it's definitely out there somewhere!</text>
+	</string>
+
+	<string id="ts_random_dialog_bar_stalker_ga_4">
+		<text>I heard that there was a programmer who lived in Bar for a while. He had a strange last name. German or something. But he spoke our language like a native. I don't know what he forgot in the Zone, but after a while, someone stole almost all his electronics. And this hacker. he didn't seem to give a shit. He left almost immediately. It's just the weirdos that come in here...</text>
+	</string>
+
+	<string id="ts_random_dialog_bar_stalker_ga_5">
+		<text>There was a guy wandering around Garbage the other day. And you know... it was like the Zone was guarding him. He always walked in such a way that neither mutants, nor radiation, nor hostile people clung to him. It was like the anomalies disappeared in front of him. And you know - he used this "gift" to the fullest! Except that with such abilities, he began to offer other stalkers his services: to lead them on a safe path through the anomalous zones, so that they allegedly could collect artifacts from it ... Well, here comes our "lucky" with such a stalker through the anomalies, and this very stalker follows him. But for some reason, he falls into a "vortex", "electra" or something else ... Then they rob him and sell all his possessions. And so it goes on and on. But fate punished him after all. Stalkers spotted something wrong with him. They followed him secretly, caught him in the act and lynched him... Just like that.</text>
+	</string>
+
+	<string id="ts_random_dialog_bar_stalker_ga_6">
+		<text>The Zone is an illogical place, isn't it? And I'm not just talking about the laws of physics - that's just too obvious with all these anomalies, hovering villages, and burers. I often wonder if Duty and Freedom are in their proper places. I mean, think about it: Duty has red attire, which is the color of anarchy. Who do you think that suits better? Freedom, of course, with their free Zone ideology. They're the opposite, the colors of their equipment are green, which is more typical of a paramilitary group... Alright, but let's forget about color. Who guards the Barrier at the Army Warehouses and protects the south of the Zone from mutants and Monolith? Freedom, of course! That is, not the brave soldiers from Duty, who claim they protect the civilians on the outside from the Zone, but a group comprised of hippies... And meanwhile Duty just hangs out at the Bar all day, surrounded by stalkers. Literally one of the safest places in the entire Zone. Freedom even used to hold a bunch of abandoned military warehouses under their control, when logically it should've been Duty! That's the paradox of the Zone, bro.</text>
+	</string>
+
+
 </string_table>

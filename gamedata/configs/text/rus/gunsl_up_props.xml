@@ -1,54 +1,59 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="gunsl_up_prop_laser">
-    <text>Р›Р°Р·РµСЂРЅС‹Р№ С†РµР»РµСѓРєР°Р·Р°С‚РµР»СЊ</text>
-  </string>
-  <string id="gunsl_up_prop_lightingsights">
-    <text>РўСЂРёС‚РёРµРІС‹Рµ РІСЃС‚Р°РІРєРё</text>
-  </string>
-  <string id="gunsl_up_prop_torch">
-    <text>РўР°РєС‚РёС‡РµСЃРєРёР№ С„РѕРЅР°СЂСЊ</text>
-  </string>
-  <string id="gunsl_up_prop_rail">
-    <text>Р РµР»СЊСЃРѕРІРѕРµ РєСЂРµРїР»РµРЅРёРµ</text>
-  </string>
-  <string id="gunsl_up_prop_short_stock">
-    <text>РЈРєРѕСЂРѕС‡РµРЅРЅС‹Р№ РїСЂРёРєР»Р°Рґ</text>
-  </string>
-  <string id="gunsl_up_prop_short_barrel">
-    <text>РЈРєРѕСЂРѕС‡РµРЅРЅС‹Р№ СЃС‚РІРѕР»</text>
-  </string>
-  <string id="gunsl_up_prop_tactical_handle">
-    <text>РўР°РєС‚РёС‡РµСЃРєР°СЏ СЂСѓРєРѕСЏС‚СЊ</text>
-  </string>
-  <string id="gunsl_up_prop_headlamp">
-    <text>РќР°Р»РѕР±РЅС‹Р№ С„РѕРЅР°СЂРёРє</text>
-  </string>
-  <string id="gunsl_up_prop_bayonet">
-    <text>РЁС‚С‹Рє-РЅРѕР¶</text>
-  </string>
-  <string id="gunsl_up_prop_no_silencer">
-    <text>Р—Р°РїСЂРµС‚ РіР»СѓС€РёС‚РµР»СЏ</text>
-  </string>
-  <string id="gunsl_up_prop_destruction">
-    <text>РЈР±РѕР№РЅРѕСЃС‚СЊ</text>
-  </string>
-  <string id="gunsl_up_prop_new_ammo">
-    <text>РќРѕРІС‹Р№ С‚РёРї РїР°С‚СЂРѕРЅРѕРІ</text>
-  </string>
-  <string id="gunsl_up_prop_computer">
-    <text>Р‘РѕСЂС‚РѕРІРѕР№ РєРѕРјРїСЊСЋС‚РµСЂ</text>
-  </string>
-  <string id="gunsl_up_prop_autoshot">
-    <text>Р­Р»РµРєС‚СЂРѕРЅРЅС‹Р№ РїСЂРµРґРѕС…СЂР°РЅРёС‚РµР»СЊ</text>
-  </string>
-  <string id="gunsl_up_prop_autoaim">
-    <text>РђРІС‚РѕСЃРїСѓСЃРє</text>
-  </string>
-  <string id="gunsl_up_prop_zoomspeed">
-    <text>РЎРєРѕСЂРѕСЃС‚РЅРѕР№ Р·СѓРј</text>
-  </string>
-  <string id="gunsl_up_magneticshield">
-    <text>Р­РєСЂР°РЅРёСЂРѕРІР°РЅРёРµ</text>
-  </string>
+	<string id="gunsl_up_prop_laser">
+		<text>Лазерный целеуказатель</text>
+	</string>
+	<string id="gunsl_up_prop_lightingsights">
+		<text>Тритиевые вставки</text>
+	</string>
+	<string id="gunsl_up_prop_torch">
+		<text>Тактический фонарь</text>
+	</string>
+	
+	<string id="gunsl_up_prop_rail">
+		<text>Рельсовое крепление</text>
+	</string>	
+	<string id="gunsl_up_prop_short_stock">
+		<text>Укороченный приклад</text>
+	</string>
+	
+	<string id="gunsl_up_prop_short_barrel">
+		<text>Укороченный ствол</text>
+	</string>	
+	
+	<string id="gunsl_up_prop_tactical_handle">
+		<text>Тактическая рукоять</text>
+	</string>
+	<string id="gunsl_up_prop_headlamp">
+		<text>Налобный фонарик</text>
+	</string>	
+
+	<string id="gunsl_up_prop_bayonet">
+		<text>Штык-нож</text>
+	</string>	
+	<string id="gunsl_up_prop_no_silencer">
+		<text>Запрет глушителя</text>
+	</string>	
+	<string id="gunsl_up_prop_destruction">
+		<text>Убойность</text>
+	</string>		
+	<string id="gunsl_up_prop_new_ammo">
+		<text>Новый тип патронов</text>
+	</string>		
+	<string id="gunsl_up_prop_computer">
+		<text>Бортовой компьютер</text>
+	</string>		
+	<string id="gunsl_up_prop_autoshot">
+		<text>Электронный предохранитель</text>
+	</string>		
+	<string id="gunsl_up_prop_autoaim">
+		<text>Автоспуск</text>
+	</string>	
+	<string id="gunsl_up_prop_zoomspeed">
+		<text>Скоростной зум</text>
+	</string>
+	<string id="gunsl_up_magneticshield">
+		<text>Экранирование</text>
+	</string>				
+	
 </string_table>

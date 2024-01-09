@@ -1,33 +1,44 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_mkat_mercs_rupor_start_1">
-    <text>РЎР»СѓС€Р°Р№С‚Рµ СЃСЋРґР°, СЃС‚Р°Р»РєРµСЂСЊС‘!</text>
-  </string>
-  <string id="st_mkat_mercs_rupor_start_2">
-    <text>РҐРѕС‚РёС‚Рµ Р¶РёС‚СЊ вЂ” РёС‰РёС‚Рµ РѕСЂСѓР¶РёРµ Рё СѓР±РёРІР°Р№С‚Рµ РґСЂСѓРі РґСЂСѓРіР°.</text>
-  </string>
-  <string id="st_mkat_mercs_rupor_start_3">
-    <text>Р–РёРІС‹Рј СЃ СЌС‚РёС… С‚РѕРЅРЅРµР»РµР№ РІС‹Р№РґРµС‚ С‚РѕР»СЊРєРѕ РѕРґРёРЅ!</text>
-  </string>
-  <string id="st_mkat_mercs_rupor_start_4">
-    <text>Р•СЃР»Рё РєС‚Рѕ-С‚Рѕ РїРѕРїС‹С‚Р°РµС‚СЃСЏ СЃС…РёС‚СЂРёС‚СЊ вЂ” РїРѕР»СѓС‡РёС‚ РїСѓР»СЋ РІ Р»РѕР±.</text>
-  </string>
-  <string id="st_mkat_mercs_rupor_start_5">
-    <text>РњС‹ Р·Р° РІР°РјРё РЅР°Р±Р»СЋРґР°РµРј!</text>
-  </string>
-  <string id="st_mkat_mercs_rupor_start_6">
-    <text>Р”Р°РІР°Р№С‚Рµ, РЅРµ РїРѕРґРєР°С‡Р°Р№С‚Рµ С‚Р°Рј, Р° С‚Рѕ СЃС‚Р°РІРєРё РЅР° РІР°СЃ СЃРµСЂСЊС‘Р·РЅС‹Рµ!</text>
-  </string>
-  <string id="st_mkat_merc_leader_see_actor_start">
-    <text>Рђ С‚РµРїРµСЂСЊ, Р»РµРіР°РІС‹Р№,\nРјРµРґР»РµРЅРЅРѕ СЂР°Р·РІРµСЂРЅРёСЃСЊ.</text>
-  </string>
-  <string id="st_mkat_merc_leader_after_dialog_info_1">
-    <text>РќРµ СЃС‚СЂРѕР№ Р±РѕР»СЊС€РёС… РїР»Р°РЅРѕРІ\nР·Р° РјРѕРµР№ СЃРїРёРЅРѕР№.</text>
-  </string>
-  <string id="st_mkat_merc_leader_after_dialog_info_2">
-    <text>РЈ С‚РµР±СЏ РІСЃС‘ СЂР°РІРЅРѕ РЅРёС‡РµРіРѕ РЅРµ РІС‹Р№РґРµС‚.</text>
-  </string>
-  <string id="st_mkat_merc_leader_actor_hit_angry">
-    <text>Р—Р° СЌС‚Рѕ С‚С‹ СЃРєРѕСЂРѕ РѕС‚РІРµС‚РёС€СЊ!</text>
-  </string>
+
+	<string id="st_mkat_mercs_rupor_start_1">
+		<text>Слушайте сюда, сталкерьё!</text>
+	</string>
+
+	<string id="st_mkat_mercs_rupor_start_2">
+		<text>Хотите жить - ищите оружие и убивайте друг друга.</text>
+	</string>
+	
+	<string id="st_mkat_mercs_rupor_start_3">
+		<text>Живым с этих тоннелей выйдет только один!</text>
+	</string>
+	
+	<string id="st_mkat_mercs_rupor_start_4">
+		<text>Если кто-то попытается схитрить - получит пулю в лоб.</text>
+	</string>
+
+	<string id="st_mkat_mercs_rupor_start_5">
+		<text>Мы за вами наблюдаем!</text>
+	</string>
+	
+	<string id="st_mkat_mercs_rupor_start_6">
+		<text>Давайте, не подкачайте там, а то ставки на вас серьёзные!</text>
+	</string>
+	
+	<string id="st_mkat_merc_leader_see_actor_start">
+		<text>А теперь, легавый,\nмедленно развернись.</text>
+	</string>
+
+	<string id="st_mkat_merc_leader_after_dialog_info_1">
+		<text>Не строй больших планов\nза моей спиной.</text>
+	</string>
+	
+	<string id="st_mkat_merc_leader_after_dialog_info_2">
+		<text>У тебя всё равно ничего не выйдет.</text>
+	</string>
+	
+	<string id="st_mkat_merc_leader_actor_hit_angry">
+		<text>За это ты скоро ответишь!</text>
+	</string>
+
 </string_table>

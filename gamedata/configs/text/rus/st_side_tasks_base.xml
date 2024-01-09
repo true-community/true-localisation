@@ -1,105 +1,140 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="side_tasks_dialog_start">
-    <text>РњРЅРµ РЅСѓР¶РЅР° СЂР°Р±РѕС‚Р°. Р•СЃС‚СЊ С‡С‚Рѕ РЅР° РїСЂРёРјРµС‚Рµ?</text>
-  </string>
-  <string id="side_tasks_dialog_has_tasks_1">
-    <text>РљРѕРµ-С‡С‚Рѕ РёРјРµРµС‚СЃСЏ:</text>
-  </string>
-  <string id="side_tasks_dialog_has_tasks_2">
-    <text>РњРѕРіСѓ РїСЂРµРґР»РѕР¶РёС‚СЊ СЃР»РµРґСѓСЋС‰РµРµ:</text>
-  </string>
-  <string id="side_tasks_dialog_has_tasks_3">
-    <text>Р•СЃС‚СЊ РІРѕС‚ С‚Р°РєР°СЏ СЂР°Р±РѕС‚С‘РЅРєР°:</text>
-  </string>
-  <string id="side_tasks_dialog_has_tasks_back">
-    <text>РЇ РїРµСЂРµРґСѓРјР°Р».</text>
-  </string>
-  <string id="side_tasks_dialog_hasnt_tasks_1">
-    <text>РќР° РґР°РЅРЅС‹Р№ РјРѕРјРµРЅС‚ СЂР°Р±РѕС‚С‹ РЅРµС‚.</text>
-  </string>
-  <string id="side_tasks_dialog_hasnt_tasks_2">
-    <text>РџРѕРєР° С‡С‚Рѕ РЅРёС‡РµРіРѕ РЅРµ РјРѕРіСѓ РїСЂРµРґР»РѕР¶РёС‚СЊ.</text>
-  </string>
-  <string id="side_tasks_dialog_hasnt_tasks_3">
-    <text>РЎРµР№С‡Р°СЃ РЅРёРєР°РєРѕР№ СЂР°Р±РѕС‚С‹ РЅРµС‚.</text>
-  </string>
-  <string id="side_tasks_dialog_hasnt_tasks_back">
-    <text>Р—Р°Р№РґСѓ РІ РґСЂСѓРіРѕР№ СЂР°Р·.</text>
-  </string>
-  <string id="side_tasks_dialog_task_take">
-    <text>РЇ Р±РµСЂСѓСЃСЊ.</text>
-  </string>
-  <string id="side_tasks_dialog_task_wont_take">
-    <text>РўР°РєР°СЏ СЂР°Р±РѕС‚Р° РјРЅРµ РЅРµ РёРЅС‚РµСЂРµСЃРЅР°.</text>
-  </string>
-  <string id="side_tasks_reward_dialog_start">
-    <text>РЇ РїРѕ РїРѕРІРѕРґСѓ Р·Р°РґР°РЅРёСЏ.</text>
-  </string>
-  <string id="side_tasks_reward_dialog_about_task">
-    <text>Рћ РєР°РєРѕРј Р·Р°РґР°РЅРёРё РёРґС‘С‚ СЂРµС‡СЊ?</text>
-  </string>
-  <string id="side_tasks_reward_dialog_about_task_cancel">
-    <text>Р—Р°Р№РґСѓ РІ РґСЂСѓРіРѕР№ СЂР°Р·.</text>
-  </string>
-  <string id="side_tasks_reward_dialog_question_task_1">
-    <text>РўР°Рє, Рё С‡С‚Рѕ СЃ СЌС‚РёРј Р·Р°РґР°РЅРёРµРј?</text>
-  </string>
-  <string id="side_tasks_reward_dialog_question_task_2">
-    <text>Р’РЅРёРјР°С‚РµР»СЊРЅРѕ СЃР»СѓС€Р°СЋ.</text>
-  </string>
-  <string id="side_tasks_reward_dialog_question_task_3">
-    <text>РќСѓ, РІС‹РєР»Р°РґС‹РІР°Р№, С‡С‚Рѕ С‚Р°Рј СЃ СЌС‚РёРј Р·Р°РґР°РЅРёРµРј.</text>
-  </string>
-  <string id="side_tasks_reward_dialog_question_task_cancel">
-    <text>Р”Р° РЅРёС‡РµРіРѕ, Р·Р°Р№РґСѓ РІ РґСЂСѓРіРѕР№ СЂР°Р·.</text>
-  </string>
-  <string id="side_tasks_reward_dialog_complete_task">
-    <text>РЇ РµРіРѕ РІС‹РїРѕР»РЅРёР».</text>
-  </string>
-  <string id="side_tasks_reward_dialog_reversed_task">
-    <text>РЇ РѕС‚РєР°Р·С‹РІР°СЋСЃСЊ РІС‹РїРѕР»РЅСЏС‚СЊ РµРіРѕ.</text>
-  </string>
-  <string id="side_tasks_reward_dialog_complete_task_ok_1">
-    <text>РћС‚Р»РёС‡РЅРѕ, Р° РІРѕС‚ Рё РЅР°РіСЂР°РґР°!</text>
-  </string>
-  <string id="side_tasks_reward_dialog_complete_task_ok_2">
-    <text>РџСЂРµРєСЂР°СЃРЅРѕ, Р° РІРѕС‚ Рё РІРѕР·РЅР°РіСЂР°Р¶РґРµРЅРёРµ!</text>
-  </string>
-  <string id="side_tasks_reward_dialog_complete_task_ok_3">
-    <text>РќСѓ, СЂР°Р· С‚Р°Рє, С‚Рѕ РґРµСЂР¶Рё Р·Р° РІС‹РїРѕР»РЅРµРЅРЅСѓСЋ СЂР°Р±РѕС‚Сѓ!</text>
-  </string>
-  <string id="side_tasks_reward_dialog_reversed_task_ok_1">
-    <text>Р–Р°Р»СЊ. РќСѓ, РґРµР»Рѕ С‚РІРѕС‘, РєРѕРЅРµС‡РЅРѕ.</text>
-  </string>
-  <string id="side_tasks_reward_dialog_reversed_task_ok_2">
-    <text>РќСѓ, РєР°Рє С…РѕС‡РµС€СЊ.</text>
-  </string>
-  <string id="side_tasks_reward_dialog_reversed_task_ok_3">
-    <text>РҐРѕР·СЏРёРЅ вЂ” Р±Р°СЂРёРЅ.</text>
-  </string>
-  <string id="side_tasks_type_find_artefact">
-    <text>РџРћРРЎРљ РђР РўР•Р¤РђРљРўРђ</text>
-  </string>
-  <string id="side_tasks_type_find_item">
-    <text>РџРћРРЎРљ РџР Р•Р”РњР•РўРђ</text>
-  </string>
-  <string id="side_tasks_type_find_uniq">
-    <text>РЈРќРРљРђР›Р¬РќР«Р™ РџР Р•Р”РњР•Рў</text>
-  </string>
-  <string id="side_tasks_type_kill_stalker">
-    <text>РЈР‘РР™РЎРўР’Рћ РќРђ Р—РђРљРђР—</text>
-  </string>
-  <string id="side_tasks_type_kill_stalkers">
-    <text>РЈР‘РР™РЎРўР’Рћ РќРђ Р—РђРљРђР—</text>
-  </string>
-  <string id="side_tasks_type_kill_monster">
-    <text>РЈР‘РР™РЎРўР’Рћ РњРЈРўРђРќРўРђ</text>
-  </string>
-  <string id="side_tasks_type_kill_monsters">
-    <text>Р—РђР§РРЎРўРљРђ Р›РћР“РћР’Рђ РњРЈРўРђРќРўРћР’</text>
-  </string>
-  <string id="side_tasks_type_monster_part">
-    <text>Р§РђРЎРўР¬ РўР•Р›Рђ РњРћРќРЎРўР Рђ</text>
-  </string>
+
+	<string id="side_tasks_dialog_start">
+		<text>Мне нужна работа. Есть что на примете?</text>
+	</string>
+
+	<string id="side_tasks_dialog_has_tasks_1">
+		<text>Кое-что имеется:</text>
+	</string>
+
+	<string id="side_tasks_dialog_has_tasks_2">
+		<text>Могу предложить следующее:</text>
+	</string>
+
+	<string id="side_tasks_dialog_has_tasks_3">
+		<text>Есть вот такая работёнка:</text>
+	</string>
+
+	<string id="side_tasks_dialog_has_tasks_back">
+		<text>Я передумал.</text>
+	</string>
+
+	<string id="side_tasks_dialog_hasnt_tasks_1">
+		<text>На данный момент работы нет.</text>
+	</string>
+
+	<string id="side_tasks_dialog_hasnt_tasks_2">
+		<text>Пока что ничего не могу предложить.</text>
+	</string>
+
+	<string id="side_tasks_dialog_hasnt_tasks_3">
+		<text>Сейчас никакой работы нет.</text>
+	</string>
+
+	<string id="side_tasks_dialog_hasnt_tasks_back">
+		<text>Зайду в другой раз.</text>
+	</string>
+
+	<string id="side_tasks_dialog_task_take">
+		<text>Я берусь.</text>
+	</string>
+
+	<string id="side_tasks_dialog_task_wont_take">
+		<text>Такая работа мне не интересна.</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_start">
+		<text>Я по поводу задания.</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_about_task">
+		<text>О каком задании идёт речь?</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_about_task_cancel">
+		<text>Зайду в другой раз.</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_question_task_1">
+		<text>Так, и что с этим заданием?</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_question_task_2">
+		<text>Внимательно слушаю.</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_question_task_3">
+		<text>Ну, выкладывай, что там с этим заданием.</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_question_task_cancel">
+		<text>Да ничего, зайду в другой раз.</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_complete_task">
+		<text>Я его выполнил.</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_reversed_task">
+		<text>Я отказываюсь выполнять его.</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_complete_task_ok_1">
+		<text>Отлично, а вот и награда!</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_complete_task_ok_2">
+		<text>Прекрасно, а вот и вознаграждение!</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_complete_task_ok_3">
+		<text>Ну, раз так, то держи за выполненную работу!</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_reversed_task_ok_1">
+		<text>Жаль. Ну, дело твоё, конечно.</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_reversed_task_ok_2">
+		<text>Ну, как хочешь.</text>
+	</string>
+
+	<string id="side_tasks_reward_dialog_reversed_task_ok_3">
+		<text>Хозяин — барин.</text>
+	</string>
+
+	<string id="side_tasks_type_find_artefact">
+		<text>ПОИСК АРТЕФАКТА</text>
+	</string>
+
+	<string id="side_tasks_type_find_item">
+		<text>ПОИСК ПРЕДМЕТА</text>
+	</string>
+
+	<string id="side_tasks_type_find_uniq">
+		<text>УНИКАЛЬНЫЙ ПРЕДМЕТ</text>
+	</string>
+
+	<string id="side_tasks_type_kill_stalker">
+		<text>УБИЙСТВО НА ЗАКАЗ</text>
+	</string>
+
+	<string id="side_tasks_type_kill_stalkers">
+		<text>УБИЙСТВО НА ЗАКАЗ</text>
+	</string>
+
+	<string id="side_tasks_type_kill_monster">
+		<text>УБИЙСТВО МУТАНТА</text>
+	</string>
+
+	<string id="side_tasks_type_kill_monsters">
+		<text>ЗАЧИСТКА ЛОГОВА МУТАНТОВ</text>
+	</string>
+
+	<string id="side_tasks_type_monster_part">
+		<text>ЧАСТЬ ТЕЛА МОНСТРА</text>
+	</string>
+
 </string_table>

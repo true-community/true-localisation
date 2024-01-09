@@ -1,33 +1,44 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_mkat_mercs_rupor_start_1">
-    <text>РЎР»СѓС…Р°Р№С‚Рµ СЃСЋРґРё, СЃС‚Р°Р»РєРµСЂ'С”!</text>
-  </string>
-  <string id="st_mkat_mercs_rupor_start_2">
-    <text>РҐРѕС‡РµС‚Рµ Р¶РёС‚Рё вЂ“ С€СѓРєР°Р№С‚Рµ Р·Р±СЂРѕСЋ С‚Р° РІР±РёРІР°Р№С‚Рµ РѕРґРёРЅ РѕРґРЅРѕРіРѕ.</text>
-  </string>
-  <string id="st_mkat_mercs_rupor_start_3">
-    <text>Р–РёРІРёРј С–Р· С†РёС… С‚СѓРЅРµР»С–РІ РІРёР№РґРµ Р»РёС€Рµ РѕРґРёРЅ!</text>
-  </string>
-  <string id="st_mkat_mercs_rupor_start_4">
-    <text>РЇРєС‰Рѕ С…С‚РѕСЃСЊ СЃРїСЂРѕР±СѓС” СЃС…РёС‚СЂСѓРІР°С‚Рё вЂ“ РѕС‚СЂРёРјР°С” РєСѓР»СЋ РІ Р»РѕР±.</text>
-  </string>
-  <string id="st_mkat_mercs_rupor_start_5">
-    <text>РњРё Р·Р° РІР°РјРё СЃРїРѕСЃС‚РµСЂС–РіР°С”РјРѕ!</text>
-  </string>
-  <string id="st_mkat_mercs_rupor_start_6">
-    <text>Р”Р°РІР°Р№С‚Рµ, РЅРµ РїС–РґРєР°С‡Р°Р№С‚Рµ С‚Р°Рј, Р±Рѕ СЃС‚Р°РІРєРё РЅР° РІР°СЃ СЃРµСЂР№РѕР·РЅС–!</text>
-  </string>
-  <string id="st_mkat_merc_leader_see_actor_start">
-    <text>Рђ С‚РµРїРµСЂ, Р»СЏРіР°РІРёР№,\nРїРѕРІС–Р»СЊРЅРѕ СЂРѕР·РІРµСЂРЅРёСЃСЏ.</text>
-  </string>
-  <string id="st_mkat_merc_leader_after_dialog_info_1">
-    <text>РќРµ Р±СѓРґСѓР№ РІРµР»РёРєРёС… РїР»Р°РЅС–РІ\nР° РјРѕС”СЋ СЃРїРёРЅРѕСЋ.</text>
-  </string>
-  <string id="st_mkat_merc_leader_after_dialog_info_2">
-    <text>РЈ С‚РµР±Рµ РІСЃРµ РѕРґРЅРѕ РЅС–С‡РѕРіРѕ РЅРµ РІРёР№РґРµ.</text>
-  </string>
-  <string id="st_mkat_merc_leader_actor_hit_angry">
-    <text>Р—Р° С†Рµ С‚Рё СЃРєРѕСЂРѕ РІС–РґРїРѕРІС–СЃРё!</text>
-  </string>
+
+	<string id="st_mkat_mercs_rupor_start_1">
+		<text>Слухайте сюди, сталкер'є!</text>
+	</string>
+
+	<string id="st_mkat_mercs_rupor_start_2">
+		<text>Хочете жити – шукайте зброю та вбивайте один одного.</text>
+	</string>
+
+	<string id="st_mkat_mercs_rupor_start_3">
+		<text>Живим із цих тунелів вийде лише один!</text>
+	</string>
+
+	<string id="st_mkat_mercs_rupor_start_4">
+		<text>Якщо хтось спробує схитрувати – отримає кулю в лоб.</text>
+	</string>
+
+	<string id="st_mkat_mercs_rupor_start_5">
+		<text>Ми за вами спостерігаємо!</text>
+	</string>
+
+	<string id="st_mkat_mercs_rupor_start_6">
+		<text>Давайте, не підкачайте там, бо ставки на вас серйозні!</text>
+	</string>
+
+	<string id="st_mkat_merc_leader_see_actor_start">
+		<text>А тепер, лягавий,\nповільно розвернися.</text>
+	</string>
+
+	<string id="st_mkat_merc_leader_after_dialog_info_1">
+		<text>Не будуй великих планів\nа моєю спиною.</text>
+	</string>
+
+	<string id="st_mkat_merc_leader_after_dialog_info_2">
+		<text>У тебе все одно нічого не вийде.</text>
+	</string>
+
+	<string id="st_mkat_merc_leader_actor_hit_angry">
+		<text>За це ти скоро відповіси!</text>
+	</string>
+
 </string_table>

@@ -1,486 +1,648 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_val_bandit_bookmaker_meet_bye_1">
-    <text>Р›СЋР±Р»СЋ, РєРѕРіРґР° РїРµСЂСЊСЏ\nРІ РІРѕР·РґСѓС…Рµ РєСЂСѓР¶Р°С‚СЃСЏ!</text>
-  </string>
-  <string id="st_val_bandit_bookmaker_meet_bye_2">
-    <text>Р’ РєСѓСЃРєРё РёС…, РІ РєСѓСЃРєРё!</text>
-  </string>
-  <string id="st_val_bandit_bookmaker_meet_bye_3">
-    <text>РћРЅРѕ РІСЃРµРіРґР° РєСЂСѓС‚Рѕ,\nРїР°РґР°Р»СЊС‰РёРєРѕРІ С‡РµСЂРЅРѕРєСЂС‹Р»С‹С… РїРѕРєСЂРѕРјСЃР°С‚СЊ!</text>
-  </string>
-  <string id="st_val_bandit_bookmaker_meet_greet_1">
-    <text>РќСѓ С‡С‘, РїРѕРґС‹СЂСЏРІРёРј РїС‚Р°С€РµРє?</text>
-  </string>
-  <string id="st_val_bandit_bookmaker_meet_greet_2">
-    <text>Р”Р°, Р±СѓРґРµС‚ СЃРµРіРѕРґРЅСЏ\nРЅР° РїР°СЂСѓ РІРѕСЂРѕРЅ РјРµРЅСЊС€Рµ!</text>
-  </string>
-  <string id="st_val_bandit_bookmaker_meet_greet_3">
-    <text>Р—Р°С…РѕРґРё РїРѕС€РјР°Р»СЏС‚СЊ, Р±СЂР°С‚РѕРє!</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_lose_1">
-    <text>РќРµ, РЅСѓ РёР· СЌС‚РѕРіРѕ РІР°С‰Рµ\nСЃС‚СЂРµР»РѕРє РЅРёРєР°РєРѕР№. РќРµ, РЅРёРєР°РєРѕР№, РІР°С‰Рµ...</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_lose_2">
-    <text>Р¤РёРіРЅСЏ-С„РёРіРЅС‘Р№!\nРЁРѕ РёРіСЂР°Р», С€Рѕ СЂР°РґРёРѕ СЃР»СѓС€Р°Р»!</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_lose_3">
-    <text>РќРµ, РЅСѓ, РјРѕР¶РµС‚,\nСѓ РЅРµРіРѕ СЂСѓРєРё СЃ РѕРїРѕС…РјРµР»Р° РґСЂРѕР¶Р°С‚.</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_prepare_1">
-    <text>РќСѓ С‡С‘, СЂРёСЃРєРЅСѓ.\nРџРѕСЃС‚Р°РІР»СЋ РЅР° РјСѓР¶РёРєР° РїРѕР»СЃРѕС‚РЅРё!</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_prepare_2">
-    <text>Р”Р° РЅСѓ РµРіРѕ РЅР°С….\nРЇ РЅР° СЌС‚РѕРіРѕ Р»РѕС…Р° СЃС‚Р°РІРёС‚СЊ РЅРµ Р±СѓРґСѓ!</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_prepare_3">
-    <text>Рћ, РїР°Р»СЊР±Р° РЅР°РјРµС‡Р°РµС‚СЃСЏ. Р©Р° РїРѕР·С‹СЂРёРј!</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_prepare_response_1">
-    <text>Р©Р° РіР»СЏРЅРµРј, РєР°Рє РѕРЅРѕ СЃС‚СЂРµР»СЏС‚СЊ Р±СѓРґРµС‚.</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_prepare_response_2">
-    <text>Рђ РЅРё С„РёРіР° РѕРЅ РЅРµ РЅР°СЃС‚СЂРµР»СЏРµС‚!</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_prepare_response_3">
-    <text>Р”Р° РІСЂРѕРґРµ\nРЅР° РЅРѕСЂРјР°Р»СЊРЅРѕРіРѕ РјСѓР¶РёРєР° С‚СЏРЅРµС‚.</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_shooting_1">
-    <text>Р”Р° РІРѕРЅ РѕРЅР° РїРѕР»РµС‚РµР»Р°!\nРўС‹ С‡С‘ С‚СѓРїРёС€СЊ?</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_shooting_2">
-    <text>Р”Р°РІР°Р№, РіР°СЃРё!</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_shooting_3">
-    <text>РўС‹ С‡С‘,\nРІР°С‰Рµ СЃС‚СЂРµР»СЏС‚СЊ РЅРµ СѓРјРµРµС€СЊ?</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_shooting_4">
-    <text>Р”Р°РІР°Р№, РјСѓР¶РёРє. РЇ РІ С‚РµР±СЏ РІРµСЂСЋ!</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_shooting_5">
-    <text>РџРѕ РєСЂС‹Р»СЊСЏРј, РїРѕ РєСЂС‹Р»СЊСЏРј Р±РµР№!</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_win_1">
-    <text>Р’РѕС‚ СЌС‚Рѕ РїР°С†Р°РЅ. Р’РѕС‚ СЌС‚Рѕ РІС‹РґР°Р»!</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_win_2">
-    <text>РќСѓ, РјСѓР¶РёРє... Р’ РЅР°С‚СѓСЂРµ СЃРЅР°Р№РїРµСЂ.</text>
-  </string>
-  <string id="st_val_bandit_minigame_comment_win_3">
-    <text>РўС‹ РІРёРґРµР», РєР°Рє РѕРЅ РёС… СЃРЅРёРјР°Р»?\nР’РѕС‚ СЌС‚Рѕ РєСЂСѓС‚СЊ!</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_gone_1">
-    <text>РњСѓР¶РёРє, С‚С‹ РєСѓРґР°?\nРўС‹ С‡С‘, Р±РѕР»СЊС€Рµ РёРіСЂР°С‚СЊ РЅРµ Р±СѓРґРµС€СЊ?</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_gone_2">
-    <text>Р­Р№, РјСѓР¶РёРє, РІРѕР·РІСЂР°С‰Р°Р№СЃСЏ. РўС‹ Р¶ РЅРѕСЂРјР°Р»СЊРЅРѕ РёРіСЂР°Р»!</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_gone_3">
-    <text>РњСѓР¶РёРє, РЅРµ СЃРІР°Р»РёРІР°Р№. РўРµР±Рµ Р¶ СѓР¶Рµ РїРѕРїС‘СЂР»Рѕ!</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_lose_1">
-    <text>РќСѓ, РЅРµ С„Р°СЂС‚ РїРѕРєР°. РџРѕРїСЂРѕР±СѓР№ РµС‰С‘.</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_lose_2">
-    <text>Р”Р°РІР°Р№ РµС‰С‘, РјСѓР¶РёРє.\nР©Р°СЃ С‚РѕС‡РЅРѕ РІС‹РёРіСЂР°РµС€СЊ!</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_lose_3">
-    <text>РќСѓ, С‚РёРїР°, Р±С‹РІР°РµС‚. Р”Р°РІР°Р№ РµС‰С‘ РїРѕРїСЂРѕР±СѓР№?</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_win_first_1">
-    <text>РќСѓ С‚С‹ РґР°С‘С€СЊ!\nРЎС‡РёС‚Р°Р№, РјРѕР№ СЂРµРєРѕСЂРґ РїРѕС…РµСЂРёР».</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_win_first_2">
-    <text>РќР° РІРѕС‚, РґРµСЂР¶Рё.</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_win_npc_1">
-    <text>РћРїР°, РґР° С‚С‹ РїРѕ РЅРѕРІРѕР№ С‡РµРјРїРёРѕРЅ!</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_win_npc_2">
-    <text>РќСѓ, Р·Р° РјРЅРѕР№ РЅРµ Р·Р°СЂР¶Р°РІРµРµС‚!</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_win_player_1">
-    <text>РњСѓР¶РёРє, РЅСѓ С‚С‹ РґР°С‘С€СЊ.\nРЎРІРѕР№ СЂРµРєРѕСЂРґ РїРѕР±РёР»!</text>
-  </string>
-  <string id="st_val_bandit_minigame_man_win_player_2">
-    <text>РќСѓ, РІСЃС‘. РќР°РіСЂР°РґР° С‚РІРѕСЏ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_actor_angry">
-    <text>РќСѓ РіРґРµ С‚РµР±СЏ РЅРѕСЃРёС‚, РјР»СЏ?</text>
-  </string>
-  <string id="st_val_bandit_desertir_bandit_alarm_message_1">
-    <text>Р­Р№, СЃС‚Р°Р»РєРµСЂ, С‚С‹ Р·РґРµСЃСЊ?</text>
-  </string>
-  <string id="st_val_bandit_desertir_bandit_alarm_message_2">
-    <text>Р‘СЂРѕСЃР°Р№ РІСЃС‘ Рё СЃСЂРѕС‡РЅРѕ РІРѕР·РІСЂР°С‰Р°Р№СЃСЏ. Р•СЃС‚СЊ РЅРµРѕС‚Р»РѕР¶РЅРѕРµ РґРµР»Рѕ!</text>
-  </string>
-  <string id="st_val_bandit_leader_katakomb_message_1">
-    <text>РўС‹ Р·СЂСЏ С‚Р°Рє РїРѕСЃС‚СѓРїРёР», СЃС‚Р°Р»РєРµСЂ.</text>
-  </string>
-  <string id="st_val_bandit_leader_katakomb_message_2">
-    <text>Р–РёРІС‹Рј С‚РµРїРµСЂСЊ С‚С‹ РѕС‚СЃСЋРґР° РЅРµ СѓР№РґС‘С€СЊ.</text>
-  </string>
-  <string id="st_val_bandit_desertir_blood">
-    <text>РќСѓ Рё РєСЂРѕРІРёС‰Рµ Р¶Рµ Р·РґРµСЃСЊ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_bye_1">
-    <text>РќСѓ, С‚С‹, СЌС‚Рѕ...\nР·Р°С…РѕРґРё, РµСЃР»Рё С‡С‘.</text>
-  </string>
-  <string id="st_val_bandit_desertir_bye_2">
-    <text>РќРµ РїСЂРѕРїР°РґС‘С€СЊ вЂ” СЃРІРёРґРёРјСЃСЏ.</text>
-  </string>
-  <string id="st_val_bandit_desertir_catch_up">
-    <text>Р’СЂРѕРґРµ С‚РёС…Рѕ.\nР”Р°РІР°Р№С‚Рµ Р·Р° РЅРёРј, РїР°С†Р°РЅС‹.</text>
-  </string>
-  <string id="st_val_bandit_desertir_check_all_1">
-    <text>РћСЃРјРѕС‚СЂРёРј РѕСЃС‚Р°Р»СЊРЅС‹С… Р¶РјСѓСЂРѕРІ.</text>
-  </string>
-  <string id="st_val_bandit_desertir_check_all_2">
-    <text>Р§С‚Рѕ Р¶ СЌС‚Рѕ Р·Р° РјРёСЃС‚РёРєР° С‚Р°РєР°СЏ?</text>
-  </string>
-  <string id="st_val_bandit_desertir_cold">
-    <text>РҐРѕР»РѕРґРѕРј РІРµРµС‚...</text>
-  </string>
-  <string id="st_val_bandit_desertir_danger">
-    <text>РћСЃС‚РѕСЂРѕР¶РЅРѕ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_death_treasure_1">
-    <text>[РєСЂРёРє РѕС‚ Р±РѕР»Рё]</text>
-  </string>
-  <string id="st_val_bandit_desertir_death_treasure_2">
-    <text>[РєСЂРёРє РѕС‚ Р±РѕР»Рё]</text>
-  </string>
-  <string id="st_val_bandit_desertir_disappointment">
-    <text>РўРІРѕСЋ Р¶ РјР°С‚СЊ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_dont_steps">
-    <text>РўРёС…Рѕ! РќР° С†С‹СЂР»Р°С…!</text>
-  </string>
-  <string id="st_val_bandit_desertir_final_relax_1">
-    <text>РќСѓ РЅРё С…РµСЂР° СЃРµР±Рµ С‚СѓС‚ Р·РІРµСЂСЊС‘, СЃСѓРєР°!</text>
-  </string>
-  <string id="st_val_bandit_desertir_final_relax_2">
-    <text>РќРѕ РЅР°СЃ С‚Р°Рє РїСЂРѕСЃС‚Рѕ РЅРµ РІРѕР·СЊРјС‘С€СЊ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_go_boom_lab_1">
-    <text>РРґРё,\nРІР·СЂС‹РІР°Р№ РІС…РѕРґ РІ Р»Р°Р±Сѓ Рё РґРѕРіРѕРЅСЏР№.</text>
-  </string>
-  <string id="st_val_bandit_desertir_go_boom_lab_2">
-    <text>Р”Р°РІР°Р№, РёРґРё РїРѕРґСЂС‹РІР°Р№ СѓР¶Рµ\nРІС…РѕРґ РІ Р»Р°Р±РѕСЂР°С‚РѕСЂРёСЋ Рё РїРѕРґС‚СЏРіРёРІР°Р№СЃСЏ.</text>
-  </string>
-  <string id="st_val_bandit_desertir_go_boom_lab_3">
-    <text>РџРѕРґРѕСЂРІРё СѓР¶Рµ\nС‡С‘СЂС‚РѕРІ РІС…РѕРґ, РїРѕС‚РѕРј РґРѕРіРѕРЅРёС€СЊ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_go_check_corpse_1">
-    <text>Р­Р№!</text>
-  </string>
-  <string id="st_val_bandit_desertir_go_check_corpse_2">
-    <text>РРґРё РїРѕСЃРјРѕС‚СЂРё РґР°Р»СЊРЅРµРіРѕ Р¶РјСѓСЂР°.\nРўРµР±Рµ Р±Р»РёР¶Рµ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_hello_1">
-    <text>РќСѓ, Р·РґРѕСЂРѕРІРѕ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_hello_2">
-    <text>РџСЂРёРІРµС‚РѕСЃ-Р°РјРёРіРѕСЃ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_hide_weapon_1">
-    <text>Р§С‘ С‚С‹ РіРѕРЅРёС€СЊ?</text>
-  </string>
-  <string id="st_val_bandit_desertir_hide_weapon_2">
-    <text>РќРµС‚ С‚Р°Рј РЅРёРєРѕРіРѕ. РЈР±РµСЂРё РІРѕР»С‹РЅСѓ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_is_not_polter_1">
-    <text>Р’СЂСЏРґ Р»Рё СЌС‚Рѕ РїРѕР»С‚РµСЂРіРµР№СЃС‚.</text>
-  </string>
-  <string id="st_val_bandit_desertir_is_not_polter_2">
-    <text>РќР°РґРѕ Р±С‹ РґР»СЏ РЅР°С‡Р°Р»Р°\nС‚СѓС‚ РІСЃС‘ РѕСЃРјРѕС‚СЂРµС‚СЊ.</text>
-  </string>
-  <string id="st_val_bandit_desertir_is_not_polter_3">
-    <text>РњР°СЃРѕР», РёРґРё РїРѕСЃРјРѕС‚СЂРё Р¶РјСѓСЂР°.</text>
-  </string>
-  <string id="st_val_bandit_desertir_is_not_polter_4">
-    <text>РќР°РґРѕ РїРѕРЅСЏС‚СЊ, РєР°Рє РёС… Р·Р°РјРѕС‡РёР»Рё РІСЃРµС….</text>
-  </string>
-  <string id="st_val_bandit_desertir_is_not_polter_5">
-    <text>РўРѕР»СЊРєРѕ... Р°РєРєСѓСЂР°С‚РЅРµРµ...</text>
-  </string>
-  <string id="st_val_bandit_desertir_little_space">
-    <text>Р”Р°РІР°Р№С‚Рµ РїРѕ РѕРґРЅРѕРјСѓ.\nРўСѓС‚ РЅРµ СЂР°Р·РІРµСЂРЅСѓС‚СЊСЃСЏ, Р±Р»РёРЅ.</text>
-  </string>
-  <string id="st_val_bandit_desertir_monster_death">
-    <text>Р”Р°РІР°Р№С‚Рµ РЅР°СЂСѓР¶Сѓ.\nРўР°Рј СѓР¶Рµ Рё РїРѕРіРѕРІРѕСЂРёРј!</text>
-  </string>
-  <string id="st_val_bandit_desertir_move_forward">
-    <text>Р”Р° РЅРµ СЃСЃС‹ С‚С‹.\nР”РІРёРіР°Р№ РґР°Р»СЊС€Рµ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_near">
-    <text>РџРѕС‡С‚Рё РїСЂРёС€Р»Рё.</text>
-  </string>
-  <string id="st_val_bandit_desertir_present_actor_1">
-    <text>РЇ РЅР°С€С‘Р»\nРµС‰С‘ РѕРґРЅРѕРіРѕ РґРѕР±СЂРѕРІРѕР»СЊС†Р°.</text>
-  </string>
-  <string id="st_val_bandit_desertir_present_actor_2">
-    <text>РћРЅ РёР· РѕРїС‹С‚РЅС‹С… СЃС‚Р°Р»РєРµСЂРѕРІ,</text>
-  </string>
-  <string id="st_val_bandit_desertir_present_actor_3">
-    <text>С‚Р°Рє С‡С‚Рѕ РµРіРѕ РїРѕРјРѕС‰СЊ\nРЅР°Рј РЅРµ РїРѕРјРµС€Р°РµС‚.</text>
-  </string>
-  <string id="st_val_bandit_desertir_present_actor_4">
-    <text>РќСѓ С‡С‘, РїРѕР№РґС‘Рј?</text>
-  </string>
-  <string id="st_val_bandit_desertir_psy_pain">
-    <text>Рђ-Р°, СЃСѓРєР°! Р“РѕР»РѕРІР°!</text>
-  </string>
-  <string id="st_val_bandit_desertir_robbery_1">
-    <text>Р”Р°РІР°Р№С‚Рµ, РїР°С†Р°РЅС‹!</text>
-  </string>
-  <string id="st_val_bandit_desertir_robbery_2">
-    <text>РџРѕ-Р±С‹СЃС‚СЂРѕРјСѓ СЃРіСЂРµР±Р°РµРј\nРІСЃС‘ СЃР°РјРѕРµ С†РµРЅРЅРѕРµ Рё Р»РёРЅСЏРµРј,</text>
-  </string>
-  <string id="st_val_bandit_desertir_robbery_3">
-    <text>Р° С‚Рѕ РµС‰С‘ СЌС‚Рё С‡СѓР±СЂРёРєРё РїСЂРѕСЃРЅСѓС‚СЃСЏ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_search_monster_1">
-    <text>Р›Р°РґРЅРѕ, Р±СѓРґСЊС‚Рµ Р°РєРєСѓСЂР°С‚РЅРµРµ.</text>
-  </string>
-  <string id="st_val_bandit_desertir_search_monster_2">
-    <text>РћСЃРјРѕС‚СЂРёРј РєР°Р¶РґС‹Р№ СѓРіРѕР».</text>
-  </string>
-  <string id="st_val_bandit_desertir_search_monster_3">
-    <text>Р•СЃР»Рё РєС‚Рѕ-С‚Рѕ РёР· РјСѓС‚Р°РЅС‚РѕРІ\nР·РґРµСЃСЊ Рё РѕР±РёС‚Р°РµС‚, РЅР°РґРѕ РµРіРѕ Р·Р°РІР°Р»РёС‚СЊ.</text>
-  </string>
-  <string id="st_val_bandit_desertir_see_monster">
-    <text>Р’РёР¶Сѓ РµС‘! РћРіРѕРЅСЊ, РѕРіРѕРЅСЊ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_silent_treasure">
-    <text>РўРёС…Рѕ! РЇ С‡С‚Рѕ-С‚Рѕ СЃР»С‹С€Р°Р».</text>
-  </string>
-  <string id="st_val_bandit_desertir_start_attack_treasure">
-    <text>РҐРµСЂР°С‡СЊ РёС…, РїР°С†Р°РЅС‹!</text>
-  </string>
-  <string id="st_val_bandit_desertir_start_squad">
-    <text>РќСѓ С‡С‘, РєР°Рє Сѓ РІР°СЃ С‚СѓС‚?</text>
-  </string>
-  <string id="st_val_bandit_desertir_surprised_treasure">
-    <text>РўРІРѕСЋ РјР°С‚СЊ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_teeth">
-    <text>РЎСѓРєР°, С‡С‚Рѕ Р¶ С‚Р°Рє Р·СѓР±С‹ СЃРІРѕРґРёС‚?..</text>
-  </string>
-  <string id="st_val_bandit_desertir_wait_actor">
-    <text>РЎРєР°Р·Р°Р», СЃРєРѕСЂРѕ РїСЂРёРґС‘С‚.\nРЇ СѓР¶Рµ РґРѕРіРѕРІРѕСЂРёР»СЃСЏ вЂ” РїРѕРєР° РїРѕРґРѕР¶РґС‘Рј.</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_check_corpse_1">
-    <text>Р•РјСѓ РїРѕС…РѕРґСѓ С€РµСЋ СЃРІРµСЂРЅСѓР»Рё!</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_check_corpse_2">
-    <text>РћРіРЅРµСЃС‚СЂРµР»Р° СЏ РЅРµ РІРёР¶Сѓ.</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_come_go">
-    <text>РџРѕРґС‚СЏРіРёРІР°Р№С‚РµСЃСЊ!</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_dread">
-    <text>РњР»СЏ. Р—Р°С‡РµРј РјС‹\nРІР°С‰Рµ СЃСЋРґР° СЃСѓРЅСѓР»РёСЃСЊ?</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_fear">
-    <text>РЎС‚СЂС‘РјРЅРѕ.</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_friend_1">
-    <text>Р“РѕСЃРїРѕРґРё! РўРѕР»СЏРЅ!</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_friend_2">
-    <text>Р­С…...</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_friend_treasure_reaction">
-    <text>РќСѓ РЅРё С…СЂРµРЅР° СЃРµР±Рµ Р·РґРµСЃСЊ РґРѕР±СЂР°!</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_go">
-    <text>Рђ С‡С‘ СЏР№С†Р° РїРµСЂРµРєР»Р°РґС‹РІР°С‚СЊ?\nРџРѕРіРЅР°Р»Рё!</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_lab_want_eat_1">
-    <text>РЃС…Р°РЅС‹Р№ Р±Р°Р±Р°Р№,\nР·Р°РјР°РЅР°Р»Рѕ СѓР¶Рµ РіРѕР»РѕРґРЅС‹Рј Р±РµРіР°С‚СЊ.</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_lab_want_eat_2">
-    <text>РҐР°РІР°С‚СЊ РѕС…РѕС‚Р°...</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_relax">
-    <text>Р”Р° С‚Р°Рј РѕРЅР°, РјР»СЏ Р±СѓРґСѓ!</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_see_monster_1">
-    <text>Рђ-Р°-Р°, С‚РІР°СЂСЊ!\nР’РѕРЅ РѕРЅР°, РІ СѓРіР»Сѓ!</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_see_monster_2">
-    <text>РЎРµР№С‡Р°СЃ СЏ С‚РµР±СЏ, РіРЅРёРґР°!</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_situation_1">
-    <text>Р”Р° РЅРёС‡С‘, РІСЃС‘ С‚РёС…Рѕ.</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_situation_2">
-    <text>РќРёРєС‚Рѕ РЅРµ РІС‹С…РѕРґРёР»,\nРЅРёРєС‚Рѕ РЅРµ Р·Р°С…РѕРґРёР».</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_situation_3">
-    <text>Р—Р°РјР°РЅР°Р»РёСЃСЊ СѓР¶Рµ\nСЃРёРґРµС‚СЊ С‚СѓС‚, С‘Р»С‹-РїР°Р»С‹!</text>
-  </string>
-  <string id="st_val_desertir_team_bandit_wait_actor">
-    <text>РќСѓ С‡С‘, РіРґРµ С‚Р°Рј РїСЏС‚С‹Р№?!</text>
-  </string>
-  <string id="st_val_bandit_leader_bye_1">
-    <text>Р’СЃС‘, С‡РµС€Рё РґР°РІР°Р№.</text>
-  </string>
-  <string id="st_val_bandit_leader_bye_2">
-    <text>РњРѕР¶РµС€СЊ РїСЂРѕРІР°Р»РёРІР°С‚СЊ.</text>
-  </string>
-  <string id="st_val_bandit_leader_bye_3">
-    <text>Р›Р°РґРЅРѕ, РІС‹РјРµС‚Р°Р№СЃСЏ РґР°РІР°Р№.</text>
-  </string>
-  <string id="st_val_bandit_leader_hello_1">
-    <text>РўС‹ С‡С‘ Р·Р°Р±С‹Р» Р·РґРµСЃСЊ, СЃС‚Р°Р»РєРµСЂРѕРє?</text>
-  </string>
-  <string id="st_val_bandit_leader_hello_2">
-    <text>Р‘Р°Р»Р°Р±РѕРЅСЊ Р±С‹СЃС‚СЂРµР№, С‡С‘ РЅР°РґРѕ?</text>
-  </string>
-  <string id="st_val_bandit_leader_hello_3">
-    <text>РќСѓ, С‡С‘ С‚РµР±Рµ?</text>
-  </string>
-  <string id="st_val_bandit_leader_threat_1">
-    <text>Р•С‰С‘ СЂР°Р·\nСЃ С‚Р°РєРёРјРё РЅР°РµР·РґР°РјРё Р·РґРµСЃСЊ РїРѕСЏРІРёС€СЊСЃСЏ вЂ”</text>
-  </string>
-  <string id="st_val_bandit_leader_threat_2">
-    <text>Р±Р°С€РєСѓ С‚РµР±Рµ СЂР°СЃС€РёР±Сѓ, С„СЂР°РµСЂ!</text>
-  </string>
-  <string id="st_val_bandit_leader_treasure_angry_1">
-    <text>РљРѕСЂРѕС‡Рµ, С‰Р°СЃ РїРѕР№РґС‘Рј\nРё РїРѕРєР°Р¶РµРј СЌС‚РёРј РєСЂС‹СЃР°Рј,</text>
-  </string>
-  <string id="st_val_bandit_leader_treasure_angry_2">
-    <text>РєР°Рє С‡СѓР¶РѕРµ С…Р°РїР°С‚СЊ. РЈСЂРѕРµРј СѓР±Р»СЋРґРєРѕРІ!</text>
-  </string>
-  <string id="st_val_bandit_trader_meet_bye_1">
-    <text>РќРµС‚ С…Р°Р±Р°СЂР° вЂ” РЅРµС‚ Р±Р°Р·Р°СЂР°.</text>
-  </string>
-  <string id="st_val_bandit_trader_meet_bye_2">
-    <text>РћС‚РєСѓРґР° РІРѕС‚ С‚С‹\nС‚Р°РєСѓСЋ Р±РѕС‚РІСѓ С‚Р°СЃРєР°РµС€СЊ?</text>
-  </string>
-  <string id="st_val_bandit_trader_meet_bye_3">
-    <text>РќСѓ РІРѕС‚. РќРµС…РёР»Рѕ РїРѕР±Р°СЂС‹Р¶РёР».</text>
-  </string>
-  <string id="st_val_bandit_trader_meet_greet_1">
-    <text>Р—Р°С…РѕРґРё вЂ” РЅРµ Р±РѕР№СЃСЏ, РІС‹С…РѕРґРё вЂ” РЅРµ РїР»Р°С‡СЊ.</text>
-  </string>
-  <string id="st_val_bandit_trader_meet_greet_2">
-    <text>РќСѓ, С‡С‚Рѕ Р¶Рµ С‚С‹ СЃРЅРѕРІР°\nРїСЂРёРІРѕР»РѕРє, РєР°СЃР°С‚РёРє? РџРѕРєР°Р·С‹РІР°Р№.</text>
-  </string>
-  <string id="st_val_bandit_trader_meet_greet_3">
-    <text>Р•СЃС‚СЊ С…Р°Р±Р°СЂ вЂ” РїРѕР№РґС‘С‚ Р±Р°Р·Р°СЂ.</text>
-  </string>
-  <string id="st_val_bandits_garbage_actor_actor_fear">
-    <text>РџР°С†Р°РЅ, С‚С‹ С‡С‘, РїРµСЂРµСЃС‚СЂРµРјР°Р»СЃСЏ?</text>
-  </string>
-  <string id="st_val_bandits_garbage_actor_come_go">
-    <text>РќСѓ С‡С‘ С‚С‹ РјРѕСЂРѕР·РёС€СЊСЃСЏ? РџРѕРґС…РѕРґРё РґР°РІР°Р№!</text>
-  </string>
-  <string id="st_val_bandits_garbage_actor_complete_stop">
-    <text>РњРѕР»РѕРґС†Р°, Рё РЅРµ РґС‘СЂРіР°Р№СЃСЏ!</text>
-  </string>
-  <string id="st_val_bandits_garbage_actor_relax">
-    <text>Р’СЃС‘, РїСЂРѕС…РѕРґРё, РЅРµ Р·Р°РґРµСЂР¶РёРІР°Р№СЃСЏ.</text>
-  </string>
-  <string id="st_val_bandits_garbage_actor_wait_stay_1">
-    <text>Рђ РЅСѓ РїРѕСЃС‚РѕР№ С‚СѓС‚, Р±СЂР°С‚РёС€РєР°!</text>
-  </string>
-  <string id="st_val_bandits_garbage_actor_wait_stay_2">
-    <text>РўРѕР»СЊРєРѕ С‚Р°Рє, С‡С‚РѕР±С‹ СЏ\nС‚РІРѕРё РіСЂР°Р±Р»Рё РІРёРґРµР»!</text>
-  </string>
-  <string id="st_val_stalker_base_gauss">
-    <text>РЎР»С‹С€СЊ, Р±СЂР°С‚РµР»Р»Рѕ, РїРѕРґРѕР№РґРё-РєР°. РЈ РјРµРЅСЏ РґРµР»РѕРІРѕРµ РїСЂРµРґР»РѕР¶РµРЅРёРµ!</text>
-  </string>
-  <string id="st_val_monster_labx18_danger">
-    <text>Р›СѓС‡С€Рµ РЅРµ РґРµР»Р°Р№ СЌС‚РѕРіРѕ...</text>
-  </string>
-  <string id="st_val_stalker_prisoner_need_help_see_actor">
-    <text>РЎС‚Р°Р»РєРµСЂ, РїРѕРјРѕРіРё! РњРµРЅСЏ РїРѕСЂРµС€Р°С‚ СЃРєРѕСЂРѕ!</text>
-  </string>
-  <string id="st_val_stalker_prisoner_need_help_pult_info_1">
-    <text>РњСѓР¶РёРє, РїРѕРјРѕРіРё РјРЅРµ! </text>
-  </string>
-  <string id="st_val_stalker_prisoner_need_help_pult_info_2">
-    <text>Р’С‹С‚Р°С‰Рё РјРµРЅСЏ РѕС‚СЃСЋРґР°!</text>
-  </string>
-  <string id="st_val_stalker_prisoner_need_help_pult_info_3">
-    <text>РџСѓР»СЊС‚ СѓРїСЂР°РІР»РµРЅРёСЏ\nРЅР°С…РѕРґРёС‚СЃСЏ РЅР° СЃС‚РµРЅРµ.</text>
-  </string>
-  <string id="st_val_stalker_prisoner_help_thanx">
-    <text>РЎРїР°СЃРёР±Рѕ, РјСѓР¶РёРє. РЇ С‚РІРѕР№ РґРѕР»Р¶РЅРёРє.</text>
-  </string>
-  <string id="st_val_stalker_prisoner_help_final">
-    <text>Р”СЂСѓР¶РёС‰Рµ, Р±СѓРґРµС€СЊ РІ Р‘Р°СЂРµ вЂ”\nРЅР°Р№РґРё РјРµРЅСЏ. РћР±СЏР·Р°С‚РµР»СЊРЅРѕ!</text>
-  </string>
-  <string id="st_val_stalker_prisoner_hello_1">
-    <text>РџСЂРёРІРµС‚СЃС‚РІСѓСЋ.</text>
-  </string>
-  <string id="st_val_stalker_prisoner_hello_2">
-    <text>Р Р°Рґ С‚РµР±СЏ РІРёРґРµС‚СЊ.</text>
-  </string>
-  <string id="st_val_stalker_prisoner_hello_3">
-    <text>РќСѓ, РІС‹РєР»Р°РґС‹РІР°Р№.</text>
-  </string>
-  <string id="st_val_stalker_prisoner_bye_1">
-    <text>РЈРґР°С‡Рё С‚РµР±Рµ, СЃС‚Р°Р»РєРµСЂ.</text>
-  </string>
-  <string id="st_val_stalker_prisoner_bye_2">
-    <text>Р‘С‹РІР°Р№, РјСѓР¶РёРє.</text>
-  </string>
-  <string id="st_val_stalker_prisoner_bye_3">
-    <text>Р”Рѕ РІСЃС‚СЂРµС‡Рё.</text>
-  </string>
-  <string id="st_val_bandits_base_passage_1_treasure_scene_attack">
-    <text>РђРјР±РµС† РІР°Рј, РїР°РґР»С‹!</text>
-  </string>
-  <string id="st_val_bandits_base_passage_2_treasure_scene_attack">
-    <text>Р’Р°Р»Рё РїРµС‚СѓС…РѕРІ!</text>
-  </string>
-  <string id="st_val_bandit_desertir_dynamite_compl_1">
-    <text>РўС‹ С‚Р°Рј Р·Р°РєРѕРЅС‡РёР» СЃ РїРѕРґСЂС‹РІРѕРј?</text>
-  </string>
-  <string id="st_val_bandit_desertir_dynamite_compl_2">
-    <text>Р§РµС€Рё РЅР° РјРµСЃС‚Рѕ СЃР±РѕСЂР°, СЏ С‚РµР±Рµ РѕС‚РјРµС‚РёР» РЅР° РєР°СЂС‚Рµ.</text>
-  </string>
-  <string id="st_val_scientist_good_message_1">
-    <text>РЎС‚Р°Р»РєРµСЂ, СЃРїР°СЃРёР±Рѕ Р·Р° СЂР°Р±РѕС‚Сѓ.</text>
-  </string>
-  <string id="st_val_scientist_good_message_2">
-    <text>Р•СЃР»Рё С‡С‚Рѕ, СЃРјРѕР¶РµС‚Рµ РЅР°Р№С‚Рё РјРµРЅСЏ РЅР° РЅР°С€РµР№ Р±Р°Р·Рµ РЅР° В«РђРіСЂРѕРїСЂРѕРјРµВ».</text>
-  </string>
-  <string id="st_val_scientist_bad_message_1">
-    <text>РњРѕР»РѕРґРѕР№ С‡РµР»РѕРІРµРє, СЏ РІРёР¶Сѓ, РІР°Рј РЅРµ РґРѕ РјРѕРµР№ Р·Р°РґР°С‡Рё.</text>
-  </string>
-  <string id="st_val_scientist_bad_message_2">
-    <text>РџСЂРёР±РѕСЂ, РєРѕС‚РѕСЂС‹Р№ РІС‹ СѓРЅРµСЃР»Рё, СЃС‚РѕРёС‚ Р±РѕР»СЊС€РёС… РґРµРЅРµРі.</text>
-  </string>
-  <string id="st_val_scientist_bad_message_3">
-    <text>РџСЂРё РІРѕР·РјРѕР¶РЅРѕСЃС‚Рё РІР°Рј РїСЂРёРґС‘С‚СЃСЏ РїСЂРёРЅРµСЃС‚Рё РµРіРѕ РЅР° РЅР°С€Сѓ Р±Р°Р·Сѓ РЅР° В«РђРіСЂРѕРїСЂРѕРјРµВ».</text>
-  </string>
-  <string id="st_val_scientist_bad_message_4">
-    <text>Р’ РїСЂРѕС‚РёРІРЅРѕРј СЃР»СѓС‡Р°Рµ РІР°С€Р° СЂРµРїСѓС‚Р°С†РёСЏ РїРѕСЃС‚СЂР°РґР°РµС‚.</text>
-  </string>
-  <string id="st_val_scientist_bad_message_5">
-    <text>РЈСЃРїРµС…РѕРІ!</text>
-  </string>
-  <string id="st_val_actor_case_with_stones_reaction">
-    <text>Р‘Р»РёРЅ... Р’РѕС‚ Р¶Рµ СЃСѓРєРё!!!</text>
-  </string>
-  <string id="st_val_composer_task_stalker_leader_see_actor">
-    <text>Р­Р№, СЃС‚Р°Р»РєРµСЂ, РЅРµ СЂС‹РїР°Р№СЃСЏ, С‚С‹ РЅР° РјСѓС€РєРµ. РџРѕРґС…РѕРґРё, РїРѕРѕР±С‰Р°РµРјСЃСЏ.</text>
-  </string>
-  <string id="st_val_composer_task_stalker_follower_kill_actor">
-    <text>РќСѓ, РїСЂРѕС‰Р°Р№, СЃС‚Р°Р»РєРµСЂ!</text>
-  </string>
-  <string id="st_val_composer_task_bandit_savior_hello_1">
-    <text>РЎР»С‹С€СЊ, СЌС‚ СЃР°РјРѕРµ, СЃРїСЏС‰Р°СЏ РєСЂР°СЃР°РІРёС†Р°.</text>
-  </string>
-  <string id="st_val_composer_task_bandit_savior_hello_2">
-    <text>Р“Р»Р°Р·РєРё-С‚Рѕ РѕС‚РєСЂРѕР№, С†РµР»РѕРІР°С‚СЊ РІСЃС‘ СЂР°РІРЅРѕ РЅРµ Р±СѓРґСѓ.</text>
-  </string>
-  <string id="st_val_stalker_technic_friend_sos">
-    <text>Р§С‘СЂС‚, Р·РѕРјР±Рё РїСЂСѓС‚ СЃРѕ РІСЃРµС… СЃС‚РѕСЂРѕРЅ!</text>
-  </string>
+
+	<string id="st_val_bandit_bookmaker_meet_bye_1">
+		<text>Люблю, когда перья\nв воздухе кружатся!</text>
+	</string>
+
+	<string id="st_val_bandit_bookmaker_meet_bye_2">
+		<text>В куски их, в куски!</text>
+	</string>
+
+	<string id="st_val_bandit_bookmaker_meet_bye_3">
+		<text>Оно всегда круто,\nпадальщиков чернокрылых покромсать!</text>
+	</string>
+
+	<string id="st_val_bandit_bookmaker_meet_greet_1">
+		<text>Ну чё, подырявим пташек?</text>
+	</string>
+
+	<string id="st_val_bandit_bookmaker_meet_greet_2">
+		<text>Да, будет сегодня\nна пару ворон меньше!</text>
+	</string>
+
+	<string id="st_val_bandit_bookmaker_meet_greet_3">
+		<text>Заходи пошмалять, браток!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_lose_1">
+		<text>Не, ну из этого ваще\nстрелок никакой. Не, никакой, ваще...</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_lose_2">
+		<text>Фигня-фигнёй!\nШо играл, шо радио слушал!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_lose_3">
+		<text>Не, ну, может,\nу него руки с опохмела дрожат.</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_prepare_1">
+		<text>Ну чё, рискну.\nПоставлю на мужика полсотни!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_prepare_2">
+		<text>Да ну его нах.\nЯ на этого лоха ставить не буду!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_prepare_3">
+		<text>О, пальба намечается. Ща позырим!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_prepare_response_1">
+		<text>Ща глянем, как оно стрелять будет.</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_prepare_response_2">
+		<text>А ни фига он не настреляет!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_prepare_response_3">
+		<text>Да вроде\nна нормального мужика тянет.</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_shooting_1">
+		<text>Да вон она полетела!\nТы чё тупишь?</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_shooting_2">
+		<text>Давай, гаси!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_shooting_3">
+		<text>Ты чё,\nваще стрелять не умеешь?</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_shooting_4">
+		<text>Давай, мужик. Я в тебя верю!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_shooting_5">
+		<text>По крыльям, по крыльям бей!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_win_1">
+		<text>Вот это пацан. Вот это выдал!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_win_2">
+		<text>Ну, мужик... В натуре снайпер.</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_comment_win_3">
+		<text>Ты видел, как он их снимал?\nВот это круть!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_gone_1">
+		<text>Мужик, ты куда?\nТы чё, больше играть не будешь?</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_gone_2">
+		<text>Эй, мужик, возвращайся. Ты ж нормально играл!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_gone_3">
+		<text>Мужик, не сваливай. Тебе ж уже попёрло!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_lose_1">
+		<text>Ну, не фарт пока. Попробуй ещё.</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_lose_2">
+		<text>Давай ещё, мужик.\nЩас точно выиграешь!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_lose_3">
+		<text>Ну, типа, бывает. Давай ещё попробуй?</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_win_first_1">
+		<text>Ну ты даёшь!\nСчитай, мой рекорд похерил.</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_win_first_2">
+		<text>На вот, держи.</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_win_npc_1">
+		<text>Опа, да ты по новой чемпион!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_win_npc_2">
+		<text>Ну, за мной не заржавеет!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_win_player_1">
+		<text>Мужик, ну ты даёшь.\nСвой рекорд побил!</text>
+	</string>
+
+	<string id="st_val_bandit_minigame_man_win_player_2">
+		<text>Ну, всё. Награда твоя!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_actor_angry">
+		<text>Ну где тебя носит, мля?</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_bandit_alarm_message_1">
+		<text>Эй, сталкер, ты здесь?</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_bandit_alarm_message_2">
+		<text>Бросай всё и срочно возвращайся. Есть неотложное дело!</text>
+	</string>
+
+	<string id="st_val_bandit_leader_katakomb_message_1">
+		<text>Ты зря так поступил, сталкер.</text>
+	</string>
+
+	<string id="st_val_bandit_leader_katakomb_message_2">
+		<text>Живым теперь ты отсюда не уйдёшь.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_blood">
+		<text>Ну и кровище же здесь!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_bye_1">
+		<text>Ну, ты, это...\nзаходи, если чё.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_bye_2">
+		<text>Не пропадёшь — свидимся.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_catch_up">
+		<text>Вроде тихо.\nДавайте за ним, пацаны.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_check_all_1">
+		<text>Осмотрим остальных жмуров.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_check_all_2">
+		<text>Что ж это за мистика такая?</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_cold">
+		<text>Холодом веет...</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_danger">
+		<text>Осторожно!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_death_treasure_1">
+		<text>[крик от боли]</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_death_treasure_2">
+		<text>[крик от боли]</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_disappointment">
+		<text>Твою ж мать!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_dont_steps">
+		<text>Тихо! На цырлах!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_final_relax_1">
+		<text>Ну ни хера себе тут зверьё, сука!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_final_relax_2">
+		<text>Но нас так просто не возьмёшь!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_go_boom_lab_1">
+		<text>Иди,\nвзрывай вход в лабу и догоняй.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_go_boom_lab_2">
+		<text>Давай, иди подрывай уже\nвход в лабораторию и подтягивайся.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_go_boom_lab_3">
+		<text>Подорви уже\nчёртов вход, потом догонишь!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_go_check_corpse_1">
+		<text>Эй!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_go_check_corpse_2">
+		<text>Иди посмотри дальнего жмура.\nТебе ближе!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_hello_1">
+		<text>Ну, здорово!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_hello_2">
+		<text>Приветос-амигос!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_hide_weapon_1">
+		<text>Чё ты гонишь?</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_hide_weapon_2">
+		<text>Нет там никого. Убери волыну!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_is_not_polter_1">
+		<text>Вряд ли это полтергейст.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_is_not_polter_2">
+		<text>Надо бы для начала\nтут всё осмотреть.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_is_not_polter_3">
+		<text>Масол, иди посмотри жмура.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_is_not_polter_4">
+		<text>Надо понять, как их замочили всех.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_is_not_polter_5">
+		<text>Только... аккуратнее...</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_little_space">
+		<text>Давайте по одному.\nТут не развернуться, блин.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_monster_death">
+		<text>Давайте наружу.\nТам уже и поговорим!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_move_forward">
+		<text>Да не ссы ты.\nДвигай дальше!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_near">
+		<text>Почти пришли.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_present_actor_1">
+		<text>Я нашёл\nещё одного добровольца.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_present_actor_2">
+		<text>Он из опытных сталкеров,</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_present_actor_3">
+		<text>так что его помощь\nнам не помешает.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_present_actor_4">
+		<text>Ну чё, пойдём?</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_psy_pain">
+		<text>А-а, сука! Голова!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_robbery_1">
+		<text>Давайте, пацаны!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_robbery_2">
+		<text>По-быстрому сгребаем\nвсё самое ценное и линяем,</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_robbery_3">
+		<text>а то ещё эти чубрики проснутся!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_search_monster_1">
+		<text>Ладно, будьте аккуратнее.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_search_monster_2">
+		<text>Осмотрим каждый угол.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_search_monster_3">
+		<text>Если кто-то из мутантов\nздесь и обитает, надо его завалить.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_see_monster">
+		<text>Вижу её! Огонь, огонь!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_silent_treasure">
+		<text>Тихо! Я что-то слышал.</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_start_attack_treasure">
+		<text>Херачь их, пацаны!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_start_squad">
+		<text>Ну чё, как у вас тут?</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_surprised_treasure">
+		<text>Твою мать!</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_teeth">
+		<text>Сука, что ж так зубы сводит?..</text>
+	</string>
+
+	<string id="st_val_bandit_desertir_wait_actor">
+		<text>Сказал, скоро придёт.\nЯ уже договорился — пока подождём.</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_check_corpse_1">
+		<text>Ему походу шею свернули!</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_check_corpse_2">
+		<text>Огнестрела я не вижу.</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_come_go">
+		<text>Подтягивайтесь!</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_dread">
+		<text>Мля. Зачем мы\nваще сюда сунулись?</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_fear">
+		<text>Стрёмно.</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_friend_1">
+		<text>Господи! Толян!</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_friend_2">
+		<text>Эх...</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_friend_treasure_reaction">
+		<text>Ну ни хрена себе здесь добра!</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_go">
+		<text>А чё яйца перекладывать?\nПогнали!</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_lab_want_eat_1">
+		<text>Ёханый бабай,\nзаманало уже голодным бегать.</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_lab_want_eat_2">
+		<text>Хавать охота...</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_relax">
+		<text>Да там она, мля буду!</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_see_monster_1">
+		<text>А-а-а, тварь!\nВон она, в углу!</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_see_monster_2">
+		<text>Сейчас я тебя, гнида!</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_situation_1">
+		<text>Да ничё, всё тихо.</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_situation_2">
+		<text>Никто не выходил,\nникто не заходил.</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_situation_3">
+		<text>Заманались уже\nсидеть тут, ёлы-палы!</text>
+	</string>
+
+	<string id="st_val_desertir_team_bandit_wait_actor">
+		<text>Ну чё, где там пятый?!</text>
+	</string>
+
+	<string id="st_val_bandit_leader_bye_1">
+		<text>Всё, чеши давай.</text>
+	</string>
+
+	<string id="st_val_bandit_leader_bye_2">
+		<text>Можешь проваливать.</text>
+	</string>
+
+	<string id="st_val_bandit_leader_bye_3">
+		<text>Ладно, выметайся давай.</text>
+	</string>
+
+	<string id="st_val_bandit_leader_hello_1">
+		<text>Ты чё забыл здесь, сталкерок?</text>
+	</string>
+
+	<string id="st_val_bandit_leader_hello_2">
+		<text>Балабонь быстрей, чё надо?</text>
+	</string>
+
+	<string id="st_val_bandit_leader_hello_3">
+		<text>Ну, чё тебе?</text>
+	</string>
+
+	<string id="st_val_bandit_leader_threat_1">
+		<text>Ещё раз\nс такими наездами здесь появишься —</text>
+	</string>
+
+	<string id="st_val_bandit_leader_threat_2">
+		<text>башку тебе расшибу, фраер!</text>
+	</string>
+
+	<string id="st_val_bandit_leader_treasure_angry_1">
+		<text>Короче, щас пойдём\nи покажем этим крысам,</text>
+	</string>
+
+	<string id="st_val_bandit_leader_treasure_angry_2">
+		<text>как чужое хапать. Уроем ублюдков!</text>
+	</string>
+
+	<string id="st_val_bandit_trader_meet_bye_1">
+		<text>Нет хабара - нет базара.</text>
+	</string>
+
+	<string id="st_val_bandit_trader_meet_bye_2">
+		<text>Откуда вот ты\nтакую ботву таскаешь?</text>
+	</string>
+
+	<string id="st_val_bandit_trader_meet_bye_3">
+		<text>Ну вот. Нехило побарыжил.</text>
+	</string>
+
+	<string id="st_val_bandit_trader_meet_greet_1">
+		<text>Заходи — не бойся, выходи — не плачь.</text>
+	</string>
+
+	<string id="st_val_bandit_trader_meet_greet_2">
+		<text>Ну, что же ты снова\nприволок, касатик? Показывай.</text>
+	</string>
+
+	<string id="st_val_bandit_trader_meet_greet_3">
+		<text>Есть хабар — пойдёт базар.</text>
+	</string>
+
+	<string id="st_val_bandits_garbage_actor_actor_fear">
+		<text>Пацан, ты чё, перестремался?</text>
+	</string>
+	
+	<string id="st_val_bandits_garbage_actor_come_go">
+		<text>Ну чё ты морозишься? Подходи давай!</text>
+	</string>
+	
+	<string id="st_val_bandits_garbage_actor_complete_stop">
+		<text>Молодца, и не дёргайся!</text>
+	</string>
+	
+	<string id="st_val_bandits_garbage_actor_relax">
+		<text>Всё, проходи, не задерживайся.</text>
+	</string>
+	
+	<string id="st_val_bandits_garbage_actor_wait_stay_1">
+		<text>А ну постой тут, братишка!</text>
+	</string>
+	
+	<string id="st_val_bandits_garbage_actor_wait_stay_2">
+		<text>Только так, чтобы я\nтвои грабли видел!</text>
+	</string>
+	
+	<string id="st_val_stalker_base_gauss">
+		<text>Слышь, брателло, подойди-ка. У меня деловое предложение!</text>
+	</string>
+	
+	<string id="st_val_monster_labx18_danger">
+		<text>Лучше не делай этого...</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_need_help_see_actor">
+		<text>Сталкер, помоги! Меня порешат скоро!</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_need_help_pult_info_1">
+		<text>Мужик, помоги мне! </text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_need_help_pult_info_2">
+		<text>Вытащи меня отсюда!</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_need_help_pult_info_3">
+		<text>Пульт управления\nнаходится на стене.</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_help_thanx">
+		<text>Спасибо, мужик. Я твой должник.</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_help_final">
+		<text>Дружище, будешь в Баре —\nнайди меня. Обязательно!</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_hello_1">
+		<text>Приветствую.</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_hello_2">
+		<text>Рад тебя видеть.</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_hello_3">
+		<text>Ну, выкладывай.</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_bye_1">
+		<text>Удачи тебе, сталкер.</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_bye_2">
+		<text>Бывай, мужик.</text>
+	</string>
+	
+	<string id="st_val_stalker_prisoner_bye_3">
+		<text>До встречи.</text>
+	</string>
+	
+	<string id="st_val_bandits_base_passage_1_treasure_scene_attack">
+		<text>Амбец вам, падлы!</text>
+	</string>
+	
+	<string id="st_val_bandits_base_passage_2_treasure_scene_attack">
+		<text>Вали петухов!</text>
+	</string>
+	
+	<string id="st_val_bandit_desertir_dynamite_compl_1">
+		<text>Ты там закончил с подрывом?</text>
+	</string>
+	
+	<string id="st_val_bandit_desertir_dynamite_compl_2">
+		<text>Чеши на место сбора, я тебе отметил на карте.</text>
+	</string>
+	
+	<string id="st_val_scientist_good_message_1">
+		<text>Сталкер, спасибо за работу.</text>
+	</string>
+	
+	<string id="st_val_scientist_good_message_2">
+		<text>Если что, сможете найти меня на нашей базе на «Агропроме».</text>
+	</string>
+	
+	<string id="st_val_scientist_bad_message_1">
+		<text>Молодой человек, я вижу, вам не до моей задачи.</text>
+	</string>
+	
+	<string id="st_val_scientist_bad_message_2">
+		<text>Прибор, который вы унесли, стоит больших денег.</text>
+	</string>
+	
+	<string id="st_val_scientist_bad_message_3">
+		<text>При возможности вам придётся принести его на нашу базу на «Агропроме».</text>
+	</string>
+	
+	<string id="st_val_scientist_bad_message_4">
+		<text>В противном случае ваша репутация пострадает.</text>
+	</string>
+	
+	<string id="st_val_scientist_bad_message_5">
+		<text>Успехов!</text>
+	</string>
+	
+	<string id="st_val_actor_case_with_stones_reaction">
+		<text>Блин... Вот же суки!!!</text>
+	</string>
+
+	<string id="st_val_composer_task_stalker_leader_see_actor">
+		<text>Эй, сталкер, не рыпайся, ты на мушке. Подходи, пообщаемся.</text>
+	</string>
+
+	<string id="st_val_composer_task_stalker_follower_kill_actor">
+		<text>Ну, прощай, сталкер!</text>
+	</string>
+
+	<string id="st_val_composer_task_bandit_savior_hello_1">
+		<text>Слышь, эт самое, спящая красавица.</text>
+	</string>
+
+	<string id="st_val_composer_task_bandit_savior_hello_2">
+		<text>Глазки-то открой, целовать всё равно не буду.</text>
+	</string>
+
+	<string id="st_val_stalker_technic_friend_sos">
+		<text>Чёрт, зомби прут со всех сторон!</text>
+	</string>
+
 </string_table>

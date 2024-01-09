@@ -1,314 +1,440 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="val_monster_factory_quest">
-    <text>Р§РћР РўР†Р’РќРЇ РќРђ Р—РђР’РћР”Р†</text>
-  </string>
-  <string id="val_monster_factory_quest_follow_the_bandit_desertir_name">
-    <text>РЎР»С–РґСѓРІР°С‚Рё Р·Р° РўСЂСѓС…Р»СЏС”Рј</text>
-  </string>
-  <string id="val_monster_factory_quest_follow_the_bandit_desertir_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ СЃР»С–РґСѓРІР°С‚Рё Р·Р° РўСЂСѓС…Р»СЏС”Рј РЅР° РјС–СЃС†Рµ Р·СѓСЃС‚СЂС–С‡С–.</text>
-  </string>
-  <string id="val_monster_factory_quest_follow_the_bandit_desertir_two_name">
-    <text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ Р· РўСЂСѓС…Р»СЏС”Рј Сѓ РІС–Р»СЊРЅРёР№ С‡Р°СЃ</text>
-  </string>
-  <string id="val_monster_factory_quest_follow_the_bandit_desertir_two_text">
-    <text>РЇ РѕР±С–С†СЏРІ СЃРєР»Р°СЃС‚Рё РєРѕРјРїР°РЅС–СЋ РўСЂСѓС…Р»СЏСЋ РґР»СЏ РІРёР»Р°Р·РєРё РЅР° Р·Р°РІРѕРґ, РґРµ, СЏРє РІС–РЅ РєР°Р¶Рµ, РІС–РґР±СѓРІР°СЋС‚СЊСЃСЏ РґРёРІРЅС– СЂРµС‡С–.</text>
-  </string>
-  <string id="val_monster_factory_quest_follow_the_squad_name">
-    <text>РЎР»С–РґСѓРІР°С‚Рё Р·Р° Р·Р°РіРѕРЅРѕРј</text>
-  </string>
-  <string id="val_monster_factory_quest_follow_the_squad_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ С–Р· Р·Р°РіРѕРЅРѕРј РґС–СЃС‚Р°С‚РёСЃСЏ Р·Р°РІРѕРґСѓ С– Р·'СЏСЃСѓРІР°С‚Рё, С‰Рѕ С‚Р°Рј СЃС‚Р°Р»РѕСЃСЏ.</text>
-  </string>
-  <string id="val_monster_factory_quest_inspect_factory_name">
-    <text>РћРіР»СЏРЅСѓС‚Рё РїСЂРёРјС–С‰РµРЅРЅСЏ</text>
-  </string>
-  <string id="val_monster_factory_quest_inspect_factory_text">
-    <text>РќР° Р·Р°РІРѕРґС– РєРѕС—С‚СЊСЃСЏ С‰РѕСЃСЊ РґРёРІРЅРµ. РџРѕС‚СЂС–Р±РЅРѕ РѕРіР»СЏРЅСѓС‚Рё РїСЂРёРјС–С‰РµРЅРЅСЏ.</text>
-  </string>
-  <string id="val_monster_factory_quest_kill_monster_name">
-    <text> Р РѕР·С–Р±СЂР°С‚РёСЃСЏ Р· С‚РІР°СЂСЋРєРѕСЋ</text>
-  </string>
-  <string id="val_monster_factory_quest_kill_monster_text">
-    <text>РќР° Р·Р°РІРѕРґС– РѕРїРёРЅРёР»Р°СЃСЏ СЏРєР°СЃСЊ РЅРµР±РµР·РїРµС‡РЅР° С‚РІР°СЂСЋРєР°. РџРѕС‚СЂС–Р±РЅРѕ Р· РЅРµСЋ СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="val_monster_factory_quest_kill_speak_bandit_desertir_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РўСЂСѓС…Р»СЏС”Рј</text>
-  </string>
-  <string id="val_monster_factory_quest_kill_speak_bandit_desertir_text">
-    <text>РќР°СЃС‚С–Р»СЊРєРё СЃРїРµРєРѕС‚РЅРѕРіРѕ Р±РѕСЋ РІ РјРѕС”РјСѓ Р¶РёС‚С‚С– С‰Рµ РЅРµ Р±СѓР»Рѕ... РџРѕСЂР° Р·Р°Р±РёСЂР°С‚Рё РЅР°РіРѕСЂРѕРґСѓ.</text>
-  </string>
-  <string id="val_case_with_stones">
-    <text>РљР•Р™РЎ Р— РљРђРњР†РќРЇРњР</text>
-  </string>
-  <string id="val_case_with_stones_speak_leader_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ Р»С–РґРµСЂР° Р±Р°РЅРґРёС‚С–РІ</text>
-  </string>
-  <string id="val_case_with_stones_speak_leader_text">
-    <text> РЎС…РѕР¶Рµ, СЏ Р·РЅРѕРІСѓ РѕР±Р»Р°Р¶Р°РІСЃСЏ. РЈСЃРµСЂРµРґРёРЅС– РєРµР№СЃР° РІРёСЏРІРёР»РёСЃСЏ РЅРµ Р°СЂС‚РµС„Р°РєС‚Рё, Р° Р·РІРёС‡Р°Р№РЅС– РєР°РјРµРЅС–! РќРµ Р·РЅР°СЋ, С‡Рё С” СЃРµРЅСЃ Р·Р°СЂР°Р· С–С‚Рё РґРѕ Р»С–РґРµСЂР° Р±Р°РЅРґРёС‚С–РІ, Р°Р»Рµ С–РЅС€РѕРіРѕ РІР°СЂС–Р°РЅС‚Сѓ СЏ РЅРµ Р·РЅР°С…РѕРґР¶Сѓ.</text>
-  </string>
-  <string id="val_restore_justice">
-    <text>РџР†Р”РЎРўРђР’Рђ</text>
-  </string>
-  <string id="val_restore_justice_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚Рё Р°СЂС‚РµС„Р°РєС‚Рё С‚РѕСЂРіРѕРІС†СЏ</text>
-  </string>
-  <string id="val_restore_justice_text">
-    <text>Р§РѕСЂС‚, РўСЂСѓС…Р»СЏР№ РјР°РІ СЂР°С†С–СЋ С‰РѕРґРѕ С†СЊРѕРіРѕ РІРёСЂРѕРґРєР° РњРѕРЅРіРѕР»Р°. РўР°Рє, РїРѕРєРё С‰Рѕ РїРѕР±СѓРґСѓ РІ РўРµРјРЅС–Р№ Р”РѕР»РёРЅС– С– С‰Рѕ-РЅРµР±СѓРґСЊ РїСЂРёРґСѓРјР°СЋ.</text>
-  </string>
-  <string id="val_job_in_the_darkvalley">
-    <text>Р РћР‘РћРўРђ Р’ Р”РћР›РРќР†</text>
-  </string>
-  <string id="val_job_in_the_darkvalley_speak_bandit_desertir_name">
-    <text>Р’С–РґРїСЂР°РІРёС‚РёСЃСЏ РґРѕ РўСЂСѓС…Р»СЏСЏ Р·Р° СЂРѕР±РѕС‚РѕСЋ</text>
-  </string>
-  <string id="val_job_in_the_darkvalley_speak_bandit_desertir_text">
-    <text>РўСЂСѓС…Р»СЏР№ РїСЂРѕРїРѕРЅСѓРІР°РІ СЂРѕР±РѕС‚Сѓ. Р— РѕРіР»СЏРґСѓ РЅР° РЅРёРЅС–С€РЅСЋ СЃРёС‚СѓР°С†С–СЋ Р±СѓРґРµ Р»РѕРіС–С‡РЅРѕ РїРѕРіРѕРґРёС‚РёСЃСЏ.</text>
-  </string>
-  <string id="val_task_farm">
-    <text>Р РћР‘РћРўРђ Р’ Р‘Р РР“РђР”Р†</text>
-  </string>
-  <string id="val_task_farm_search_stalkers_name">
-    <text>Р”С–СЃС‚Р°С‚РёСЃСЏ РґРѕ С‚Р°Р±РѕСЂСѓ СЃС‚Р°Р»РєРµСЂС–РІ РЅР° С„РµСЂРјС–</text>
-  </string>
-  <string id="val_task_farm_search_stalkers_text">
-    <text>Р’ РѕРєРѕР»РёС†СЏС… РўРµРјРЅРѕС— Р”РѕР»РёРЅРё РґРµСЃСЊ С” С‰Рµ РѕРґРёРЅ РІС…С–Рґ РґРѕ Р»Р°Р±РѕСЂР°С‚РѕСЂС–С— X-18. РўСЂРµР±Р° РІС–РґС€СѓРєР°С‚Рё Р№РѕРіРѕ. Р†РЅС„РѕСЂРјР°С†С–СЋ РїСЂРѕ С†Рµ РјРѕР¶СѓС‚СЊ Р·РЅР°С‚Рё СЃС‚Р°Р»РєРµСЂРё Р· С‚Р°Р±РѕСЂСѓ РЅР° С„РµСЂРјС–.</text>
-  </string>
-  <string id="val_task_farm_speak_first_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р·С– СЃС‚Р°Р»РєРµСЂРѕРј</text>
-  </string>
-  <string id="val_task_farm_speak_first_text">
-    <text>РЈ СЃС‚Р°Р»РєРµСЂР° С” СЏРєР°СЃСЊ РїСЂРѕРїРѕР·РёС†С–СЏ. РўСЂРµР±Р° РїРѕРіРѕРІРѕСЂРёС‚Рё.</text>
-  </string>
-  <string id="val_task_farm_searh_money_name"><text>Р”РѕСЃС‚Р°С‚Рё РіСЂРѕС€С–</text>.
+
+	<string id="val_monster_factory_quest">
+		<text>ЧОРТІВНЯ НА ЗАВОДІ</text>
+	</string>	
+
+	<string id="val_monster_factory_quest_follow_the_bandit_desertir_name">
+		<text>Слідувати за Трухляєм</text>
 	</string>
-  <string id="val_task_farm_searh_money_text">
-    <text>РЎС‚Р°Р»РєРµСЂРё РЅРµ СЃС‚Р°РЅСѓС‚СЊ Р·С– РјРЅРѕСЋ СЂРѕР·РјРѕРІР»СЏС‚Рё, РїРѕРєРё СЏ РЅРµ РїСЂРёРЅРµСЃСѓ С—Рј РіСЂРѕС€С–. Р’РёРјР°РіР°СЋС‚СЊ 1500 СЂСѓР±Р»С–РІ.</text>
-  </string>
-  <string id="val_task_farm_speak_quest_stalker_name"><text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РќРµР·РґР°СЂРѕСЋ</text>.
+
+	<string id="val_monster_factory_quest_follow_the_bandit_desertir_text">
+		<text>Потрібно слідувати за Трухляєм на місце зустрічі.</text>
 	</string>
-  <string id="val_task_farm_speak_quest_stalker_text">
-    <text>РќРµР·РґР°СЂР° РјРѕР¶Рµ Р·РЅР°С‚Рё С‰РѕСЃСЊ С‰РѕРґРѕ РјРѕС”С— СЃРїСЂР°РІРё.</text>
-  </string>
-  <string id="val_task_farm_searh_artefact_name">
-    <text>Р’С–РґРїСЂР°РІРёС‚РёСЃСЏ Р·Р° Р°СЂС‚РµС„Р°РєС‚РѕРј РґРѕ В«Р РѕР·Р»РѕРјСѓВ»</text>
-  </string>
-  <string id="val_task_farm_searh_artefact_text">
-    <text>РќРµР·РґР°СЂР° СЂРѕР·РїРѕРІС–СЃС‚СЊ РїСЂРѕ СЃРµРєСЂРµС‚РЅРёР№ РІС…С–Рґ РІ X-18, СЏРєС‰Рѕ СЏ РґС–СЃС‚Р°РЅСѓ Р№РѕРјСѓ Р°СЂС‚РµС„Р°РєС‚.</text>
-  </string>
-  <string id="val_task_farm_follow_artefact_name">
-    <text>В«РќР°Р·РґРѕРіРЅР°С‚РёВ» Р°СЂС‚РµС„Р°РєС‚</text>
-  </string>
-  <string id="val_task_farm_follow_artefact_text">
-    <text>Р©Рѕ Р·Р° С‡РѕСЂС‚С–РІРЅСЏ? Р’Р°СЂС‚Рѕ РјРµРЅС– С‚С–Р»СЊРєРё РїС–РґС–Р№С‚Рё, СЏРє Р°СЂС‚РµС„Р°РєС‚ РєСѓРґРёСЃСЊ РїРµСЂРµРјС–С‰СѓС”С‚СЊСЃСЏ... РЎРїСЂРѕР±СѓСЋ РїРµСЂРµСЃР»С–РґСѓРІР°С‚Рё Р№РѕРіРѕ.</text>
-  </string>
-  <string id="val_task_farm_check_house_name"><text>Р—С…РѕРїРёС‚Рё Р°СЂС‚РµС„Р°РєС‚</text>.
+
+	<string id="val_monster_factory_quest_follow_the_bandit_desertir_two_name">
+		<text>Зустрітися з Трухляєм у вільний час</text>
 	</string>
-  <string id="val_task_farm_check_house_text">
-    <text>Р—РґР°С”С‚СЊСЃСЏ, РІС–РЅ С–Р· РєРѕР¶РЅРёРј СЂР°Р·РѕРј СѓСЃРµ Р±Р»РёР¶С‡Рµ. Р—Р°СЂР°Р· С–РґРµР°Р»СЊРЅРёР№ С€Р°РЅСЃ Р№РѕРіРѕ СЃС…РѕРїРёС‚Рё...</text>
-  </string>
-  <string id="val_task_farm_kill_boss_name"><text>Р РѕР·РѕР±СЂР°С‚РёСЃСЏ Р· РїРѕРіР°РЅРЅСЋ</text>.
+
+	<string id="val_monster_factory_quest_follow_the_bandit_desertir_two_text">
+		<text>Я обіцяв скласти компанію Трухляю для вилазки на завод, де, як він каже, відбуваються дивні речі.</text>
 	</string>
-  <string id="val_task_farm_kill_boss_text">
-    <text> РҐС‚РѕСЃСЊ Р°Р±Рѕ С‰РѕСЃСЊ СЏРІРЅРѕ РЅРµ С…РѕС‡Рµ РІС–РґРїСѓСЃРєР°С‚Рё РјРµРЅРµ Р¶РёРІРёРј...</text>
-  </string>
-  <string id="val_task_farm_take_artefact_name"><text>РџС–РґС–Р±СЂР°С‚Рё Р°СЂС‚РµС„Р°РєС‚</text>.
+
+	<string id="val_monster_factory_quest_follow_the_squad_name">
+		<text>Слідувати за загоном</text>
 	</string>
-  <string id="val_task_farm_take_artefact_text">
-    <text>РћС…, РјР°С‚Рё... Р©Рѕ Р¶ С†Рµ Р±СѓР»Рѕ? РЎРєС–Р»СЊРєРё С‡Р°СЃСѓ РјРёРЅСѓР»Рѕ? РњР°РєС–С‚СЂР° С‚СЂС–С‰РёС‚СЊ... Р”РѕР±СЂРµ С…РѕС‡, С‰Рѕ Р°СЂС‚РµС„Р°РєС‚ Р±С–Р»СЊС€Рµ РЅРµ РїРµСЂРµРјС–С‰СѓС”С‚СЊСЃСЏ.</text>
-  </string>
-  <string id="val_task_farm_speak_quest_stalker_final_name">
-    <text>Р’С–РґРґР°С‚Рё Р°СЂС‚РµС„Р°РєС‚ РќРµР·РґР°СЂС–</text>
-  </string>
-  <string id="val_task_farm_speak_quest_stalker_final_text">
-    <text>Р†РЅС‚РµСЂРµСЃРЅР° РІРёР№С€Р»Р° С–СЃС‚РѕСЂС–СЏ... РљРѕРјСѓ СЂРѕР·РїРѕРІС–Рј вЂ” РЅРµ РїРѕРІС–СЂСЏС‚СЊ. РўСЂРµР±Р° РІС–РґРЅРµСЃС‚Рё Р°СЂС‚РµС„Р°РєС‚ СЃС‚Р°Р»РєРµСЂСѓ.</text>
-  </string>
-  <string id="val_task_farm_check_spot_name"><text>Р’С–РґРїСЂР°РІРёС‚РёСЃСЏ РґРѕ СЃРµРєСЂРµС‚РЅРѕРіРѕ РІС…РѕРґСѓ</text>.
+
+	<string id="val_monster_factory_quest_follow_the_squad_text">
+		<text>Потрібно із загоном дістатися заводу і з'ясувати, що там сталося.</text>
 	</string>
-  <string id="val_task_farm_check_spot_text">
-    <text>РќРµР·РґР°СЂР° РЅР°РґР°РІ РјРµРЅС– С–РЅС„РѕСЂРјР°С†С–СЋ РїСЂРѕ С‚Р°С”РјРЅРёР№ РІС…С–Рґ РґРѕ Р»Р°Р±РѕСЂР°С‚РѕСЂС–С—. Р РѕР·РІС–РґР°СЋ РјС–СЃС†РµРІС–СЃС‚СЊ, Р° РїРѕС‚С–Рј Р·Р° РІРёРЅР°РіРѕСЂРѕРґРѕСЋ.</text>
-  </string>
-  <string id="val_task_farm_alarm_call_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ С‚Р°Р±РѕСЂСѓ Р±Р°РЅРґРёС‚С–РІ</text>
-  </string>
-  <string id="val_task_farm_alarm_call_text">
-    <text>РўСЂСѓС…Р»СЏР№ С‚РµСЂРјС–РЅРѕРІРѕ РІРёРєР»РёРєР°РІ Сѓ С‚Р°Р±С–СЂ. Р©РѕСЃСЊ Р±РµР·РїРµСЂРµС‡РЅРѕ РІР°Р¶Р»РёРІРµ...</text>
-  </string>
-  <string id="val_task_farm_speak_scientist_name">
-    <text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ Р· РІС‡РµРЅРёРј</text>
-  </string>
-  <string id="val_task_farm_speak_scientist_text">
-    <text>РўСЂСѓС…Р»СЏР№ РїРѕРїСЂРѕСЃРёРІ Р·Р°Р±СЂР°С‚Рё Сѓ РІС‡РµРЅРѕРіРѕ РґСѓСЂСЊ С– РїРµСЂРµРґР°С‚Рё Р№РѕРјСѓ РіСЂРѕС€С–, С‰РѕР± РІС‚С–Р»РёС‚Рё СЃРІС–Р№ РїР»Р°РЅ Р· РєСЂР°РґС–Р¶РєРё СЂРµС‡РµР№ Р·С– СЃС…РѕРІР°РЅРєРё РЅР° Р±Р°Р·С– Р±Р°РЅРґРёС‚С–РІ.</text>
-  </string>
-  <string id="val_scientist_task">
-    <text>РЎРљРђРќР•Р  Р’ Р•Р›Р•РљРўР Р†</text>
-  </string>
-  <string id="val_scientist_task_set_scaner_name">
-    <text>Р’СЃС‚Р°РЅРѕРІРёС‚Рё РїСЂРёР»Р°Рґ РІ Р°РЅРѕРјР°Р»С–С—</text>
-  </string>
-  <string id="val_scientist_task_set_scaner_text">
-    <text>Р’С‡РµРЅРёР№ РїРѕРїСЂРѕСЃРёРІ РґРѕРїРѕРјРѕРіС‚Рё Р№РѕРјСѓ Р·С– РІСЃС‚Р°РЅРѕРІР»РµРЅРЅСЏРј СЃРєР°РЅРµСЂР° РІ Р°РЅРѕРјР°Р»С–С—.</text>
-  </string>
-  <string id="val_scientist_task_scaner_place_compl_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РІС‡РµРЅРёРј</text>
-  </string>
-  <string id="val_scientist_task_scaner_place_compl_text">
-    <text>РџСЂРёР»Р°Рґ РІСЃС‚Р°РЅРѕРІР»РµРЅРѕ. Р§Р°СЃ РїРѕРіРѕРІРѕСЂРёС‚Рё Р· РІС‡РµРЅРёРј.</text>
-  </string>
-  <string id="val_treasure_task">
-    <text>РЎРҐРћР’РђРќРљРђ В«Р’РћР›Р†В»</text>
-  </string>
-  <string id="val_treasure_task_start_robbery_name">
-    <text>Р’С–РґРїСЂР°РІРёС‚РёСЃСЊ РЅР° Р±Р°Р·Сѓ Р±Р°РЅРґРёС‚С–РІ</text>
-  </string>
-  <string id="val_treasure_task_start_robbery_text">
-    <text>Р—Р° СЃРїСЂР°РІСѓ! РџРѕС‚СЂС–Р±РЅРѕ РІРёСЂСѓС€РёС‚Рё РЅР° Р±Р°Р·Сѓ Р±Р°РЅРґРёС‚С–РІ С– РїС–РґСЃРёРїР°С‚Рё РїРѕСЂРѕС€РѕРє Сѓ РїРѕР»СЊРѕРІСѓ РєСѓС…РЅСЋ.</text>
-  </string>
-  <string id="val_treasure_task_come_back_speak_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ РўСЂСѓС…Р»СЏСЏ</text>
-  </string>
-  <string id="val_treasure_task_come_back_speak_text">
-    <text>РџРѕСЂРѕС€РѕРє РїС–РґСЃРёРїР°РЅРёР№ Р—Р° РєС–Р»СЊРєР° РіРѕРґРёРЅ СѓСЃРµ РјР°С” СЃРїСЂР°С†СЋРІР°С‚Рё, С– РјРё РѕР±С‡РёСЃС‚РёРјРѕ СЃС…РѕРІР°РЅРєСѓ В«Р’РѕР»С–В». Рђ Р·Р°СЂР°Р· РїРѕС‚СЂС–Р±РЅРѕ РїРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ РўСЂСѓС…Р»СЏСЏ С– РґРѕРїРѕРІС–СЃС‚Рё РїСЂРѕ СѓСЃРїС–С€РЅРµ РІРёРєРѕРЅР°РЅРЅСЏ.</text>
-  </string>
-  <string id="val_treasure_task_wait_message_name">
-    <text>Р§РµРєР°С‚Рё СЃРёРіРЅР°Р»Сѓ РІС–Рґ РўСЂСѓС…Р»СЏСЏ</text>
-  </string>
-  <string id="val_treasure_task_wait_message_text">
-    <text>РўСЂСѓС…Р»СЏР№ РґР°СЃС‚СЊ СЃРёРіРЅР°Р», РєРѕР»Рё РїРѕС‚СЂС–Р±РЅР° Р±СѓРґРµ РґРѕРїРѕРјРѕРіР°. РќР°СЂР°Р·С– С‚СЂРµР±Р° СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ Р·С– РІС…РѕРґРѕРј РґРѕ Р»Р°Р±РѕСЂР°С‚РѕСЂС–С—.</text>
-  </string>
-  <string id="val_treasure_task_all_ready_name"><text>Р’С–РґРїСЂР°РІРёС‚РёСЃСЏ РЅР° РјС–СЃС†Рµ Р·Р±РѕСЂСѓ</text>.
+
+	<string id="val_monster_factory_quest_inspect_factory_name">
+		<text>Оглянути приміщення</text>
 	</string>
-  <string id="val_treasure_task_all_ready_text">
-    <text>РџРѕ РІСЃС–Р№ РІРёРґРёРјРѕСЃС‚С– РІСЃРµ РіРѕС‚РѕРІРѕ РґР»СЏ РїРѕС‡Р°С‚РєСѓ РѕРїРµСЂР°С†С–С—. РџРѕС‚СЂС–Р±РЅРѕ Р·СѓСЃС‚СЂС–С‚РёСЃСЏ Р· РіСЂСѓРїРѕСЋ РўСЂСѓС…Р»СЏСЏ.</text>
-  </string>
-  <string id="val_treasure_task_follow_squad_name">
-    <text>РЎР»С–РґСѓРІР°С‚Рё Р·Р° Р±Р°РЅРґРёС‚Р°РјРё</text>
-  </string>
-  <string id="val_treasure_task_follow_squad_text">
-    <text>РўР°СЂР° Р·Р°Р±СЂР°С‚Рё РєРµР№СЃ С‚РѕСЂРіРѕРІС†СЏ С– РґС–Р·РЅР°С‚РёСЃСЏ, С‰Рѕ Р·РЅР°С…РѕРґРёС‚СЊСЃСЏ РІ СЃС…РѕРІР°РЅС†С–.</text>
-  </string>
-  <string id="val_labx18_boom">
-    <text>РЎР•РљР Р•РўРќРР™ Р’РҐР†Р”</text>
-  </string>
-  <string id="val_labx18_boom_go_start_name">
-    <text>РџС–РґС–СЂРІР°С‚Рё РІС…С–Рґ РґРѕ Р»Р°Р±РѕСЂР°С‚РѕСЂС–С—</text>
-  </string>
-  <string id="val_labx18_boom_go_start_text">
-    <text>РўСЂСѓС…Р»СЏР№ РґР°РІ Р·Р°РІРґР°РЅРЅСЏ Р·Р°РїРµС‡Р°С‚Р°С‚Рё РґСЂСѓРіРёР№ РІС…С–Рґ РґРѕ Р»Р°Р±РѕСЂР°С‚РѕСЂС–С—.</text>
-  </string>
-  <string id="val_treasure_task_search_trader_case_name">
-    <text>Р—РЅР°Р№С‚Рё РєРµР№СЃ С‚РѕСЂРіРѕРІС†СЏ</text>
-  </string>
-  <string id="val_treasure_task_search_trader_case_text">
-    <text>РџРѕРєРё Р±Р°РЅРґРёС‚Рё СЂРѕР·Р±РёСЂР°СЋС‚СЊСЃСЏ С–Р· РІС…РѕРґРѕРј Сѓ СЃС…РѕРІР°РЅРєСѓ, РјРµРЅС– РїРѕС‚СЂС–Р±РЅРѕ Р·РЅР°Р№С‚Рё Р°СЂС‚РµС„Р°РєС‚Рё С‚РѕСЂРіРѕРІС†СЏ.</text>
-  </string>
-  <string id="val_treasure_task_start_robbery_squad_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ Р·Р°РіС–РЅСѓ</text>
-  </string>
-  <string id="val_treasure_task_start_robbery_squad_text">
-    <text>РџРѕСЂР° РїРѕРІРµСЂС‚Р°С‚РёСЃСЏ РґРѕ Р±Р°РЅРґРёС‚С–РІ. Р’РѕРЅРё РІР¶Рµ РЅР°РїРµРІРЅРѕ СЂРѕР·С–Р±СЂР°Р»РёСЃСЏ Р·С– РІС…РѕРґРѕРј Сѓ СЃС…РѕРІР°РЅРєСѓ.</text>
-  </string>
-  <string id="val_bandits_base_passage_task">
-    <text>РЈРЎР• Р—РђР”Р›РЇ РњР•РўР</text>
-  </string>
-  <string id="val_bandits_base_passage_task_name">
-    <text>Р РѕР·РґРѕР±СѓС‚Рё РґР»СЏ Р±Р°РЅРґРёС‚С–РІ РЅРµРѕР±С…С–РґРЅРµ</text>
-  </string>
-  <string id="val_bandits_base_passage_task_text"><text>Р©РѕР± РїРѕС‚СЂР°РїРёС‚Рё РЅР° Р±Р°Р·Сѓ РґРѕ Р±Р°РЅРґРёС‚С–РІ С– Р·Р°Р±СЂР°С‚Рё Р°СЂС‚РµС„Р°РєС‚Рё РљРѕСЃС‚СѓСЂР°, РїРѕС‚СЂС–Р±РЅРѕ СЏРє РїР»Р°С‚Сѓ Р·Р° РїСЂРѕС…С–Рґ РїСЂРёРЅРµСЃС‚Рё РґРµСЃСЏС‚РѕРє Р°РЅС‚РёСЂР°РґС–РІ Р°Р±Рѕ Р¶ С‡РѕС‚РёСЂРё С‚РёСЃСЏС‡С– СЂСѓР±Р»С–РІ. РЈ РєСЂР°Р№РЅСЊРѕРјСѓ РІРёРїР°РґРєСѓ Р·РіРѕРґРёС‚СЊСЃСЏ СЏРєРёР№-РЅРµР±СѓРґСЊ Р°СЂС‚РµС„Р°РєС‚, С‰Рѕ РІРёРІРѕРґРёС‚СЊ СЂР°РґС–Р°С†С–СЋ.</text>.
+
+	<string id="val_monster_factory_quest_inspect_factory_text">
+		<text>На заводі коїться щось дивне. Потрібно оглянути приміщення.</text>
 	</string>
-  <string id="val_prison_task">
-    <text>Р‘РђРќР”РРўРЎР¬РљР† Р”Р•Р‘Р Р†</text>
-  </string>
-  <string id="val_prison_task_start_name">
-    <text>Р’С–РґРіСѓРєРЅСѓС‚РёСЃСЏ РЅР° РїСЂРѕС…Р°РЅРЅСЏ РїСЂРѕ РґРѕРїРѕРјРѕРіСѓ</text>
-  </string>
-  <string id="val_prison_task_start_text">
-    <text>Р— РїС–РґРІР°Р»С–РІ Р±СѓРґС–РІР»С– Р±Р°РЅРґРёС‚СЃСЊРєРѕС— Р±Р°Р·Рё СЏРєРёР№СЃСЊ СЃС‚Р°Р»РєРµСЂ РїРѕРїСЂРѕСЃРёРІ РїСЂРѕ РґРѕРїРѕРјРѕРіСѓ.Р’РёСЂРѕРіС–РґРЅРѕ, С†Рµ РїРѕР»РѕРЅРµРЅРёР№ Р±Р°РЅРґРёС‚С–РІ. РЇРє Р¶Рµ С†Рµ Р·РЅР°Р№РѕРјРѕ, СЃСѓРєР°... РџРѕС‚СЂС–Р±РЅРѕ РґС–Р·РЅР°С‚РёСЃСЏ, СЏРє РјРѕР¶РЅР° Р№РѕРјСѓ РґРѕРїРѕРјРѕРіС‚Рё.</text>
-  </string>
-  <string id="val_prison_task_wait_need_moment_name">
-    <text>Р’РёС‡С–РєСѓРІР°С‚Рё РјРѕРјРµРЅС‚</text>
-  </string>
-  <string id="val_prison_task_wait_need_moment_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ РІРёС‡РµРєР°С‚Рё РјРѕРјРµРЅС‚, РєРѕР»Рё РјРѕР¶РЅР° Р±СѓРґРµ РґРѕРїРѕРјРѕРіС‚Рё РќС–РјРѕРјСѓ РІРёР±СЂР°С‚РёСЃСЏ Р· Р±Р°РЅРґРёС‚СЃСЊРєРѕС— РІ'СЏР·РЅРёС†С–. Р’Р°СЂС‚Рѕ РїРѕРїСЂР°С†СЋРІР°С‚Рё РЅР° РІРёСЂРѕРґРєС–РІ, СЏРєС‰Рѕ С‰РѕСЃСЊ РїС–РґРІРµСЂРЅРµС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="val_prison_task_help_go_name"><text>Р’РёС‚СЏРіРЅСѓС‚Рё СЃС‚Р°Р»РєРµСЂР°</text>.
+
+	<string id="val_monster_factory_quest_kill_monster_name">
+		<text> Розібратися з тварюкою</text>
 	</string>
-  <string id="val_prison_task_help_go_text">
-    <text>Р—Р° С‡Р°СЃ РјРѕС”С— РІС–РґСЃСѓС‚РЅРѕСЃС‚С– Р±Р°РЅРґРёС‚Рё РјР°Р»Рё РІР¶Рµ Р·Р°СЃРЅСѓС‚Рё РІС–Рґ РїС–РґСЃРёРїР°РЅРѕС— РїРѕРіР°РЅС–. РЈ РІСЃСЏРєРѕРјСѓ СЂР°Р·С–, Р·Р°Р»РёС€Р°С”С‚СЊСЃСЏ С‚С–Р»СЊРєРё РЅР° С†Рµ СЃРїРѕРґС–РІР°С‚РёСЃСЏ. Р’Р°СЂС‚Рѕ СЃРїСЂРѕР±СѓРІР°С‚Рё РІРёС‚СЏРіРЅСѓС‚Рё СЃС‚Р°Р»РєРµСЂР° Р· РєР»С–С‚РєРё.</text>
-  </string>
-  <string id="val_prison_task_open_door_name"><text>Р’С–РґРєСЂРёС‚Рё РєР»С–С‚РєСѓ</text>.
+
+	<string id="val_monster_factory_quest_kill_monster_text">
+		<text>На заводі опинилася якась небезпечна тварюка. Потрібно з нею розібратися.</text>
 	</string>
-  <string id="val_prison_task_open_door_text"><text>РџРѕС‚СЂС–Р±РЅРѕ РІС–РґРєСЂРёС‚Рё РєР»С–С‚РєСѓ С‚Р° РІРёС‚СЏРіРЅСѓС‚Рё СЃС‚Р°Р»РєРµСЂР°. РЈРїСЂР°РІР»С–РЅРЅСЏ РґРІРµСЂРёРјР° Р·РґС–Р№СЃРЅСЋС”С‚СЊСЃСЏ Р· РїСѓР»СЊС‚Р° РЅР° СЃС‚С–РЅС– РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ РєР»С–С‚РєРё.</text>.
+
+	<string id="val_monster_factory_quest_kill_speak_bandit_desertir_name">
+		<text>Поговорити з Трухляєм</text>
 	</string>
-  <string id="val_stalker_technic_task"><text>Р РђР”Р†РћРђРњРђРўРћР </text>.
+
+	<string id="val_monster_factory_quest_kill_speak_bandit_desertir_text">
+		<text>Настільки спекотного бою в моєму житті ще не було... Пора забирати нагороду.</text>
 	</string>
-  <string id="val_stalker_technic_task_start_name">
-    <text>Р—РЅР°Р№С‚Рё СЃРІС–С‚РёР»СЊРЅРёРє С– СЂР°РґС–Рѕ</text>
-  </string>
-  <string id="val_stalker_technic_task_start_text">
-    <text>Р”РёРІРЅР° Р»СЋРґРёРЅР° Р· С„РµСЂРјРё РїРѕРїСЂРѕСЃРёР»Р° РјРµРЅРµ Р·РЅР°Р№С‚Рё РµР»РµРєС‚СЂРѕСЃРІС–С‚РёР»СЊРЅРёРє С– СЂР°РґС–Рѕ РІ РіР°СЂР°Р¶С– РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ РІС…РѕРґСѓ РІ Р»Р°Р±РѕСЂР°С‚РѕСЂС–СЋ. РќР°С‚РѕРјС–СЃС‚СЊ РѕР±С–С†СЏРІ С‰РµРґСЂСѓ РЅР°РіРѕСЂРѕРґСѓ.</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_name">
-    <text>Р’С–РґРґР°С‚Рё Р“Р°СЂРїСѓРЅСѓ СЃРІС–С‚РёР»СЊРЅРёРє С– СЂР°РґС–Рѕ</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_text">
-    <text>РЈСЃС– РїСЂРµРґРјРµС‚Рё РґР»СЏ СЂР°РґС–РѕР°РјР°С‚РѕСЂР° Р·РЅР°Р№РґРµРЅС–, С‡Р°СЃ РІС–РґРґР°С‚Рё С—С… Р№РѕРјСѓ.</text>
-  </string>
-  <string id="val_stalker_technic_task_wait_name"><text>Р”РѕС‡РµРєР°С‚РёСЃСЏ РїРѕРІС–РґРѕРјР»РµРЅРЅСЏ РІС–Рґ Р“Р°СЂРїСѓРЅР°</text>.
+
+	<string id="val_case_with_stones">
+		<text>КЕЙС З КАМІНЯМИ</text>
 	</string>
-  <string id="val_stalker_technic_task_wait_text">
-    <text>РњС–СЃС†РµРІРёР№ СЂР°РґС–РѕР°РјР°С‚РѕСЂ РІРёСЂС–С€РёРІ Р·Р°РїСЂРѕРїРѕРЅСѓРІР°С‚Рё С‰Рµ РѕРґРЅСѓ СЃРїСЂР°РІСѓ, Р°Р»Рµ РїС–СЃР»СЏ С‚РѕРіРѕ, СЏРє СЂРѕР·Р±РµСЂРµС‚СЊСЃСЏ Р·С– СЃРІРѕС—РјРё РїСЂРѕР±Р»РµРјР°РјРё. РџРѕС‚СЂС–Р±РЅРѕ РґРѕС‡РµРєР°С‚РёСЃСЏ РІС–Рґ РЅСЊРѕРіРѕ РїРѕРІС–РґРѕРјР»РµРЅРЅСЏ.</text>
-  </string>
-  <string id="val_stalker_technic_task_sos_name"><text>Р’С–РґРіСѓРєРЅСѓС‚РёСЃСЊ РЅР° СЃРёРіРЅР°Р» SOS</text>.
+
+	<string id="val_case_with_stones_speak_leader_name">
+		<text>Повернутися до лідера бандитів</text>
 	</string>
-  <string id="val_stalker_technic_task_sos_text">
-    <text>Р РёР»Рѕ, РѕРґРёРЅ Р·С– СЃС‚Р°Р»РєРµСЂС–РІ РЅР° С„РµСЂРјС–, РІС–РґРїСЂР°РІРёРІ СЃРёРіРЅР°Р» SOS. РџРѕС‚СЂС–Р±РЅРѕ РІРёСЂСѓС€РёС‚Рё С‚СѓРґРё С– РґС–Р·РЅР°С‚РёСЃСЏ, С‰Рѕ С‚СЂР°РїРёР»РѕСЃСЏ.</text>
-  </string>
-  <string id="val_stalker_technic_task_kill_zombie_name">
-    <text>Р’Р±РёС‚Рё Р·РѕРјР±С–</text>
-  </string>
-  <string id="val_stalker_technic_task_kill_zombie_text">
-    <text>Р’СЃС– СЃС‚Р°Р»РєРµСЂРё РЅР° С„РµСЂРјС– Р±СѓР»Рё Р·РѕРјР±РѕРІР°РЅС–. РЎРєРѕСЂС–С€ Р·Р° РІСЃРµ, С†Рµ СЃРїСЂР°РІР° СЂСѓРє Р“Р°СЂРїСѓРЅР°. РџРѕС‚СЂС–Р±РЅРѕ Р·Р°СЃРїРѕРєРѕС—С‚Рё СЃС‚Р°Р»РєРµСЂС–РІ С– РІРёСЂС–С€РёС‚Рё, С‰Рѕ СЂРѕР±РёС‚Рё РґР°Р»С–.</text>
-  </string>
-  <string id="val_stalker_technic_task_check_farm_name">
-    <text>Р РѕР·С–Р±СЂР°С‚РёСЃСЏ РІ С‚РѕРјСѓ, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ</text>
-  </string>
-  <string id="val_stalker_technic_task_check_farm_text">
-    <text>Р’Р°СЂС‚Рѕ РїСЂРѕС€РµСЂСЃС‚РёС‚Рё С„РµСЂРјСѓ С– СЃРїСЂРѕР±СѓРІР°С‚Рё Р·СЂРѕР·СѓРјС–С‚Рё, С‰Рѕ Р·РѕРјР±СѓРІР°Р»Рѕ СЃС‚Р°Р»РєРµСЂС–РІ. Р’С–РґС‚РµРїРµСЂ СЏ С‚РѕС‡РЅРѕ РІРїРµРІРЅРµРЅРёР№, С‰Рѕ С†Рµ СЃРїСЂР°РІР° СЂСѓРє Р“Р°СЂРїСѓРЅР°.</text>
-  </string>
-  <string id="val_stalker_technic_task_kill_sniper_name">
-    <text>Р›С–РєРІС–РґСѓРІР°С‚Рё СЃРЅР°Р№РїРµСЂР°</text>
-  </string>
-  <string id="val_stalker_technic_task_kill_sniper_text">
-    <text>РќР° РјРµРЅРµ РЅР°РїР°РІ РЅРµРІС–РґРѕРјРёР№. Р©РѕР± РґС–Р·РЅР°С‚РёСЃСЏ, С…С‚Рѕ С†Рµ, Р№РѕРіРѕ РїРѕС‚СЂС–Р±РЅРѕ РІР±РёС‚Рё.</text>
-  </string>
-  <string id="val_stalker_technic_task_check_sniper_name">
-    <text>РћС€СѓРєР°С‚Рё СЃРЅР°Р№РїРµСЂР°</text>
-  </string>
-  <string id="val_stalker_technic_task_check_sniper_text">
-    <text>РќР°РїР°РґРЅРёРє РјРµСЂС‚РІРёР№. РЎРїРѕРґС–РІР°СЋСЃСЏ, РїСЂРё РЅСЊРѕРјСѓ С” СЏРєС–СЃСЊ Р·Р°С‡С–РїРєРё, С‰Рѕ РіРѕРІРѕСЂСЏС‚СЊ РїСЂРѕ РїСЂРёС‡РёРЅРё РІС–Р·РёС‚Сѓ РґРѕ РјРµРЅРµ.</text>
-  </string>
-  <string id="val_stalker_technic_task_solution_name"><text>Р РѕР·РѕР±СЂР°С‚РёСЃСЏ С–Р· Р·Р°РјРѕРІРЅРёРєРѕРј</text>.
+
+	<string id="val_case_with_stones_speak_leader_text">
+		<text> Схоже, я знову облажався. Усередині кейса виявилися не артефакти, а звичайні камені! Не знаю, чи є сенс зараз іти до лідера бандитів, але іншого варіанту я не знаходжу.</text>
 	</string>
-  <string id="val_stalker_technic_task_solution_text">
-    <text>РЈ РЅР°Р№РјР°РЅС†СЏ РџСѓРјРё РІ РџР”Рђ РІРёСЏРІРёР»Р°СЃСЏ С‡Р°СЃС‚РёРЅР° РґС–Р°Р»РѕРіСѓ С–Р· Р·Р°РјРѕРІРЅРёРєРѕРј. РЎСѓРґСЏС‡Рё Р· СѓСЃСЊРѕРіРѕ, РїС–СЃР»СЏ РІРёРєРѕРЅР°РЅРЅСЏ СЂРѕР±РѕС‚Рё С—С…РЅСЏ Р·СѓСЃС‚СЂС–С‡ РјР°Р»Р° РІС–РґР±СѓС‚РёСЃСЏ РЅР° Р·Р°РїСЂР°РІС†С–. Р§Р°СЃ РІРёСЂСѓС€Р°С‚Рё С‚СѓРґРё С– РїРѕС‡Р°С‚Рё РІРёСЂС–С€СѓРІР°С‚Рё С†СЋ РїСЂРѕР±Р»РµРјСѓ Р· РЅРёРј РІС–С‡-РЅР°-РІС–С‡.</text>
-  </string>
-  <string id="val_stalker_technic_task_kill_name">
-    <text>Р’Р±РёС‚Рё Р“Р°СЂРїСѓРЅР°</text>
-  </string>
-  <string id="val_stalker_technic_task_kill_text">
-    <text>РџРѕ-С…РѕСЂРѕС€РѕРјСѓ РґРѕРјРѕРІРёС‚РёСЃСЏ РЅРµ РІРёР№С€Р»Рѕ. Р—Р°Р»РёС€Р°С”С‚СЊСЃСЏ Р№С‚Рё РЅР° РєСЂР°Р№РЅС– Р·Р°С…РѕРґРё.</text>
-  </string>
-  <string id="val_stalker_technic_task_check_corp_name"><text>РћС€СѓРєР°С‚Рё Р“Р°СЂРїСѓРЅР°</text>.
+
+	<string id="val_restore_justice">
+		<text>ПІДСТАВА</text>
 	</string>
-  <string id="val_stalker_technic_task_check_corp_text">
-    <text>РЈ Р“Р°СЂРїСѓРЅР° РјР°С” Р±СѓС‚Рё С‰РѕСЃСЊ, С‰Рѕ РґРѕР·РІРѕР»РёР»Рѕ Р№РѕРјСѓ РЅРµ РїРѕРјРµСЂС‚Рё РІС–Рґ Р·РіРµРЅРµСЂРѕРІР°РЅРѕРіРѕ РЅРёРј Р¶Рµ РїСЃС–-РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ. РџРѕС‚СЂС–Р±РЅРѕ Р·Р°Р±СЂР°С‚Рё С†Рµ С– Р·РЅРёС‰РёС‚Рё Р№РѕРіРѕ РІРёРїСЂРѕРјС–РЅСЋРІР°С‡.</text>
-  </string>
-  <string id="val_stalker_technic_task_destroy_psy_name">
-    <text>Р—РЅРёС‰РёС‚Рё РїСЃС–-РІРёРїСЂРѕРјС–РЅСЋРІР°С‡</text>
-  </string>
-  <string id="val_stalker_technic_task_destroy_psy_text">
-    <text>РЎРїСЂР°РІСѓ Р·СЂРѕР±Р»РµРЅРѕ. РўРµРїРµСЂ Р·Р°Р»РёС€РёР»РѕСЃСЏ Р·РЅРёС‰РёС‚Рё РЅР°СЃР»С–РґРєРё РїСЂР°С†С– Р“Р°СЂРїСѓРЅР°, С‰РѕР± РЅС–С…С‚Рѕ Р±С–Р»СЊС€Рµ РЅРµ РїРѕС‚СЂР°РїРёРІ Сѓ С†СЋ РїР°СЃС‚РєСѓ.</text>
-  </string>
+
+	<string id="val_restore_justice_name">
+		<text>Повернути артефакти торговця</text>
+	</string>
+
+	<string id="val_restore_justice_text">
+		<text>Чорт, Трухляй мав рацію щодо цього виродка Монгола. Так, поки що побуду в Темній Долині і що-небудь придумаю.</text>
+	</string>
+	
+	<string id="val_job_in_the_darkvalley">
+		<text>РОБОТА В ДОЛИНІ</text>
+	</string>	
+
+	<string id="val_job_in_the_darkvalley_speak_bandit_desertir_name">
+		<text>Відправитися до Трухляя за роботою</text>
+	</string>
+
+	<string id="val_job_in_the_darkvalley_speak_bandit_desertir_text">
+		<text>Трухляй пропонував роботу. З огляду на нинішню ситуацію буде логічно погодитися.</text>
+	</string>
+
+	<string id="val_task_farm">
+		<text>РОБОТА В БРИГАДІ</text>
+	</string>
+
+	<string id="val_task_farm_search_stalkers_name">
+		<text>Дістатися до табору сталкерів на фермі</text>
+	</string>
+
+	<string id="val_task_farm_search_stalkers_text">
+		<text>В околицях Темної Долини десь є ще один вхід до лабораторії X-18. Треба відшукати його. Інформацію про це можуть знати сталкери з табору на фермі.</text>
+	</string>
+
+	<string id="val_task_farm_speak_first_name">
+		<text>Поговорити зі сталкером</text>
+	</string>
+
+	<string id="val_task_farm_speak_first_text">
+		<text>У сталкера є якась пропозиція. Треба поговорити.</text>
+	</string>
+
+	<string id="val_task_farm_searh_money_name">
+		<text>Достати гроші</text>.
+	</string>
+
+	<string id="val_task_farm_searh_money_text">
+		<text>Сталкери не стануть зі мною розмовляти, поки я не принесу їм гроші. Вимагають 1500 рублів.</text>
+	</string>
+
+	<string id="val_task_farm_speak_quest_stalker_name">
+		<text>Поговорити з Нездарою</text>.
+	</string>
+
+	<string id="val_task_farm_speak_quest_stalker_text">
+		<text>Нездара може знати щось щодо моєї справи.</text>
+	</string>
+
+	<string id="val_task_farm_searh_artefact_name">
+		<text>Відправитися за артефактом до «Розлому»</text>
+	</string>
+
+	<string id="val_task_farm_searh_artefact_text">
+		<text>Нездара розповість про секретний вхід в X-18, якщо я дістану йому артефакт.</text>
+	</string>
+
+	<string id="val_task_farm_follow_artefact_name">
+		<text>«Наздогнати» артефакт</text>
+	</string>
+
+	<string id="val_task_farm_follow_artefact_text">
+		<text>Що за чортівня? Варто мені тільки підійти, як артефакт кудись переміщується... Спробую переслідувати його.</text>
+	</string>
+
+	<string id="val_task_farm_check_house_name">
+		<text>Зхопити артефакт</text>.
+	</string>
+
+	<string id="val_task_farm_check_house_text">
+		<text>Здається, він із кожним разом усе ближче. Зараз ідеальний шанс його схопити...</text>
+	</string>
+
+	<string id="val_task_farm_kill_boss_name">
+		<text>Розобратися з поганню</text>.
+	</string>
+
+	<string id="val_task_farm_kill_boss_text">
+		<text> Хтось або щось явно не хоче відпускати мене живим...</text>
+	</string>
+
+	<string id="val_task_farm_take_artefact_name">
+		<text>Підібрати артефакт</text>.
+	</string>
+
+	<string id="val_task_farm_take_artefact_text">
+		<text>Ох, мати... Що ж це було? Скільки часу минуло? Макітра тріщить... Добре хоч, що артефакт більше не переміщується.</text>
+	</string>
+
+	<string id="val_task_farm_speak_quest_stalker_final_name">
+		<text>Віддати артефакт Нездарі</text>
+	</string>
+
+	<string id="val_task_farm_speak_quest_stalker_final_text">
+		<text>Інтересна вийшла історія... Кому розповім - не повірять. Треба віднести артефакт сталкеру.</text>
+	</string>
+
+	<string id="val_task_farm_check_spot_name">
+		<text>Відправитися до секретного входу</text>.
+	</string>
+
+	<string id="val_task_farm_check_spot_text">
+		<text>Нездара надав мені інформацію про таємний вхід до лабораторії. Розвідаю місцевість, а потім за винагородою.</text>
+	</string>
+
+	<string id="val_task_farm_alarm_call_name">
+		<text>Повернутися до табору бандитів</text>
+	</string>
+
+	<string id="val_task_farm_alarm_call_text">
+		<text>Трухляй терміново викликав у табір. Щось безперечно важливе...</text>
+	</string>
+
+	<string id="val_task_farm_speak_scientist_name">
+		<text>Зустрітися з вченим</text>
+	</string>
+
+	<string id="val_task_farm_speak_scientist_text">
+		<text>Трухляй попросив забрати у вченого дурь і передати йому гроші, щоб втілити свій план з крадіжки речей зі схованки на базі бандитів.</text>
+	</string>
+
+	<string id="val_scientist_task">
+		<text>СКАНЕР В ЕЛЕКТРІ</text>
+	</string>
+
+	<string id="val_scientist_task_set_scaner_name">
+		<text>Встановити прилад в аномалії</text>
+	</string>
+
+	<string id="val_scientist_task_set_scaner_text">
+		<text>Вчений попросив допомогти йому зі встановленням сканера в аномалії.</text>
+	</string>
+
+	<string id="val_scientist_task_scaner_place_compl_name">
+		<text>Поговорити з вченим</text>
+	</string>
+
+	<string id="val_scientist_task_scaner_place_compl_text">
+		<text>Прилад встановлено. Час поговорити з вченим.</text>
+	</string>
+
+	<string id="val_treasure_task">
+		<text>СХОВАНКА «ВОЛІ»</text>
+	</string>
+
+	<string id="val_treasure_task_start_robbery_name">
+		<text>Відправитись на базу бандитів</text>
+	</string>
+
+	<string id="val_treasure_task_start_robbery_text">
+		<text>За справу! Потрібно вирушити на базу бандитів і підсипати порошок у польову кухню.</text>
+	</string>
+
+	<string id="val_treasure_task_come_back_speak_name">
+		<text>Повернутися до Трухляя</text>
+	</string>
+
+	<string id="val_treasure_task_come_back_speak_text">
+		<text>Порошок підсипаний За кілька годин усе має спрацювати, і ми обчистимо схованку «Волі». А зараз потрібно повернутися до Трухляя і доповісти про успішне виконання.</text>
+	</string>
+
+	<string id="val_treasure_task_wait_message_name">
+		<text>Чекати сигналу від Трухляя</text>
+	</string>
+
+	<string id="val_treasure_task_wait_message_text">
+		<text>Трухляй дасть сигнал, коли потрібна буде допомога. Наразі треба розібратися зі входом до лабораторії.</text>
+	</string>
+
+	<string id="val_treasure_task_all_ready_name">
+		<text>Відправитися на місце збору</text>.
+	</string>
+
+	<string id="val_treasure_task_all_ready_text">
+		<text>По всій видимості все готово для початку операції. Потрібно зустрітися з групою Трухляя.</text>
+	</string>
+
+	<string id="val_treasure_task_follow_squad_name">
+		<text>Слідувати за бандитами</text>
+	</string>
+
+	<string id="val_treasure_task_follow_squad_text">
+		<text>Тара забрати кейс торговця і дізнатися, що знаходиться в схованці.</text>
+	</string>
+
+	<string id="val_labx18_boom">
+		<text>СЕКРЕТНИЙ ВХІД</text>
+	</string>
+
+	<string id="val_labx18_boom_go_start_name">
+		<text>Підірвати вхід до лабораторії</text>
+	</string>
+
+	<string id="val_labx18_boom_go_start_text">
+		<text>Трухляй дав завдання запечатати другий вхід до лабораторії.</text>
+	</string>
+
+	<string id="val_treasure_task_search_trader_case_name">
+		<text>Знайти кейс торговця</text>
+	</string>
+
+	<string id="val_treasure_task_search_trader_case_text">
+		<text>Поки бандити розбираються із входом у схованку, мені потрібно знайти артефакти торговця.</text>
+	</string>
+
+	<string id="val_treasure_task_start_robbery_squad_name">
+		<text>Повернутися до загіну</text>
+	</string>
+
+	<string id="val_treasure_task_start_robbery_squad_text">
+		<text>Пора повертатися до бандитів. Вони вже напевно розібралися зі входом у схованку.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_task">
+		<text>УСЕ ЗАДЛЯ МЕТИ</text>
+	</string>
+
+	<string id="val_bandits_base_passage_task_name">
+		<text>Роздобути для бандитів необхідне</text>
+	</string>
+
+	<string id="val_bandits_base_passage_task_text">
+		<text>Щоб потрапити на базу до бандитів і забрати артефакти Костура, потрібно як плату за прохід принести десяток антирадів або ж чотири тисячі рублів. У крайньому випадку згодиться який-небудь артефакт, що виводить радіацію.</text>.
+	</string>
+
+	<string id="val_prison_task">
+		<text>БАНДИТСЬКІ ДЕБРІ</text>
+	</string>
+
+	<string id="val_prison_task_start_name">
+		<text>Відгукнутися на прохання про допомогу</text>
+	</string>
+
+	<string id="val_prison_task_start_text">
+		<text>З підвалів будівлі бандитської бази якийсь сталкер попросив про допомогу.Вирогідно, це полонений бандитів. Як же це знайомо, сука... Потрібно дізнатися, як можна йому допомогти.</text>
+	</string>
+
+	<string id="val_prison_task_wait_need_moment_name">
+		<text>Вичікувати момент</text>
+	</string>
+
+	<string id="val_prison_task_wait_need_moment_text">
+		<text>Потрібно вичекати момент, коли можна буде допомогти Німому вибратися з бандитської в'язниці. Варто попрацювати на виродків, якщо щось підвернеться.</text>
+	</string>
+
+	<string id="val_prison_task_help_go_name">
+		<text>Витягнути сталкера</text>.
+	</string>
+
+	<string id="val_prison_task_help_go_text">
+		<text>За час моєї відсутності бандити мали вже заснути від підсипаної погані. У всякому разі, залишається тільки на це сподіватися. Варто спробувати витягнути сталкера з клітки.</text>
+	</string>
+
+	<string id="val_prison_task_open_door_name">
+		<text>Відкрити клітку</text>.
+	</string>
+
+	<string id="val_prison_task_open_door_text">
+		<text>Потрібно відкрити клітку та витягнути сталкера. Управління дверима здійснюється з пульта на стіні неподалік від клітки.</text>.
+	</string>
+
+	<string id="val_stalker_technic_task">
+		<text>РАДІОАМАТОР</text>.
+	</string>
+
+	<string id="val_stalker_technic_task_start_name">
+		<text>Знайти світильник і радіо</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_text">
+		<text>Дивна людина з ферми попросила мене знайти електросвітильник і радіо в гаражі неподалік від входу в лабораторію. Натомість обіцяв щедру нагороду.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_name">
+		<text>Віддати Гарпуну світильник і радіо</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_text">
+		<text>Усі предмети для радіоаматора знайдені, час віддати їх йому.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_wait_name">
+		<text>Дочекатися повідомлення від Гарпуна</text>.
+	</string>
+
+	<string id="val_stalker_technic_task_wait_text">
+		<text>Місцевий радіоаматор вирішив запропонувати ще одну справу, але після того, як розбереться зі своїми проблемами. Потрібно дочекатися від нього повідомлення.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_sos_name">
+		<text>Відгукнутись на сигнал SOS</text>.
+	</string>
+
+	<string id="val_stalker_technic_task_sos_text">
+		<text>Рило, один зі сталкерів на фермі, відправив сигнал SOS. Потрібно вирушити туди і дізнатися, що трапилося.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_kill_zombie_name">
+		<text>Вбити зомбі</text>
+	</string>
+
+	<string id="val_stalker_technic_task_kill_zombie_text">
+		<text>Всі сталкери на фермі були зомбовані. Скоріш за все, це справа рук Гарпуна. Потрібно заспокоїти сталкерів і вирішити, що робити далі.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_check_farm_name">
+		<text>Розібратися в тому, що сталося</text>
+	</string>
+
+	<string id="val_stalker_technic_task_check_farm_text">
+		<text>Варто прошерстити ферму і спробувати зрозуміти, що зомбувало сталкерів. Відтепер я точно впевнений, що це справа рук Гарпуна.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_kill_sniper_name">
+		<text>Ліквідувати снайпера</text>
+	</string>
+
+	<string id="val_stalker_technic_task_kill_sniper_text">
+		<text>На мене напав невідомий. Щоб дізнатися, хто це, його потрібно вбити.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_check_sniper_name">
+		<text>Ошукати снайпера</text>
+	</string>
+
+	<string id="val_stalker_technic_task_check_sniper_text">
+		<text>Нападник мертвий. Сподіваюся, при ньому є якісь зачіпки, що говорять про причини візиту до мене.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_solution_name">
+		<text>Розобратися із замовником</text>.
+	</string>
+
+	<string id="val_stalker_technic_task_solution_text">
+		<text>У найманця Пуми в ПДА виявилася частина діалогу із замовником. Судячи з усього, після виконання роботи їхня зустріч мала відбутися на заправці. Час вирушати туди і почати вирішувати цю проблему з ним віч-на-віч.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_kill_name">
+		<text>Вбити Гарпуна</text>
+	</string>
+
+	<string id="val_stalker_technic_task_kill_text">
+		<text>По-хорошому домовитися не вийшло. Залишається йти на крайні заходи.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_check_corp_name">
+		<text>Ошукати Гарпуна</text>.
+	</string>
+
+	<string id="val_stalker_technic_task_check_corp_text">
+		<text>У Гарпуна має бути щось, що дозволило йому не померти від згенерованого ним же псі-випромінювання. Потрібно забрати це і знищити його випромінювач.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_destroy_psy_name">
+		<text>Знищити псі-випромінювач</text>
+	</string>
+
+	<string id="val_stalker_technic_task_destroy_psy_text">
+		<text>Справу зроблено. Тепер залишилося знищити наслідки праці Гарпуна, щоб ніхто більше не потрапив у цю пастку.</text>
+	</string>
+
 </string_table>

@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="ui_gunsl_disassemble_button_hint">
-    <text>РћС‚РґР°С‚СЊ РїСЂРµРґРјРµС‚ РјРµС…Р°РЅРёРєСѓ РЅР° Р·Р°РїС‡Р°СЃС‚Рё</text>
-  </string>
-  <string id="ui_gunsl_disassemble">
-    <text>Р Р°Р·Р±РѕСЂРєР°</text>
-  </string>
-  <string id="ui_gunsl_disassemble_impossible">
-    <text>РњРµС…Р°РЅРёРє РЅРµ РёРЅС‚РµСЂРµСЃСѓРµС‚СЃСЏ Р·Р°РїС‡Р°СЃС‚СЏРјРё РЅР° РїРѕРґРѕР±РЅС‹Рµ РїСЂРµРґРјРµС‚С‹.</text>
-  </string>
-  <string id="ui_gunsl_disassemble_question">
-    <text>РћС‚РґР°С‚СЊ РїСЂРµРґРјРµС‚ РјРµС…Р°РЅРёРєСѓ РґР»СЏ СЂР°Р·Р±РѕСЂРєРё РЅР° Р·Р°РїС‡Р°СЃС‚Рё? Р­С‚Рѕ РјРѕР¶РµС‚ СЃРЅРёР·РёС‚СЊ СЃС‚РѕРёРјРѕСЃС‚СЊ СЂРµРјРѕРЅС‚Р° РґСЂСѓРіРѕРіРѕ РїРѕРґРѕР±РЅРѕРіРѕ РїСЂРµРґРјРµС‚Р°.</text>
-  </string>
-  <string id="ui_gunsl_disassemble_reward">
-    <text>РњРµС…Р°РЅРёРє РіРѕС‚РѕРІ РІС‹РєСѓРїРёС‚СЊ РґР°РЅРЅС‹Р№ РїСЂРµРґРјРµС‚ Сѓ РІР°СЃ. Р–РµР»Р°РµС‚Рµ РїСЂРѕРґР°С‚СЊ РµРіРѕ Р·Р° </text>
-  </string>
-  <string id="ui_gunsl_mechanic_needs_parts">
-    <text>РЈ РјРµС…Р°РЅРёРєР° РЅРµРґРѕСЃС‚Р°С‚РѕС‡РЅРѕ Р·Р°РїС‡Р°СЃС‚РµР№ РґР»СЏ РїРѕС‡РёРЅРєРё РґР°РЅРЅРѕРіРѕ РїСЂРµРґРјРµС‚Р°.</text>
-  </string>
-  <string id="ui_gunsl_mechanic_wait_parts_for_discount">
-    <text>Р’С‹ РјРѕР¶РµС‚Рµ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅРѕ СЃРЅРёР·РёС‚СЊ СЃС‚РѕРёРјРѕСЃС‚СЊ РґР°РЅРЅРѕРіРѕ СЂРµРјРѕРЅС‚Р°, СЃРґР°РІ РЅР° Р·Р°РїС‡Р°СЃС‚Рё Р°РЅР°Р»РѕРіРёС‡РЅС‹Рµ РїСЂРµРґРјРµС‚С‹.</text>
-  </string>
+	<string id="ui_gunsl_disassemble_button_hint">
+		<text>Отдать предмет механику на запчасти</text>
+	</string>
+	<string id="ui_gunsl_disassemble">
+		<text>Разборка</text>
+	</string>
+	<string id="ui_gunsl_disassemble_impossible">
+		<text>Механик не интересуется запчастями на подобные предметы.</text>
+	</string>
+	<string id="ui_gunsl_disassemble_question">
+		<text>Отдать предмет механику для разборки на запчасти? Это может снизить стоимость ремонта другого подобного предмета.</text>
+	</string>
+	<string id="ui_gunsl_disassemble_reward">
+		<text>Механик готов выкупить данный предмет у Вас. Желаете продать его за </text>
+	</string>
+	<string id="ui_gunsl_mechanic_needs_parts">
+		<text>У механика недостаточно запчастей для починки данного предмета.</text>
+	</string>
+	<string id="ui_gunsl_mechanic_wait_parts_for_discount">
+		<text>Вы можете дополнительно снизить стоимость данного ремонта, сдав на запчасти аналогичные предметы.</text>
+	</string>
 </string_table>

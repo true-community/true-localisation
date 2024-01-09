@@ -1,36 +1,49 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
+
 <string_table>
-  <string id="agru_diggers_robbery_search_weapon">
-    <text>Р’ РџР›Р•РќРЈ</text>
-  </string>
-  <string id="agru_diggers_robbery_search_weapon_start_name">
-    <text>РќР°Р№С‚Рё РѕСЂСѓР¶РёРµ С‚СЂСѓРїР° РІ В«РєРёСЃРµР»РµВ»</text>
-  </string>
-  <string id="agru_diggers_robbery_search_weapon_start_text">
-    <text>РњРѕСЂС‚РёРє СЃРєР°Р·Р°Р», С‡С‚Рѕ РѕСЂСѓР¶РёРµ Р±С‹Р»Рѕ РѕРєРѕР»Рѕ С‚СЂСѓРїР° РІ Р°РЅРѕРјР°Р»РёРё. РћСЃС‚Р°Р»РѕСЃСЊ С‚РµРїРµСЂСЊ РµРіРѕ РЅР°Р№С‚Рё.</text>
-  </string>
-  <string id="agru_diggers_robbery_search_weapon_final_name">
-    <text>РћС‚РґР°С‚СЊ РѕСЂСѓР¶РёРµ РњРѕСЂС‚РёРєСѓ</text>
-  </string>
-  <string id="agru_diggers_robbery_search_weapon_final_text">
-    <text>РЇ РґРѕСЃС‚Р°Р» РїСѓС€РєСѓ. РџРѕСЂР° РїРѕРґРЅРёРјР°С‚СЊСЃСЏ РЅР°РІРµСЂС….</text>
-  </string>
-  <string id="agru_search_artefact">
-    <text>Р–РђР”РќРћРЎРўР¬ РЎРўР•Р Р’РЇРўРќРРљРђ РЎР“РЈР‘РР›Рђ</text>
-  </string>
-  <string id="agru_search_artefact_start_name">
-    <text>РќР°Р№С‚Рё Р°СЂС‚РµС„Р°РєС‚ РІ В«РєРёСЃРµР»РµВ»</text>
-  </string>
-  <string id="agru_search_artefact_start_text">
-    <text>РЎС‚РµСЂРІСЏС‚РЅРёРє РїРѕРіРёР±, РїС‹С‚Р°СЏСЃСЊ РґРѕР±СЂР°С‚СЊСЃСЏ РґРѕ Р°СЂС‚РµС„Р°РєС‚Р° РІ В«РєРёСЃРµР»РµВ». РЎСѓРґСЏ РїРѕ РµРіРѕ СЂР°СЃСЃРєР°Р·Сѓ, РѕС‚РјС‹С‡РєР° РЅР°С‡Р°Р» СЃСѓРµС‚РёС‚СЊСЃСЏ Рё С‚РѕР»РєРЅСѓР» РµРіРѕ РІ Р°РЅРѕРјР°Р»РёСЋ, РїРѕСЃР»Рµ С‡РµРіРѕ СЃРіРёРЅСѓР» СЃР°Рј. РЎС‚СЂР°РЅРЅРѕ, С‡С‚Рѕ Р°СЂС‚РµС„Р°РєС‚ РЅРµ СЂР°СЃРїРѕР·РЅР°РµС‚СЃСЏ РјРѕРёРј РґРµС‚РµРєС‚РѕСЂРѕРј. РњРѕР¶РµС‚, РµРіРѕ СѓР¶Рµ РІС‹С‚Р°С‰РёР» РЅРµРєРёР№ Р СЌРґ? РР»Рё РґРµР»Рѕ РІ РґСЂСѓРіРѕРј?</text>
-  </string>
-  <string id="agru_after_stalker_help_task">
-    <text>РЎРњР•Р РўР¬ Р’ В«РљРРЎР•Р›Р•В»</text>
-  </string>
-  <string id="agru_after_stalker_help_task_start_name">
-    <text>Р”РѕР±С‹С‚СЊ Р°СЂС‚РµС„Р°РєС‚ Рё РґРѕСЃС‚Р°С‚СЊ РѕСЂСѓР¶РёРµ РёР»Рё СѓР№С‚Рё</text>
-  </string>
-  <string id="agru_after_stalker_help_task_start_text">
-    <text>РЎСѓРґСЏ РїРѕ РІСЃРµРјСѓ, Р·РґРµСЃСЊ РјРѕР¶РЅРѕ РЅР°Р№С‚Рё РєР°РєРѕР№-С‚Рѕ СЂРµРґРєРёР№ Р°СЂС‚РµС„Р°РєС‚ СЃ РїРѕРјРѕС‰СЊСЋ РґРµС‚РµРєС‚РѕСЂР° РѕРґРЅРѕРіРѕ РёР· РїРѕРіРёР±С€РёС… СЃС‚Р°Р»РєРµСЂРѕРІ, РґР° Рё РїСѓС€РєР° СЃ С‚СЂСѓРїР° РЅРµ РїРѕРјРµС€Р°РµС‚.</text>
-  </string>
+
+	<string id="agru_diggers_robbery_search_weapon">
+		<text>В ПЛЕНУ</text>
+	</string>
+
+	<string id="agru_diggers_robbery_search_weapon_start_name">
+		<text>Найти оружие трупа в «киселе»</text>
+	</string>
+
+	<string id="agru_diggers_robbery_search_weapon_start_text">
+		<text>Мортик сказал, что оружие было около трупа в аномалии. Осталось теперь его найти.</text>
+	</string>
+
+	<string id="agru_diggers_robbery_search_weapon_final_name">
+		<text>Отдать оружие Мортику</text>
+	</string>
+
+	<string id="agru_diggers_robbery_search_weapon_final_text">
+		<text>Я достал пушку. Пора подниматься наверх.</text>
+	</string>
+
+	<string id="agru_search_artefact">
+		<text>ЖАДНОСТЬ СТЕРВЯТНИКА СГУБИЛА</text>
+	</string>
+
+	<string id="agru_search_artefact_start_name">
+		<text>Найти артефакт в «киселе»</text>
+	</string>
+
+	<string id="agru_search_artefact_start_text">
+		<text>Стервятник погиб, пытаясь добраться до артефакта в «киселе». Судя по его рассказу, отмычка начал суетиться и толкнул его в аномалию, после чего сгинул сам. Странно, что артефакт не распознается моим детектором. Может, его уже вытащил некий Рэд? Или дело в другом?</text>
+	</string>
+
+	<string id="agru_after_stalker_help_task">
+		<text>СМЕРТЬ В «КИСЕЛЕ»</text>
+	</string>
+
+	<string id="agru_after_stalker_help_task_start_name">
+		<text>Добыть артефакт и достать оружие или уйти</text>
+	</string>
+
+	<string id="agru_after_stalker_help_task_start_text">
+		<text>Судя по всему, здесь можно найти какой-то редкий артефакт с помощью детектора одного из погибших сталкеров, да и пушка с трупа не помешает.</text>
+	</string>
+
 </string_table>

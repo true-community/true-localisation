@@ -1,327 +1,436 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="cant_walk">
-    <text>Р’Рё Р·Р°РЅР°РґС‚Рѕ РІРёСЃРЅР°Р¶РµРЅС–, С‰РѕР± СЂСѓС…Р°С‚РёСЃСЏ</text>
-  </string>
-  <string id="cant_walk_weight">
-    <text>Р’Рё Р·Р°РЅР°РґС‚Рѕ РїРµСЂРµРІР°РЅС‚Р°Р¶РµРЅС–, С€РѕР± СЂСѓС…Р°С‚РёСЃСЏ</text>
-  </string>
-  <string id="general_complete_task">
-    <text>Р—Р°РІРґР°РЅРЅСЏ РІРёРєРѕРЅР°РЅРѕ:</text>
-  </string>
-  <string id="general_fail_task">
-    <text>Р—Р°РІРґР°РЅРЅСЏ РїСЂРѕРІР°Р»РµРЅРѕ:</text>
-  </string>
-  <string id="general_in_item">
-    <text>РћС‚СЂРёРјР°РЅРѕ РїСЂРµРґРјРµС‚:</text>
-  </string>
-  <string id="general_in_money">
-    <text>РћС‚СЂРёРјР°РЅРѕ РіСЂРѕС€С–:</text>
-  </string>
-  <string id="general_new_task">
-    <text>РќРѕРІРµ Р·Р°РІРґР°РЅРЅСЏ:</text>
-  </string>
-  <string id="general_out_item">
-    <text>Р’С‚СЂР°С‡РµРЅРѕ РїСЂРµРґРјРµС‚:</text>
-  </string>
-  <string id="general_out_money">
-    <text>Р’С‚СЂР°С‡РµРЅРѕ РіСЂРѕС€С–:</text>
-  </string>
-  <string id="general_reverse_task">
-    <text>Р—Р°РІРґР°РЅРЅСЏ СЃРєР°СЃРѕРІР°РЅРѕ:</text>
-  </string>
-  <string id="general_update_task">
-    <text>Р—Р°РІРґР°РЅРЅСЏ РѕРЅРѕРІР»РµРЅРѕ:</text>
-  </string>
-  <string id="gun_jammed">
-    <text>Р—Р‘Р РћР® Р—РђРљР›РРќРР›Рћ</text>
-  </string>
-  <string id="torch_battery_out">
-    <text>Р‘РђРўРђР Р•РЇ Р РћР—Р РЇР”Р–Р•РќРђ</text>
-  </string>
-  <string id="jup_b10_ufo_searching_tips">
-    <text>РћР±С€СѓРєР°С‚Рё Р»С–С‚Р°Р»СЊРЅРёР№ Р°РїР°СЂР°С‚ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="jup_b1_bar_door">
-    <text>Р”РІРµСЂС– Р·Р°РєР»РёРЅРёР»Рѕ</text>
-  </string>
-  <string id="jup_b1_door_is_closed">
-    <text>Р”РІРµСЂС– Р·Р°С‡РёРЅРµРЅРѕ Р·СЃРµСЂРµРґРёРЅРё</text>
-  </string>
-  <string id="jup_b202_treasures_closed">
-    <text>РЎРµР№С„ Р·Р°РјРєРЅРµРЅРѕ</text>
-  </string>
-  <string id="jup_b205_tip_door_closed">
-    <text>РџРѕС‚СЂС–Р±РµРЅ РєРѕРґ</text>
-  </string>
-  <string id="jup_b205_tip_door_decode">
-    <text>Р’РІРµСЃС‚Рё РєРѕРґ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="jup_b206_use_plant">
-    <text>Р—С–СЂРІР°С‚Рё СЂРѕСЃР»РёРЅСѓ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="jup_b209_scanner_place_tips">
-    <text>Р’СЃС‚Р°РЅРѕРІРёС‚Рё СЃРєР°РЅРµСЂ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="jup_b209_scanner_remove_tips">
-    <text>Р—Р°Р±СЂР°С‚Рё СЃРєР°РЅРµСЂ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="lx8_raduga">
-    <text>РџСЂРёРіРЅС–С‡СѓРІР°С‡ Р°РіСЂРµСЃС–С— В«Р’РµСЃРµР»РєР°В»\nРјР°РєРµС‚ Р·РѕРІРЅС–С€РЅСЊРѕРіРѕ РєРѕРјРїР»РµРєСЃСѓ РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ\nРјР°СЃС€С‚Р°Р± 1:20</text>
-  </string>
-  <string id="pas_b400_tip_switcher">
-    <text>РџС–РґРЅСЏС‚Рё РІР°Р¶С–Р»СЊ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="pri_a18_use_idol">
-    <text>РћРіР»СЏРЅСѓС‚Рё РєРѕРЅСЃС‚СЂСѓРєС†С–СЋ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="pri_a25_blow_up_enter_door">
-    <text>Р—Р°РєР»Р°СЃС‚Рё РІРёР±СѓС…С–РІРєСѓ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="pri_a28_talk_with_stupid_medic">
-    <text>РџСЂРёРІРµСЃС‚Рё РґРѕ С‚СЏРјРё ($$ACTION_USE$$)</text>
-  </string>
-  <string id="pri_b306_elevator_door_locked_used">
-    <text>Р›С–С„С‚ Р·РЅРµСЃС‚СЂСѓРјР»РµРЅРѕ</text>
-  </string>
-  <string id="pri_b306_generator_use">
-    <text>Р—Р°РїСѓСЃС‚РёС‚Рё РіРµРЅРµСЂР°С‚РѕСЂ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="sleep_ok_button">
-    <text>РЎРїР°С‚Рё</text>
-  </string>
-  <string id="st_ach_balance_advocate">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РџСЂРёР±С–С‡РЅРёРє СЂС–РІРЅРѕРІР°РіРёВ».</text>
-  </string>
-  <string id="st_ach_battle_systems_master">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РњР°Р№СЃС‚РµСЂ Р±РѕР№РѕРІРёС… СЃРёСЃС‚РµРјВ».</text>
-  </string>
-  <string id="st_ach_detective">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РЎРёС‰РёРєВ».</text>
-  </string>
-  <string id="st_ach_diplomat">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«Р”РёРїР»РѕРјР°С‚В».</text>
-  </string>
-  <string id="st_ach_friend_of_duty">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«Р”СЂСѓРі В«Р”РѕР»РіСѓВ».</text>
-  </string>
-  <string id="st_ach_friend_of_freedom">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«Р”СЂСѓРі В«Р’РѕР»С–В».</text>
-  </string>
-  <string id="st_ach_friend_of_stalkers">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«Р”СЂСѓРі СЃС‚Р°Р»РєРµСЂС–РІВ».</text>
-  </string>
-  <string id="st_ach_herald_of_justice">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«Р“РѕРЅРµС†СЊ РїСЂР°РІРѕСЃСѓРґРґСЏВ».</text>
-  </string>
-  <string id="st_ach_high_tech_master">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РњР°Р№СЃС‚РµСЂ РІРёСЃРѕРєРёС… С‚РµС…РЅРѕР»РѕРіС–Р№В».</text>
-  </string>
-  <string id="st_ach_information_dealer">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РўРѕСЂРіРѕРІРµС†СЊ С–РЅС„РѕСЂРјР°С†С–С”СЋВ».</text>
-  </string>
-  <string id="st_ach_keeper_of_secrets">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«Р—Р±РµСЂС–РіР°С‡ С‚Р°С”РјРЅРёС†СЊВ».</text>
-  </string>
-  <string id="st_ach_kingpin">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РђРІС‚РѕСЂРёС‚РµС‚В».</text>
-  </string>
-  <string id="st_ach_leader">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«Р›С–РґРµСЂВ».</text>
-  </string>
-  <string id="st_ach_mutant_hunter">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РњРёСЃР»РёРІРµС†СЊ РЅР° РјСѓС‚Р°РЅС‚С–РІВ».</text>
-  </string>
-  <string id="st_ach_one_of_the_lads">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РЎРІС–Р№ С…Р»РѕРїРµС†СЊВ».</text>
-  </string>
-  <string id="st_ach_pioneer">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РџРµСЂС€РѕРІС–РґРєСЂРёРІР°С‡В».</text>
-  </string>
-  <string id="st_ach_research_man">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РќР°СѓРєРѕРІС–Р№ СЃРїС–РІСЂРѕР±С–С‚РЅРёРєВ».</text>
-  </string>
-  <string id="st_ach_seeker">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РЁСѓРєР°С‡В».</text>
-  </string>
-  <string id="st_ach_skilled_stalker">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«Р”РѕСЃРІС–РґС‡РµРЅРёР№ СЃС‚Р°Р»РєРµСЂВ».</text>
-  </string>
-  <string id="st_ach_wealthy">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«Р—Р°РјРѕР¶РЅРёР№ РєР»С–С”РЅС‚В».</text>
-  </string>
-  <string id="st_autosave">
-    <text>РђРІС‚РѕР·Р±РµСЂРµР¶РµРЅРЅСЏ...</text>
-  </string>
-  <string id="st_can_use_weapon_now">
-    <text>РўРµРїРµСЂ РјРѕР¶РЅР° РґС–СЃС‚Р°С‚Рё Р·Р±СЂРѕСЋ</text>
-  </string>
-  <string id="st_detective_news">
-    <text>Р—Р° СЂРѕР·РєСЂРёС‚С‚СЏ СЃРїСЂР°РІРё Р·РЅРёРєРЅРµРЅРЅСЏ СЃС‚Р°Р»РєРµСЂС–РІ Сѓ РѕСЃРѕР±РёСЃС‚РёР№ СЏС‰РёРє РЅР° В«РЎРєР°РґРѕРІСЃСЊРєСѓВ» РґРѕРґР°РЅРѕ РјРµРґРёРєР°РјРµРЅС‚Рё.</text>
-  </string>
-  <string id="st_duty_first_reward_news">
-    <text>Р—Р° РґРѕРїРѕРјРѕРіСѓ В«Р”РѕР»РіСѓВ» РІ РѕСЃРѕР±РёСЃС‚РёР№ СЏС‰РёРє РЅР° В«РЇРЅРѕРІС–В» РґРѕРґР°РЅРѕ РєРѕСЃС‚СЋРј РџРЎ5-Рњ В«РЈРЅС–РІРµСЂСЃР°Р»СЊРЅРёР№ Р·Р°С…РёСЃС‚В».</text>
-  </string>
-  <string id="st_duty_second_reward_news">
-    <text>Р—Р° РґРѕРїРѕРјРѕРіСѓ В«Р”РѕР»РіСѓВ» РІ РѕСЃРѕР±РёСЃС‚РёР№ СЏС‰РёРє РЅР° В«РЇРЅРѕРІС–В» РґРѕРґР°РЅРѕ РєРѕСЃС‚СЋРј РџРЎР—-9Рґ В«Р‘СЂРѕРЅСЏ В«Р”РѕР»РіСѓВ».</text>
-  </string>
-  <string id="st_freedom_first_reward_news">
-    <text>Р—Р° РґРѕРїРѕРјРѕРіСѓ В«Р’РѕР»С–В» РІ РѕСЃРѕР±РёСЃС‚РёР№ СЏС‰РёРє РЅР° В«РЇРЅРѕРІС–В» РґРѕРґР°РЅРѕ РєРѕСЃС‚СЋРј В«Р’С–С‚РµСЂ РІРѕР»С–В».</text>
-  </string>
-  <string id="st_freedom_second_reward_news">
-    <text>Р—Р° РґРѕРїРѕРјРѕРіСѓ В«Р’РѕР»С–В» РІ РѕСЃРѕР±РёСЃС‚РёР№ СЏС‰РёРє РЅР° В«РЇРЅРѕРІС–В» РґРѕРґР°РЅРѕ РєРѕСЃС‚СЋРј В«Р’Р°СЂС‚РѕРІРёР№ РІРѕР»С–В».</text>
-  </string>
-  <string id="st_freeplay_text_ok">
-    <text>Р’Рё РЅРµ РІСЃС‚РёРіР»Рё РґС–СЃС‚Р°С‚РёСЃСЏ РіРµР»С–РєРѕРїС‚РµСЂС–РІ. Р“СЂСѓРїР° РµРІР°РєСѓР°С†С–С— Р·Р°Р»РёС€РёР»Р° Р—РѕРЅСѓ Р±РµР· РІР°СЃ.</text>
-  </string>
-  <string id="st_freeplay_text_yes_no">
-    <text>Р§Рё РіРѕС‚РѕРІС– РІРё Р·Р°Р»РёС€РёС‚Рё Р—РѕРЅСѓ? Р”РѕСЂРѕРіРё РЅР°Р·Р°Рґ РЅРµ Р±СѓРґРµ.</text>
-  </string>
-  <string id="st_game_over">
-    <text>Р“Р РЈ Р—РђР’Р•Р РЁР•РќРћ</text>
-  </string>
-  <string id="st_game_over_lol_1">
-    <text>РџРћРњР•Р </text>
-  </string>
-  <string id="st_game_over_lol_2">
-    <text>Р’РРўР РђР§Р•РќРћ</text>
-  </string>
-  <string id="st_game_over_lol_3">
-    <text>Р’ Р Рџ Р  Рћ Р“ Р  Рђ Р› Р !!!</text>
-  </string>
-  <string id="st_game_over_advice_1">
-    <text>РЈ Р—РћРќР† РўР Р•Р‘Рђ Р‘РЈРўР РЈР’РђР–РќР†РЁРРњ</text>
-  </string>
-  <string id="st_game_over_load_save">
-    <text>%c[info_orange][$$ACTION_JUMP$$] %c[info_title]Р—Р°РІР°РЅС‚Р°Р¶РёС‚Рё РѕСЃС‚Р°РЅРЅС” Р·Р±РµСЂРµР¶РµРЅРЅСЏ</text>
-  </string>
-  <string id="st_game_over_exit_menu">
-    <text>%c[info_orange][$$ACTION_QUIT$$] %c[info_title]Р’РёР№С‚Рё РІ РјРµРЅСЋ</text>
-  </string>
-  <string id="st_game_paused">
-    <text>РџРђРЈР—Рђ</text>
-  </string>
-  <string id="st_game_saved">
-    <text>Р—Р‘Р•Р Р•Р–Р•РќРќРЇ Р“Р Р</text>
-  </string>
-  <string id="st_herald_of_justice_news">
-    <text>Р—Р° РґРѕРїРѕРјРѕРіСѓ Сѓ РІРёРєСЂРёС‚С‚С– РЎРѕСЂРѕРєРё РІ РѕСЃРѕР±РёСЃС‚РёР№ СЏС‰РёРє РЅР° В«РЎРєР°РґРѕРІСЃСЊРєСѓВ» РґРѕРґР°РЅРѕ Р°СЂС‚РµС„Р°РєС‚.</text>
-  </string>
-  <string id="st_jup_b41_door_locked">
-    <text>РќРµРѕР±С…С–РґРЅРѕ РґРѕС‡РµРєР°С‚РёСЃСЏ РіРµСЂРјРµС‚РёР·Р°С†С–С— С€Р»СЋР·Сѓ</text>
-  </string>
-  <string id="st_lx8_button_press_true">
-    <text>Р”РѕСЃС‚СѓРї РґРѕР·РІРѕР»РµРЅРѕ</text>
-  </string>
-  <string id="st_lx8_lift_button">
-    <text>РџС–РґРЅСЏС‚РёСЃСЏ Р»С–С„С‚РѕРј ($$ACTION_USE$$)</text>
-  </string>
-  <string id="st_pri_b306_go_down">
-    <text>РЎРїСѓСЃС‚РёС‚РёСЃСЏ Р»С–С„С‚РѕРј ($$ACTION_USE$$)</text>
-  </string>
-  <string id="st_attention">
-    <text>РЈР’РђР“Рђ</text>
-  </string>
-  <string id="st_psy_danger">
-    <text>РљР РРўРР§РќРР™ Р Р†Р’Р•РќР¬ РџРЎР†-Р’РРџР РћРњР†РќР®Р’РђРќРќРЇ! РќР•Р“РђР™РќРћ Р—РђР›РРЁРўР• РќР•Р‘Р•Р—РџР•Р§РќРЈ Р—РћРќРЈ!</text>
-  </string>
-  <string id="st_radiation_danger">
-    <text>РќР•Р‘Р•Р—РџР•Р§РќРР™ Р Р†Р’Р•РќР¬ Р РђР”Р†РђР¦Р†Р‡! Р”Р›РЇ РџР РћРҐРћР”РЈ РџРћРўР IР‘Р•Рќ Р—РђРҐРРЎРў!</text>
-  </string>
-  <string id="st_search_helicopter">
-    <text>РћРіР»СЏРЅСѓС‚Рё РІРµСЂС‚РѕР»С–С‚ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="st_sleep_hours">
-    <text>Рі</text>
-  </string>
-  <string id="st_tip">
-    <text>РџРѕРІС–РґРѕРјР»РµРЅРЅСЏ</text>
-  </string>
-  <string id="tip_door_closed_base_alarm">
-    <text>Р”РІРµСЂС– Р·Р°РјРєРЅРµРЅРѕ  вЂ”  Сѓ С‚Р°Р±РѕСЂС– С‚СЂРёРІРѕРіР°</text>
-  </string>
-  <string id="tip_door_closed_hide_weapon">
-    <text>Р”РІРµСЂС– Р·Р°РјРєРЅРµРЅРѕ  вЂ”  РЅРµРѕР±С…С–РґРЅРѕ СЃС…РѕРІР°С‚Рё Р·Р±СЂРѕСЋ</text>
-  </string>
-  <string id="tip_door_locked">
-    <text>%c[ts_ui_red] Р”Р’Р•Р I Р—РђРњРљРќР•РќРћ</text>
-  </string>
-  <string id="tip_door_no_electricity">
-    <text>Р”РІРµСЂС– Р·РЅРµСЃС‚СЂСѓРјР»РµРЅРѕ</text>
-  </string>
-  <string id="tip_gate_locked">
-    <text>Р’РѕСЂРѕС‚Р° Р·Р°Р±Р»РѕРєРѕРІР°РЅРѕ</text>
-  </string>
-  <string id="tip_need_access_card">
-    <text>РЎРєРѕСЂРёСЃС‚Р°С‚РёСЃСЏ РєР°СЂС‚РѕСЋ РґРѕСЃС‚СѓРїСѓ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="tip_no_access_card">
-    <text>РќРµРѕР±С…С–РґРЅРѕ РєР°СЂС‚Сѓ РґРѕСЃС‚СѓРїСѓ</text>
-  </string>
-  <string id="tip_open_another_site">
-    <text>Р”РІРµСЂС– РЅРµРјРѕР¶Р»РёРІРѕ РІС–РґС‡РёРЅРёС‚Рё С–Р· С†СЊРѕРіРѕ Р±РѕРєСѓ</text>
-  </string>
-  <string id="ui_st_mp_experience_grow">
-    <text>-</text>
-  </string>
-  <string id="zat_b12_conteiner_full_locked">
-    <text>РљРѕРЅС‚РµР№РЅРµСЂ Р·Р°РјРєРЅРµРЅРѕ  вЂ”  РЅРµРѕР±С…С–РґРЅРѕ РґРІР° РєР»СЋС‡С–</text>
-  </string>
-  <string id="zat_b12_conteiner_has_one_key">
-    <text>Р’РёРєРѕСЂРёСЃС‚Р°С‚Рё РєР»СЋС‡ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="zat_b12_conteiner_has_two_key">
-    <text>Р’РёРєРѕСЂРёСЃС‚Р°С‚Рё РєР»СЋС‡С– ($$ACTION_USE$$)</text>
-  </string>
-  <string id="zat_b12_conteiner_locked">
-    <text>РљРѕРЅС‚РµР№РЅРµСЂ Р·Р°РјРєРЅРµРЅРѕ  вЂ”  РїРѕС‚СЂС–Р±РµРЅ РґСЂСѓРіРёР№ РєР»СЋС‡</text>
-  </string>
-  <string id="zat_b12_conteiner_open">
-    <text>Р’С–РґС‡РёРЅРёС‚Рё РєРѕРЅС‚РµР№РЅРµСЂ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="zat_b14_door_locked_hint">
-    <text>РњРµС…Р°РЅС–Р·Рј РґРІРµСЂРµР№ Р·Р°Р±Р»РѕРєРѕРІР°РЅРѕ Р·СЃРµСЂРµРґРёРЅРё</text>
-  </string>
-  <string id="zat_b57_balon_use_hint">
-    <text>РџС–Рґ'С”РґРЅР°С‚Рё РіР°Р·РѕРІРёР№ Р±Р°Р»РѕРЅ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="zat_b57_gas_warning">
-    <text>РћР±РµСЂРµР¶РЅРѕ! РҐС–РјС–С‡РЅР° РЅРµР±РµР·РїРµРєР°!</text>
-  </string>
-  <string id="zat_b57_vintil_press">
-    <text>РџРѕРІРµСЂРЅСѓС‚Рё РІРµРЅС‚РёР»СЊ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="zat_b33_car_searching_tip">
-    <text>РћР±С€СѓРєР°С‚Рё В«Р—Р°РїРѕСЂРѕР¶РµС†СЊВ» ($$ACTION_USE$$)</text>
-  </string>
-  <string id="st_resupply_ready">
-    <text>РџРµСЂРµРґ РѕРїРµСЂР°С†С–С”СЋ РјРѕР¶РЅР° РїРѕРїРѕРІРЅРёС‚Рё Р·Р°РїР°СЃ РјРµРґРёРєР°РјРµРЅС‚С–РІ С‚Р° Р±РѕС”РїСЂРёРїР°СЃС–РІ Сѓ Р»РµР№С‚РµРЅР°РЅС‚С–РІ Р РѕРіС–РІС†СЏ С‚Р° РљРёСЂРёР»РѕРІР°.</text>
-  </string>
-  <string id="st_surge_while_asleep">
-    <text>РЈ Р—РѕРЅС– РЅРµС‰РѕРґР°РІРЅРѕ СЃС‚Р°РІСЃСЏ РІРёРєРёРґ.</text>
-  </string>
-  <string id="st_ach_marked_by_zone">
-    <text>РћС‚СЂРёРјР°РЅРѕ РґРѕСЃСЏРіРЅРµРЅРЅСЏ В«РњС–С‡РµРЅРёР№ Р—РѕРЅРѕСЋВ»</text>
-  </string>
-  <string id="st_mutant_hunter_news">
-    <text>Р—Р° Р·РЅРёС‰РµРЅРЅСЏ РЅРµР±РµР·РїРµС‡РЅРёС… РјСѓС‚Р°РЅС‚С–РІ Сѓ РѕСЃРѕР±РёСЃС‚РёР№ СЏС‰РёРє РЅР° В«РЇРЅРѕРІС–В» РґРѕРґР°РЅРѕ Р±РѕС”РїСЂРёРїР°СЃРё</text>
-  </string>
-  <string id="st_found_old_treasure">
-    <text>РћС‚СЂРёРјР°РЅРѕ РєРѕРѕСЂРґРёРЅР°С‚Рё СЂР°РЅС–С€Рµ Р·РЅР°Р№РґРµРЅРѕРіРѕ СЃС…РѕРІРєСѓ</text>
-  </string>
-  <string id="st_got_treasure">
-    <text>Р—РЅР°Р№РґРµРЅРѕ СЃС…РѕРІРѕРє</text>
-  </string>
-  <string id="st_found_new_treasure">
-    <text>РћС‚СЂРёРјР°РЅРѕ РєРѕРѕСЂРґРёРЅР°С‚Рё СЃС…РѕРІРєСѓ</text>
-  </string>
-  <string id="st_press_any_key">
-    <text>[SPACE] РџСЂРѕРґРѕРІР¶РёС‚Рё</text>
-  </string>
-  <string id="st_game_complete">
-    <text>Р”РђР›Р† Р‘РЈР”Р•...</text>
-  </string>
-  <string id="st_playing_time">
-    <text>Р§РђРЎ Р“Р Р</text>
-  </string>
+
+	<string id="cant_walk">
+		<text>Ви занадто виснажені, щоб рухатися</text>
+	</string>
+
+	<string id="cant_walk_weight">
+		<text>Ви занадто перевантажені, шоб рухатися</text>
+	</string>
+
+	<string id="general_complete_task">
+		<text>Завдання виконано:</text>
+	</string>
+
+	<string id="general_fail_task">
+		<text>Завдання провалено:</text>
+	</string>
+
+	<string id="general_in_item">
+		<text>Отримано предмет:</text>
+	</string>
+
+	<string id="general_in_money">
+		<text>Отримано гроші:</text>
+	</string>
+
+	<string id="general_new_task">
+		<text>Нове завдання:</text>
+	</string>
+
+	<string id="general_out_item">
+		<text>Втрачено предмет:</text>
+	</string>
+
+	<string id="general_out_money">
+		<text>Втрачено гроші:</text>
+	</string>
+
+	<string id="general_reverse_task">
+		<text>Завдання скасовано:</text>
+	</string>
+
+	<string id="general_update_task">
+		<text>Завдання оновлено:</text>
+	</string>
+
+	<string id="gun_jammed">
+		<text>ЗБРОЮ ЗАКЛИНИЛО</text>
+	</string>
+
+	<string id="torch_battery_out">
+		<text>БАТАРЕЯ РОЗРЯДЖЕНА</text>
+	</string>
+
+	<string id="jup_b10_ufo_searching_tips">
+		<text>Обшукати літальний апарат ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b1_bar_door">
+		<text>Двері заклинило</text>
+	</string>
+
+	<string id="jup_b1_door_is_closed">
+		<text>Двері зачинено зсередини</text>
+	</string>
+
+	<string id="jup_b202_treasures_closed">
+		<text>Сейф замкнено</text>
+	</string>
+
+	<string id="jup_b205_tip_door_closed">
+		<text>Потрібен код</text>
+	</string>
+
+	<string id="jup_b205_tip_door_decode">
+		<text>Ввести код ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b206_use_plant">
+		<text>Зірвати рослину ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b209_scanner_place_tips">
+		<text>Встановити сканер ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="jup_b209_scanner_remove_tips">
+		<text>Забрати сканер ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="lx8_raduga">
+		<text>Пригнічувач агресії «Веселка»\nмакет зовнішнього комплексу випромінювання\nмасштаб 1:20</text>
+	</string>
+
+	<string id="pas_b400_tip_switcher">
+		<text>Підняти важіль ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_a18_use_idol">
+		<text>Оглянути конструкцію ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_a25_blow_up_enter_door">
+		<text>Закласти вибухівку ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_a28_talk_with_stupid_medic">
+		<text>Привести до тями ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="pri_b306_elevator_door_locked_used">
+		<text>Ліфт знеструмлено</text>
+	</string>
+
+	<string id="pri_b306_generator_use">
+		<text>Запустити генератор ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="sleep_ok_button">
+		<text>Спати</text>
+	</string>
+
+	<string id="st_ach_balance_advocate">
+		<text>Отримано досягнення «Прибічник рівноваги».</text>
+	</string>
+
+	<string id="st_ach_battle_systems_master">
+		<text>Отримано досягнення «Майстер бойових систем».</text>
+	</string>
+
+	<string id="st_ach_detective">
+		<text>Отримано досягнення «Сищик».</text>
+	</string>
+
+	<string id="st_ach_diplomat">
+		<text>Отримано досягнення «Дипломат».</text>
+	</string>
+
+	<string id="st_ach_friend_of_duty">
+		<text>Отримано досягнення «Друг «Долгу».</text>
+	</string>
+
+	<string id="st_ach_friend_of_freedom">
+		<text>Отримано досягнення «Друг «Волі».</text>
+	</string>
+
+	<string id="st_ach_friend_of_stalkers">
+		<text>Отримано досягнення «Друг сталкерів».</text>
+	</string>
+
+	<string id="st_ach_herald_of_justice">
+		<text>Отримано досягнення «Гонець правосуддя».</text>
+	</string>
+
+	<string id="st_ach_high_tech_master">
+		<text>Отримано досягнення «Майстер високих технологій».</text>
+	</string>
+
+	<string id="st_ach_information_dealer">
+		<text>Отримано досягнення «Торговець інформацією».</text>
+	</string>
+
+	<string id="st_ach_keeper_of_secrets">
+		<text>Отримано досягнення «Зберігач таємниць».</text>
+	</string>
+
+	<string id="st_ach_kingpin">
+		<text>Отримано досягнення «Авторитет».</text>
+	</string>
+
+	<string id="st_ach_leader">
+		<text>Отримано досягнення «Лідер».</text>
+	</string>
+
+	<string id="st_ach_mutant_hunter">
+		<text>Отримано досягнення «Мисливець на мутантів».</text>
+	</string>
+
+	<string id="st_ach_one_of_the_lads">
+		<text>Отримано досягнення «Свій хлопець».</text>
+	</string>
+
+	<string id="st_ach_pioneer">
+		<text>Отримано досягнення «Першовідкривач».</text>
+	</string>
+
+	<string id="st_ach_research_man">
+		<text>Отримано досягнення «Науковій співробітник».</text>
+	</string>
+
+	<string id="st_ach_seeker">
+		<text>Отримано досягнення «Шукач».</text>
+	</string>
+
+	<string id="st_ach_skilled_stalker">
+		<text>Отримано досягнення «Досвідчений сталкер».</text>
+	</string>
+
+	<string id="st_ach_wealthy">
+		<text>Отримано досягнення «Заможний клієнт».</text>
+	</string>
+
+	<string id="st_autosave">
+		<text>Автозбереження...</text>
+	</string>
+
+	<string id="st_can_use_weapon_now">
+		<text>Тепер можна дістати зброю</text>
+	</string>
+
+	<string id="st_detective_news">
+		<text>За розкриття справи зникнення сталкерів у особистий ящик на «Скадовську» додано медикаменти.</text>
+	</string>
+
+	<string id="st_duty_first_reward_news">
+		<text>За допомогу «Долгу» в особистий ящик на «Янові» додано костюм ПС5-М «Універсальний захист».</text>
+	</string>
+
+	<string id="st_duty_second_reward_news">
+		<text>За допомогу «Долгу» в особистий ящик на «Янові» додано костюм ПСЗ-9д «Броня «Долгу».</text>
+	</string>
+
+	<string id="st_freedom_first_reward_news">
+		<text>За допомогу «Волі» в особистий ящик на «Янові» додано костюм «Вітер волі».</text>
+	</string>
+
+	<string id="st_freedom_second_reward_news">
+		<text>За допомогу «Волі» в особистий ящик на «Янові» додано костюм «Вартовий волі».</text>
+	</string>
+
+	<string id="st_freeplay_text_ok">
+		<text>Ви не встигли дістатися гелікоптерів. Група евакуації залишила Зону без вас.</text>
+	</string>
+
+	<string id="st_freeplay_text_yes_no">
+		<text>Чи готові ви залишити Зону? Дороги назад не буде.</text>
+	</string>
+
+	<string id="st_game_over">
+		<text>ГРУ ЗАВЕРШЕНО</text>
+	</string>
+
+	<string id="st_game_over_lol_1">
+		<text>ПОМЕР</text>
+	</string>
+
+	<string id="st_game_over_lol_2">
+		<text>ВИТРАЧЕНО</text>
+	</string>
+
+	<string id="st_game_over_lol_3">
+		<text>В И П Р О Г Р А Л И !!!</text>
+	</string>
+
+	<string id="st_game_over_advice_1">
+		<text>У ЗОНІ ТРЕБА БУТИ УВАЖНІШИМ</text>
+	</string>
+
+	<string id="st_game_over_load_save">
+		<text>%c[info_orange][$$ACTION_JUMP$$] %c[info_title]Завантажити останнє збереження</text>
+	</string>
+
+	<string id="st_game_over_exit_menu">
+		<text>%c[info_orange][$$ACTION_QUIT$$] %c[info_title]Вийти в меню</text>
+	</string>
+
+	<string id="st_game_paused">
+		<text>ПАУЗА</text>
+	</string>
+
+	<string id="st_game_saved">
+		<text>ЗБЕРЕЖЕННЯ ГРИ</text>
+	</string>
+
+	<string id="st_herald_of_justice_news">
+		<text>За допомогу у викритті Сороки в особистий ящик на «Скадовську» додано артефакт.</text>
+	</string>
+
+	<string id="st_jup_b41_door_locked">
+		<text>Необхідно дочекатися герметизації шлюзу</text>
+	</string>
+
+	<string id="st_lx8_button_press_true">
+		<text>Доступ дозволено</text>
+	</string>
+
+	<string id="st_lx8_lift_button">
+		<text>Піднятися ліфтом ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_pri_b306_go_down">
+		<text>Спуститися ліфтом ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_attention">
+		<text>УВАГА</text>
+	</string>
+
+	<string id="st_psy_danger">
+		<text>КРИТИЧНИЙ РІВЕНЬ ПСІ-ВИПРОМІНЮВАННЯ! НЕГАЙНО ЗАЛИШТЕ НЕБЕЗПЕЧНУ ЗОНУ!</text>
+	</string>
+
+	<string id="st_radiation_danger">
+		<text>НЕБЕЗПЕЧНИЙ РІВЕНЬ РАДІАЦІЇ! ДЛЯ ПРОХОДУ ПОТРIБЕН ЗАХИСТ!</text>
+	</string>
+
+	<string id="st_search_helicopter">
+		<text>Оглянути вертоліт ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_sleep_hours">
+		<text>г</text>
+	</string>
+
+	<string id="st_tip">
+		<text>Повідомлення</text>
+	</string>
+
+	<string id="tip_door_closed_base_alarm">
+		<text>Двері замкнено  -  у таборі тривога</text>
+	</string>
+
+	<string id="tip_door_closed_hide_weapon">
+		<text>Двері замкнено  -  необхідно сховати зброю</text>
+	</string>
+
+	<string id="tip_door_locked">
+		<text>%c[ts_ui_red] ДВЕРI ЗАМКНЕНО</text>
+	</string>
+
+	<string id="tip_door_no_electricity">
+		<text>Двері знеструмлено</text>
+	</string>
+
+	<string id="tip_gate_locked">
+		<text>Ворота заблоковано</text>
+	</string>
+
+	<string id="tip_need_access_card">
+		<text>Скористатися картою доступу ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="tip_no_access_card">
+		<text>Необхідно карту доступу</text>
+	</string>
+
+	<string id="tip_open_another_site">
+		<text>Двері неможливо відчинити із цього боку</text>
+	</string>
+
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+
+	<string id="zat_b12_conteiner_full_locked">
+		<text>Контейнер замкнено  -  необхідно два ключі</text>
+	</string>
+
+	<string id="zat_b12_conteiner_has_one_key">
+		<text>Використати ключ ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b12_conteiner_has_two_key">
+		<text>Використати ключі ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b12_conteiner_locked">
+		<text>Контейнер замкнено  -  потрібен другий ключ</text>
+	</string>
+
+	<string id="zat_b12_conteiner_open">
+		<text>Відчинити контейнер ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b14_door_locked_hint">
+		<text>Механізм дверей заблоковано зсередини</text>
+	</string>
+
+	<string id="zat_b57_balon_use_hint">
+		<text>Під'єднати газовий балон ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b57_gas_warning">
+		<text>Обережно! Хімічна небезпека!</text>
+	</string>
+
+	<string id="zat_b57_vintil_press">
+		<text>Повернути вентиль ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="zat_b33_car_searching_tip">
+		<text>Обшукати «Запорожець» ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_resupply_ready">
+		<text>Перед операцією можна поповнити запас медикаментів та боєприпасів у лейтенантів Рогівця та Кирилова.</text>
+	</string>
+
+	<string id="st_surge_while_asleep">
+		<text>У Зоні нещодавно стався викид.</text>
+	</string>
+
+	<string id="st_ach_marked_by_zone">
+		<text>Отримано досягнення «Мічений Зоною»</text>
+	</string>
+
+	<string id="st_mutant_hunter_news">
+		<text>За знищення небезпечних мутантів у особистий ящик на «Янові» додано боєприпаси</text>
+	</string>
+
+	<string id="st_found_old_treasure">
+		<text>Отримано координати раніше знайденого сховку</text>
+	</string>
+
+	<string id="st_got_treasure">
+		<text>Знайдено сховок</text>
+	</string>
+
+	<string id="st_found_new_treasure">
+		<text>Отримано координати сховку</text>
+	</string>
+
+	<string id="st_press_any_key">
+		<text>[SPACE] Продовжити</text>
+	</string>
+
+	<string id="st_game_complete">
+		<text>ДАЛІ БУДЕ...</text>
+	</string>
+
+	<string id="st_playing_time">
+		<text>ЧАС ГРИ</text>
+	</string>
+
 </string_table>

@@ -1,627 +1,836 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_bar_main_post_soldier_agit_1">
-    <text>Р­Р№, СЃР°Р»Р°РіР°,\nРІСЃС‚СѓРїР°Р№ Рє РЅР°Рј РІ В«Р”РѕР»РіВ»!</text>
-  </string>
-  <string id="st_bar_main_post_soldier_agit_2">
-    <text>РЎС‚Р°Р»РєРµСЂ, РЅР° С‚РµСЂСЂРёС‚РѕСЂРёРё\nР±Р°Р·С‹ РЅРµ С€Р°Р»Рё, РїРѕРЅСЏР»?</text>
-  </string>
-  <string id="st_bar_main_post_soldier_agit_3">
-    <text>РЈС‡С‚Рё, С‚С‹ СЃРѕР±Р»СЋРґР°РµС€СЊ РЅР°С€Рё РїСЂР°РІРёР»Р° вЂ”\nС‚РµР±СЏ РЅРёРєС‚Рѕ РЅРµ С‚СЂРѕРіР°РµС‚.</text>
-  </string>
-  <string id="st_bar_main_post_soldier_boss_threat_1">
-    <text>РЎС‚РѕСЏС‚СЊ! Р§СѓР¶Р°РєР°Рј РЅР° С‚РµСЂСЂРёС‚РѕСЂРёСЋ\nРІС…РѕРґ Р·Р°РєСЂС‹С‚!</text>
-  </string>
-  <string id="st_bar_main_post_soldier_boss_threat_2">
-    <text>РЎС‚РѕСЏС‚СЊ!\nРўРµСЂСЂРёС‚РѕСЂРёСЏ РґР»СЏ С‡СѓР¶РёС… Р·Р°РєСЂС‹С‚Р°!</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_1_1">
-    <text>РўС‹ РµРіРѕ РЅРµ РіСЂРѕС…РЅСѓР» С‡Р°СЃРѕРј?</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_1_2">
-    <text>РћРЅ РІС‹СЂСѓР±РёР»СЃСЏ РґР°Р¶Рµ...</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_2_1">
-    <text>Р›Р°РґРЅРѕ, С‚Р°С‰РёРј РµРіРѕ РІ Р°РЅРіР°СЂ.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_2_2">
-    <text>РўРѕР»СЊРєРѕ РґР°РІР°Р№ Р°РєРєСѓСЂР°С‚РЅРѕ:\nРІРїРµСЂРµРґРё РґРѕР»РіРѕРІСЃРєРёР№ РљРџРџ.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_3">
-    <text>РќСѓ Рё С‡С‘ РЅР°Рј\nС‚РµРїРµСЂСЊ СЃ РЅРёРј РґРµР»Р°С‚СЊ?</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_4">
-    <text>РќРµ РїРµСЂРµРіРёР±Р°РµС€СЊ?</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_5_1">
-    <text>Р”Р° РјС‹ СЃРµР№С‡Р°СЃ СЃРІР°Р»РёРј,\nРѕС‚РєСѓРґР° РїСЂРёС€Р»Рё.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_5_2">
-    <text>РљР°Рє Р·Р°Р±РѕСЂ РїРµСЂРµР»РµР·Р»Рё,\nС‚Р°Рє Рё РѕР±СЂР°С‚РЅРѕ Р·Р°Р»РµР·РµРј.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_6_1">
-    <text>РџР»РѕС…Рѕ СЌС‚Рѕ РєРѕРЅС‡РёС‚СЃСЏ, СЃСѓРєР°.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_6_2">
-    <text>РћР№, РїР»РѕС…Рѕ!</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_7_1">
-    <text>Р’РѕС‚ СЃСѓРєР°!</text>
-  </string>
-  <string id="st_bar_robbery_bandit_1_phrase_7_2">
-    <text>РњСѓР¶РёРєРё, СЌС‚Рѕ СЃР°РјРѕРµ, РјСѓР¶РёРєРё, РІС‹ РЅРµ СЃС‚СЂРµР»СЏР№С‚Рµ С‚РѕР»СЊРєРѕ!</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_1">
-    <text>Р”Р° РЅРµ СЃРґРѕС…РЅРµС‚.\nРЎ СЌС‚РѕР№ РїСѓРєР°Р»РєРё С‚РѕР»СЊРєРѕ РІРѕСЂРѕРЅ СЃР±РёРІР°С‚СЊ.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_2_1">
-    <text>Р”Р° С‡С‘-С‡С‘...\nР—Р°Р±СЂР°С‚СЊ С…Р°Р±Р°СЂ Рё Р·Р°РјРµСЃС‚Рё СЃР»РµРґС‹.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_2_2">
-    <text>РџСЂРёС…Р»РѕРїРЅСѓС‚СЊ РµРіРѕ\nРё РІС‹РєРёРЅСѓС‚СЊ РєСѓРґР° РїРѕРґР°Р»СЊС€Рµ.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_3_1">
-    <text>РћРЅ РѕС‡СѓС…Р°РµС‚СЃСЏ\nРё РїРѕРґРЅРёРјРµС‚ С‚СѓС‚ РІСЃРµС… РЅР° СѓС€Рё.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_3_2">
-    <text>РќР°Рј РЅСѓР¶РµРЅ СЌС‚РѕС‚ РєРёРїРёС€?</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_4_1">
-    <text>РўС‹, РєР°Р¶РµС‚СЃСЏ, Р·Р°Р±С‹Р»,\nСЂР°РґРё С‡РµРіРѕ РјС‹ СЌС‚Рѕ Р·Р°С‚РµСЏР»Рё:</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_4_2">
-    <text>РЅР°Рј РЅСѓР¶РЅРѕ Р±РѕР»СЊС€Рµ С…Р°Р±Р°СЂР°.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_4_3">
-    <text>РЎ РѕРґРЅРѕРіРѕ СЌС‚РѕРіРѕ РѕСЃР»Р°\nРјС‹ РЅР°РєРѕРїРёРј СЃРµР±Рµ С‚РѕР»СЊРєРѕ РЅР° РїРёРІРѕ.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_4_4">
-    <text>Р•РіРѕ РіСЂРѕС…РЅРµРј, Р° С‡РµСЂРµР· РїР°СЂСѓ РґРЅРµР№\nРµС‰Рµ РєРѕРіРѕ-С‚Рѕ Р·Р°С…Р°РїР°РµРј.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_5">
-    <text>РҐРІР°С‚РёС‚ РЅС‹С‚СЊ. Р—Р° РґРµР»Рѕ,\nР±РµСЂС‘Рј Р±Р°Р±Р»Рѕ СЃРѕ С€РјРѕС‚РєР°РјРё Рё РІР°Р»РёРј.</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_6_1">
-    <text>РњР»СЏ, РІ РЅР°С‚СѓСЂРµ, РЅРµ С€РјР°Р»СЏР№С‚Рµ!</text>
-  </string>
-  <string id="st_bar_robbery_bandit_2_phrase_6_2">
-    <text>РњС‹ Р¶Рµ РјРѕР¶РµРј РґРѕРіРѕРІРѕСЂРёС‚СЊСЃСЏ!</text>
-  </string>
-  <string id="st_bar_robbery_duty_help_soldier_1_phrase_1">
-    <text>Р”Р°, РЅРµ РґСѓРјР°Р» Р·РґРµСЃСЊ\nР±Р°РЅРґРёС‚РѕРІ РІСЃС‚СЂРµС‚РёС‚СЊ.</text>
-  </string>
-  <string id="st_bar_robbery_duty_help_soldier_1_phrase_2">
-    <text>Р§С‚Рѕ Р¶, РїСЂРёРґС‘С‚СЃСЏ СЂР°Р·Р±РёСЂР°С‚СЊСЃСЏ!</text>
-  </string>
-  <string id="st_bar_robbery_duty_help_soldier_2_phrase">
-    <text>Р’ СЂР°СЃС…РѕРґ Сѓ РјРµРЅСЏ РїРѕР№РґС‘С€СЊ!</text>
-  </string>
-  <string id="st_subtitles_bar_duty">
-    <text>Р”РѕР»РіРѕРІРµС†</text>
-  </string>
-  <string id="st_bar_robbery_duty_help_1">
-    <text>Р‘РѕР№С†С‹, РІРїРµСЂС‘Рґ!</text>
-  </string>
-  <string id="st_bar_robbery_duty_help_2">
-    <text>РљРѕРЅС‚Р°РєС‚ СЃ РїСЂРѕС‚РёРІРЅРёРєРѕРј, РїРѕРґС‚СЏРіРёРІР°Р№С‚РµСЃСЊ!</text>
-  </string>
-  <string id="st_bar_green_stalker_leader_dogs_compl_1">
-    <text>РњС‹ С‚Р°Рј СЃРѕР±Р°Рє РЅР° РїРѕРґС…РѕРґРµ\nРє Р‘Р°СЂСѓ РїРµСЂРµСЃС‚СЂРµР»СЏР»Рё.</text>
-  </string>
-  <string id="st_bar_green_stalker_leader_dogs_compl_2">
-    <text>РџРѕРјРѕРіР»Рё Р·Р°С‰РёС‚РёС‚СЊ РјРёСЂ\nРѕС‚ Р·Р°СЂР°Р·С‹ Р—РѕРЅС‹.</text>
-  </string>
-  <string id="st_bar_green_stalker_leader_dogs_compl_3">
-    <text>РњРѕР¶РµС‚, РЅР°Рј РЅР°РіСЂР°РґР°\nРєР°РєР°СЏ РїСЂРёС‡РёС‚Р°РµС‚СЃСЏ?</text>
-  </string>
-  <string id="st_bar_main_post_soldier_dogs_compl">
-    <text>РќСѓ, СЂР°Р· Р·Р°С‰РёС‚РёР»Рё, С‚Рѕ Р±СѓРґРµС‚ РЅР°РіСЂР°РґР°. РћР±СЂР°С‚РёСЃСЊ Рє Р‘Р°СЂРјРµРЅСѓ, РЅР°Р»СЊРµС‚ С‚РµР±Рµ РїР°СЂСѓ СЃС‚Р°РєР°РЅС‡РёРєРѕРІ Р·Р° СЃС‡РµС‚ Р·Р°РІРµРґРµРЅРёСЏ.</text>
-  </string>
-  <string id="st_bar_green_stalker_leader_no_meet_1">
-    <text>Р”Р°РІР°Р№. РќРµ РјРµР»СЊС‚РµС€Рё.</text>
-  </string>
-  <string id="st_bar_green_stalker_leader_no_meet_2">
-    <text>РћС‚СЃС‚Р°РЅСЊ, РґСЏРґСЏ.</text>
-  </string>
-  <string id="st_bar_green_stalker_leader_no_meet_3">
-    <text>РЎР»СѓС€Р°Р№, РјСѓР¶РёРє, РѕС‚РІР°Р»Рё РѕС‚ РјРµРЅСЏ.</text>
-  </string>
-  <string id="st_bar_green_stalker_leader_no_meet_4">
-    <text>РћС‚СЃС‚Р°РЅСЊ, РјСѓР¶РёРє.\nРќРµ С…РѕС‡Сѓ СЏ СЃ С‚РѕР±РѕР№ РіРѕРІРѕСЂРёС‚СЊ.</text>
-  </string>
-  <string id="st_bar_green_stalker_leader_no_meet_5">
-    <text>РќСѓ, РІСЃС‘! Р§РµС€Рё РєСѓРґР° С€С‘Р».</text>
-  </string>
-  <string id="st_bar_green_stalker_leader_no_meet_6">
-    <text>Р”Р° С‡С‘ С‚С‹ РїСЂРёСЃС‚Р°Р», РєР°Рє Р±Р°РЅРЅС‹Р№ Р»РёСЃС‚?\nРќРµ С…РѕС‡Сѓ СЏ СЃ С‚РѕР±РѕР№ СЂР°Р·РіРѕРІР°СЂРёРІР°С‚СЊ!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_talk_with_drunk_stalker">
-    <text>РўРёС…Рѕ, РјСѓР¶РёРє.\nР’РѕС‚ С‚РµР±Рµ РїСѓР·С‹СЂСЊ. РРґРё РѕС‚РґС‹С…Р°Р№.</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_start_go">
-    <text>РќСѓ РІСЃС‘, РїРѕС€Р»Рё. РўРѕР»СЊРєРѕ С‚РёС…Рѕ.</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_see_duty">
-    <text>РџР°С‚СЂСѓР»СЊРЅС‹Р№! Р’ РєСѓСЃС‚С‹, Р±С‹СЃС‚СЂРѕ!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_actor_bush_angry_1">
-    <text>Р’ РєСѓСЃС‚С‹, РґСѓСЂРёР»Р°. Р‘РµРіРѕРј!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_actor_bush_angry_2">
-    <text>Р‘С‹СЃС‚СЂРѕ СЃСЋРґР°!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_projectors_info_1">
-    <text>РћС‚СЃСЋРґР° С‚РѕР»СЊРєРѕ РѕРґРёРЅ РІС‹С…РѕРґ.</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_projectors_info_2">
-    <text>РќСѓР¶РЅРѕ РїСЂРѕСЂСѓР±РёС‚СЊ РёРј СЃРІРµС‚ Рё РїРѕ-С‚РёС…РѕРјСѓ РїСЂРѕР№С‚Рё РјРёРјРѕ РїРѕСЃС‚РѕРІС‹С….</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_projectors_info_3">
-    <text>Р СѓР±РёР»СЊРЅРёРє РІ Р·РґР°РЅРёРё СЂСЏРґРѕРј.</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_go_fast">
-    <text>РќР°РґРѕ С‚РѕСЂРѕРїРёС‚СЊСЃСЏ: РѕРЅРё РІРѕС‚-РІРѕС‚ Р·Р°РјРµС‚СЏС‚ С‚РІРѕСЋ РїСЂРѕРїР°Р¶Сѓ!</text>
-  </string>
-  <string id="st_bar_prison_task_soldier_drunk_stalker_talk_1">
-    <text>РўС‹ СЃ РєРµРј С‚СѓС‚\nСЂР°Р·РіРѕРІР°СЂРёРІР°РµС€СЊ, РїСЂРёРґСѓСЂРѕРє?</text>
-  </string>
-  <string id="st_bar_prison_task_soldier_drunk_stalker_talk_2_1">
-    <text>РўР°Рє, РѕС‚РґС‹С…Р°СЋС‰РёР№,\nРґР°РІР°Р№-РєР° РІ РІС‹С‚СЂРµР·РІРёС‚РµР»СЊ РґРѕ СѓС‚СЂР°,</text>
-  </string>
-  <string id="st_bar_prison_task_soldier_drunk_stalker_talk_2_2">
-    <text>Р° С‚Р°Рј РјС‹ СЃ С‚РѕР±РѕР№ РµС‰С‘ СЂР°Р·Р±РµСЂС‘РјСЃСЏ.</text>
-  </string>
-  <string id="st_bar_prison_task_soldier_1_second_post_talk_1">
-    <text>РўРѕРІР°СЂРёС‰ РєР°РїРёС‚Р°РЅ, РјРѕР¶РµС‚, С‡Р°Р№РєСѓ?</text>
-  </string>
-  <string id="st_bar_prison_task_soldier_1_second_post_talk_2">
-    <text>РЇ РјРёРіРѕРј!</text>
-  </string>
-  <string id="st_bar_prison_task_soldier_2_second_post_talk_1">
-    <text>РћС‚СЃС‚Р°РІРёС‚СЊ.\nРђ РІРѕС‚ РєРѕС„РµР№РєСѓ РјРѕР¶РЅРѕ.</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_1_projector_comment">
-    <text>Р§С‚Рѕ Р·Р° С…СЂРµРЅСЊ?</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_2_projector_comment_1">
-    <text>РЇ Р¶ РіРѕРІРѕСЂРёР»,\nРїСЂРѕР¶РµРєС‚РѕСЂР° РІС‹СЂСѓР±Р°СЋС‚СЃСЏ.</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_2_projector_comment_2">
-    <text>РџСЂРѕСЃРёР» Р¶Рµ, Р±Р»РёРЅ, РїРѕС‡РёРЅРёС‚СЊ!</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_2_projector_comment_3">
-    <text>РРґРё РїСЂРѕРІРѕРґР° РїСЂРѕРІРµСЂСЏР№.</text>
-  </string>
-  <string id="st_bar_prison_task_drunk_stalker_thanx">
-    <text>Р’Рѕ, РІРѕС‚ СЌС‚Рѕ РґРµР»Рѕ.\nРЎРїР°СЃРёР±Рѕ, РїР°С†Р°РЅС‹!</text>
-  </string>
-  <string id="st_bar_prison_task_drunk_stalker_see_duty">
-    <text>Р”Р° СЏ РѕС‚РґС‹С…Р°СЋ РїСЂРѕСЃС‚Рѕ.</text>
-  </string>
-  <string id="st_bar_prison_task_drunk_stalker_monolog_1">
-    <text>РЎСѓРєР°, Р±Р°СЂРјРµРЅ,\nРЅРµ РїСЂРѕРґР°С‘С‚ РїСѓР·С‹СЂСЊ.</text>
-  </string>
-  <string id="st_bar_prison_task_drunk_stalker_monolog_2">
-    <text>Р”Р° СЏ РµРјСѓ СЃС‚РѕР»СЊРєРѕ Р°СЂС‚РµС„Р°РєС‚РѕРІ РїСЂРёРїС‘СЂ,</text>
-  </string>
-  <string id="st_bar_prison_task_drunk_stalker_monolog_3">
-    <text>Р° РѕРЅ Р¶Р»РѕР±РёС‚СЃСЏ.</text>
-  </string>
-  <string id="st_bar_prison_task_actor_search">
-    <text>РџР»РµРЅРЅС‹Р№ СЃР±РµР¶Р°Р»! РС‰РёС‚Рµ РµРіРѕ, РѕРЅ РЅРµ РјРѕРі РґР°Р»РµРєРѕ СѓР№С‚Рё!</text>
-  </string>
-  <string id="st_bar_prison_stalker_song">
-    <text>РљС‚Рѕ РЅРµ РјРµС‡С‚Р°Р» СЃС‚Р°С‚СЊ РіРµСЂРѕРµРј РґРЅСЏ, РёСЃРєСЂРѕР№ Р±РѕР¶РµСЃС‚РІРµРЅРЅРѕРіРѕ РѕРіРЅСЏ...</text>
-  </string>
-  <string id="st_bar_duty_base_prison_boss_stalker_song_reaction">
-    <text>РўР°Рє, Р·Р°РјРѕР»С‡Р°С‚СЊ! Р Р°СЃРїРµР»СЃСЏ С‚СѓС‚.</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_1_check_light_1_1">
-    <text>Р“Р»СЏРґРё-РєР°, РєСЂС‹С€РєР° РѕС‚РєСЂС‹С‚Р°!</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_1_check_light_1_2">
-    <text>РњРѕР¶РµС‚, СЌС‚Рѕ, РЅСѓ, РІР»Р°РіР° РїРѕРїР°Р»Р° РєР°РєР°СЏ-С‚Рѕ?</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_1_check_light_1_3">
-    <text>РЇ, РЅР°РІРµСЂРЅРѕРµ, Р·Р°РєСЂС‹С‚СЊ Р·Р°Р±С‹Р».</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_1_check_light_2">
-    <text>РўРІРѕСЋ Р¶ РјР°С‚СЊ.\nРџРѕРЅСЏС‚СЊ Р±С‹, РіРґРµ С‚СѓС‚ С‡С‚Рѕ Р·Р°РєРѕСЂРѕС‚РёР»Рѕ...</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_1_check_light_3_1">
-    <text>РќРµ, РєРѕРјР°РЅРґРёСЂ СЃРµРіРѕРґРЅСЏ\nРЅРµ РїРѕСЏРІРёС‚СЃСЏ, РЅРµ РїРµСЂРµР¶РёРІР°Р№.</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_1_check_light_3_2">
-    <text>РћРЅ РІС‡РµСЂР° СЃСЉРµР»\nРєР°РєСѓСЋ-С‚Рѕ С…РµСЂРЅСЋ РІ Р±Р°СЂРµ,</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_1_check_light_3_3">
-    <text>Р° СЃРµРіРѕРґРЅСЏ, РЅСѓ, РѕР±РѕСЃСЂР°Р» РЅР°Рј\nРІРµСЃСЊ СЃРѕСЂС‚РёСЂ, РІ РѕР±С‰РµРј.</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_2_check_light_1_1">
-    <text>РќСѓ РІРѕС‚ Рё СЂР°Р·Р±РёСЂР°Р№СЃСЏ С‚РµРїРµСЂСЊ, Р±РѕР»РІР°РЅ!</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_2_check_light_1_2">
-    <text>Р’РµС‡РЅРѕ РёР·-Р·Р° РІР°СЃ РІСЃРµ РїСЂРѕР±Р»РµРјС‹.</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_2_check_light_2_1">
-    <text>Р”Р°РІР°Р№-РґР°РІР°Р№, РїРѕС€РµРІРµР»РёРІР°Р№СЃСЏ!</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_2_check_light_2_2">
-    <text>РЎРµР№С‡Р°СЃ РєРѕРјР°РЅРґРёСЂ РїСЂРёРґС‘С‚ вЂ”\nС‚Р°РєРёС… Р»РµС‰РµР№ РЅР°Рј РѕС‚РІРµСЃРёС‚!</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_2_check_light_3_1">
-    <text>Р”Р°РІР°Р№-РґР°РІР°Р№,\nРїРѕС€РµРІРµР»РёРІР°Р№СЃСЏ!</text>
-  </string>
-  <string id="st_bar_prison_task_projector_soldier_2_check_light_3_2">
-    <text>РЎРµР№С‡Р°СЃ С‚С‹ Сѓ РјРµРЅСЏ РѕР±РѕСЃСЂС‘С€СЊСЃСЏ...</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_main_post_compl">
-    <text>РћС‚Р»РёС‡РЅРѕ, РґРІРёРЅСѓР»Рё РґР°Р»СЊС€Рµ!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_hello_1">
-    <text>Р—РґРѕСЂРѕРІ, РєРѕРјР°РЅРґРёСЂ.</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_hello_2">
-    <text>РќСѓ С‡С‚Рѕ, С‚РµРїРµСЂСЊ РјРѕСЏ РѕС‡РµСЂРµРґСЊ\nС‚РµР±СЏ РІС‹С‚Р°СЃРєРёРІР°С‚СЊ.</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_actor_light_angry_1">
-    <text>РўСѓС€Рё СЃРІРµС‚. Р§РµРіРѕ Р·Р°СЃС‚СЂСЏР» С‚Р°Рј?</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_actor_light_angry_2">
-    <text>РќРµ С‚РѕСЂРјРѕР·Рё. Р’С‹СЂСѓР±Рё РёРј СЃРІРµС‚!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_actor_light_angry_3">
-    <text>Р”Р°РІР°Р№ Р±С‹СЃС‚СЂРµРµ. Р СѓР±Рё РёРј СЃРІРµС‚!</text>
-  </string>
-  <string id="st_bar_green_stalker_leader_need_help">
-    <text>Р”СЂСѓР¶РёС‰Рµ, РІС‹СЂСѓС‡Р°Р№!\nРўСѓС‚ РјРѕРЅСЃС‚СЂРѕРІ вЂ” СЃ СѓРјР° СЃРѕР№С‚Рё!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_duty_start_1">
-    <text>РћРЅРё СЃРµР№С‡Р°СЃ РїРѕР№РґСѓС‚ Рє С‚РµР±Рµ. РЎРїСЂСЏС‡СЊСЃСЏ РєСѓРґР°-РЅРёР±СѓРґСЊ.</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_duty_start_2">
-    <text>РљР°Рє С‚РѕР»СЊРєРѕ РІС‹Р¶РґРµС€СЊ РјРѕРјРµРЅС‚, РІС‹СЃРєР°РєРёРІР°Р№ РѕС‚С‚СѓРґР°.</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_quickly">
-    <text>РЁРµРІРµР»РёСЃСЊ. РџРѕРіРЅР°Р»Рё!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_duty_see_actor">
-    <text>РўРІРѕСЋ РјР°С‚СЊ. РЎСѓС€Рё РІС‘СЃР»Р° С‚РµРїРµСЂСЊ!</text>
-  </string>
-  <string id="st_bar_prison_task_drunk_stalker_go_prison">
-    <text>РџРѕС€Р»Рё, РєРѕРјР°РЅРґРёСЂ, РїРѕС€Р»Рё.</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_actor_long_dist_1">
-    <text>РўС‹ РµР»Рµ РїР»РµС‚С‘С€СЊСЃСЏ. РЁРµРІРµР»РёСЃСЊ!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_actor_long_dist_2">
-    <text>РќРµ РѕС‚СЃС‚Р°РІР°Р№!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_actor_long_dist_3">
-    <text>Р”Р°РІР°Р№, РїРѕРґС‚СЏРіРёРІР°Р№СЃСЏ!</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_actor_fail">
-    <text>Р’С‹Р±РёСЂР°Р№СЃСЏ СЃР°Рј. РҐСЂРµРЅ СЃ С‚РѕР±РѕР№.</text>
-  </string>
-  <string id="st_bar_prison_task_stalker_koval_death_cc">
-    <text>[РєР°С€РµР»СЊ РѕС‚ Р±РѕР»Рё]</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_lose_1">
-    <text>РџРѕР±РµРґР°!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_lose_2">
-    <text>РљР°Рє Р¶Рµ Р»РµРіРєРѕ РїРѕРґС‡РёРЅРёР»СЃСЏ\nСЃР°Р»Р°РіР° СЌС‚РѕРјСѓ СЃС‚Р°Р»РєРµСЂСѓ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_lose_3">
-    <text>РЈР±РµСЂРёС‚Рµ С‚СѓС€Сѓ СЃ Р°СЂРµРЅС‹.\nРЈ РЅР°СЃ РїСЂРµРґРµРЅРґРµРЅС‚ РЅР° СЃР»РµРґСѓСЋС‰РёР№ Р±РѕР№!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_ready_1">
-    <text>РЎРµРіРѕРґРЅСЏ РЅР° Р°СЂРµРЅРµ СЃСЂР°Р·СЏС‚СЃСЏ\nРґРІР° СЃРІРµР¶Р°Р№С€РёС… РєСѓСЃРєР° РјСЏСЃР°!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_ready_2">
-    <text>РљС‚Рѕ-С‚Рѕ РёР· РЅРёС… РІРѕС‚-РІРѕС‚\nРѕС‚РїСЂР°РІРёС‚СЃСЏ РЅР° РєРѕСЂРј СЃРѕР±Р°РєР°Рј.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_ready_3">
-    <text>РўРѕР»СЊРєРѕ РѕРґРёРЅ СѓР№РґС‘С‚ РІ Р±Р°СЂ\nРѕС‚РјРµС‡Р°С‚СЊ РїРѕР±РµРґСѓ.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_ready_4">
-    <text>РџРѕРµС…Р°Р»Рё!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_win_1">
-    <text>РџРѕР±РµРґР°!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_win_2">
-    <text>РќР°С€ РїРѕР±РµРґРёС‚РµР»СЊ\nРїСЂРѕС€С‘Р» РєСЂРµС‰РµРЅРёРµ РѕРіРЅС‘Рј!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_win_3">
-    <text>РЎРґР°С‘С‚СЃСЏ РјРЅРµ, С‡С‚Рѕ РµС‰С‘ РЅРµ СЂР°Р·\nРјС‹ РµРіРѕ СѓРІРёРґРёРј Р·РґРµСЃСЊ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_1_win_4">
-    <text>РџСЂР°РІРґР° РІРµРґСЊ, РјРѕР»РѕРґРѕР№?</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_lose_1">
-    <text>РќРµ РїРѕР»СѓС‡РёР»РѕСЃСЊ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_lose_2">
-    <text>Р­С‚РѕС‚ РЅРµСѓРґР°С‡РЅРёРє Р±С‹Р» СЂР°Р·РіСЂРѕРјР»РµРЅ\nСѓР¶Рµ РІРѕ РІС‚РѕСЂРѕРј Р±РѕСЋ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_lose_3">
-    <text>РќРµРЅР°РґРѕР»РіРѕ Р¶Рµ РµРіРѕ С…РІР°С‚РёР»Рѕ.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_lose_4">
-    <text>РЈР±СЂР°С‚СЊ РјСЏСЃРѕ СЃ Р°СЂРµРЅС‹!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_ready_1">
-    <text>РЎРµР·РѕРЅ РїСЂРѕРґРѕР»Р¶Р°РµС‚СЃСЏ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_ready_2">
-    <text>РЎРµРіРѕРґРЅСЏ СЃСЂР°Р¶Р°СЋС‚СЃСЏ\nСѓР¶Рµ РЅРµ СЃР°Р»Р°РіРё, РЅРѕ Рё РЅРµ РјР°СЃС‚РµСЂР°!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_ready_3">
-    <text>РЈ РЅРёС… Р·Р° СЃРїРёРЅРѕР№\nРїРѕ РѕРґРЅРѕРјСѓ РІС‹РёРіСЂР°РЅРЅРѕРјСѓ Р±РѕСЋ,</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_ready_4">
-    <text>Рё СЌС‚Рѕ РµС‰С‘ РЅРёС‡РµРіРѕ РЅРµ Р·РЅР°С‡РёС‚!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_ready_5">
-    <text>РљС‚Рѕ-С‚Рѕ Р¶Рµ РґРѕР»Р¶РµРЅ Р±СѓРґРµС‚ РїСЂРѕРёРіСЂР°С‚СЊ.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_ready_6">
-    <text>РќР°С‡Р°Р»Рё!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_win_1">
-    <text>Р’РёРґРµР»Рё, РєР°Рє РѕРЅ РѕС‚СЉРµС…Р°Р»?</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_win_2">
-    <text>РўРѕРїРѕСЂ СЃРЅРѕРІР° РѕРґРµСЂР¶Р°Р» РїРѕР±РµРґСѓ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_win_3">
-    <text>Р§С‚Рѕ Р¶, РµСЃР»Рё РѕРЅ\nРІС‹Р№РґРµС‚ РЅР° С‚СЂРµС‚РёР№ Р±РѕР№,</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_win_4">
-    <text>СѓР·РЅР°РµРј, С‚Р°Рє Р»Рё С…РѕСЂРѕС€\nРЅР° СЃР°РјРѕРј РґРµР»Рµ СЌС‚РѕС‚ СЃС‚Р°Р»РєРµСЂ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_2_win_5">
-    <text>РњРѕР¶РµС‚, СЌС‚Рѕ РїСЂРѕСЃС‚Рѕ РІРµР·РµРЅРёРµ?</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_lose_1">
-    <text>Р§С‘СЂС‚ РІРѕР·СЊРјРё,\nР±РµР·Р·Р°РєРѕРЅРёРµ РІРѕСЃС‚РѕСЂР¶РµСЃС‚РІРѕРІР°Р»Рѕ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_lose_2">
-    <text>Р‘Р°РЅРґРёС‚С‹ РїСЂРѕРґРІРёРіР°СЋС‚СЃСЏ РЅР° СЃР»РµРґСѓСЋС‰СѓСЋ СЃС‚СѓРїРµРЅСЊ.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_lose_3">
-    <text>Р•СЃР»Рё РёРј СѓРґР°СЃС‚СЃСЏ РІС‹РёРіСЂР°С‚СЊ РІСЃРµ Р±РѕРё,\nРѕРЅРё РїРѕР»СѓС‡Р°С‚ СЃРІРѕР±РѕРґСѓ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_ready_1">
-    <text>РќРѕРІС‹Р№ Р±РѕР№!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_ready_2">
-    <text>РџСЂРѕС‚РёРІ СѓР¶Рµ Р·РЅР°РєРѕРјРѕРіРѕ СЃС‚Р°Р»РєРµСЂР°\nРІС‹СЃС‚СѓРїРёС‚ РїР°СЂРѕС‡РєР° РїСЂРµСЃС‚СѓРїРЅРёРєРѕРІ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_ready_3">
-    <text>Р­С‚РёРј РґРІРѕРёРј РїРѕС‡С‚Рё СѓРґР°Р»РѕСЃСЊ\nРїСЂРёР±СЂР°С‚СЊ Рє СЂСѓРєР°Рј С…Р°Р±Р°СЂ РўРѕРїРѕСЂР°,</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_ready_4">
-    <text>РЅРѕ РѕРЅРё Р±С‹Р»Рё Р·Р°РґРµСЂР¶Р°РЅС‹ РґРѕР±Р»РµСЃС‚РЅС‹Рј\nРѕС‚СЂСЏРґРѕРј В«Р”РѕР»РіР°В» РЅРµРґР°Р»РµРєРѕ РѕС‚ Р‘Р°СЂР°.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_ready_5">
-    <text>Р­С‚РѕС‚ Р±РѕР№ вЂ” РґРµР»Рѕ С‡РµСЃС‚Рё\nРґР»СЏ РЅР°С€РµРіРѕ СЃС‚Р°Р»РєРµСЂР°.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_ready_6">
-    <text>РџРѕРєР°Р¶Рё РёРј, РєР°Рє РЅР°С€РёС… РіСЂР°Р±РёС‚СЊ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_win_1">
-    <text>РџРѕР±РµРґР°!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_win_2">
-    <text>Р‘Р°РЅРґРёС‚СЃРєРёР№ РґСѓСЌС‚\nРїРѕРєРёРґР°РµС‚ РЅР°С€Рµ РјРµСЂРѕРїСЂРёСЏС‚РёРµ</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_win_3">
-    <text>Рё РѕС‚РїСЂР°РІР»СЏРµС‚СЃСЏ РїСЂСЏРјРёРєРѕРј РІ РјРѕРіРёР»Сѓ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_3_win_4">
-    <text>РќСѓ Р° РЅР° С‡С‚Рѕ РµС‰С‘ Р±С‹Р»Рѕ СЂР°СЃСЃС‡РёС‚С‹РІР°С‚СЊ\nРѕР±РґРѕР»Р±Р°РЅРЅС‹Рј РѕС‚РјРѕСЂРѕР·РєР°Рј?</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_4_lose_1">
-    <text>РќР°С€ РёРЅРєРѕРіРЅРёС‚Рѕ\nРїСЂРѕРґРІРёРіР°РµС‚СЃСЏ РЅР° РїСЏС‚СѓСЋ СЃС‚СѓРїРµРЅСЊ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_4_lose_2">
-    <text>Рђ С‚РµР»Сѓ РўРѕРїРѕСЂР° СЃСѓР¶РґРµРЅРѕ Р±С‹С‚СЊ\nСЃСЉРµРґРµРЅРЅС‹Рј С‡РµСЂРЅРѕР±С‹Р»СЊСЃРєРёРјРё С‡РµСЂРІСЏРјРё.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_4_ready_1">
-    <text>Р‘Р°РЅРґРёС‚СЃРєРѕРµ РѕС‚СЂРѕРґСЊРµ РїРѕР·Р°РґРё!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_4_ready_2">
-    <text>РЎРµРіРѕРґРЅСЏ РўРѕРїРѕСЂ РІС‹СЃС‚СѓРїРёС‚\nСѓР¶Рµ РїСЂРѕС‚РёРІ СЃРѕСЃС‚РѕСЏРІС€РµРіРѕСЃСЏ Р±РѕР№С†Р°,</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_4_ready_3">
-    <text>РєРѕС‚РѕСЂС‹Р№ РїСЂРµРґРїРѕС‡С‘Р»\nРѕСЃС‚Р°РІРёС‚СЊ СЃРІРѕС‘ РёРјСЏ РІ С‚Р°Р№РЅРµ.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_4_ready_4">
-    <text>Р§С‚Рѕ Р¶, РїРѕРµС…Р°Р»Рё!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_4_win_1">
-    <text>РћРЅ РіРѕС‚РѕРІ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_4_win_2">
-    <text>РЎ РєР°РєРёРј Р¶Рµ С…Р»Р°РґРЅРѕРєСЂРѕРІРёРµРј\nСЂР°Р±РѕС‚Р°РµС‚ СЌС‚РѕС‚ РјРѕР»РѕРґРѕР№ СЃС‚Р°Р»РєРµСЂ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_lose_1">
-    <text>РќСѓ Р° С‡РµРіРѕ РІС‹ Р¶РґР°Р»Рё?</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_lose_2">
-    <text>Р”Р°Р¶Рµ РѕРїС‹С‚РЅС‹Р№ Р±РѕРµС† РІСЂСЏРґ Р»Рё\nРІС‹СЃС‚РѕРёС‚ РѕРґРёРЅ РїСЂРѕС‚РёРІ С‡РµС‚РІРµСЂС‹С….</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_lose_3">
-    <text>РЈР±СЂР°С‚СЊ РјСЏСЃРѕ СЃ Р°СЂРµРЅС‹!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_ready_1">
-    <text>РќРµРѕР±С‹С‡РЅР°СЏ СЃС…РІР°С‚РєР°!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_ready_2">
-    <text>РўРѕРїРѕСЂ РЅР°С€С‘Р» РІ СЃРµР±Рµ СЃРјРµР»РѕСЃС‚СЊ\nРІС‹Р№С‚Рё РїСЂРѕС‚РёРІ С‡РµС‚РІРµСЂС‹С… СЃС‚Р°Р»РєРµСЂРѕРІ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_ready_3">
-    <text>Р­С‚Рё СЃР°Р»Р°РіРё РІС‹Р±СЂР°Р»Рё Р±РѕР№\nРЅРµ РѕРґРёРЅ РЅР° РѕРґРёРЅ,</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_ready_4">
-    <text>Р° РІС‡РµС‚РІРµСЂРѕРј, РЅРѕ РїСЂРѕС‚РёРІ РѕРїС‹С‚РЅРѕРіРѕ.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_ready_5">
-    <text>РџРѕСЃРјРѕС‚СЂРёРј, СЃС‹РіСЂР°РµС‚ Р»Рё СЌС‚Рѕ СЂРѕР»СЊ\nРґР»СЏ РЅР°С€РµРіРѕ РїРѕСЃС‚РѕСЏРЅРЅРѕРіРѕ РїРѕР±РµРґРёС‚РµР»СЏ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_win_1">
-    <text>РќРµРІРµСЂРѕСЏС‚РЅРѕ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_win_2">
-    <text>РћРґРёРЅ РїСЂРѕС‚РёРІ С‡РµС‚РІРµСЂС‹С… Рё РїРѕР±РµРґР°!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_5_win_3">
-    <text>Р­С‚РѕРјСѓ СЃС‚Р°Р»РєРµСЂСѓ РѕРїСЂРµРґРµР»С‘РЅРЅРѕ\nРЅСѓР¶РЅРѕ Р±С‹Р»Рѕ РёРґС‚Рё РІ СЃРїРµС†РЅР°Р·!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_lose_1">
-    <text>Рњ-РґР°.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_lose_2">
-    <text>РЁС‘Р» СЃС‚Р°Р»РєРµСЂ Рє С„РёРЅР°Р»Сѓ,\nР° РїСЂРёС€С‘Р» РІ РёС‚РѕРіРµ Рє СЃРІРѕРµР№ РјРѕРіРёР»Рµ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_lose_3">
-    <text>РќСѓ РЅРёС‡РµРіРѕ. Р’РїРµСЂРµРґРё РЅР°СЃ Р¶РґС‘С‚\nРµС‰С‘ РјРЅРѕРіРѕ РёРЅС‚РµСЂРµСЃРЅС‹С… Р±РѕС‘РІ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_ready_1">
-    <text>РЎРµР·РѕРЅ РЅРµСѓРєР»РѕРЅРЅРѕ\nР±Р»РёР·РёС‚СЃСЏ Рє С„РёРЅР°Р»Сѓ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_ready_2">
-    <text>РЎРµРіРѕРґРЅСЏ РўРѕРїРѕСЂ РІС‹СЃС‚СѓРїРёС‚\nРїСЂРѕС‚РёРІ РѕС‚СЂСЏРґР° В«РЎРІРѕР±РѕРґС‹В»!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_ready_3">
-    <text>Р­С‚Рё СЂРµР±СЏС‚Р°,\nРєР°Рє Рё РїРѕРєРёРЅСѓРІС€РёРµ РЅР°СЃ Р±Р°РЅРґРёС‚С‹,</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_ready_4">
-    <text>Р±С‹Р»Рё РїРѕР№РјР°РЅС‹ Р±РѕР№С†Р°РјРё В«Р”РѕР»РіР°В»\nРЅР° РїРѕРґС…РѕРґР°С… Рє Р‘Р°СЂСѓ.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_ready_5">
-    <text>Р­С‚Рѕ Р±СѓРґРµС‚ С‚СЂСѓРґРЅС‹Р№ Р±РѕР№ РґР»СЏ СЃС‚Р°Р»РєРµСЂР°.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_ready_6">
-    <text>РќР°С‡Р°Р»Рё!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_win_1">
-    <text>РЎ РєР°Р¶РґС‹Рј СЂР°Р·РѕРј\nРІСЃС‘ С‚СЂСѓРґРЅРµРµ РІРµСЂРёС‚СЊ РІ РїСЂРѕРёСЃС…РѕРґСЏС‰РµРµ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_win_2">
-    <text>РЎС‚Р°Р»РєРµСЂ РІРЅРѕРІСЊ РѕРґРµСЂР¶Р°Р» РїРѕР±РµРґСѓ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_win_3">
-    <text>РџРѕР±РµРґСѓ СЃ Р±РѕР»СЊС€РёРј РїРµСЂРµРІРµСЃРѕРј РІ СЃРёР»Р°С…!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_6_win_4">
-    <text>Р”Р°Р¶Рµ РЅРµ Р·РЅР°СЋ, С‡РµРіРѕ РѕС‚ РЅРµРіРѕ\nР¶РґР°С‚СЊ РІ РґР°Р»СЊРЅРµР№С€РµРј!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_lose_1">
-    <text>РћРЅ РЅРµ СЃРјРѕРі.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_lose_2">
-    <text>РќРµ СЃРјРѕРі РґРѕР№С‚Рё РґРѕ С„РёРЅР°Р»Р°.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_lose_3">
-    <text>РЎРєРѕР»СЊРєРѕ СЃС‚Р°Р»РєРµСЂРѕРІ РІРѕР·Р»Р°РіР°Р»Рё РЅР° РЅРµРіРѕ РЅР°РґРµР¶РґС‹...</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_ready_1">
-    <text>РџСЂРµРґРїРѕСЃР»РµРґРЅРёР№ Р±РѕР№!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_ready_2">
-    <text>Р•РіРѕ СѓС‡Р°СЃС‚РЅРёРєРё РјР°РєСЃРёРјР°Р»СЊРЅРѕ\nРїСЂРёР±Р»РёР·РёР»РёСЃСЊ Рє С„РёРЅР°Р»Сѓ.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_ready_3">
-    <text>Р­С‚Рѕ РґРѕР»Р¶РЅРѕ Р±С‹С‚СЊ РєСЂР°Р№РЅРµ Р·СЂРµР»РёС‰РЅРѕ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_ready_4">
-    <text>РќРµ Р±СѓРґРµРј Р¶Рµ РјСЏРјР»РёС‚СЊ. РќР°С‡Р°Р»Рё!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_win_1">
-    <text>Р‘РµР· С€Р°РЅСЃРѕРІ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_win_2">
-    <text>РџРѕР±РµРґРёС‚РµР»СЊ РїСЂРѕРґРІРёРіР°РµС‚СЃСЏ РІ С„РёРЅР°Р»,\nРЅРѕ РІ С„РёРЅР°Р» РЅРµ Р±РµР· СЃСЋСЂРїСЂРёР·РѕРІ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_win_3">
-    <text>РЈР¶Рµ СЃРєРѕСЂРѕ, РµСЃР»Рё РўРѕРїРѕСЂ\nРѕСЃС‚Р°РЅРµС‚СЃСЏ Р¶РёРІ Рє СЃР»РµРґСѓСЋС‰РµРјСѓ Р±РѕСЋ,</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_7_win_4">
-    <text>РјС‹ Р±СѓРґРµРј РЅР°Р±Р»СЋРґР°С‚СЊ\nРєСЂР°Р№РЅРµ РёРЅС‚РµСЂРµСЃРЅРѕРµ Р·СЂРµР»РёС‰Рµ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_lose_1">
-    <text>Р­С‚РѕРіРѕ СЃС‚РѕРёР»Рѕ РѕР¶РёРґР°С‚СЊ.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_lose_2">
-    <text>Р›РёС€СЊ РѕРґРёРЅ СЃС‚Р°Р»РєРµСЂ Р·Р° РІСЃСЋ РёСЃС‚РѕСЂРёСЋ РђСЂРµРЅС‹\nСЃРјРѕРі РїСЂРµРѕРґРѕР»РµС‚СЊ РїРѕСЃР»РµРґРЅРёР№ СЂСѓР±РµР¶.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_lose_3">
-    <text>Р­С‚Рѕ Р±С‹Р» РњРµС‡РµРЅС‹Р№,\nРё РЅРёРєРѕРјСѓ СЃ РЅРёРј РЅРµ СЃСЂР°РІРЅРёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_lose_4">
-    <text>РЈР±СЂР°С‚СЊ С‚СѓС€Сѓ СЃ Р°СЂРµРЅС‹!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_ready_1">
-    <text>Р¤РёРЅР°Р»СЊРЅС‹Р№ Р±РѕР№!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_ready_2">
-    <text>РўРѕРїРѕСЂ СЃРѕРіР»Р°СЃРёР»СЃСЏ РЅР° СЌС‚РѕС‚ РїРѕРµРґРёРЅРѕРє,\nРЅРµ Р·РЅР°СЏ, С‡С‚Рѕ РµРіРѕ Р¶РґС‘С‚!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_ready_3">
-    <text>РџРѕСЃРјРѕС‚СЂРёРј, РєР°Рє Р·Р°РєРѕРЅС‡РёС‚СЃСЏ СЌС‚РѕС‚ СЃРµР·РѕРЅ\nРґР»СЏ С‡РµСЂРµСЃС‡СѓСЂ СЃРјРµР»РѕРіРѕ СЃС‚Р°Р»РєРµСЂР°.</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_ready_4">
-    <text>РќР°С‡Р°Р»Рё!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_win_1">
-    <text>Р§С‘СЂС‚ РїРѕР±РµСЂРё, СЃР»Р°РІР°!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_win_2">
-    <text>РЎР»Р°РІР° РЅР°С€РµРјСѓ РїРѕР±РµРґРёС‚РµР»СЋ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_win_3">
-    <text>РЎР»Р°РІР° РЅРѕРІРѕРјСѓ РјР°СЃС‚РµСЂСѓ РђСЂРµРЅС‹!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_win_4">
-    <text>РћРЅ СЃРјРѕРі СЃРґРµР»Р°С‚СЊ СЌС‚Рѕ С‚Р°Рє Р¶Рµ СЌС„С„РµРєС‚РЅРѕ,\nРєР°Рє РєРѕРіРґР°-С‚Рѕ СЌС‚Рѕ СЃРґРµР»Р°Р» РњРµС‡РµРЅС‹Р№!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_win_5">
-    <text>РўРѕРїРѕСЂ Р·Р°СЃР»СѓР¶РёР» СЌС‚Рѕ Р·РІР°РЅРёРµ РїРѕ РїСЂР°РІСѓ!</text>
-  </string>
-  <string id="st_bar_arena_manager_fight_8_win_6">
-    <text>РЎ РїРѕР±РµРґРѕР№, СЃС‚Р°Р»РєРµСЂ-РјР°СЃС‚РµСЂ!</text>
-  </string>
-  <string id="st_bar_stalker_fireball_wait_actor_1">
-    <text>Р­С…, С‡С‘СЂС‚...</text>
-  </string>
-  <string id="st_bar_stalker_fireball_wait_actor_2">
-    <text>Р­С…, Р±Р»РёРЅ... РµСЃР»Рё Р± РєС‚Рѕ РїРѕРјРѕРі...</text>
-  </string>
-  <string id="st_bar_stalker_fireball_wait_actor_3">
-    <text>Р‘Р»РёРЅ...</text>
-  </string>
-  <string id="st_bar_stalker_google_chrome_start_phrase">
-    <text>РќСѓ, РµС‰С‘ СЂР°Р·РѕРє РїРѕРјСЏРЅРµРј. РҐРѕСЂРѕС€РёР№ Р±С‹Р» СЃС‚Р°Р»РєРµСЂ.</text>
-  </string>
-  <string id="st_bar_stalker_pribluda_kill_phrase">
-    <text>Р—Р°РІР°Р»СЋ РЅР°С…СЂРµРЅ, СЃСѓРєР°!</text>
-  </string>
-  <string id="st_bar_security_1_see_actor">
-    <text>РџСЂРѕС…РѕРґРё, РЅРµ Р·Р°РґРµСЂР¶РёРІР°Р№СЃСЏ.</text>
-  </string>
-  <string id="st_bar_security_2_see_actor">
-    <text>РРґРё СЃРІРѕРµР№ РґРѕСЂРѕРіРѕР№, СЃС‚Р°Р»РєРµСЂ.</text>
-  </string>
-  <string id="st_bar_security_barmen_security_use_1">
-    <text>РўРµР±Рµ СЃСЋРґР° РЅРµР»СЊР·СЏ!</text>
-  </string>
-  <string id="st_bar_security_barmen_security_use_2">
-    <text>РџРѕРіРѕРІРѕСЂРё СЃ Р‘Р°СЂРјРµРЅРѕРј.</text>
-  </string>
-  <string id="st_bar_security_barmen_security_use_3">
-    <text>РЎС‚РѕР№! РЎРµР№С‡Р°СЃ СЃСЋРґР° РЅРµР»СЊР·СЏ.</text>
-  </string>
+
+	<string id="st_bar_main_post_soldier_agit_1">
+		<text>Эй, салага,\nвступай к нам в «Долг»!</text>
+	</string>
+
+	<string id="st_bar_main_post_soldier_agit_2">
+		<text>Сталкер, на территории\nбазы не шали, понял?</text>
+	</string>
+
+	<string id="st_bar_main_post_soldier_agit_3">
+		<text>Учти, ты соблюдаешь наши правила —\nтебя никто не трогает.</text>
+	</string>
+
+	<string id="st_bar_main_post_soldier_boss_threat_1">
+		<text>Стоять! Чужакам на территорию\nвход закрыт!</text>
+	</string>
+
+	<string id="st_bar_main_post_soldier_boss_threat_2">
+		<text>Стоять!\nТерритория для чужих закрыта!</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_1_1">
+		<text>Ты его не грохнул часом?</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_1_2">
+		<text>Он вырубился даже...</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_2_1">
+		<text>Ладно, тащим его в ангар.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_2_2">
+		<text>Только давай аккуратно:\nвпереди долговский КПП.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_3">
+		<text>Ну и чё нам\nтеперь с ним делать?</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_4">
+		<text>Не перегибаешь?</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_5_1">
+		<text>Да мы сейчас свалим,\nоткуда пришли.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_5_2">
+		<text>Как забор перелезли,\nтак и обратно залезем.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_6_1">
+		<text>Плохо это кончится, сука.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_6_2">
+		<text>Ой, плохо!</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_7_1">
+		<text>Вот сука!</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_1_phrase_7_2">
+		<text>Мужики, это самое, мужики, вы не стреляйте только!</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_1">
+		<text>Да не сдохнет.\nС этой пукалки только ворон сбивать.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_2_1">
+		<text>Да чё-чё...\nЗабрать хабар и замести следы.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_2_2">
+		<text>Прихлопнуть его\nи выкинуть куда подальше.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_3_1">
+		<text>Он очухается\nи поднимет тут всех на уши.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_3_2">
+		<text>Нам нужен этот кипиш?</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_4_1">
+		<text>Ты, кажется, забыл,\nради чего мы это затеяли:</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_4_2">
+		<text>нам нужно больше хабара.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_4_3">
+		<text>С одного этого осла\nмы накопим себе только на пиво.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_4_4">
+		<text>Его грохнем, а через пару дней\nеще кого-то захапаем.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_5">
+		<text>Хватит ныть. За дело,\nберём бабло со шмотками и валим.</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_6_1">
+		<text>Мля, в натуре, не шмаляйте!</text>
+	</string>
+
+	<string id="st_bar_robbery_bandit_2_phrase_6_2">
+		<text>Мы же можем договориться!</text>
+	</string>	
+
+	<string id="st_bar_robbery_duty_help_soldier_1_phrase_1">
+		<text>Да, не думал здесь\nбандитов встретить.</text>
+	</string>	
+
+	<string id="st_bar_robbery_duty_help_soldier_1_phrase_2">
+		<text>Что ж, придётся разбираться!</text>
+	</string>	
+
+	<string id="st_bar_robbery_duty_help_soldier_2_phrase">
+		<text>В расход у меня пойдёшь!</text>
+	</string>	
+
+	<string id="st_subtitles_bar_duty">
+		<text>Долговец</text>
+	</string>	
+
+	<string id="st_bar_robbery_duty_help_1">
+		<text>Бойцы, вперёд!</text>
+	</string>	
+
+	<string id="st_bar_robbery_duty_help_2">
+		<text>Контакт с противником, подтягивайтесь!</text>
+	</string>	
+
+	<string id="st_bar_green_stalker_leader_dogs_compl_1">
+		<text>Мы там собак на подходе\nк Бару перестреляли.</text>
+	</string>	
+
+	<string id="st_bar_green_stalker_leader_dogs_compl_2">
+		<text>Помогли защитить мир\nот заразы Зоны.</text>
+	</string>
+
+	<string id="st_bar_green_stalker_leader_dogs_compl_3">
+		<text>Может, нам награда\nкакая причитается?</text>
+	</string>
+
+	<string id="st_bar_main_post_soldier_dogs_compl">
+		<text>Ну, раз защитили, то будет награда. Обратись к Бармену, нальет тебе пару стаканчиков за счет заведения.</text>
+	</string>
+
+	<string id="st_bar_green_stalker_leader_no_meet_1">
+		<text>Давай. Не мельтеши.</text>
+	</string>	
+
+	<string id="st_bar_green_stalker_leader_no_meet_2">
+		<text>Отстань, дядя.</text>
+	</string>	
+
+	<string id="st_bar_green_stalker_leader_no_meet_3">
+		<text>Слушай, мужик, отвали от меня.</text>
+	</string>	
+
+	<string id="st_bar_green_stalker_leader_no_meet_4">
+		<text>Отстань, мужик.\nНе хочу я с тобой говорить.</text>
+	</string>	
+
+	<string id="st_bar_green_stalker_leader_no_meet_5">
+		<text>Ну, всё! Чеши куда шёл.</text>
+	</string>	
+
+	<string id="st_bar_green_stalker_leader_no_meet_6">
+		<text>Да чё ты пристал, как банный лист?\nНе хочу я с тобой разговаривать!</text>
+	</string>	
+
+	<string id="st_bar_prison_task_stalker_koval_talk_with_drunk_stalker">
+		<text>Тихо, мужик.\nВот тебе пузырь. Иди отдыхай.</text>
+	</string>	
+
+	<string id="st_bar_prison_task_stalker_koval_start_go">
+		<text>Ну всё, пошли. Только тихо.</text>
+	</string>	
+
+	<string id="st_bar_prison_task_stalker_koval_see_duty">
+		<text>Патрульный! В кусты, быстро!</text>
+	</string>	
+
+	<string id="st_bar_prison_task_stalker_koval_actor_bush_angry_1">
+		<text>В кусты, дурила. Бегом!</text>
+	</string>	
+
+	<string id="st_bar_prison_task_stalker_koval_actor_bush_angry_2">
+		<text>Быстро сюда!</text>
+	</string>	
+
+	<string id="st_bar_prison_task_stalker_koval_projectors_info_1">
+		<text>Отсюда только один выход.</text>
+	</string>	
+
+	<string id="st_bar_prison_task_stalker_koval_projectors_info_2">
+		<text>Нужно прорубить им свет и по-тихому пройти мимо постовых.</text>
+	</string>	
+
+	<string id="st_bar_prison_task_stalker_koval_projectors_info_3">
+		<text>Рубильник в здании рядом.</text>
+	</string>	
+
+	<string id="st_bar_prison_task_stalker_koval_go_fast">
+		<text>Надо торопиться: они вот-вот заметят твою пропажу!</text>
+	</string>
+
+	<string id="st_bar_prison_task_soldier_drunk_stalker_talk_1">
+		<text>Ты с кем тут\nразговариваешь, придурок?</text>
+	</string>	
+
+	<string id="st_bar_prison_task_soldier_drunk_stalker_talk_2_1">
+		<text>Так, отдыхающий,\nдавай-ка в вытрезвитель до утра,</text>
+	</string>	
+
+	<string id="st_bar_prison_task_soldier_drunk_stalker_talk_2_2">
+		<text>а там мы с тобой ещё разберёмся.</text>
+	</string>	
+
+	<string id="st_bar_prison_task_soldier_1_second_post_talk_1">
+		<text>Товарищ капитан, может, чайку?</text>
+	</string>	
+
+	<string id="st_bar_prison_task_soldier_1_second_post_talk_2">
+		<text>Я мигом!</text>
+	</string>	
+
+	<string id="st_bar_prison_task_soldier_2_second_post_talk_1">
+		<text>Отставить.\nА вот кофейку можно.</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_1_projector_comment">
+		<text>Что за хрень?</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_2_projector_comment_1">
+		<text>Я ж говорил,\nпрожектора вырубаются.</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_2_projector_comment_2">
+		<text>Просил же, блин, починить!</text>
+	</string>	
+
+	<string id="st_bar_prison_task_projector_soldier_2_projector_comment_3">
+		<text>Иди провода проверяй.</text>
+	</string>	
+
+	<string id="st_bar_prison_task_drunk_stalker_thanx">
+		<text>Во, вот это дело.\nСпасибо, пацаны!</text>
+	</string>	
+
+	<string id="st_bar_prison_task_drunk_stalker_see_duty">
+		<text>Да я отдыхаю просто.</text>
+	</string>
+
+	<string id="st_bar_prison_task_drunk_stalker_monolog_1">
+		<text>Сука, бармен,\nне продаёт пузырь.</text>
+	</string>
+
+	<string id="st_bar_prison_task_drunk_stalker_monolog_2">
+		<text>Да я ему столько артефактов припёр,</text>
+	</string>
+
+	<string id="st_bar_prison_task_drunk_stalker_monolog_3">
+		<text>а он жлобится.</text>
+	</string>
+
+	<string id="st_bar_prison_task_actor_search">
+		<text>Пленный сбежал! Ищите его, он не мог далеко уйти!</text>
+	</string>
+
+	<string id="st_bar_prison_stalker_song">
+		<text>Кто не мечтал стать героем дня, искрой божественного огня...</text>
+	</string>	
+
+	<string id="st_bar_duty_base_prison_boss_stalker_song_reaction">
+		<text>Так, замолчать! Распелся тут.</text>
+	</string>	
+
+	<string id="st_bar_prison_task_projector_soldier_1_check_light_1_1">
+		<text>Гляди-ка, крышка открыта!</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_1_check_light_1_2">
+		<text>Может, это, ну, влага попала какая-то?</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_1_check_light_1_3">
+		<text>Я, наверное, закрыть забыл.</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_1_check_light_2">
+		<text>Твою ж мать.\nПонять бы, где тут что закоротило...</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_1_check_light_3_1">
+		<text>Не, командир сегодня\nне появится, не переживай.</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_1_check_light_3_2">
+		<text>Он вчера съел\nкакую-то херню в баре,</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_1_check_light_3_3">
+		<text>а сегодня, ну, обосрал нам\nвесь сортир, в общем.</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_2_check_light_1_1">
+		<text>Ну вот и разбирайся теперь, болван!</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_2_check_light_1_2">
+		<text>Вечно из-за вас все проблемы.</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_2_check_light_2_1">
+		<text>Давай-давай, пошевеливайся!</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_2_check_light_2_2">
+		<text>Сейчас командир придёт —\nтаких лещей нам отвесит!</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_2_check_light_3_1">
+		<text>Давай-давай,\nпошевеливайся!</text>
+	</string>
+
+	<string id="st_bar_prison_task_projector_soldier_2_check_light_3_2">
+		<text>Сейчас ты у меня обосрёшься...</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_main_post_compl">
+		<text>Отлично, двинули дальше!</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_hello_1">
+		<text>Здоров, командир.</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_hello_2">
+		<text>Ну что, теперь моя очередь\nтебя вытаскивать.</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_actor_light_angry_1">
+		<text>Туши свет. Чего застрял там?</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_actor_light_angry_2">
+		<text>Не тормози. Выруби им свет!</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_actor_light_angry_3">
+		<text>Давай быстрее. Руби им свет!</text>
+	</string>
+
+	<string id="st_bar_green_stalker_leader_need_help">
+		<text>Дружище, выручай!\nТут монстров — с ума сойти!</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_duty_start_1">
+		<text>Они сейчас пойдут к тебе. Спрячься куда-нибудь.</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_duty_start_2">
+		<text>Как только выждешь момент, выскакивай оттуда.</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_quickly">
+		<text>Шевелись. Погнали!</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_duty_see_actor">
+		<text>Твою мать. Суши вёсла теперь!</text>
+	</string>
+
+	<string id="st_bar_prison_task_drunk_stalker_go_prison">
+		<text>Пошли, командир, пошли.</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_actor_long_dist_1">
+		<text>Ты еле плетёшься. Шевелись!</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_actor_long_dist_2">
+		<text>Не отставай!</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_actor_long_dist_3">
+		<text>Давай, подтягивайся!</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_actor_fail">
+		<text>Выбирайся сам. Хрен с тобой.</text>
+	</string>
+
+	<string id="st_bar_prison_task_stalker_koval_death_cc">
+		<text>[кашель от боли]</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_1_lose_1">
+		<text>Победа!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_1_lose_2">
+		<text>Как же легко подчинился\nсалага этому сталкеру!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_1_lose_3">
+		<text>Уберите тушу с арены.\nУ нас предендент на следующий бой!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_1_ready_1">
+		<text>Сегодня на арене сразятся\nдва свежайших куска мяса!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_1_ready_2">
+		<text>Кто-то из них вот-вот\nотправится на корм собакам.</text>
+	</string>
+	
+	<string id="st_bar_arena_manager_fight_1_ready_3">
+		<text>Только один уйдёт в бар\nотмечать победу.</text>
+	</string>
+	
+	<string id="st_bar_arena_manager_fight_1_ready_4">
+		<text>Поехали!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_1_win_1">
+		<text>Победа!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_1_win_2">
+		<text>Наш победитель\nпрошёл крещение огнём!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_1_win_3">
+		<text>Сдаётся мне, что ещё не раз\nмы его увидим здесь!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_1_win_4">
+		<text>Правда ведь, молодой?</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_lose_1">
+		<text>Не получилось!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_lose_2">
+		<text>Этот неудачник был разгромлен\nуже во втором бою!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_lose_3">
+		<text>Ненадолго же его хватило.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_lose_4">
+		<text>Убрать мясо с арены!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_ready_1">
+		<text>Сезон продолжается!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_ready_2">
+		<text>Сегодня сражаются\nуже не салаги, но и не мастера!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_ready_3">
+		<text>У них за спиной\nпо одному выигранному бою,</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_ready_4">
+		<text>и это ещё ничего не значит!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_ready_5">
+		<text>Кто-то же должен будет проиграть.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_ready_6">
+		<text>Начали!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_win_1">
+		<text>Видели, как он отъехал?</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_win_2">
+		<text>Топор снова одержал победу!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_win_3">
+		<text>Что ж, если он\nвыйдет на третий бой,</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_win_4">
+		<text>узнаем, так ли хорош\nна самом деле этот сталкер!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_2_win_5">
+		<text>Может, это просто везение?</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_lose_1">
+		<text>Чёрт возьми,\nбеззаконие восторжествовало!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_lose_2">
+		<text>Бандиты продвигаются на следующую ступень.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_lose_3">
+		<text>Если им удастся выиграть все бои,\nони получат свободу!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_ready_1">
+		<text>Новый бой!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_ready_2">
+		<text>Против уже знакомого сталкера\nвыступит парочка преступников!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_ready_3">
+		<text>Этим двоим почти удалось\nприбрать к рукам хабар Топора,</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_ready_4">
+		<text>но они были задержаны доблестным\nотрядом «Долга» недалеко от Бара.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_ready_5">
+		<text>Этот бой - дело чести\nдля нашего сталкера.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_ready_6">
+		<text>Покажи им, как наших грабить!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_win_1">
+		<text>Победа!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_win_2">
+		<text>Бандитский дуэт\nпокидает наше мероприятие</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_win_3">
+		<text>и отправляется прямиком в могилу!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_3_win_4">
+		<text>Ну а на что ещё было рассчитывать\nобдолбанным отморозкам?</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_4_lose_1">
+		<text>Наш инкогнито\nпродвигается на пятую ступень!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_4_lose_2">
+		<text>А телу Топора суждено быть\nсъеденным чернобыльскими червями.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_4_ready_1">
+		<text>Бандитское отродье позади!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_4_ready_2">
+		<text>Сегодня Топор выступит\nуже против состоявшегося бойца,</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_4_ready_3">
+		<text>который предпочёл\nоставить своё имя в тайне.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_4_ready_4">
+		<text>Что ж, поехали!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_4_win_1">
+		<text>Он готов!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_4_win_2">
+		<text>С каким же хладнокровием\nработает этот молодой сталкер!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_lose_1">
+		<text>Ну а чего вы ждали?</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_lose_2">
+		<text>Даже опытный боец вряд ли\nвыстоит один против четверых.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_lose_3">
+		<text>Убрать мясо с арены!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_ready_1">
+		<text>Необычная схватка!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_ready_2">
+		<text>Топор нашёл в себе смелость\nвыйти против четверых сталкеров!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_ready_3">
+		<text>Эти салаги выбрали бой\nне один на один,</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_ready_4">
+		<text>а вчетвером, но против опытного.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_ready_5">
+		<text>Посмотрим, сыграет ли это роль\nдля нашего постоянного победителя!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_win_1">
+		<text>Невероятно!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_win_2">
+		<text>Один против четверых и победа!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_5_win_3">
+		<text>Этому сталкеру определённо\nнужно было идти в спецназ!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_lose_1">
+		<text>М-да.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_lose_2">
+		<text>Шёл сталкер к финалу,\nа пришёл в итоге к своей могиле!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_lose_3">
+		<text>Ну ничего. Впереди нас ждёт\nещё много интересных боёв!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_ready_1">
+		<text>Сезон неуклонно\nблизится к финалу!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_ready_2">
+		<text>Сегодня Топор выступит\nпротив отряда «Свободы»!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_ready_3">
+		<text>Эти ребята,\nкак и покинувшие нас бандиты,</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_ready_4">
+		<text>были пойманы бойцами «Долга»\nна подходах к Бару.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_ready_5">
+		<text>Это будет трудный бой для сталкера.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_ready_6">
+		<text>Начали!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_win_1">
+		<text>С каждым разом\nвсё труднее верить в происходящее!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_win_2">
+		<text>Сталкер вновь одержал победу!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_win_3">
+		<text>Победу с большим перевесом в силах!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_6_win_4">
+		<text>Даже не знаю, чего от него\nждать в дальнейшем!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_lose_1">
+		<text>Он не смог.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_lose_2">
+		<text>Не смог дойти до финала.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_lose_3">
+		<text>Сколько сталкеров возлагали на него надежды...</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_ready_1">
+		<text>Предпоследний бой!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_ready_2">
+		<text>Его участники максимально\nприблизились к финалу.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_ready_3">
+		<text>Это должно быть крайне зрелищно!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_ready_4">
+		<text>Не будем же мямлить. Начали!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_win_1">
+		<text>Без шансов!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_win_2">
+		<text>Победитель продвигается в финал,\nно в финал не без сюрпризов!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_win_3">
+		<text>Уже скоро, если Топор\nостанется жив к следующему бою,</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_7_win_4">
+		<text>мы будем наблюдать\nкрайне интересное зрелище!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_lose_1">
+		<text>Этого стоило ожидать.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_lose_2">
+		<text>Лишь один сталкер за всю историю Арены\nсмог преодолеть последний рубеж.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_lose_3">
+		<text>Это был Меченый,\nи никому с ним не сравниться.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_lose_4">
+		<text>Убрать тушу с арены!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_ready_1">
+		<text>Финальный бой!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_ready_2">
+		<text>Топор согласился на этот поединок,\nне зная, что его ждёт!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_ready_3">
+		<text>Посмотрим, как закончится этот сезон\nдля чересчур смелого сталкера.</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_ready_4">
+		<text>Начали!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_win_1">
+		<text>Чёрт побери, слава!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_win_2">
+		<text>Слава нашему победителю!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_win_3">
+		<text>Слава новому мастеру Арены!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_win_4">
+		<text>Он смог сделать это так же эффектно,\nкак когда-то это сделал Меченый!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_win_5">
+		<text>Топор заслужил это звание по праву!</text>
+	</string>
+
+	<string id="st_bar_arena_manager_fight_8_win_6">
+		<text>С победой, сталкер-мастер!</text>
+	</string>
+
+	<string id="st_bar_stalker_fireball_wait_actor_1">
+		<text>Эх, чёрт...</text>
+	</string>
+
+	<string id="st_bar_stalker_fireball_wait_actor_2">
+		<text>Эх, блин... если б кто помог...</text>
+	</string>
+
+	<string id="st_bar_stalker_fireball_wait_actor_3">
+		<text>Блин...</text>
+	</string>
+
+	<string id="st_bar_stalker_google_chrome_start_phrase">
+		<text>Ну, ещё разок помянем. Хороший был сталкер.</text>
+	</string>
+
+	<string id="st_bar_stalker_pribluda_kill_phrase">
+		<text>Завалю нахрен, сука!</text>
+	</string>
+
+	<string id="st_bar_security_1_see_actor">
+		<text>Проходи, не задерживайся.</text>
+	</string>
+
+	<string id="st_bar_security_2_see_actor">
+		<text>Иди своей дорогой, сталкер.</text>
+	</string>
+
+	<string id="st_bar_security_barmen_security_use_1">
+		<text>Тебе сюда нельзя!</text>
+	</string>
+
+	<string id="st_bar_security_barmen_security_use_2">
+		<text>Поговори с Барменом.</text>
+	</string>
+
+	<string id="st_bar_security_barmen_security_use_3">
+		<text>Стой! Сейчас сюда нельзя.</text>
+	</string>
+
 </string_table>

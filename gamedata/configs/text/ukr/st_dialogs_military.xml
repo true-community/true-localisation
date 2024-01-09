@@ -1,828 +1,1104 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="mil_trader_start_dialog_0_1">
-    <text>РџС–РґС…РѕРґСЊ, РЅРµ СЃРѕСЂРѕРјСЃСЏ!</text>
-  </string>
-  <string id="mil_trader_start_dialog_0_2">
-    <text>РџС–РґС…РѕРґСЊ, СЃС‚Р°Р»РєРµСЂРµ. Р’РёР±РёСЂР°Р№ С‚РѕРІР°СЂРё!</text>
-  </string>
-  <string id="mil_trader_start_dialog_0_3">
-    <text>Р’РёР±РёСЂР°Р№ С‚РѕРІР°СЂРё, СЃС‚Р°Р»РєРµСЂРµ!</text>
-  </string>
-  <string id="mil_trader_start_dialog_1_1">
-    <text>Рћ, РїРѕРІРµСЂРЅСѓРІСЃСЏ! Р§РёРј РїРѕСЂР°РґСѓС”С€? Р‘РѕСЂР¶РѕРє РїСЂРёРЅС–СЃ?</text>
-  </string>
-  <string id="mil_trader_start_dialog_1_2">
-    <text>Р’С–С‚Р°СЋ. РќРµ Р±Р°С‡РёРІ С‚РµР±Рµ С‚СѓС‚ СЂР°РЅС–С€Рµ, С‰Рѕ СЂРѕР·РєР°Р¶РµС€?</text>
-  </string>
-  <string id="mil_trader_actor_break_dialog_0_1">
-    <text>Р‘СѓРІР°Р№.</text>
-  </string>
-  <string id="mil_trader_actor_break_dialog_0_2">
-    <text>Р”Рѕ Р·СѓСЃС‚СЂС–С‡С–.</text>
-  </string>
-  <string id="mil_trader_actor_break_dialog_0_3">
-    <text>Р‘СѓРІР°Р№.</text>
-  </string>
-  <string id="mil_trader_second_actor_first_dialog_0">
-    <text>Рђ С–РЅС„РѕСЂРјР°С†С–С”СЋ С‚РѕСЂРіСѓС”С€?</text>
-  </string>
-  <string id="mil_trader_second_actor_first_dialog_1">
-    <text>Р—Р°С…РѕРґСЊ, СЃС‚Р°Р»РєРµСЂРµ! Р’РёР±РёСЂР°Р№ С‚РѕРІР°СЂРё! Р§Рё С‰РѕСЃСЊ РїСЂРѕРґР°С‚Рё С…РѕС‡РµС€?</text>
-  </string>
-  <string id="mil_trader_second_actor_first_dialog_2">
-    <text>РЇ СЃС‚Р°Р»РєРµСЂР° РѕРґРЅРѕРіРѕ С€СѓРєР°СЋ, РђРєРѕСЂРґРѕРј Р·РІР°С‚Рё. Р—РЅР°С”С€ С‚Р°РєРѕРіРѕ?</text>
-  </string>
-  <string id="mil_trader_second_actor_first_dialog_3">
-    <text>Р§РѕРјСѓ Р¶ РЅРµ Р·РЅР°С‚Рё СЃРІРѕС—С… Р±РѕСЂР¶РЅРёРєС–РІ! РЇ СЃР°Рј Р№РѕРіРѕ С€СѓРєР°СЋ. РџР°С‚СЂРѕРЅС–РІ Сѓ РјРµРЅРµ С‚СЂРё РєРѕСЂРѕР±Рё РІР·СЏРІ  вЂ”  С– С‚СЋ-С‚СЋ!</text>
-  </string>
-  <string id="mil_trader_second_actor_first_dialog_4">
-    <text>Р‘Р°С‡Сѓ, РІ РѕРґРЅРѕРјСѓ РЅР°РїСЂСЏРјРєСѓ РЅР°Рј РіСЂРµР±С‚Рё. РџС–РґРєР°Р¶Рё, РґРµ Р№РѕРіРѕ РјРѕР¶РЅР° Р·РЅР°Р№С‚Рё, Р° СЏ Р№ Р·Р° Р±РѕСЂРі РїРѕРіРѕРІРѕСЂСЋ.</text>
-  </string>
-  <string id="mil_trader_second_actor_first_dialog_5">
-    <text>Р“Р°СЂР°Р·Рґ, РґР°РІР°Р№ СЃРїСЂРѕР±СѓС”РјРѕ! РћС‚Р¶Рµ, Р·СЂРѕР±РёРІ РІС–РЅ Р·С– СЃРІРѕС”СЋ РіСЂСѓРїРѕСЋ РЅРµРІРµР»РёРєРµ СѓРєСЂРёС‚С‚СЏ, С‚СѓС‚ РЅРµРїРѕРґР°Р»С–Рє. РЇРє Р· СЃРµР»Р° РІРёР№РґРµС€, РїРµСЂРµС…РѕРґСЊ РґРѕСЂРѕРіСѓ, С‚Р°Рј РІР°РіРѕРЅС‡РёРє РїРѕР±Р°С‡РёС€. РћС‚, РјРѕР¶Р»РёРІРѕ, Р·Р°СЂР°Р· РІРѕРЅРё С‚Р°Рј. Р†РґРё, С– РїСЂРѕ Р±РѕСЂРі РЅР°РіР°РґР°Р№ С†СЊРѕРјСѓ РіС–РјРЅСЋРєСѓ!</text>
-  </string>
-  <string id="mil_trader_second_actor_first_dialog_6">
-    <text>РўР°Рє С‚РѕС‡РЅРѕ!</text>
-  </string>
-  <string id="mil_merc_leader_start_dialog_0">
-    <text>РџСЂРёРІС–С‚ С‚РѕР№, С…С‚Рѕ РїРѕ Рї'СЏС‚Р°С… С–РґРµ! Р—РґРёРІРѕРІР°РЅРёР№, С‰Рѕ С‚Рё С‚Р°Рє С€РІРёРґРєРѕ РІРёР№С€РѕРІ РЅР° СЃР»С–Рґ.</text>
-  </string>
-  <string id="mil_merc_leader_start_dialog_1">
-    <text>РўРѕ С†Рµ С‚Рё? РћРґРёРЅ Р· С‚РёС…, РєРѕРіРѕ Р±Р°С‡РёР»Рё Р±С–Р»СЏ РЅР°СѓРєРѕРІРѕРіРѕ РєРѕРјРїР»РµРєСЃСѓ...</text>
-  </string>
-  <string id="mil_merc_leader_start_dialog_2">
-    <text>РџСЂР°РІРёР»СЊРЅРѕ. РўРё Р¶ РјРµРЅРµ С‚Р°Рє СЃС‚Р°СЂР°РЅРЅРѕ С€СѓРєР°РІ, С– РѕСЃСЊ СЏ РїРµСЂРµРґ С‚РѕР±РѕСЋ. РўРµРїРµСЂ С‰Рѕ?</text>
-  </string>
-  <string id="mil_merc_leader_start_dialog_3">
-    <text>Р”Рµ РїСЂРѕС„РµСЃРѕСЂ?</text>
-  </string>
-  <string id="mil_merc_leader_start_dialog_4">
-    <text>РџСЂРѕС„РµСЃРѕСЂ? РўР°Рј, РґРµ Р№РѕРјСѓ РЅР°Р±Р°РіР°С‚Рѕ РєСЂР°С‰Рµ, РЅС–Р¶ Сѓ РІР°С€С–Р№ С€Р°СЂР°Р·С–! Р† С‚РѕР±С– СЏ СЂР°РґР¶Сѓ, РїРѕРєРё РЅРµ РїС–Р·РЅРѕ, РІРёР±СЂР°С‚Рё РїСЂР°РІРёР»СЊРЅСѓ СЃС‚РѕСЂРѕРЅСѓ.</text>
-  </string>
-  <string id="mil_merc_leader_start_dialog_5">
-    <text>РџСЂР°РІРёР»СЊРЅСѓ? РўРё Р¶ РІР±РёРІС†СЏ! РўРё РІР±РёРІ Р»СЋРґРµР№ Сѓ С†СЊРѕРјСѓ С‚Р°Р±РѕСЂС– Р№ СЃС‚Р°Р»РєРµСЂР° РЅР° РљРѕСЂРґРѕРЅС–. Р† РїСЂРѕС„РµСЃРѕСЂ, РІРё Р¶ РІРёРєСЂР°Р»Рё Р№РѕРіРѕ?</text>
-  </string>
-  <string id="mil_merc_leader_start_dialog_6">
-    <text>Р’РёРєСЂР°Р»Рё? РҐР°-С…Р°! Р’С–РЅ СѓС‚С–Рє РІС–Рґ РІР°СЃ Р·С– С€РІРёРґРєС–СЃС‚СЋ СЃРІС–С‚Р»Р°, Р±Рѕ Р·РЅР°РІ, С‰Рѕ РЅРµРІРґСЏС‡РЅР° С†Рµ СЃРїСЂР°РІР°  вЂ”  РЅР° СѓСЂСЏРґ РїСЂР°С†СЋРІР°С‚Рё.</text>
-  </string>
-  <string id="mil_merc_leader_start_dialog_7">
-    <text>РҐС‚Рѕ РІРё С‚Р°РєС–?</text>
-  </string>
-  <string id="mil_merc_leader_after_katakomb_dialog_0">
-    <text>РќСѓ С‰Рѕ, СЏРє СЃР°РјРѕРїРѕС‡СѓС‚С‚СЏ?</text>
-  </string>
-  <string id="mil_merc_leader_after_katakomb_dialog_1">
-    <text>Р—СѓР±Рё РјРµРЅС– РЅРµ Р·Р°РіРѕРІРѕСЂСЋР№. РњРё С‚Р°Рє С– РЅРµ Р·Р°РєС–РЅС‡РёР»Рё РЅР°С€Сѓ СЂРѕР·РјРѕРІСѓ. РҐС‚Рѕ РІРё С‚Р°РєС–, С– РґРµ РїСЂРѕС„РµСЃРѕСЂ Р”СѓР±С–РЅС–РЅ?</text>
-  </string>
-  <string id="mil_merc_leader_after_katakomb_dialog_2">
-    <text>Р”Р°РІР°Р№ РЅРµРЅР°РґРѕРІРіРѕ РІС–РґРєР»Р°РґРµРјРѕ С†СЋ РґРѕРІРіСѓ СЂРѕР·РјРѕРІСѓ, РїРѕРєРё С‚РІР°СЂСЋРєРё, С‰Рѕ Р·Р°РіРЅР°Р»Рё РЅР°СЃ Сѓ РїС–РґР·РµРјРєСѓ, С…РѕРґСЏС‚СЊ Р±РµР·РєР°СЂРЅРёРјРё. РўР° Р№ С€РјРѕС‚РєРё С‚РІРѕС— С‚РѕР±С– РїРѕС‚СЂС–Р±РЅС–, С‚Р°Рє?</text>
-  </string>
-  <string id="mil_merc_leader_after_katakomb_dialog_3">
-    <text>Р©Рѕ С‚Рё РїСЂРѕРїРѕРЅСѓС”С€?</text>
-  </string>
-  <string id="mil_merc_leader_after_katakomb_dialog_4">
-    <text>Р’РёСЂСѓС€РёС‚Рё РґРѕ РІРёСЂРѕРґРєС–РІ С– РїРѕРєР°СЂР°С‚Рё СЏРє СЃР»С–Рґ. Р”Р°РІР°Р№, РІРѕСЂСѓС€РёСЃСЊ.</text>
-  </string>
-  <string id="mil_merc_leader_after_katakomb_dialog_5">
-    <text>РЇРєС‰Рѕ С‰Рѕ, С‚Рё Сѓ РјРµРЅРµ РЅР° РјСѓС€С†С–.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_1_1">
-    <text>Р‘РѕСЋСЃСЏ, С‰Рѕ РЅРµРјР° РІР¶Рµ РєРѕРјСѓ Р№РѕРіРѕ РїРѕРІРµСЂС‚Р°С‚Рё. РђРєРѕСЂРґ С– Р№РѕРіРѕ РіСЂСѓРїР° РјРµСЂС‚РІС–.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_1_2">
-    <text>РЇ Р±СѓРІ Сѓ С‚Р°Р±РѕСЂС– РђРєРѕСЂРґР°. РўРё, Р·РґР°С”С‚СЊСЃСЏ, Р· РЅРёРј Р·РЅР°Р№РѕРјРёР№... С‚РѕС‡РЅС–С€Рµ, Р±СѓРІ Р·РЅР°Р№РѕРјРёР№. РђРєРѕСЂРґ С‚Р° Р№РѕРіРѕ РіСЂСѓРїР° РјРµСЂС‚РІС–.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_2">
-    <text>Р”С–РґСЊРєРѕ!</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_3">
-    <text>Р’Р±РёР»Рё С—С… С–, СЃСѓРґСЏС‡Рё Р· СѓСЃСЊРѕРіРѕ, Р·СЂРѕР±РёР»Рё С†Рµ С€РІРёРґРєРѕ Р№ РЅРµРїРѕРјС–С‚РЅРѕ. Р’РѕРЅРё РЅРµ РІСЃС‚РёРіР»Рё РЅР°РІС–С‚СЊ Р·СЂРѕР·СѓРјС–С‚Рё.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_4">
-    <text>Р—Р° С‰Рѕ Р¶ С†Рµ... РЇРє С€РєРѕРґР° С…Р»РѕРїС†С–РІ... Р’РѕРЅРё Р¶ РјРµРЅС– РґРѕРїРѕРјР°РіР°Р»Рё С– СЂРѕР±РѕС‚Сѓ РІРёРєРѕРЅСѓРІР°С‚Рё, С– С…Р°Р±Р°СЂ С‚СЏРіР°С‚Рё. Р•С…, Р·РµРјР»СЏ С—Рј Р°СЂС‚РµС„Р°РєС‚Р°РјРё...</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_5">
-    <text>Рђ СЏ, РІРёСЏРІР»СЏС”С‚СЊСЃСЏ, РЅС– С‡РѕСЂС‚Р° РЅРµ Р·РЅР°СЋ РїСЂРѕ С†С– РєСЂР°С—. Р¦Рµ С‰Рѕ С‚СѓС‚ Р·Р° Р±РѕСЂР·С– РЅР°Р№РјР°РЅС†С– РІР»Р°С€С‚СѓРІР°Р»РёСЃСЏ РЅРµРїРѕРґР°Р»С–Рє?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_6">
-    <text>Рђ-Р°, С†С–... РўР°, С‚Рѕ С‚Рё РїСЂР°РІРёР»СЊРЅРѕ СЃРєР°Р·Р°РІ  вЂ”  Р±РѕСЂР·С–! РћСЃСЊРѕ, Р±Р°С‡РёС€ СЂСѓРєСѓ? Рђ СЏ РЅС– С…РµСЂР° РЅРµ Р±Р°С‡Сѓ! РўРІР°СЂСЋРєРё С†С– РїРѕСЃС‚Р°СЂР°Р»РёСЃСЏ!</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_7">
-    <text>РўР° РЅСѓ? Р† Р·Р° С‰Рѕ С‚Р°Рє?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_8">
-    <text>РўР° РїСЂРёР№С€Р»Рё РІРѕРЅРё СЏРєРѕСЃСЊ РґРѕ РјРµРЅРµ, С‚РѕРІР°СЂРё РїРѕРґРёРІРёС‚РёСЃСЊ. Р† РІ С†С–РЅС– РјРё С‚СЂРѕС…Рё РЅРµ Р·С–Р№С€Р»РёСЃСЏ, РґСѓРјР°Р»Рё, СЏ РІРёСЂС–С€РёРІ С—С… РѕР±РґСѓСЂРёС‚Рё! РќСѓ С‚Р°, С‡РѕРіРѕ С‚СѓС‚ С‚Р°С—С‚Рё, С‚Р°Рє РІРѕРЅРѕ Р№ Р±СѓР»Рѕ... РЇ Р¶ Р±Р°С‡Сѓ, РІРѕРЅРё Р· РіСЂС–С€РјРё, РґР°Р№-РЅРѕ, РґСѓРјР°СЋ, РїР°СЂСѓ С‚РёСЃСЏС‡ РЅР°РєРёРЅСѓ. Рђ РІРѕРЅРё РјРµРЅС– РїРѕ СЂСѓС†С–  вЂ”  С…СЂСЏСЃСЊ! Р† РІРёСЃРёС‚СЊ С‚РµРїРµСЂ РІРѕРЅР° Сѓ РЅРёС… Сѓ С‚Р°Р±РѕСЂС–, СЏРє СЃСѓРІРµРЅС–СЂ...</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_9">
-    <text>Рђ РїСЂРѕ С–РіСЂРё С—С…РЅС– С‡СѓРІ?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_10">
-    <text>Р•РіРµ Р¶, С‡СѓРІ. РўС–Р»СЊРєРё РІРѕРЅРё РјРµРЅС– РѕРґСЂР°Р·Сѓ СЃРєР°Р·Р°Р»Рё, С‰Рѕ СЂР°Р·РѕРј Р· РјРѕС”СЋ РєСѓРєСЃРѕСЋ Сѓ С‚Р°Р±РѕСЂС– РІРёСЃС–С‚РёРјСѓС‚СЊ Р№ С–РЅС€С– С‡Р°СЃС‚РёРЅРё С‚С–Р»Р°, СЏРєС‰Рѕ РєРѕРјСѓСЃСЊ СЂРѕР·РїРѕРІС–Рј. РўСЂСЏСЃС†СЏ, Р° СЏ Р¶ С‚РѕР±С– РѕС‚ С– РїСЂРѕРіРѕРІРѕСЂРёРІСЃСЏ...</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_11">
-    <text>РќРµ СЃС†Рё: РЅРµРјР°С” С—С… Р±С–Р»СЊС€Рµ Сѓ С‚Р°Р±РѕСЂС–. РќРµ Р· С‚РёРј РІРѕРЅРё РїРѕРіСЂР°С‚Рё РІРёСЂС–С€РёР»Рё.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_12">
-    <text>РўР° РЅСѓ? Р™РѕРєРµР»РµРјРµРЅРµ, РѕС†Рµ С‚Р°Рє С‚Рё РјРµРЅРµ РІС‚С–С€РёРІ! РЎРјРµСЂС‚С– Р»СЋРґРµР№, Р·РІРёС‡Р°Р№РЅРѕ, СЂР°РґС–С‚Рё РїРѕРіР°РЅРѕ, Р°Р»Рµ Р·Р° С†Рµ РЅРµ РіСЂС–С… С– РіРѕСЂС–Р»РєРё РІРёРїРёС‚Рё! Р‘СѓРґРµС€?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_13">
-    <text>РќСѓ, РґР°РІР°Р№ СЃРєР»СЏРЅРѕС‡РєСѓ.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_14">
-    <text>Рђ С‰Рѕ С‚Рё РІС–Рґ РіСЂСѓРїРё РђРєРѕСЂРґР° С…РѕС‚С–РІ? Р§Рё РЅРµ С‚Рё С—С… С‡Р°СЃРѕРј РїСЂРёР±РёРІ?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_15">
-    <text>РўР° С‚Рё С‰Рѕ? РќС–. РўР° С– СЏ РѕРґРёРЅ, РїСЂРѕС‚Рё РіСЂСѓРїРё? Р›РёР±РѕРЅСЊ РЅРµ С‚РµСЂРјС–РЅР°С‚РѕСЂ.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_16">
-    <text>Рђ С‰Рѕ Р¶ С‚РѕРґС– Р· РЅРёРјРё СЃС‚Р°Р»РѕСЃСЏ?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_17">
-    <text>Р’Р±РёР»Рё С—С…. Р›СЋРґРё, Р·Р° СЏРєРёРјРё СЏ СЃСЋРґРё Р№ РїСЂРёР№С€РѕРІ. РўРё С‡Р°СЃРѕРј РЅРµ Р·СѓСЃС‚СЂС–С‡Р°РІ РґРѕР±СЂРµ РѕР·Р±СЂРѕС”РЅРёС… РіСЂСѓРї РЅРµРІС–РґРѕРјРёС… Сѓ С†РёС… РјС–СЃС†СЏС…? Р¤РѕСЂРјР° Сѓ РЅРёС… С‰Рµ С‚Р°РєР°, РЅРµР·РІРёС‡Р°Р№РЅР°!</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_18">
-    <text>РћСЃРѕР±РёСЃС‚Рѕ СЏ РЅРµ Р±Р°С‡РёРІ, Р°Р»Рµ Р»СЋРґРё РїРѕРґРµР№РєСѓРІР°Р»Рё РїСЂРѕ РїРѕРґС–Р±РЅРµ. Р’С‚С–Рј, РєРѕРіРѕ С‚С–Р»СЊРєРё СЃСЋРґРё РЅРµ Р·Р°РЅРѕСЃРёС‚СЊ! Рђ РґРµ С†Рµ С—Рј РђРєРѕСЂРґ РґРѕСЂРѕРіСѓ РїРµСЂРµР№С€РѕРІ?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_19">
-    <text>РҐРѕРІР°СЋС‚СЊСЃСЏ РІРѕРЅРё, Р° РђРєРѕСЂРґ С—С… Р±Р°С‡РёРІ С– РґРѕРїРѕРІС–РІ РєРѕРјСѓ С‚СЂРµР±Р°. РЁРєРѕРґР° С‚С–Р»СЊРєРё, С‰Рѕ Р·Р° С†Рµ РґРѕРІРµР»РѕСЃСЏ Р¶РёС‚С‚СЏРј РїРѕРїР»Р°С‚РёС‚РёСЃСЏ. Р”Рµ РІРѕРЅРё РјРѕР¶СѓС‚СЊ Р±СѓС‚Рё? РњРѕР¶Рµ, С” РјС–СЃС†СЏ, РґРµ РІРѕРЅРё РјРѕРіР»Рё СЂРѕР·Р±РёС‚Рё С‚Р°Р±С–СЂ?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_20">
-    <text>РўСѓС‚? РќР°РІСЂСЏРґ С‡Рё. РќР° Р‘Р°СЂ'С”СЂС– СЃРІРѕР±РѕРґС–РІС†С–, РІС–Р№СЃСЊРєРѕРІС– СЃРєР»Р°РґРё РґР°РІРЅРѕ Р·Р°РєРёРЅСѓС‚С–, РІ СЃРµР»С– РѕСЃРµР»РёР»РѕСЃСЏ СЃС–РјРµР№СЃС‚РІРѕ РєСЂРѕРІРѕСЃРѕСЃС–РІ. Рђ Р±С–Р»СЊС€Рµ Р·Р°С‚РёС€РЅРёС… РјС–СЃС†СЊ С‚СѓС‚ С– РЅРµРјР°. РќРµ РјС–СЃС†РµРІС– РІРѕРЅРё, СЏРІРЅРѕ.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_21">
-    <text>Рђ С‰Рѕ СЃРєР»Р°РґРё? РўР°Рј Р¶Рµ СЂР°РЅС–С€Рµ В«Р’РѕР»СЏВ» Р±Р°Р·Сѓ С‚СЂРёРјР°Р»Р°?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_22">
-    <text>Р’РѕРЅРё Р·Р°СЂР°Р· Р‘Р°СЂ'С”СЂ Р·РјС–С†РЅРёР»Рё, СѓСЃС– С‚Р°Рј С– РІР»Р°С€С‚СѓРІР°Р»РёСЃСЏ, Р° РЅР° СЃРєР»Р°РґР°С… С‡РѕСЂС‚С–РІРЅСЏ СЏРєР°СЃСЊ РїРѕС‡Р°Р»Р°СЃСЏ. РЇ СЃР°Рј РЅРµ РІ РєСѓСЂСЃС–, Р°Р»Рµ СЃС‚Р°Р»РєРµСЂРё С‚СѓРґРё РЅР°РјР°РіР°СЋС‚СЊСЃСЏ РЅРµ Р·Р°С…РѕРґРёС‚Рё: РїРѕ-РїРµСЂС€Рµ, СЂРѕР±РёС‚Рё С‚Р°Рј РЅРµРјР° С‡РѕРіРѕ; РїРѕ-РґСЂСѓРіРµ, СѓРІРёР¶Р°С”С‚СЊСЃСЏ РІСЃСЏРєРµ. Р§Рё С‚Рѕ РїСЂРёРІРёРґРё, С‡Рё С‚Рѕ С„Р°РЅС‚РѕРјРё... Р§Рё РЅРµ РєРѕРЅС‚СЂРѕР»РµСЂ С‚Р°Рј РѕСЃРµР»РёРІСЃСЏ?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_23">
-    <text>Р“Р°СЂР°Р·Рґ, РґСЏРєСѓСЋ Р·Р° С–РЅС„РѕСЂРјР°С†С–СЋ!</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_24">
-    <text>Рђ С‚Рё СЃР°Рј РєРёРј Р±СѓРґРµС€? РќР°РІС–С‰Рѕ С†РёС… РµРєС–РїС–СЂРѕРІР°РЅРёС… СЂРѕР·С€СѓРєСѓС”С€?</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_25">
-    <text>РЇ РїСЂРѕСЃС‚РёР№ СЂРѕР±РѕС‚СЏРіР°. РћС‚СЂРёРјР°РІ Р·Р°РІРґР°РЅРЅСЏ С—С… Р·РЅР°Р№С‚Рё, РЅР°РјР°РіР°СЋСЃСЊ С‚РµРїРµСЂ Р№РѕРіРѕ РІРёРєРѕРЅР°С‚Рё.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_26">
-    <text>РђРіР°... Р РѕР±РѕС‚СЏРіР°, Р·РЅР°С‡РёС‚СЊ. РќСѓ, СЏРєС‰Рѕ Р·Р°С…РѕС‡РµС€ РІ РјРѕС”РјСѓ С†РµС…Сѓ РїРѕРїСЂР°С†СЋРІР°С‚Рё, С‚Рѕ Р·РІРµСЂС‚Р°Р№СЃСЏ. РњРµРЅС– С‚Р°РєР° Р»СЋРґРёРЅР° РѕР№ СЏРє РІ РЅР°РіРѕРґС– СЃС‚Р°РЅРµ!</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_27">
-    <text>Р—РіРѕРґР°! РђР»Рµ СЃРїРµСЂС€Сѓ СЂРѕР·Р±РµСЂСѓСЃСЏ Р·С– СЃРІРѕС—РјРё СЃРїСЂР°РІР°РјРё. РЈ С‚РµР±Рµ РјРѕР¶РЅР° РґРµСЃСЊ РїРѕРґСЂС–РјР°С‚Рё РіРѕРґРёРЅРєСѓ? Рђ С‚Рѕ РЅРѕРіРё РІР¶Рµ РЅРµ С‚СЂРёРјР°СЋС‚СЊ.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_28">
-    <text>Р‘РµР· РїСЂРѕР±Р»РµРј. РўСѓС‚ Сѓ СЃРµР»С– С” РїР°СЂР° РїС–РґС…РѕРґСЏС‰РёС… РјС–СЃС†СЊ, Р»СЏРіР°Р№. РҐР»РѕРїС†С– Сѓ С‚Р°Р±РѕСЂС– РїРѕРєР°СЂР°СѓР»СЏС‚СЊ.</text>
-  </string>
-  <string id="mil_trader_second_actor_after_katakomb_dialog_29">
-    <text>Р”СЏРєСѓСЋ!</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_0">
-    <text>РЇРє С‚Рё? Р’РёРіР»СЏРґР°С”С€ СЃС‚РѕРјР»РµРЅРёРј.</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_1">
-    <text>РќС–С‡РѕРіРѕ, Р¶РёРІРёР№. Р’Рё СЏРє РґС–СЃС‚Р°Р»РёСЃСЏ, Р±РµР· РїСЂРѕР±Р»РµРј?</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_2">
-    <text>Р’СЃРµ РЅРѕСЂРј. Р’РёСЂС–С€РёР»Рё РѕР±С–Р№С‚Рё Р±Р°СЂ СЃС‚РѕСЂРѕРЅРѕСЋ. Р¦Рµ РѕР·РЅР°С‡Р°С”, С‰Рѕ РїСЂРѕ РІР°СЃ СѓСЃСЏ СЃС‚Р°Р»РєРµСЂСЃСЊРєР° РјРµСЂРµР¶Р° РіСѓРґС–Р»Р°? РЁРєРѕРґР° РљРѕРІР°Р»СЏ.</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_3">
-    <text>РЇРєР±Рё РЅРµ РІС–РЅ, РіСѓР»Р° Р± Р·Р°СЂР°Р· РјРµСЂРµР¶Р° СЂР°РґРѕС‰Р°РјРё СЃС‚Р°Р»РєРµСЂС–РІ РїСЂРѕ С‚Рµ, С‰Рѕ РІРѕРЅРё РІС–Р№СЃСЊРєРѕРІРѕРіРѕ Р·Р°СЃС‚СЂРµР»РёР»Рё. РўР° Р№ Р±РµР· РЅСЊРѕРіРѕ, РЅР°РІСЂСЏРґ С‡Рё Р± РјРё РІРёР№С€Р»Рё РЅР° СЃР»С–Рґ РїСЂРѕС„РµСЃРѕСЂР°.</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_4">
-    <text>Р©Рѕ С‚Рё РґС–Р·РЅР°РІСЃСЏ?</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_5">
-    <text>РќРµ С‚Р°Рє Р±Р°РіР°С‚Рѕ. Р’РѕРЅРё РІР±РёР»Рё С‚РѕРіРѕ СЃС‚Р°Р»РєРµСЂР°, СЏРєРёР№ РЅРµРѕС„С–С†С–Р№РЅРѕ РїСЂР°С†СЋРІР°РІ Р· РїСЂРѕС„РµСЃРѕСЂРѕРј. РўРѕР№, РјР°Р±СѓС‚СЊ, Р°Р±Рѕ Р±Р°РіР°С‚Рѕ Р·РЅР°РІ, Р°Р±Рѕ РґРµСЃСЊ РїРµСЂРµР№С€РѕРІ С—Рј РґРѕСЂРѕРіСѓ. РљС–Р»СЊРєР° РіРѕРґРёРЅ С‚РѕРјСѓ РјРµРЅС– РґРѕРІРµР»РѕСЃСЏ РѕСЃРѕР±РёСЃС‚Рѕ РїРѕСЃРїС–Р»РєСѓРІР°С‚РёСЃСЏ Р· РѕРґРЅРёРј С–Р· С†РёС… Р»СЋРґРµР№. Р’С–РЅ РЅР°С‚СЏРєРЅСѓРІ РјРµРЅС–, С‰Рѕ РЅР°Рј РєСЂР°С‰Рµ РІС–РґСЃС‚СѓРїРёС‚Рё Р№ РїСЂРёРїРёРЅРёС‚Рё РїРµСЂРµСЃР»С–РґСѓРІР°РЅРЅСЏ. Р†РЅР°РєС€Рµ Р· РЅР°РјРё Р±СѓРґРµ С‚Рµ Р¶ СЃР°РјРµ.</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_6">
-    <text>Р† С‰Рѕ С‚Рё РґСѓРјР°С”С€?</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_7">
-    <text>РЈ РЅР°СЃ Р·Р°РІРґР°РЅРЅСЏ  вЂ”  Р·РЅР°Р№С‚Рё РїСЂРѕС„РµСЃРѕСЂР° Р”СѓР±С–РЅС–РЅР°. РњРё РјР°С”РјРѕ Р№РѕРіРѕ РІРёРєРѕРЅР°С‚Рё, РЅРµР·РІР°Р¶Р°СЋС‡Рё РЅР° СЏРєС–СЃСЊ С‚Р°Рј РїРѕРіСЂРѕР·Рё. РќРµРІС–РґРѕРјРѕ, Р· РєРёРј РјРё РјР°С”РјРѕ СЃРїСЂР°РІСѓ, СЃРєС–Р»СЊРєРё С—С… Сѓ Р·Р°РіРѕРЅС–, С– С‡Рё РІР°СЂС‚Рѕ РІР·Р°РіР°Р»С– СЃРїСЂРёР№РјР°С‚Рё С†С– РїРѕРіСЂРѕР·Рё РІСЃРµСЂР№РѕР·.</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_8">
-    <text>Р©Рѕ РІС–РґРѕРјРѕ РїСЂРѕ Р”СѓР±С–РЅС–РЅР°? Р’РѕРЅРё Р№РѕРіРѕ РІРёРєСЂР°Р»Рё?</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_9">
-    <text>РЇ РІР¶Рµ РґСѓР¶Рµ СЃРёР»СЊРЅРѕ РІ С†СЊРѕРјСѓ СЃСѓРјРЅС–РІР°СЋСЃСЏ. РќРµ РІРёРєР»СЋС‡РµРЅРѕ, С‰Рѕ РІС–РЅ СЃР°Рј РѕС…РѕС‡Рµ РїРѕРєРёРЅСѓРІ РєРѕРјРїР»РµРєСЃ. Р—Р°Р»РёС€РёР»РѕСЃСЊ С‚С–Р»СЊРєРё РґС–Р·РЅР°С‚РёСЃСЏ, РЅР°РІС–С‰Рѕ?</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_10">
-    <text>РЇРєРёР№ РїР»Р°РЅ РґС–Р№?</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_11">
-    <text>РњРё РґРµСЃСЊ РїРѕСЂСЏРґ. РќР°Рј РїРѕС‚СЂС–Р±РЅРѕ Р»РёС€Рµ Р·РЅР°Р№С‚Рё С‚Рµ РјС–СЃС†Рµ, РґРµ РІРѕРЅРё РјРѕРіР»Рё РѕСЂРіР°РЅС–Р·СѓРІР°С‚Рё С‚Р°Р±С–СЂ.</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_12">
-    <text>Р”СѓРјР°СЋ, С†Рµ РјРѕР¶РЅР° СЃРїСЂРѕР±СѓРІР°С‚Рё РІР»Р°С€С‚СѓРІР°С‚Рё. РЈ РјРµРЅРµ Р· СЃРѕР±РѕСЋ С” РЅРµРѕР±С…С–РґРЅРµ РѕР±Р»Р°РґРЅР°РЅРЅСЏ РґР»СЏ РїРµСЂРµС…РѕРїР»РµРЅРЅСЏ СЂР°РґС–РѕСЃРёРіРЅР°Р»С–РІ. Р’РѕРЅРё Р¶, РЅР°РїРµРІРЅРѕ, РєРѕСЂРёСЃС‚СѓСЋС‚СЊСЃСЏ СЏРєРёРјРѕСЃСЊ Р·РІ'СЏР·РєРѕРј. РўСЂРµР±Р° Р»РёС€Рµ Р·Р»РѕРІРёС‚Рё РїРѕС‚СЂС–Р±РЅРёР№ СЃРёРіРЅР°Р», С– РІРёР№С‚Рё РЅР° Р№РѕРіРѕ РґР¶РµСЂРµР»Рѕ. РћРґРЅР°Рє РїРѕС‚СЂС–Р±РЅРѕ Р·РЅР°Р№С‚Рё СЏРєСѓСЃСЊ РІРёСЃРѕРєСѓ С‚РѕС‡РєСѓ, С‰РѕР± РѕС…РѕРїРёС‚Рё Р±С–Р»СЊС€РёР№ СЂР°РґС–СѓСЃ.</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_13">
-    <text>РќРµРїРѕРґР°Р»С–Рє Р·РІС–РґСЃРё С” РїРѕРєРёРЅСѓС‚Р° РІС–Р№СЃСЊРєРѕРІР° Р±Р°Р·Р°. РўР°Рј С” РґРѕР·РѕСЂРЅС– РІРµР¶С–. Р—РіРѕРґРёС‚СЊСЃСЏ?</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_14">
-    <text>РњРѕР¶РЅР° СЃРїСЂРѕР±СѓРІР°С‚Рё. РўРѕРґС– С…РѕРґС–РјРѕ?</text>
-  </string>
-  <string id="mil_soldier_sky_first_dialog_15">
-    <text>РҐРѕРґС–РјРѕ. РўС–Р»СЊРєРё РѕР±РµСЂРµР¶РЅС–С€Рµ С‚Р°Рј: РЅРµ С‚Р°Рє РґР°РІРЅРѕ РІС–Р№СЃСЊРєРѕРІС– СЃРєР»Р°РґРё СѓС‚СЂРёРјСѓРІР°Р»Рё Р±С–Р№С†С– СѓРіСЂСѓРїРѕРІР°РЅРЅСЏ В«Р’РѕР»СЏВ», Р°Р»Рµ РїРѕС‚С–Рј РІРѕРЅРё РїРѕСЃРїС–С…РѕРј РїРѕРєРёРЅСѓР»Рё СЃРІРѕСЋ Р±Р°Р·Сѓ. РЎС‚Р°Р»РєРµСЂРё С‚РµР¶ С†Рµ РјС–СЃС†Рµ РЅР°РјР°РіР°СЋС‚СЊСЃСЏ РѕР±С…РѕРґРёС‚Рё СЃС‚РѕСЂРѕРЅРѕСЋ. Р©РѕСЃСЊ РЅРµРґРѕР±СЂРµ С‚Р°Рј, С‚РѕРјСѓ РІР°СЂС‚Рѕ Р±СѓС‚Рё РЅР°РїРѕРіРѕС‚РѕРІС–.</text>
-  </string>
-  <string id="mil_soldier_sky_army_base_tower_dialog_0">
-    <text>РҐСѓ-Сѓ. РќС–Р±Рё РїСЂРѕР№С€Р»Рё!</text>
-  </string>
-  <string id="mil_soldier_sky_army_base_tower_dialog_1">
-    <text>РўСЂРµР±Р° С€РІРёРґС€Рµ Р·Р°РєС–РЅС‡СѓРІР°С‚Рё СЃРїСЂР°РІРё, РїРѕРєРё РІСЃС– С†С– РїСЂРёРІРёРґРё РЅРµ РІР»Р°С€С‚СѓРІР°Р»Рё РЅР°Рј С„С–Р°СЃРєРѕ.</text>
-  </string>
-  <string id="mil_soldier_sky_army_base_tower_dialog_2">
-    <text>Р”Р°РІР°Р№ С‚Р°Рє: РѕСЃСЊ С†РµР№ РїСЂРёР»Р°Рґ РїРѕС‚СЂС–Р±РЅРѕ РІСЃС‚Р°РЅРѕРІРёС‚Рё РЅР° РІРµР¶С–. РЇ Р·РЅРёР·Сѓ Р»РѕРІРёС‚РёРјСѓ СЃРёРіРЅР°Р», Р° С…Р»РѕРїС†С– РЅР°СЃ РїСЂРёРєСЂРёСЋС‚СЊ.</text>
-  </string>
-  <string id="mil_soldier_sky_army_base_tower_dialog_3">
-    <text>Р“РѕРґРёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="mil_soldier_sky_after_army_base_dialog_0">
-    <text>Р’РёР±СЂР°Р»РёСЃСЏ!</text>
-  </string>
-  <string id="mil_soldier_sky_after_army_base_dialog_1">
-    <text>Р¦Рµ С‚РѕС‡РЅРѕ! Р„ С‡РёРј РїРѕСЂР°РґСѓРІР°С‚Рё? РўР°Рј РЅР° РІРµР¶С– СЏ С‡СѓРІ Сѓ РµС„С–СЂС– СЏРєС–СЃСЊ С†РёС„СЂРё.</text>
-  </string>
-  <string id="mil_soldier_sky_after_army_base_dialog_2">
-    <text>РџСЂРёСЃС‚СЂС–Р№ РґС–Р№СЃРЅРѕ РїРµСЂРµС…РѕРїРёРІ РєС–Р»СЊРєР° СЃРёРіРЅР°Р»С–РІ! Р”РµСЏРєС–, РѕС‡РµРІРёРґРЅРѕ, РЅР°Р»РµР¶Р°С‚СЊ РјС–СЃС†РµРІРёРј СЃС‚Р°Р»РєРµСЂР°Рј, Р° РѕС‚ РѕРґРёРЅ Р· РЅРёС…, РґРѕСЃРёС‚СЊ РїРѕС‚СѓР¶РЅРёР№, РїРµСЂРµРґР°С”С‚СЊСЃСЏ Сѓ Р·Р°С€РёС„СЂРѕРІР°РЅРѕРјСѓ С„РѕСЂРјР°С‚С–. Р”Р¶РµСЂРµР»Рѕ С†СЊРѕРіРѕ СЃРёРіРЅР°Р»Сѓ  вЂ”  РґРµСЃСЊ Сѓ СЂР°Р№РѕРЅС– РіРµР»С–РєРѕРїС‚РµСЂР°, С‰Рѕ РІРїР°РІ, С†Рµ РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ СЃРµР»Р° С‚РѕСЂРіРѕРІС†СЏ.</text>
-  </string>
-  <string id="mil_soldier_sky_after_army_base_dialog_3">
-    <text>РћС‚Р¶Рµ, С” СЃРµРЅСЃ С‚СѓРґРё РЅР°РІС–РґР°С‚РёСЃСЊ! Рђ С‰Рѕ Р· С€РёС„СЂРѕРј Сѓ СЂР°РґС–РѕСЃРёРіРЅР°Р»Р°С…? РњРѕР¶РЅР° Р·СЂРѕР·СѓРјС–С‚Рё, РїСЂРѕ С‰Рѕ Р№С€Р»Р° РјРѕРІР°?</text>
-  </string>
-  <string id="mil_soldier_sky_after_army_base_dialog_4">
-    <text>РџРѕРєРё РЅРµ Р·РЅР°СЋ. РЎС…РѕР¶Рµ РЅР° РЅРѕРјРµСЂРЅРµ СЂР°РґС–Рѕ. Р©Рµ СЃС‚СѓРґРµРЅС‚РѕРј РјР°РІ Р· С‚Р°РєРёРј СЃРїСЂР°РІСѓ. РўСЂРµР±Р° Р±СѓРґРµ РїРѕРєСѓРјРµРєР°С‚Рё РЅР°Рґ С†РёРј.</text>
-  </string>
-  <string id="mil_soldier_sky_after_army_base_dialog_5">
-    <text>Р“Р°СЂР°Р·Рґ, С†Рµ РїС–Р·РЅС–С€Рµ. Р’РёСЂСѓС€Р°Р№РјРѕ.</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_0">
-    <text>РџСЂРёС—С…Р°Р»Рё! РўСѓС‚ РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ СЃРёР»Р° СЃРёР»РµРЅРЅР°!</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_1">
-    <text>РўР°Рј Сѓ РіРµР»С–РєРѕРїС‚РµСЂС– С‰РѕСЃСЊ С”! РЎС…РѕР¶Рµ РЅР° РґРѕР±СЂРµ Р·Р°РјР°СЃРєРѕРІР°РЅРёР№ РІС…С–Рґ.</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_2">
-    <text>Р”С–Р№СЃРЅРѕ, Р°Р»Рµ РЅР°Рј С‚СѓРґРё РЅРµ РґС–СЃС‚Р°С‚РёСЃСЊ: РїСЂРёР»Р°РґРё Р·Р°С€РєР°Р»СЋСЋС‚СЊ РІС–Рґ РїСЃС–-РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ. РњС–Р·РєРё РјРёС‚С‚СЋ СЂРѕР·РїР»Р°РІРёС‚СЊ, СЏРєС‰Рѕ С‰Рµ С…РѕС‡ РїР°СЂСѓ РєСЂРѕРєС–РІ Р·СЂРѕР±РёС‚Рё РІ Р±С–Рє РіРµР»С–РєРѕРїС‚РµСЂР°.</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_3">
-    <text>РњРѕР¶РЅР° С‰РѕСЃСЊ РїСЂРёРґСѓРјР°С‚Рё?</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_4">
-    <text>РќСѓ, С‚СѓРґРё РїСЂРѕСЃС‚Рѕ С‚Р°Рє РЅРµ РґС–СЃС‚Р°С‚РёСЃСЊ... С…С–Р±Р° С‰Рѕ Р·С– СЃРїРµС†С–Р°Р»СЊРЅРёРј Р·Р°С…РёСЃС‚РѕРј.</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_5">
-    <text>РњРѕР¶Рµ, С‚РѕСЂРіРѕРІРµС†СЊ Р—СѓР±СЂ Р·РјРѕР¶Рµ РЅР°Рј С‰РѕСЃСЊ РїС–РґРєР°Р·Р°С‚Рё. Р¦Рµ РјС–СЃС†Рµ РІ РЅСЊРѕРіРѕ Р±СѓРєРІР°Р»СЊРЅРѕ РїС–Рґ РЅРѕСЃРѕРј. Р СѓС€Р°Р№РјРѕ Сѓ СЃРµР»Рѕ!</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_0">
-    <text>Р’С–С‚Р°СЋ. РњРµРЅС– С‚РµСЂРјС–РЅРѕРІРѕ РїРѕС‚СЂС–Р±РЅР° С–РЅС„РѕСЂРјР°С†С–СЏ.</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_1">
-    <text>Рћ, Р·РЅРѕРІСѓ С‚Рё! РќСѓ СЏРє С‚РІРѕСЏ РїРѕРіРѕРЅСЏ Р·Р° С‡РѕСЂРЅРѕСЋ РєС–С€РєРѕСЋ РІ С‚РµРјРЅС–Р№ РєС–РјРЅР°С‚С–?</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_2">
-    <text>РќРµ С‚Р°РєР° РІР¶Рµ РІРѕРЅР° Р№ С‡РѕСЂРЅР°. Рђ С‰РѕРґРѕ РєС–РјРЅР°С‚Рё, СЃРїРѕРґС–РІР°СЋСЃСЊ, С‚Рё СЏРєСЂР°Р· РјРµРЅС– Р№ РґРѕРїРѕРјРѕР¶РµС€ Р±С–Р»СЊС€Рµ РїСЂРѕ РЅРµС— РґС–Р·РЅР°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_3">
-    <text>РќРµ С…РѕС‡РµС‚СЊСЃСЏ Р·Р°Р»РёС€РёС‚РёСЃСЊ Р±РµР· РґСЂСѓРіРѕС— СЂСѓРєРё Р°Р±Рѕ Р¶РёС‚С‚СЏРј СЂРёР·РёРєСѓРІР°С‚Рё, СЏРєС‰Рѕ СЏ СЂР°РїС‚РѕРј СЂРѕР·РїРѕРІС–Рј С‚РѕР±С– С‰РѕСЃСЊ РЅРµ С‚Рµ. Р¦С– РЅРµРІС–РґРѕРјС–, СЏРє С‚Рё С—С… РЅР°Р·РёРІР°С”С€, РІР±РёР»Рё РіСЂСѓРїСѓ РђРєРѕСЂРґР°, Р° РІРѕРЅРё Р±СѓР»Рё РґР°Р»РµРєРѕ РЅРµ РЅРѕРІР°С‡РєР°РјРё. РЇ Р¶ Р»РёС€Рµ С‚РѕСЂРіРѕРІРµС†СЊ.</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_4">
-    <text>РЇРєС‰Рѕ С‚Рё РїСЂРѕСЃС‚Рѕ С‚РѕСЂРіРѕРІРµС†СЊ, С‚Рѕ С‡РѕРјСѓ С‚РѕСЂРіСѓС”С€ С‚СѓС‚, Р° РЅРµ РґРёРЅСЏРјРё РЅР° СЂРёРЅРєСѓ? РўРё С‚Р°РєРёР№ СЃР°РјРёР№ РЅРµР»РµРіР°Р», СЏРє С– Р±Р°РіР°С‚Рѕ С…С‚Рѕ С‚СѓС‚. РЇРєС‰Рѕ РїРѕСЃРїСЂРёСЏС”С€  вЂ”  Р·РјРѕР¶РµС€ С– РґР°Р»С– С‚СѓС‚ С‚РѕСЂРіСѓРІР°С‚Рё. РќС–С…С‚Рѕ Р· РІС–Р№СЃСЊРєРѕРІРёС… С‚РµР±Рµ РЅРµ Р·Р°С‡РµРїРёС‚СЊ.</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_5">
-    <text>РўР°Рє СЏ С– РґСѓРјР°РІ! РћС‚Р¶Рµ, С‚Рё РѕРґРёРЅ Р· РЅРёС…! Р— РІС–Р№СЃСЊРєРѕРІРёС…! Р’РѕРЅРѕ Р№ РІРёРґРЅРѕ. Рђ С‡РѕРіРѕ РјРµРЅС– РІР°СЃ Р±РѕСЏС‚РёСЃСЏ? РЈ РјРµРЅРµ РІСЃРµ РѕР±РіРѕРІРѕСЂРµРЅРѕ. РљРѕРјСѓ С‚СЂРµР±Р° РєРѕРЅРІРµСЂС‚РёРє С–Р· РіСЂРёРІРЅСЏРјРё Р·Р°РЅС–СЃ, С‰РѕР± РІР°С€ Р±СЂР°С‚ РјРµРЅРµ РЅРµ С‡С–РїР°РІ.</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_6">
-    <text>Р— РєРёРј Р±Рё С‚Рё С†Рµ РЅРµ РѕР±РіРѕРІРѕСЂСЋРІР°РІ, РІС–РґРјРѕРІР° РІС–Рґ СЃРїС–РІРїСЂР°С†С– Р·С– РјРЅРѕСЋ Р°РЅСѓР»СЋС” Р±СѓРґСЊ-СЏРєС– РґРѕРјРѕРІР»РµРЅРѕСЃС‚С–, С†Рµ СЏ РіР°СЂР°РЅС‚СѓСЋ. РЈ Р±СѓРґСЊ-СЏРєРѕРјСѓ СЂР°Р·С–, РІСЃРµ, С‰Рѕ С‚Рё РјРµРЅС– СЂРѕР·РєР°Р¶РµС€, Р·Р°Р»РёС€РёС‚СЊСЃСЏ РјС–Р¶ РЅР°РјРё.</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_7">
-    <text>Р† С‰Рѕ С‚РµР±Рµ С†С–РєР°РІРёС‚СЊ?</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_8">
-    <text>Р“РµР»С–РєРѕРїС‚РµСЂ РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ СЃРµР»Р°. Р©Рѕ С‚Рё РїСЂРѕ РЅСЊРѕРіРѕ Р·РЅР°С”С€?</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_9">
-    <text>Р—РІРёС‡Р°Р№РЅРёР№ РіРµР»С–РєРѕРїС‚РµСЂ, СЃС‚Рѕ СЂРѕРєС–РІ РІР¶Рµ С‚Р°Рј РІР°Р»СЏС”С‚СЊСЃСЏ. РўС–Р»СЊРєРё С‚Рё РґРѕ РЅСЊРѕРіРѕ РєСЂР°С‰Рµ РЅРµ РЅР°Р±Р»РёР¶Р°Р№СЃСЏ  вЂ”  РјР°РєС–С‚СЂР° Р·Р°РєРёРїРёС‚СЊ С‚Р°Рє, С‰Рѕ С…РѕС‡ С‡Р°Р№ РїРѕС‚С–Рј Сѓ РЅС–Р№ Р·Р°РІР°СЂСЋР№!</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_10">
-    <text>РќС–С…С‚Рѕ Р·С– СЃС‚Р°Р»РєРµСЂС–РІ РЅРµ РЅР°РјР°РіР°РІСЃСЏ РґРѕ РЅСЊРѕРіРѕ РґС–СЃС‚Р°С‚РёСЃСЏ?</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_11">
-    <text>Рђ РЅР°РІС–С‰Рѕ? Р’С–РґР±РёС‚С– РЅР° РіРѕР»РѕРІСѓ РІС–РґСЃС–РІР°СЋС‚СЊСЃСЏ С‰Рµ РЅР° РљРѕСЂРґРѕРЅС– С‡Рё РЎРјС–С‚РЅРёРєСѓ, Р° Сѓ С‚РёС…, С…С‚Рѕ СЃСЋРґРё РґС–СЃС‚Р°РІСЃСЏ, РІРёСЃС‚Р°С‡РёС‚СЊ СЂРѕР·СѓРјСѓ РЅРµ Р»С–Р·С‚Рё Сѓ РґР¶РµСЂРµР»Рѕ РїСЃС–-РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ.</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_12">
-    <text>РќР°Рј РїРѕС‚СЂС–Р±РЅРѕ РѕРіР»СЏРЅСѓС‚Рё С†Рµ РјС–СЃС†Рµ. РњРѕР¶Рµ, РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ РїРµСЂС–РѕРґРёС‡РЅРѕ СЃРїР°РґР°С”?</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_13">
-    <text>РЇ РїСЂРѕ С‚Р°РєРµ РЅРµ С‡СѓРІ.</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_14">
-    <text>РќСѓ Р¶ Р±Рѕ, РјРѕР¶Рµ, С” СЏРєС–СЃСЊ С–РґРµС—? Р’ РЅР°РєР»Р°РґС– РЅРµ Р·Р°Р»РёС€РёС€СЃСЏ, Р±Р°СЂРёРіРѕ!</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_15">
-    <text>РЈ РјРµРЅРµ С–РґРµР№ РЅРµРјР°С”, Р°Р»Рµ РјРѕР¶Сѓ РїС–РґРєР°Р·Р°С‚Рё Р»СЋРґРёРЅСѓ, СЏРєР° РґСѓР¶Рµ С†С–РєР°РІРёС‚СЊСЃСЏ РїРѕРґС–Р±РЅРѕСЋ Р±Р°Р№РґРѕСЋ. Р СѓРєР°СЃС‚РёР№, РіРѕР»РѕРІР°СЃС‚РёР№, С‚С–Р»СЊРєРё РѕС‚ СѓСЂР°Р·Р»РёРІРёР№, Р·Р°СЂР°Р·Р°! Р’ СЃРµР»С– Сѓ РЅР°СЃ СЂР°РЅС–С€Рµ СЃРёРґС–РІ, Р»Р°РіРѕРґРёРІ СЃС‚Р°Р»РєРµСЂР°Рј СЃРїРѕСЂСЏРіСѓ Р№ РµР»РµРєС‚СЂРѕРЅС–РєСѓ, Р° РїРѕС‚С–Рј РјРё Р· РЅРёРј С‚СЂРѕС…Рё РїРѕСЃРІР°СЂРёР»РёСЃСЏ, С– С‚РµРїРµСЂ РІС–РЅ Сѓ РІС–РґС‡СѓР¶РµРЅРЅС– РІС–Рґ РЅР°СЃ. Р”Р°РІР°Р№ С‚Р°Рє: СЏ С‚РѕР±С– РґР°СЋ ID-РЅРѕРјРµСЂ Р№РѕРіРѕ РљРџРљ, Р° С‚Рё РІРјРѕРІР»СЏС”С€ Р№РѕРіРѕ РїРѕРІРµСЂРЅСѓС‚РёСЃСЏ РІ СЃРµР»Рѕ. РЎРєР°Р¶Рё, С‰Рѕ СЏ РіРѕС‚РѕРІРёР№ РґРѕРјРѕРІРёС‚РёСЃСЊ РЅР° РІР·Р°С”РјРѕРІРёРіС–РґРЅРёС… СѓРјРѕРІР°С…! Р“РѕРґРёС‚СЊСЃСЏ?</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_16">
-    <text>Р“РѕРґРёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_17">
-    <text>Р”РѕРјРѕРІРёР»РёСЃСЊ! ID-РЅРѕРјРµСЂ СЃРєРёРЅСѓРІ С‚РѕР±С– РЅР° РљРџРљ. Р”Р°РІР°Р№, СѓРґР°С‡С–!</text>
-  </string>
-  <string id="mil_trader_after_army_base_dialog_18">
-    <text>Р”СЏРєСѓСЋ. Р©Рµ Р·Р°РіР»СЏРЅСѓ.</text>
-  </string>
-  <string id="mil_soldier_sky_stalker_technic_info_dialog_0">
-    <text>РќСѓ С‰Рѕ?</text>
-  </string>
-  <string id="mil_soldier_sky_stalker_technic_info_dialog_1">
-    <text>РќР°Рј РїРѕС‚СЂС–Р±РЅРѕ Р·РЅР°Р№С‚Рё Р»СЋРґРёРЅСѓ, СЏРєР° РґРѕРїРѕРјРѕР¶Рµ РїСЂРѕР±СЂР°С‚РёСЃСЏ РґРѕ РіРµР»С–РєРѕРїС‚РµСЂР°. РЈ РјРµРЅРµ С” ID-РЅРѕРјРµСЂ Р№РѕРіРѕ РљРџРљ. Р—РјРѕР¶РµС€ РІС–РґСЃС‚РµР¶РёС‚Рё, РґРµ Р№РѕРіРѕ Р·РЅР°Р№С‚Рё?</text>
-  </string>
-  <string id="mil_soldier_sky_stalker_technic_info_dialog_2">
-    <text>Р‘РµР· РїСЂРѕР±Р»РµРј, СЃРєРёРґР°Р№ РЅРѕРјРµСЂ!</text>
-  </string>
-  <string id="mil_soldier_sky_stalker_technic_info_dialog_3">
-    <text>Р§СѓРґРѕРІРѕ. РћС‚Р¶Рµ, Р·СЂРѕР±РёРјРѕ С‚Р°Рє: С‚Рё Р·Р°Р»РёС€Р°С”С€СЃСЏ РІ СЃРµР»С–, СЃРїСЂРѕР±СѓР№ СЂРѕР·С€РёС„СЂСѓРІР°С‚Рё СЃРёРіРЅР°Р»Рё, Р° СЏРєС‰Рѕ Р·Р»РѕРІРёС€ С‰Рµ С‰РѕСЃСЊ, РґР°Р№ Р·РЅР°С‚Рё. Р— С‚РѕР±РѕСЋ Р·Р°Р»РёС€РёС‚СЊСЃСЏ Р’СѓСЃР»РёС‡. РҐРѕС‚С‚Р°Р±РёС‡ РІРёСЂСѓС€РёС‚СЊ РЅР°РіР»СЏРґР°С‚Рё Р·Р° РіРµР»С–РєРѕРїС‚РµСЂРѕРј. РњРё РјР°С”РјРѕ Р·РЅР°С‚Рё РїСЂРѕ РІСЃС– РїРµСЂРµРјС–С‰РµРЅРЅСЏ Р±С–Р»СЏ РЅСЊРѕРіРѕ.</text>
-  </string>
-  <string id="mil_soldier_sky_stalker_technic_info_dialog_4">
-    <text>Рђ С‚Рё? Р’РїРѕСЂР°С”С€СЃСЏ СЃР°Рј?</text>
-  </string>
-  <string id="mil_soldier_sky_stalker_technic_info_dialog_5">
-    <text>РџРµСЂРµСЃСѓРІР°С‚РёСЃСЊ РїРѕ РјС–СЃС†РµРІРѕСЃС‚С– СѓСЃС–Рј Р·Р°РіРѕРЅРѕРј  вЂ”  РЅР°РґС‚Рѕ РїР°Р»РµРІРЅРѕ: С– С‚Р°Рє РІР¶Рµ Р·РЅР°С‚РЅРѕ С‚СѓС‚ РїРѕС€СѓРјС–Р»Рё. РќРµР·Р°Р±Р°СЂРѕРј РєРѕР¶РЅРёР№ СЃРѕР±Р°РєР° РїСЂРѕ РЅР°СЃ РґС–Р·РЅР°С”С‚СЊСЃСЏ. РўРѕРјСѓ РїС–РґСѓ РѕРґРёРЅ.</text>
-  </string>
-  <string id="mil_soldier_sky_stalker_technic_info_dialog_6">
-    <text>Р—СЂРѕР·СѓРјС–РІ. Р™РѕРіРѕ РљРџРљ РїРµР»РµРЅРіСѓС”С‚СЊСЃСЏ Сѓ РєРёРЅСѓС‚РѕРјСѓ СЃРµР»С– С‡РµСЂРµР· РґРѕСЂРѕРіСѓ... РџРѕРґРµР№РєСѓСЋС‚СЊ, С‚Р°Рј РєСЂРѕРІРѕСЃРѕСЃРё! РўРѕС‡РЅРѕ РІРїРѕСЂР°С”С€СЃСЏ?</text>
-  </string>
-  <string id="mil_soldier_sky_stalker_technic_info_dialog_7">
-    <text>РЇ РІРїРѕСЂР°СЋСЃСЏ. Р“РѕР»РѕРІРЅРµ, С‰РѕР± С†РµР№ СЃС‚Р°Р»РєРµСЂ Р±СѓРІ С†С–Р»РёР№. Р’СЃРµ, СЏ РїС–С€РѕРІ!</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_0">
-    <text>РҐРѕС‡ С…С‚РѕСЃСЊ Р¶РёРІРёР№!</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_1">
-    <text>Р©Рѕ С‚Рё С‚Р°Рј СЂРѕР±РёС€?</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_2">
-    <text>РўР° РѕС‚, РІРёСЂС–С€РёРІ Сѓ РїС–РґРїС–Р»Р»СЏ Р·Р° РІР°СЂРµРЅРЅСЏРј Р·Р»Р°Р·РёС‚Рё! РџСЂРѕРІР°Р»РёРІСЃСЏ СЏ СЃСЋРґРё, РєРѕР»Рё РІС–Рґ РєСЂРѕРІРѕСЃРѕСЃР° РІС‚С–РєР°РІ!</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_3">
-    <text>РўР°Рє, РїРѕСЃРёРґСЊ С‚СѓС‚. РЇ РїРѕРєРё СЂРѕР·Р±РµСЂСѓСЃСЏ Р· РєСЂРѕРІРѕСЃРѕСЃР°РјРё, Р±Рѕ СЏРє СЃС‚Р°РЅРµ РіР°СЂСЏС‡Рµ, Сѓ С‚Р°РєС–Р№ РѕР±СЃС‚Р°РЅРѕРІС†С– СЏ С‚РµР±Рµ РЅРµ РІРёС‚СЏРіРЅСѓ. РўСѓС‚ С‚СЂРµР±Р° С‰РѕСЃСЊ РїСЂРёРґСѓРјР°С‚Рё.</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_1">
-    <text>РўРѕ С‰Рѕ, С‚Рё Р·Р°РєС–РЅС‡РёРІ Р· РєСЂРѕРІРѕСЃРѕСЃР°РјРё?</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_2">
-    <text>Р’СЃРµ, РІР±РёРІ РєСЂРѕРІРѕСЃРѕСЃС–РІ?</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_3">
-    <text>РљСЂРѕРІРѕСЃРѕСЃРё РјРµСЂС‚РІС–?</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_1">
-    <text>Р©Рµ РЅС–. РџРѕС‡РµРєР°Р№ РїРѕРєРё.</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_2">
-    <text>РџРѕРєРё РЅРµ РІСЃС–С…. Р§РµРєР°Р№.</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_3">
-    <text>РџРѕРєРё РЅС–. РџРѕСЃРёРґСЊ С‰Рµ С‚СЂРѕС…Рё.</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_0">
-    <text>Р–РёРІР° РґСѓС€Р°, РЅР°СЂРµС€С‚С–!</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_1">
-    <text>Р©Рѕ С‚Рё С‚Р°Рј СЂРѕР±РёС€?</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_2">
-    <text>РўР° РѕС‚, РІРёСЂС–С€РёРІ Сѓ РїС–РґРїС–Р»Р»СЏ Р·Р° РІР°СЂРµРЅРЅСЏРј Р·Р»Р°Р·РёС‚Рё! РџСЂРѕРІР°Р»РёРІСЃСЏ СЏ СЃСЋРґРё, РєРѕР»Рё РІС–Рґ РєСЂРѕРІРѕСЃРѕСЃР° РІС‚С–РєР°РІ!</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_3">
-    <text>РЇРє Р¶Рµ РІРёС‚СЏРіС‚Рё С‚РµР±Рµ С‚РµРїРµСЂ...</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_compl_second_dialog_0">
-    <text>РўРѕ С‰Рѕ, РІР±РёРІ С‚РІР°СЂСЋРє?</text>
-  </string>
-  <string id="mil_stalker_technic_village_bloodsuckers_compl_second_dialog_1">
-    <text>РќС–Р±Рё С‚Р°Рє. Р’РёС‚СЏРіСѓРІР°С‚Рё С‚РµР±Рµ СЏРє Р±СѓРґРµРјРѕ?</text>
-  </string>
-  <string id="mil_stalker_technic_village_wait_ladder_dialog_0_1">
-    <text>Р”СЂСѓР¶Рµ, С‚Рѕ РґРµ С‚Р°Рј РґСЂР°Р±РёРЅР°?</text>
-  </string>
-  <string id="mil_stalker_technic_village_wait_ladder_dialog_0_2">
-    <text>Р§РѕР»РѕРІС–С‡Рµ, РјРµРЅС– РІР¶Рµ РјРѕС‚РѕСЂРѕС€РЅРѕ, С‚СЏРіРЅРё РґСЂР°Р±РёРЅСѓ!</text>
-  </string>
-  <string id="mil_stalker_technic_village_wait_ladder_dialog_0_3">
-    <text>Р”Рµ РґСЂР°Р±РёРЅР°, СЃС‚Р°Р»РєРµСЂРµ? Р’РёС‚СЏРіРЅРё РјРµРЅРµ, Р±СѓРґСЊ Р»Р°СЃРєР°!</text>
-  </string>
-  <string id="mil_stalker_technic_village_wait_ladder_dialog_1_1">
-    <text>Р‘РµР· РїР°РЅС–РєРё. РЎРєРѕСЂРѕ РїСЂРёРЅРµСЃСѓ.</text>
-  </string>
-  <string id="mil_stalker_technic_village_wait_ladder_dialog_1_2">
-    <text>Р—Р°СЃРїРѕРєРѕР№СЃСЏ. Р—Р°СЂР°Р· Р·РЅР°Р№РґСѓ.</text>
-  </string>
-  <string id="mil_stalker_technic_village_wait_ladder_dialog_1_3">
-    <text>РќРµ РїР°РЅС–РєСѓР№. Р—РЅР°Р№РґСѓ Р·Р°СЂР°Р· С‚РѕР±С– РґСЂР°Р±РёРЅСѓ.</text>
-  </string>
-  <string id="mil_stalker_technic_village_ladder_compl_dialog_0">
-    <text>РќР°СЂРµС€С‚С–! Р”Р°РІР°Р№ С—С— СЃСЋРґРё!</text>
-  </string>
-  <string id="mil_stalker_technic_village_ladder_compl_dialog_1">
-    <text>Р СѓС…Р°Р№СЃСЏ. РћРїСѓСЃРєР°СЋ.</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_0">
-    <text>Р”СЏРєСѓСЋ С‚РѕР±С–, СЃС‚Р°Р»РєРµСЂСѓ! Р’Р¶Рµ РґСѓРјР°РІ РІСЃРµ  вЂ”  Р· РіРѕР»РѕРґСѓ С‚СѓС‚ Р·Р°РіРёРЅСѓ. Р’ С†Рµ СЃРµР»Рѕ Р¶РёРІС– РґСѓС€С– СЂС–РґРєРѕ Р·Р°С…РѕРґСЏС‚СЊ.</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_1">
-    <text>Рђ С‚РµР±Рµ С‰Рѕ СЃСЋРґРё Р·Р°РЅРµСЃР»Рѕ?</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_2">
-    <text>РўРё С†Рµ Р±Р°С‡РёС€? Р‘Р°С‡РёС€, СЃРІС–С‚Р»Рѕ РіРѕСЂРёС‚СЊ, С…РѕР»РѕРґРёР»СЊРЅРёРє РїСЂР°С†СЋС”, СЂР°РґС–Рѕ С€РёРїРёС‚СЊ?</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_3">
-    <text>Р’Р°Р¶РєРѕ С‚Р°РєРµ РЅРµ РїРѕРјС–С‚РёС‚Рё. РџРѕ РІСЃСЊРѕРјСѓ СЃРµР»С– СЃРІС–С‚Р»Рѕ РіРѕСЂРёС‚СЊ.</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_4">
-    <text>РћС‚ СЏ Р№ РЅР°РјР°РіР°СЋСЃСЊ СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ, С‡РѕРјСѓ. Р— С†С–С”С— С‚РµС…РЅС–РєРё РІР¶Рµ РїС–СЃРѕРє СЃРёРїР»Рµ, Р° РІРѕРЅР° СЂР°РїС‚РѕРј Р·Р°РїСЂР°С†СЋРІР°Р»Р°.</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_5">
-    <text>РќРµ РЅР°Р№РєСЂР°С‰Рµ С‚СѓС‚ РјС–СЃС†Рµ РґР»СЏ РЅР°СѓРєРѕРІРёС… РїСЂРѕС”РєС‚С–РІ: С‚СѓС‚ С‚СЊРјР°-С‚СЊРјСѓС‰Р° РєСЂРѕРІРѕСЃРѕСЃС–РІ! РћРґРёРЅ Р· РЅРёС… РІР·Р°РіР°Р»С– СЏРєРёР№СЃСЊ РµР»РµРєС‚СЂРёР·РѕРІР°РЅРёР№ Р±СѓРІ.</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_6">
-    <text>РўР°Рє-С‚Р°Рє, СЏ СЏРєСЂР°Р· РІС–Рґ РЅСЊРѕРіРѕ РґСЊРѕСЂСѓ РґР°РІ Сѓ С†РµР№ РґС–Рј. РЈ РґРІРѕСЂС– Р·Р°СЂР°Р· С‚РёС…Рѕ? РўРё СѓСЃС–С… РІР±РёРІ?</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_7">
-    <text>Р‘Р°С‡РёРІ. Р’Р±РёРІ РєС–Р»СЊРєРѕС…, Р°Р»Рµ РґСѓРјР°СЋ, С‰Рѕ РЅРµ РІСЃС–С….</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_8">
-    <text>РЈ РґРІРѕСЂС– СЏ Р±Р°С‡РёРІ С‚СЂР°РЅСЃС„РѕСЂРјР°С‚РѕСЂ, С‰Рѕ С–СЃРєСЂРёС‚СЊ. Р”РѕРїРѕРјРѕР¶РµС€ РјРµРЅС– РґРѕ РЅСЊРѕРіРѕ РїСЂРѕР±РёС‚РёСЃСЏ? Р”СѓРјР°СЋ, РІС–РЅ С– С” РґР¶РµСЂРµР»РѕРј РµРЅРµСЂРіС–С—. Р—Р° РјРЅРѕСЋ РЅРµ СЃС‚Р°РЅРµ!</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_9">
-    <text>Р—РІР°С‚Рё С‚РµР±Рµ СЏРє?</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_10">
-    <text>Р‘Р°Р±Р°Рє.</text>
-  </string>
-  <string id="mil_stalker_technic_village_after_under_dialog_11">
-    <text>Р“Р°СЂР°Р·Рґ, Р‘Р°Р±Р°С‡Рµ, СѓРјРѕРІРёРІ. Р’РµРґРё.</text>
-  </string>
-  <string id="mil_stalker_technic_village_final_dialog_0">
-    <text>РћС†Рµ С‚Р°Рє! Р‘Р°С‡РёРІ С‚Р°РєРёР№ РєРѕР»Рё-РЅРµР±СѓРґСЊ?</text>
-  </string>
-  <string id="mil_stalker_technic_village_final_dialog_1">
-    <text>РќС–. Р’РёС…РѕРґРёС‚СЊ, Р°СЂС‚РµС„Р°РєС‚ С– СЃРїСЂРѕРІРѕРєСѓРІР°РІ СЂРѕР±РѕС‚Сѓ РІСЃС–С”С— РµР»РµРєС‚СЂРѕРЅС–РєРё Сѓ СЃРµР»С–?</text>
-  </string>
-  <string id="mil_stalker_technic_village_final_dialog_2">
-    <text>РЇРє Р±Р°С‡РёС€, РІСЃРµ Р·РіР°СЃР»Рѕ, РєРѕР»Рё СЏ Р№РѕРіРѕ РІРёС‚СЏРі. РўРµРїРµСЂ СЏ РЅРµ РјР°С‚РёРјСѓ РїСЂРѕР±Р»РµРј Р· РµР»РµРєС‚СЂРёРєРѕСЋ РІ СЃРІРѕС—Р№ С…Р°Р»СѓРїС–!</text>
-  </string>
-  <string id="mil_stalker_technic_village_final_dialog_3">
-    <text>РўРё РјР°С”С€ СЃРІРѕСЋ С…Р°Р»СѓРїСѓ?</text>
-  </string>
-  <string id="mil_stalker_technic_village_final_dialog_4">
-    <text>Р—РІРёС‡Р°Р№РЅРѕ! РќРµ РЅР° С…СѓС‚РѕСЂС– Р¶ С–Р· С†РёРј СѓРїРёСЂРµРј Р·Р°Р»РёС€Р°С‚РёСЃСЏ!</text>
-  </string>
-  <string id="mil_stalker_technic_village_final_dialog_5">
-    <text>Р¦Рµ С‚Рё РїСЂРѕ С‚РѕСЂРіРѕРІС†СЏ?</text>
-  </string>
-  <string id="mil_stalker_technic_village_final_dialog_6">
-    <text>РђРіР°, РїСЂРѕ РЅСЊРѕРіРѕ. РњРѕР¶Рµ, Р±СѓРґРµРјРѕ Р·Р°Р±РёСЂР°С‚РёСЃСЏ Р·РІС–РґСЃРё? Рђ С‚Рѕ С‰Рµ РјС–СЃС†РµРІС– РјРµС€РєР°РЅС†С– Р·Р°РїС–РґРѕР·СЂСЏС‚СЊ РїСЂРѕРїР°Р¶Сѓ... Р”Р°РІР°Р№ РґРѕ РјРµРЅРµ, Р±Рѕ СЏ Р±Р°С‡Сѓ, Сѓ С‚РµР±Рµ СЃРїРѕСЂСЏРіР° РІСЃСЏ РґС–СЂСЏРІР°. Р—Р°Р»Р°С‚Р°СЋ Р·Р° РЅР°РґР°РЅСѓ РґРѕРїРѕРјРѕРіСѓ!</text>
-  </string>
-  <string id="mil_stalker_technic_village_final_dialog_7">
-    <text>Р¦Рµ С‚РѕС‡РЅРѕ. Р†РґРµРјРѕ.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_0">
-    <text>РћС‚ РјРё Р№ РЅР° РјС–СЃС†С–!</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_1">
-    <text>РЇРє С‚Рё С‚С–Р»СЊРєРё Р·РґРѕРіР°РґР°РІСЃСЏ СЃР°РјРµ С‚СѓС‚ Р·СЂРѕР±РёС‚Рё СѓРєСЂРёС‚С‚СЏ?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_2">
-    <text>РќСѓ Р° С‰Рѕ, РјС–СЃС†Рµ РіР°СЂРЅРµ! РўР°Рє, Р±РѕР»РѕС‚РѕРј С‚СЂРѕС…Рё С‚С…РЅРµ, Р·Р°С‚Рµ РјС–РЅРё РєСЂСѓРіРѕРј, РјСѓС‚Р°РЅС‚Рё РЅРµ РїС–РґР±РµСЂСѓС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_3">
-    <text>Рђ СЃСѓСЃС–РґСЃС‚РІР° РЅРµ Р±РѕС—С€СЃСЏ?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_4">
-    <text>РќР°РІРїР°РєРё. РќС–С…С‚Рѕ СЃСЋРґРё РЅРѕСЃР° СЃРІРѕРіРѕ РЅРµ РїС…Р°С”. Р‘РѕСЏС‚СЊСЃСЏ С‚РѕРіРѕ, С‰Рѕ РЅР° РІС–Р№СЃСЊРєРѕРІС–Р№ Р±Р°Р·С– РїРѕС‡Р°Р»Рѕ РІС–РґР±СѓРІР°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_5">
-    <text>Рђ С‚Рё, Р·РЅР°С‡РёС‚СЊ, РЅРµ Р±РѕС—С€СЃСЏ?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_6">
-    <text>Рђ СЏ С‚СѓРґРё Р№ РЅРµ С…РѕРґР¶Сѓ. Р§Р°СЃРѕРј С…РѕС‡РµС‚СЊСЃСЏ, Р·РІРёС‡Р°Р№РЅРѕ... РўР°Рј Р¶Рµ, РЅР°РїРµРІРЅРѕ, СЃС‚С–Р»СЊРєРё РІСЃСЊРѕРіРѕ РєРѕСЂРёСЃРЅРѕРіРѕ Р·Р°Р»РёС€РёР»РѕСЃСЊ РїС–СЃР»СЏ РІС–Р№СЃСЊРєРѕРІРёС… С– В«Р’РѕР»С–В», Р°Р»Рµ СЃС‚СЂСЊРѕРјРЅРѕ! Рђ С‚Рё СЃР°Рј С…С‚Рѕ? РќРµ Р±Р°С‡РёРІ С‚РµР±Рµ С‚СѓС‚ СЂР°РЅС–С€Рµ.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_7">
-    <text>РЎС‚Р°Р»РєРµСЂ СЏ. Р“РѕСЂРѕР±РµС†СЊ РјРµРЅРµ Р·РІР°С‚Рё.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_8">
-    <text>РњР°Р»Рѕ С‚Рё СЃС…РѕР¶РёР№ РЅР° СЃС‚Р°Р»РєРµСЂР°.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_9">
-    <text>Р¦Рµ С‡РѕРјСѓ Р¶?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_10">
-    <text>РЈ Р±СѓРґСЊ-СЏРєРѕРіРѕ СЃС‚Р°Р»РєРµСЂР° РЅР° С‚РІРѕС”РјСѓ РјС–СЃС†С– РѕС‡С– Р± Р·Р°РіРѕСЂС–Р»РёСЃСЊ РІС–Рґ Р°СЂС‚РµС„Р°РєС‚Сѓ, СЏРєРёР№ РјРё РІ СЃРµР»С– Р·РЅР°Р№С€Р»Рё. Рђ С‚РѕР±С– РЅС–Р±Рё РІСЃРµ РѕРґРЅРѕ!</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_11">
-    <text>РЈ С–РЅС€РёС… СЏ С‚СѓС‚ СЃРїСЂР°РІР°С…. РњРµРЅС– РїРѕС‚СЂС–Р±РЅРѕ РїРѕС‚СЂР°РїРёС‚Рё Сѓ РєР°Р±С–РЅСѓ РіРµР»С–РєРѕРїС‚РµСЂР°, СЏРєРёР№ СѓРїР°РІ РЅРµРїРѕРґР°Р»С–Рє Р·РІС–РґСЃРё, Р°Р»Рµ С‚Р°Рј РїСЃС–-РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ. РќРµ РїСЂРѕР±СЂР°С‚РёСЃСЏ. РќРµРјР°С” С–РґРµР№, СЏРє Р№РѕРіРѕ СѓРЅРёРєРЅСѓС‚Рё?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_12">
-    <text>Рђ СЏ РґСѓРјР°РІ, С‚Рё РІРёРїР°РґРєРѕРІРѕ РЅР° РјРµРЅРµ РЅР°Р±СЂС–РІ Сѓ СЃРµР»С–. Рђ С‚Рё С‰Рѕ, РјРµРЅРµ Р№ С€СѓРєР°РІ?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_13">
-    <text>РўРё С‰Рѕ, РїСЃРёС…РѕР»РѕРі? РќС–С‡РѕРіРѕ РІС–Рґ С‚РµР±Рµ РЅРµ РїСЂРёС…РѕРІР°С‚Рё!</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_14">
-    <text>РќС–, РїСЂРѕСЃС‚Рѕ РЅР°РґС‚Рѕ РіР°СЂРЅРѕ РІСЃРµ СЃРєР»Р°Р»РѕСЃСЊ. РњРµРЅС– РїРѕС‚СЂС–Р±РЅР° Р±СѓР»Р° С‚РІРѕСЏ РґРѕРїРѕРјРѕРіР°, С‚РѕР±С–  вЂ”  РјРѕСЏ.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_15">
-    <text>Р† РѕС‚ СЏ С‚РѕР±С– РІР¶Рµ РґРѕРїРѕРјС–Рі. РџРѕРјРѕР¶РµС€ С‚РµРїРµСЂ РјРµРЅС–?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_16">
-    <text>Рђ С‡РѕРіРѕ С†Рµ С‚РµР±Рµ С‚Р°Рє С†С–РєР°РІРёС‚СЊ РіРµР»С–РєРѕРїС‚РµСЂ?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_17">
-    <text>Р§РѕСЂРЅРёР№ СЏС‰РёРє С€СѓРєР°СЋ.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_18">
-    <text>РҐР°, СЏРєРёР№ С‰Рµ С‡РѕСЂРЅРёР№ СЏС‰РёРє? Р¦РµР№ РіРµР»С–РєРѕРїС‚РµСЂ С‰Рµ РІ РјРёРЅСѓР»РѕРјСѓ СЃС‚РѕР»С–С‚С‚С– СЃСЋРґРё, РїРµРІРЅРѕ, СѓРїР°РІ. Р’СЃРµ РІР¶Рµ РґР°РІРЅРѕ СЂРѕР·С‚СЏРіР»Рё.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_19">
-    <text>Рђ СЏ С…РѕС‡Сѓ СЂРёР·РёРєРЅСѓС‚Рё. РўРѕ С‚Рё РґРѕРїРѕРјРѕР¶РµС€?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_20">
-    <text>РџРѕС‚СЂС–Р±РµРЅ Р·Р°С…РёСЃС‚. РЇ РјРѕР¶Сѓ С‚Р°РєРёР№ Р·С–Р±СЂР°С‚Рё, РЅР°РІС–С‚СЊ РґРѕСЃРІС–Рґ С”.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_21">
-    <text>РўР°? Р† Р·РІС–РґРєРё Р¶?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_22">
-    <text>РљРѕР»Рё С‰Рµ В«Р’РёРїР°Р»СЋРІР°С‡В» РїСЂР°С†СЋРІР°РІ, Р·Р°С…РѕРґРёР»Рѕ РґРѕ РјРµРЅРµ РєС–Р»СЊРєР° СЃС‚Р°Р»РєРµСЂС–РІ. РџСЂРѕР±СѓРІР°Р»Рё РјРё Р· РЅРёРјРё Р·С–Р±СЂР°С‚Рё РєС–Р»СЊРєР° С€РѕР»РѕРјС–РІ, С‰РѕР± РґРѕ РџСЂРёРї'СЏС‚С– РїСЂРѕСЂРІР°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_23">
-    <text>Р’РёР№С€Р»Рѕ?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_24">
-    <text>РќС–. Р—Р°РіРёРЅСѓР»Рё РЅР° Р Р°РґР°СЂС–.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_25">
-    <text>РћР±РЅР°РґС–Р№Р»РёРІРѕ.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_26">
-    <text>Р—Р°РіРёРЅСѓР»Рё, Р°Р»Рµ РїСЂРѕР№С€Р»Рё РЅР°Р±Р°РіР°С‚Рѕ РґР°Р»С–, РЅС–Р¶ С‚С–, РІ РєРѕРіРѕ Р·Р°С…РёСЃС‚Сѓ РЅРµ Р±СѓР»Рѕ. Р‘С–Р»СЏ РіРµР»С–РєРѕРїС‚РµСЂР° РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ РЅРµ С‚Р°РєРµ РїРѕС‚СѓР¶РЅРµ, РјРѕР¶Рµ РІРёСЃС‚Р°С‡РёС‚Рё. РђР»Рµ С” РЅСЋР°РЅСЃРё...</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_27">
-    <text>РЇРєС–?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_28">
-    <text>РњРѕС— СЂРµСЃСѓСЂСЃРё РЅРµ Р±РµР·РјРµР¶РЅС–. Р©РѕР± Р·С–Р±СЂР°С‚Рё С‚Р°РєРёР№ С€РѕР»РѕРј, Р·РЅР°РґРѕР±Р»СЏС‚СЊСЃСЏ РґРµС‚Р°Р»С–. РЈ РјРµРЅРµ С—С… Р·Р°СЂР°Р· РЅРµРјР°С”.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_29">
-    <text>Р”Рµ С—С… РјРѕР¶РЅР° РґС–СЃС‚Р°С‚Рё?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_30">
-    <text>РўРµРѕСЂРµС‚РёС‡РЅРѕ, РІРѕРЅРё Р»РµР¶Р°С‚СЊ Р·Р° С‚СЂРёСЃС‚Р° РјРµС‚СЂС–РІ РІС–Рґ РЅР°СЃ.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_31">
-    <text>Р’С–Р№СЃСЊРєРѕРІР° Р±Р°Р·Р°?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_32">
-    <text>РЎР°РјРµ С‚Р°Рє! Р”Р°РІРЅРѕ С…РѕС‚С–РІ С‚СѓРґРё РЅР°РІС–РґР°С‚РёСЃСЊ, Р°Р»Рµ РѕРґРёРЅР°РєРѕРј СЃС‚СЂР°С€РЅРѕ. Рђ РєРѕРјРїР°РЅС–СЋ СЃРєР»Р°СЃС‚Рё С‰РѕСЃСЊ РЅС–С…С‚Рѕ РЅРµ Р±Р°Р¶Р°С”.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_33">
-    <text>РЇ С‚Р°Рє СЂРѕР·СѓРјС–СЋ, С‚Рё РјР°С”С€ РІР»Р°СЃРЅРёР№ С–РЅС‚РµСЂРµСЃ?</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_34">
-    <text>Р—РІС–СЃРЅРѕ, РјР°СЋ. Р”Р»СЏ РјРµРЅРµ РЅР° С—С…РЅСЊРѕРјСѓ СЃРєР»Р°РґС– Р±Р°РіР°С‚Рѕ С†С–РєР°РІРёС… С–РіСЂР°С€РѕРє РјРѕР¶Рµ РІРёСЏРІРёС‚РёСЃСЏ. РњРµРЅС– Р¶ С‚СЂРµР±Р° СЏРєРѕСЃСЊ РїС–РґС–Р№РјР°С‚РёСЃСЏ: РѕР±Р»Р°С€С‚СѓРІР°С‚Рё С…Р°С‚РёРЅРєСѓ РЅР° Р±РѕР»РѕС‚С–, С‰Рµ С‚СЂРѕС…Рё РјС–РЅ СЂРѕР·СЃС‚Р°РІРёС‚Рё РїРѕ РєСЂР°СЏС…, Р·РІ'СЏР·РѕРє РїРѕС‚СѓР¶РЅРёР№ РЅР°Р»Р°С€С‚СѓРІР°С‚Рё. Р„РґРёРЅРµ РјС–СЃС†Рµ, РґРµ СЏ РјРѕР¶Сѓ РІСЃРµ С†Рµ Р·РЅР°Р№С‚Рё  вЂ”  РІС–Р№СЃСЊРєРѕРІР° Р±Р°Р·Р°.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_35">
-    <text>РћС‚Р¶Рµ, РЅР°Рј Сѓ РїРѕРїСѓС‚РЅРѕРјСѓ РЅР°РїСЂСЏРјРєСѓ. РђР»Рµ СЏ С…РѕС‚С–РІ Р±Рё РІСЃРµ РїСЂРѕРІРµСЂРЅСѓС‚Рё СЏРєРѕРјРѕРіР° С€РІРёРґС€Рµ.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_36">
-    <text>РњРѕР¶РµРјРѕ СЂСѓС€Р°С‚Рё С…РѕС‡ Р·Р°СЂР°Р·.</text>
-  </string>
-  <string id="mil_stalker_technic_hut_start_dialog_37">
-    <text>Р СѓС€Р°Р№РјРѕ.</text>
-  </string>
-  <string id="mil_stalker_technic_army_base_warehouse_vodka_dialog_0">
-    <text>Р¦РµР№ С„Р°РЅС‚РѕРј СЃРєР°СЂР¶РёС‚СЊСЃСЏ РЅР° РІС–РґСЃСѓС‚РЅС–СЃС‚СЊ РІРёРїРёРІРєРё. РђРЅСѓ, РґР°Р№ Р№РѕРјСѓ РїР»СЏС€РєСѓ, РјРѕР¶Рµ, РїСЂРѕРєР°РЅР°С”.</text>
-  </string>
-  <string id="mil_stalker_technic_army_base_warehouse_vodka_dialog_1">
-    <text>РЎРїСЂРѕР±СѓСЋ.</text>
-  </string>
-  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_0">
-    <text>Р’СЃРµ С‚РёС…Рѕ? РњСѓСЂР°С€РєРё РїРѕ С€РєС–СЂС– Сѓ РјРµРЅРµ РІС–Рґ С†СЊРѕРіРѕ РєРѕРјС–СЂРЅРёРєР°!</text>
-  </string>
-  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_1">
-    <text>РўРёС€Р°. РўРё РјРµРЅРµ С…РѕС‡ РїРѕСЂР°РґСѓС”С€?</text>
-  </string>
-  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_2">
-    <text>Р”СѓРјР°СЋ, Р·РЅР°Р№РґРµРЅРёС… РјР°С‚РµСЂС–Р°Р»С–РІ РІРёСЃС‚Р°С‡РёС‚СЊ, С‰РѕР± Р·С–Р±СЂР°С‚Рё С€РѕР»РѕРј.</text>
-  </string>
-  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_3">
-    <text>РћРґРёРЅ?</text>
-  </string>
-  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_4">
-    <text>РћРґРёРЅ. Рђ С‚РѕР±С– С‰Рѕ, С‰Рµ С‚СЂРµР±Р°?</text>
-  </string>
-  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_5">
-    <text>Р‘СѓР»Рѕ Р± РґСѓР¶Рµ РґРѕ СЂРµС‡С–.</text>
-  </string>
-  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_6">
-    <text>РЇРєС‰Рѕ РјР°С”С€ РЅР° РїСЂРёРєРјРµС‚С– С‰Рµ РѕРґРЅСѓ РІС–Р№СЃСЊРєРѕРІСѓ Р±Р°Р·Сѓ Р· РїСЂРёРІРёРґР°РјРё, С‚Рѕ С‚Рё РЅРµ СЃРѕСЂРѕРјСЃСЏ, РєР°Р¶Рё. Р С‚СѓРґРё СЃС…РѕРґРёРјРѕ. РњРѕР¶Рµ, С‰Рµ РїР°СЂСѓ С€РѕР»РѕРјС–РІ Р·Р±РµСЂРµРјРѕ!</text>
-  </string>
-  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_7">
-    <text>Р“Р°СЂР°Р·Рґ, С…РѕС‡Р° Р± РѕРґРёРЅ... Р’СЃРµ, Р·РіРѕСЂС‚Р°Р№РјРѕСЃСЏ Р·РІС–РґСЃРё!</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_0">
-    <text>Р СѓРєРё РЅР°С‡Рµ РїР°Рј'СЏС‚Р°СЋС‚СЊ. Р—Р°СЂР°Р· СЃРїСЂРѕР±СѓСЋ РІСЃРµ Р·С–Р±СЂР°С‚Рё!</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_1">
-    <text>Р¦Рµ РґРѕРІРіРѕ?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_2">
-    <text>РљСѓРґРё С‚Рё С‚Р°Рє РїРѕСЃРїС–С€Р°С”С€? РќРµ РІРёРєСЂР°РґСѓС‚СЊ С‚РІС–Р№ РіРµР»С–РєРѕРїС‚РµСЂ, РЅРµ СЃС†Рё!</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_3">
-    <text>Р† РІСЃРµ Р¶ С‚Р°РєРё?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_4">
-    <text>РќР° РіРѕРґРёРЅРєСѓ СЂРѕР±РѕС‚Рё. РЇ С‚Р°РєРёС… РІР¶Рµ С€С‚СѓРє Рї'СЏС‚СЊ Р·С–Р±СЂР°РІ. РЎС…РµРјР° С”, СЂРµС€С‚Р° Р»РёС€Рµ СЃРїСЂР°РІР° С‚РµС…РЅС–РєРё. РўРѕС‡РЅС–С€Рµ, РјРѕС—С… СЂСѓРє.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_5">
-    <text>Р’РѕРЅРѕ С‚РѕС‡РЅРѕ РїСЂР°С†СЋРІР°С‚РёРјРµ? РќРµ С…РѕС‚С–РІ Р±Рё СЏ СЂРѕР·РїР»Р°РІРёС‚Рё СЃРѕР±С– РјС–Р·РєРё.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_6">
-    <text>РћР±СЂР°Р¶Р°С”С€! РҐС–Р±Р° СЏ РјРѕР¶Сѓ РїС–РґРІРµСЃС‚Рё Р»СЋРґРёРЅСѓ, СЏРєР° РјРµРЅС– Р·Р°РїСЂРѕРїРѕРЅСѓРІР°Р»Р° СЃРІРѕСЋ СЂСѓРєСѓ С– РґСЂР°Р±РёРЅСѓ! Р”Рѕ СЂРµС‡С–, РґСЏРєСѓСЋ С‚РѕР±С– С‰Рµ СЂР°Р·!</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_7">
-    <text>Р† С‚РѕР±С– СЃРїР°СЃРёР±С–. Рђ С‚Рё СЏРє РІР·Р°РіР°Р»С– С‚РµС…РЅС–РєРѕРј СЃС‚Р°РІ?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_8">
-    <text>РЇ РєРѕР»Рё РІ Р—РѕРЅСѓ РїСЂРёР№С€РѕРІ, РІР·Р°РіР°Р»С– РЅС–С‡РѕРіРѕ РЅРµ РІРјС–РІ. РџРѕС‚С–Рј Р·РІРµР»Р° РјРµРЅРµ РґРѕР»СЏ Р· РѕРґРЅРѕСЋ Р»СЋРґРёРЅРѕСЋ РЅР° Р‘РѕР»РѕС‚Р°С…. РЇ С‚СѓРґРё СЏРєРѕСЃСЊ Р·С– СЃС‚Р°Р»РєРµСЂР°РјРё РІРёСЂСѓС€РёРІ Р°СЂС‚РµС„Р°РєС‚Рё С€СѓРєР°С‚Рё, С– РІ С…Р°Р»РµРїСѓ СЂР°Р·РѕРј Р· РЅРёРјРё РїРѕРїР°РІ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_9">
-    <text>РўРµР±Рµ СЂРѕР·РјРѕРІРё РЅРµ РІС–РґРІРµСЂС‚Р°СЋС‚СЊ?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_10">
-    <text>РќС”. РњРµРЅС– С‚Р°Рє РЅР°РІС–С‚СЊ РєСЂР°С‰Рµ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_11">
-    <text>РќСѓ, РґРёРІРёСЃСЏ. РџС–С€Р»Рё РІРё РЅР° Р‘РѕР»РѕС‚Р°, РїРѕС‚С–Рј С‰Рѕ?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_12">
-    <text>РўР°Рє РѕСЃСЊ. РќР°Р±СЂР°Р»Рё РІР¶Рµ РїРѕРІРЅС– СЂСЋРєР·Р°РєРё Р°СЂС‚РµС„Р°РєС‚С–РІ. Р‘РѕР»РѕС‚Р° Р¶ РјС–СЃС†Рµ РЅРµ РЅР°СЃС‚С–Р»СЊРєРё РІРёС‚РѕРїС‚Р°РЅРµ, СЏРє РљРѕСЂРґРѕРЅ. Р—РЅСЏР»Рё РІРµСЂС€РєРё, С‚Р°Рє Р±Рё РјРѕРІРёС‚Рё. Р†РґРµРјРѕ, С‚РёС€Р° РЅР°РІРєРѕР»Рѕ, С– СЂР°РїС‚РѕРј РљРџРљ СЂРѕР·СЂРёРІР°С”С‚СЊСЃСЏ РїРѕРІС–РґРѕРјР»РµРЅРЅСЏРјРё, С‰Рѕ РЅР°Р±Р»РёР¶Р°С”С‚СЊСЃСЏ РІРёРєРёРґ! РњРё РїРѕ СЃС‚РѕСЂРѕРЅР°С… РїРѕРґРёРІРёР»РёСЃСЏ  вЂ”  Р°РіР°, Р±Р°С‡РёРјРѕ СЏРєРёР№СЃСЊ С…СѓС‚С–СЂ Р·Р°РЅРµРґР±Р°РЅРёР№. Р СѓС€РёР»Рё С‚СѓРґРё, РІС–РґСЃРёРґС–С‚РёСЃСЏ. РњР°Р№Р¶Рµ РґРѕР±С–РіР»Рё РґРѕ С…СѓС‚РѕСЂР°, Р°Р¶ СЂР°РїС‚РѕРј Р· РѕС‡РµСЂРµС‚Сѓ РІРёРЅРѕСЃРёС‚СЊСЃСЏ Р·РґРѕСЂРѕРІРµРЅРЅР° Р·РіСЂР°СЏ РєР°Р±Р°РЅС–РІ! Р—Р»СЏРєР°Р»РёСЃСЊ РіР°РґРё РІРёРєРёРґСѓ Р№ РїРѕР±С–РіР»Рё СѓСЃС–С”СЋ Р·РіСЂР°С”СЋ! РњРё РІС–РґСЃС‚СЂС–Р»СЋРІР°С‚РёСЃСЊ, Р° С‚РѕР»РєСѓ? Р‡С… С‚Р°Рј РѕСЃРѕР±РёРЅ С‚СЂРёРґС†СЏС‚СЊ Р±СѓР»Рѕ. Р’РѕРЅРё РЅР°СЃ СЏРє С…РІРёР»РµСЋ СѓСЃС–С… С– Р·РјС–Р»Рё! РќРµ Р·РЅР°СЋ, СЃРєС–Р»СЊРєРё С‚РёС… С…СЂСЏРєС–РІ РїРѕ РјРѕС”РјСѓ С‚С–Р»Сѓ РїСЂРѕР±С–РіР»РѕСЃСЏ, Р°Р»Рµ СЏ Р»РµР¶Р°РІ С– С‚С–Р»Р° РІР¶Рµ РЅРµ РІС–РґС‡СѓРІР°РІ... Р° РїРѕС‚С–Рј С– РІРёСЂСѓР±РёРІСЃСЏ РѕСЃС‚Р°С‚РѕС‡РЅРѕ. РџСЂРѕРєРёРЅСѓРІСЃСЏ РІР¶Рµ Сѓ Р»С–Р¶РєСѓ. РќРѕРіРё, СЂСѓРєРё, СЂРµР±СЂР°  вЂ”  РІСЃРµ РїРµСЂРµР»Р°РјР°РЅРµ. РќР° С‚С–Р»С– Р¶РёРІРѕРіРѕ РјС–СЃС†СЏ РЅРµРјР°С”  вЂ”  РІСЃРµ Сѓ СЃРёРЅС†СЏС…! РђР¶ РґРёС…Р°С‚Рё Р±РѕР»СЏС‡Рµ Р±СѓР»Рѕ. РЇРє СЏ РїС–Р·РЅС–С€Рµ РґС–Р·РЅР°РІСЃСЏ, РІСЂСЏС‚СѓРІР°РІ РјРµРЅРµ РѕРґРёРЅ РјС–СЃС†РµРІРёР№ СЃС‚Р°Р»РєРµСЂ. Р–РёРІ РЅР° СЃР°РјРѕС‚С– РЅР° РѕРєРѕР»РёС†С– Р±РѕР»С–С‚.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_13">
-    <text>Р‘РѕР»РѕС‚РЅРёР№ Р»С–РєР°СЂ?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_14">
-    <text>РќС–. РЇ С‚РµР¶ СЏРє РѕС‡С– СЂРѕР·РїР»СЋС‰РёРІ, РґСѓРјР°РІ, РґРѕ Р±РѕР»РѕС‚РЅРѕРіРѕ Р»С–РєР°СЂСЏ РїРѕС‚СЂР°РїРёРІ. РђР»Рµ РЅС–. РњРµРЅС– РїСЂРµРґСЃС‚Р°РІРёРІСЃСЏ Р†РІР°РЅРѕРј, Р°Р»Рµ Р·РґР°С”С‚СЊСЃСЏ РјРµРЅС–, РЅРµ С‚Р°Рє Р№РѕРіРѕ РЅР°СЃРїСЂР°РІРґС– Р·РІР°С‚Рё. РљР°Р¶Рµ, Р·РЅР°Р№С€РѕРІ РјРµРЅРµ РЅР°РїС–РІРјРµСЂС‚РІРѕРіРѕ РЅР° Р±РµСЂРµР·С– Р±РѕР»РѕС‚С†СЏ, РїСЂРёРЅС–СЃ Сѓ С‚Р°Р±С–СЂ. Р Р°РЅРё Р·Р°Р»Р°С‚Р°РІ, С€РёРЅРё РЅР° РїРµСЂРµР»РѕРјРё РЅР°РєР»Р°РІ. В«Р”РѕРІРµРґРµС‚СЊСЃСЏ,  вЂ”  РєР°Р¶Рµ,  вЂ”  С‚РѕР±С– С‚СѓС‚ Р· РјС–СЃСЏС†СЊ РїРѕР»РµР¶Р°С‚Рё, С…РѕС‡РµС€ С‚Рё С†СЊРѕРіРѕ С‡Рё РЅС–В».</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_15">
-    <text>Рђ С–РЅС€С–?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_16">
-    <text>Рђ РЅРµ Р±СѓР»Рѕ РЅС–РєРѕРіРѕ РїРѕСЂСЏРґ. РќС– С–РЅС€РёС…, РЅС– СЂСЋРєР·Р°РєР° РјРѕРіРѕ Р· С…Р°Р±Р°СЂРµРј. РќР°РІС–С‚СЊ Р·Р±СЂРѕСЋ Р·Р°Р±СЂР°Р»Рё. РљРёРЅСѓР»Рё РјРµРЅРµ С‚Р°Рј Р·РґРёС…Р°С‚Рё.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_17">
-    <text>РћС†Рµ С‚Р°Рє. РќСѓ Р№ РґСЂСѓР·С–.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_18">
-    <text>Р’РѕРЅРё Р№ РЅРµ Р±СѓР»Рё РјРµРЅС– РґСЂСѓР·СЏРјРё. РџРѕР·РЅР°Р№РѕРјРёР»РёСЃСЊ РІ СЃРµР»С–, РґРѕРјРѕРІРёР»РёСЃСЊ СЂР°Р·РѕРј Р·Р° С…Р°Р±Р°СЂРµРј РїС–С‚Рё, РѕС‚ С– РІСЃРµ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_19">
-    <text>РђР»Рµ С…РѕС‡ С‰РѕСЃСЊ Р»СЋРґСЃСЊРєРµ РјР°Р»Рѕ РІ РЅРёС… Р±СѓС‚Рё. РћСЃСЊ С‚Р°Рє Р·Р°Р»РёС€РёС‚Рё РЅР° Р±РѕР»РѕС‚Р°С… РїРѕРјРёСЂР°С‚Рё...</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_20">
-    <text>РЇ РїРѕРєРё РІС–РґР»РµР¶СѓРІР°РІСЃСЏ, С‚РµР¶ РїСЂРѕ С†Рµ РґСѓРјР°РІ. Р–РёРІ РґСѓРјРєР°РјРё, С‰Рѕ С‚С–Р»СЊРєРё РЅР° РЅРѕРіРё РІСЃС‚Р°РЅСѓ  вЂ”  Р·РЅР°Р№РґСѓ С—С…, РїРѕ РєСѓР»С– РІСЃР°РґР¶Сѓ! РђР»Рµ Р†РІР°РЅ СЂРѕР·РїРѕРІС–РІ, С‰Рѕ РЅР° РјРѕРјРµРЅС‚ РјРѕРіРѕ РІРёСЏРІР»РµРЅРЅСЏ, РЅР° Р¶РёРІРѕРіРѕ СЏ РІР¶Рµ РЅРµ Р±СѓРІ СЃС…РѕР¶РёР№, С‚Р° Р№ РІРёРєРёРґ РІР¶Рµ Р±СѓРІ Р±Р»РёР·СЊРєРѕ. РЇРєР±Рё РІРѕРЅРё РјРµРЅРµ СЃРїСЂРѕР±СѓРІР°Р»Рё РІСЂСЏС‚СѓРІР°С‚Рё  вЂ”  С– РјРµРЅРµ Р± РЅРµ РґРѕС‚СЏРіР»Рё, С– СЃР°РјС– Р± СЃРµР±Рµ РїРѕС…РѕРІР°Р»Рё. Р† СЏ РѕС…РѕР»РѕРЅСѓРІ. РўР°Рє РѕС‚, РґРѕ С‡РѕРіРѕ С†СЏ С–СЃС‚РѕСЂС–СЏ... РЇ РїРѕРєРё РІС–РґР»РµР¶СѓРІР°РІСЃСЏ, Р†РІР°РЅ РјРµРЅРµ Р±Р°РіР°С‚Рѕ С‡РѕРјСѓ РЅР°РІС‡РёРІ: С– Р·Р±СЂРѕСЋ С‡РёСЃС‚РёС‚Рё, С– Р±СЂРѕРЅСЋ Р»Р°С‚Р°С‚Рё. РЈ СЂР°РґС–РѕРµР»РµРєС‚СЂРѕРЅС–С†С– РєРѕРїРёСЂСЃР°С‚РёСЃСЏ. Р’СЃРµ, С‰Рѕ СЏ Р·РЅР°СЋ  вЂ”  Р·Р°РІРґСЏРєРё Р№РѕРјСѓ. РџСЂРѕР±СѓРІ СЏ Сѓ С‚Р°Р±РѕСЂС– РЅРµ РјС–СЃСЏС†СЊ, СЏРє РІС–РЅ РјРµРЅРµ РѕР±РЅР°РґС–СЋРІР°РІ, Р° СѓСЃС– РґРµСЃСЏС‚СЊ. РђР»Рµ Р·РЅР°РЅРЅСЏ, СЏРєС– СЏ РѕС‚СЂРёРјР°РІ  вЂ”  РЅР°Р№РєСЂР°С‰Р° РїР»Р°С‚Р° Р·Р° РѕС‚СЂРёРјР°РЅС– РєР°Р»С–С†С‚РІР°.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_21">
-    <text>Рђ С‰Рѕ РїРѕС‚С–Рј?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_22">
-    <text>РџРѕС‚С–Рј СЏ РїРѕРІРµСЂРЅСѓРІСЃСЏ РЅР° РљРѕСЂРґРѕРЅ, РґРѕ Р·РІРёС‡Р°Р№РЅРѕРіРѕ СЃС‚Р°Р»РєРµСЂСЃСЊРєРѕРіРѕ Р¶РёС‚С‚СЏ. Р§РµСЂРµР· РїР°СЂСѓ РјС–СЃСЏС†С–РІ С…РѕС‚С–РІ Р·Р°РіР»СЏРЅСѓС‚Рё РґРѕ Р†РІР°РЅР° РІ РіРѕСЃС‚С–, РіРѕСЂС–Р»РєРё РїСЂРёРЅРµСЃС‚Рё, Р·Р°РєСѓСЃРєРё, РІС–РґРґСЏС‡РёС‚Рё Р№РѕРјСѓ СЏРє СЃР»С–Рґ. РђР»Рµ Р№РѕРіРѕ РїРѕРјРµС€РєР°РЅРЅСЏ РІР¶Рµ Р±СѓР»Рѕ РїСѓСЃС‚РёРј  вЂ”  РїС–С€РѕРІ. Р‘С–Р»СЊС€Рµ РЅРµ Р±Р°С‡РёРІ Р№РѕРіРѕ. РЎРїРѕРґС–РІР°СЋСЃСЊ, Р¶РёРІРёР№-Р·РґРѕСЂРѕРІРёР№ РґСЏРґСЊРєРѕ. РЇРєР±Рё РЅРµ РІС–РЅ, РЅРµ СЃРёРґС–Р»Рё Р± РјРё Р·Р°СЂР°Р· С‚СѓС‚ С–Р· С‚РѕР±РѕСЋ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_23">
-    <text>Рђ СЏРє РЅР° РЎРєР»Р°РґР°С… РѕРїРёРЅРёРІСЃСЏ?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_24">
-    <text>РўРѕСЂРіРѕРІРµС†СЊ РјС–СЃС†РµРІРёР№, Р—СѓР±СЂ, РІРёСЂС–С€РёРІ С‚СѓС‚ Р»Р°РІРєСѓ СЃРІРѕСЋ РІС–РґРєСЂРёС‚Рё. РџРѕРєР»РёРєР°РІ РјРµРЅРµ РґРѕ СЃРµР±Рµ. В«Р‘СѓРґСѓ,  вЂ”  РєР°Р¶Рµ,  вЂ”  С‚РѕР±С– РІС–РґСЃРѕС‚РєРё Р· РІРёСЂСѓС‡РєРё РІС–РґРґР°РІР°С‚Рё, С‚Рё С‚С–Р»СЊРєРё СЃС‚Р°Р»РєРµСЂР°Рј СЃРїРѕСЂСЏРґР¶РµРЅРЅСЏ Р»Р°РіРѕРґСЊВ». РњРѕРІР»СЏРІ, Р·СЂРѕР±РёРјРѕ Р°РЅР°Р»РѕРі Р±Р°СЂР°, Р°Р»Рµ РЅР° РїС–РІРЅРѕС‡С– Р—РѕРЅРё. Р©РѕР± Р±СѓРґСЊ-С…С‚Рѕ РјС–Рі С– СЂРµС‡С– РїС–РґР»Р°С‚Р°С‚Рё, С– РїСЂРёРїР°СЃС–РІ Р·Р°РєСѓРїРёС‚Рё. РўР°Рє РІРѕРЅРѕ, РІР»Р°СЃРЅРµ, Р№ Р±СѓР»Рѕ, РїРѕРєРё Р№РѕРјСѓ РЅР°Р№РјР°РЅС†С– СЂСѓРєСѓ РЅРµ РІС–РґС‚СЏР»Рё. РџРѕС‚С–Рј СЏРє Р· Р»Р°РЅС†СЋРіР° Р·С–СЂРІР°РІСЃСЏ. Р Р°РЅС–С€Рµ РіСЂРѕС€РёРјР° РЅРµ РѕР±СЂР°Р¶Р°РІ, Р° РїРѕС‚С–Рј РІР·Р°РіР°Р»С– РїРѕС‡Р°РІ С—С… Р· РјРµРЅРµ РІРёРјР°РіР°С‚Рё. РљР°Р¶Рµ: В«РўРё РІ РјРѕС”РјСѓ СЃРµР»С– Р±С–Р·РЅРµСЃ РІРµРґРµС€, Р° РјРµРЅС– РЅС–С‡РѕРіРѕ РЅРµ РґС–СЃС‚Р°С”С‚СЊСЃСЏ. Р”С–Р»РёСЃСЏВ». РЇ РїР»СЋРЅСѓРІ С– РїС–С€РѕРІ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_25">
-    <text>РЎРїСЂР°РІРµРґР»РёРІРѕ. Р’С–РЅ РїСЂРѕСЃРёРІ РјРµРЅРµ Р· С‚РѕР±РѕСЋ РїРѕРіРѕРІРѕСЂРёС‚Рё Р· РїСЂРёРІРѕРґСѓ РїРѕРІРµСЂРЅРµРЅРЅСЏ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_26">
-    <text>Рђ, С‚Рѕ С‚Рё Р· РЅРёРј Р·РЅР°Р№РѕРјРёР№? РќРµ Р±СѓРґРµ РЅС–СЏРєРѕРіРѕ РїРѕРІРµСЂРЅРµРЅРЅСЏ! РўР°Рє С– РїРµСЂРµРґР°Р№!</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_27">
-    <text>Р’С–РЅ РѕР±С–С†СЏРІ РІР·Р°С”РјРѕРІРёРіС–РґРЅС– СѓРјРѕРІРё.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_28">
-    <text>РњРµРЅС– Р№ С‚СѓС‚ РґРѕР±СЂРµ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_29">
-    <text>РђР»Рµ С‚Рё С‚СѓС‚ РѕРґРёРЅ, Р° Сѓ С‚Р°Р±РѕСЂС– С…РѕС‡ СЃС‚Р°Р»РєРµСЂРё С”. РџРѕРјРѕР¶СѓС‚СЊ, СЏРєС‰Рѕ С‰Рѕ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_30">
-    <text>РћС‚ Р·Р° С†РёРј СЏ Р№ С…РѕРґРёРІ РЅР° СЃРєР»Р°РґРё. Р—РЅР°Р№С€РѕРІ С‚Р°Рј РєС–Р»СЊРєР° РјС–РЅ. Р—Р°РІС‚СЂР° РІСЃРµ С‚СѓС‚ Р·Р°РјС–РЅСѓСЋ  вЂ”  РЅС–С…С‚Рѕ РЅРµ РїС–РґР±РµСЂРµС‚СЊСЃСЏ РґРѕ С…Р°С‚РёРЅРєРё Р±РµР· РјРѕРіРѕ РІС–РґРѕРјР°. Рђ РїРѕС‚С–Рј РІР¶Рµ СЃС‚Р°Р»РєРµСЂР°Рј СЂРѕР·РєР°Р¶Сѓ, С‰Рѕ РјРѕР¶Сѓ С—Рј СЃРїРѕСЂСЏРіСѓ Р»Р°РіРѕРґРёС‚Рё. РљР»С–С”РЅС‚ Сѓ С†РёС… РєСЂР°СЏС… Р·Р°РІР¶РґРё Р·РЅР°Р№РґРµС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_31">
-    <text>Р”С–Р»Рѕ С‚РІРѕС”. РќСѓ С‰Рѕ С‚Р°Рј, РІРёС…РѕРґРёС‚СЊ?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_32">
-    <text>РњР°Р№Р¶Рµ РІСЃРµ! Рђ С‚Рё СЃР°Рј С…С‚Рѕ? Рђ С‚Рѕ СЏ РІСЃРµ РїСЂРѕ СЃРµР±Рµ, С‚Р° Р№ РїСЂРѕ СЃРµР±Рµ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_33">
-    <text>РЇ РјРѕР¶Сѓ С‚РѕР±С– СЃРєР°Р·Р°С‚Рё, СЏРєС‰Рѕ РїРѕРѕР±С–С†СЏС”С€ С‚СЂРёРјР°С‚Рё СЏР·РёРє Р·Р° Р·СѓР±Р°РјРё.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_34">
-    <text>РЇ РЅРµ Р· С€С–СЃС‚РѕРє, РЅРµ СЃС†Рё.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_35">
-    <text>Р— РІС–Р№СЃСЊРєРѕРІРёС… СЃС‚Р°Р»РєРµСЂС–РІ СЏ. РќР° Р·Р°РІРґР°РЅРЅС– С‚СѓС‚.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_36">
-    <text>Р’С–Р№СЃСЊРєРѕРІРёР№?!</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_37">
-    <text>РќС–, РЅРµ Р·РѕРІСЃС–Рј. Р’С–Р№СЃСЊРєРѕРІРёР№ СЃС‚Р°Р»РєРµСЂ. РЇРє С– РІРё, С‚С–Р»СЊРєРё РЅР° РѕС„С–С†С–Р№РЅС–Р№ РѕСЃРЅРѕРІС–. Р’ РјРѕС— РѕР±РѕРІ'СЏР·РєРё РЅРµ РІС…РѕРґРёС‚СЊ РїРѕС€СѓРє С– РІС–РґР»РѕРІ РЅРµР»РµРіР°Р»С–РІ, РЅРµ Р±С–Р№СЃСЏ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_38">
-    <text>Рђ С‡РёРј С‚Рё Р·Р°Р№РјР°С”С€СЃСЏ?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_39">
-    <text>Р—РІРёС‡Р°Р№РЅС– РІС–Р№СЃСЊРєРѕРІС– СЂС–РґРєРѕ Р·Р°С…РѕРґСЏС‚СЊ РґР°Р»С– РљРѕСЂРґРѕРЅСѓ С‡Рё РЅР°СѓРєРѕРІРёС… РѕР±'С”РєС‚С–РІ, Р° РјРё РѕС‚ СЏРєСЂР°Р· РїРѕ С†С–Р№ С‡Р°СЃС‚РёРЅС–. РўРё, РґРѕ СЂРµС‡С–, С‚СЏРјСѓС‰РёР№ РґСЏРґСЊРєРѕ, СЃСѓРґСЏС‡Рё Р· СѓСЃСЊРѕРіРѕ. РќР°Рј С‚Р°РєС– РїРѕС‚СЂС–Р±РЅС–. РџРѕРґСѓРјР°Р№, Р·Р°СЂРїР»Р°С‚РѕСЋ РЅРµ РѕР±СЂР°Р·СЏС‚СЊ. Р—Р°Р№РјР°С‚РёРјРµС€СЃСЏ СѓР»СЋР±Р»РµРЅРѕСЋ СЃРїСЂР°РІРѕСЋ Сѓ Р±РµР·РїРµС†С–.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_40">
-    <text>Р“Рј. Р”СЏРєСѓСЋ, Р·РІС–СЃРЅРѕ, Р°Р»Рµ...</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_41">
-    <text>РќСѓ, Р±СѓРґРµРјРѕ Р·РЅР°Р№РѕРјС–, РІ Р±СѓРґСЊ-СЏРєРѕРјСѓ СЂР°Р·С–. РЎРїРѕРґС–РІР°СЋСЃСЊ, С†Рµ РЅРµ РѕСЃС‚Р°РЅРЅСЏ РЅР°С€Р° Р·СѓСЃС‚СЂС–С‡, С– РјРё С‰Рµ Р±СѓРґРµРјРѕ РєРѕСЂРёСЃРЅС– РѕРґРЅРµ РѕРґРЅРѕРјСѓ.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_42">
-    <text>РЇ С‚РµР¶ РЅР° С†Рµ СЃРїРѕРґС–РІР°СЋСЃСЊ. РџСЂРёР№РјР°Р№ СЂРѕР±РѕС‚Сѓ!</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_43">
-    <text>РџСЂР°С†СЋС”?</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_44">
-    <text>РџСЂР°С†СЋС”! РўС–Р»СЊРєРё РІСЂР°С…СѓР№: С€РѕР»РѕРј С€РІРёРґРєРѕ РЅР°РіСЂС–РІР°С”С‚СЊСЃСЏ, С‚РѕРјСѓ РјР°С‚РёРјРµС€ РЅРµ С‚Р°Рє Р±Р°РіР°С‚Рѕ С‡Р°СЃСѓ РІСЃРµСЂРµРґРёРЅС– РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ РґРѕ Р№РѕРіРѕ РїРѕРІРЅРѕРіРѕ РїРµСЂРµРіСЂС–РІСѓ. РЇРєС‰Рѕ РІС–РґС‡СѓС”С€ РіРѕР»РѕРІРЅРёР№ Р±С–Р»СЊ  вЂ”  РѕРґСЂР°Р·Сѓ С‚С–РєР°Р№. РЇ РЅРµ Р±РѕРі, С‰РѕР± Р·СЂРѕР±РёС‚Рё С–РґРµР°Р»СЊРЅРёР№ РїСЂРёСЃС‚СЂС–Р№, Р°Р»Рµ РІРѕРЅРѕ РјР°С” РґР°С‚Рё С‚РѕР±С– РЅРµРѕР±С…С–РґРЅРёР№ С‡Р°СЃ РЅР° РІРёРІС‡РµРЅРЅСЏ РєР°Р±С–РЅРё РіРµР»С–РєРѕРїС‚РµСЂР°.</text>
-  </string>
-  <string id="mil_stalker_technic_psy_helm_final_dialog_45">
-    <text>Р”СЏРєСѓСЋ. РњРµРЅС– РїРѕСЂР°. Р‘РµСЂРµР¶Рё СЃРµР±Рµ, Р‘Р°Р±Р°С‡Рµ!</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_final_dialog_0">
-    <text>РўРѕ С‰Рѕ, С” СЏРєС–СЃСЊ РЅРѕРІРёРЅРё?</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_final_dialog_1">
-    <text>РњС–СЃС†РµРІРёР№ СѓРјС–Р»РµС†СЊ Р·С–Р±СЂР°РІ РґР»СЏ РјРµРЅРµ РїСЃС–-С€РѕР»РѕРј. РўСЂРµР±Р° СЃРїСѓСЃРєР°С‚РёСЃСЏ, РїРѕРєРё РІРѕРЅРё С‰Рµ С‚Р°Рј, С– Сѓ РІСЃСЊРѕРјСѓ, РЅР°СЂРµС€С‚С–, СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_final_dialog_2">
-    <text>РЁРѕР»РѕРј РѕРґРёРЅ? Рђ РјРё? Р†С‚Рё С‚СѓРґРё РѕРґРЅРѕРјСѓ  вЂ”  Р°РІР°РЅС‚СЋСЂР°! РњРё РЅР°РІС–С‚СЊ РЅРµ Р·РЅР°С”РјРѕ, СЃРєС–Р»СЊРєРё С—С…!</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_final_dialog_3">
-    <text>Рђ РјРё РјР°С”РјРѕ РІРёР±С–СЂ? РўРё Р¶ СЃР°Рј РІСЃРµ С‡СѓРІ. Р’РѕРЅРё РІР¶Рµ РІ РєСѓСЂСЃС–, С‰Рѕ РјРё РїРѕСЂСЏРґ, С– СЃРїС–С€РЅРѕ Р·Р±РёСЂР°СЋС‚СЊСЃСЏ СЂРІР°С‚Рё РєС–РіС‚С–. РђР±Рѕ Р·Р°СЂР°Р·, Р°Р±Рѕ РЅС–РєРѕР»Рё. Р’Рё РїРёР»СЊРЅСѓР№С‚Рµ Р·Р·РѕРІРЅС– С‚Р° С‚СЂРёРјР°Р№С‚Рµ РјРµРЅРµ РІ РєСѓСЂСЃС–, СЏРєС‰Рѕ РІРґР°СЃС‚СЊСЃСЏ РїРµСЂРµС…РѕРїРёС‚Рё С‰Рµ СЏРєС–СЃСЊ РїРµСЂРµРіРѕРІРѕСЂРё.</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_final_dialog_4">
-    <text>Р”РѕР±СЂРµ. РўРё С‚РѕС‡РЅРѕ РІРїРµРІРЅРµРЅРёР№?</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_final_dialog_5">
-    <text>РўР°Рє. РЇ РЅРµ Р·Р° С†РёРј РјС–СЃСЏС†СЏРјРё С‡РµРєР°РІ СЃРµСЂР№РѕР·РЅРёС… РґРѕСЂСѓС‡РµРЅСЊ, Р°Р±Рё Р·РґСЂРµР№С„РёС‚Рё РІ РѕСЃС‚Р°РЅРЅС–Р№ РјРѕРјРµРЅС‚.</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_final_dialog_6">
-    <text>РҐРѕС‡Р° Р± РЅРµ Р»С–Р·СЊ РЅР° РІС–СЂРЅСѓ СЃРјРµСЂС‚СЊ, СЏРєС‰Рѕ РїРѕС‡СѓС”С€ Р·Р°РїР°С… СЃРјР°Р»РµРЅРѕРіРѕ. РџС–РґСѓС‚СЊ  вЂ”  Р·РЅРѕРІСѓ РІС–РґС€СѓРєР°С”РјРѕ. РўРё, РіРѕР»РѕРІРЅРµ, РїС–Рґ РєСѓР»С– РЅРµ Р»С–Р·СЊ!</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_final_dialog_7">
-    <text>Р† С…С‚Рѕ РјРµРЅС– С†Рµ РіРѕРІРѕСЂРёС‚СЊ? РўРѕР№, С…С‚Рѕ РїС–Рґ С‡Р°СЃ С€С‚СѓСЂРјСѓ Р§РђР•РЎ С…РѕС‚С–РІ С–С‚Рё РґР°Р»С–, РїРѕРїСЂРё РјС–Р№ РЅР°РєР°Р·?</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_final_dialog_8">
-    <text>РҐР°, РѕС‚ С‚РѕРґС– СЏ С‚РµР±Рµ РїРѕСЃР»СѓС…Р°РІ. Рђ С‚РµРїРµСЂ РїСЂРѕС€Сѓ РїРѕСЃР»СѓС…Р°С‚Рё РјРµРЅРµ. РЇРєС‰Рѕ СЃРёР»Рё Р±СѓРґСѓС‚СЊ РЅРµСЂС–РІРЅРёРјРё, РІС–РґСЃС‚СѓРїРё.</text>
-  </string>
-  <string id="mil_soldier_sky_helicopter_final_dialog_9">
-    <text>РЇ РЅРµ РіСЂР°С‚РёРјСѓ РІ Р РµРјР±Рѕ. Р’Рё СЃР°РјС– С‚СѓС‚ Р±СѓРґСЊС‚Рµ РЅР°РїРѕРіРѕС‚РѕРІС–. РљС–Р»СЊРєР° РіРѕРґРёРЅ С‚РѕРјСѓ РЅР° РјРµРЅРµ РЅР°РїР°Р»Рё, РІРѕРЅРё РјРѕР¶СѓС‚СЊ Р·'СЏРІРёС‚РёСЃСЏ Р№ С‚СѓС‚! Р’СЃРµ, РЅР° Р·РІ'СЏР·РєСѓ!</text>
-  </string>
-  <string id="mil_stalker_idle_dialog_0_1">
-    <text>Р Р°РґРёР№ С‚РµР±Рµ Р±Р°С‡РёС‚Рё!</text>
-  </string>
-  <string id="mil_stalker_idle_dialog_0_2">
-    <text>Р’С–С‚Р°СЋ!</text>
-  </string>
-  <string id="mil_stalker_idle_dialog_0_3">
-    <text>Р’РёРєР»Р°РґР°Р№, С‰Рѕ Сѓ С‚РµР±Рµ С‚Р°Рј?</text>
-  </string>
-  <string id="mil_stalker_technic_idle_dialog_0_1">
-    <text>Р Р°РґРёР№ С‚РµР±Рµ Р±Р°С‡РёС‚Рё!</text>
-  </string>
-  <string id="mil_stalker_technic_idle_dialog_0_2">
-    <text>РќСѓ, РІРёРєР»Р°РґР°Р№, СЃС‚Р°Р»РєРµСЂРµ!</text>
-  </string>
-  <string id="mil_stalker_technic_idle_dialog_0_3">
-    <text>РЇ С‚РµР±Рµ СЃР»СѓС…Р°СЋ, РґСЂСѓР¶Рµ.</text>
-  </string>
-  <string id="mil_stalker_technic_idle_dialog_1_1">
-    <text>Р‘СѓРІР°Р№.</text>
-  </string>
-  <string id="mil_stalker_technic_idle_dialog_1_2">
-    <text>РџС–РґСѓ СЏ.</text>
-  </string>
-  <string id="mil_stalker_technic_idle_dialog_1_3">
-    <text>Р”Рѕ Р·СѓСЃС‚СЂС–С‡С–.</text>
-  </string>
+
+	<string id="mil_trader_start_dialog_0_1">
+		<text>Підходь, не соромся!</text>
+	</string>
+
+	<string id="mil_trader_start_dialog_0_2">
+		<text>Підходь, сталкере. Вибирай товари!</text>
+	</string>
+
+	<string id="mil_trader_start_dialog_0_3">
+		<text>Вибирай товари, сталкере!</text>
+	</string>
+
+	<string id="mil_trader_start_dialog_1_1">
+		<text>О, повернувся! Чим порадуєш? Боржок приніс?</text>
+	</string>
+
+	<string id="mil_trader_start_dialog_1_2">
+		<text>Вітаю. Не бачив тебе тут раніше, що розкажеш?</text>
+	</string>
+
+	<string id="mil_trader_actor_break_dialog_0_1">
+		<text>Бувай.</text>
+	</string>
+
+	<string id="mil_trader_actor_break_dialog_0_2">
+		<text>До зустрічі.</text>
+	</string>
+
+	<string id="mil_trader_actor_break_dialog_0_3">
+		<text>Бувай.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_first_dialog_0">
+		<text>А інформацією торгуєш?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_first_dialog_1">
+		<text>Заходь, сталкере! Вибирай товари! Чи щось продати хочеш?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_first_dialog_2">
+		<text>Я сталкера одного шукаю, Акордом звати. Знаєш такого?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_first_dialog_3">
+		<text>Чому ж не знати своїх боржників! Я сам його шукаю. Патронів у мене три короби взяв  -  і тю-тю!</text>
+	</string>
+
+	<string id="mil_trader_second_actor_first_dialog_4">
+		<text>Бачу, в одному напрямку нам гребти. Підкажи, де його можна знайти, а я й за борг поговорю.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_first_dialog_5">
+		<text>Гаразд, давай спробуємо! Отже, зробив він зі своєю групою невелике укриття, тут неподалік. Як з села вийдеш, переходь дорогу, там вагончик побачиш. От, можливо, зараз вони там. Іди, і про борг нагадай цьому гімнюку!</text>
+	</string>
+
+	<string id="mil_trader_second_actor_first_dialog_6">
+		<text>Так точно!</text>
+	</string>
+
+	<string id="mil_merc_leader_start_dialog_0">
+		<text>Привіт той, хто по п'ятах іде! Здивований, що ти так швидко вийшов на слід.</text>
+	</string>
+
+	<string id="mil_merc_leader_start_dialog_1">
+		<text>То це ти? Один з тих, кого бачили біля наукового комплексу...</text>
+	</string>
+
+	<string id="mil_merc_leader_start_dialog_2">
+		<text>Правильно. Ти ж мене так старанно шукав, і ось я перед тобою. Тепер що?</text>
+	</string>
+
+	<string id="mil_merc_leader_start_dialog_3">
+		<text>Де професор?</text>
+	</string>
+
+	<string id="mil_merc_leader_start_dialog_4">
+		<text>Професор? Там, де йому набагато краще, ніж у вашій шаразі! І тобі я раджу, поки не пізно, вибрати правильну сторону.</text>
+	</string>
+
+	<string id="mil_merc_leader_start_dialog_5">
+		<text>Правильну? Ти ж вбивця! Ти вбив людей у цьому таборі й сталкера на Кордоні. І професор, ви ж викрали його?</text>
+	</string>
+
+	<string id="mil_merc_leader_start_dialog_6">
+		<text>Викрали? Ха-ха! Він утік від вас зі швидкістю світла, бо знав, що невдячна це справа  -  на уряд працювати.</text>
+	</string>
+
+	<string id="mil_merc_leader_start_dialog_7">
+		<text>Хто ви такі?</text>
+	</string>
+
+	<string id="mil_merc_leader_after_katakomb_dialog_0">
+		<text>Ну що, як самопочуття?</text>
+	</string>
+
+	<string id="mil_merc_leader_after_katakomb_dialog_1">
+		<text>Зуби мені не заговорюй. Ми так і не закінчили нашу розмову. Хто ви такі, і де професор Дубінін?</text>
+	</string>
+
+	<string id="mil_merc_leader_after_katakomb_dialog_2">
+		<text>Давай ненадовго відкладемо цю довгу розмову, поки тварюки, що загнали нас у підземку, ходять безкарними. Та й шмотки твої тобі потрібні, так?</text>
+	</string>
+
+	<string id="mil_merc_leader_after_katakomb_dialog_3">
+		<text>Що ти пропонуєш?</text>
+	</string>
+
+	<string id="mil_merc_leader_after_katakomb_dialog_4">
+		<text>Вирушити до виродків і покарати як слід. Давай, ворушись.</text>
+	</string>
+
+	<string id="mil_merc_leader_after_katakomb_dialog_5">
+		<text>Якщо що, ти у мене на мушці.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_1_1">
+		<text>Боюся, що нема вже кому його повертати. Акорд і його група мертві.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_1_2">
+		<text>Я був у таборі Акорда. Ти, здається, з ним знайомий... точніше, був знайомий. Акорд та його група мертві.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_2">
+		<text>Дідько!</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_3">
+		<text>Вбили їх і, судячи з усього, зробили це швидко й непомітно. Вони не встигли навіть зрозуміти.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_4">
+		<text>За що ж це... Як шкода хлопців... Вони ж мені допомагали і роботу виконувати, і хабар тягати. Ех, земля їм артефактами...</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_5">
+		<text>А я, виявляється, ні чорта не знаю про ці краї. Це що тут за борзі найманці влаштувалися неподалік?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_6">
+		<text>А-а, ці... Та, то ти правильно сказав  -  борзі! Осьо, бачиш руку? А я ні хера не бачу! Тварюки ці постаралися!</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_7">
+		<text>Та ну? І за що так?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_8">
+		<text>Та прийшли вони якось до мене, товари подивитись. І в ціні ми трохи не зійшлися, думали, я вирішив їх обдурити! Ну та, чого тут таїти, так воно й було... Я ж бачу, вони з грішми, дай-но, думаю, пару тисяч накину. А вони мені по руці  -  хрясь! І висить тепер вона у них у таборі, як сувенір...</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_9">
+		<text>А про ігри їхні чув?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_10">
+		<text>Еге ж, чув. Тільки вони мені одразу сказали, що разом з моєю куксою у таборі висітимуть й інші частини тіла, якщо комусь розповім. Трясця, а я ж тобі от і проговорився...</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_11">
+		<text>Не сци: немає їх більше у таборі. Не з тим вони пограти вирішили.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_12">
+		<text>Та ну? Йокелемене, оце так ти мене втішив! Смерті людей, звичайно, радіти погано, але за це не гріх і горілки випити! Будеш?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_13">
+		<text>Ну, давай скляночку.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_14">
+		<text>А що ти від групи Акорда хотів? Чи не ти їх часом прибив?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_15">
+		<text>Та ти що? Ні. Та і я один, проти групи? Либонь не термінатор.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_16">
+		<text>А що ж тоді з ними сталося?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_17">
+		<text>Вбили їх. Люди, за якими я сюди й прийшов. Ти часом не зустрічав добре озброєних груп невідомих у цих місцях? Форма у них ще така, незвичайна!</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_18">
+		<text>Особисто я не бачив, але люди подейкували про подібне. Втім, кого тільки сюди не заносить! А де це їм Акорд дорогу перейшов?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_19">
+		<text>Ховаються вони, а Акорд їх бачив і доповів кому треба. Шкода тільки, що за це довелося життям поплатитися. Де вони можуть бути? Може, є місця, де вони могли розбити табір?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_20">
+		<text>Тут? Навряд чи. На Бар'єрі свободівці, військові склади давно закинуті, в селі оселилося сімейство кровососів. А більше затишних місць тут і нема. Не місцеві вони, явно.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_21">
+		<text>А що склади? Там же раніше «Воля» базу тримала?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_22">
+		<text>Вони зараз Бар'єр зміцнили, усі там і влаштувалися, а на складах чортівня якась почалася. Я сам не в курсі, але сталкери туди намагаються не заходити: по-перше, робити там нема чого; по-друге, увижається всяке. Чи то привиди, чи то фантоми... Чи не контролер там оселився?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_23">
+		<text>Гаразд, дякую за інформацію!</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_24">
+		<text>А ти сам ким будеш? Навіщо цих екіпірованих розшукуєш?</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_25">
+		<text>Я простий роботяга. Отримав завдання їх знайти, намагаюсь тепер його виконати.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_26">
+		<text>Ага... Роботяга, значить. Ну, якщо захочеш в моєму цеху попрацювати, то звертайся. Мені така людина ой як в нагоді стане!</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_27">
+		<text>Згода! Але спершу розберуся зі своїми справами. У тебе можна десь подрімати годинку? А то ноги вже не тримають.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_28">
+		<text>Без проблем. Тут у селі є пара підходящих місць, лягай. Хлопці у таборі покараулять.</text>
+	</string>
+
+	<string id="mil_trader_second_actor_after_katakomb_dialog_29">
+		<text>Дякую!</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_0">
+		<text>Як ти? Виглядаєш стомленим.</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_1">
+		<text>Нічого, живий. Ви як дісталися, без проблем?</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_2">
+		<text>Все норм. Вирішили обійти бар стороною. Це означає, що про вас уся сталкерська мережа гуділа? Шкода Коваля.</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_3">
+		<text>Якби не він, гула б зараз мережа радощами сталкерів про те, що вони військового застрелили. Та й без нього, навряд чи б ми вийшли на слід професора.</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_4">
+		<text>Що ти дізнався?</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_5">
+		<text>Не так багато. Вони вбили того сталкера, який неофіційно працював з професором. Той, мабуть, або багато знав, або десь перейшов їм дорогу. Кілька годин тому мені довелося особисто поспілкуватися з одним із цих людей. Він натякнув мені, що нам краще відступити й припинити переслідування. Інакше з нами буде те ж саме.</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_6">
+		<text>І що ти думаєш?</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_7">
+		<text>У нас завдання  -  знайти професора Дубініна. Ми маємо його виконати, незважаючи на якісь там погрози. Невідомо, з ким ми маємо справу, скільки їх у загоні, і чи варто взагалі сприймати ці погрози всерйоз.</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_8">
+		<text>Що відомо про Дубініна? Вони його викрали?</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_9">
+		<text>Я вже дуже сильно в цьому сумніваюся. Не виключено, що він сам охоче покинув комплекс. Залишилось тільки дізнатися, навіщо?</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_10">
+		<text>Який план дій?</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_11">
+		<text>Ми десь поряд. Нам потрібно лише знайти те місце, де вони могли організувати табір.</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_12">
+		<text>Думаю, це можна спробувати влаштувати. У мене з собою є необхідне обладнання для перехоплення радіосигналів. Вони ж, напевно, користуються якимось зв'язком. Треба лише зловити потрібний сигнал, і вийти на його джерело. Однак потрібно знайти якусь високу точку, щоб охопити більший радіус.</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_13">
+		<text>Неподалік звідси є покинута військова база. Там є дозорні вежі. Згодиться?</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_14">
+		<text>Можна спробувати. Тоді ходімо?</text>
+	</string>
+
+	<string id="mil_soldier_sky_first_dialog_15">
+		<text>Ходімо. Тільки обережніше там: не так давно військові склади утримували бійці угруповання «Воля», але потім вони поспіхом покинули свою базу. Сталкери теж це місце намагаються обходити стороною. Щось недобре там, тому варто бути напоготові.</text>
+	</string>
+
+	<string id="mil_soldier_sky_army_base_tower_dialog_0">
+		<text>Ху-у. Ніби пройшли!</text>
+	</string>
+
+	<string id="mil_soldier_sky_army_base_tower_dialog_1">
+		<text>Треба швидше закінчувати справи, поки всі ці привиди не влаштували нам фіаско.</text>
+	</string>
+
+	<string id="mil_soldier_sky_army_base_tower_dialog_2">
+		<text>Давай так: ось цей прилад потрібно встановити на вежі. Я знизу ловитиму сигнал, а хлопці нас прикриють.</text>
+	</string>
+
+	<string id="mil_soldier_sky_army_base_tower_dialog_3">
+		<text>Годиться.</text>
+	</string>
+
+	<string id="mil_soldier_sky_after_army_base_dialog_0">
+		<text>Вибралися!</text>
+	</string>
+
+	<string id="mil_soldier_sky_after_army_base_dialog_1">
+		<text>Це точно! Є чим порадувати? Там на вежі я чув у ефірі якісь цифри.</text>
+	</string>
+
+	<string id="mil_soldier_sky_after_army_base_dialog_2">
+		<text>Пристрій дійсно перехопив кілька сигналів! Деякі, очевидно, належать місцевим сталкерам, а от один з них, досить потужний, передається у зашифрованому форматі. Джерело цього сигналу  -  десь у районі гелікоптера, що впав, це неподалік від села торговця.</text>
+	</string>
+
+	<string id="mil_soldier_sky_after_army_base_dialog_3">
+		<text>Отже, є сенс туди навідатись! А що з шифром у радіосигналах? Можна зрозуміти, про що йшла мова?</text>
+	</string>
+
+	<string id="mil_soldier_sky_after_army_base_dialog_4">
+		<text>Поки не знаю. Схоже на номерне радіо. Ще студентом мав з таким справу. Треба буде покумекати над цим.</text>
+	</string>
+
+	<string id="mil_soldier_sky_after_army_base_dialog_5">
+		<text>Гаразд, це пізніше. Вирушаймо.</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_psy_zone_dialog_0">
+		<text>Приїхали! Тут випромінювання сила силенна!</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_psy_zone_dialog_1">
+		<text>Там у гелікоптері щось є! Схоже на добре замаскований вхід.</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_psy_zone_dialog_2">
+		<text>Дійсно, але нам туди не дістатись: прилади зашкалюють від псі-випромінювання. Мізки миттю розплавить, якщо ще хоч пару кроків зробити в бік гелікоптера.</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_psy_zone_dialog_3">
+		<text>Можна щось придумати?</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_psy_zone_dialog_4">
+		<text>Ну, туди просто так не дістатись... хіба що зі спеціальним захистом.</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_psy_zone_dialog_5">
+		<text>Може, торговець Зубр зможе нам щось підказати. Це місце в нього буквально під носом. Рушаймо у село!</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_0">
+		<text>Вітаю. Мені терміново потрібна інформація.</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_1">
+		<text>О, знову ти! Ну як твоя погоня за чорною кішкою в темній кімнаті?</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_2">
+		<text>Не така вже вона й чорна. А щодо кімнати, сподіваюсь, ти якраз мені й допоможеш більше про неї дізнатися.</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_3">
+		<text>Не хочеться залишитись без другої руки або життям ризикувати, якщо я раптом розповім тобі щось не те. Ці невідомі, як ти їх називаєш, вбили групу Акорда, а вони були далеко не новачками. Я ж лише торговець.</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_4">
+		<text>Якщо ти просто торговець, то чому торгуєш тут, а не динями на ринку? Ти такий самий нелегал, як і багато хто тут. Якщо посприяєш  -  зможеш і далі тут торгувати. Ніхто з військових тебе не зачепить.</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_5">
+		<text>Так я і думав! Отже, ти один з них! З військових! Воно й видно. А чого мені вас боятися? У мене все обговорено. Кому треба конвертик із гривнями заніс, щоб ваш брат мене не чіпав.</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_6">
+		<text>З ким би ти це не обговорював, відмова від співпраці зі мною анулює будь-які домовленості, це я гарантую. У будь-якому разі, все, що ти мені розкажеш, залишиться між нами.</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_7">
+		<text>І що тебе цікавить?</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_8">
+		<text>Гелікоптер неподалік від села. Що ти про нього знаєш?</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_9">
+		<text>Звичайний гелікоптер, сто років вже там валяється. Тільки ти до нього краще не наближайся  -  макітра закипить так, що хоч чай потім у ній заварюй!</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_10">
+		<text>Ніхто зі сталкерів не намагався до нього дістатися?</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_11">
+		<text>А навіщо? Відбиті на голову відсіваються ще на Кордоні чи Смітнику, а у тих, хто сюди дістався, вистачить розуму не лізти у джерело псі-випромінювання.</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_12">
+		<text>Нам потрібно оглянути це місце. Може, випромінювання періодично спадає?</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_13">
+		<text>Я про таке не чув.</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_14">
+		<text>Ну ж бо, може, є якісь ідеї? В накладі не залишишся, бариго!</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_15">
+		<text>У мене ідей немає, але можу підказати людину, яка дуже цікавиться подібною байдою. Рукастий, головастий, тільки от уразливий, зараза! В селі у нас раніше сидів, лагодив сталкерам спорягу й електроніку, а потім ми з ним трохи посварилися, і тепер він у відчуженні від нас. Давай так: я тобі даю ID-номер його КПК, а ти вмовляєш його повернутися в село. Скажи, що я готовий домовитись на взаємовигідних умовах! Годиться?</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_16">
+		<text>Годиться.</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_17">
+		<text>Домовились! ID-номер скинув тобі на КПК. Давай, удачі!</text>
+	</string>
+
+	<string id="mil_trader_after_army_base_dialog_18">
+		<text>Дякую. Ще загляну.</text>
+	</string>
+
+	<string id="mil_soldier_sky_stalker_technic_info_dialog_0">
+		<text>Ну що?</text>
+	</string>
+
+	<string id="mil_soldier_sky_stalker_technic_info_dialog_1">
+		<text>Нам потрібно знайти людину, яка допоможе пробратися до гелікоптера. У мене є ID-номер його КПК. Зможеш відстежити, де його знайти?</text>
+	</string>
+
+	<string id="mil_soldier_sky_stalker_technic_info_dialog_2">
+		<text>Без проблем, скидай номер!</text>
+	</string>
+
+	<string id="mil_soldier_sky_stalker_technic_info_dialog_3">
+		<text>Чудово. Отже, зробимо так: ти залишаєшся в селі, спробуй розшифрувати сигнали, а якщо зловиш ще щось, дай знати. З тобою залишиться Вуслич. Хоттабич вирушить наглядати за гелікоптером. Ми маємо знати про всі переміщення біля нього.</text>
+	</string>
+
+	<string id="mil_soldier_sky_stalker_technic_info_dialog_4">
+		<text>А ти? Впораєшся сам?</text>
+	</string>
+
+	<string id="mil_soldier_sky_stalker_technic_info_dialog_5">
+		<text>Пересуватись по місцевості усім загоном  -  надто палевно: і так вже знатно тут пошуміли. Незабаром кожний собака про нас дізнається. Тому піду один.</text>
+	</string>
+
+	<string id="mil_soldier_sky_stalker_technic_info_dialog_6">
+		<text>Зрозумів. Його КПК пеленгується у кинутому селі через дорогу... Подейкують, там кровососи! Точно впораєшся?</text>
+	</string>
+
+	<string id="mil_soldier_sky_stalker_technic_info_dialog_7">
+		<text>Я впораюся. Головне, щоб цей сталкер був цілий. Все, я пішов!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_0">
+		<text>Хоч хтось живий!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_1">
+		<text>Що ти там робиш?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_2">
+		<text>Та от, вирішив у підпілля за варенням злазити! Провалився я сюди, коли від кровососа втікав!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_3">
+		<text>Так, посидь тут. Я поки розберуся з кровососами, бо як стане гаряче, у такій обстановці я тебе не витягну. Тут треба щось придумати.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_1">
+		<text>То що, ти закінчив з кровососами?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_2">
+		<text>Все, вбив кровососів?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_3">
+		<text>Кровососи мертві?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_1">
+		<text>Ще ні. Почекай поки.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_2">
+		<text>Поки не всіх. Чекай.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_3">
+		<text>Поки ні. Посидь ще трохи.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_0">
+		<text>Жива душа, нарешті!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_1">
+		<text>Що ти там робиш?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_2">
+		<text>Та от, вирішив у підпілля за варенням злазити! Провалився я сюди, коли від кровососа втікав!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_3">
+		<text>Як же витягти тебе тепер...</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_compl_second_dialog_0">
+		<text>То що, вбив тварюк?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_bloodsuckers_compl_second_dialog_1">
+		<text>Ніби так. Витягувати тебе як будемо?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_wait_ladder_dialog_0_1">
+		<text>Друже, то де там драбина?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_wait_ladder_dialog_0_2">
+		<text>Чоловіче, мені вже моторошно, тягни драбину!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_wait_ladder_dialog_0_3">
+		<text>Де драбина, сталкере? Витягни мене, будь ласка!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_wait_ladder_dialog_1_1">
+		<text>Без паніки. Скоро принесу.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_wait_ladder_dialog_1_2">
+		<text>Заспокойся. Зараз знайду.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_wait_ladder_dialog_1_3">
+		<text>Не панікуй. Знайду зараз тобі драбину.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_ladder_compl_dialog_0">
+		<text>Нарешті! Давай її сюди!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_ladder_compl_dialog_1">
+		<text>Рухайся. Опускаю.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_0">
+		<text>Дякую тобі, сталкеру! Вже думав все  -  з голоду тут загину. В це село живі душі рідко заходять.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_1">
+		<text>А тебе що сюди занесло?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_2">
+		<text>Ти це бачиш? Бачиш, світло горить, холодильник працює, радіо шипить?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_3">
+		<text>Важко таке не помітити. По всьому селі світло горить.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_4">
+		<text>От я й намагаюсь розібратися, чому. З цієї техніки вже пісок сипле, а вона раптом запрацювала.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_5">
+		<text>Не найкраще тут місце для наукових проєктів: тут тьма-тьмуща кровососів! Один з них взагалі якийсь електризований був.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_6">
+		<text>Так-так, я якраз від нього дьору дав у цей дім. У дворі зараз тихо? Ти усіх вбив?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_7">
+		<text>Бачив. Вбив кількох, але думаю, що не всіх.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_8">
+		<text>У дворі я бачив трансформатор, що іскрить. Допоможеш мені до нього пробитися? Думаю, він і є джерелом енергії. За мною не стане!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_9">
+		<text>Звати тебе як?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_10">
+		<text>Бабак.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_after_under_dialog_11">
+		<text>Гаразд, Бабаче, умовив. Веди.</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_final_dialog_0">
+		<text>Оце так! Бачив такий коли-небудь?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_final_dialog_1">
+		<text>Ні. Виходить, артефакт і спровокував роботу всієї електроніки у селі?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_final_dialog_2">
+		<text>Як бачиш, все згасло, коли я його витяг. Тепер я не матиму проблем з електрикою в своїй халупі!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_final_dialog_3">
+		<text>Ти маєш свою халупу?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_final_dialog_4">
+		<text>Звичайно! Не на хуторі ж із цим упирем залишатися!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_final_dialog_5">
+		<text>Це ти про торговця?</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_final_dialog_6">
+		<text>Ага, про нього. Може, будемо забиратися звідси? А то ще місцеві мешканці запідозрять пропажу... Давай до мене, бо я бачу, у тебе споряга вся дірява. Залатаю за надану допомогу!</text>
+	</string>
+
+	<string id="mil_stalker_technic_village_final_dialog_7">
+		<text>Це точно. Ідемо.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_0">
+		<text>От ми й на місці!</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_1">
+		<text>Як ти тільки здогадався саме тут зробити укриття?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_2">
+		<text>Ну а що, місце гарне! Так, болотом трохи тхне, зате міни кругом, мутанти не підберуться.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_3">
+		<text>А сусідства не боїшся?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_4">
+		<text>Навпаки. Ніхто сюди носа свого не пхає. Бояться того, що на військовій базі почало відбуватися.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_5">
+		<text>А ти, значить, не боїшся?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_6">
+		<text>А я туди й не ходжу. Часом хочеться, звичайно... Там же, напевно, стільки всього корисного залишилось після військових і «Волі», але стрьомно! А ти сам хто? Не бачив тебе тут раніше.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_7">
+		<text>Сталкер я. Горобець мене звати.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_8">
+		<text>Мало ти схожий на сталкера.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_9">
+		<text>Це чому ж?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_10">
+		<text>У будь-якого сталкера на твоєму місці очі б загорілись від артефакту, який ми в селі знайшли. А тобі ніби все одно!</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_11">
+		<text>У інших я тут справах. Мені потрібно потрапити у кабіну гелікоптера, який упав неподалік звідси, але там псі-випромінювання. Не пробратися. Немає ідей, як його уникнути?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_12">
+		<text>А я думав, ти випадково на мене набрів у селі. А ти що, мене й шукав?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_13">
+		<text>Ти що, психолог? Нічого від тебе не приховати!</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_14">
+		<text>Ні, просто надто гарно все склалось. Мені потрібна була твоя допомога, тобі  -  моя.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_15">
+		<text>І от я тобі вже допоміг. Поможеш тепер мені?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_16">
+		<text>А чого це тебе так цікавить гелікоптер?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_17">
+		<text>Чорний ящик шукаю.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_18">
+		<text>Ха, який ще чорний ящик? Цей гелікоптер ще в минулому столітті сюди, певно, упав. Все вже давно розтягли.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_19">
+		<text>А я хочу ризикнути. То ти допоможеш?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_20">
+		<text>Потрібен захист. Я можу такий зібрати, навіть досвід є.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_21">
+		<text>Та? І звідки ж?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_22">
+		<text>Коли ще «Випалювач» працював, заходило до мене кілька сталкерів. Пробували ми з ними зібрати кілька шоломів, щоб до Прип'яті прорватися.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_23">
+		<text>Вийшло?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_24">
+		<text>Ні. Загинули на Радарі.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_25">
+		<text>Обнадійливо.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_26">
+		<text>Загинули, але пройшли набагато далі, ніж ті, в кого захисту не було. Біля гелікоптера випромінювання не таке потужне, може вистачити. Але є нюанси...</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_27">
+		<text>Які?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_28">
+		<text>Мої ресурси не безмежні. Щоб зібрати такий шолом, знадобляться деталі. У мене їх зараз немає.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_29">
+		<text>Де їх можна дістати?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_30">
+		<text>Теоретично, вони лежать за триста метрів від нас.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_31">
+		<text>Військова база?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_32">
+		<text>Саме так! Давно хотів туди навідатись, але одинаком страшно. А компанію скласти щось ніхто не бажає.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_33">
+		<text>Я так розумію, ти маєш власний інтерес?</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_34">
+		<text>Звісно, маю. Для мене на їхньому складі багато цікавих іграшок може виявитися. Мені ж треба якось підійматися: облаштувати хатинку на болоті, ще трохи мін розставити по краях, зв'язок потужний налаштувати. Єдине місце, де я можу все це знайти  -  військова база.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_35">
+		<text>Отже, нам у попутному напрямку. Але я хотів би все провернути якомога швидше.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_36">
+		<text>Можемо рушати хоч зараз.</text>
+	</string>
+
+	<string id="mil_stalker_technic_hut_start_dialog_37">
+		<text>Рушаймо.</text>
+	</string>
+
+	<string id="mil_stalker_technic_army_base_warehouse_vodka_dialog_0">
+		<text>Цей фантом скаржиться на відсутність випивки. Ану, дай йому пляшку, може, проканає.</text>
+	</string>
+
+	<string id="mil_stalker_technic_army_base_warehouse_vodka_dialog_1">
+		<text>Спробую.</text>
+	</string>
+
+	<string id="mil_stalker_technic_army_base_warehouse_final_dialog_0">
+		<text>Все тихо? Мурашки по шкірі у мене від цього комірника!</text>
+	</string>
+
+	<string id="mil_stalker_technic_army_base_warehouse_final_dialog_1">
+		<text>Тиша. Ти мене хоч порадуєш?</text>
+	</string>
+
+	<string id="mil_stalker_technic_army_base_warehouse_final_dialog_2">
+		<text>Думаю, знайдених матеріалів вистачить, щоб зібрати шолом.</text>
+	</string>
+
+	<string id="mil_stalker_technic_army_base_warehouse_final_dialog_3">
+		<text>Один?</text>
+	</string>
+
+	<string id="mil_stalker_technic_army_base_warehouse_final_dialog_4">
+		<text>Один. А тобі що, ще треба?</text>
+	</string>
+
+	<string id="mil_stalker_technic_army_base_warehouse_final_dialog_5">
+		<text>Було б дуже до речі.</text>
+	</string>
+
+	<string id="mil_stalker_technic_army_base_warehouse_final_dialog_6">
+		<text>Якщо маєш на прикметі ще одну військову базу з привидами, то ти не соромся, кажи. И туди сходимо. Може, ще пару шоломів зберемо!</text>
+	</string>
+
+	<string id="mil_stalker_technic_army_base_warehouse_final_dialog_7">
+		<text>Гаразд, хоча б один... Все, згортаймося звідси!</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_0">
+		<text>Руки наче пам'ятають. Зараз спробую все зібрати!</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_1">
+		<text>Це довго?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_2">
+		<text>Куди ти так поспішаєш? Не викрадуть твій гелікоптер, не сци!</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_3">
+		<text>І все ж таки?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_4">
+		<text>На годинку роботи. Я таких вже штук п'ять зібрав. Схема є, решта лише справа техніки. Точніше, моїх рук.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_5">
+		<text>Воно точно працюватиме? Не хотів би я розплавити собі мізки.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_6">
+		<text>Ображаєш! Хіба я можу підвести людину, яка мені запропонувала свою руку і драбину! До речі, дякую тобі ще раз!</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_7">
+		<text>І тобі спасибі. А ти як взагалі техніком став?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_8">
+		<text>Я коли в Зону прийшов, взагалі нічого не вмів. Потім звела мене доля з одною людиною на Болотах. Я туди якось зі сталкерами вирушив артефакти шукати, і в халепу разом з ними попав.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_9">
+		<text>Тебе розмови не відвертають?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_10">
+		<text>Нє. Мені так навіть краще.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_11">
+		<text>Ну, дивися. Пішли ви на Болота, потім що?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_12">
+		<text>Так ось. Набрали вже повні рюкзаки артефактів. Болота ж місце не настільки витоптане, як Кордон. Зняли вершки, так би мовити. Ідемо, тиша навколо, і раптом КПК розривається повідомленнями, що наближається викид! Ми по сторонах подивилися  -  ага, бачимо якийсь хутір занедбаний. Рушили туди, відсидітися. Майже добігли до хутора, аж раптом з очерету виноситься здоровенна зграя кабанів! Злякались гади викиду й побігли усією зграєю! Ми відстрілюватись, а толку? Їх там особин тридцять було. Вони нас як хвилею усіх і зміли! Не знаю, скільки тих хряків по моєму тілу пробіглося, але я лежав і тіла вже не відчував... а потім і вирубився остаточно. Прокинувся вже у ліжку. Ноги, руки, ребра  -  все переламане. На тілі живого місця немає  -  все у синцях! Аж дихати боляче було. Як я пізніше дізнався, врятував мене один місцевий сталкер. Жив на самоті на околиці боліт.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_13">
+		<text>Болотний лікар?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_14">
+		<text>Ні. Я теж як очі розплющив, думав, до болотного лікаря потрапив. Але ні. Мені представився Іваном, але здається мені, не так його насправді звати. Каже, знайшов мене напівмертвого на березі болотця, приніс у табір. Рани залатав, шини на переломи наклав. «Доведеться,  -  каже,  -  тобі тут з місяць полежати, хочеш ти цього чи ні».</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_15">
+		<text>А інші?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_16">
+		<text>А не було нікого поряд. Ні інших, ні рюкзака мого з хабарем. Навіть зброю забрали. Кинули мене там здихати.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_17">
+		<text>Оце так. Ну й друзі.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_18">
+		<text>Вони й не були мені друзями. Познайомились в селі, домовились разом за хабарем піти, от і все.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_19">
+		<text>Але хоч щось людське мало в них бути. Ось так залишити на болотах помирати...</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_20">
+		<text>Я поки відлежувався, теж про це думав. Жив думками, що тільки на ноги встану  -  знайду їх, по кулі всаджу! Але Іван розповів, що на момент мого виявлення, на живого я вже не був схожий, та й викид вже був близько. Якби вони мене спробували врятувати  -  і мене б не дотягли, і самі б себе поховали. І я охолонув. Так от, до чого ця історія... Я поки відлежувався, Іван мене багато чому навчив: і зброю чистити, і броню латати. У радіоелектроніці копирсатися. Все, що я знаю  -  завдяки йому. Пробув я у таборі не місяць, як він мене обнадіював, а усі десять. Але знання, які я отримав  -  найкраща плата за отримані каліцтва.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_21">
+		<text>А що потім?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_22">
+		<text>Потім я повернувся на Кордон, до звичайного сталкерського життя. Через пару місяців хотів заглянути до Івана в гості, горілки принести, закуски, віддячити йому як слід. Але його помешкання вже було пустим  -  пішов. Більше не бачив його. Сподіваюсь, живий-здоровий дядько. Якби не він, не сиділи б ми зараз тут із тобою.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_23">
+		<text>А як на Складах опинився?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_24">
+		<text>Торговець місцевий, Зубр, вирішив тут лавку свою відкрити. Покликав мене до себе. «Буду,  -  каже,  -  тобі відсотки з виручки віддавати, ти тільки сталкерам спорядження лагодь». Мовляв, зробимо аналог бара, але на півночі Зони. Щоб будь-хто міг і речі підлатати, і припасів закупити. Так воно, власне, й було, поки йому найманці руку не відтяли. Потім як з ланцюга зірвався. Раніше грошима не ображав, а потім взагалі почав їх з мене вимагати. Каже: «Ти в моєму селі бізнес ведеш, а мені нічого не дістається. Ділися». Я плюнув і пішов.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_25">
+		<text>Справедливо. Він просив мене з тобою поговорити з приводу повернення.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_26">
+		<text>А, то ти з ним знайомий? Не буде ніякого повернення! Так і передай!</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_27">
+		<text>Він обіцяв взаємовигідні умови.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_28">
+		<text>Мені й тут добре.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_29">
+		<text>Але ти тут один, а у таборі хоч сталкери є. Поможуть, якщо що.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_30">
+		<text>От за цим я й ходив на склади. Знайшов там кілька мін. Завтра все тут заміную  -  ніхто не підбереться до хатинки без мого відома. А потім вже сталкерам розкажу, що можу їм спорягу лагодити. Клієнт у цих краях завжди знайдеться.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_31">
+		<text>Діло твоє. Ну що там, виходить?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_32">
+		<text>Майже все! А ти сам хто? А то я все про себе, та й про себе.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_33">
+		<text>Я можу тобі сказати, якщо пообіцяєш тримати язик за зубами.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_34">
+		<text>Я не з шісток, не сци.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_35">
+		<text>З військових сталкерів я. На завданні тут.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_36">
+		<text>Військовий?!</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_37">
+		<text>Ні, не зовсім. Військовий сталкер. Як і ви, тільки на офіційній основі. В мої обов'язки не входить пошук і відлов нелегалів, не бійся.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_38">
+		<text>А чим ти займаєшся?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_39">
+		<text>Звичайні військові рідко заходять далі Кордону чи наукових об'єктів, а ми от якраз по цій частині. Ти, до речі, тямущий дядько, судячи з усього. Нам такі потрібні. Подумай, зарплатою не образять. Займатимешся улюбленою справою у безпеці.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_40">
+		<text>Гм. Дякую, звісно, але...</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_41">
+		<text>Ну, будемо знайомі, в будь-якому разі. Сподіваюсь, це не остання наша зустріч, і ми ще будемо корисні одне одному.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_42">
+		<text>Я теж на це сподіваюсь. Приймай роботу!</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_43">
+		<text>Працює?</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_44">
+		<text>Працює! Тільки врахуй: шолом швидко нагрівається, тому матимеш не так багато часу всередині випромінювання до його повного перегріву. Якщо відчуєш головний біль  -  одразу тікай. Я не бог, щоб зробити ідеальний пристрій, але воно має дати тобі необхідний час на вивчення кабіни гелікоптера.</text>
+	</string>
+
+	<string id="mil_stalker_technic_psy_helm_final_dialog_45">
+		<text>Дякую. Мені пора. Бережи себе, Бабаче!</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_final_dialog_0">
+		<text>То що, є якісь новини?</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_final_dialog_1">
+		<text>Місцевий умілець зібрав для мене псі-шолом. Треба спускатися, поки вони ще там, і у всьому, нарешті, розібратися.</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_final_dialog_2">
+		<text>Шолом один? А ми? Іти туди одному  -  авантюра! Ми навіть не знаємо, скільки їх!</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_final_dialog_3">
+		<text>А ми маємо вибір? Ти ж сам все чув. Вони вже в курсі, що ми поряд, і спішно збираються рвати кігті. Або зараз, або ніколи. Ви пильнуйте ззовні та тримайте мене в курсі, якщо вдасться перехопити ще якісь переговори.</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_final_dialog_4">
+		<text>Добре. Ти точно впевнений?</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_final_dialog_5">
+		<text>Так. Я не за цим місяцями чекав серйозних доручень, аби здрейфити в останній момент.</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_final_dialog_6">
+		<text>Хоча б не лізь на вірну смерть, якщо почуєш запах смаленого. Підуть  -  знову відшукаємо. Ти, головне, під кулі не лізь!</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_final_dialog_7">
+		<text>І хто мені це говорить? Той, хто під час штурму ЧАЕС хотів іти далі, попри мій наказ?</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_final_dialog_8">
+		<text>Ха, от тоді я тебе послухав. А тепер прошу послухати мене. Якщо сили будуть нерівними, відступи.</text>
+	</string>
+
+	<string id="mil_soldier_sky_helicopter_final_dialog_9">
+		<text>Я не гратиму в Рембо. Ви самі тут будьте напоготові. Кілька годин тому на мене напали, вони можуть з'явитися й тут! Все, на зв'язку!</text>
+	</string>
+
+	<string id="mil_stalker_idle_dialog_0_1">
+		<text>Радий тебе бачити!</text>
+	</string>
+
+	<string id="mil_stalker_idle_dialog_0_2">
+		<text>Вітаю!</text>
+	</string>
+
+	<string id="mil_stalker_idle_dialog_0_3">
+		<text>Викладай, що у тебе там?</text>
+	</string>
+
+	<string id="mil_stalker_technic_idle_dialog_0_1">
+		<text>Радий тебе бачити!</text>
+	</string>
+
+	<string id="mil_stalker_technic_idle_dialog_0_2">
+		<text>Ну, викладай, сталкере!</text>
+	</string>
+
+	<string id="mil_stalker_technic_idle_dialog_0_3">
+		<text>Я тебе слухаю, друже.</text>
+	</string>
+
+	<string id="mil_stalker_technic_idle_dialog_1_1">
+		<text>Бувай.</text>
+	</string>
+
+	<string id="mil_stalker_technic_idle_dialog_1_2">
+		<text>Піду я.</text>
+	</string>
+
+	<string id="mil_stalker_technic_idle_dialog_1_3">
+		<text>До зустрічі.</text>
+	</string>
+
 </string_table>

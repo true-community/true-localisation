@@ -1,266 +1,364 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="bar_duty_territory">
-    <text>РўР•Р Р РРўРћР Р†РЇ В«Р”РћР›Р“РЈВ»</text>
-  </string>
-  <string id="bar_duty_territory_start_name">
-    <text>РћС‚СЂРёРјР°С‚Рё РґРѕРІС–СЂСѓ РјС–СЃС†РµРІРёС…</text>
-  </string>
-  <string id="bar_duty_territory_start_text">
-    <text>Р”Р»СЏ РїСЂРѕРїСѓСЃРєСѓ РґРѕ Р±РµР·РїРѕСЃРµСЂРµРґРЅСЊРѕРіРѕ РєРµСЂС–РІРЅРёС†С‚РІР° В«Р”РѕР»РіСѓВ», РґРѕ Р№РѕРіРѕ С‚РѕСЂРіРѕРІС†СЏ С– С‚РµС…РЅС–РєР° РїРѕС‚СЂС–Р±РЅРѕ РїРѕСЃС‚Р°СЂР°С‚РёСЃСЏ Р·Р°СЃР»СѓР¶РёС‚Рё РґРѕРІС–СЂСѓ РјС–СЃС†РµРІРёС…. РўРѕРґС– С‚Р°Рј РјРѕР¶РЅР° Р±СѓРґРµ СЂРѕР·Р¶РёС‚РёСЃСЏ СЏРєРѕСЋСЃСЊ СЂРѕР±РѕС‚РѕСЋ С– СЃРїРѕСЂСЏРґР¶РµРЅРЅСЏРј. РЎРµСЂР¶Р°РЅС‚ РџР»С–С‡РєРѕ РґР»СЏ РїРѕС‡Р°С‚РєСѓ РїРѕСЂР°РґРёРІ РїРѕРїСЂР°С†СЋРІР°С‚Рё РЅР° Р‘Р°СЂРјРµРЅР°.</text>
-  </string>
-  <string id="bar_duty_territory_final_name"><text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· СЃРµСЂР¶Р°РЅС‚РѕРј РџР»С–С‡РєРѕ</text>.
+
+	<string id="bar_duty_territory">
+		<text>ТЕРРИТОРІЯ «ДОЛГУ»</text>
 	</string>
-  <string id="bar_duty_territory_final_text">
-    <text>Р”СѓРјР°СЋ, СЏ РґРѕСЃРёС‚СЊ РЅРµРїРѕРіР°РЅРѕ РѕСЃРІРѕС—РІСЃСЏ РІ Р‘Р°СЂС–, С– СЃРµСЂР¶Р°РЅС‚ РџР»С–С‡РєРѕ С‚РµРїРµСЂ Р·РјРѕР¶Рµ РїСЂРѕРїСѓСЃС‚РёС‚Рё РјРµРЅРµ РЅР° С‚РµСЂРёС‚РѕСЂС–СЋ В«Р”РѕР»РіСѓВ». РњРѕР¶Р»РёРІРѕ, С‚Р°Рј Р±СѓРґРµ С‰Рµ СЏРєР°СЃСЊ СЂРѕР±РѕС‚Р°.</text>
-  </string>
-  <string id="bar_stalker_asshole_task">
-    <text>Р‘РђРќР”РРўРЎР¬РљР† РљРћР—РќР†</text>
-  </string>
-  <string id="bar_stalker_asshole_task_start_name">
-    <text>Р’С–РґРїСЂР°РІРёС‚РёСЃСЏ РЅР° Р·СѓСЃС‚СЂС–С‡ Р·С– СЃС‚Р°Р»РєРµСЂР°РјРё</text>
-  </string>
-  <string id="bar_stalker_asshole_task_start_text">
-    <text>РћРґРёРЅ СЃС‚Р°Р»РєРµСЂ Р· Р‘Р°СЂСѓ РїРѕРїСЂРѕСЃРёРІ РґРѕРїРѕРјРѕРіС‚Рё РІРёС‚СЏРіРЅСѓС‚Рё Р№РѕРіРѕ РґСЂСѓР·С–РІ, СЏРєС– РїРѕС‚СЂР°РїРёР»Рё РІ РїРѕР»РѕРЅ РґРѕ Р±Р°РЅРґРёС‚С–РІ РЅР° Р—РІР°Р»РёС‰С–. РџРѕС‚СЂС–Р±РЅРѕ Р·СѓСЃС‚СЂС–С‚РёСЃСЏ Р·С– С‰Рµ РїР°СЂРѕСЋ СЃС‚Р°Р»РєРµСЂС–РІ, С‰РѕР± РѕСЂРіР°РЅС–Р·СѓРІР°С‚Рё РЅР°РїР°Рґ.</text>
-  </string>
-  <string id="bar_after_robbery">
-    <text>РџР†РЎР›РЇ Р’Р†Р”РљР›Р®Р§РљР</text>
-  </string>
-  <string id="bar_after_robbery_start_name">
-    <text>Р”С–Р·РЅР°С‚РёСЃСЏ, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ</text>
-  </string>
-  <string id="bar_after_robbery_start_text">
-    <text>РќРµСЏСЃРЅРѕ РїР°Рј'СЏС‚Р°СЋ, СЏРє Сѓ РјРµРЅРµ СЃС‚СЂС–Р»СЏР»Рё. РџРѕС‚С–Рј СЏ РѕРїРёРЅРёРІСЃСЏ С‚СѓС‚. РџРѕС‚СЂС–Р±РЅРѕ РґС–Р·РЅР°С‚РёСЃСЏ, С‰Рѕ С†Рµ Р·Р° РјС–СЃС†Рµ.</text>
-  </string>
-  <string id="bar_after_robbery_talk_with_duty_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р±С–Р№С†СЏРјРё С–Р· Р·Р°РіРѕРЅСѓ В«Р”РѕР»РіР°В»</text>
-  </string>
-  <string id="bar_prison_task_self_go_textbar_prison_task_self_go_text">
-    <text>Р‘Р°СЂРјРµРЅ СЂРѕР·РїРѕРІС–РІ, С‰Рѕ РјРµРЅРµ РІСЂСЏС‚СѓРІР°Р»Рё РґРѕРІРіРѕРІС†С– РІС–Рґ Р±Р°РЅРґРёС‚С–РІ. РџРѕС‚СЂС–Р±РЅРѕ РїРѕРіРѕРІРѕСЂРёС‚Рё Р· РЅРёРјРё С– РґС–Р·РЅР°С‚РёСЃСЏ, С‡Рё РїРѕС‚СЂС–Р±РЅРѕ С—Рј С‰РѕСЃСЊ.</text>
-  </string>
-  <string id="bar_duty_help_present">
-    <text>РќР•Р—Р’РР§РђР™РќР• РџР РћРҐРђРќРќРЇ</text>
-  </string>
-  <string id="bar_duty_help_present_start_name">
-    <text>РЎС…РѕРґРёС‚Рё РґРѕ РљРѕСЂРІР°Р»РѕР»Р° Р·Р° РїРѕРґР°СЂСѓРЅРєРѕРј РґР»СЏ СЃРµСЂР¶Р°РЅС‚Р°</text>
-  </string>
-  <string id="bar_duty_help_present_start_text">
-    <text>РЎРµСЂР¶Р°РЅС‚ Р›СЋР±РµР·РЅРѕРІ РїРѕРїСЂРѕСЃРёРІ РјРµС‚РЅСѓС‚РёСЃСЏ РґРѕ РЎРјС–С‚РЅРёРєР° РґРѕ РЅР°С€РѕРіРѕ СЃРїС–Р»СЊРЅРѕРіРѕ Р·РЅР°Р№РѕРјРѕРіРѕ С– Р·Р°Р±СЂР°С‚Рё Р№РѕРіРѕ РїРѕРґР°СЂСѓРЅРѕРє.</text>
-  </string>
-  <string id="bar_duty_help_present_final_name">
-    <text>Р’С–РґРЅРµСЃС‚Рё СЃРµСЂР¶Р°РЅС‚Сѓ Р¶РµС‚РѕРЅ С– Р°СЂС‚РµС„Р°РєС‚</text>
-  </string>
-  <string id="bar_duty_help_present_final_text">
-    <text>РљРѕСЂРІР°Р»РѕР» РїРµСЂРµРґР°РІ СЃРµСЂР¶Р°РЅС‚Сѓ Р›СЋР±РµР·РЅРѕРІСѓ Р№РѕРіРѕ Р·Р°РіСѓР±Р»РµРЅРёР№ Р¶РµС‚РѕРЅ С– Р°СЂС‚РµС„Р°РєС‚ РЅР° РґРѕРґР°С‡Сѓ. РџРѕС‚СЂС–Р±РЅРѕ РІСЃСЋ С†СЋ СЃРїСЂР°РІСѓ РїРµСЂРµРґР°С‚Рё РґРѕР»РіРѕРІС†СЋ.</text>
-  </string>
-  <string id="bar_stalker_fireball_task">
-    <text>Р“Р Рђ Р— Р’РћР“РќР•Рњ</text>
-  </string>
-  <string id="bar_stalker_fireball_task_kill_polters_name">
-    <text>Р’Р±РёС‚Рё РІРѕРіРЅСЏРЅРёС… РїРѕР»С‚РµСЂРіРµР№СЃС‚С–РІ</text>
-  </string>
-  <string id="bar_stalker_fireball_task_kill_polters_text">
-    <text>Р“РµРЅР° РџРѕР»РёР№, СЃС‚Р°Р»РєРµСЂ Р· Р‘Р°СЂСѓ, СЂРѕР·РїРѕРІС–РІ РїСЂРѕ РІРѕРіРЅСЏРЅРёС… РїРѕР»С‚РµСЂРіРµР№СЃС‚С–РІ, С‰Рѕ СЃРїР°Р»РёР»Рё Р№РѕРіРѕ С‚РѕРІР°СЂРёС€С–РІ Р¶РёРІС†РµРј, С– РїРѕРїСЂРѕСЃРёРІ СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ Р· РЅРёРјРё, СЏРєС‰Рѕ Р±СѓРґСѓ РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ РґРѕСЂРѕРіРё РЅР° Р’С–Р№СЃСЊРєРѕРІС– СЃРєР»Р°РґРё.</text>
-  </string>
-  <string id="bar_stalker_fireball_task_take_reward_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ Р·Р° РІРёРЅР°РіРѕСЂРѕРґРѕСЋ</text>
-  </string>
-  <string id="bar_stalker_fireball_task_take_reward_text">
-    <text>Р’РѕРіРЅСЏРЅС– РїРѕР»С‚РµСЂРіРµР№СЃС‚Рё Р±С–Р»СЊС€Рµ РЅРµ РїРѕС‚СѓСЂР±СѓСЋС‚СЊ РјРµС€РєР°РЅС†С–РІ Р‘Р°СЂР°. РўРµРїРµСЂ РјРѕР¶РЅР° РЅР°РІС–РґР°С‚РёСЃСЏ РґРѕ Р“РµРЅРё РџРѕР»РѕРіРѕ Р·Р° РЅР°РіРѕСЂРѕРґРѕСЋ.</text>
-  </string>
-  <string id="bar_drunk_stalker_task">
-    <text>РЎРҐРћР’РђРќРљРђ Р‘РЈРҐРћР“Рћ</text>
-  </string>
-  <string id="bar_drunk_stalker_task_check_treasure_name">
-    <text>Р”С–СЃС‚Р°С‚РёСЃСЏ РґРѕ СЃС…СЂРѕРЅСѓ</text>
-  </string>
-  <string id="bar_drunk_stalker_task_check_treasure_text">
-    <text>РЎР°РЅСЏ Р“РѕСЂС–Р»С‡Р°РЅРёР№ СЂРѕР·РїРѕРІС–РІ РїСЂРѕ СЃС…РѕРІР°РЅРєСѓ СЃС‚Р°Р»РєРµСЂР° Р‘СѓС…РѕРіРѕ. РЎС…РѕРІР°РЅРєР°, Р·Р° Р№РѕРіРѕ СЃР»РѕРІР°РјРё, РїРѕРІРЅР° РіРѕСЂС–Р»РєРё С‚Р° СЂС–РґРєС–СЃРЅРёС… Р°СЂС‚РµС„Р°РєС‚С–РІ. Р’Р°СЂС‚Рѕ РІРёРїСЂРѕР±СѓРІР°С‚Рё СѓРґР°С‡Сѓ С– РїРµСЂРµРІС–СЂРёС‚Рё РјС–СЃС†Рµ, РїСЂРѕ СЏРєРµ РІС–РЅ РєР°Р·Р°РІ.</text>
-  </string>
-  <string id="bar_drunk_stalker_task_after_robbery_name">
-    <text>Р—'СЏСЃСѓРІР°С‚Рё, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ</text>
-  </string>
-  <string id="bar_bandits_treasure_task">
-    <text>РќРђР“Р РђР‘РћР’РђРќР•</text>
-  </string>
-  <string id="bar_bandits_treasure_task_start_name">
-    <text>Р”С–СЃС‚Р°С‚РёСЃСЏ СЃС…РѕРІР°РЅРєРё Р±Р°РЅРґРёС‚С–РІ</text>
-  </string>
-  <string id="bar_bandits_treasure_task_start_text">
-    <text>РЎРµСЂР¶Р°РЅС‚ Р›СЋР±РµР·РЅРѕРІ РІС–РґРґР°РІ РјРµРЅС– РєР»СЋС‡ РІС–Рґ СЃС…РѕРІР°РЅРєРё Р±Р°РЅРґРёС‚С–РІ РЅР° РЎРјС–С‚РЅРёРєСѓ, СЏРєС– РјРµРЅРµ Р»РµРґРІРµ РЅРµ РґРѕРєР»Р°Р»Рё РїС–Рґ С‡Р°СЃ РїРµСЂС€РѕРіРѕ РІС–РґРІС–РґСѓРІР°РЅРЅСЏ Р‘Р°СЂСѓ. Р”Р»СЏ РјРµРЅРµ С‚Р°Рј РјРѕР¶Рµ РІРёСЏРІРёС‚РёСЃСЏ С‰РѕСЃСЊ РєРѕСЂРёСЃРЅРµ.</text>
-  </string>
-  <string id="bar_bandits_treasure_task_second_name">
-    <text>РћС€СѓРєР°С‚Рё СЃС…РѕРІР°РЅРєСѓ Р±Р°РЅРґРёС‚С–РІ</text>
-  </string>
-  <string id="bar_bandits_treasure_task_second_text">
-    <text>РњРµРЅС– РІРґР°Р»РѕСЃСЏ РїРѕС‚СЂР°РїРёС‚Рё РІ РїСЂРёРјС–С‰РµРЅРЅСЏ Р·С– СЃС…РѕРІР°РЅРєРѕСЋ. РџРѕС‚СЂС–Р±РЅРѕ С‚СѓС‚ РґРѕР±СЂСЏС‡Рµ РІСЃРµ РѕРіР»СЏРЅСѓС‚Рё: РјРѕР¶РЅР° Р·РЅР°Р№С‚Рё С‰РѕСЃСЊ РєРѕСЂРёСЃРЅРµ.</text>
-  </string>
-  <string id="bar_after_robbery_box">
-    <text>РћРЎРћР‘РРЎРўР•</text>
-  </string>
-  <string id="bar_after_robbery_box_start_name">
-    <text>Р—Р°Р±СЂР°С‚Рё СЃРІРѕС— СЂРµС‡С– Р·С– СЃРєСЂРёРЅСЊРєРё</text>
-  </string>
-  <string id="bar_after_robbery_box_start_text">
-    <text>Р‘Р°СЂРјРµРЅ СЃРєР»Р°РІ СѓСЃС– РјРѕС— СЂРµС‡С– РґРѕ СЏС‰РёРєСѓ РІ Р№РѕРіРѕ РєС–РјРЅР°С‚С–, РїРѕС‚СЂС–Р±РЅРѕ С—С… Р·Р°Р±СЂР°С‚Рё.</text>
-  </string>
-  <string id="bar_mystical_dogs_task">
-    <text>РќРђ РџР†Р”РҐРћР”РђРҐ</text>
-  </string>
-  <string id="bar_mystical_dogs_task_start_name">
-    <text>Р’С–РґРіСѓРєРЅСѓС‚РёСЃСЊ РЅР° РґРѕРїРѕРјРѕРіСѓ</text>
-  </string>
-  <string id="bar_mystical_dogs_task_start_text">
-    <text>РЎС‚Р°Р»РєРµСЂРё РЅР° РїС–РґС…РѕРґР°С… РґРѕ Р±Р°СЂСѓ РїСЂРѕСЃСЏС‚СЊ РґРѕРїРѕРјРѕРіС‚Рё. РЇРє РІРѕРЅРё РІР·Р°РіР°Р»С– Р·Р°Р±СЂР°Р»РёСЃСЏ С‚Р°Рє РґР°Р»РµРєРѕ Р·Р° С‚Р°РєРѕРіРѕ СЃРїРѕСЂСЏРґР¶РµРЅРЅСЏ?</text>
-  </string>
-  <string id="bar_mystical_dogs_task_kill_dogs_name">
-    <text>Р РѕР·РѕР±СЂР°С‚РёСЃСЏ Р· РїСЃС–-СЃРѕР±Р°РєР°РјРё</text>
-  </string>
-  <string id="bar_mystical_dogs_task_kill_dogs_text">
-    <text>Р“СЂСѓРїР° СЃС‚Р°Р»РєРµСЂС–РІ РЅРµ РјРѕР¶Рµ РїСЂРѕСЂРІР°С‚РёСЃСЏ РґРѕ Р‘Р°СЂСѓ С‡РµСЂРµР· Р·РіСЂР°СЋ РїСЃС–-СЃРѕР±Р°Рє. РўСЂРµР±Р° СЂРѕР·С‡РёСЃС‚РёС‚Рё РґРѕСЂРѕРіСѓ... РЅР°СЃР°РјРїРµСЂРµРґ, РґР»СЏ СЃРІРѕС”С— Р¶ Р±РµР·РїРµРєРё.</text>
-  </string>
-  <string id="bar_prison_task">
-    <text>Р’РўР•Р§Рђ</text>
-  </string>
-  <string id="bar_prison_task_start_name">
-    <text>Р—РЅР°Р№С‚Рё РІРёС…С–Рґ</text>
-  </string>
-  <string id="bar_prison_task_start_text">
-    <text>РџСЂРёРјСѓРґСЂРёР»РѕСЃСЏ РѕРїРёРЅРёС‚РёСЃСЏ Р·Р° Т‘СЂР°С‚Р°РјРё РІ Р‘Р°СЂС–... РџРѕС‚СЂС–Р±РЅРѕ С‚РµСЂРјС–РЅРѕРІРѕ С€СѓРєР°С‚Рё СЏРєРёР№СЃСЊ С€Р°РЅСЃ РІРёР±СЂР°С‚РёСЃСЏ РЅР° РІРѕР»СЋ.</text>
-  </string>
-  <string id="bar_prison_task_talk_with_koval_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РљРѕРІР°Р»РµРј</text>
-  </string>
-  <string id="bar_prison_task_talk_with_koval_text">
-    <text>РќРµРѕС‡С–РєСѓРІР°РЅР° Р·СѓСЃС‚СЂС–С‡! РњРѕР¶Р»РёРІРѕ, РљРѕРІР°Р»СЊ вЂ” РјС–Р№ РєРІРёС‚РѕРє РЅР° СЃРІРѕР±РѕРґСѓ.</text>
-  </string>
-  <string id="bar_prison_task_follow_koval_name"><text>РЎР»С–РґСѓРІР°С‚Рё Р·Р° РљРѕРІР°Р»РµРј</text>.
+
+	<string id="bar_duty_territory_start_name">
+		<text>Отримати довіру місцевих</text>
 	</string>
-  <string id="bar_prison_task_follow_koval_text">
-    <text>РљРѕРІР°Р»СЊ РїСЂРёР№С€РѕРІ РјРµРЅС– РЅР° РґРѕРїРѕРјРѕРіСѓ РІ СЃРєСЂСѓС‚РЅСѓ С…РІРёР»РёРЅСѓ. РћСЃСЊ Сѓ С‡РѕРјСѓ Р±СѓРІ РїРѕР»РєРѕРІРЅРёРє РїСЂР°РІРёР№ С‰РѕРґРѕ РЅСЊРѕРіРѕ, С‚Р°Рє С†Рµ РїСЂРѕ Р№РѕРіРѕ РґРѕСЃРІС–Рґ Р·РІРёС‡Р°Р№РЅРѕРіРѕ СЃС‚Р°Р»РєРµСЂР°. РЈ РґР°РЅРѕРјСѓ РІРёРїР°РґРєСѓ РІС–РЅ РґСѓР¶Рµ Р·РіРѕРґРёРІСЃСЏ.</text>
-  </string>
-  <string id="bar_prison_task_projectors_off_name">
-    <text>Р’С–РґРєР»СЋС‡РёС‚Рё СЃРІС–С‚Р»Рѕ РЅР° РїСЂРѕРїСѓСЃРєРЅРѕРјСѓ РїСѓРЅРєС‚С– В«Р”РѕР»РіСѓВ»</text>
-  </string>
-  <string id="bar_prison_task_projectors_off_text">
-    <text>Р©РѕР± РЅРµРїРѕРјС–С‚РЅРѕ РїСЂРѕСЃРєРѕС‡РёС‚Рё РїРѕРІР· РїР°С‚СЂСѓР»СЊРЅРёС…, РґРѕРІРµРґРµС‚СЊСЃСЏ РІС–РґСЂСѓР±Р°С‚Рё СЃРІС–С‚Р»Рѕ. Р”РѕСЃРёС‚СЊ РѕРїСѓСЃС‚РёС‚Рё СЂСѓР±С–Р»СЊРЅРёРє Сѓ Р±СѓРґС–РІР»С– РїРѕ СЃСѓСЃС–РґСЃС‚РІСѓ.</text>
-  </string>
-  <string id="bar_prison_task_wait_duty_name">
-    <text>РЎС…РѕРІР°С‚РёСЃСЏ РІС–Рґ РїР°С‚СЂСѓР»С–РІ С– РґРѕС‡РµРєР°С‚РёСЃСЏ Р·СЂСѓС‡РЅРѕРіРѕ РјРѕРјРµРЅС‚Сѓ</text>
-  </string>
-  <string id="bar_prison_task_wait_duty_text">
-    <text>Р’РґР°Р»РѕСЃСЏ РІРёСЂСѓР±РёС‚Рё СЃРІС–С‚Р»Рѕ РЅР° РїСЂРѕРїСѓСЃРєРЅРѕРјСѓ РїСѓРЅРєС‚С–. РўРµРїРµСЂ С‚СЂРµР±Р° РїРѕС‡РµРєР°С‚Рё РјРѕРјРµРЅС‚, РєРѕР»Рё РјРѕР¶РЅР° Р±СѓРґРµ РЅРµРїРѕРјС–С‚РЅРѕ РїСЂРѕСЃРєРѕС‡РёС‚Рё РїРѕРІР· РїР°С‚СЂСѓР»СЊРЅРёС….</text>
-  </string>
-  <string id="bar_prison_task_sprint_to_military_name">
-    <text>Р’С‚РµРєС‚Рё Р· С‚РµСЂРёС‚РѕСЂС–С— В«Р”РѕР»РіР°В»</text>
-  </string>
-  <string id="bar_prison_task_sprint_to_military_text">
-    <text>РќРµ РІРґР°Р»РѕСЃСЏ РїРѕ-С‚РёС…РѕРјСѓ РѕРјРёРЅСѓС‚Рё СЃРѕР»РґР°С‚С–РІ В«Р”РѕР»РіСѓВ». РўРµРїРµСЂ С‚РµСЂРјС–РЅРѕРІРѕ РїРѕС‚СЂС–Р±РЅРѕ РІРёР±РёСЂР°С‚РёСЃСЏ Р·РІС–РґСЃРё С– СЏРєРѕРјРѕРіР° С€РІРёРґС€Рµ.</text>
-  </string>
-  <string id="bar_prison_task_self_go_name">
-    <text>Р’РёР±СЂР°С‚РёСЃСЏ Р· Р‘Р°СЂСѓ СЃР°РјРѕСЃС‚С–Р№РЅРѕ</text>
-  </string>
-  <string id="bar_prison_task_self_go_text">
-    <text>РўРµРїРµСЂ СЃР°РјРѕРјСѓ РґРѕРІРµРґРµС‚СЊСЃСЏ РїСЂРѕР±РёСЂР°С‚РёСЃСЏ С‡РµСЂРµР· СѓСЃСЋ С†СЋ РґСѓРїСѓ.</text>
-  </string>
-  <string id="bar_stalker_fireball_task">
-    <text>Р“Р Рђ Р— Р’РћР“РќР•Рњ</text>
-  </string>
-  <string id="bar_stalker_fireball_task_kill_polters_name">
-    <text>Р’Р±РёС‚Рё РІРѕРіРЅСЏРЅРёС… РїРѕР»С‚РµСЂРіРµР№СЃС‚С–РІ</text>
-  </string>
-  <string id="bar_stalker_fireball_task_kill_polters_text">
-    <text>Р“РµРЅР° РџРѕР»РёР№, СЃС‚Р°Р»РєРµСЂ Р· Р‘Р°СЂСѓ, СЂРѕР·РїРѕРІС–РІ РїСЂРѕ РІРѕРіРЅСЏРЅРёС… РїРѕР»С‚РµСЂРіРµР№СЃС‚С–РІ, С‰Рѕ СЃРїР°Р»РёР»Рё Р№РѕРіРѕ С‚РѕРІР°СЂРёС€С–РІ Р¶РёРІС†РµРј, С– РїРѕРїСЂРѕСЃРёРІ СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ Р· РЅРёРјРё, СЏРєС‰Рѕ Р±СѓРґСѓ РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ РґРѕСЂРѕРіРё РЅР° Р’С–Р№СЃСЊРєРѕРІС– СЃРєР»Р°РґРё.</text>
-  </string>
-  <string id="bar_stalker_fireball_task_take_reward_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ Р·Р° РЅР°РіРѕСЂРѕРґРѕСЋ</text>
-  </string>
-  <string id="bar_stalker_fireball_task_take_reward_text">
-    <text>Р’РѕРіРЅСЏРЅС– РїРѕР»С‚РµСЂРіРµР№СЃС‚Рё Р±С–Р»СЊС€Рµ РЅРµ РїРѕС‚СѓСЂР±СѓСЋС‚СЊ РјРµС€РєР°РЅС†С–РІ Р‘Р°СЂР°. РўРµРїРµСЂ РјРѕР¶РЅР° РЅР°РІС–РґР°С‚РёСЃСЏ РґРѕ Р“РµРЅРё РџРѕР»РѕРіРѕ Р·Р° РЅР°РіРѕСЂРѕРґРѕСЋ.</text>
-  </string>
-  <string id="bar_drunk_stalker_task">
-    <text>РўРђР™РќРРљ Р‘РЈРҐРћР“Рћ</text>
-  </string>
-  <string id="bar_drunk_stalker_task_check_treasure_name">
-    <text>Р”С–СЃС‚Р°С‚РёСЃСЏ РґРѕ СЃС…СЂРѕРЅСѓ</text>
-  </string>
-  <string id="bar_drunk_stalker_task_check_treasure_text">
-    <text>РЎР°РЅСЏ Р“РѕСЂС–Р»С‡Р°РЅРёР№ СЂРѕР·РїРѕРІС–РІ РїСЂРѕ СЃС…РѕРІР°РЅРєСѓ СЃС‚Р°Р»РєРµСЂР° Р‘СѓС…РѕРіРѕ. РЎС…РѕРІР°РЅРєР°, Р·Р° Р№РѕРіРѕ СЃР»РѕРІР°РјРё, РїРѕРІРЅР° РіРѕСЂС–Р»РєРё С‚Р° СЂС–РґРєС–СЃРЅРёС… Р°СЂС‚РµС„Р°РєС‚С–РІ. Р’Р°СЂС‚Рѕ РІРёРїСЂРѕР±СѓРІР°С‚Рё СѓРґР°С‡Сѓ С– РїРµСЂРµРІС–СЂРёС‚Рё РјС–СЃС†Рµ, РїСЂРѕ СЏРєРµ РІС–РЅ РєР°Р·Р°РІ.</text>
-  </string>
-  <string id="bar_drunk_stalker_task_after_robbery_name">
-    <text>Р—'СЏСЃСѓРІР°С‚Рё, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ</text>
-  </string>
-  <string id="bar_drunk_stalker_task_after_robbery_text">
-    <text>РЎС…РѕР¶Рµ, СЏ РїРѕС‚СЂР°РїРёРІ Сѓ РїР°СЃС‚РєСѓ РґР»СЏ Р»РѕС…С–РІ... РЇРє Р¶Рµ РїСЂРѕСЃС‚Рѕ РјРµРЅРµ РѕР±С‡РёСЃС‚РёР»Рё! Рђ С‚СѓС‚ С– РЎР°РЅСЏ Р“РѕСЂС–Р»С‡Р°РЅРёР№ РЅР°РјР°Р»СЋРІР°РІСЃСЏ. РџРѕС‚СЂС–Р±РЅРѕ РїРѕСЃС‚Р°РІРёС‚Рё Р№РѕРјСѓ РєС–Р»СЊРєР° Р·Р°РїРёС‚Р°РЅСЊ.</text>
-  </string>
-  <string id="bar_drunk_stalker_task_final_name">
-    <text>Р’РёСЂС–С€РёС‚Рё РґРѕР»СЋ РЎР°РЅС– Р“РѕСЂС–Р»С‡Р°РЅРѕРіРѕ</text>
-  </string>
-  <string id="bar_drunk_stalker_task_final_text">
-    <text>РЎР°РЅСЏ Р“РѕСЂС–Р»С‡Р°РЅРёР№ РїС–РґСЃС‚Р°РІРёРІ РјРµРЅРµ, Р·Р°РјР°РЅРёРІС€Рё РІ РїР°СЃС‚РєСѓ, Р° Р·Р°СЂР°Р· РєРѕСЂС‡РёС‚СЊСЃСЏ РІС–Рґ Р±РѕР»СЋ С– РїСЂРѕСЃРёС‚СЊ РґРѕРїРѕРјРѕРіРё. Р”Р°С‚Рё Р№РѕРјСѓ Р°РїС‚РµС‡РєСѓ С‡Рё Р·Р°Р»РёС€РёС‚Рё РІРёСЂРѕРґРєР° РЅР° РїРѕС‚Р°Р»Сѓ С‰СѓСЂР°Рј?</text>
-  </string>
-  <string id="bar_stalker_google_chrome_task">
-    <text>Р“Р•Р РћР™ РђР‘Рћ РџРђР›РђР§?</text>
-  </string>
-  <string id="bar_stalker_google_chrome_task_start_name">
-    <text>Р—РЅР°Р№С‚Рё Р“СѓСЃСЏ</text>
-  </string>
-  <string id="bar_stalker_google_chrome_task_start_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ Р·РЅР°Р№С‚Рё Р“СѓСЃСЏ С– РІС–РґРјРѕРІРёС‚Рё Р№РѕРіРѕ Р±СЂР°С‚Рё СѓС‡Р°СЃС‚СЊ Сѓ Р±РѕСЏС… РЅР° Р°СЂРµРЅС–. РњР°С” Р±СѓС‚Рё РґР»СЏ РЅСЊРѕРіРѕ С–РЅС€РёР№ РІРёС…С–Рґ. Р†РјРѕРІС–СЂРЅРѕ, Р‘Р°СЂРјРµРЅ С‰РѕСЃСЊ РїСЂРѕ РЅСЊРѕРіРѕ Р·РЅР°С”.</text>
-  </string>
-  <string id="bar_stalker_google_chrome_snake_info_name"><text>Р”РѕРІС–РґР°С‚РёСЃСЏ Сѓ РҐСЂРѕРјР° РїСЂРѕ РљРѕР±СЂСѓ</text>.
+
+	<string id="bar_duty_territory_start_text">
+		<text>Для пропуску до безпосереднього керівництва «Долгу», до його торговця і техніка потрібно постаратися заслужити довіру місцевих. Тоді там можна буде розжитися якоюсь роботою і спорядженням. Сержант Плічко для початку порадив попрацювати на Бармена.</text>
 	</string>
-  <string id="bar_stalker_google_chrome_snake_info_text">
-    <text>РџР»СЋРІР°С‚Рё РЅР° С‚Рµ, С‰Рѕ СЂРѕР·РїРѕРІС–РІ РҐСЂРѕРј РїСЂРѕ С†СЊРѕРіРѕ РљРѕР±СЂСѓ. РџРѕС‚СЂС–Р±РЅРѕ С‰РѕСЃСЊ СЂРѕР±РёС‚Рё Р· С†РёРј РїРѕРєРёРґСЊРєРѕРј! РЎРїРµСЂС€Сѓ РґС–Р·РЅР°СЋСЃСЏ, РґРµ Р№РѕРіРѕ Р·РЅР°Р№С‚Рё.</text>
-  </string>
-  <string id="bar_stalker_google_chrome_talk_snake_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РљРѕР±СЂРѕСЋ</text>
-  </string>
-  <string id="bar_stalker_google_chrome_talk_snake_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ РґРѕРјРѕРІРёС‚РёСЃСЏ Р· РљРѕР±СЂРѕСЋ, Р·Р±РµСЂС–РіР°СЋС‡Рё РїСЂРё С†СЊРѕРјСѓ РѕР±РµСЂРµР¶РЅС–СЃС‚СЊ. РќР°РІСЂСЏРґ С‡Рё С†Рµ Р±СѓРґРµ С‚Р°Рє РїСЂРѕСЃС‚Рѕ.</text>
-  </string>
-  <string id="bar_stalker_google_chrome_follow_name">
-    <text>РЎР»С–РґСѓРІР°С‚Рё Р·Р° РҐСЂРѕРјРѕРј</text>
-  </string>
-  <string id="bar_stalker_google_chrome_follow_text">
-    <text>РҐСЂРѕРј Р¶Р°РґР°С” РїРѕРєС–РЅС‡РёС‚Рё Р· РљРѕР±СЂРѕСЋ. РђР»Рµ С‰РѕСЃСЊ Сѓ Р№РѕРіРѕ СЃР»РѕРІР°С… РЅРµ СЃС…РѕРґРёС‚СЊСЃСЏ. РЇРєРёР№ Сѓ РҐСЂРѕРјР° РјРѕР¶Рµ Р±СѓС‚Рё РјРѕС‚РёРІ? РџРѕРєРё С‰Рѕ РїРѕС‚СЂС–Р±РЅРѕ Р№С‚Рё Р·Р° РЅРёРј, Р° РґР°Р»С– РїРѕР±Р°С‡РёРјРѕ.</text>
-  </string>
-  <string id="bar_stalker_google_chrome_arena_talk_name"><text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РђСЂРЅС–</text>.
+
+	<string id="bar_duty_territory_final_name">
+		<text>Поговорити з сержантом Плічко</text>.
 	</string>
-  <string id="bar_stalker_google_chrome_arena_talk_text">
-    <text>Р§РµСЂРµР· С‚Рµ, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ, СЏ Р·Р°Р±СѓРІ РїСЂРѕ Р“СѓСЃР°РєР° С– Р№РѕРіРѕ РІРёСЃС‚СѓРї РЅР° РђСЂРµРЅС–. РџРѕС‚СЂС–Р±РЅРѕ РґС–Р·РЅР°С‚РёСЃСЏ, С‰Рѕ Р· РЅРёРј С– С‡Рё Р¶РёРІРёР№ РІС–РЅ.</text>
-  </string>
-  <string id="bar_stalker_google_chrome_read_note_name">
-    <text>РџСЂРѕС‡РёС‚Р°С‚Рё Р·Р°РїРёСЃРєСѓ Р“СѓСЃР°РєР°</text>
-  </string>
-  <string id="bar_stalker_google_chrome_read_note_text"><text> Р“СѓСЃР°Рє РїРµСЂРµРґ СЃРјРµСЂС‚СЋ Р·Р°Р»РёС€РёРІ РјРµРЅС– Р·Р°РїРёСЃРєСѓ. Р’Р°СЂС‚Рѕ С—С— РїСЂРѕС‡РёС‚Р°С‚Рё, С‰РѕР± РґС–Р·РЅР°С‚РёСЃСЏ Р±СѓРґСЊ-СЏРєС– РїРѕРґСЂРѕР±РёС†С–.</text>.
+
+	<string id="bar_duty_territory_final_text">
+		<text>Думаю, я досить непогано освоївся в Барі, і сержант Плічко тепер зможе пропустити мене на територію «Долгу». Можливо, там буде ще якась робота.</text>
 	</string>
-  <string id="bar_stalker_google_chrome_talk_after_read_name"><text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РҐСЂРѕРјРѕРј</text>.
+
+	<string id="bar_stalker_asshole_task">
+		<text>БАНДИТСЬКІ КОЗНІ</text>
 	</string>
-  <string id="bar_stalker_google_chrome_talk_after_read_text">
-    <text>Р’РёС…РѕРґРёС‚СЊ, С‰Рѕ РҐСЂРѕРј РјРµРЅРµ РѕР±РґСѓСЂРёРІ. РњР°Р№Р¶Рµ РІСЃРµ, С‰Рѕ РІС–РЅ СЂРѕР·РїРѕРІС–РІ РїСЂРѕ РљРѕР±СЂСѓ, Р±СѓР»Рѕ Р±СЂРµС…РЅРµСЋ. РђР»Рµ РґР»СЏ С‡РѕРіРѕ РІС–РЅ С†Рµ Р·СЂРѕР±РёРІ? РџРѕС‚СЂС–Р±РЅРѕ Р·'СЏСЃСѓРІР°С‚Рё С†Рµ РІ РЅСЊРѕРіРѕ.</text>
-  </string>
-  <string id="bar_stalker_google_chrome_take_items_name">
-    <text>Р—Р°Р±СЂР°С‚Рё СЃРІРѕС” СЃРїРѕСЂСЏРґР¶РµРЅРЅСЏ РІ РїСЂРёС‚СѓР»РѕРє РљРѕР±СЂРё</text>
-  </string>
-  <string id="bar_stalker_google_chrome_take_items_text">
-    <text>РЈСЃРµ РІРёР№С€Р»Рѕ РЅРµ С‚Р°Рє РїРѕРіР°РЅРѕ, С…РѕС‡Р° РјРµРЅС– РґРѕРІРµР»РѕСЃСЏ РїРѕС…РІРёР»СЋРІР°С‚РёСЃСЏ. РўРµ, С‰Рѕ СЃРєР°Р·Р°РІ РҐСЂРѕРј, СЃС…РѕР¶Рµ РЅР° РїСЂР°РІРґСѓ. РўС–Р»СЊРєРё РЅРµ РІС–СЂСЋ СЏ Р№РѕРјСѓ РґРѕ РєС–РЅС†СЏ. Р©РѕСЃСЊ РІС–РЅ СѓРїСѓСЃС‚РёРІ. РЇРє РІС–РЅ СЃР°Рј С– СЃРєР°Р·Р°РІ, РїРѕС‚СЂС–Р±РЅРѕ РїРѕРјРµРЅС€Рµ РґРѕРІС–СЂСЏС‚Рё РЅРµР·РЅР°Р№РѕРјС†СЏРј. РўРµРїРµСЂ РЅРµРѕР±С…С–РґРЅРѕ Р·Р°Р±СЂР°С‚Рё СЃРІРѕС” СЃРїРѕСЂСЏРґР¶РµРЅРЅСЏ С– СЂСѓС€РёС‚Рё Р·Р° РљРѕР±СЂРѕСЋ.</text>
-  </string>
-  <string id="bar_stalker_google_chrome_to_garbage_name">
-    <text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ Р· РҐСЂРѕРјРѕРј</text>
-  </string>
-  <string id="bar_stalker_google_chrome_to_garbage_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ Р·СѓСЃС‚СЂС–С‚РёСЃСЏ Р· РҐСЂРѕРјРѕРј Р·Р° РїС–РІРґРµРЅРЅРёРј Р±Р»РѕРєРїРѕСЃС‚РѕРј Р‘Р°СЂР°. Р§Рё С‚РѕС‡РЅРѕ РљРѕР±СЂР° Р·Р°СЃР»СѓРіРѕРІСѓС” РЅР° СЃРјРµСЂС‚СЊ? Р—Р°СЂР°Р· РЅС– РІ С‡РѕРјСѓ РЅРµ РјРѕР¶РЅР° Р±СѓС‚Рё РЅР° СЃС‚Рѕ РІС–РґСЃРѕС‚РєС–РІ СѓРїРµРІРЅРµРЅРёРј.</text>
-  </string>
-  <string id="bar_stalker_google_chrome_attack_name">
-    <text>Р’Р±РёС‚Рё СЃС‚Р°Р»РєРµСЂС–РІ С– СЃРїСЂРѕР±СѓРІР°С‚Рё РїРѕРіРѕРІРѕСЂРёС‚Рё Р· РљРѕР±СЂРѕСЋ</text>
-  </string>
-  <string id="bar_stalker_google_chrome_attack_text"><text>РџСЂРёСЃРїС–С€РЅРёРєРё РљРѕР±СЂРё РјРµРЅРµ РЅРµ С†С–РєР°РІР»СЏС‚СЊ, Р° РѕС‚ СЃР°Рј РљРѕР±СЂР°... Р¦С–РєР°РІРѕ РґС–Р·РЅР°С‚РёСЃСЏ Р№РѕРіРѕ С‚РѕС‡РєСѓ Р·РѕСЂСѓ РІ Р№РѕРіРѕ РєРѕРЅС„Р»С–РєС‚С– Р· РҐСЂРѕРјРѕРј.</text>.
+
+	<string id="bar_stalker_asshole_task_start_name">
+		<text>Відправитися на зустріч зі сталкерами</text>
 	</string>
-  <string id="bar_stalker_google_chrome_final_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РҐСЂРѕРјРѕРј</text>
-  </string>
-  <string id="bar_stalker_google_chrome_final_text">
-    <text> РЎС…РѕР¶Рµ, РІСЃРµ Р·Р°РєС–РЅС‡РёР»РѕСЃСЏ. Р§Р°СЃ РїРѕРіРѕРІРѕСЂРёС‚Рё Р· РҐСЂРѕРјРѕРј.</text>
-  </string>
+
+	<string id="bar_stalker_asshole_task_start_text">
+		<text>Один сталкер з Бару попросив допомогти витягнути його друзів, які потрапили в полон до бандитів на Звалищі. Потрібно зустрітися зі ще парою сталкерів, щоб організувати напад.</text>
+	</string>
+
+	<string id="bar_after_robbery">
+		<text>ПІСЛЯ ВІДКЛЮЧКИ</text>
+	</string>
+
+	<string id="bar_after_robbery_start_name">
+		<text>Дізнатися, що сталося</text>
+	</string>
+
+	<string id="bar_after_robbery_start_text">
+		<text>Неясно пам'ятаю, як у мене стріляли. Потім я опинився тут. Потрібно дізнатися, що це за місце.</text>
+	</string>
+
+	<string id="bar_after_robbery_talk_with_duty_name">
+		<text>Поговорити з бійцями із загону «Долга»</text>
+	</string>
+
+	<string id="bar_prison_task_self_go_textbar_prison_task_self_go_text">
+		<text>Бармен розповів, що мене врятували довговці від бандитів. Потрібно поговорити з ними і дізнатися, чи потрібно їм щось.</text>
+	</string>
+
+	<string id="bar_duty_help_present">
+		<text>НЕЗВИЧАЙНЕ ПРОХАННЯ</text>
+	</string>
+
+	<string id="bar_duty_help_present_start_name">
+		<text>Сходити до Корвалола за подарунком для сержанта</text>
+	</string>
+
+	<string id="bar_duty_help_present_start_text">
+		<text>Сержант Любезнов попросив метнутися до Смітника до нашого спільного знайомого і забрати його подарунок.</text>
+	</string>
+
+	<string id="bar_duty_help_present_final_name">
+		<text>Віднести сержанту жетон і артефакт</text>
+	</string>
+
+	<string id="bar_duty_help_present_final_text">
+		<text>Корвалол передав сержанту Любезнову його загублений жетон і артефакт на додачу. Потрібно всю цю справу передати долговцю.</text>
+	</string>
+
+	<string id="bar_stalker_fireball_task">
+		<text>ГРА З ВОГНЕМ</text>
+	</string>
+
+	<string id="bar_stalker_fireball_task_kill_polters_name">
+		<text>Вбити вогняних полтергейстів</text>
+	</string>
+
+	<string id="bar_stalker_fireball_task_kill_polters_text">
+		<text>Гена Полий, сталкер з Бару, розповів про вогняних полтергейстів, що спалили його товаришів живцем, і попросив розібратися з ними, якщо буду неподалік від дороги на Військові склади.</text>
+	</string>
+
+	<string id="bar_stalker_fireball_task_take_reward_name">
+		<text>Повернутися за винагородою</text>
+	</string>
+
+	<string id="bar_stalker_fireball_task_take_reward_text">
+		<text>Вогняні полтергейсти більше не потурбують мешканців Бара. Тепер можна навідатися до Гени Полого за нагородою.</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task">
+		<text>СХОВАНКА БУХОГО</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task_check_treasure_name">
+		<text>Дістатися до схрону</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task_check_treasure_text">
+		<text>Саня Горілчаний розповів про схованку сталкера Бухого. Схованка, за його словами, повна горілки та рідкісних артефактів. Варто випробувати удачу і перевірити місце, про яке він казав.</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task_after_robbery_name">
+		<text>З'ясувати, що сталося</text>
+	</string>
+
+	<string id="bar_bandits_treasure_task">
+		<text>НАГРАБОВАНЕ</text>
+	</string>
+
+	<string id="bar_bandits_treasure_task_start_name">
+		<text>Дістатися схованки бандитів</text>
+	</string>
+
+	<string id="bar_bandits_treasure_task_start_text">
+		<text>Сержант Любезнов віддав мені ключ від схованки бандитів на Смітнику, які мене ледве не доклали під час першого відвідування Бару. Для мене там може виявитися щось корисне.</text>
+	</string>
+
+	<string id="bar_bandits_treasure_task_second_name">
+		<text>Ошукати схованку бандитів</text>
+	</string>
+
+	<string id="bar_bandits_treasure_task_second_text">
+		<text>Мені вдалося потрапити в приміщення зі схованкою. Потрібно тут добряче все оглянути: можна знайти щось корисне.</text>
+	</string>
+
+	<string id="bar_after_robbery_box">
+		<text>ОСОБИСТЕ</text>
+	</string>
+
+	<string id="bar_after_robbery_box_start_name">
+		<text>Забрати свої речі зі скриньки</text>
+	</string>
+
+	<string id="bar_after_robbery_box_start_text">
+		<text>Бармен склав усі мої речі до ящику в його кімнаті, потрібно їх забрати.</text>
+	</string>
+
+	<string id="bar_mystical_dogs_task">
+		<text>НА ПІДХОДАХ</text>
+	</string>
+
+	<string id="bar_mystical_dogs_task_start_name">
+		<text>Відгукнутись на допомогу</text>
+	</string>
+
+	<string id="bar_mystical_dogs_task_start_text">
+		<text>Сталкери на підходах до бару просять допомогти. Як вони взагалі забралися так далеко за такого спорядження?</text>
+	</string>
+
+	<string id="bar_mystical_dogs_task_kill_dogs_name">
+		<text>Розобратися з псі-собаками</text>
+	</string>
+
+	<string id="bar_mystical_dogs_task_kill_dogs_text">
+		<text>Група сталкерів не може прорватися до Бару через зграю псі-собак. Треба розчистити дорогу... насамперед, для своєї ж безпеки.</text>
+	</string>
+
+	<string id="bar_prison_task">
+		<text>ВТЕЧА</text>
+	</string>
+
+	<string id="bar_prison_task_start_name">
+		<text>Знайти вихід</text>
+	</string>
+
+	<string id="bar_prison_task_start_text">
+		<text>Примудрилося опинитися за ґратами в Барі... Потрібно терміново шукати якийсь шанс вибратися на волю.</text>
+	</string>
+
+	<string id="bar_prison_task_talk_with_koval_name">
+		<text>Поговорити з Ковалем</text>
+	</string>
+
+	<string id="bar_prison_task_talk_with_koval_text">
+		<text>Неочікувана зустріч! Можливо, Коваль - мій квиток на свободу.</text>
+	</string>
+
+	<string id="bar_prison_task_follow_koval_name">
+		<text>Слідувати за Ковалем</text>.
+	</string>
+
+	<string id="bar_prison_task_follow_koval_text">
+		<text>Коваль прийшов мені на допомогу в скрутну хвилину. Ось у чому був полковник правий щодо нього, так це про його досвід звичайного сталкера. У даному випадку він дуже згодився.</text>
+	</string>
+
+	<string id="bar_prison_task_projectors_off_name">
+		<text>Відключити світло на пропускному пункті «Долгу»</text>
+	</string>
+
+	<string id="bar_prison_task_projectors_off_text">
+		<text>Щоб непомітно проскочити повз патрульних, доведеться відрубати світло. Досить опустити рубільник у будівлі по сусідству.</text>
+	</string>
+
+	<string id="bar_prison_task_wait_duty_name">
+		<text>Сховатися від патрулів і дочекатися зручного моменту</text>
+	</string>
+
+	<string id="bar_prison_task_wait_duty_text">
+		<text>Вдалося вирубити світло на пропускному пункті. Тепер треба почекати момент, коли можна буде непомітно проскочити повз патрульних.</text>
+	</string>
+
+	<string id="bar_prison_task_sprint_to_military_name">
+		<text>Втекти з території «Долга»</text>
+	</string>
+
+	<string id="bar_prison_task_sprint_to_military_text">
+		<text>Не вдалося по-тихому оминути солдатів «Долгу». Тепер терміново потрібно вибиратися звідси і якомога швидше.</text>
+	</string>
+		
+	<string id="bar_prison_task_self_go_name">
+		<text>Вибратися з Бару самостійно</text>
+	</string>
+
+	<string id="bar_prison_task_self_go_text">
+		<text>Тепер самому доведеться пробиратися через усю цю дупу.</text>
+	</string>
+
+	<string id="bar_stalker_fireball_task">
+		<text>ГРА З ВОГНЕМ</text>
+	</string>
+
+	<string id="bar_stalker_fireball_task_kill_polters_name">
+		<text>Вбити вогняних полтергейстів</text>
+	</string>
+
+	<string id="bar_stalker_fireball_task_kill_polters_text">
+		<text>Гена Полий, сталкер з Бару, розповів про вогняних полтергейстів, що спалили його товаришів живцем, і попросив розібратися з ними, якщо буду неподалік від дороги на Військові склади.</text>
+	</string>
+
+	<string id="bar_stalker_fireball_task_take_reward_name">
+		<text>Повернутися за нагородою</text>
+	</string>
+
+	<string id="bar_stalker_fireball_task_take_reward_text">
+		<text>Вогняні полтергейсти більше не потурбують мешканців Бара. Тепер можна навідатися до Гени Полого за нагородою.</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task">
+		<text>ТАЙНИК БУХОГО</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task_check_treasure_name">
+		<text>Дістатися до схрону</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task_check_treasure_text">
+		<text>Саня Горілчаний розповів про схованку сталкера Бухого. Схованка, за його словами, повна горілки та рідкісних артефактів. Варто випробувати удачу і перевірити місце, про яке він казав.</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task_after_robbery_name">
+		<text>З'ясувати, що сталося</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task_after_robbery_text">
+		<text>Схоже, я потрапив у пастку для лохів... Як же просто мене обчистили! А тут і Саня Горілчаний намалювався. Потрібно поставити йому кілька запитань.</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task_final_name">
+		<text>Вирішити долю Сані Горілчаного</text>
+	</string>
+
+	<string id="bar_drunk_stalker_task_final_text">
+		<text>Саня Горілчаний підставив мене, заманивши в пастку, а зараз корчиться від болю і просить допомоги. Дати йому аптечку чи залишити виродка на поталу щурам?</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_task">
+		<text>ГЕРОЙ АБО ПАЛАЧ?</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_task_start_name">
+		<text>Знайти Гуся</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_task_start_text">
+		<text>Потрібно знайти Гуся і відмовити його брати участь у боях на арені. Має бути для нього інший вихід. Імовірно, Бармен щось про нього знає.</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_snake_info_name">
+		<text>Довідатися у Хрома про Кобру</text>.
+	</string>
+
+	<string id="bar_stalker_google_chrome_snake_info_text">
+		<text>Плювати на те, що розповів Хром про цього Кобру. Потрібно щось робити з цим покидьком! Спершу дізнаюся, де його знайти.</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_talk_snake_name">
+		<text>Поговорити з Коброю</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_talk_snake_text">
+		<text>Потрібно домовитися з Коброю, зберігаючи при цьому обережність. Навряд чи це буде так просто.</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_follow_name">
+		<text>Слідувати за Хромом</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_follow_text">
+		<text>Хром жадає покінчити з Коброю. Але щось у його словах не сходиться. Який у Хрома може бути мотив? Поки що потрібно йти за ним, а далі побачимо.</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_arena_talk_name">
+		<text>Поговорити з Арні</text>.
+	</string>
+
+	<string id="bar_stalker_google_chrome_arena_talk_text">
+		<text>Через те, що сталося, я забув про Гусака і його виступ на Арені. Потрібно дізнатися, що з ним і чи живий він.</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_read_note_name">
+		<text>Прочитати записку Гусака</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_read_note_text">
+		<text> Гусак перед смертю залишив мені записку. Варто її прочитати, щоб дізнатися будь-які подробиці.</text>.
+	</string>
+
+	<string id="bar_stalker_google_chrome_talk_after_read_name">
+		<text>Поговорити з Хромом</text>.
+	</string>
+
+	<string id="bar_stalker_google_chrome_talk_after_read_text">
+		<text>Виходить, що Хром мене обдурив. Майже все, що він розповів про Кобру, було брехнею. Але для чого він це зробив? Потрібно з'ясувати це в нього.</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_take_items_name">
+		<text>Забрати своє спорядження в притулок Кобри</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_take_items_text">
+		<text>Усе вийшло не так погано, хоча мені довелося похвилюватися. Те, що сказав Хром, схоже на правду. Тільки не вірю я йому до кінця. Щось він упустив. Як він сам і сказав, потрібно поменше довіряти незнайомцям. Тепер необхідно забрати своє спорядження і рушити за Коброю.</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_to_garbage_name">
+		<text>Зустрітися з Хромом</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_to_garbage_text">
+		<text>Потрібно зустрітися з Хромом за південним блокпостом Бара. Чи точно Кобра заслуговує на смерть? Зараз ні в чому не можна бути на сто відсотків упевненим.</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_attack_name">
+		<text>Вбити сталкерів і спробувати поговорити з Коброю</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_attack_text">
+		<text>Приспішники Кобри мене не цікавлять, а от сам Кобра... Цікаво дізнатися його точку зору в його конфлікті з Хромом.</text>.
+	</string>
+
+	<string id="bar_stalker_google_chrome_final_name">
+		<text>Поговорити з Хромом</text>
+	</string>
+
+	<string id="bar_stalker_google_chrome_final_text">
+		<text> Схоже, все закінчилося. Час поговорити з Хромом.</text>
+	</string>
+
 </string_table>

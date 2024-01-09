@@ -1,444 +1,444 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_tab_tasks">
-    <text>Р—РђР”РђРќРРЇ</text>
-  </string>
-  <string id="st_tab_map">
-    <text>РљРђР РўРђ</text>
-  </string>
-  <string id="st_tab_inventory">
-    <text>РРќР’Р•РќРўРђР Р¬</text>
-  </string>
-  <string id="st_tab_notes">
-    <text>Р—РђРњР•РўРљР</text>
-  </string>
-  <string id="st_tab_encyclopedia">
-    <text>РџРЈРўР•Р’РћР”РРўР•Р›Р¬</text>
-  </string>
-  <string id="st_tab_history">
-    <text>РРЎРўРћР РРЇ</text>
-  </string>
-  <string id="Time">
-    <text>Р’СЂРµРјСЏ</text>
-  </string>
-  <string id="actor">
-    <text>Р’РѕР»СЊРЅС‹Р№ СЃС‚Р°Р»РєРµСЂ</text>
-  </string>
-  <string id="army">
-    <text>Р’РѕРµРЅРЅС‹Р№</text>
-  </string>
-  <string id="bandit">
-    <text>Р‘Р°РЅРґРёС‚</text>
-  </string>
-  <string id="trader">
-    <text>РўРѕСЂРіРѕРІРµС†</text>
-  </string>
-  <string id="dolg">
-    <text>В«Р”РѕР»РіВ»</text>
-  </string>
-  <string id="ecolog">
-    <text>РЈС‡С‘РЅС‹Р№</text>
-  </string>
-  <string id="hunter">
-    <text>РћС…РѕС‚РЅРёРє</text>
-  </string>
-  <string id="unknown">
-    <text>РќРµРёР·РІРµСЃС‚РЅРѕ</text>
-  </string>
-  <string id="filter_secondary_tasks_text">
-    <text>РџРѕРїСѓС‚РЅС‹Рµ Р·Р°РґР°РЅРёСЏ</text>
-  </string>
-  <string id="filter_treasures_text">
-    <text>РўР°Р№РЅРёРєРё</text>
-  </string>
-  <string id="freedom">
-    <text>В«РЎРІРѕР±РѕРґР°В»</text>
-  </string>
-  <string id="killer">
-    <text>РќР°С‘РјРЅРёРє</text>
-  </string>
-  <string id="missions_list">
-    <text>РЎРїРёСЃРѕРє Р·Р°РґР°РЅРёР№</text>
-  </string>
-  <string id="monolith">
-    <text>В«РњРѕРЅРѕР»РёС‚В»</text>
-  </string>
-  <string id="monster">
-    <text>РњСѓС‚Р°РЅС‚</text>
-  </string>
-  <string id="month_april">
-    <text>РђРїСЂРµР»СЊ</text>
-  </string>
-  <string id="month_august">
-    <text>РђРІРіСѓСЃС‚</text>
-  </string>
-  <string id="month_december">
-    <text>Р”РµРєР°Р±СЂСЊ</text>
-  </string>
-  <string id="month_february">
-    <text>Р¤РµРІСЂР°Р»СЊ</text>
-  </string>
-  <string id="month_january">
-    <text>РЇРЅРІР°СЂСЊ</text>
-  </string>
-  <string id="month_july">
-    <text>РСЋР»СЊ</text>
-  </string>
-  <string id="month_june">
-    <text>РСЋРЅСЊ</text>
-  </string>
-  <string id="month_march">
-    <text>РњР°СЂС‚</text>
-  </string>
-  <string id="month_may">
-    <text>РњР°Р№</text>
-  </string>
-  <string id="month_november">
-    <text>РќРѕСЏР±СЂСЊ</text>
-  </string>
-  <string id="month_october">
-    <text>РћРєС‚СЏР±СЂСЊ</text>
-  </string>
-  <string id="month_september">
-    <text>РЎРµРЅС‚СЏР±СЂСЊ</text>
-  </string>
-  <string id="pda_btn_close">
-    <text>Р’С‹РєР»СЋС‡РёС‚СЊ РљРџРљ</text>
-  </string>
-  <string id="pda_btn_logs">
-    <text>РСЃС‚РѕСЂРёСЏ СЃРѕРѕР±С‰РµРЅРёР№</text>
-  </string>
-  <string id="pda_btn_logs_hint">
-    <text>РџРѕРєР°Р·Р°С‚СЊ РёСЃС‚РѕСЂРёСЋ СЃРѕРѕР±С‰РµРЅРёР№</text>
-  </string>
-  <string id="pda_btn_quests">
-    <text>РљР°СЂС‚Р° РјРµСЃС‚РЅРѕСЃС‚Рё</text>
-  </string>
-  <string id="pda_btn_quests_hint">
-    <text>РџРѕРєР°Р·Р°С‚СЊ РєР°СЂС‚Сѓ Р—РѕРЅС‹ Рё СЃРїРёСЃРѕРє Р·Р°РґР°РЅРёР№</text>
-  </string>
-  <string id="pda_btn_ranking">
-    <text>РЎС‚Р°С‚РёСЃС‚РёРєР°</text>
-  </string>
-  <string id="pda_btn_ranking_hint">
-    <text>РџРѕРєР°Р·Р°С‚СЊ Р»РёС‡РЅСѓСЋ СЃС‚Р°С‚РёСЃС‚РёРєСѓ</text>
-  </string>
-  <string id="pda_cur_time">
-    <text>РўРµРєСѓС‰РµРµ РІСЂРµРјСЏ:</text>
-  </string>
-  <string id="pda_date_filter">
-    <text>Р¤РёР»СЊС‚СЂ РґР°С‚С‹</text>
-  </string>
-  <string id="pda_filter_news">
-    <text>РџРѕРєР°Р·Р°С‚СЊ РЅРѕРІРѕСЃС‚Рё</text>
-  </string>
-  <string id="pda_filter_talk">
-    <text>РџРѕРєР°Р·Р°С‚СЊ РґРёР°Р»РѕРіРё</text>
-  </string>
-  <string id="pda_legend_caption">
-    <text>РЈСЃР»РѕРІРЅС‹Рµ РѕР±РѕР·РЅР°С‡РµРЅРёСЏ</text>
-  </string>
-  <string id="pda_stat_1">
-    <text>Р’СЂРµРјСЏ РІ Р·РѕРЅРµ:</text>
-  </string>
-  <string id="pda_stat_2">
-    <text>РџРµСЂРµР¶РёС‚Рѕ РІС‹Р±СЂРѕСЃРѕРІ:</text>
-  </string>
-  <string id="pda_stat_3">
-    <text>Р’С‹РїРѕР»РЅРµРЅРѕ Р·Р°РґР°РЅРёР№:</text>
-  </string>
-  <string id="pda_stat_4">
-    <text>РЈР±РёС‚Рѕ РјСѓС‚Р°РЅС‚РѕРІ:</text>
-  </string>
-  <string id="pda_stat_5">
-    <text>РЈР±РёС‚Рѕ СЃС‚Р°Р»РєРµСЂРѕРІ:</text>
-  </string>
-  <string id="pda_stat_6">
-    <text>РќР°Р№РґРµРЅРѕ Р°СЂС‚РµС„Р°РєС‚РѕРІ:</text>
-  </string>
-  <string id="pda_stat_7">
-    <text>РќР°Р№РґРµРЅРѕ С‚Р°Р№РЅРёРєРѕРІ:</text>
-  </string>
-  <string id="pda_stat_favorite_weapon">
-    <text>Р›СЋР±РёРјРѕРµ РѕСЂСѓР¶РёРµ</text>
-  </string>
-  <string id="pda_stat_mutant_killed">
-    <text>РЎР°РјС‹Р№ СЃРёР»СЊРЅС‹Р№ СѓР±РёС‚С‹Р№ РјСѓС‚Р°РЅС‚</text>
-  </string>
-  <string id="st_location">
-    <text>РњРµСЃС‚РѕРЅР°С…РѕР¶РґРµРЅРёРµ:</text>
-  </string>
-  <string id="st_target">
-    <text>Р¦РµР»СЊ</text>
-  </string>
-  <string id="st_ui_pda_legend_additional_task">
-    <text>РџРѕР±РѕС‡РЅРѕРµ Р·Р°РґР°РЅРёРµ</text>
-  </string>
-  <string id="st_ui_pda_legend_enemies">
-    <text>Р’СЂР°РіРё</text>
-  </string>
-  <string id="st_ui_pda_legend_friends">
-    <text>Р”СЂСѓР·СЊСЏ</text>
-  </string>
-  <string id="st_ui_pda_legend_leader">
-    <text>Р›РёРґРµСЂ РіСЂСѓРїРїРёСЂРѕРІРєРё</text>
-  </string>
-  <string id="st_ui_pda_legend_main_task">
-    <text>РћСЃРЅРѕРІРЅРѕРµ Р·Р°РґР°РЅРёРµ</text>
-  </string>
-  <string id="st_ui_pda_legend_neutrals">
-    <text>РќРµР№С‚СЂР°Р»С‹</text>
-  </string>
-  <string id="st_ui_pda_legend_scout">
-    <text>РџСЂРѕРІРѕРґРЅРёРє</text>
-  </string>
-  <string id="st_ui_pda_legend_secrets">
-    <text>РўР°Р№РЅРёРєРё</text>
-  </string>
-  <string id="st_ui_pda_legend_squad">
-    <text>РљРѕРјР°РЅРґРёСЂ РѕС‚СЂСЏРґР°</text>
-  </string>
-  <string id="st_ui_pda_legend_trader">
-    <text>РўРѕСЂРіРѕРІРµС†</text>
-  </string>
-  <string id="stalker">
-    <text>Р’РѕР»СЊРЅС‹Р№ СЃС‚Р°Р»РєРµСЂ</text>
-  </string>
-  <string id="ui_logs_center_caption">
-    <text>РСЃС‚РѕСЂРёСЏ СЃРѕРѕР±С‰РµРЅРёР№</text>
-  </string>
-  <string id="ui_map_btn_center">
-    <text>Р¦РµРЅС‚СЂРёСЂРѕРІР°С‚СЊ РЅР° РёРіСЂРѕРєРµ</text>
-  </string>
-  <string id="ui_map_btn_down">
-    <text>РџРµСЂРµРјРµСЃС‚РёС‚СЊ РІРЅРёР·</text>
-  </string>
-  <string id="ui_map_btn_left">
-    <text>РџРµСЂРµРјРµСЃС‚РёС‚СЊ РІР»РµРІРѕ</text>
-  </string>
-  <string id="ui_map_btn_legend">
-    <text>РџРѕРєР°Р·Р°С‚СЊ Р»РµРіРµРЅРґСѓ</text>
-  </string>
-  <string id="ui_map_btn_right">
-    <text>РџРµСЂРµРјРµСЃС‚РёС‚СЊ РІРїСЂР°РІРѕ</text>
-  </string>
-  <string id="ui_map_btn_up">
-    <text>РџРµСЂРµРјРµСЃС‚РёС‚СЊ РІРІРµСЂС…</text>
-  </string>
-  <string id="ui_map_btn_zmreset">
-    <text>РњР°РєСЃРёРјР°Р»СЊРЅРѕРµ РѕС‚РґР°Р»РµРЅРёРµ</text>
-  </string>
-  <string id="ui_map_btn_zoom_in">
-    <text>РџСЂРёР±Р»РёР·РёС‚СЊ</text>
-  </string>
-  <string id="ui_map_btn_zoom_out">
-    <text>РћС‚РґР°Р»РёС‚СЊ</text>
-  </string>
-  <string id="ui_ranking_center_caption">
-    <text>Р”РѕСЃС‚РёР¶РµРЅРёСЏ</text>
-  </string>
-  <string id="ui_task_btn_focus_center">
-    <text>Р¦РµРЅС‚СЂРёСЂРѕРІР°С‚СЊ РєР°СЂС‚Сѓ РЅР° Р·Р°РґР°РЅРёРё</text>
-  </string>
-  <string id="ui_task_btn_focus_center2">
-    <text>Р¦РµРЅС‚СЂРёСЂРѕРІР°С‚СЊ РєР°СЂС‚Сѓ РЅР° Р·Р°РґР°РЅРёРё</text>
-  </string>
-  <string id="zombied">
-    <text>Р—РѕРјР±РёСЂРѕРІР°РЅРЅС‹Р№</text>
-  </string>
-  <string id="zoom_in_btn_hint">
-    <text>РјР°СЃС€С‚Р°Р± +</text>
-  </string>
-  <string id="zoom_out_btn_hint">
-    <text>РјР°СЃС€С‚Р°Р± -</text>
-  </string>
-  <string id="st_ui_pda_legend_vip">
-    <text>Р’Р°Р¶РЅС‹Р№ РїРµСЂСЃРѕРЅР°Р¶</text>
-  </string>
-  <string id="st_ui_pda_legend_mechanic">
-    <text>РўРµС…РЅРёРє</text>
-  </string>
-  <string id="st_ui_pda_legend_medic">
-    <text>РњРµРґРёРє</text>
-  </string>
-  <string id="st_ui_pda_legend_smuggler">
-    <text>РљРѕРЅС‚СЂР°Р±Р°РЅРґРёСЃС‚</text>
-  </string>
-  <string id="ui_pda_secondary_task">
-    <text>РўРµРєСѓС‰РёРµ Р·Р°РґР°РЅРёСЏ</text>
-  </string>
-  <string id="ui_show_second_task_wnd">
-    <text>РЎРєСЂС‹С‚СЊ РёР»Рё РѕС‚РѕР±СЂР°Р·РёС‚СЊ СЃРїРёСЃРѕРє Р·Р°РґР°РЅРёР№</text>
-  </string>
-  <string id="st_ui_pda_actor_box">
-    <text>Р›РёС‡РЅС‹Р№ СЏС‰РёРє</text>
-  </string>
-  <string id="zaton">
-    <text>Р—Р°С‚РѕРЅ</text>
-  </string>
-  <string id="jupiter">
-    <text>РћРєСЂРµСЃС‚РЅРѕСЃС‚Рё В«Р®РїРёС‚РµСЂР°В»</text>
-  </string>
-  <string id="pripyat">
-    <text>РџСЂРёРїСЏС‚СЊ</text>
-  </string>
-  <string id="jupiter_underground">
-    <text>РџСѓС‚РµРїСЂРѕРІРѕРґ В«РџСЂРёРїСЏС‚СЊ-1В»</text>
-  </string>
-  <string id="labx8">
-    <text>Р›Р°Р±РѕСЂР°С‚РѕСЂРёСЏ X8</text>
-  </string>
-  <string id="filter_primary_objects_text">
-    <text>Р›РѕРєР°С†РёРё</text>
-  </string>
-  <string id="filter_quest_npcs_text">
-    <text>Р’Р°Р¶РЅС‹Рµ РѕР±СЉРµРєС‚С‹</text>
-  </string>
-  <string id="st_ui_pda_legend_primary_objects">
-    <text>Р›РѕРєР°С†РёСЏ</text>
-  </string>
-  <string id="st_jup_b32_has_af">
-    <text>РЎРєР°РЅРµСЂС‹ СЂРµРіРёСЃС‚СЂРёСЂСѓСЋС‚ РїСЂРёСЃСѓС‚СЃС‚РІРёРµ Р°СЂС‚РµС„Р°РєС‚РѕРІ:</text>
-  </string>
-  <string id="st_jup_b32_no_af">
-    <text>РЎРѕРіР»Р°СЃРЅРѕ РґР°РЅРЅС‹Рј СЃРєР°РЅРµСЂРѕРІ, Р°СЂС‚РµС„Р°РєС‚С‹ РѕС‚СЃСѓС‚СЃС‚РІСѓСЋС‚</text>
-  </string>
-  <string id="st_ui_pda_secret">
-    <text>РўР°Р№РЅРёРє</text>
-  </string>
-  <string id="st_ui_pda_sleep_place">
-    <text>РњРµСЃС‚Рѕ СЃРЅР°</text>
-  </string>
-  <string id="st_actor_global_treasure">
-    <text>Р›РёС‡РЅС‹Р№ СЏС‰РёРє РёРіСЂРѕРєР°</text>
-  </string>
-  <string id="st_user_spot">
-    <text>РЎРІРѕСЏ РјРµС‚РєР°</text>
-  </string>
-  <string id="st_ui_global_map_task_position">
-    <text>%c[info_orange][V] %c[info_title]РџРѕРєР°Р·Р°С‚СЊ С‚РµРєСѓС‰РµРµ Р·Р°РґР°РЅРёРµ</text>
-  </string>
-  <string id="st_ui_global_map_task_position_h">
-    <text>%c[info_orange][V] РџРѕРєР°Р·Р°С‚СЊ С‚РµРєСѓС‰РµРµ Р·Р°РґР°РЅРёРµ</text>
-  </string>
-  <string id="st_ui_global_map_actor_position">
-    <text>%c[info_orange][C] %c[info_title]Р¦РµРЅС‚СЂРёСЂРѕРІР°С‚СЊ</text>
-  </string>
-  <string id="st_ui_global_map_actor_position_h">
-    <text>%c[info_orange][C] Р¦РµРЅС‚СЂРёСЂРѕРІР°С‚СЊ</text>
-  </string>
-  <string id="st_ui_global_map_toggle_spots">
-    <text>%c[info_orange][X] %c[info_title]РЎРєСЂС‹С‚СЊ/РџРѕРєР°Р·Р°С‚СЊ РјРµС‚РєРё</text>
-  </string>
-  <string id="st_ui_global_map_toggle_spots_h">
-    <text>%c[info_orange][X] РЎРєСЂС‹С‚СЊ/РџРѕРєР°Р·Р°С‚СЊ РјРµС‚РєРё</text>
-  </string>
-  <string id="st_ui_global_map_toggle">
-    <text>%c[info_orange][SPACE] %c[info_title]РњРµСЃС‚РЅРѕСЃС‚СЊ</text>
-  </string>
-  <string id="st_ui_global_map_toggle_h">
-    <text>%c[info_orange][SPACE] РњРµСЃС‚РЅРѕСЃС‚СЊ</text>
-  </string>
-  <string id="st_ui_global_map_place_spot_hint">
-    <text>%c[info_orange][РџРљРњ] %c[info_title]РџРѕСЃС‚Р°РІРёС‚СЊ/РЎРЅСЏС‚СЊ РјРµС‚РєСѓ</text>
-  </string>
-  <string id="st_ui_global_map_filter_main_task">
-    <text>РћСЃРЅРѕРІРЅРѕРµ\nР·Р°РґР°РЅРёРµ</text>
-  </string>
-  <string id="st_ui_global_map_filter_second_task">
-    <text>Р”РѕРїРѕР»РЅРёС‚РµР»СЊРЅРѕРµ\nР·Р°РґР°РЅРёРµ</text>
-  </string>
-  <string id="st_ui_global_map_filter_location">
-    <text>Р›РѕРєР°С†РёСЏ</text>
-  </string>
-  <string id="st_ui_global_map_filter_unknown_location">
-    <text>РќРµРёР·РІРµРґР°РЅРЅР°СЏ\nР»РѕРєР°С†РёСЏ</text>
-  </string>
-  <string id="st_ui_global_map_filter_base">
-    <text>Р‘Р°Р·Р°\nСЃС‚Р°Р»РєРµСЂРѕРІ</text>
-  </string>
-  <string id="st_ui_global_map_filter_lair">
-    <text>Р›РѕРіРѕРІРѕ\nРјСѓС‚Р°РЅС‚РѕРІ</text>
-  </string>
-  <string id="st_ui_global_map_filter_spot">
-    <text>Р›РёС‡РЅР°СЏ\nРјРµС‚РєР°</text>
-  </string>
-  <string id="st_ui_global_map_filter_bought_treasure">
-    <text>РљСѓРїР»РµРЅРЅС‹Р№\nС‚Р°Р№РЅРёРє</text>
-  </string>
-  <string id="st_ui_global_map_filter_dead_man_treasure">
-    <text>РўР°Р№РЅРёРє\nРјРµСЂС‚РІРµС†Р°</text>
-  </string>
-  <string id="st_ui_global_map_filter_level_changer">
-    <text>РџРµСЂРµС…РѕРґ\nРЅР° Р»РѕРєР°С†РёСЋ</text>
-  </string>
-  <string id="st_ui_global_map_filter_level_changer_underground">
-    <text>РџРµСЂРµС…РѕРґ РІ\nРїРѕРґР·РµРјРµР»СЊРµ</text>
-  </string>
-  <string id="st_ui_global_map_filter_level_changer_disabled">
-    <text>Р—Р°РєСЂС‹С‚С‹Р№\nРїРµСЂРµС…РѕРґ</text>
-  </string>
-  <string id="st_ui_global_map_filter_actor_box">
-    <text>Р›РёС‡РЅС‹Р№\nСЃС…СЂРѕРЅ</text>
-  </string>
-  <string id="st_ui_global_map_filter_sleep">
-    <text>РњРµСЃС‚Рѕ\nРґР»СЏ СЃРЅР°</text>
-  </string>
-  <string id="st_ui_global_map_filter_trader">
-    <text>РўРѕСЂРіРѕРІРµС†</text>
-  </string>
-  <string id="st_ui_global_map_filter_technic">
-    <text>РўРµС…РЅРёРє</text>
-  </string>
-  <string id="st_ui_global_map_filter_medic">
-    <text>РњРµРґРёРє</text>
-  </string>
-  <string id="st_ui_global_map_filter_smuggler">
-    <text>РљРѕРЅС‚СЂР°Р±Р°РЅРґРёСЃС‚</text>
-  </string>
-  <string id="st_ui_global_map_filter_dialog">
-    <text>Р”РѕСЃС‚СѓРїРЅС‹Р№\nРґРёР°Р»РѕРі</text>
-  </string>
-  <string id="st_ui_global_map_filter_actor">
-    <text>Р’С‹</text>
-  </string>
-  <string id="st_ui_global_map_filter_radioactive_anomaly">
-    <text>Р Р°РґРёРѕР°РєС‚РёРІРЅР°СЏ\nР·РѕРЅР°</text>
-  </string>
-  <string id="st_ui_global_map_filter_gravi_anomaly">
-    <text>Р“СЂР°РІРёС‚Р°С†РёРѕРЅРЅР°СЏ\nР°РЅРѕРјР°Р»РёСЏ</text>
-  </string>
-  <string id="st_ui_global_map_filter_chemical_anomaly">
-    <text>РҐРёРјРёС‡РµСЃРєР°СЏ\nР°РЅРѕРјР°Р»РёСЏ</text>
-  </string>
-  <string id="st_ui_global_map_filter_psy_anomaly">
-    <text>РџСЃРё\nРёР·Р»СѓС‡РµРЅРёРµ</text>
-  </string>
-  <string id="st_ui_global_map_filter_burn_anomaly">
-    <text>РўРµСЂРјРѕ\nР°РЅРѕРјР°Р»РёСЏ</text>
-  </string>
-  <string id="st_ui_global_map_filter_electric_anomaly">
-    <text>Р­Р»РµРєС‚СЂРѕ\nР°РЅРѕРјР°Р»РёСЏ</text>
-  </string>
-  <string id="st_ui_global_map_filter_zone">
-    <text>РћР±Р»Р°СЃС‚СЊ\nРїРѕРёСЃРєР°</text>
-  </string>
-  <string id="st_ui_global_map_filter_scanner">
-    <text>РЎРєР°РЅРµСЂ</text>
-  </string>
-  <string id="st_ui_global_map_filter_kill_target">
-    <text>Р¦РµР»СЊ РґР»СЏ\nСѓР±РёР№СЃС‚РІР°</text>
-  </string>
-  <string id="st_ui_global_map_filter_neutral_npc">
-    <text>РќРµР№С‚СЂР°Р»</text>
-  </string>
-  <string id="st_ui_global_map_filter_friend_npc">
-    <text>Р”СЂСѓРі</text>
-  </string>
-  <string id="st_ui_global_map_filter_enemy_npc">
-    <text>Р’СЂР°Рі</text>
-  </string>
-  <string id="st_ui_global_map_filter_dead_man">
-    <text>РњРµСЂС‚РІРµС†</text>
-  </string>
+	<string id="st_tab_tasks">
+		<text>ЗАДАНИЯ</text>
+	</string>
+	<string id="st_tab_map">
+		<text>КАРТА</text>
+	</string>
+	<string id="st_tab_inventory">
+		<text>ИНВЕНТАРЬ</text>
+	</string>
+	<string id="st_tab_notes">
+		<text>ЗАМЕТКИ</text>
+	</string>
+	<string id="st_tab_encyclopedia">
+		<text>ПУТЕВОДИТЕЛЬ</text>
+	</string>
+	<string id="st_tab_history">
+		<text>ИСТОРИЯ</text>
+	</string>
+	<string id="Time">
+		<text>Время</text>
+	</string>
+	<string id="actor">
+		<text>Вольный сталкер</text>
+	</string>
+	<string id="army">
+		<text>Военный</text>
+	</string>
+	<string id="bandit">
+		<text>Бандит</text>
+	</string>
+	<string id="trader">
+		<text>Торговец</text>
+	</string>
+	<string id="dolg">
+		<text>«Долг»</text>
+	</string>
+	<string id="ecolog">
+		<text>Учёный</text>
+	</string>
+	<string id="hunter">
+		<text>Охотник</text>
+	</string>
+	<string id="unknown">
+		<text>Неизвестно</text>
+	</string>
+	<string id="filter_secondary_tasks_text">
+		<text>Попутные задания</text>
+	</string>
+	<string id="filter_treasures_text">
+		<text>Тайники</text>
+	</string>
+	<string id="freedom">
+		<text>«Свобода»</text>
+	</string>
+	<string id="killer">
+		<text>Наёмник</text>
+	</string>
+	<string id="missions_list">
+		<text>Список заданий</text>
+	</string>
+	<string id="monolith">
+		<text>«Монолит»</text>
+	</string>
+	<string id="monster">
+		<text>Мутант</text>
+	</string>
+	<string id="month_april">
+		<text>Апрель</text>
+	</string>
+	<string id="month_august">
+		<text>Август</text>
+	</string>
+	<string id="month_december">
+		<text>Декабрь</text>
+	</string>
+	<string id="month_february">
+		<text>Февраль</text>
+	</string>
+	<string id="month_january">
+		<text>Январь</text>
+	</string>
+	<string id="month_july">
+		<text>Июль</text>
+	</string>
+	<string id="month_june">
+		<text>Июнь</text>
+	</string>
+	<string id="month_march">
+		<text>Март</text>
+	</string>
+	<string id="month_may">
+		<text>Май</text>
+	</string>
+	<string id="month_november">
+		<text>Ноябрь</text>
+	</string>
+	<string id="month_october">
+		<text>Октябрь</text>
+	</string>
+	<string id="month_september">
+		<text>Сентябрь</text>
+	</string>
+	<string id="pda_btn_close">
+		<text>Выключить КПК</text>
+	</string>
+	<string id="pda_btn_logs">
+		<text>История сообщений</text>
+	</string>
+	<string id="pda_btn_logs_hint">
+		<text>Показать историю сообщений</text>
+	</string>
+	<string id="pda_btn_quests">
+		<text>Карта местности</text>
+	</string>
+	<string id="pda_btn_quests_hint">
+		<text>Показать карту Зоны и список заданий</text>
+	</string>
+	<string id="pda_btn_ranking">
+		<text>Статистика</text>
+	</string>
+	<string id="pda_btn_ranking_hint">
+		<text>Показать личную статистику</text>
+	</string>
+	<string id="pda_cur_time">
+		<text>Текущее время:</text>
+	</string>
+	<string id="pda_date_filter">
+		<text>Фильтр даты</text>
+	</string>
+	<string id="pda_filter_news">
+		<text>Показать новости</text>
+	</string>
+	<string id="pda_filter_talk">
+		<text>Показать диалоги</text>
+	</string>
+	<string id="pda_legend_caption">
+		<text>Условные обозначения</text>
+	</string>
+	<string id="pda_stat_1">
+		<text>Время в зоне:</text>
+	</string>
+	<string id="pda_stat_2">
+		<text>Пережито выбросов:</text>
+	</string>
+	<string id="pda_stat_3">
+		<text>Выполнено заданий:</text>
+	</string>
+	<string id="pda_stat_4">
+		<text>Убито мутантов:</text>
+	</string>
+	<string id="pda_stat_5">
+		<text>Убито сталкеров:</text>
+	</string>
+	<string id="pda_stat_6">
+		<text>Найдено артефактов:</text>
+	</string>
+	<string id="pda_stat_7">
+		<text>Найдено тайников:</text>
+	</string>
+	<string id="pda_stat_favorite_weapon">
+		<text>Любимое оружие</text>
+	</string>
+	<string id="pda_stat_mutant_killed">
+		<text>Самый сильный убитый мутант</text>
+	</string>
+	<string id="st_location">
+		<text>Местонахождение:</text>
+	</string>
+	<string id="st_target">
+		<text>Цель</text>
+	</string>
+	<string id="st_ui_pda_legend_additional_task">
+		<text>Побочное задание</text>
+	</string>
+	<string id="st_ui_pda_legend_enemies">
+		<text>Враги</text>
+	</string>
+	<string id="st_ui_pda_legend_friends">
+		<text>Друзья</text>
+	</string>
+	<string id="st_ui_pda_legend_leader">
+		<text>Лидер группировки</text>
+	</string>
+	<string id="st_ui_pda_legend_main_task">
+		<text>Основное задание</text>
+	</string>
+	<string id="st_ui_pda_legend_neutrals">
+		<text>Нейтралы</text>
+	</string>
+	<string id="st_ui_pda_legend_scout">
+		<text>Проводник</text>
+	</string>
+	<string id="st_ui_pda_legend_secrets">
+		<text>Тайники</text>
+	</string>
+	<string id="st_ui_pda_legend_squad">
+		<text>Командир отряда</text>
+	</string>
+	<string id="st_ui_pda_legend_trader">
+		<text>Торговец</text>
+	</string>
+	<string id="stalker">
+		<text>Вольный сталкер</text>
+	</string>
+	<string id="ui_logs_center_caption">
+		<text>История сообщений</text>
+	</string>
+	<string id="ui_map_btn_center">
+		<text>Центрировать на игроке</text>
+	</string>
+	<string id="ui_map_btn_down">
+		<text>Переместить вниз</text>
+	</string>
+	<string id="ui_map_btn_left">
+		<text>Переместить влево</text>
+	</string>
+	<string id="ui_map_btn_legend">
+		<text>Показать легенду</text>
+	</string>
+	<string id="ui_map_btn_right">
+		<text>Переместить вправо</text>
+	</string>
+	<string id="ui_map_btn_up">
+		<text>Переместить вверх</text>
+	</string>
+	<string id="ui_map_btn_zmreset">
+		<text>Максимальное отдаление</text>
+	</string>
+	<string id="ui_map_btn_zoom_in">
+		<text>Приблизить</text>
+	</string>
+	<string id="ui_map_btn_zoom_out">
+		<text>Отдалить</text>
+	</string>
+	<string id="ui_ranking_center_caption">
+		<text>Достижения</text>
+	</string>
+	<string id="ui_task_btn_focus_center">
+		<text>Центрировать карту на задании</text>
+	</string>
+	<string id="ui_task_btn_focus_center2">
+		<text>Центрировать карту на задании</text>
+	</string>
+	<string id="zombied">
+		<text>Зомбированный</text>
+	</string>
+	<string id="zoom_in_btn_hint">
+		<text>масштаб +</text>
+	</string>
+	<string id="zoom_out_btn_hint">
+		<text>масштаб -</text>
+	</string>
+	<string id="st_ui_pda_legend_vip">
+		<text>Важный персонаж</text>
+	</string>
+	<string id="st_ui_pda_legend_mechanic">
+		<text>Техник</text>
+	</string>
+	<string id="st_ui_pda_legend_medic">
+		<text>Медик</text>
+	</string>
+	<string id="st_ui_pda_legend_smuggler">
+		<text>Контрабандист</text>
+	</string>
+	<string id="ui_pda_secondary_task">
+		<text>Текущие задания</text>
+	</string>
+	<string id="ui_show_second_task_wnd">
+		<text>Скрыть или отобразить список заданий</text>
+	</string>
+	<string id="st_ui_pda_actor_box">
+		<text>Личный ящик</text>
+	</string>
+	<string id="zaton">
+		<text>Затон</text>
+	</string>
+	<string id="jupiter">
+		<text>Окрестности «Юпитера»</text>
+	</string>
+	<string id="pripyat">
+		<text>Припять</text>
+	</string>
+	<string id="jupiter_underground">
+		<text>Путепровод «Припять-1»</text>
+	</string>
+	<string id="labx8">
+		<text>Лаборатория X8</text>
+	</string>
+	<string id="filter_primary_objects_text">
+		<text>Локации</text>
+	</string>
+	<string id="filter_quest_npcs_text">
+		<text>Важные объекты</text>
+	</string>
+	<string id="st_ui_pda_legend_primary_objects">
+		<text>Локация</text>
+	</string>
+	<string id="st_jup_b32_has_af">
+		<text>Сканеры регистрируют присутствие артефактов:</text>
+	</string>
+	<string id="st_jup_b32_no_af">
+		<text>Согласно данным сканеров, артефакты отсутствуют</text>
+	</string>
+	<string id="st_ui_pda_secret">
+		<text>Тайник</text>
+	</string>
+	<string id="st_ui_pda_sleep_place">
+		<text>Место сна</text>
+	</string>
+	<string id="st_actor_global_treasure">
+		<text>Личный ящик игрока</text>
+	</string>
+	<string id="st_user_spot">
+		<text>Своя метка</text>
+	</string>
+	<string id="st_ui_global_map_task_position">
+		<text>%c[info_orange][V] %c[info_title]Показать текущее задание</text>
+	</string>
+	<string id="st_ui_global_map_task_position_h">
+		<text>%c[info_orange][V] Показать текущее задание</text>
+	</string>
+	<string id="st_ui_global_map_actor_position">
+		<text>%c[info_orange][C] %c[info_title]Центрировать</text>
+	</string>
+	<string id="st_ui_global_map_actor_position_h">
+		<text>%c[info_orange][C] Центрировать</text>
+	</string>
+	<string id="st_ui_global_map_toggle_spots">
+		<text>%c[info_orange][X] %c[info_title]Скрыть/Показать метки</text>
+	</string>
+	<string id="st_ui_global_map_toggle_spots_h">
+		<text>%c[info_orange][X] Скрыть/Показать метки</text>
+	</string>
+	<string id="st_ui_global_map_toggle">
+		<text>%c[info_orange][SPACE] %c[info_title]Местность</text>
+	</string>
+	<string id="st_ui_global_map_toggle_h">
+		<text>%c[info_orange][SPACE] Местность</text>
+	</string>
+	<string id="st_ui_global_map_place_spot_hint">
+		<text>%c[info_orange][ПКМ] %c[info_title]Поставить/Снять метку</text>
+	</string>
+	<string id="st_ui_global_map_filter_main_task">
+		<text>Основное\nзадание</text>
+	</string>
+	<string id="st_ui_global_map_filter_second_task">
+		<text>Дополнительное\nзадание</text>
+	</string>
+	<string id="st_ui_global_map_filter_location">
+		<text>Локация</text>
+	</string>
+	<string id="st_ui_global_map_filter_unknown_location">
+		<text>Неизведанная\nлокация</text>
+	</string>
+	<string id="st_ui_global_map_filter_base">
+		<text>База\nсталкеров</text>
+	</string>
+	<string id="st_ui_global_map_filter_lair">
+		<text>Логово\nмутантов</text>
+	</string>
+	<string id="st_ui_global_map_filter_spot">
+		<text>Личная\nметка</text>
+	</string>
+	<string id="st_ui_global_map_filter_bought_treasure">
+		<text>Купленный\nтайник</text>
+	</string>
+	<string id="st_ui_global_map_filter_dead_man_treasure">
+		<text>Тайник\nмертвеца</text>
+	</string>
+	<string id="st_ui_global_map_filter_level_changer">
+		<text>Переход\nна локацию</text>
+	</string>
+	<string id="st_ui_global_map_filter_level_changer_underground">
+		<text>Переход в\nподземелье</text>
+	</string>
+	<string id="st_ui_global_map_filter_level_changer_disabled">
+		<text>Закрытый\nпереход</text>
+	</string>
+	<string id="st_ui_global_map_filter_actor_box">
+		<text>Личный\nсхрон</text>
+	</string>
+	<string id="st_ui_global_map_filter_sleep">
+		<text>Место\nдля сна</text>
+	</string>
+	<string id="st_ui_global_map_filter_trader">
+		<text>Торговец</text>
+	</string>
+	<string id="st_ui_global_map_filter_technic">
+		<text>Техник</text>
+	</string>
+	<string id="st_ui_global_map_filter_medic">
+		<text>Медик</text>
+	</string>
+	<string id="st_ui_global_map_filter_smuggler">
+		<text>Контрабандист</text>
+	</string>
+	<string id="st_ui_global_map_filter_dialog">
+		<text>Доступный\nдиалог</text>
+	</string>
+	<string id="st_ui_global_map_filter_actor">
+		<text>Вы</text>
+	</string>
+	<string id="st_ui_global_map_filter_radioactive_anomaly">
+		<text>Радиоактивная\nзона</text>
+	</string>
+	<string id="st_ui_global_map_filter_gravi_anomaly">
+		<text>Гравитационная\nаномалия</text>
+	</string>
+	<string id="st_ui_global_map_filter_chemical_anomaly">
+		<text>Химическая\nаномалия</text>
+	</string>
+	<string id="st_ui_global_map_filter_psy_anomaly">
+		<text>Пси\nизлучение</text>
+	</string>
+	<string id="st_ui_global_map_filter_burn_anomaly">
+		<text>Термо\nаномалия</text>
+	</string>
+	<string id="st_ui_global_map_filter_electric_anomaly">
+		<text>Электро\nаномалия</text>
+	</string>
+	<string id="st_ui_global_map_filter_zone">
+		<text>Область\nпоиска</text>
+	</string>
+	<string id="st_ui_global_map_filter_scanner">
+		<text>Сканер</text>
+	</string>
+	<string id="st_ui_global_map_filter_kill_target">
+		<text>Цель для\nубийства</text>
+	</string>
+	<string id="st_ui_global_map_filter_neutral_npc">
+		<text>Нейтрал</text>
+	</string>
+	<string id="st_ui_global_map_filter_friend_npc">
+		<text>Друг</text>
+	</string>
+	<string id="st_ui_global_map_filter_enemy_npc">
+		<text>Враг</text>
+	</string>
+	<string id="st_ui_global_map_filter_dead_man">
+		<text>Мертвец</text>
+	</string>
 </string_table>

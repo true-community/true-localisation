@@ -1,612 +1,816 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_yan_actor_check_bunker_territory">
-    <text>РњС‹ РїРѕРєР° РѕСЃРјРѕС‚СЂРёРј РґРІРѕСЂ.</text>
-  </string>
-  <string id="st_yan_actor_check_monsters_1">
-    <text>Р”Р° СѓР¶. РќРµСЃР»Р°РґРєРѕ РёРј С‚СѓС‚,\nРІРёРґРёРјРѕ, РїСЂРёС€Р»РѕСЃСЊ.</text>
-  </string>
-  <string id="st_yan_actor_check_monsters_2">
-    <text>Р’СЂСЏРґ Р»Рё РєС‚Рѕ-С‚Рѕ РјРѕРі СѓС†РµР»РµС‚СЊ\nРїРѕСЃР»Рµ С‚Р°РєРѕРіРѕ.</text>
-  </string>
-  <string id="st_yan_actor_check_scientist_corp_1">
-    <text>Рђ РІРѕС‚ Рё РїРµСЂРІС‹Р№\nРґРІСѓС…СЃРѕС‚С‹Р№ СѓС‡С‘РЅС‹Р№.</text>
-  </string>
-  <string id="st_yan_actor_check_scientist_corp_2">
-    <text>Р С‡С‚Рѕ РµРіРѕ РјРѕРіР»Рѕ С‚Р°Рє СЂР°Р·РѕСЂРІР°С‚СЊ?</text>
-  </string>
-  <string id="st_yan_actor_final_scene_heli_start">
-    <text>Р‘С‹СЃС‚СЂРµРµ, Р±С‹СЃС‚СЂРµРµ! Р’Р·Р»РµС‚Р°РµРј.</text>
-  </string>
-  <string id="st_yan_actor_kill_aver_1">
-    <text>РќР°Рј РЅРµ РЅСѓР¶РЅС‹\nР»РёС€РЅРёРµ РїСЂРѕР±Р»РµРјС‹.</text>
-  </string>
-  <string id="st_yan_actor_kill_aver_2">
-    <text>Рђ РѕРЅ РёРјРµР» С€Р°РЅСЃ РѕС‚СЃСЋРґР° РІС‹Р±СЂР°С‚СЊСЃСЏ,\nРЅРѕ РЅРµ РїРѕРјРѕРі РЅР°Рј.</text>
-  </string>
-  <string id="st_yan_actor_kill_aver_3">
-    <text>РЎ С‚Р°РєРёРјРё СѓРїС‹СЂСЏРјРё\nСѓ РјРµРЅСЏ СЂР°Р·РіРѕРІРѕСЂ РєРѕСЂРѕС‚РєРёР№.</text>
-  </string>
-  <string id="st_yan_actor_kill_aver_4">
-    <text>Р’СЃС‘, РґР°РІР°Р№С‚Рµ РЅР° Р±Р°Р·Сѓ.</text>
-  </string>
-  <string id="st_yan_actor_koval_lost">
-    <text>РЎСѓРєР°. РўР°Рє Рё Р·РЅР°Р»,\nС‡С‚Рѕ СЃ РЅРёРј Р±СѓРґСѓС‚ РїСЂРѕР±Р»РµРјС‹!</text>
-  </string>
-  <string id="st_yan_actor_koval_start_connect_1">
-    <text>РљРѕРІР°Р»СЊ, РїСЂРёС‘Рј.\nРўС‹ Р·Р°РєРѕРЅС‡РёР» СЃРѕ СЃРІРѕРёРј РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµРј?</text>
-  </string>
-  <string id="st_yan_actor_koval_start_connect_2">
-    <text>РџСЂРёС‘Рј. РљР°Рє СЃР»С‹С€РёС€СЊ?</text>
-  </string>
-  <string id="st_yan_actor_psy_talk_1">
-    <text>Р­С‚Рѕ РІСЃС‘ РёР·Р»СѓС‡Р°С‚РµР»СЊ.</text>
-  </string>
-  <string id="st_yan_actor_psy_talk_2">
-    <text>РўСѓС‚ РїРѕР»РѕРІРёРЅР° СЃРѕС‚СЂСѓРґРЅРёРєРѕРІ\nРЅР° РїРѕРґРѕР±РЅС‹Рµ СЃРёРјРїС‚РѕРјС‹ Р¶Р°Р»РѕРІР°Р»Р°СЃСЊ.</text>
-  </string>
-  <string id="st_yan_actor_psy_talk_3">
-    <text>РўР°Рє С‡С‚Рѕ РґР°РІР°Р№С‚Рµ РїРѕСЂРµС‰Рµ\nРµРіРѕ РІС‹СЂСѓР±РёРј. Р’РїРµСЂС‘Рґ!</text>
-  </string>
-  <string id="st_yan_actor_start_yantar_task_1">
-    <text>Р’СЃС‘, РјСѓР¶РёРєРё, РјС‹ РЅР° РјРµСЃС‚Рµ.</text>
-  </string>
-  <string id="st_yan_actor_start_yantar_task_2">
-    <text>РџСЂРµРґР»Р°РіР°СЋ С‚СѓС‚ Рё РѕР±РѕСЃРЅРѕРІР°С‚СЊ\nРІСЂРµРјРµРЅРЅС‹Р№ Р»Р°РіРµСЂСЊ.</text>
-  </string>
-  <string id="st_yan_actor_start_yantar_task_3">
-    <text>Р—РґРµСЃСЊ РІС‹СЃРѕРєРѕ,\nС…РѕСЂРѕС€Рѕ РїСЂРѕСЃРјР°С‚СЂРёРІР°РµС‚СЃСЏ РІСЃСЏ РјРµСЃС‚РЅРѕСЃС‚СЊ.</text>
-  </string>
-  <string id="st_yan_actor_start_yantar_task_4">
-    <text>РЎРєР°Р№, РѕСЃС‚Р°РЅРµС€СЊСЃСЏ СЃ РїРёР»РѕС‚РѕРј.</text>
-  </string>
-  <string id="st_yan_actor_start_yantar_task_5">
-    <text>РџРѕРєР° РЅР°СЃ РЅРµ Р±СѓРґРµС‚,\nРїРѕРґРіРѕС‚РѕРІСЊС‚Рµ РјРѕР±РёР»СЊРЅС‹Р№ С€С‚Р°Р±.</text>
-  </string>
-  <string id="st_yan_actor_start_yantar_task_6">
-    <text>РќР°РґРµСЋСЃСЊ, С‚С‹ СЃРјРѕР¶РµС€СЊ\nРїРѕРґРєР»СЋС‡РёС‚СЊСЃСЏ Рє СЃРїСѓС‚РЅРёРєСѓ,</text>
-  </string>
-  <string id="st_yan_actor_start_yantar_task_7">
-    <text>С‡С‚РѕР±С‹ РјС‹ Р±С‹Р»Рё РІ РєСѓСЂСЃРµ\nРІСЃРµРіРѕ РїСЂРѕРёСЃС…РѕРґСЏС‰РµРіРѕ РЅР° СЌС‚РѕР№ С‚РµСЂСЂРёС‚РѕСЂРёРё.</text>
-  </string>
-  <string id="st_yan_actor_start_yantar_task_8">
-    <text>РћСЃС‚Р°Р»СЊРЅС‹Рµ, РґРІРёРіР°РµРјСЃСЏ РІРјРµСЃС‚Рµ\nРє РјРѕР±РёР»СЊРЅРѕРјСѓ Р±СѓРЅРєРµСЂСѓ.</text>
-  </string>
-  <string id="st_yan_actor_start_yantar_task_9">
-    <text>Р‘СѓРґСЊС‚Рµ РЅР°С‡РµРєСѓ. РџРѕРіРЅР°Р»Рё!</text>
-  </string>
-  <string id="st_yan_actor_to_vuslich_condolence_1">
-    <text>РћРЅРё Р·РЅР°Р»Рё, РЅР° С‡С‚Рѕ С€Р»Рё,\nРєРѕРіРґР° РїРѕРґРїРёСЃС‹РІР°Р»Рё РєРѕРЅС‚СЂР°РєС‚.</text>
-  </string>
-  <string id="st_yan_actor_to_vuslich_condolence_2">
-    <text>РЈРІРµСЂРµРЅ, С‡С‚Рѕ РґР°Р¶Рµ РµСЃР»Рё Р±С‹ РѕРЅРё\nРЅР°РїРµСЂС‘Рґ Р·РЅР°Р»Рё, С‡С‚Рѕ СЃ РЅРёРјРё Р±СѓРґРµС‚ РІ РєРѕРЅС†Рµ,</text>
-  </string>
-  <string id="st_yan_actor_to_vuslich_condolence_3">
-    <text>РІСЃС‘ СЂР°РІРЅРѕ Р±С‹ РІ Р—РѕРЅСѓ РїСЂРёС€Р»Рё.</text>
-  </string>
-  <string id="st_yan_aver_start_fuck_off_1">
-    <text>Р—Р°СЂР°Р·Р°! РћС‚РїСѓСЃС‚Рё РјРµРЅСЏ!</text>
-  </string>
-  <string id="st_yan_aver_start_fuck_off_2">
-    <text>Р Р°РґРё Р±РѕРіР°, СѓРјРѕР»СЏСЋ!</text>
-  </string>
-  <string id="st_yan_aver_start_fuck_off_3">
-    <text>Рђ-Р°, РЅРµС‚!</text>
-  </string>
-  <string id="st_yan_aver_start_fuck_off_4">
-    <text>РћС‚СЃС‚Р°РЅСЊ, РѕС‚СЃС‚Р°РЅСЊ!</text>
-  </string>
-  <string id="st_yan_aver_start_help_1">
-    <text>РџРѕРјРѕРіРёС‚Рµ РјРЅРµ!</text>
-  </string>
-  <string id="st_yan_aver_start_help_2">
-    <text>РћРЅРѕ С‚Р°Рј, РІ С‚СѓРјР°РЅРµ!</text>
-  </string>
-  <string id="st_yan_aver_start_help_3">
-    <text>РЎС‚СЂРµР»СЏР№С‚Рµ РІ РЅРµС‘, РЅСѓ Р¶Рµ!</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_1_phrase_1">
-    <text>Р РґР°РІРЅРѕ С‚С‹ СЃ РЅРёРјРё Р·Р°РѕРґРЅРѕ?</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_1_phrase_2_1">
-    <text>Р’СЃС‘ Р¶ РїРѕРґ РєРѕРЅС‚СЂРѕР»РµРј.\nРўС‹ СЃР°Рј РІРёРґРµР» РїР»Р°РЅ Р·Р°РїСѓСЃРєР°, СЂР°СЃС‡С‘С‚С‹.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_1_phrase_2_2">
-    <text>РќРёРєР°РєРѕРіРѕ РІСЂРµРґР° РЅРµ Р±СѓРґРµС‚.\nРЎР°С…Р°СЂРѕРІ Р·РЅР°РµС‚ СЃРІРѕС‘ РґРµР»Рѕ.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_1_phrase_3_1">
-    <text>Р›Р°РґРЅРѕ, РґРѕРїСѓСЃС‚РёРј.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_1_phrase_3_2">
-    <text>Р”Р°РІР°Р№ С‚РѕРіРґР° РїСЂРѕСЃС‚Рѕ СЃРІР°Р»РёРј,</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_1_phrase_3_3">
-    <text>Рё РїСѓСЃС‚СЊ РѕРЅРё С‚СѓС‚ СЃР°РјРё\nСЂР°Р·Р±РёСЂР°СЋС‚СЃСЏ СЃ СЌС‚РѕР№ СѓСЃС‚Р°РЅРѕРІРєРѕР№.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_1_phrase_4_1">
-    <text>РЎРґСѓСЂРµР»?</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_1_phrase_4_2">
-    <text>РўРµР±СЏ Р¶Рµ РїРѕСЃР°РґСЏС‚, Р±РѕР»РІР°РЅ, Р° С‚Рѕ РµС‰С‘ РїСЂРёР±СЊС‘С‚ РєС‚Рѕ-С‚Рѕ РёР· РѕС…СЂР°РЅС‹.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_1_phrase_4_3">
-    <text>РћРЅРё С‚РѕР»СЊРєРѕ Рё Р¶РґСѓС‚,\nС‡С‚РѕР±С‹ СЃРїСѓСЃС‚РёС‚СЊ РЅР° РЅР°СЃ РєСѓСЂРѕРє!</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_1_phrase_5">
-    <text>Р”Р° СЏ РЅРµ Р·РЅР°СЋ. Рђ РІРґСЂСѓРі...</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_1_1">
-    <text>РќРё СЃ РєРµРј СЏ РЅРµ Р·Р°РѕРґРЅРѕ.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_1_2">
-    <text>Р­С‚Сѓ СѓСЃС‚Р°РЅРѕРІРєСѓ РЅРµ СЃР»СѓС‡Р°Р№РЅРѕ РІС‹СЂСѓР±РёР»Рё СЃС‚Р°Р»РєРµСЂС‹.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_1_3">
-    <text>РќР°РґРѕ Р±С‹Р»Рѕ Р·Р°РєРѕРЅСЃРµСЂРІРёСЂРѕРІР°С‚СЊ РІСЃРµ РґРІРµСЂРё\nРё Р±РѕР»СЊС€Рµ СЃСЋРґР° РЅРёРєРѕРіРґР° РЅРµ СЃРїСѓСЃРєР°С‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_1_4">
-    <text>РљР°Рє РІРѕРѕР±С‰Рµ РїСЂРёС€Р»Рѕ РІ РіРѕР»РѕРІСѓ\nРїСЂРѕРІРѕРґРёС‚СЊ РїРѕРІС‚РѕСЂРЅС‹Рµ РёСЃРїС‹С‚Р°РЅРёСЏ?</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_2_1">
-    <text>РўС‹ РїСЂРёРєРёРґС‹РІР°РµС€СЊСЃСЏ.\nРќРµ С‡СѓРІСЃС‚РІСѓРµС€СЊ, С‡С‚Рѕ СЃ РЅР°РјРё РїСЂРѕРёСЃС…РѕРґРёС‚?</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_2_2">
-    <text>Р”Р° РїРѕР»РѕРІРёРЅР° Р±СѓРЅРєРµСЂР°\nР¶Р°Р»СѓРµС‚СЃСЏ РЅР° Р±РѕР»Рё РІ РіРѕР»РѕРІРµ!</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_2_3">
-    <text>РўС‹ РґСѓРјР°РµС€СЊ, СЌС‚Рѕ РЅРµ СЃРІСЏР·Р°РЅРѕ СЃ РјРѕР·РіРѕРј?</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_3_1">
-    <text>РќСѓ СѓР¶ РЅРµС‚.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_3_2">
-    <text>Рђ РєР°Рє Р¶Рµ РѕСЃС‚Р°Р»СЊРЅС‹Рµ РЅР°С€Рё?</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_3_3">
-    <text>РњС‹ Р¶Рµ СЃ РЅРёРјРё СЃС‚РѕР»СЊРєРѕ\nСЌС‚Сѓ Р—РѕРЅСѓ РёР·СѓС‡Р°РµРј.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_3_4">
-    <text>РџСЂРѕСЃС‚Рѕ Р±СЂРѕСЃРёС‚СЊ РёС… С‚СѓС‚ СѓРјРёСЂР°С‚СЊ?</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_3_5">
-    <text>РќРµС‚. РЇ РїРѕРїС‹С‚Р°СЋСЃСЊ СѓРЅРёС‡С‚РѕР¶РёС‚СЊ СѓСЃС‚Р°РЅРѕРІРєСѓ.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_4_1">
-    <text>РњРµРЅСЏ РЅРµ РїРѕР№РјР°СЋС‚,\nРµСЃР»Рё СЃРґРµР»Р°С‚СЊ РІСЃС‘ С‚РёС…Рѕ.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_4_2">
-    <text>Рљ С‚РѕРјСѓ Р¶Рµ, РµС‰С‘ РЅРµСЃРєРѕР»СЊРєРѕ РїР°СЂРЅРµР№\nРіРѕС‚РѕРІС‹ РјРЅРµ РїРѕРјРѕС‡СЊ.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_4_3">
-    <text>РќСѓ, С‚С‹ СЃРѕ РјРЅРѕР№?</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_5_1">
-    <text>РўСЃСЃ. РўРёС…Рѕ!</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_5_2">
-    <text>РўСѓС‚ РєС‚Рѕ-С‚Рѕ РµСЃС‚СЊ.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_2_phrase_5_3">
-    <text>РЎР»С‹С€Р°Р» С€РѕСЂРѕС… РІ СѓРіР»Сѓ?</text>
-  </string>
-  <string id="st_yan_koval_actor_long_dist_1">
-    <text>РљРѕРјР°РЅРґРёСЂ, РЅРµ РѕС‚СЃС‚Р°РІР°Р№!</text>
-  </string>
-  <string id="st_yan_koval_actor_long_dist_2">
-    <text>Р”РѕРіРѕРЅСЏР№, Р±РѕСЃСЃ! РўС‹ РіРґРµ С‚Р°Рј РїРѕС‚РµСЂСЏР»СЃСЏ?</text>
-  </string>
-  <string id="st_yan_koval_actor_long_dist_3">
-    <text>Р”Р°РІР°Р№ РґРѕРіРѕРЅСЏР№. Р§РµРіРѕ С‚Р°Рј С‚РѕСЂРјРѕР·РёС€СЊ?</text>
-  </string>
-  <string id="st_yan_koval_bye_1">
-    <text>Р”Рѕ СЃРІСЏР·Рё.</text>
-  </string>
-  <string id="st_yan_koval_bye_2">
-    <text>РќСѓ, Р±С‹РІР°Р№. РЈРІРёРґРёРјСЃСЏ.</text>
-  </string>
-  <string id="st_yan_koval_bye_3">
-    <text>РџРѕРєР°, Р±РѕСЃСЃ.</text>
-  </string>
-  <string id="st_yan_koval_bye_4">
-    <text>РўС‹, СЌС‚Рѕ,\nРјР°СЏРєРЅРё С‚Р°Рј, РµСЃР»Рё С‡С‚Рѕ.</text>
-  </string>
-  <string id="st_yan_koval_bye_5">
-    <text>РќСѓ РґР°РІР°Р№. РЈРґР°С‡Рё.</text>
-  </string>
-  <string id="st_yan_koval_can_handle">
-    <text>РРґРёС‚Рµ, СЏ СЃРїСЂР°РІР»СЋСЃСЊ СЃР°Рј. Р—Р° РјРµРЅСЏ РЅРµ РІРѕР»РЅСѓР№С‚РµСЃСЊ.</text>
-  </string>
-  <string id="st_yan_koval_devices_start">
-    <text>РЎРµР№С‡Р°СЃ СЂР°СЃСЃС‚Р°РІР»СЋ РЅСѓР¶РЅРѕРµ РѕР±РѕСЂСѓРґРѕРІР°РЅРёРµ. РўС‹ РїРѕРєР°, СЌС‚Рѕ, РіР»СЏРґРё РІ РѕР±Р°, Р°РіР°?</text>
-  </string>
-  <string id="st_yan_koval_dogs_death">
-    <text>Р’РѕС‚ СЌС‚Рѕ С‚С‹ РІРѕРІСЂРµРјСЏ!</text>
-  </string>
-  <string id="st_yan_koval_hello_1">
-    <text>Р’С‹РєР»Р°РґС‹РІР°Р№. Р§С‚Рѕ С‚Р°Рј Сѓ С‚РµР±СЏ?</text>
-  </string>
-  <string id="st_yan_koval_hello_2">
-    <text>РЎР»СѓС€Р°СЋ, РєРѕРјР°РЅРґРёСЂ.</text>
-  </string>
-  <string id="st_yan_koval_hello_3">
-    <text>Р§РµРіРѕ Сѓ С‚РµР±СЏ, РєРѕРјР°РЅРґРёСЂ?</text>
-  </string>
-  <string id="st_yan_koval_hello_4">
-    <text>РџСЂРёРІРµС‚СЃС‚РІСѓСЋ.</text>
-  </string>
-  <string id="st_yan_koval_hello_5">
-    <text>РўС‹ РїРѕ РґРµР»Сѓ РёР»Рё С‚Р°Рє?</text>
-  </string>
-  <string id="st_yan_koval_sorry">
-    <text>РќРµ СЃРµСЂС‡Р°Р№, РєРѕРјР°РЅРґРёСЂ.\nР‘РѕР»СЊС€Рµ С‚Р°РєРѕРіРѕ РЅРµ РїРѕРІС‚РѕСЂРёС‚СЃСЏ.</text>
-  </string>
-  <string id="st_yan_vuslich_actor_go_off_switcher">
-    <text>РљРѕРјР°РЅРґРёСЂ, РґР°РІР°Р№ РЅР°РІРµСЂС…, РјС‹ РїСЂРёРєСЂРѕРµРј. РўРѕР»СЊРєРѕ РїРѕР±С‹СЃС‚СЂРµРµ, РёС… С‚СѓС‚ РѕС‡РµРЅСЊ РјРЅРѕРіРѕ!</text>
-  </string>
-  <string id="st_yan_vuslich_actor_kill_aver">
-    <text>РљРѕРјР°РЅРґРёСЂ, Р·Р°С‡РµРј? РџСЂРѕСЃС‚Рѕ РѕС‚РїСѓСЃС‚РёР» Р±С‹ РµРіРѕ Рё РїСѓСЃС‚СЊ РґР°Р»СЊС€Рµ СЃРєРёС‚Р°РµС‚СЃСЏ РїРѕ РЇРЅС‚Р°СЂСЋ. РўСѓС‚ Рё С‚Р°Рє СЃР»РёС€РєРѕРј РјРЅРѕРіРѕ Р»СЋРґРµР№ РїРѕРіРёР±Р»Рѕ...</text>
-  </string>
-  <string id="st_yan_vuslich_actor_switcher_compl">
-    <text>РўС‹ РєР°Рє, РєРѕРјР°РЅРґРёСЂ? Р•С‰С‘ Р±С‹ РЅРµРјРЅРѕРіРѕ, Рё РЅР°Рј С‚РѕС‡РЅРѕ Р±С‹Р» Р±С‹ РєРѕРЅРµС†. Р’РѕРІСЂРµРјСЏ С‚С‹ РІС‹СЂСѓР±РёР» СЌС‚Сѓ РіРѕР»РѕРІРѕР»РѕРјРєСѓ.</text>
-  </string>
-  <string id="st_yan_vuslich_bye_1">
-    <text>Р”Р°РІР°Р№, РґРѕ РІСЃС‚СЂРµС‡Рё.</text>
-  </string>
-  <string id="st_yan_vuslich_bye_2">
-    <text>РЈРІРёРґРёРјСЃСЏ.</text>
-  </string>
-  <string id="st_yan_vuslich_bye_3">
-    <text>Р‘С‹РІР°Р№, РєРѕРјР°РЅРґРёСЂ.</text>
-  </string>
-  <string id="st_yan_vuslich_condolence_1">
-    <text>Р–Р°Р»РєРѕ РёС…... Р’СЃРµС… СЌС‚РёС… СѓС‡С‘РЅС‹С…, РѕС…СЂР°РЅСѓ, СЃС‚Р°Р»РєРµСЂРѕРІ... РўР°Рє Рё РѕСЃС‚Р°РЅСѓС‚СЃСЏ С‚РµРїРµСЂСЊ С‚СѓС‚. Р”Р°Р¶Рµ РїРѕС…РѕСЂРѕРЅРёС‚СЊ РЅРµРєРѕРјСѓ...</text>
-  </string>
-  <string id="st_yan_vuslich_condolence_2">
-    <text>Р”Р° С‚Р°Рє Рё С‚Р°Рє РѕР±РёРґРЅРѕ. РћР±РёРґРЅРѕ, С‡С‚Рѕ РІСЃС‘ СЌС‚Рѕ СЃР»СѓС‡РёР»РѕСЃСЊ РёР·-Р·Р° РєР°РєРѕР№-С‚Рѕ РЅРµР»РµРїРѕСЃС‚Рё...</text>
-  </string>
-  <string id="st_yan_vuslich_hello_1">
-    <text>Р—РґРѕСЂРѕРІРѕ, РєРѕРјР°РЅРґРёСЂ!</text>
-  </string>
-  <string id="st_yan_vuslich_hello_2">
-    <text>РџСЂРёРІРµС‚СЃС‚РІСѓСЋ.</text>
-  </string>
-  <string id="st_yan_vuslich_hello_3">
-    <text>Р Р°Рґ С‚РµР±СЏ РІРёРґРµС‚СЊ!</text>
-  </string>
-  <string id="st_yan_vuslich_psy_talk">
-    <text>РљРѕРјР°РЅРґРёСЂ, С‚СѓС‚ РїСЂР°РІРґР° С‡С‚Рѕ-С‚Рѕ РЅРµ С‚Р°Рє. РњРµРЅСЏ С‚РѕР¶Рµ СЃР»РµРіРєР° РїРѕС€Р°С‚С‹РІР°РµС‚.</text>
-  </string>
-  <string id="st_yan_vuslich_see_oddities">
-    <text>РљРѕРјР°РЅРґРёСЂ, СЏ СЃРµР№С‡Р°СЃ РЅР°Р±Р»СЋРґР°СЋ Р·Р° РѕРєСЂРµСЃС‚РЅРѕСЃС‚СЏРјРё Рё РєР°Р¶РµС‚СЃСЏ, С‡С‚Рѕ СЏ С‡С‚Рѕ-С‚Рѕ РІРёРґРµР». Р§С‚Рѕ-С‚Рѕ СЃС‚СЂР°РЅРЅРѕРµ...</text>
-  </string>
-  <string id="st_yan_vuslich_see_zombie">
-    <text>РљРѕРјР°РЅРґРёСЂ, Р·РѕРјР±РёСЂРѕРІР°РЅРЅС‹Рµ!</text>
-  </string>
-  <string id="st_yan_vuslich_stop_koval_sleep">
-    <text>Р­Р№, СЃС‚Р°Р»РєРµСЂРѕРє! Р’СЃС‚Р°РІР°Р№ РґР°РІР°Р№, РїРѕСЂР° СЂР°Р±РѕС‚Р°С‚СЊ!</text>
-  </string>
-  <string id="st_yan_xottab_breaking_the_door_final_1">
-    <text>РќСѓ РІРѕС‚, РґРІРµСЂСЊ СЃ РїРµС‚РµР»СЊ.</text>
-  </string>
-  <string id="st_yan_xottab_breaking_the_door_final_2">
-    <text>РњРѕР¶РЅРѕ Рё Р·Р°С…РѕРґРёС‚СЊ.</text>
-  </string>
-  <string id="st_yan_xottab_breaking_the_door_in_process_1">
-    <text>РџРѕРіРѕРґРё, РєРѕРјР°РЅРґРёСЂ.\nР”РІРµСЂСЊ РїРѕРєР° РЅРµ РїРѕРґРґР°С‘С‚СЃСЏ.</text>
-  </string>
-  <string id="st_yan_xottab_breaking_the_door_in_process_2">
-    <text>РќРµ С‚РѕСЂРѕРїРё С‚СѓС‚.\nР’СЃС‘ РЅРµ С‚Р°Рє-С‚Рѕ РїСЂРѕСЃС‚Рѕ.</text>
-  </string>
-  <string id="st_yan_xottab_breaking_the_door_in_process_3">
-    <text>РќРµ С…РѕС‡РµС‚ РѕС‚РєСЂС‹РІР°С‚СЊСЃСЏ, Р·Р°СЂР°Р·Р°.\nР—Р°Р№РјРёСЃСЊ РїРѕРєР° СЃРІРѕРёРјРё РґРµР»Р°РјРё.</text>
-  </string>
-  <string id="st_yan_xottab_breaking_the_door_start">
-    <text>РџРѕРїСЂРѕР±СѓСЋ СЂР°Р·РѕР±СЂР°С‚СЊСЃСЏ СЃ РґРІРµСЂСЊСЋ.</text>
-  </string>
-  <string id="st_yan_xottab_bye_1">
-    <text>Р”Рѕ СЃРІСЏР·Рё.</text>
-  </string>
-  <string id="st_yan_xottab_bye_2">
-    <text>РЈРІРёРґРёРјСЃСЏ.</text>
-  </string>
-  <string id="st_yan_xottab_bye_3">
-    <text>Р‘С‹РІР°Р№, РєРѕРјР°РЅРґРёСЂ.</text>
-  </string>
-  <string id="st_yan_xottab_bye_4">
-    <text>Р‘СѓРґСѓ Р¶РґР°С‚СЊ СѓРєР°Р·Р°РЅРёР№.</text>
-  </string>
-  <string id="st_yan_xottab_bye_5">
-    <text>Р‘СѓРґРµС‚ РґРµР»Рѕ вЂ” СЃРІСЏР¶РёСЃСЊ СЃРѕ РјРЅРѕР№.</text>
-  </string>
-  <string id="st_yan_xottab_hello_1">
-    <text>РљРѕРјР°РЅРґРёСЂ, СЂР°Рґ РІРёРґРµС‚СЊ!</text>
-  </string>
-  <string id="st_yan_xottab_hello_2">
-    <text>РџСЂРёРІРµС‚СЃС‚РІСѓСЋ, Р±РѕСЃСЃ.</text>
-  </string>
-  <string id="st_yan_xottab_hello_3">
-    <text>РќСѓ, Р·РґРѕСЂРѕРІРѕ.</text>
-  </string>
-  <string id="st_yan_xottab_hello_4">
-    <text>РЎР»СѓС€Р°СЋ, РєРѕРјР°РЅРґРёСЂ.</text>
-  </string>
-  <string id="st_yan_xottab_hello_5">
-    <text>Р’С‹РєР»Р°РґС‹РІР°Р№. Р”РµР»Рѕ РµСЃС‚СЊ?</text>
-  </string>
-  <string id="st_yan_xottab_question_about_bunker">
-    <text>РќСѓ, С‡С‚Рѕ РІ Р±СѓРЅРєРµСЂРµ С‚РІРѕСЂРёС‚СЃСЏ?</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_1_record_1">
-    <text>РЎРµРіРѕРґРЅСЏ Сѓ РЅР°СЃ РїРѕСЃР»РµРґРЅРёР№ РґРµРЅСЊ СЂР°Р±РѕС‚С‹ РЅР°Рґ РїРѕРґРіРѕС‚РѕРІРєРѕР№ Рє РїРѕР»РЅРѕС†РµРЅРЅРѕРјСѓ Р·Р°РїСѓСЃРєСѓ СѓСЃС‚Р°РЅРѕРІРєРё.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_1_record_2">
-    <text>Р•С‘ РІРєР»СЋС‡РµРЅРёРµ РїРѕРјРѕР¶РµС‚ РЅР°Рј РїСЂРѕРґРІРёРЅСѓС‚СЊСЃСЏ РІ РёР·СѓС‡РµРЅРёРё РїСЃРё-Р°РєС‚РёРІРЅРѕСЃС‚Рё.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_1_record_3">
-    <text>РћРґРЅР°РєРѕ С‚РµРїРµСЂСЊ РјС‹ РїРѕР»РЅРѕСЃС‚СЊСЋ РєРѕРЅС‚СЂРѕР»РёСЂСѓРµРј СЂР°Р±РѕС‚Сѓ РјРѕР·РіР°,</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_1_record_4">
-    <text>РїРѕСЌС‚РѕРјСѓ РµРіРѕ РёР·Р»СѓС‡РµРЅРёРµ РЅРµ Р±СѓРґРµС‚ РІС‹С…РѕРґРёС‚СЊ Р·Р° СЂР°РјРєРё РІС‹РґРµР»РµРЅРЅРѕР№ Р—РѕРЅС‹.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_1_record_5">
-    <text>Рђ Р·РЅР°С‡РёС‚, РјС‹ СЃРјРѕР¶РµРј РїРѕР»РЅРѕСЃС‚СЊСЋ СѓРїСЂР°РІР»СЏС‚СЊ РµРіРѕ РјРѕС‰РЅРѕСЃС‚СЊСЋ,</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_1_record_6">
-    <text>Р° С‡С‚Рѕ РµС‰С‘ Р»СѓС‡С€Рµ: РІС‹Р±РёСЂР°С‚СЊ РєРѕРЅРєСЂРµС‚РЅС‹Рµ С†РµР»Рё РґР»СЏ РІРѕР·РґРµР№СЃС‚РІРёСЏ.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_1_record_7">
-    <text>РњРµСЂР·РєРёРј cРЅРѕСЂРєР°Рј РЅР° РѕР·РµСЂРµ СЌС‚Рѕ С‚РѕС‡РЅРѕ РїРѕРЅСЂР°РІРёС‚СЃСЏ.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_2_record_1">
-    <text>РџСѓСЃС‚СЊ РјРµРЅСЏ С…РѕС‚СЊ РїРѕСЃР°РґСЏС‚ РёР»Рё СЂР°СЃСЃС‚СЂРµР»СЏСЋС‚ вЂ” РїР»РµРІР°С‚СЊ.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_2_record_2">
-    <text>РЇ Р±РѕР»СЊС€Рµ РЅРµ РјРѕРіСѓ Р·Р°РєСЂС‹РІР°С‚СЊ РіР»Р°Р·Р° РЅР° РїСЂРѕРёСЃС…РѕРґСЏС‰РµРµ РІ Р»Р°Р±РѕСЂР°С‚РѕСЂРёРё.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_2_record_3">
-    <text>РЈР¶Рµ РєР°Р¶РґС‹Р№ РІС‚РѕСЂРѕР№ Р¶Р°Р»СѓРµС‚СЃСЏ РЅР° РіРѕР»РѕРІРЅС‹Рµ Р±РѕР»Рё,</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_2_record_4">
-    <text>Р° РІРµРґСЊ СѓСЃС‚Р°РЅРѕРІРєР° СЂР°Р±РѕС‚Р°РµС‚ С‚РѕР»СЊРєРѕ РІ Р¶РґСѓС‰РµРј СЂРµР¶РёРјРµ.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_2_record_5">
-    <text>Р•СЃР»Рё РѕРЅРё РµС‘ Р·Р°РїСѓСЃС‚СЏС‚, РєСЂР°РЅС‚С‹ РЅР°Рј РІСЃРµРј РїСЂРёРґС‘С‚.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_2_record_6">
-    <text>РЇ РїРѕС‡РёС‚Р°Р» РґРѕРєСѓРјРµРЅС‚Р°С†РёСЋ, Р·РЅР°СЋ, РєР°Рє РІС‹РІРµСЃС‚Рё РµС‘ РёР· СЃС‚СЂРѕСЏ С‚Р°Рє,</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_2_record_7">
-    <text>С‡С‚Рѕ РјРѕР·Рі Р°С‚СЂРѕС„РёСЂСѓРµС‚СЃСЏ Рё Р±РѕР»СЊС€Рµ СЂР°Р±РѕС‚Р°С‚СЊ СѓР¶Рµ РЅРёРєРѕРіРґР° РЅРµ Р±СѓРґРµС‚.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_2_record_8">
-    <text>Р‘РѕР»СЊС€РёРЅСЃС‚РІРѕ РјРЅРµ РµС‰С‘ РїРѕС‚РѕРј СЃРїР°СЃРёР±Рѕ СЃРєР°Р¶СѓС‚.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_2_record_9">
-    <text>РЇ РЅР°РґРµСЋСЃСЊ, СѓРґР°СЃС‚СЃСЏ Р±РµР· Р»РёС€РЅРёС… РїСЂРѕР±Р»РµРј РІС‹РєСЂР°СЃС‚СЊ РєР»СЋС‡ РѕС‚ РєРѕРјРЅР°С‚С‹ СѓРїСЂР°РІР»РµРЅРёСЏ</text>
-  </string>
-  <string id="st_yan_labx16_second_task_scientist_corp_2_record_10">
-    <text>Рё СЃРґРµР»Р°С‚СЊ РІСЃС‘ С‚РёС…Рѕ Рё РЅРµР·Р°РјРµС‚РЅРѕ.</text>
-  </string>
-  <string id="st_yan_help_message_1">
-    <text>РџРѕРјРѕРіРёС‚Рµ!</text>
-  </string>
-  <string id="st_yan_help_message_2">
-    <text>Р’СЃРµРј, РєС‚Рѕ РЅР°СЃ СЃР»С‹С€РёС‚!</text>
-  </string>
-  <string id="st_yan_help_message_3">
-    <text>[СЃРѕРѕР±С‰РµРЅРёСЏ СЃ РїРѕРјРµС…Р°РјРё]</text>
-  </string>
-  <string id="st_yan_help_message_3_cc">
-    <text>[СЃРѕРѕР±С‰РµРЅРёСЏ СЃ РїРѕРјРµС…Р°РјРё]</text>
-  </string>
-  <string id="st_yan_help_message_4">
-    <text>РЎР»С‹С€РёС‚Рµ РјРµРЅСЏ?</text>
-  </string>
-  <string id="st_yan_labx16_task_fly_stalker_record_1">
-    <text>РџСЂРѕРІРµСЂРєР° СЂР°РґРёР°С†РёРѕРЅРЅРѕРіРѕ Р·Р°СЂР°Р¶РµРЅРёСЏ РЅР° РїРѕРІРµСЂС…РЅРѕСЃС‚Рё РїСЂРѕС€Р»Р° СѓСЃРїРµС€РЅРѕ.</text>
-  </string>
-  <string id="st_yan_labx16_task_fly_stalker_record_2">
-    <text>РЈСЂРѕРІРµРЅСЊ СЂР°РґРёР°С†РёРё СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ РЅРѕСЂРјРµ, С‚Р°Рє С‡С‚Рѕ РјРѕР¶РµС‚Рµ РЅРµ РІРѕР»РЅРѕРІР°С‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_yan_labx16_task_fly_stalker_record_3">
-    <text>РћСЃС‚Р°Р»РѕСЃСЊ С‚РѕР»СЊРєРѕ РїСЂРѕРІРµСЂРёС‚СЊ Р°РЅРі...</text>
-  </string>
-  <string id="st_yan_labx16_task_fly_stalker_record_4_cc">
-    <text>[РІР·СЂС‹РІ]</text>
-  </string>
-  <string id="st_yan_sky_connect_koval_seen_1">
-    <text>Р–СѓСЂР°РІР»С‘РІ, РїСЂРёС‘Рј!</text>
-  </string>
-  <string id="st_yan_sky_connect_koval_seen_2">
-    <text>РЇ Р·Р°СЃС‘Рє СЃРёРіРЅР°Р» РљРѕРІР°Р»СЏ. РћРЅ Р·Р° Р·Р°РІРѕРґРѕРј, РЅРµРїРѕРґР°Р»С‘РєСѓ РѕС‚ Р°СЂС…РёР°РЅРѕРјР°Р»РёРё.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_go_check_pda_1">
-    <text>РўР°Рє, РѕС‚Р»РёС‡РЅРѕ! РР·Р»СѓС‡РµРЅРёРµ РїСЂР°РєС‚РёС‡РµСЃРєРё РЅР° РЅСѓР»Рµ.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_go_check_pda_2">
-    <text>РЈ РїСЂРѕР»РѕРјР° С‚РµРїРµСЂСЊ Р±РµР·РѕРїР°СЃРЅРѕ. Р”РµР№СЃС‚РІСѓР№!</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_1">
-    <text>Р–СѓСЂР°РІР»С‘РІ, РёР· РЅР°Р№РґРµРЅРЅС‹С… РІ Р±СѓРЅРєРµСЂРµ РґР°РЅРЅС‹С… РјРЅРµ СѓРґР°Р»РѕСЃСЊ РєРѕРµ-С‡С‚Рѕ СѓР·РЅР°С‚СЊ.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_2">
-    <text>Р•СЃС‚СЊ РІРѕР·РјРѕР¶РЅРѕСЃС‚СЊ РґРѕР±СЂР°С‚СЊСЃСЏ РґРѕ С‚РµР»Р° РѕРґРЅРѕРіРѕ СЃС‚Р°Р»РєРµСЂР°.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_3">
-    <text>Р­С‚Рѕ СЂСЏРґРѕРј СЃ С‚РµРј РјРµСЃС‚РѕРј, РіРґРµ РѕР±РІР°Р»РёР»СЃСЏ РіР»Р°РІРЅС‹Р№ Р·Р°Р» Р»Р°Р±РѕСЂР°С‚РѕСЂРёРё РҐ-16.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_4">
-    <text>Р”Р»СЏ СЌС‚РѕРіРѕ РЅРµРѕР±С…РѕРґРёРјРѕ РІРєР»СЋС‡РёС‚СЊ РѕС…Р»Р°РґРёС‚РµР»СЊРЅСѓСЋ СѓСЃС‚Р°РЅРѕРІРєСѓ, РєРѕС‚РѕСЂР°СЏ РЅР°С…РѕРґРёС‚СЃСЏ РІ Р°РЅРіР°СЂРµ РЅР° С‚РµСЂСЂРёС‚РѕСЂРёРё Р·Р°РІРѕРґР°.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_5">
-    <text>РўРѕРіРґР° РёР·Р»СѓС‡РµРЅРёРµ РІРѕР·Р»Рµ РїСЂРѕР»РѕРјР° РґРѕР»Р¶РЅРѕ СЃС‚Р°Р±РёР»РёР·РёСЂРѕРІР°С‚СЊСЃСЏ, Рё РјС‹ СЃРјРѕР¶РµРј РґРѕР±СЂР°С‚СЊСЃСЏ РґРѕ С‚РµР»Р° Р±РµРґРѕР»Р°РіРё.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_6">
-    <text>Рђ РµС‰С‘ СЏ РЅРµ РјРѕРіСѓ РґРѕ РєРѕРЅС†Р° РїРѕРЅСЏС‚СЊ, РїРѕС‡РµРјСѓ РѕРЅРѕ РІРѕРѕР±С‰Рµ РїСЂРёСЃСѓС‚СЃС‚РІСѓРµС‚, РІРµРґСЊ РіР»Р°РІРЅС‹Р№ РµРіРѕ РёСЃС‚РѕС‡РЅРёРє С„Р°РєС‚РёС‡РµСЃРєРё СѓРЅРёС‡С‚РѕР¶РµРЅ.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_7">
-    <text>РќСѓ, РІРїСЂРѕС‡РµРј, Р»Р°РґРЅРѕ. Р’СЃСЏРєРѕРµ РІРѕР·РјРѕР¶РЅРѕ. Р›РѕРІРё РєРѕРѕСЂРґРёРЅР°С‚С‹.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_8">
-    <text>Рђ, Рё РµС‰С‘: РЅР°СЃС‚СЂРѕР№РєРѕР№ СЃРёСЃС‚РµРјС‹ РѕС…Р»Р°Р¶РґРµРЅРёСЏ РІ СЃРІРѕС‘ РІСЂРµРјСЏ Р·Р°РЅРёРјР°Р»СЃСЏ РЅРµРєРёР№ СЃС‚Р°Р»РєРµСЂ Р›РµРІС€Р°,</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_9">
-    <text>С‚Р°Рє С‡С‚Рѕ РЅР°РґРѕР»РіРѕ С‚С‹ С‚Р°Рј РЅРµ Р·Р°РґРµСЂР¶РёС€СЊСЃСЏ: С‚РµР±Рµ РµС‘ РЅСѓР¶РЅРѕ РїСЂРѕСЃС‚Рѕ РІРєР»СЋС‡РёС‚СЊ.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_10">
-    <text>РўР°Рј РѕРґРЅР° РєРЅРѕРїРєР°, РєР°Рє СЏ СѓР·РЅР°Р» РёР· СЃС…РµРјС‹ РЅР° РЅРѕСѓС‚Рµ РЎР°С…Р°СЂРѕРІР°.</text>
-  </string>
-  <string id="st_yan_sky_connect_labx16_first_info_11">
-    <text>Р’СЃС‘, СѓРґР°С‡Рё!</text>
-  </string>
-  <string id="st_yan_sky_first_connect_1">
-    <text>Р“СЂСѓРїРїР°, РїСЂРёС‘Рј!</text>
-  </string>
-  <string id="st_yan_sky_first_connect_2">
-    <text>РЇ РїС‹С‚Р°Р»СЃСЏ РЅР°СЃС‚СЂРѕРёС‚СЊ СЃРѕРµРґРёРЅРµРЅРёРµ СЃРѕ СЃРїСѓС‚РЅРёРєРѕРј, РЅРѕ СЌС‚Рѕ РґРѕС…Р»РѕРµ РґРµР»Рѕ.</text>
-  </string>
-  <string id="st_yan_sky_first_connect_3">
-    <text>РџРѕСЌС‚РѕРјСѓ СЃРІСЏР·СЊ С‚РѕР»СЊРєРѕ РїРѕ СЂР°С†РёРё.</text>
-  </string>
-  <string id="st_yan_sky_first_connect_4">
-    <text>Р’РµСЂРѕСЏС‚РЅРѕ, РїРѕ СЌС‚РѕР№ Р¶Рµ РїСЂРёС‡РёРЅРµ РґРѕ Р±Р°Р·С‹ РЅРµ РґРѕС…РѕРґРёР»Рё СЃРёРіРЅР°Р»С‹ РѕС‚ РІС‹Р¶РёРІС€РёС…. Р•СЃР»Рё РѕРЅРё Р±С‹Р»Рё, РєРѕРЅРµС‡РЅРѕ.</text>
-  </string>
-  <string id="st_yan_sky_first_connect_5">
-    <text>РЇ Р·Р°РїСѓСЃС‚РёР» РґСЂРѕРЅ: РѕРЅ Р±СѓРґРµС‚ СЃРєР°РЅРёСЂРѕРІР°С‚СЊ РјРµСЃС‚РЅРѕСЃС‚СЊ РЅР° РїСЂРµРґРјРµС‚ РґРІРёР¶РµРЅРёСЏ Рё Р°РЅРѕРјР°Р»СЊРЅРѕР№ Р°РєС‚РёРІРЅРѕСЃС‚Рё.</text>
-  </string>
-  <string id="st_yan_sky_first_connect_6">
-    <text>РљР°СЂС‚РёРЅРєСѓ СЃ РЅРµРіРѕ РїРѕР»СѓС‡РёС‚СЊ РЅРµ СѓРґР°С‘С‚СЃСЏ: РєР°РєРёРµ-С‚Рѕ СЃРёР»СЊРЅС‹Рµ РїРѕРјРµС…Рё. Р§С‚Рѕ-С‚Рѕ Р·РґРµСЃСЊ СЏРІРЅРѕ РіР»СѓС€РёС‚ СЃРёРіРЅР°Р».</text>
-  </string>
-  <string id="st_yan_sky_first_connect_7">
-    <text>Р”Р°С‚С‡РёРєРё РїРѕРєР°Р·С‹РІР°СЋС‚, С‡С‚Рѕ РїРѕРєР° РІСЃС‘ СЃРїРѕРєРѕР№РЅРѕ. Р•СЃР»Рё С‡С‚Рѕ-С‚Рѕ РёР·РјРµРЅРёС‚СЃСЏ, СЃРѕРѕР±С‰Сѓ.</text>
-  </string>
-  <string id="st_yan_sky_first_connect_8">
-    <text>РљРѕРЅРµС† СЃРІСЏР·Рё.</text>
-  </string>
-  <string id="st_yan_sky_connect_someone_alive_1">
-    <text>Р“СЂСѓРїРїР°, РїСЂРёС‘Рј!</text>
-  </string>
-  <string id="st_yan_sky_connect_someone_alive_2">
-    <text>Рљ СЃРµРІРµСЂРѕ-Р·Р°РїР°РґСѓ РѕС‚ РІР°СЃ Р·Р°С„РёРєСЃРёСЂРѕРІР°РЅ СЃР»Р°Р±С‹Р№ СЃРёРіРЅР°Р» РѕС‚ РљРџРљ.</text>
-  </string>
-  <string id="st_yan_sky_connect_someone_alive_3">
-    <text>Р‘РѕР»СЊС€Рµ РґР°РЅРЅС‹С… РґР°С‚СЊ РЅРµ РјРѕРіСѓ, РЅРѕ СЌС‚Рѕ С‚РѕС‡РЅРѕ РєС‚Рѕ-С‚Рѕ Р¶РёРІРѕР№!</text>
-  </string>
-  <string id="st_yan_sky_connect_someone_alive_4">
-    <text>РџРѕРјРµС‚РёР» РЅР° РєР°СЂС‚Рµ РїСЂРёРјРµСЂРЅРѕРµ РјРµСЃС‚РѕРїРѕР»РѕР¶РµРЅРёРµ.</text>
-  </string>
-  <string id="st_yan_sky_connect_more_accurate_pda">
-    <text>Р–СѓСЂР°РІР»С‘РІ, Р°РєРєСѓСЂР°С‚РЅРµРµ! РСЃС‚РѕС‡РЅРёРє СЃРёРіРЅР°Р»Р° РЅР°С‡Р°Р» Р±С‹СЃС‚СЂРѕРµ РґРІРёР¶РµРЅРёРµ РІ С‚РІРѕСЋ СЃС‚РѕСЂРѕРЅСѓ. Р”РІРёРіР°РµС‚СЃСЏ РїСЂСЏРјРѕ РЅР° С‚РµР±СЏ!</text>
-  </string>
-  <string id="st_yan_sky_connect_200_pda">
-    <text>Р”Рѕ С†РµР»Рё РґРІРµСЃС‚Рё РјРµС‚СЂРѕРІ.</text>
-  </string>
-  <string id="st_yan_sky_connect_100_pda">
-    <text>РЎС‚Рѕ РјРµС‚СЂРѕРІ. Р’РёРґРёС€СЊ РєРѕРіРѕ-С‚Рѕ?</text>
-  </string>
-  <string id="st_yan_sky_connect_koval_lost_1">
-    <text>Р’ Р»Р°РіРµСЂРµ РµРіРѕ С‚РѕР¶Рµ РЅРµС‚, Рё СЃРёРіРЅР°Р» РµРіРѕ СЏ РїРѕРєР° РїРѕР№РјР°С‚СЊ РЅРµ РјРѕРіСѓ.</text>
-  </string>
-  <string id="st_yan_sky_connect_koval_lost_2">
-    <text>Р•СЃР»Рё С‡С‚Рѕ-С‚Рѕ Р±СѓРґРµС‚, С‚Рѕ СЃРѕРѕР±С‰Сѓ.</text>
-  </string>
-  <string id="st_yan_collect_info_solo_zombie_record_1">
-    <text>РўРѕР»СЊРєРѕ С‡С‚Рѕ РЅР° Р·Р°РІРѕРґРµ С‡С‚Рѕ-С‚Рѕ СЂРІР°РЅСѓР»Рѕ.</text>
-  </string>
-  <string id="st_yan_collect_info_solo_zombie_record_2">
-    <text>Р—РµРјР»СЏ Р°Р¶ РїРѕРґ РЅРѕРіР°РјРё Р·Р°С‚СЂСЏСЃР»Р°СЃСЊ, Р° РјРµРЅСЏ СЃР»РѕРІРЅРѕ Р±РёС‚РѕР№ РїРѕ Р±Р°С€РєРµ РїСЂРёР»РѕР¶РёР»Рѕ.</text>
-  </string>
-  <string id="st_yan_collect_info_solo_zombie_record_3">
-    <text>Р’РѕР·РјРѕР¶РЅРѕ, СЌС‚Рѕ РєР°Рє-С‚Рѕ СЃРІСЏР·Р°РЅРѕ СЃ РЅР°С€РёРј РїСЂРѕРµРєС‚РѕРј. РҐРѕС‚СЏ, С‡С‚Рѕ С‚Р°Рј РјРѕРіР»Рѕ РїРѕР№С‚Рё РЅРµ С‚Р°Рє?</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_record_1">
-    <text>Р РѕРјР°РЅ РЎРµСЂРіРµРµРІРёС‡ РѕС‚РїСЂР°РІРёР» РїСЂРѕРІРµСЂРёС‚СЊ Р°РЅРіР°СЂ РЅР° РїСЂРµРґРјРµС‚ СЂР°РґРёР°С†РёРѕРЅРЅРѕРіРѕ Р·Р°СЂР°Р¶РµРЅРёСЏ.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_record_2">
-    <text>РќРµСЃРєРѕР»СЊРєРѕ СЃРѕС‚СЂСѓРґРЅРёРєРѕРІ РЅР°С€РµРіРѕ Р±СѓРЅРєРµСЂР° Р¶Р°Р»РѕРІР°Р»РёСЃСЊ РЅР° Р·Р°С€РєР°Р»РёРІР°СЋС‰РёРµ СЃС‡С‘С‚С‡РёРєРё.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_record_3">
-    <text>Р’Р·СЏР» СЃ СЃРѕР±РѕР№ РІ РЅР°РїР°СЂРЅРёРєРё Р’РѕР»СЊРЅРѕРІР°. РћРЅ РІ РїРѕСЃР»РµРґРЅРµРµ РІСЂРµРјСЏ Р·Р°РґР°РІР°Р» РјРЅРѕРіРѕ РІРѕРїСЂРѕСЃРѕРІ Рѕ СЂР°Р±РѕС‚Рµ СѓСЃС‚Р°РЅРѕРІРєРё.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_record_4">
-    <text>Р—Р°РѕРґРЅРѕ СЂР°Р·СѓР·РЅР°СЋ Сѓ РЅРµРіРѕ, С‡С‚Рѕ РµРіРѕ С‚Р°Рє Р·Р°РёРЅС‚РµСЂРµСЃРѕРІР°Р»Рѕ.</text>
-  </string>
-  <string id="st_yan_collect_info_angar_scientist_record_5">
-    <text>Р’РґСЂСѓРі РЎР°С…Р°СЂРѕРІ РЅРµРґР°СЂРѕРј РІС‹СЃРєР°Р·С‹РІР°Р» РѕРїР°СЃРµРЅРёСЏ Рѕ РІРѕР·РјРѕР¶РЅРѕРј СЃСЂС‹РІРµ СЌРєСЃРїРµСЂРёРјРµРЅС‚РѕРІ?</text>
-  </string>
-  <string id="yan_labx16_second_task_transiver_record_name">
-    <text>Р”РёСЃРїРµС‚С‡РµСЂСЃРєР°СЏ</text>
-  </string>
-  <string id="st_yan_labx16_second_task_transiver_record_1">
-    <text>РћС…СЂР°РЅР°, Сѓ РЅР°СЃ Р§Рџ!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_transiver_record_2">
-    <text>РўРѕР»СЊРєРѕ С‡С‚Рѕ РџСЂРѕС…РѕСЂРѕРІ Р·Р°Р»РµС‚РµР» РєРѕ РјРЅРµ РІ РєР°Р±РёРЅРµС‚ Рё СЂР°СЃСЃР°РґРёР» РјРЅРµ РіРѕР»РѕРІСѓ.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_transiver_record_3">
-    <text>РџРѕРєР° СЏ Р»РµР¶Р°Р» РІ РѕС‚РєР»СЋС‡РєРµ, РѕРЅ Р·Р°Р±СЂР°Р» РєР»СЋС‡Рё РѕС‚ РєРѕРјРЅР°С‚С‹ СѓРїСЂР°РІР»РµРЅРёСЏ.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_transiver_record_4">
-    <text>РќРµ Р·РЅР°СЋ, С‡С‚Рѕ РѕРЅ Р·Р°РґСѓРјР°Р», РЅРѕ РµРіРѕ РЅР°РґРѕ РѕСЃС‚Р°РЅРѕРІРёС‚СЊ.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_transiver_record_5">
-    <text>РўР°Рј Р¶Рµ СѓСЃС‚Р°РЅРѕРІРєР°. Р•СЃР»Рё РѕРЅ С‡С‚Рѕ-С‚Рѕ СЃ РЅРµР№ СЃРґРµР»Р°РµС‚, РЅР°Рј РІСЃРµРј С‚СѓС‚ РєРѕРЅРµС†!</text>
-  </string>
-  <string id="st_yan_collect_info_bunker_zombie_scientist_record_1">
-    <text>РљР°Рє Р¶Рµ СЏ Р·Р°РјСѓРґРѕС…Р°Р»СЃСЏ СЃ СЌС‚РёРј РёР·Р»СѓС‡Р°С‚РµР»РµРј. РќР° РєРѕР№ Р»СЏРґ РµРіРѕ РІРѕРѕР±С‰Рµ СЃСЋРґР° РїРѕСЃС‚Р°РІРёР»Рё?</text>
-  </string>
-  <string id="st_yan_collect_info_bunker_zombie_scientist_record_2">
-    <text>РњР°Р»Рѕ С‚РѕРіРѕ, С‡С‚Рѕ РѕРЅ РЅРµ СЂР°Р±РѕС‚Р°РµС‚ РєР°Рє СЃР»РµРґСѓРµС‚, С‚Р°Рє РµС‰С‘ Рё СЃРІСЏР·СЊ СЃ РЅР°СѓС‡РЅС‹Рј РєРѕРјРїР»РµРєСЃРѕРј РЅРµ С„СѓСЂС‹С‡РёС‚.</text>
-  </string>
-  <string id="st_yan_collect_info_bunker_zombie_scientist_record_3">
-    <text>РџСЂРёСЃС‹Р»Р°Р№С‚Рµ СѓР¶Рµ СЃРІРѕРµРіРѕ С…РІР°Р»РµРЅРѕРіРѕ С‚РµС…РЅРёРєР°. РћРЅ РµС‘ СЃРѕР·РґР°Р», С‚Р°Рє РїСѓСЃС‚СЊ СЃР°Рј СЃРІРѕС‘ РґРµСЂСЊРјРёС‰Рµ СЂР°Р·РіСЂРµР±Р°РµС‚.</text>
-  </string>
-  <string id="st_yan_collect_info_bunker_zombie_scientist_record_4">
-    <text>РЎР»С‹С€РёС‚Рµ? РџСЂРёС‘Рј, СЃР»С‹С€РёС‚Рµ РјРµРЅСЏ? РЎРѕР±Р°РєРё!</text>
-  </string>
-  <string id="st_yan_xottab_breaking_the_door_complete">
-    <text>РЇ РІСЃРєСЂС‹Р» РґРІРµСЂСЊ. Р”РІРёРіР°Р№С‚Рµ СЃСЋРґР°.</text>
-  </string>
-  <string id="st_yan_koval_go_factory_psy_hit_1">
-    <text>Рђ-Р°-Р°!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_1">
-    <text>Р“СЂСѓРїРїР° 7 Рё 9, Р±С‹СЃС‚СЂРѕ Рє РєРѕРјРЅР°С‚Рµ СѓРїСЂР°РІР»РµРЅРёСЏ!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_2">
-    <text>РўСѓС‚ Сѓ РЅР°СЃ РѕРґРёРЅ РїСЂРёРґСѓСЂРѕРє СЏР№С†РµРіРѕР»РѕРІС‹Р№ РїРѕ Р»СЋРґСЏРј СЃ Р°РІС‚РѕРјР°С‚Р° С€РјР°Р»СЏРµС‚.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_3">
-    <text>РЈР¶Рµ С‚СЂРѕРµ РґРІСѓС…СЃРѕС‚С‹С…!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_4">
-    <text>РџРѕРЅСЏР» РІР°СЃ, РІС‹РґРІРёРіР°РµРјСЃСЏ!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_5">
-    <text>Р‘С‹СЂРµРЅСЊРєРѕ РґР°РІР°Р№С‚Рµ, РјСѓР¶РёРєРё!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_6">
-    <text>РќРµ РїСѓСЃРєР°Р№С‚Рµ РµРіРѕ Рє СѓСЃС‚Р°РЅРѕРІРєРµ!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_7">
-    <text>РЎРµР№С‡Р°СЃ РЅРµР»СЊР·СЏ РїСЂРѕРІРѕРґРёС‚СЊ РЅРёРєР°РєРёРµ РґРµР№СЃС‚РІРёСЏ СЃ РјРѕР·РіРѕРј!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_8">
-    <text>РЈСЃС‚Р°РЅРѕРІРєР° РЅРµСЃС‚Р°Р±РёР»СЊРЅР° Рё РјРѕР¶РµС‚ РїСЂРёРІРµСЃС‚Рё Рє С„Р°С‚Р°Р»СЊРЅС‹Рј РїРѕСЃР»РµРґСЃС‚РІРёСЏРј!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_9">
-    <text>РќСѓ С‚Р°Рє РёРґРё РѕС‚СЃСЋРґР°, Р±РѕР»РІР°РЅ, Рё РѕСЃС‚Р°РЅРѕРІРё РµРіРѕ!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_10">
-    <text>РќР°РїСЏР»РёР» С…Р°Р»Р°С‚РёРє Рё РєРѕРјР°РЅРґСѓРµС‚ С‚Р°Рј, СЃСѓРєР°.</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_11">
-    <text>Р’С‹ РЅРµ РїРѕРЅРёРјР°РµС‚Рµ! Р•СЃР»Рё РѕРЅ РґРѕР±РµСЂС‘С‚СЃСЏ РґРѕ РїСѓР»СЊС‚Р° вЂ” РЅР°Рј РІСЃРµРј РєРѕРЅРµС†!</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_12">
-    <text>Р’СЃРµРј! РџРѕРЅРёРјР°РµС‚Рµ?</text>
-  </string>
-  <string id="st_yan_labx16_second_task_soldier_corp_record_13">
-    <text>Р’СЃС‘, РЅРµ РѕСЂРё. РџСЂРёРґСѓРјР°РµРј С‡С‚Рѕ-РЅРёР±СѓРґСЊ.</text>
-  </string>
+
+	<string id="st_yan_actor_check_bunker_territory">
+		<text>Мы пока осмотрим двор.</text>
+	</string>
+
+	<string id="st_yan_actor_check_monsters_1">
+		<text>Да уж. Несладко им тут,\nвидимо, пришлось.</text>
+	</string>
+
+	<string id="st_yan_actor_check_monsters_2">
+		<text>Вряд ли кто-то мог уцелеть\nпосле такого.</text>
+	</string>
+
+	<string id="st_yan_actor_check_scientist_corp_1">
+		<text>А вот и первый\nдвухсотый учёный.</text>
+	</string>
+
+	<string id="st_yan_actor_check_scientist_corp_2">
+		<text>И что его могло так разорвать?</text>
+	</string>
+
+	<string id="st_yan_actor_final_scene_heli_start">
+		<text>Быстрее, быстрее! Взлетаем.</text>
+	</string>
+
+	<string id="st_yan_actor_kill_aver_1">
+		<text>Нам не нужны\nлишние проблемы.</text>
+	</string>
+
+	<string id="st_yan_actor_kill_aver_2">
+		<text>А он имел шанс отсюда выбраться,\nно не помог нам.</text>
+	</string>
+
+	<string id="st_yan_actor_kill_aver_3">
+		<text>С такими упырями\nу меня разговор короткий.</text>
+	</string>
+
+	<string id="st_yan_actor_kill_aver_4">
+		<text>Всё, давайте на базу.</text>
+	</string>
+
+	<string id="st_yan_actor_koval_lost">
+		<text>Сука. Так и знал,\nчто с ним будут проблемы!</text>
+	</string>
+
+	<string id="st_yan_actor_koval_start_connect_1">
+		<text>Коваль, приём.\nТы закончил со своим оборудованием?</text>
+	</string>
+
+	<string id="st_yan_actor_koval_start_connect_2">
+		<text>Приём. Как слышишь?</text>
+	</string>
+
+	<string id="st_yan_actor_psy_talk_1">
+		<text>Это всё излучатель.</text>
+	</string>
+
+	<string id="st_yan_actor_psy_talk_2">
+		<text>Тут половина сотрудников\nна подобные симптомы жаловалась.</text>
+	</string>
+
+	<string id="st_yan_actor_psy_talk_3">
+		<text>Так что давайте пореще\nего вырубим. Вперёд!</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_1">
+		<text>Всё, мужики, мы на месте.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_2">
+		<text>Предлагаю тут и обосновать\nвременный лагерь.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_3">
+		<text>Здесь высоко,\nхорошо просматривается вся местность.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_4">
+		<text>Скай, останешься с пилотом.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_5">
+		<text>Пока нас не будет,\nподготовьте мобильный штаб.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_6">
+		<text>Надеюсь, ты сможешь\nподключиться к спутнику,</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_7">
+		<text>чтобы мы были в курсе\nвсего происходящего на этой территории.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_8">
+		<text>Остальные, двигаемся вместе\nк мобильному бункеру.</text>
+	</string>
+
+	<string id="st_yan_actor_start_yantar_task_9">
+		<text>Будьте начеку. Погнали!</text>
+	</string>
+
+	<string id="st_yan_actor_to_vuslich_condolence_1">
+		<text>Они знали, на что шли,\nкогда подписывали контракт.</text>
+	</string>
+
+	<string id="st_yan_actor_to_vuslich_condolence_2">
+		<text>Уверен, что даже если бы они\nнаперёд знали, что с ними будет в конце,</text>
+	</string>
+
+	<string id="st_yan_actor_to_vuslich_condolence_3">
+		<text>всё равно бы в Зону пришли.</text>
+	</string>
+
+	<string id="st_yan_aver_start_fuck_off_1">
+		<text>Зараза! Отпусти меня!</text>
+	</string>
+
+	<string id="st_yan_aver_start_fuck_off_2">
+		<text>Ради бога, умоляю!</text>
+	</string>
+
+	<string id="st_yan_aver_start_fuck_off_3">
+		<text>А-а, нет!</text>
+	</string>
+
+	<string id="st_yan_aver_start_fuck_off_4">
+		<text>Отстань, отстань!</text>
+	</string>
+
+	<string id="st_yan_aver_start_help_1">
+		<text>Помогите мне!</text>
+	</string>
+
+	<string id="st_yan_aver_start_help_2">
+		<text>Оно там, в тумане!</text>
+	</string>
+
+	<string id="st_yan_aver_start_help_3">
+		<text>Стреляйте в неё, ну же!</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_1">
+		<text>И давно ты с ними заодно?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_2_1">
+		<text>Всё ж под контролем.\nТы сам видел план запуска, расчёты.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_2_2">
+		<text>Никакого вреда не будет.\nСахаров знает своё дело.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_3_1">
+		<text>Ладно, допустим.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_3_2">
+		<text>Давай тогда просто свалим,</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_3_3">
+		<text>и пусть они тут сами\nразбираются с этой установкой.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_4_1">
+		<text>Сдурел?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_4_2">
+		<text>Тебя же посадят, болван, а то ещё прибьёт кто-то из охраны.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_4_3">
+		<text>Они только и ждут,\nчтобы спустить на нас курок!</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_1_phrase_5">
+		<text>Да я не знаю. А вдруг...</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_1_1">
+		<text>Ни с кем я не заодно.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_1_2">
+		<text>Эту установку не случайно вырубили сталкеры.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_1_3">
+		<text>Надо было законсервировать все двери\nи больше сюда никогда не спускаться.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_1_4">
+		<text>Как вообще пришло в голову\nпроводить повторные испытания?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_2_1">
+		<text>Ты прикидываешься.\nНе чувствуешь, что с нами происходит?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_2_2">
+		<text>Да половина бункера\nжалуется на боли в голове!</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_2_3">
+		<text>Ты думаешь, это не связано с мозгом?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_3_1">
+		<text>Ну уж нет.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_3_2">
+		<text>А как же остальные наши?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_3_3">
+		<text>Мы же с ними столько\nэту Зону изучаем.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_3_4">
+		<text>Просто бросить их тут умирать?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_3_5">
+		<text>Нет. Я попытаюсь уничтожить установку.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_4_1">
+		<text>Меня не поймают,\nесли сделать всё тихо.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_4_2">
+		<text>К тому же, ещё несколько парней\nготовы мне помочь.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_4_3">
+		<text>Ну, ты со мной?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_5_1">
+		<text>Тсс. Тихо!</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_5_2">
+		<text>Тут кто-то есть.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_2_phrase_5_3">
+		<text>Слышал шорох в углу?</text>
+	</string>
+
+	<string id="st_yan_koval_actor_long_dist_1">
+		<text>Командир, не отставай!</text>
+	</string>
+
+	<string id="st_yan_koval_actor_long_dist_2">
+		<text>Догоняй, босс! Ты где там потерялся?</text>
+	</string>
+
+	<string id="st_yan_koval_actor_long_dist_3">
+		<text>Давай догоняй. Чего там тормозишь?</text>
+	</string>
+
+	<string id="st_yan_koval_bye_1">
+		<text>До связи.</text>
+	</string>
+
+	<string id="st_yan_koval_bye_2">
+		<text>Ну, бывай. Увидимся.</text>
+	</string>
+
+	<string id="st_yan_koval_bye_3">
+		<text>Пока, босс.</text>
+	</string>
+
+	<string id="st_yan_koval_bye_4">
+		<text>Ты, это,\nмаякни там, если что.</text>
+	</string>
+
+	<string id="st_yan_koval_bye_5">
+		<text>Ну давай. Удачи.</text>
+	</string>
+
+	<string id="st_yan_koval_can_handle">
+		<text>Идите, я справлюсь сам. За меня не волнуйтесь.</text>
+	</string>
+
+	<string id="st_yan_koval_devices_start">
+		<text>Сейчас расставлю нужное оборудование. Ты пока, это, гляди в оба, ага?</text>
+	</string>
+
+	<string id="st_yan_koval_dogs_death">
+		<text>Вот это ты вовремя!</text>
+	</string>
+
+	<string id="st_yan_koval_hello_1">
+		<text>Выкладывай. Что там у тебя?</text>
+	</string>
+
+	<string id="st_yan_koval_hello_2">
+		<text>Слушаю, командир.</text>
+	</string>
+
+	<string id="st_yan_koval_hello_3">
+		<text>Чего у тебя, командир?</text>
+	</string>
+
+	<string id="st_yan_koval_hello_4">
+		<text>Приветствую.</text>
+	</string>
+
+	<string id="st_yan_koval_hello_5">
+		<text>Ты по делу или так?</text>
+	</string>
+
+	<string id="st_yan_koval_sorry">
+		<text>Не серчай, командир.\nБольше такого не повторится.</text>
+	</string>
+
+	<string id="st_yan_vuslich_actor_go_off_switcher">
+		<text>Командир, давай наверх, мы прикроем. Только побыстрее, их тут очень много!</text>
+	</string>
+
+	<string id="st_yan_vuslich_actor_kill_aver">
+		<text>Командир, зачем? Просто отпустил бы его и пусть дальше скитается по Янтарю. Тут и так слишком много людей погибло...</text>
+	</string>
+
+	<string id="st_yan_vuslich_actor_switcher_compl">
+		<text>Ты как, командир? Ещё бы немного, и нам точно был бы конец. Вовремя ты вырубил эту головоломку.</text>
+	</string>
+
+	<string id="st_yan_vuslich_bye_1">
+		<text>Давай, до встречи.</text>
+	</string>
+
+	<string id="st_yan_vuslich_bye_2">
+		<text>Увидимся.</text>
+	</string>
+
+	<string id="st_yan_vuslich_bye_3">
+		<text>Бывай, командир.</text>
+	</string>
+
+	<string id="st_yan_vuslich_condolence_1">
+		<text>Жалко их... Всех этих учёных, охрану, сталкеров... Так и останутся теперь тут. Даже похоронить некому...</text>
+	</string>
+
+	<string id="st_yan_vuslich_condolence_2">
+		<text>Да так и так обидно. Обидно, что всё это случилось из-за какой-то нелепости...</text>
+	</string>
+
+	<string id="st_yan_vuslich_hello_1">
+		<text>Здорово, командир!</text>
+	</string>
+
+	<string id="st_yan_vuslich_hello_2">
+		<text>Приветствую.</text>
+	</string>
+
+	<string id="st_yan_vuslich_hello_3">
+		<text>Рад тебя видеть!</text>
+	</string>
+
+	<string id="st_yan_vuslich_psy_talk">
+		<text>Командир, тут правда что-то не так. Меня тоже слегка пошатывает.</text>
+	</string>
+
+	<string id="st_yan_vuslich_see_oddities">
+		<text>Командир, я сейчас наблюдаю за окрестностями и кажется, что я что-то видел. Что-то странное...</text>
+	</string>
+
+	<string id="st_yan_vuslich_see_zombie">
+		<text>Командир, зомбированные!</text>
+	</string>
+
+	<string id="st_yan_vuslich_stop_koval_sleep">
+		<text>Эй, сталкерок! Вставай давай, пора работать!</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_final_1">
+		<text>Ну вот, дверь с петель.</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_final_2">
+		<text>Можно и заходить.</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_in_process_1">
+		<text>Погоди, командир.\nДверь пока не поддаётся.</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_in_process_2">
+		<text>Не торопи тут.\nВсё не так-то просто.</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_in_process_3">
+		<text>Не хочет открываться, зараза.\nЗаймись пока своими делами.</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_start">
+		<text>Попробую разобраться с дверью.</text>
+	</string>
+
+	<string id="st_yan_xottab_bye_1">
+		<text>До связи.</text>
+	</string>
+
+	<string id="st_yan_xottab_bye_2">
+		<text>Увидимся.</text>
+	</string>
+
+	<string id="st_yan_xottab_bye_3">
+		<text>Бывай, командир.</text>
+	</string>
+
+	<string id="st_yan_xottab_bye_4">
+		<text>Буду ждать указаний.</text>
+	</string>
+
+	<string id="st_yan_xottab_bye_5">
+		<text>Будет дело — свяжись со мной.</text>
+	</string>
+
+	<string id="st_yan_xottab_hello_1">
+		<text>Командир, рад видеть!</text>
+	</string>
+
+	<string id="st_yan_xottab_hello_2">
+		<text>Приветствую, босс.</text>
+	</string>
+
+	<string id="st_yan_xottab_hello_3">
+		<text>Ну, здорово.</text>
+	</string>
+
+	<string id="st_yan_xottab_hello_4">
+		<text>Слушаю, командир.</text>
+	</string>
+
+	<string id="st_yan_xottab_hello_5">
+		<text>Выкладывай. Дело есть?</text>
+	</string>
+
+	<string id="st_yan_xottab_question_about_bunker">
+		<text>Ну, что в бункере творится?</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_1">
+		<text>Сегодня у нас последний день работы над подготовкой к полноценному запуску установки.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_2">
+		<text>Её включение поможет нам продвинуться в изучении пси-активности.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_3">
+		<text>Однако теперь мы полностью контролируем работу мозга,</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_4">
+		<text>поэтому его излучение не будет выходить за рамки выделенной Зоны.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_5">
+		<text>А значит, мы сможем полностью управлять его мощностью,</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_6">
+		<text>а что ещё лучше: выбирать конкретные цели для воздействия.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_1_record_7">
+		<text>Мерзким cноркам на озере это точно понравится.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_1">
+		<text>Пусть меня хоть посадят или расстреляют — плевать.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_2">
+		<text>Я больше не могу закрывать глаза на происходящее в лаборатории.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_3">
+		<text>Уже каждый второй жалуется на головные боли,</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_4">
+		<text>а ведь установка работает только в ждущем режиме.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_5">
+		<text>Если они её запустят, кранты нам всем придёт.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_6">
+		<text>Я почитал документацию, знаю, как вывести её из строя так,</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_7">
+		<text>что мозг атрофируется и больше работать уже никогда не будет.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_8">
+		<text>Большинство мне ещё потом спасибо скажут.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_9">
+		<text>Я надеюсь, удастся без лишних проблем выкрасть ключ от комнаты управления</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_scientist_corp_2_record_10">
+		<text>и сделать всё тихо и незаметно.</text>
+	</string>
+
+	<string id="st_yan_help_message_1">
+		<text>Помогите!</text>
+	</string>
+	
+	<string id="st_yan_help_message_2">
+		<text>Всем, кто нас слышит!</text>
+	</string>
+
+	<string id="st_yan_help_message_3">
+		<text>[сообщения с помехами]</text>
+	</string>
+
+	<string id="st_yan_help_message_3_cc">
+		<text>[сообщения с помехами]</text>
+	</string>
+
+	<string id="st_yan_help_message_4">
+		<text>Слышите меня?</text>
+	</string>
+
+	<string id="st_yan_labx16_task_fly_stalker_record_1">
+		<text>Проверка радиационного заражения на поверхности прошла успешно.</text>
+	</string>
+
+	<string id="st_yan_labx16_task_fly_stalker_record_2">
+		<text>Уровень радиации соответствует норме, так что можете не волноваться.</text>
+	</string>
+
+	<string id="st_yan_labx16_task_fly_stalker_record_3">
+		<text>Осталось только проверить анг...</text>
+	</string>
+
+	<string id="st_yan_labx16_task_fly_stalker_record_4_cc">
+		<text>[взрыв]</text>
+	</string>
+	
+	<string id="st_yan_sky_connect_koval_seen_1">
+		<text>Журавлёв, приём!</text>
+	</string>
+
+	<string id="st_yan_sky_connect_koval_seen_2">
+		<text>Я засёк сигнал Коваля. Он за заводом, неподалёку от архианомалии.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_go_check_pda_1">
+		<text>Так, отлично! Излучение практически на нуле.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_go_check_pda_2">
+		<text>У пролома теперь безопасно. Действуй!</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_1">
+		<text>Журавлёв, из найденных в бункере данных мне удалось кое-что узнать.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_2">
+		<text>Есть возможность добраться до тела одного сталкера.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_3">
+		<text>Это рядом с тем местом, где обвалился главный зал лаборатории Х-16.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_4">
+		<text>Для этого необходимо включить охладительную установку, которая находится в ангаре на территории завода.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_5">
+		<text>Тогда излучение возле пролома должно стабилизироваться, и мы сможем добраться до тела бедолаги.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_6">
+		<text>А ещё я не могу до конца понять, почему оно вообще присутствует, ведь главный его источник фактически уничтожен.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_7">
+		<text>Ну, впрочем, ладно. Всякое возможно. Лови координаты.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_8">
+		<text>А, и ещё: настройкой системы охлаждения в своё время занимался некий сталкер Левша,</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_9">
+		<text>так что надолго ты там не задержишься: тебе её нужно просто включить.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_10">
+		<text>Там одна кнопка, как я узнал из схемы на ноуте Сахарова.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_labx16_first_info_11">
+		<text>Всё, удачи!</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_1">
+		<text>Группа, приём!</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_2">
+		<text>Я пытался настроить соединение со спутником, но это дохлое дело.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_3">
+		<text>Поэтому связь только по рации.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_4">
+		<text>Вероятно, по этой же причине до базы не доходили сигналы от выживших. Если они были, конечно.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_5">
+		<text>Я запустил дрон: он будет сканировать местность на предмет движения и аномальной активности.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_6">
+		<text>Картинку с него получить не удаётся: какие-то сильные помехи. Что-то здесь явно глушит сигнал.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_7">
+		<text>Датчики показывают, что пока всё спокойно. Если что-то изменится, сообщу.</text>
+	</string>
+
+	<string id="st_yan_sky_first_connect_8">
+		<text>Конец связи.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_someone_alive_1">
+		<text>Группа, приём!</text>
+	</string>
+
+	<string id="st_yan_sky_connect_someone_alive_2">
+		<text>К северо-западу от вас зафиксирован слабый сигнал от КПК.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_someone_alive_3">
+		<text>Больше данных дать не могу, но это точно кто-то живой!</text>
+	</string>
+
+	<string id="st_yan_sky_connect_someone_alive_4">
+		<text>Пометил на карте примерное местоположение.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_more_accurate_pda">
+		<text>Журавлёв, аккуратнее! Источник сигнала начал быстрое движение в твою сторону. Двигается прямо на тебя!</text>
+	</string>
+
+	<string id="st_yan_sky_connect_200_pda">
+		<text>До цели двести метров.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_100_pda">
+		<text>Сто метров. Видишь кого-то?</text>
+	</string>
+
+	<string id="st_yan_sky_connect_koval_lost_1">
+		<text>В лагере его тоже нет, и сигнал его я пока поймать не могу.</text>
+	</string>
+
+	<string id="st_yan_sky_connect_koval_lost_2">
+		<text>Если что-то будет, то сообщу.</text>
+	</string>
+
+	<string id="st_yan_collect_info_solo_zombie_record_1">
+		<text>Только что на заводе что-то рвануло.</text>
+	</string>
+
+	<string id="st_yan_collect_info_solo_zombie_record_2">
+		<text>Земля аж под ногами затряслась, а меня словно битой по башке приложило.</text>
+	</string>
+
+	<string id="st_yan_collect_info_solo_zombie_record_3">
+		<text>Возможно, это как-то связано с нашим проектом. Хотя, что там могло пойти не так?</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_record_1">
+		<text>Роман Сергеевич отправил проверить ангар на предмет радиационного заражения.</text>
+	</string>
+	
+	<string id="st_yan_collect_info_angar_scientist_record_2">
+		<text>Несколько сотрудников нашего бункера жаловались на зашкаливающие счётчики.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_record_3">
+		<text>Взял с собой в напарники Вольнова. Он в последнее время задавал много вопросов о работе установки.</text>
+	</string>
+	
+	<string id="st_yan_collect_info_angar_scientist_record_4">
+		<text>Заодно разузнаю у него, что его так заинтересовало.</text>
+	</string>
+
+	<string id="st_yan_collect_info_angar_scientist_record_5">
+		<text>Вдруг Сахаров недаром высказывал опасения о возможном срыве экспериментов?</text>
+	</string>
+
+	<string id="yan_labx16_second_task_transiver_record_name">
+		<text>Диспетчерская</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_transiver_record_1">
+		<text>Охрана, у нас ЧП!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_transiver_record_2">
+		<text>Только что Прохоров залетел ко мне в кабинет и рассадил мне голову.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_transiver_record_3">
+		<text>Пока я лежал в отключке, он забрал ключи от комнаты управления.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_transiver_record_4">
+		<text>Не знаю, что он задумал, но его надо остановить.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_transiver_record_5">
+		<text>Там же установка. Если он что-то с ней сделает, нам всем тут конец!</text>
+	</string>
+
+	<string id="st_yan_collect_info_bunker_zombie_scientist_record_1">
+		<text>Как же я замудохался с этим излучателем. На кой ляд его вообще сюда поставили?</text>
+	</string>
+
+	<string id="st_yan_collect_info_bunker_zombie_scientist_record_2">
+		<text>Мало того, что он не работает как следует, так ещё и связь с научным комплексом не фурычит.</text>
+	</string>
+
+	<string id="st_yan_collect_info_bunker_zombie_scientist_record_3">
+		<text>Присылайте уже своего хваленого техника. Он её создал, так пусть сам своё дерьмище разгребает.</text>
+	</string>
+
+	<string id="st_yan_collect_info_bunker_zombie_scientist_record_4">
+		<text>Слышите? Приём, слышите меня? Собаки!</text>
+	</string>
+
+	<string id="st_yan_xottab_breaking_the_door_complete">
+		<text>Я вскрыл дверь. Двигайте сюда.</text>
+	</string>
+	
+	<string id="st_yan_koval_go_factory_psy_hit_1">
+		<text>А-а-а!</text>
+	</string>	
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_1">
+		<text>Группа 7 и 9, быстро к комнате управления!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_2">
+		<text>Тут у нас один придурок яйцеголовый по людям с автомата шмаляет.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_3">
+		<text>Уже трое двухсотых!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_4">
+		<text>Понял вас, выдвигаемся!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_5">
+		<text>Быренько давайте, мужики!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_6">
+		<text>Не пускайте его к установке!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_7">
+		<text>Сейчас нельзя проводить никакие действия с мозгом!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_8">
+		<text>Установка нестабильна и может привести к фатальным последствиям!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_9">
+		<text>Ну так иди отсюда, болван, и останови его!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_10">
+		<text>Напялил халатик и командует там, сука.</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_11">
+		<text>Вы не понимаете! Если он доберётся до пульта - нам всем конец!</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_12">
+		<text>Всем! Понимаете?</text>
+	</string>
+
+	<string id="st_yan_labx16_second_task_soldier_corp_record_13">
+		<text>Всё, не ори. Придумаем что-нибудь.</text>
+	</string>
+
 </string_table>

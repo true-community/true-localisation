@@ -1,462 +1,616 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="gar_mishgan_corpse">
-    <text>РќР•РџР РР„РњРќРђ Р—РЈРЎРўР Р†Р§</text>
-  </string>
-  <string id="gar_mishgan_corpse_start_name">
-    <text>Р”С–Р·РЅР°С‚РёСЃСЏ, РєСѓРґРё Р·РЅРёРє РњС–С€РіР°РЅ</text>
-  </string>
-  <string id="gar_mishgan_corpse_start_text">
-    <text>РћС‚ Р±Р»СЏС…Р°, РѕС… С– РѕРіСЂС–РІ Р¶Рµ РІС–РЅ РјРµРЅРµ РїРѕ Р±Р°С€С†С–... РЎС…РѕР¶Рµ, РІС–РЅ Р·С–Р±СЂР°РІСЃСЏ СЃР°РјРѕС‚СѓР¶РєРё СЂСЏС‚СѓРІР°С‚Рё СЃРІРѕС—С… РґСЂСѓР·С–РІ РЅР° РєР»Р°РґРѕРІРёС‰С– С‚РµС…РЅС–РєРё, С–РґС–РѕС‚. РЇРє Р±Рё РґСЂРѕРІ РЅРµ РЅР°Р»Р°РјР°РІ, С‚СЂРµР±Р° РїРµСЂРµРІС–СЂРёС‚Рё.</text>
-  </string>
-  <string id="gar_find_local_trader">
-    <text>РљР РђРњРђР  Р—Р† РЎРњР†РўРќРРљРђ</text>
-  </string>
-  <string id="gar_find_local_trader_start_name">
-    <text>Р—РЅР°Р№С‚Рё СЂРѕР±РѕС‚Сѓ РЅР° Р±Р°Р·С– СЃС‚Р°Р»РєРµСЂС–РІ</text>
-  </string>
-  <string id="gar_find_local_trader_text_good">
-    <text>Р—Р° СЃР»РѕРІР°РјРё РњС–С€РіР°РЅР°, РЅР°Р№Р±Р»РёР¶С‡РёР№ С‚Р°Р±С–СЂ СЃС‚Р°Р»РєРµСЂС–РІ Р·РЅР°С…РѕРґРёС‚СЊСЃСЏ РІ Р°РЅРіР°СЂС–. РўСЂРµР±Р° Р± С‚СѓРґРё РЅР°РІС–РґР°С‚РёСЃСЊ С‚Р° Р·РЅР°Р№С‚Рё СЂРѕР±РѕС‚Сѓ Сѓ РјС–СЃС†РµРІРѕРіРѕ РєСЂР°РјР°СЂСЏ.</text>
-  </string>
-  <string id="gar_find_local_trader_text_bad">
-    <text>РћС‚Р¶Рµ, С‰Рѕ Р¶ СЂРѕР±РёС‚Рё РґР°Р»С–? Р”СѓРјР°СЋ, С‚СЂРµР±Р° Р·РЅР°Р№С‚Рё РЅР°Р№Р±Р»РёР¶С‡РёР№ С‚Р°Р±С–СЂ СЃС‚Р°Р»РєРµСЂС–РІ С‚Р° РїС–РґС€СѓРєР°С‚Рё С‚Р°Рј СЂРѕР±РѕС‚Сѓ Сѓ РєСЂР°РјР°СЂСЏ.</text>
-  </string>
-  <string id="gar_wait_trader_name">
-    <text>Р—Р°С‡РµРєР°С‚Рё, РґРѕРєРё РљРѕСЃС‚СѓСЂ Р·РІС–Р»СЊРЅРёС‚СЊСЃСЏ</text>
-  </string>
-  <string id="gar_wait_trader_text">
-    <text>РџР°С‚СЂРѕРЅ РїРѕРїСЂРѕСЃРёРІ РїРѕС‡РµРєР°С‚Рё СЏРєРёР№СЃСЊ С‡Р°СЃ, РїРѕРєРё РєСЂР°РјР°СЂ Р·Р°Р№РЅСЏС‚РёР№ СЃРІРѕС—РјРё СЃРїСЂР°РІР°РјРё. РџСЂРѕРіСѓР»СЏСЋСЃСЏ РїРѕРєРё С‰Рѕ РѕРєРѕР»РёС†СЏРјРё. РњРѕР¶Рµ, С…С‚РѕСЃСЊ СЂРѕР±РѕС‚Сѓ РїС–РґРєРёРЅРµ.</text>
-  </string>
-  <string id="gar_speak_trader_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РљРѕСЃС‚СѓСЂРѕРј</text>
-  </string>
-  <string id="gar_speak_trader_text">
-    <text>РњР°Р±СѓС‚СЊ, РєСЂР°РјР°СЂ РІР¶Рµ Р·РІС–Р»СЊРЅРёРІСЃСЏ, РїРѕРєРё СЏ С‚РёРЅСЏРІСЃСЏ РѕРєРѕР»РёС†СЏРјРё.</text>
-  </string>
-  <string id="gar_mishgan_attack_bandits">
-    <text>Р‘Р РђРќР¦Р†</text>
-  </string>
-  <string id="gar_mishgan_distract_bandits_start_name">
-    <text>Р’С–РґРІРµСЂРЅСѓС‚Рё СѓРІР°РіСѓ Р±Р°РЅРґРёС‚С–РІ</text>
-  </string>
-  <string id="gar_mishgan_distract_bandits_start_text">
-    <text>РўСЂРµР±Р° СЏРєРѕСЃСЊ РІС–РґРІРµСЂРЅСѓС‚Рё СѓРІР°РіСѓ Р±Р°РЅРґРёС‚С–РІ, РїРѕРєРё РњС–С€РіР°РЅ Р·Р°С…РѕРґРёС‚СЊ С—Рј Сѓ СЃРїРёРЅСѓ.</text>
-  </string>
-  <string id="gar_mishgan_kill_bandits_name">
-    <text>Р”РѕР±РёС‚Рё СЂРµС€С‚Сѓ Р±Р°РЅРґРёС‚С–РІ</text>
-  </string>
-  <string id="gar_mishgan_kill_bandits_text">
-    <text>Р—Р°Р»РёС€РёР»Р°СЃСЏ С‰Рµ РєСѓРїРєР° РІС–РґРјРѕСЂРѕР·РєС–РІ. РЎРєРѕСЂС–С€ Р·Р° РІСЃРµ, РІРѕРЅРё РЅР°РіР»СЏРґР°СЋС‚СЊ Р·Р° Р±СЂР°РЅС†СЏРјРё.</text>
-  </string>
-  <string id="gar_mishgan_task_final_speak_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РњС–С€РіР°РЅРѕРј</text>
-  </string>
-  <string id="gar_mishgan_task_final_speak_text">
-    <text>Р‘СѓР»Рѕ РіР°СЂСЏС‡Рµ. РџРѕСЂР° РїРѕСЃРїС–Р»РєСѓРІР°С‚РёСЃСЏ Р· РњС–С€РіР°РЅРѕРј.</text>
-  </string>
-  <string id="gar_mishgan_defence_kladbishe_name">
-    <text>Р’С–РґР±РёС‚Рё Р°С‚Р°РєСѓ Р±Р°РЅРґРёС‚С–РІ, С‰Рѕ РЅР°СЃС‚СѓРїР°СЋС‚СЊ, Р°Р±Рѕ РІС‚РµРєС‚Рё</text>
-  </string>
-  <string id="gar_mishgan_defence_kladbishe_text">
-    <text>Р”С–РґСЊРєРѕ, РґРѕ Р±Р°РЅРґРёС‚С–РІ С–РґРµ РїС–РґРєСЂС–РїР»РµРЅРЅСЏ! РўСЂРµР±Р° Р· РЅРёРјРё СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="gar_inspect_level">
-    <text>РћР“Р›РЇРќРЈРўР РћРљРћР›РР¦Р†</text>
-  </string>
-  <string id="gar_inspect_level_name">
-    <text>РћРіР»СЏРЅСѓС‚Рё РѕРєРѕР»РёС†С–, РїРѕРєРё РєСЂР°РјР°СЂ Р·Р°Р№РЅСЏС‚РёР№</text>
-  </string>
-  <string id="gar_inspect_level_text">
-    <text>РџСЂРѕРіСѓР»СЏСЋСЃСЏ РѕРєРѕР»РёС†СЏРјРё, РїРѕРєРё РєСЂР°РјР°СЂ Р·Р°Р№РЅСЏС‚РёР№ СЃРІРѕС—РјРё СЃРїСЂР°РІР°РјРё. РњРѕР¶Рµ, Р·РЅР°Р№РґСѓ С‰РѕСЃСЊ С†С–РєР°РІРµ.</text>
-  </string>
-  <string id="gar_inspect_level_forest_name">
-    <text>Р›С–СЃ</text>
-  </string>
-  <string id="gar_inspect_level_forest_text">
-    <text>РџСЂРѕРіСѓР»СЏСЋСЃСЏ РѕРєРѕР»РёС†СЏРјРё, РїРѕРєРё С‚РѕСЂРіРѕРІРµС†СЊ Р·Р°Р№РЅСЏС‚РёР№ СЃРІРѕС—РјРё СЃРїСЂР°РІР°РјРё. РњРѕР¶Рµ, С‰РѕСЃСЊ С†С–РєР°РІРµ Р·РЅР°Р№РґСѓ. РќР°РїСЂРёРєР»Р°Рґ, РЅРµ Р·Р°РІР°РґРёС‚СЊ Р·Р°Р·РёСЂРЅСѓС‚Рё РІ РЅРµРІРµР»РёРєРёР№ Р»С–СЃРѕРє РЅР° РѕРєРѕР»РёС†СЏС… РЎРјС–С‚РЅРёРєР°.</text>
-  </string>
-  <string id="gar_inspect_level_baraholka_name">
-    <text>Р‘Р°СЂР°С…РѕР»РєР°</text>
-  </string>
-  <string id="gar_inspect_level_baraholka_text">
-    <text>РџСЂРѕРіСѓР»СЏСЋСЃСЏ РѕРєРѕР»РёС†СЏРјРё, РїРѕРєРё С‚РѕСЂРіРѕРІРµС†СЊ Р·Р°Р№РЅСЏС‚РёР№ СЃРІРѕС—РјРё СЃРїСЂР°РІР°РјРё. РњРѕР¶Рµ, РІРґР°СЃС‚СЊСЃСЏ Р·РЅР°Р№С‚Рё С‰РѕСЃСЊ С†С–РєР°РІРµ С– РєРѕСЂРёСЃРЅРµ. РЎСѓРґСЏС‡Рё Р· РєР°СЂС‚Рё, РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ Р°РЅРіР°СЂР° С” СЏРєС–СЃСЊ СЂСѓС—РЅРё. Р‘Р°Р¶Р°СЋ С—С… РѕРіР»СЏРЅСѓС‚Рё.</text>
-  </string>
-  <string id="gar_inspect_level_dolg_zastava_name">
-    <text>Р—Р°СЃС‚Р°РІР° В«Р”РѕР»РіСѓВ»</text>
-  </string>
-  <string id="gar_inspect_level_dolg_zastava_text">
-    <text>РџСЂРѕРіСѓР»СЏСЋСЃСЏ РѕРєРѕР»РёС†СЏРјРё, РїРѕРєРё С‚РѕСЂРіРѕРІРµС†СЊ Р·Р°Р№РЅСЏС‚РёР№ СЃРІРѕС—РјРё СЃРїСЂР°РІР°РјРё. РњРѕР¶Рµ, С‰РѕСЃСЊ С†С–РєР°РІРµ Р·РЅР°Р№РґСѓ. РЇ С‡СѓРІ, С‰Рѕ РЅР° РїС–РІРЅРѕС‡С– Р—РІР°Р»РёС‰Р° СЂРѕР·С‚Р°С€СѓРІР°РІСЃСЏ РљРџРџ СѓРіСЂСѓРїРѕРІР°РЅРЅСЏ В«Р”РѕР»РіВ». Р©Рµ Р¶РѕРґРЅРѕРіРѕ СЂР°Р·Сѓ С—С… РЅРµ Р·СѓСЃС‚СЂС–С‡Р°РІ, С…РѕС‚С–РІ Р±Рё РїРѕР·РЅР°Р№РѕРјРёС‚РёСЃСЏ С–, Р·Р° РјРѕР¶Р»РёРІРѕСЃС‚С–, Р·РЅР°Р№С‚Рё РІ РЅРёС… СЂРѕР±РѕС‚Сѓ.</text>
-  </string>
-  <string id="spend_desertir">
-    <text>Р”Р•Р—Р•Р РўРР </text>
-  </string>
-  <string id="spend_desertir_start_name">
-    <text>РџСЂРѕРІРѕРґРёС‚Рё РґРµР·РµСЂС‚РёСЂР° РґРѕ Р®СЂРєР°</text>
-  </string>
-  <string id="spend_desertir_start_text">
-    <text>Р’РёСЂС–С€РёРІ РїС–РґРєРёРЅСѓС‚Рё Р®СЂРєСѓ РѕРґРЅСѓ СЂРѕР±РѕС‚Сѓ. Р’РѕСЏРєР° РѕР±С–С†СЏРІ РіСЂРѕС€РёРјР° РЅРµ РѕР±СЂР°Р·РёС‚Рё.</text>
-  </string>
-  <string id="dyatlov_zastava_secret">
-    <text>РўРђР„РњРќРР¦РЇ Р—РђРЎРўРђР’Р Р”РЇРўР›РћР’Рђ</text>
-  </string>
-  <string id="gar_dyatlov_zastava_start_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РєРѕРјР°РЅРґРёСЂРѕРј Р·Р°СЃС‚Р°РІРё</text>
-  </string>
-  <string id="gar_dyatlov_zastava_start_text">
-    <text>РљРѕРјР°РЅРґРёСЂ Р·Р°СЃС‚Р°РІРё В«Р”РѕР»РіСѓВ» СЂРѕР·РїРѕРІС–РІ, С‰Рѕ Сѓ РЅСЊРѕРіРѕ РІ С‚Р°Р±РѕСЂС– РІС–РґР±СѓРІР°С”С‚СЊСЃСЏ С‰РѕСЃСЊ РґРёРІРЅРµ. Р’С–РЅ РїСЂРѕСЃРёРІ РїС–РґС–Р№С‚Рё, РєРѕР»Рё Р·'СЏРІРёС‚СЊСЃСЏ С‡Р°СЃ.</text>
-  </string>
-  <string id="gar_dyatlov_zastava_secret_name">
-    <text>Р’СЃС‚Р°РЅРѕРІРёС‚Рё СЃРїРѕСЃС‚РµСЂРµР¶РµРЅРЅСЏ Р·Р° С‚Р°Р±РѕСЂРѕРј РїС–СЃР»СЏ РѕРїС–РІРЅРѕС‡С–</text>
-  </string>
-  <string id="gar_dyatlov_zastava_secret_text">
-    <text>РќР° Р·Р°СЃС‚Р°РІС– В«Р”РѕР»РіСѓВ» РІС–РґР±СѓРІР°С”С‚СЊСЃСЏ СЏРєР°СЃСЊ С‡РѕСЂС‚С–РІРЅСЏ. РЎРїСЂРѕР±СѓСЋ Сѓ С†СЊРѕРјСѓ РІСЃСЊРѕРјСѓ СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="gar_dyatlov_zastava_secret_speak_leader_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РєРѕРјР°РЅРґРёСЂРѕРј</text>
-  </string>
-  <string id="gar_dyatlov_zastava_secret_speak_leader_text">
-    <text>Р–РµСЃС‚СЊ! Р©Рѕ С†Рµ Р±СѓР»Рѕ? РќР°РІС–С‚СЊ РјРѕС‚РѕСЂРѕС€РЅРѕ СЃС‚Р°Р»Рѕ! РќР° Р·Р°СЃС‚Р°РІС– РґС–Р№СЃРЅРѕ РєРѕСЏС‚СЊСЃСЏ СЏРєС–СЃСЊ РјС–СЃС‚РёС‡РЅС– СЂРµС‡С–! РўСЂРµР±Р° РїСЂРѕ РІСЃРµ С†Рµ РґРѕРїРѕРІС–СЃС‚Рё РєРѕРјР°РЅРґРёСЂСѓ.</text>
-  </string>
-  <string id="gar_dyatlov_zastava_secret_speak_stalkers_name">
-    <text>РћРїРёС‚Р°С‚Рё СЃС‚Р°Р»РєРµСЂС–РІ РїСЂРѕ РЅС–С‡РЅС– РґРёРІР°</text>
-  </string>
-  <string id="gar_dyatlov_zastava_secret_speak_stalkers_text">
-    <text>РљР»СЋС‡ РґРѕ СЂРѕР·РіР°РґРєРё РґРёРІР°С†С‚РІ  вЂ”  С–РЅС„РѕСЂРјР°С†С–СЏ. РўСЂРµР±Р° СЃРїРёС‚Р°С‚Рё РјС–СЃС†РµРІРёС…: РІРѕРЅРё РјРѕР¶СѓС‚СЊ РјР°С‚Рё РІР°Р¶Р»РёРІСѓ С–РЅС„РѕСЂРјР°С†С–СЋ РїРѕ РјРѕС—Р№ СЃРїСЂР°РІС–.</text>
-  </string>
-  <string id="gar_dyatlov_zastava_find_corvalol_name">
-    <text>Р—РЅР°Р№С‚Рё СЃС‚Р°Р»РєРµСЂР° РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ РљРѕСЂРІР°Р»РѕР»</text>
-  </string>
-  <string id="gar_dyatlov_zastava_find_corvalol_text">
-    <text>РљРѕСЂРІР°Р»РѕР» РјРѕР¶Рµ РґРѕРїРѕРјРѕРіС‚Рё Сѓ СЂРѕР·РіР°РґС†С– РјС–СЃС‚РёС‡РЅРѕС— С‚Р°С”РјРЅРёС†С– РЅР° Р·Р°СЃС‚Р°РІС– В«Р”РѕР»РіСѓВ». Р—Р° СЃР»РѕРІР°РјРё РѕРїРёС‚Р°РЅРѕРіРѕ СЃС‚Р°Р»РєРµСЂР°, РІС–РЅ С€СѓРєР°С” Р°СЂС‚РµС„Р°РєС‚Рё РЅР° РіР°Р»СЏРІРёРЅС– Р·Р° Р‘Р°СЂР°С…РѕР»РєРѕСЋ.</text>
-  </string>
-  <string id="gar_dyatlov_zastava_secret_find_unknown_soldier_name">
-    <text>Р—РЅР°Р№С‚Рё РЅРµРІС–РґРѕРјРѕРіРѕ РґРѕР»РіС–РІС†СЏ</text>
-  </string>
-  <string id="gar_dyatlov_zastava_secret_find_unknown_soldier_text">
-    <text>Р”РµС…С‚Рѕ Р· В«Р”РѕР»РіСѓВ» РЅРµ Р±Р°Р¶Р°С”, С‰РѕР± СЃС‚Р°Р»РєРµСЂРё РЅРёС€РїРѕСЂРёР»Рё Сѓ РїРѕС€СѓРєР°С… РїСЂР°РІРґРё. РўСЂРµР±Р° Р·'СЏСЃСѓРІР°С‚Рё, РєРёРј Р±СѓР»Р° С‚Р° Р»СЋРґРёРЅР°. РћСЃРєС–Р»СЊРєРё СЏ РїСЂР°С†СЋСЋ РїС–Рґ РїСЂРѕРІРѕРґРѕРј РєРѕРјР°РЅРґРёСЂР°, С‚Рѕ РїРѕРіСЂРѕР¶СѓРІР°С‚Рё РјРµРЅС– РІС–РґРєСЂРёС‚Рѕ РІС–РЅ РЅРµ РЅР°РІР°Р¶РёС‚СЊСЃСЏ, С‚РѕРјСѓ РґРѕРІРµРґРµС‚СЊСЃСЏ РјРµРЅС– Р·РЅР°Р№С‚Рё Р№РѕРіРѕ СЃР°РјРѕРјСѓ. Р”СЏС‚Р»РѕРІ РјР°С” С‰РѕСЃСЊ РїС–РґРєР°Р·Р°С‚Рё Р· С†СЊРѕРіРѕ РїРёС‚Р°РЅРЅСЏ.</text>
-  </string>
-  <string id="gar_dyatlov_zastava_secret_speak_aver_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РђРІРµСЂ'СЏРЅРѕРІРёРј</text>
-  </string>
-  <string id="gar_dyatlov_zastava_secret_speak_aver_text">
-    <text>РўСЂРµР±Р° РїРѕРіРѕРІРѕСЂРёС‚Рё Р· РѕСЃС‚Р°РЅРЅС–Рј СЃРІС–РґРєРѕРј Р·РЅРёРєРЅРµРЅРЅСЏ СЂСЏРґРѕРІРѕРіРѕ РґРѕР»РіС–РІС†СЏ. РќРµ Р·РЅР°СЋ, СЏРє С†Рµ РјРѕР¶Рµ Р±СѓС‚Рё РїРѕРІ'СЏР·Р°РЅРѕ Р· СЂРѕР·СЃР»С–РґСѓРІР°РЅРЅСЏРј РјС–СЃС‚РёРєРё, Р°Р»Рµ РІР°СЂС‚Рѕ СЃРїСЂРѕР±СѓРІР°С‚Рё.</text>
-  </string>
-  <string id="gar_dolg_zastava_inspect_forest_name">
-    <text>Р СѓС…Р°С‚РёСЃСЊ РґРѕ РјС–СЃС†СЏ Р·РЅРёРєРЅРµРЅРЅСЏ Р“Р°Р»СѓС€РєС–РЅР°</text>
-  </string>
-  <string id="gar_dolg_zastava_inspect_forest_text">
-    <text>РђРІРµСЂ'СЏРЅРѕРІ РІРёСЏРІРёРІСЃСЏ РґСѓР¶Рµ Р·Р°РїР°Р»СЊРЅРѕСЋ Р№ РЅРµСЂРІРѕРІРѕСЋ Р»СЋРґРёРЅРѕСЋ, С– СЏ РЅРµ РґСѓРјР°СЋ, С‰Рѕ РІС–РЅ С‚Р°РєРёР№ Р·Р° РЅР°С‚СѓСЂРѕСЋ. Р’С–СЂРѕРіС–РґРЅРѕ, Р№РѕРјСѓ С” С‰Рѕ РїСЂРёС…РѕРІСѓРІР°С‚Рё, С– СЏ Р±С–Р»СЊС€ РЅС–Р¶ РІРїРµРІРЅРµРЅРёР№, С‰Рѕ С†Рµ СЃР°РјРµ РІС–РЅ РїРѕРіСЂРѕР¶СѓРІР°РІ РљР°СЂРІР°Р»РѕР»Сѓ. РџС–РґСѓ СЏ РґРѕ Р»С–СЃСѓ: РјРѕР¶Рµ, РІРёР№РґРµ С‰РѕСЃСЊ Р·РЅР°Р№С‚Рё РЅР° РјС–СЃС†С– РїСЂРѕРїР°Р¶С– Р“Р°Р»СѓС€РєС–РЅР°.</text>
-  </string>
-  <string id="gar_dolg_zastava_scene_forest_speak_dyatlov_name">
-    <text>Р РѕР·РїРѕРІС–СЃС‚Рё РєРѕРјР°РЅРґРёСЂСѓ РїСЂРѕ С‚Рµ, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ</text>
-  </string>
-  <string id="gar_dolg_zastava_scene_forest_speak_dyatlov_text">
-    <text>Р—РЅРёРєР»РёР№ РґРѕР»РіС–РІРµС†СЊ РІРёСЏРІРёРІСЃСЏ РЅР° РґРЅС– РєРѕР»РѕРґСЏР·СЏ: Р№РѕРіРѕ РІР±РёР»Рё СЃРІРѕС— Р¶ С‚РѕРІР°СЂРёС€С– РїРѕ СЃР»СѓР¶Р±С–! РћС‡РµРІРёРґРЅРѕ, РІРѕРЅРё Р·РѕРІСЃС–Рј РЅРµ Р±СѓР»Рё СЂР°РґС– Р№РѕРіРѕ РїС–РґРІРёС‰РµРЅРЅСЋ. РўСЂРµР±Р° СЂРѕР·РїРѕРІС–СЃС‚Рё РїСЂРѕ РІСЃРµ Р”СЏС‚Р»РѕРІСѓ.</text>
-  </string>
-  <string id="gar_dolg_zastava_search_aver_name">
-    <text>РќР°Р·РґРѕРіРЅР°С‚Рё РђРІРµСЂ'СЏРЅРѕРІР°</text>
-  </string>
-  <string id="gar_dolg_zastava_search_aver_text">
-    <text>РђРІРµСЂ'СЏРЅРѕРІ РїРѕРєРёРЅСѓРІ Р·Р°СЃС‚Р°РІСѓ, Р°Р»Рµ Р№РѕРіРѕ РљРџРљ РІСЃРµ С‰Рµ РїРµР»РµРЅРіСѓС”С‚СЊСЃСЏ РЅР° С‚РµСЂРёС‚РѕСЂС–С— РЎРјС–С‚РЅРёРєСѓ. РњР°СЋ РЅР°Р·РґРѕРіРЅР°С‚Рё РІС‚С–РєР°С‡Р°.</text>
-  </string>
-  <string id="gar_dolg_zastava_search_in_forest_name">
-    <text>Р СѓС…Р°С‚РёСЃСЊ РґРѕ Р»С–СЃСѓ</text>
-  </string>
-  <string id="gar_dolg_zastava_search_in_forest_text">
-    <text>РђРІРµСЂ'СЏРЅРѕРІ РїС–С€РѕРІ Сѓ Р»С–СЃ. Р™РѕРіРѕ С‚СЂРµР±Р° РЅР°Р·РґРѕРіРЅР°С‚Рё.</text>
-  </string>
-  <string id="gar_dolg_zastava_final_speak_name">
-    <text>Р”РѕРїРѕРІС–СЃС‚Рё Р”СЏС‚Р»РѕРІСѓ РїСЂРѕ Р·РЅРёРєРЅРµРЅРЅСЏ РђРІРµСЂ'СЏРЅРѕРІР°</text>
-  </string>
-  <string id="gar_dolg_zastava_final_speak_text">
-    <text>Р’С–РґРїР»Р°С‚Р°, Р·РґР°С”С‚СЊСЃСЏ, РІС–РґР±СѓР»Р°СЃСЏ. РђРІРµСЂ'СЏРЅРѕРІР° Р±С–Р»СЊС€Рµ РЅРµРјР°С”. РўСЂРµР±Р° РґРѕРїРѕРІС–СЃС‚Рё РїСЂРѕ С†Рµ РєРѕРјР°РЅРґРёСЂСѓ Р·Р°СЃС‚Р°РІРё.</text>
-  </string>
-  <string id="gar_dolg_zastava_final_speak2_name">
-    <text>Р”РѕРїРѕРІС–СЃС‚Рё Р”СЏС‚Р»РѕРІСѓ РїСЂРѕ СЃРјРµСЂС‚СЊ РђРІРµСЂ'СЏРЅРѕРІР°</text>
-  </string>
-  <string id="gar_dolg_zastava_final_speak2_text">
-    <text>РЎРїСЂР°РІСѓ РІРёРєРѕРЅР°РЅРѕ. Р—Р°Р»РёС€РёР»РѕСЃСЏ РґРѕРїРѕРІС–СЃС‚Рё Р”СЏС‚Р»РѕРІСѓ.</text>
-  </string>
-  <string id="gar_duty_bandits_kill_task">
-    <text>Р”РћРџРћРњРћР“Рђ В«Р”РћР›Р“РЈВ»</text>
-  </string>
-  <string id="gar_duty_bandits_kill_task_main_name">
-    <text>Р РѕР·С–Р±СЂР°С‚РёСЃСЏ Р· Р±Р°РЅРґРёС‚Р°РјРё РЅР° С…СѓС‚РѕСЂС–</text>
-  </string>
-  <string id="gar_duty_bandits_kill_task_main_text">
-    <text>Р”СЏС‚Р»РѕРІ РїРѕРїСЂРѕСЃРёРІ РїСЂРёР±СЂР°С‚Рё Р±Р°РЅРґРёС‚С–РІ Р· С…СѓС‚РѕСЂР° РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ Р»С–СЃСѓ. Р”СѓРјР°СЋ, С†Рµ РїС–РґРЅС–РјРµ РјРѕСЋ СЂРµРїСѓС‚Р°С†С–СЋ СЃРµСЂРµРґ Р№РѕРіРѕ СѓРіСЂСѓРїРѕРІР°РЅРЅСЏ.</text>
-  </string>
-  <string id="gar_duty_bandits_kill_task_dyatlov_talk_name">
-    <text>Р”РѕРїРѕРІС–СЃС‚Рё Р”СЏС‚Р»РѕРІСѓ</text>
-  </string>
-  <string id="gar_duty_bandits_kill_task_dyatlov_talk_text">
-    <text>РџРѕСЂР° РґРѕРїРѕРІС–СЃС‚Рё РєРѕРјР°РЅРґРёСЂСѓ Р·Р°СЃС‚Р°РІРё, С‰Рѕ РІС–РЅ РјРѕР¶Рµ РІС–РґРїСЂР°РІР»СЏС‚Рё СЃРІРѕС—С… Р»СЋРґРµР№ РЅР° С…СѓС‚С–СЂ.</text>
-  </string>
-  <string id="kill_tonnel_bandits">
-    <text>РўРЈРќР•Р›Р¬ РќРђ РЎРњР†РўРќРРљРЈ</text>
-  </string>
-  <string id="gar_kill_tonnel_bandits_start_name">
-    <text>Р РѕР·С–Р±СЂР°С‚РёСЃСЏ Р· Р±Р°РЅРґРёС‚Р°РјРё</text>
-  </string>
-  <string id="gar_kill_tonnel_bandits_start_text">
-    <text>РЈ Р·Р°Р»С–Р·РЅРёС‡РЅРѕРјСѓ С‚СѓРЅРµР»С– РЅР° РЎРјС–С‚РЅРёРєСѓ РІР»Р°С€С‚СѓРІР°Р»РёСЃСЏ Р±Р°РЅРґРёС‚Рё. РџРѕС‚СЂС–Р±РЅРѕ Р· РЅРёРјРё СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="gar_kill_tonnel_bandits_reward_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РїРѕ РІРёРЅР°РіРѕСЂРѕРґСѓ</text>
-  </string>
-  <string id="gar_kill_tonnel_bandits_reward_text">
-    <text>РЎРїСЂР°РІСѓ РІРёРєРѕРЅР°РЅРѕ. РџРѕСЂР° Р·Р°Р±РёСЂР°С‚Рё РЅР°РіРѕСЂРѕРґСѓ.</text>
-  </string>
-  <string id="speak_gamzat">
-    <text>РњР†РЎР¦Р•Р’РР™ Р›Р†РљРђР </text>
-  </string>
-  <string id="gar_speak_gamzat_start_name">
-    <text>РџРѕР·РЅР°Р№РѕРјРёС‚РёСЃСЊ С–Р· Р“Р°РјР·Р°С‚РѕРј</text>
-  </string>
-  <string id="gar_speak_gamzat_start_text">
-    <text>РЇРєРёР№СЃСЊ РјРµРґРёРє РЅР° РїСЂС–Р·РІРёСЃСЊРєРѕ Р“Р°РјР·Р°С‚, СЃСѓРґСЏС‡Рё Р·С– СЃР»С–РІ РљРѕСЃС‚СѓСЂР°, РјРѕР¶Рµ РїС–РґРєРёРЅСѓС‚Рё РјРµРЅС– СЂРѕР±РѕС‚Сѓ. РўСЂРµР±Р° Р· РЅРёРј РїРѕР·РЅР°Р№РѕРјРёС‚РёСЃСЊ. РЎРїРѕРґС–РІР°СЋСЃСЊ, РЅРµ РґРѕРІРµРґРµС‚СЊСЃСЏ РІРёРЅРѕСЃРёС‚Рё СЃСѓРґРЅР° Р·Р° С…РІРѕСЂРёРјРё.</text>
-  </string>
-  <string id="gar_gamzat_task_hunt">
-    <text>РќР•Р‘Р•Р—РџР•Р§РќРђ Р’РР›РђР—РљРђ</text>
-  </string>
-  <string id="gar_medic_hunt_ready_name">
-    <text>РџРѕРІС–РґРѕРјРёС‚Рё Р“Р°РјР·Р°С‚Сѓ РїСЂРѕ РіРѕС‚РѕРІРЅС–СЃС‚СЊ</text>
-  </string>
-  <string id="gar_medic_hunt_ready_text">
-    <text>Р“Р°РјР·Р°С‚Сѓ РїРѕС‚СЂС–Р±РЅР° РґРѕРїРѕРјРѕРіР° Р· РѕРґРЅС–С”СЋ РЅРµРїСЂРѕСЃС‚РѕСЋ С‚Р° РІРєСЂР°Р№ РЅРµР±РµР·РїРµС‡РЅРѕСЋ СЃРїСЂР°РІРѕСЋ, Р·Р°С‚Рµ РїР»Р°С‚Сѓ РѕР±С–С†СЏС” РіС–РґРЅСѓ.</text>
-  </string>
-  <string id="gar_medic_hunt_go_bloodsucker_name">
-    <text>Р’РёРјР°РЅРёС‚Рё РєСЂРѕРІРѕСЃРѕСЃР° РЅР° Р“Р°РјР·Р°С‚Р°</text>
-  </string>
-  <string id="gar_medic_hunt_go_bloodsucker_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ Р°РєСѓСЂР°С‚РЅРѕ РІРёРјР°РЅРёС‚Рё РєСЂРѕРІРѕСЃРѕСЃР° РЅР° Р“Р°РјР·Р°С‚Р°, С‰РѕР± С‚РѕР№ Р№РѕРіРѕ РїРѕРєР»Р°РІ.</text>
-  </string>
-  <string id="restore_health_task">
-    <text>РџРћР РђРќР•РќРќРЇ</text>
-  </string>
-  <string id="gar_restore_health_task_start_name">
-    <text>РџРѕРїСЂР°РІРёС‚Рё Р·РґРѕСЂРѕРІ'СЏ</text>
-  </string>
-  <string id="gar_restore_health_task_start_text">
-    <text>РџС–СЃР»СЏ С‚Р°РєРѕРіРѕ РїСЂРѕС‡СѓС…Р°РЅР° С‚СЂРµР±Р° С‚СЂРѕС…Рё РїСЂРёР№С‚Рё РґРѕ С‚СЏРјРё. Рђ С‰Рѕ РЅР°Р№РєСЂР°С‰Рµ РїС–РґРІРёС‰СѓС” РЅР°СЃС‚СЂС–Р№? РђРІР¶РµР¶, РїРѕРєСѓРїРєРё! Р”Рѕ С‚РѕРіРѕ Р¶ Сѓ РјРµРЅРµ Р·'СЏРІРёР»РёСЃСЏ РіСЂРѕС€С–. РџС–РґСѓ РґРѕ РєСЂР°РјР°СЂСЏ, РѕР±РµСЂСѓ СЃРѕР±С– РЅРѕРІРµ СЃРїРѕСЂСЏРґР¶РµРЅРЅСЏ.</text>
-  </string>
-  <string id="go_to_darkvalley">
-    <text>РўР•РњРќРђ Р”РћР›РРќРђ</text>
-  </string>
-  <string id="gar_go_to_darkvalley_start_name">
-    <text>Р’РёСЂСѓС€РёС‚Рё Р·Р° Р°СЂС‚РµС„Р°РєС‚Р°РјРё</text>
-  </string>
-  <string id="gar_go_to_darkvalley_start_text">
-    <text>РџРѕРїРµСЂРµРґСѓ РЅРѕРІС– РјС–СЃС†СЏ, РґРµ СЏ С‰Рµ РЅРµ Р±СѓРІР°РІ! Р—Р°Р±РµСЂСѓ РєРµР№СЃ РєСЂР°РјР°СЂСЏ, Р·Р°СЂР°Р·РѕРј СЃРїСЂРѕР±СѓСЋ РІРёРІС‡РёС‚Рё РѕРєРѕР»РёС†С– РґРѕР»РёРЅРё Р№ РїРѕРЅРёС€РїРѕСЂРёС‚Рё Сѓ РїРѕС€СѓРєР°С… С…Р°Р±Р°СЂСЏ.</text>
-  </string>
-  <string id="gar_go_to_darkvalley_speak_bandit_leader_name">
-    <text>Р—Р°Р±СЂР°С‚Рё РєРµР№СЃ Р· Р°СЂС‚РµС„Р°РєС‚Р°РјРё Сѓ РІР°С‚Р°Р¶РєР° Р±Р°РЅРґРёС‚С–РІ</text>
-  </string>
-  <string id="gar_go_to_darkvalley_speak_bandit_leader_text">
-    <text>РљРѕСЃС‚СѓСЂ РїСЂРѕСЃРёРІ РјРµС‚РЅСѓС‚РёСЃСЏ Сѓ РўРµРјРЅСѓ РґРѕР»РёРЅСѓ Р·Р° РєРµР№СЃРѕРј, СЏРєРёР№ Р·РЅР°С…РѕРґРёС‚СЊСЃСЏ Сѓ РІР°С‚Р°Р¶РєР° Р±Р°РЅРґРёС‚С–РІ.</text>
-  </string>
-  <string id="gar_go_to_darkvalley_wait_trader_name">
-    <text>Р”РѕС‡РµРєР°С‚РёСЃСЏ РїРѕСЏРІРё РљРѕСЃС‚СѓСЂР° Р№ РІС–РґРґР°С‚Рё Р№РѕРјСѓ РєРµР№СЃ</text>
-  </string>
-  <string id="gar_go_to_darkvalley_wait_trader_text">
-    <text>РљРѕСЃС‚СѓСЂ РєСѓРґРёСЃСЊ РІС–РґР»СѓС‡РёРІСЃСЏ Р·С– РЎРјС–С‚РЅРёРєР° Р№ СЃРєР°Р·Р°РІ, С‰Рѕ РјР°СЏРєРЅРµ, РєРѕР»Рё Р·'СЏРІРёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="to_meet_stalker_messenger">
-    <text>Р—Р’'РЇР—РљРћР’РР™</text>
-  </string>
-  <string id="gar_to_meet_stalker_messenger_start_name">
-    <text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ Р· РњРёСЃР»Р°РІРѕРј</text>
-  </string>
-  <string id="gar_to_meet_stalker_messenger_start_text">
-    <text>РџР°С‚СЂРѕРЅ РІС–РґРїСЂР°РІРёРІ РјРµРЅРµ РґРѕ РњРёСЃР»Р°РІР°, СЃРІРѕРіРѕ С‚РѕРІР°СЂРёС€Р°. Р— РЅРёРј РїРѕС‚СЂС–Р±РЅРѕ СѓС‚РѕС‡РЅРёС‚Рё РґРµС‚Р°Р»С– РЅР°С€РѕС— СЃРїСЂР°РІРё.</text>
-  </string>
-  <string id="task_for_stalker_messenger">
-    <text>РџР РР’РђР‘Р›РР’Рђ РџР РћРџРћР—РР¦Р†РЇ</text>
-  </string>
-  <string id="gar_task_for_stalker_messenger_start_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· РџР°С‚СЂРѕРЅРѕРј</text>
-  </string>
-  <string id="gar_task_for_stalker_messenger_start_text">
-    <text>РџР°С‚СЂРѕРЅ РјР°С” РґРѕ РјРµРЅРµ СЏРєСѓСЃСЊ РїСЂРѕРїРѕР·РёС†С–СЋ.</text>
-  </string>
-  <string id="meet_stalkers_for_agroprom_case">
-    <text>РЈ РџРћРЁРЈРљРђРҐ РљРћР”РЈ</text>
-  </string>
-  <string id="gar_meet_stalkers_for_agroprom_case_start_name">
-    <text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ Р·С– СЃС‚Р°Р»РєРµСЂР°РјРё</text>
-  </string>
-  <string id="gar_meet_stalkers_for_agroprom_case_one_text">
-    <text>РњРёСЃР»Р°РІ РґР°РІ РЅР°РІРѕРґРєРё РЅР° С‚СЂСЊРѕС… СЃРІРѕС—С… Р·РЅР°Р№РѕРјРёС…, С‰Рѕ РїС–С€Р»Рё Р· РєР»Р°РЅСѓ РґРёРіРµСЂС–РІ. РњРѕР¶Р»РёРІРѕ, С…С‚РѕСЃСЊ С–Р· РЅРёС… Р·РЅР°С” РєРѕРґ РІС–Рґ СЃРµР№С„Р°. Р—Р° СЃР»РѕРІР°РјРё РњРёСЃР»Р°РІР°, РҐРІС–СЃС‚ СЃС‚РёСЂС‡РёС‚СЊ РґРµСЃСЊ РЅР° РЎРјС–С‚РЅРёРєСѓ, Р° РњС–С‚СЏР№ Р· РџР°РЅРѕРј  вЂ”  РЅР° В«РђРіСЂРѕРїСЂРѕРјС–В» Р№ РљРѕСЂРґРѕРЅС–.</text>
-  </string>
-  <string id="gar_meet_stalkers_for_agroprom_case_two_text">
-    <text>Р— С–РЅС„РѕСЂРјР°С†С–С— Р· С‚С–Р»Р° РњРёСЃР»Р°РІР° РІС–РґРѕРјРѕ РїСЂРѕ С‚СЂСЊРѕС… Р№РѕРіРѕ С‚РѕРІР°СЂРёС€С–РІ, СЏРєС– РїС–С€Р»Рё Р· РєР»Р°РЅСѓ РґРёРіРµСЂС–РІ, С‰Рѕ Р±Р°Р·СѓС”С‚СЊСЃСЏ РЅР° РђРіСЂРѕРїСЂРѕРјС–, Р· РЅРµС‰РѕРґР°РІРЅС–Рј РІРёРґРѕР±СѓС‚РєРѕРј  вЂ”  РєРµР№СЃРѕРј. РњРѕР¶Р»РёРІРѕ, С…С‚РѕСЃСЊ С–Р· С†РёС… СЃС‚Р°Р»РєРµСЂС–РІ Р·РЅР°С” РєРѕРґ РІС–Рґ СЃРµР№С„Р°, РІ СЏРєРѕРјСѓ РєРµР№СЃ. РҐРІС–СЃС‚ СЃС‚РёСЂС‡РёС‚СЊ РґРµСЃСЊ РЅР° РЎРјС–С‚РЅРёРєСѓ, Р° РњС–С‚СЏР№ Р· РџР°РЅРѕРј  вЂ”  РЅР° В«РђРіСЂРѕРїСЂРѕРјС–В» Р№ РљРѕСЂРґРѕРЅС–.</text>
-  </string>
-  <string id="known_stalker_messenger">
-    <text>РњР•Р РўР’РР™ Р—Р’'РЇР—РљРћР’РР™</text>
-  </string>
-  <string id="gar_known_stalker_messenger_start_name">
-    <text>РћР±С€СѓРєР°С‚Рё С‚С–Р»Рѕ РњРёСЃР»Р°РІР°</text>
-  </string>
-  <string id="gar_known_stalker_messenger_start_text">
-    <text>РџР°С‚СЂРѕРЅ РЅР°РїСЂР°РІРёРІ РјРµРЅРµ РїРѕРіРѕРІРѕСЂРёС‚Рё Р· РњРёСЃР»Р°РІРѕРј, Р°Р»Рµ С‚РѕР№ Р·Р°РіРёРЅСѓРІ. РўСЂРµР±Р° РѕР±С€СѓРєР°С‚Рё Р№РѕРіРѕ С‚С–Р»Рѕ Сѓ РїРѕС€СѓРєР°С… С–РЅС„РѕСЂРјР°С†С–С— Р· РЅР°С€РѕС— СЃРїСЂР°РІРё.</text>
-  </string>
-  <string id="gar_start_speak_dolg">
-    <text>Р—РђРЎРўРђР’Рђ В«Р”РћР›Р“РЈВ»</text>
-  </string>
-  <string id="gar_start_speak_dolg_start_name">
-    <text>РџРѕР·РЅР°Р№РѕРјРёС‚РёСЃСЊ С–Р· РєРѕРјР°РЅРґРёСЂРѕРј Р·Р°РіРѕРЅСѓ</text>
-  </string>
-  <string id="gar_start_speak_dolg_start_text">
-    <text>Р¦С–РєР°РІС– РјСѓР¶РёРєРё С†С– РґРѕР»РіС–РІС†С–, РїРѕР·РЅР°Р№РѕРјР»СЋСЃСЊ. РњРѕР¶Рµ, РґС–Р·РЅР°СЋСЃСЏ РїСЂРѕ С‰РѕСЃСЊ РЅРѕРІРµ С‡Рё РЅР°РІС–С‚СЊ Р·РЅР°Р№РґСѓ СЂРѕР±РѕС‚Сѓ.</text>
-  </string>
-  <string id="gar_case_final_task">
-    <text>РџРћР’Р•Р РќР•РќРќРЇ</text>
-  </string>
-  <string id="gar_case_final_task_start_name">
-    <text>Р’С–РґРґР°С‚Рё РєРµР№СЃ РљРѕСЃС‚СѓСЂСѓ</text>
-  </string>
-  <string id="gar_case_final_task_start_text">
-    <text>РќРµРїСЂРѕСЃС‚РѕСЋ РІРёРґР°Р»Р°СЃСЏ РїСЂРѕРіСѓР»СЏРЅРєР° РґРѕ РўРµРјРЅРѕС— РґРѕР»РёРЅРё, Р°Р»Рµ РєРµР№СЃ Сѓ РјРµРЅРµ. РџРѕСЂР° Р·РґР°С‚Рё Р№РѕРіРѕ РєСЂР°РјР°СЂСЋ Р№ РѕС‚СЂРёРјР°С‚Рё РЅР°РіРѕСЂРѕРґСѓ.</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts">
-    <text>РџРћР’Р•Р›РРўР•Р›Р¬ РњРћРќРЎРўР Р†Р’</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_start_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё СЃ Р“Р°РјР·Р°С‚РѕРј</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_start_text">
-    <text>Р“Р°РјР·Р°С‚ РїСЂРѕСЃРёРІ Р·Р°РіР»СЏРЅСѓС‚Рё РґРѕ РЅСЊРѕРіРѕ Р· СЏРєРѕРіРѕСЃСЊ РїРёС‚Р°РЅРЅСЏ, РєРѕР»Рё СЂРѕР·Р±РµСЂСѓСЃСЏ Р·С– СЃРїСЂР°РІР°РјРё. РџРѕРґРёРІРёРјРѕСЃСЊ, С‰Рѕ С†РµР№ РјРёСЃР»РёРІРµС†СЊ РЅР° РєСЂРѕРІРѕСЃРѕСЃС–РІ РјРµРЅС– Р·Р°РїСЂРѕРїРѕРЅСѓС”.</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_go_medic_home_name">
-    <text>Р”С–СЃС‚Р°С‚РёСЃСЏ РґРѕ СЃС…РѕРІРёС‰Р° Р“Р°РјР·Р°С‚Р°</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_go_medic_home_text">
-    <text>Р“Р°РјР·Р°С‚ РјР°С” РґР»СЏ РјРµРЅРµ РЅРѕРІСѓ СЂРѕР±РѕС‚Сѓ. РљР°Р¶Рµ, Р±С–РіР°С‚Рё РІС–Рґ РјСѓС‚Р°РЅС‚С–РІ Р±С–Р»СЊС€Рµ РЅРµ РґРѕРІРµРґРµС‚СЊСЃСЏ. РџРѕС‚СЂС–Р±РЅРѕ Р·СѓСЃС‚СЂС–С‚РёСЃСЏ Р· РЅРёРј РІ Р№РѕРіРѕ СЃС…РѕРІРёС‰С–.</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_start_task_name">
-    <text>Р’РёСЂСѓС€РёС‚Рё РЅР° РіР°Р»СЏРІРёРЅСѓ Р·С– СЃР»С–РїРёРјРё РїСЃР°РјРё</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_start_task_text">
-    <text>Р“Р°РјР·Р°С‚ СЂРѕР·РїРѕРІС–РІ РјРµРЅС– РїСЂРѕ СЃРІРѕС— РґРѕСЃР»С–РґР¶РµРЅРЅСЏ С‰РѕРґРѕ РїСЂРёРґСѓС€РµРЅРЅСЏ Р°РіСЂРµСЃРёРІРЅРѕСЃС‚С– РјРѕРЅСЃС‚СЂС–РІ. РќР° С†Рµ РјРѕР¶РЅР° РІРїР»РёРЅСѓС‚Рё Р·Р° РґРѕРїРѕРјРѕРіРѕСЋ Р°СЂС‚РµС„Р°РєС‚Сѓ. Р§Рё С†Рµ РґС–С”  вЂ”  РїРµСЂРµРІС–СЂРёРјРѕ РЅР° СЃРѕР±Р°РєР°С….</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_task_kill_monsters_name">
-    <text>Р’С–РґР±РёС‚РёСЃСЏ РІС–Рґ РјСѓС‚Р°РЅС‚С–РІ</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_task_kill_monsters_text">
-    <text>РђСЂС‚РµС„Р°РєС‚ РїС–РґРІС–РІ. Р”РѕРІРµРґРµС‚СЊСЃСЏ РІРїР»СѓС‚СѓРІР°С‚РёСЃСЊ Сѓ Р±С–Р№ Р· РјРѕРЅСЃС‚СЂР°РјРё.</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_final_speak_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё СЃ Р“Р°РјР·Р°С‚РѕРј</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_final_speak_text">
-    <text>Р—РґР°С”С‚СЊСЃСЏ, РІС–РґР±РёР»РёСЃСЏ... РџРѕСЂР° РїРѕСЃРїС–Р»РєСѓРІР°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_search_treasure_name">
-    <text>Р—Р°Р±СЂР°С‚Рё Р·Р°РїРёСЃРё Сѓ СЃС…РѕРІРёС‰С– Р“Р°РјР·Р°С‚Р°</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_search_treasure_text">
-    <text>РџСЂРёСЃРјРµСЂС‚РЅРёР№ Р“Р°РјР·Р°С‚ РїСЂРѕСЃРёРІ РїРµСЂРµРґР°С‚Рё Р№РѕРіРѕ Р·Р°РїРёСЃРё Р”СѓР±РёРЅС†СЋ РґРѕ РЅР°СѓРєРѕРІРѕРіРѕ РєРѕРјРїР»РµРєСЃСѓ РЅР° В«РђРіСЂРѕРїСЂРѕРјС–В». РўСЂРµР±Р° Р·Р°Р±СЂР°С‚Рё С—С… Р· Р№РѕРіРѕ СЃС…РѕРІРёС‰Р°.</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_kill_bloodsucker_name">
-    <text>Р’Р±РёС‚Рё РєСЂРѕРІРѕСЃРѕСЃР° Р°Р±Рѕ Р·Р°Р»РёС€РёС‚Рё Р№РѕРіРѕ Р¶РёРІРёРј</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_kill_bloodsucker_text">
-    <text>РџРѕРєРё Р°СЂС‚РµС„Р°РєС‚ С‰Рµ РґС–С”, С‚СЂРµР±Р° РІР±РёС‚Рё РєСЂРѕРІРѕСЃРѕСЃР°. РќРµРїРѕРґР°Р»С–Рє С‚Р°Р±С–СЂ, С– РєСЂР°С‰Рµ Р±СѓР»Рѕ Р± СѓСЃСѓРЅСѓС‚Рё РїРѕС‚РµРЅС†С–Р№РЅСѓ Р·Р°РіСЂРѕР·Сѓ.</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_go_to_agroprom_name">
-    <text>Р’С–РґРЅРµСЃС‚Рё РґРѕРєСѓРјРµРЅС‚Рё РґРѕ РЅР°СѓРєРѕРІРѕРіРѕ РєРѕРјРїР»РµРєСЃСѓ</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_go_to_agroprom_text">
-    <text>Р“Р°РјР·Р°С‚ РјРµСЂС‚РІРёР№... Р™РѕРіРѕ РµРєСЃРїРµСЂРёРјРµРЅС‚Рё РІРёСЏРІРёР»РёСЃСЊ РЅРµ Р·РѕРІСЃС–Рј СѓСЃРїС–С€РЅРёРјРё. Р’С–РґРЅРµСЃСѓ Р№РѕРіРѕ Р·Р°РїРёСЃРё РґРѕ РЅР°СѓРєРѕРІРѕРіРѕ РєРѕРјРїР»РµРєСЃСѓ РЅР° В«РђРіСЂРѕРїСЂРѕРјС–В», СЏРє С– РѕР±С–С†СЏРІ.</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_speak_task_scientist_name">
-    <text>Р—СѓСЃС‚СЂС–С‚РёСЃСЏ Р· Р”СѓР±РёРЅС†РµРј</text>
-  </string>
-  <string id="gar_stalker_medic_artefacts_speak_task_scientist_text">
-    <text>Р”СѓР±РёРЅРµС†СЊ РґР°РІ РїСЂРѕ СЃРµР±Рµ Р·РЅР°С‚Рё. Р™РѕРіРѕ С‚СЂРµР±Р° Р·РЅР°Р№С‚Рё РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ РєРѕРјРїР»РµРєСЃСѓ.</text>
-  </string>
-  <string id="gar_drunk_medic_start_task">
-    <text>РќРћР’РР™ РњР•Р”РРљ</text>
-  </string>
-  <string id="gar_drunk_medic_start_task_start_name">
-    <text>Р—Р°Р№С‚Рё РґРѕ РЎР°РЅС–</text>
-  </string>
-  <string id="gar_drunk_medic_start_task_start_text">
-    <text>РЎР°РЅСЏ РІСЃРµ Р¶ С‚Р°РєРё РґС–СЃС‚Р°РІСЃСЏ РґРѕ Р±Р°Р·Рё СЃС‚Р°Р»РєРµСЂС–РІ. РўСЂРµР±Р° Р·СѓСЃС‚СЂС–С‚РёСЃСЏ Р№ СЃРїРёС‚Р°С‚Рё, СЏРє РІС–РЅ РІР»Р°С€С‚СѓРІР°РІСЃСЏ.</text>
-  </string>
-  <string id="gar_drunk_medic_supplies_task">
-    <text>РџР РћРҐРђРќРќРЇ</text>
-  </string>
-  <string id="gar_drunk_medic_supplies_task_speak_duty_name">
-    <text>Р—РґРѕР±СѓС‚Рё РјРµРґРёРєР°РјРµРЅС‚Рё Сѓ В«Р”РѕР»РіСѓВ»</text>
-  </string>
-  <string id="gar_drunk_medic_supplies_task_speak_duty_text">
-    <text>РќРѕРІРѕРјСѓ РјРµРґРёРєСѓ РїРѕС‚СЂС–Р±РЅС– РјРµРґРёРєР°РјРµРЅС‚Рё. РњРѕР¶РЅР° СЃРїСЂРѕР±СѓРІР°С‚Рё СЃРїРёС‚Р°С‚Рё Сѓ В«Р”РѕР»РіСѓВ»  вЂ”  РјРѕР¶Рµ, РІРѕРЅРё РјР°СЋС‚СЊ Р·Р°Р№РІС– РЅР° РїСЂРѕРґР°Р¶.</text>
-  </string>
-  <string id="gar_drunk_medic_supplies_task_kill_boars_name">
-    <text>Р—Р°С‡РёСЃС‚РёС‚Рё РјС–СЃС†РµРІС–СЃС‚СЊ РІС–Рґ РјСѓС‚Р°РЅС‚С–РІ</text>
-  </string>
-  <string id="gar_drunk_medic_supplies_task_kill_boars_text">
-    <text>Р”РѕР»РіС–РІС†С– РїРѕРѕР±С–С†СЏР»Рё РІРёРґС–Р»РёС‚Рё РјРµРґРёРєР°РјРµРЅС‚Рё, СЏРєС‰Рѕ СЏ СѓСЃСѓРЅСѓ Р·РіСЂР°СЋ РєР°Р±Р°РЅС–РІ РЅРµРїРѕРґР°Р»С–Рє.</text>
-  </string>
-  <string id="gar_drunk_medic_supplies_task_kill_go_back_name">
-    <text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РґРѕ Р”СЏС‚Р»РѕРІР°</text>
-  </string>
-  <string id="gar_drunk_medic_supplies_task_kill_go_back_text">
-    <text>РљР°Р±Р°РЅС–РІ Р·РЅРёС‰РµРЅРѕ. РњРѕР¶РЅР° РїРѕРІРµСЂС‚Р°С‚РёСЃСЏ РґРѕ Р”СЏС‚Р»РѕРІР° Р·Р° РЅР°РіРѕСЂРѕРґРѕСЋ.</text>
-  </string>
-  <string id="gar_drunk_medic_supplies_task_final_speak_name">
-    <text>Р’С–РґРЅРµСЃС‚Рё РЎР°РЅС– РјРµРґРёРєР°РјРµРЅС‚Рё</text>
-  </string>
-  <string id="gar_drunk_medic_supplies_task_final_speak_text">
-    <text>РќР° РјС–Р№ РїРѕРґРёРІ, РІРґР°Р»РѕСЃСЏ РґС–СЃС‚Р°С‚Рё Сѓ РґРѕР»РіС–РІС†С–РІ РјРµРґРёРєР°РјРµРЅС‚Рё. РџРѕСЂР° РІС–РґРґР°С‚Рё С—С… РЎР°РЅС–.</text>
-  </string>
-  <string id="gar_start_bar_task">
-    <text>Р‘РђР </text>
-  </string>
-  <string id="gar_start_bar_task_go_lchanger_name">
-    <text>Р’С–РґРІС–РґР°С‚Рё РЅРѕРІС– РѕРєРѕР»РёС†С–</text>
-  </string>
-  <string id="gar_start_bar_task_go_lchanger_text">
-    <text>РџС–СЃР»СЏ РґРѕРїРѕРјРѕРіРё Р·Р°РіРѕРЅСѓ Р”СЏС‚Р»РѕРІР°, Сѓ РјРµРЅРµ Р·'СЏРІРёР»Р°СЃСЏ РјРѕР¶Р»РёРІС–СЃС‚СЊ РІС–РґРІС–РґР°С‚Рё РЅР°Р№Р±С–Р»СЊС€РёР№ РїСЂРёС…РёСЃС‚РѕРє СЃС‚Р°Р»РєРµСЂС–РІ: Р»РµРіРµРЅРґР°СЂРЅРёР№ Р±Р°СЂ. Р¦СЏ С‚РµСЂРёС‚РѕСЂС–СЏ Р·РЅР°С…РѕРґРёС‚СЊСЃСЏ РїС–Рґ РєРѕРЅС‚СЂРѕР»РµРј СѓРіСЂСѓРїРѕРІР°РЅРЅСЏ В«Р”РѕР»РіВ», С‚РѕРјСѓ РїРѕС‚СЂС–Р±РЅРѕ РїРѕРІРѕРґРёС‚РёСЃСЏ РїСЂРёР№РЅСЏС‚РЅРѕ. РЇРє РјРµРЅС– СЃРєР°Р·Р°Р»Рё, С‚Р°Рј РјРѕР¶РЅР° РЅРµРїРѕРіР°РЅРѕ РІС–РґРїРѕС‡РёС‚Рё Р№ РїС–РґС€СѓРєР°С‚Рё СЏРєСѓСЃСЊ СЂРѕР±РѕС‚Сѓ.</text>
-  </string>
-  <string id="gar_military_task">
-    <text>РќРђ РђР РњР†Р™РЎР¬РљР† РЎРљР›РђР”Р</text>
-  </string>
-  <string id="gar_military_task_start_name">
-    <text>Р”С–СЃС‚Р°С‚РёСЃСЏ РґРѕ Р±Р°СЂСѓ</text>
-  </string>
-  <string id="gar_military_task_start_text">
-    <text>РљРѕРІР°Р»СЊ РїС–РґРєРёРЅСѓРІ С–РЅС„РѕСЂРјР°С†С–СЋ, С‰Рѕ Р»СЋРґРµР№, СЃС…РѕР¶РёС… РЅР° С‚РёС…, РєРѕРіРѕ Р±Р°С‡РёР»Рё РЅР° В«РђРіСЂРѕРїСЂРѕРјС–В» РІ РґРµРЅСЊ Р·РЅРёРєРЅРµРЅРЅСЏ РїСЂРѕС„РµСЃРѕСЂР°, Р±Р°С‡РёР»Рё РЅР° РђСЂРјС–Р№СЃСЊРєРёС… СЃРєР»Р°РґР°С…. Р§Рё РІС–СЂРЅР° С†СЏ С–РЅС„РѕСЂРјР°С†С–СЏ С‡Рё РЅС–  вЂ”  РїРѕРєР°Р¶Рµ С‡Р°СЃ. Р’ Р±СѓРґСЊ-СЏРєРѕРјСѓ СЂР°Р·С–, Р·Р°СЂР°Р· С†Рµ С”РґРёРЅР° Р·Р°С‡С–РїРєР°. Р”РѕСЂРѕРіР° РґРѕ СЃРєР»Р°РґС–РІ РїСЂРѕР»СЏРіР°С” С‡РµСЂРµР· Р±Р°СЂ. РўР°Рј СЃР»С–Рґ Р±СѓС‚Рё РґСѓР¶Рµ РѕР±РµСЂРµР¶РЅРёРј.</text>
-  </string>
-  <string id="gar_start_bar_task_go_military_name">
-    <text>РњРёРЅСѓС‚Рё Р±Р°СЂ</text>
-  </string>
-  <string id="gar_start_bar_task_go_military_text">
-    <text>РЈ Р±Р°СЂС– СЃР»С–Рґ РїРѕРІРѕРґРёС‚РёСЃСЊ РѕР±РµСЂРµР¶РЅРѕ С– РЅР°РјР°РіР°С‚РёСЃСЏ РЅРµ РІС–РґСЃРІС–С‡СѓРІР°С‚Рё. Р— РІС–Р№СЃСЊРєРѕРІРёРјРё С‚СѓС‚ С‚РѕС‡РЅРѕ РЅРµ РґСѓР¶Рµ РїР°РЅСЊРєР°СЋС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="gar_stalker_nimble_wait_order_task">
-    <text>РћРЎРћР‘Р›РР’Р• Р—РђРњРћР’Р›Р•РќРќРЇ</text>
-  </string>
-  <string id="gar_stalker_nimble_wait_order_task_name">
-    <text>Р”РѕС‡РµРєР°С‚РёСЃСЏ РѕС‚СЂРёРјР°РЅРЅСЏ С‚РѕРІР°СЂСѓ</text>
-  </string>
-  <string id="gar_stalker_nimble_wait_order_task_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ РґРѕС‡РµРєР°С‚РёСЃСЏ, РїРѕРєРё Р’С–С‚СЊРєРѕ РЎС‚РµРїР°Рє РґС–СЃС‚Р°РЅРµ РїРѕС‚СЂС–Р±РЅРёР№ С‚РѕРІР°СЂ.\nРћСЂС–С”РЅС‚РѕРІРЅРёР№ С‡Р°СЃ РґРѕСЃС‚Р°РІРєРё:</text>
-  </string>
-  <string id="gar_stalker_nimble_wait_order_task_one_day">
-    <text>РґРѕР±Р°.</text>
-  </string>
-  <string id="gar_stalker_nimble_wait_order_task_two_days">
-    <text>РґРІС– РґРѕР±Рё.</text>
-  </string>
-  <string id="gar_stalker_nimble_wait_order_task_item">
-    <text>РћС‡С–РєСѓРІР°РЅРёР№ С‚РѕРІР°СЂ:</text>
-  </string>
-  <string id="gar_stalker_nimble_wait_order_task_ready_name">
-    <text>Р—Р°Р±СЂР°С‚Рё С‚РѕРІР°СЂ</text>
-  </string>
-  <string id="gar_stalker_nimble_wait_order_task_ready_text">
-    <text>Р’С–С‚СЊРєРѕ РЎС‚РµРїР°Рє РїРѕРІС–РґРѕРјРёРІ РїСЂРѕ СѓСЃРїС–С€РЅСѓ РґРѕСЃС‚Р°РІРєСѓ Р·Р°РјРѕРІР»РµРЅРЅСЏ. РџРѕСЂР° Р·Р°Р±РёСЂР°С‚Рё С‚РѕРІР°СЂ:</text>
-  </string>
+
+	<string id="gar_mishgan_corpse">
+		<text>НЕПРИЄМНА ЗУСТРІЧ</text>
+	</string>
+
+	<string id="gar_mishgan_corpse_start_name">
+		<text>Дізнатися, куди зник Мішган</text>
+	</string>
+
+	<string id="gar_mishgan_corpse_start_text">
+		<text>От бляха, ох і огрів же він мене по башці... Схоже, він зібрався самотужки рятувати своїх друзів на кладовищі техніки, ідіот. Як би дров не наламав, треба перевірити.</text>
+	</string>
+
+	<string id="gar_find_local_trader">
+		<text>КРАМАР ЗІ СМІТНИКА</text>
+	</string>
+
+	<string id="gar_find_local_trader_start_name">
+		<text>Знайти роботу на базі сталкерів</text>
+	</string>
+
+	<string id="gar_find_local_trader_text_good">
+		<text>За словами Мішгана, найближчий табір сталкерів знаходиться в ангарі. Треба б туди навідатись та знайти роботу у місцевого крамаря.</text>
+	</string>
+
+	<string id="gar_find_local_trader_text_bad">
+		<text>Отже, що ж робити далі? Думаю, треба знайти найближчий табір сталкерів та підшукати там роботу у крамаря.</text>
+	</string>
+
+	<string id="gar_wait_trader_name">
+		<text>Зачекати, доки Костур звільниться</text>
+	</string>
+
+	<string id="gar_wait_trader_text">
+		<text>Патрон попросив почекати якийсь час, поки крамар зайнятий своїми справами. Прогуляюся поки що околицями. Може, хтось роботу підкине.</text>
+	</string>
+
+	<string id="gar_speak_trader_name">
+		<text>Поговорити з Костуром</text>
+	</string>
+
+	<string id="gar_speak_trader_text">
+		<text>Мабуть, крамар вже звільнився, поки я тинявся околицями.</text>
+	</string>
+
+	<string id="gar_mishgan_attack_bandits">
+		<text>БРАНЦІ</text>
+	</string>
+
+	<string id="gar_mishgan_distract_bandits_start_name">
+		<text>Відвернути увагу бандитів</text>
+	</string>
+
+	<string id="gar_mishgan_distract_bandits_start_text">
+		<text>Треба якось відвернути увагу бандитів, поки Мішган заходить їм у спину.</text>
+	</string>
+
+	<string id="gar_mishgan_kill_bandits_name">
+		<text>Добити решту бандитів</text>
+	</string>
+
+	<string id="gar_mishgan_kill_bandits_text">
+		<text>Залишилася ще купка відморозків. Скоріш за все, вони наглядають за бранцями.</text>
+	</string>
+
+	<string id="gar_mishgan_task_final_speak_name">
+		<text>Поговорити з Мішганом</text>
+	</string>
+
+	<string id="gar_mishgan_task_final_speak_text">
+		<text>Було гаряче. Пора поспілкуватися з Мішганом.</text>
+	</string>
+
+	<string id="gar_mishgan_defence_kladbishe_name">
+		<text>Відбити атаку бандитів, що наступають, або втекти</text>
+	</string>
+
+	<string id="gar_mishgan_defence_kladbishe_text">
+		<text>Дідько, до бандитів іде підкріплення! Треба з ними розібратися.</text>
+	</string>
+
+	<string id="gar_inspect_level">
+		<text>ОГЛЯНУТИ ОКОЛИЦІ</text>
+	</string>
+
+	<string id="gar_inspect_level_name">
+		<text>Оглянути околиці, поки крамар зайнятий</text>
+	</string>
+
+	<string id="gar_inspect_level_text">
+		<text>Прогуляюся околицями, поки крамар зайнятий своїми справами. Може, знайду щось цікаве.</text>
+	</string>
+
+	<string id="gar_inspect_level_forest_name">
+		<text>Ліс</text>
+	</string>
+
+	<string id="gar_inspect_level_forest_text">
+		<text>Прогуляюся околицями, поки торговець зайнятий своїми справами. Може, щось цікаве знайду. Наприклад, не завадить зазирнути в невеликий лісок на околицях Смітника.</text>
+	</string>
+
+	<string id="gar_inspect_level_baraholka_name">
+		<text>Барахолка</text>
+	</string>
+
+	<string id="gar_inspect_level_baraholka_text">
+		<text>Прогуляюся околицями, поки торговець зайнятий своїми справами. Може, вдасться знайти щось цікаве і корисне. Судячи з карти, неподалік від ангара є якісь руїни. Бажаю їх оглянути.</text>
+	</string>
+
+	<string id="gar_inspect_level_dolg_zastava_name">
+		<text>Застава «Долгу»</text>
+	</string>
+
+	<string id="gar_inspect_level_dolg_zastava_text">
+		<text>Прогуляюся околицями, поки торговець зайнятий своїми справами. Може, щось цікаве знайду. Я чув, що на півночі Звалища розташувався КПП угруповання «Долг». Ще жодного разу їх не зустрічав, хотів би познайомитися і, за можливості, знайти в них роботу.</text>
+	</string>
+
+	<string id="spend_desertir">
+		<text>ДЕЗЕРТИР</text>
+	</string>
+
+	<string id="spend_desertir_start_name">
+		<text>Проводити дезертира до Юрка</text>
+	</string>
+
+	<string id="spend_desertir_start_text">
+		<text>Вирішив підкинути Юрку одну роботу. Вояка обіцяв грошима не образити.</text>
+	</string>
+
+	<string id="dyatlov_zastava_secret">
+		<text>ТАЄМНИЦЯ ЗАСТАВИ ДЯТЛОВА</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_start_name">
+		<text>Поговорити з командиром застави</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_start_text">
+		<text>Командир застави «Долгу» розповів, що у нього в таборі відбувається щось дивне. Він просив підійти, коли з'явиться час.</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_secret_name">
+		<text>Встановити спостереження за табором після опівночі</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_secret_text">
+		<text>На заставі «Долгу» відбувається якась чортівня. Спробую у цьому всьому розібратися.</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_secret_speak_leader_name">
+		<text>Поговорити з командиром</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_secret_speak_leader_text">
+		<text>Жесть! Що це було? Навіть моторошно стало! На заставі дійсно кояться якісь містичні речі! Треба про все це доповісти командиру.</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_secret_speak_stalkers_name">
+		<text>Опитати сталкерів про нічні дива</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_secret_speak_stalkers_text">
+		<text>Ключ до розгадки дивацтв  -  інформація. Треба спитати місцевих: вони можуть мати важливу інформацію по моїй справі.</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_find_corvalol_name">
+		<text>Знайти сталкера на прізвисько Корвалол</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_find_corvalol_text">
+		<text>Корвалол може допомогти у розгадці містичної таємниці на заставі «Долгу». За словами опитаного сталкера, він шукає артефакти на галявині за Барахолкою.</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_secret_find_unknown_soldier_name">
+		<text>Знайти невідомого долгівця</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_secret_find_unknown_soldier_text">
+		<text>Дехто з «Долгу» не бажає, щоб сталкери нишпорили у пошуках правди. Треба з'ясувати, ким була та людина. Оскільки я працюю під проводом командира, то погрожувати мені відкрито він не наважиться, тому доведеться мені знайти його самому. Дятлов має щось підказати з цього питання.</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_secret_speak_aver_name">
+		<text>Поговорити з Авер'яновим</text>
+	</string>
+
+	<string id="gar_dyatlov_zastava_secret_speak_aver_text">
+		<text>Треба поговорити з останнім свідком зникнення рядового долгівця. Не знаю, як це може бути пов'язано з розслідуванням містики, але варто спробувати.</text>
+	</string>
+
+	<string id="gar_dolg_zastava_inspect_forest_name">
+		<text>Рухатись до місця зникнення Галушкіна</text>
+	</string>
+
+	<string id="gar_dolg_zastava_inspect_forest_text">
+		<text>Авер'янов виявився дуже запальною й нервовою людиною, і я не думаю, що він такий за натурою. Вірогідно, йому є що приховувати, і я більш ніж впевнений, що це саме він погрожував Карвалолу. Піду я до лісу: може, вийде щось знайти на місці пропажі Галушкіна.</text>
+	</string>
+
+	<string id="gar_dolg_zastava_scene_forest_speak_dyatlov_name">
+		<text>Розповісти командиру про те, що сталося</text>
+	</string>
+
+	<string id="gar_dolg_zastava_scene_forest_speak_dyatlov_text">
+		<text>Зниклий долгівець виявився на дні колодязя: його вбили свої ж товариші по службі! Очевидно, вони зовсім не були раді його підвищенню. Треба розповісти про все Дятлову.</text>
+	</string>
+
+	<string id="gar_dolg_zastava_search_aver_name">
+		<text>Наздогнати Авер'янова</text>
+	</string>
+
+	<string id="gar_dolg_zastava_search_aver_text">
+		<text>Авер'янов покинув заставу, але його КПК все ще пеленгується на території Смітнику. Маю наздогнати втікача.</text>
+	</string>
+
+	<string id="gar_dolg_zastava_search_in_forest_name">
+		<text>Рухатись до лісу</text>
+	</string>
+
+	<string id="gar_dolg_zastava_search_in_forest_text">
+		<text>Авер'янов пішов у ліс. Його треба наздогнати.</text>
+	</string>
+
+	<string id="gar_dolg_zastava_final_speak_name">
+		<text>Доповісти Дятлову про зникнення Авер'янова</text>
+	</string>
+
+	<string id="gar_dolg_zastava_final_speak_text">
+		<text>Відплата, здається, відбулася. Авер'янова більше немає. Треба доповісти про це командиру застави.</text>
+	</string>
+
+	<string id="gar_dolg_zastava_final_speak2_name">
+		<text>Доповісти Дятлову про смерть Авер'янова</text>
+	</string>
+
+	<string id="gar_dolg_zastava_final_speak2_text">
+		<text>Справу виконано. Залишилося доповісти Дятлову.</text>
+	</string>
+
+	<string id="gar_duty_bandits_kill_task">
+		<text>ДОПОМОГА «ДОЛГУ»</text>
+	</string>
+
+	<string id="gar_duty_bandits_kill_task_main_name">
+		<text>Розібратися з бандитами на хуторі</text>
+	</string>
+
+	<string id="gar_duty_bandits_kill_task_main_text">
+		<text>Дятлов попросив прибрати бандитів з хутора неподалік від лісу. Думаю, це підніме мою репутацію серед його угруповання.</text>
+	</string>
+
+	<string id="gar_duty_bandits_kill_task_dyatlov_talk_name">
+		<text>Доповісти Дятлову</text>
+	</string>
+
+	<string id="gar_duty_bandits_kill_task_dyatlov_talk_text">
+		<text>Пора доповісти командиру застави, що він може відправляти своїх людей на хутір.</text>
+	</string>
+
+	<string id="kill_tonnel_bandits">
+		<text>ТУНЕЛЬ НА СМІТНИКУ</text>
+	</string>
+
+	<string id="gar_kill_tonnel_bandits_start_name">
+		<text>Розібратися з бандитами</text>
+	</string>
+
+	<string id="gar_kill_tonnel_bandits_start_text">
+		<text>У залізничному тунелі на Смітнику влаштувалися бандити. Потрібно з ними розібратися.</text>
+	</string>
+
+	<string id="gar_kill_tonnel_bandits_reward_name">
+		<text>Повернутися по винагороду</text>
+	</string>
+
+	<string id="gar_kill_tonnel_bandits_reward_text">
+		<text>Справу виконано. Пора забирати нагороду.</text>
+	</string>
+
+	<string id="speak_gamzat">
+		<text>МІСЦЕВИЙ ЛІКАР</text>
+	</string>
+
+	<string id="gar_speak_gamzat_start_name">
+		<text>Познайомитись із Гамзатом</text>
+	</string>
+
+	<string id="gar_speak_gamzat_start_text">
+		<text>Якийсь медик на прізвисько Гамзат, судячи зі слів Костура, може підкинути мені роботу. Треба з ним познайомитись. Сподіваюсь, не доведеться виносити судна за хворими.</text>
+	</string>
+
+	<string id="gar_gamzat_task_hunt">
+		<text>НЕБЕЗПЕЧНА ВИЛАЗКА</text>
+	</string>
+
+	<string id="gar_medic_hunt_ready_name">
+		<text>Повідомити Гамзату про готовність</text>
+	</string>
+
+	<string id="gar_medic_hunt_ready_text">
+		<text>Гамзату потрібна допомога з однією непростою та вкрай небезпечною справою, зате плату обіцяє гідну.</text>
+	</string>
+
+	<string id="gar_medic_hunt_go_bloodsucker_name">
+		<text>Виманити кровососа на Гамзата</text>
+	</string>
+
+	<string id="gar_medic_hunt_go_bloodsucker_text">
+		<text>Потрібно акуратно виманити кровососа на Гамзата, щоб той його поклав.</text>
+	</string>
+
+	<string id="restore_health_task">
+		<text>ПОРАНЕННЯ</text>
+	</string>
+
+	<string id="gar_restore_health_task_start_name">
+		<text>Поправити здоров'я</text>
+	</string>
+
+	<string id="gar_restore_health_task_start_text">
+		<text>Після такого прочухана треба трохи прийти до тями. А що найкраще підвищує настрій? Авжеж, покупки! До того ж у мене з'явилися гроші. Піду до крамаря, оберу собі нове спорядження.</text>
+	</string>
+
+	<string id="go_to_darkvalley">
+		<text>ТЕМНА ДОЛИНА</text>
+	</string>
+
+	<string id="gar_go_to_darkvalley_start_name">
+		<text>Вирушити за артефактами</text>
+	</string>
+
+	<string id="gar_go_to_darkvalley_start_text">
+		<text>Попереду нові місця, де я ще не бував! Заберу кейс крамаря, заразом спробую вивчити околиці долини й понишпорити у пошуках хабаря.</text>
+	</string>
+
+	<string id="gar_go_to_darkvalley_speak_bandit_leader_name">
+		<text>Забрати кейс з артефактами у ватажка бандитів</text>
+	</string>
+
+	<string id="gar_go_to_darkvalley_speak_bandit_leader_text">
+		<text>Костур просив метнутися у Темну долину за кейсом, який знаходиться у ватажка бандитів.</text>
+	</string>
+
+	<string id="gar_go_to_darkvalley_wait_trader_name">
+		<text>Дочекатися появи Костура й віддати йому кейс</text>
+	</string>
+
+	<string id="gar_go_to_darkvalley_wait_trader_text">
+		<text>Костур кудись відлучився зі Смітника й сказав, що маякне, коли з'явиться.</text>
+	</string>
+
+	<string id="to_meet_stalker_messenger">
+		<text>ЗВ'ЯЗКОВИЙ</text>
+	</string>
+
+	<string id="gar_to_meet_stalker_messenger_start_name">
+		<text>Зустрітися з Миславом</text>
+	</string>
+
+	<string id="gar_to_meet_stalker_messenger_start_text">
+		<text>Патрон відправив мене до Мислава, свого товариша. З ним потрібно уточнити деталі нашої справи.</text>
+	</string>
+
+	<string id="task_for_stalker_messenger">
+		<text>ПРИВАБЛИВА ПРОПОЗИЦІЯ</text>
+	</string>
+
+	<string id="gar_task_for_stalker_messenger_start_name">
+		<text>Поговорити з Патроном</text>
+	</string>
+
+	<string id="gar_task_for_stalker_messenger_start_text">
+		<text>Патрон має до мене якусь пропозицію.</text>
+	</string>
+
+	<string id="meet_stalkers_for_agroprom_case">
+		<text>У ПОШУКАХ КОДУ</text>
+	</string>
+
+	<string id="gar_meet_stalkers_for_agroprom_case_start_name">
+		<text>Зустрітися зі сталкерами</text>
+	</string>
+
+	<string id="gar_meet_stalkers_for_agroprom_case_one_text">
+		<text>Мислав дав наводки на трьох своїх знайомих, що пішли з клану дигерів. Можливо, хтось із них знає код від сейфа. За словами Мислава, Хвіст стирчить десь на Смітнику, а Мітяй з Паном  -  на «Агропромі» й Кордоні.</text>
+	</string>
+
+	<string id="gar_meet_stalkers_for_agroprom_case_two_text">
+		<text>З інформації з тіла Мислава відомо про трьох його товаришів, які пішли з клану дигерів, що базується на Агропромі, з нещодавнім видобутком  -  кейсом. Можливо, хтось із цих сталкерів знає код від сейфа, в якому кейс. Хвіст стирчить десь на Смітнику, а Мітяй з Паном  -  на «Агропромі» й Кордоні.</text>
+	</string>
+
+	<string id="known_stalker_messenger">
+		<text>МЕРТВИЙ ЗВ'ЯЗКОВИЙ</text>
+	</string>
+
+	<string id="gar_known_stalker_messenger_start_name">
+		<text>Обшукати тіло Мислава</text>
+	</string>
+
+	<string id="gar_known_stalker_messenger_start_text">
+		<text>Патрон направив мене поговорити з Миславом, але той загинув. Треба обшукати його тіло у пошуках інформації з нашої справи.</text>
+	</string>
+
+	<string id="gar_start_speak_dolg">
+		<text>ЗАСТАВА «ДОЛГУ»</text>
+	</string>
+
+	<string id="gar_start_speak_dolg_start_name">
+		<text>Познайомитись із командиром загону</text>
+	</string>
+
+	<string id="gar_start_speak_dolg_start_text">
+		<text>Цікаві мужики ці долгівці, познайомлюсь. Може, дізнаюся про щось нове чи навіть знайду роботу.</text>
+	</string>
+
+	<string id="gar_case_final_task">
+		<text>ПОВЕРНЕННЯ</text>
+	</string>
+
+	<string id="gar_case_final_task_start_name">
+		<text>Віддати кейс Костуру</text>
+	</string>
+
+	<string id="gar_case_final_task_start_text">
+		<text>Непростою видалася прогулянка до Темної долини, але кейс у мене. Пора здати його крамарю й отримати нагороду.</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts">
+		<text>ПОВЕЛИТЕЛЬ МОНСТРІВ</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_start_name">
+		<text>Поговорити с Гамзатом</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_start_text">
+		<text>Гамзат просив заглянути до нього з якогось питання, коли розберуся зі справами. Подивимось, що цей мисливець на кровососів мені запропонує.</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_go_medic_home_name">
+		<text>Дістатися до сховища Гамзата</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_go_medic_home_text">
+		<text>Гамзат має для мене нову роботу. Каже, бігати від мутантів більше не доведеться. Потрібно зустрітися з ним в його сховищі.</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_start_task_name">
+		<text>Вирушити на галявину зі сліпими псами</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_start_task_text">
+		<text>Гамзат розповів мені про свої дослідження щодо придушення агресивності монстрів. На це можна вплинути за допомогою артефакту. Чи це діє  -  перевіримо на собаках.</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_task_kill_monsters_name">
+		<text>Відбитися від мутантів</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_task_kill_monsters_text">
+		<text>Артефакт підвів. Доведеться вплутуватись у бій з монстрами.</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_final_speak_name">
+		<text>Поговорити с Гамзатом</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_final_speak_text">
+		<text>Здається, відбилися... Пора поспілкуватися.</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_search_treasure_name">
+		<text>Забрати записи у сховищі Гамзата</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_search_treasure_text">
+		<text>Присмертний Гамзат просив передати його записи Дубинцю до наукового комплексу на «Агропромі». Треба забрати їх з його сховища.</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_kill_bloodsucker_name">
+		<text>Вбити кровососа або залишити його живим</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_kill_bloodsucker_text">
+		<text>Поки артефакт ще діє, треба вбити кровососа. Неподалік табір, і краще було б усунути потенційну загрозу.</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_go_to_agroprom_name">
+		<text>Віднести документи до наукового комплексу</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_go_to_agroprom_text">
+		<text>Гамзат мертвий... Його експерименти виявились не зовсім успішними. Віднесу його записи до наукового комплексу на «Агропромі», як і обіцяв.</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_speak_task_scientist_name">
+		<text>Зустрітися з Дубинцем</text>
+	</string>
+
+	<string id="gar_stalker_medic_artefacts_speak_task_scientist_text">
+		<text>Дубинець дав про себе знати. Його треба знайти неподалік від комплексу.</text>
+	</string>
+
+	<string id="gar_drunk_medic_start_task">
+		<text>НОВИЙ МЕДИК</text>
+	</string>
+
+	<string id="gar_drunk_medic_start_task_start_name">
+		<text>Зайти до Сані</text>
+	</string>
+
+	<string id="gar_drunk_medic_start_task_start_text">
+		<text>Саня все ж таки дістався до бази сталкерів. Треба зустрітися й спитати, як він влаштувався.</text>
+	</string>
+
+	<string id="gar_drunk_medic_supplies_task">
+		<text>ПРОХАННЯ</text>
+	</string>
+
+	<string id="gar_drunk_medic_supplies_task_speak_duty_name">
+		<text>Здобути медикаменти у «Долгу»</text>
+	</string>
+
+	<string id="gar_drunk_medic_supplies_task_speak_duty_text">
+		<text>Новому медику потрібні медикаменти. Можна спробувати спитати у «Долгу»  -  може, вони мають зайві на продаж.</text>
+	</string>
+
+	<string id="gar_drunk_medic_supplies_task_kill_boars_name">
+		<text>Зачистити місцевість від мутантів</text>
+	</string>
+
+	<string id="gar_drunk_medic_supplies_task_kill_boars_text">
+		<text>Долгівці пообіцяли виділити медикаменти, якщо я усуну зграю кабанів неподалік.</text>
+	</string>
+
+	<string id="gar_drunk_medic_supplies_task_kill_go_back_name">
+		<text>Повернутися до Дятлова</text>
+	</string>
+
+	<string id="gar_drunk_medic_supplies_task_kill_go_back_text">
+		<text>Кабанів знищено. Можна повертатися до Дятлова за нагородою.</text>
+	</string>
+
+	<string id="gar_drunk_medic_supplies_task_final_speak_name">
+		<text>Віднести Сані медикаменти</text>
+	</string>
+
+	<string id="gar_drunk_medic_supplies_task_final_speak_text">
+		<text>На мій подив, вдалося дістати у долгівців медикаменти. Пора віддати їх Сані.</text>
+	</string>
+
+	<string id="gar_start_bar_task">
+		<text>БАР</text>
+	</string>
+
+	<string id="gar_start_bar_task_go_lchanger_name">
+		<text>Відвідати нові околиці</text>
+	</string>
+
+	<string id="gar_start_bar_task_go_lchanger_text">
+		<text>Після допомоги загону Дятлова, у мене з'явилася можливість відвідати найбільший прихисток сталкерів: легендарний бар. Ця територія знаходиться під контролем угруповання «Долг», тому потрібно поводитися прийнятно. Як мені сказали, там можна непогано відпочити й підшукати якусь роботу.</text>
+	</string>
+
+	<string id="gar_military_task">
+		<text>НА АРМІЙСЬКІ СКЛАДИ</text>
+	</string>
+
+	<string id="gar_military_task_start_name">
+		<text>Дістатися до бару</text>
+	</string>
+
+	<string id="gar_military_task_start_text">
+		<text>Коваль підкинув інформацію, що людей, схожих на тих, кого бачили на «Агропромі» в день зникнення професора, бачили на Армійських складах. Чи вірна ця інформація чи ні  -  покаже час. В будь-якому разі, зараз це єдина зачіпка. Дорога до складів пролягає через бар. Там слід бути дуже обережним.</text>
+	</string>
+
+	<string id="gar_start_bar_task_go_military_name">
+		<text>Минути бар</text>
+	</string>
+
+	<string id="gar_start_bar_task_go_military_text">
+		<text>У барі слід поводитись обережно і намагатися не відсвічувати. З військовими тут точно не дуже панькаються.</text>
+	</string>
+
+	<string id="gar_stalker_nimble_wait_order_task">
+		<text>ОСОБЛИВЕ ЗАМОВЛЕННЯ</text>
+	</string>
+
+	<string id="gar_stalker_nimble_wait_order_task_name">
+		<text>Дочекатися отримання товару</text>
+	</string>
+
+	<string id="gar_stalker_nimble_wait_order_task_text">
+		<text>Потрібно дочекатися, поки Вітько Степак дістане потрібний товар.\nОрієнтовний час доставки:</text>
+	</string>
+
+	<string id="gar_stalker_nimble_wait_order_task_one_day">
+		<text>доба.</text>
+	</string>
+
+	<string id="gar_stalker_nimble_wait_order_task_two_days">
+		<text>дві доби.</text>
+	</string>
+
+	<string id="gar_stalker_nimble_wait_order_task_item">
+		<text>Очікуваний товар:</text>
+	</string>
+
+	<string id="gar_stalker_nimble_wait_order_task_ready_name">
+		<text>Забрати товар</text>
+	</string>
+
+	<string id="gar_stalker_nimble_wait_order_task_ready_text">
+		<text>Вітько Степак повідомив про успішну доставку замовлення. Пора забирати товар:</text>
+	</string>
+
 </string_table>

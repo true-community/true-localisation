@@ -1,36 +1,48 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_found_new_treasure_ts">
-    <text>РќРћР’РР™ РЎРҐРћР’РћРљ</text>
-  </string>
-  <string id="st_empty_treasure_ts">
-    <text>РЎРҐРћР’РђРќРљРЈ Р’Р—РЇРўРћ</text>
-  </string>
-  <string id="on_esc">
-    <text>РљРѕСЂРґРѕРЅ</text>
-  </string>
-  <string id="on_gar">
-    <text>РЎРјС–С‚РЅРёРє</text>
-  </string>
-  <string id="on_bar">
-    <text>Р‘Р°СЂ</text>
-  </string>
-  <string id="on_agr">
-    <text>РђРіСЂРѕРїСЂРѕРј</text>
-  </string>
-  <string id="on_val">
-    <text>РўРµРјРЅР° РґРѕР»РёРЅР°</text>
-  </string>
-  <string id="on_nsp">
-    <text>РќРѕРІРѕС€РµРїРµР»РёС‡С–</text>
-  </string>
-  <string id="on_yan">
-    <text>РЇРЅС‚Р°СЂ</text>
-  </string>
-  <string id="on_mil">
-    <text>Р’С–Р№СЃСЊРєРѕРІС– СЃРєР»Р°РґРё</text>
-  </string>
-  <string id="on_labx18">
-    <text>Р›Р°Р±РѕСЂР°С‚РѕСЂС–СЏ РҐ-18</text>
-  </string>
+
+	<string id="st_found_new_treasure_ts">
+		<text>НОВИЙ СХОВОК</text>
+	</string>
+
+	<string id="st_empty_treasure_ts">
+		<text>СХОВАНКУ ВЗЯТО</text>
+	</string>
+
+	<string id="on_esc">
+		<text>Кордон</text>
+	</string>
+
+	<string id="on_gar">
+		<text>Смітник</text>
+	</string>
+
+	<string id="on_bar">
+		<text>Бар</text>
+	</string>
+
+	<string id="on_agr">
+		<text>Агропром</text>
+	</string>
+
+	<string id="on_val">
+		<text>Темна долина</text>
+	</string>
+
+	<string id="on_nsp">
+		<text>Новошепеличі</text>
+	</string>
+
+	<string id="on_yan">
+		<text>Янтар</text>
+	</string>
+
+	<string id="on_mil">
+		<text>Військові склади</text>
+	</string>
+
+	<string id="on_labx18">
+		<text>Лабораторія Х-18</text>
+	</string>
+
 </string_table>

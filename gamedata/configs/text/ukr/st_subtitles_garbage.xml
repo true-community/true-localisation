@@ -1,714 +1,953 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_gar_corvalol_angry_1">
-    <text>Р“РµР№, РЅРµ Р·Р°РІР°Р¶Р°Р№ РјРµРЅС–.\nР—Р°СЂР°Р· Р·Р°РєС–РЅС‡Сѓ.</text>
-  </string>
-  <string id="st_gar_corvalol_angry_2">
-    <text>Р”СЏРґСЊРєСѓ, РІС–РґРІР°Р»Рё.\nР”Р°Р№ РґС–Р»Рѕ Р·Р°РєС–РЅС‡РёС‚Рё!</text>
-  </string>
-  <string id="st_gar_corvalol_angry_3">
-    <text>РЇ РЅРµ РјРѕР¶Сѓ Р·Р°СЂР°Р· С‚РµСЂРµРІРµРЅРёС‚Рё.\nРќРµ Р±Р°С‡РёС€, С‡Рё С‰Рѕ?</text>
-  </string>
-  <string id="st_gar_corvalol_angry_4">
-    <text>РЇ Р·Р°Р№РЅСЏС‚РёР№. РџС–Р·РЅС–С€Рµ РїРѕРіРѕРІРѕСЂРёРјРѕ.</text>
-  </string>
-  <string id="st_gar_corvalol_first_meet">
-    <text>РќСѓ, СЏ С‚РµР±Рµ СЃР»СѓС…Р°СЋ.</text>
-  </string>
-  <string id="st_gar_corvalol_good_luck">
-    <text>Р©Р°СЃС‚Рё С‚РѕР±С–!</text>
-  </string>
-  <string id="st_gar_corvalol_kombez_1">
-    <text>РђР№, С‚РІРѕСЋ Р¶ РјР°С‚Рё!</text>
-  </string>
-  <string id="st_gar_corvalol_kombez_2">
-    <text>Р—Р° СЃРѕСЂРѕРє РєСѓСЃРєС–РІ РєРѕРјР±РµР·, Р±Р»СЏС…Р°!</text>
-  </string>
-  <string id="st_gar_actor_baraholka_phrase_1">
-    <text>Р®СЂРєСѓ, РїСЂРёР№РѕРј.</text>
-  </string>
-  <string id="st_gar_actor_baraholka_phrase_2">
-    <text>Р®СЂРєСѓ... РўРё С‚СѓС‚?</text>
-  </string>
-  <string id="st_gar_actor_baraholka_phrase_3">
-    <text>Р—РЅРѕРІСѓ РЅР°РїРёРІСЃСЏ, С‡Рё С‰Рѕ? РџСЂРёР№РѕРј!</text>
-  </string>
-  <string id="st_gar_actor_baraholka_phrase_4_1">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ РІРёРІРµСЃС‚Рё С–Р· Р—РѕРЅРё\nРѕРґРЅСѓ Р»СЋРґРёРЅСѓ.</text>
-  </string>
-  <string id="st_gar_actor_baraholka_phrase_4_2">
-    <text>РџР»Р°С‚РёС‚СЊ С‰РµРґСЂРѕ. Р’С–Р·СЊРјРµС€СЃСЏ?</text>
-  </string>
-  <string id="st_gar_jurok_desertir_raciya_1">
-    <text>РЎРѕРєРёСЂРѕ, Р·РґРѕСЂРѕРІ. Р©РѕСЃСЊ СЃС‚Р°Р»РѕСЃСЏ?</text>
-  </string>
-  <string id="st_gar_jurok_desertir_raciya_2">
-    <text>Рђ С‡РѕРјСѓ Р± РЅС–? РљРёРґР°Р№ РєРѕРѕСЂРґРёРЅР°С‚Рё.</text>
-  </string>
-  <string id="st_gar_jurok_desertir_start">
-    <text>РќСѓ С‰Рѕ, СЃР»СѓР¶РёРІРёР№, РіРѕС‚РѕРІРёР№? РџРѕС‡Р°РїР°Р»Рё.</text>
-  </string>
-  <string id="st_gar_dolg_zastava_soldier_danger_1">
-    <text>РћР№, С‡СѓСЋ СЏ, РґСЂСѓР·С–:</text>
-  </string>
-  <string id="st_gar_dolg_zastava_soldier_danger_2">
-    <text>С‰РѕСЃСЊ РЅРµРґРѕР±СЂРµ СЃРєРѕСЂРѕ Р±СѓРґРµ,\nРѕР№ РЅРµРґРѕР±СЂРµ.</text>
-  </string>
-  <string id="st_gar_drunk_medic_bye_1">
-    <text>Р’СЃСЊРѕРіРѕ РЅР°Р№РєСЂР°С‰РѕРіРѕ.</text>
-  </string>
-  <string id="st_gar_drunk_medic_bye_2">
-    <text>Р‘СѓРІР°Р№.</text>
-  </string>
-  <string id="st_gar_drunk_medic_bye_3">
-    <text>Р‘СѓРІР°Р№.</text>
-  </string>
-  <string id="st_gar_drunk_medic_hello_1">
-    <text>РџСЂРёРІС–С‚, СЃС‚Р°Р»РєРµСЂРµ.</text>
-  </string>
-  <string id="st_gar_drunk_medic_hello_2">
-    <text>РќСѓ, Р·РґСЂР°СЃС‚СѓР№, СЃС‚Р°Р»РєРµСЂРµ.\nР— С‡РёРј Р·Р°РІС–С‚Р°РІ?</text>
-  </string>
-  <string id="st_gar_drunk_medic_hello_3">
-    <text>РџСЂРёРІС–С‚, СЃС‚Р°Р»РєРµСЂРµ. Р©Рѕ РЅРѕРІРѕРіРѕ?</text>
-  </string>
-  <string id="st_gar_dyatlov_bye_1">
-    <text>РќСѓ, Р±СѓРІР°Р№.</text>
-  </string>
-  <string id="st_gar_dyatlov_bye_2">
-    <text>Р’СЃСЊРѕРіРѕ РЅР°Р№РєСЂР°С‰РѕРіРѕ, СЃС‚Р°Р»РєРµСЂРµ.</text>
-  </string>
-  <string id="st_gar_dyatlov_bye_3">
-    <text>Р”Рѕ Р·СѓСЃС‚СЂС–С‡С–.</text>
-  </string>
-  <string id="st_gar_dyatlov_bye_4">
-    <text>РџРѕР±Р°С‡РёРјРѕСЃСЊ.</text>
-  </string>
-  <string id="st_gar_dyatlov_hello_1">
-    <text>РњРѕС— РІС–С‚Р°РЅРЅСЏ, СЃС‚Р°Р»РєРµСЂРµ.</text>
-  </string>
-  <string id="st_gar_dyatlov_hello_2">
-    <text>Р§РѕРіРѕ С‚РѕР±С–, СЃС‚Р°Р»РєРµСЂРµ?</text>
-  </string>
-  <string id="st_gar_dyatlov_hello_3">
-    <text>РЎР»СѓС…Р°СЋ.</text>
-  </string>
-  <string id="st_gar_dyatlov_hello_4">
-    <text>РЈРІР°Р¶РЅРѕ СЃР»СѓС…Р°СЋ.</text>
-  </string>
-  <string id="st_gar_dyatlov_radio_ok">
-    <text>РџСЂРёР№РЅСЏРІ, Р±С–Р№С†СЋ. РљС–РЅРµС†СЊ Р·РІ'СЏР·РєСѓ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_actor_fail_1">
-    <text>Р§РµС€Рё, С‡РµС€Рё, РїР°С†СЋС‡Рµ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_actor_fail_2">
-    <text>РЎРІС–С‚ С‚С–СЃРЅРёР№. РџР°Рј'СЏС‚Р°Р№ РїСЂРѕ С†Рµ!</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_robbery_1">
-    <text>РќСѓ Р·РґСЂР°СЃС‚СѓР№, СЃС‚Р°Р»РєРµСЂРµ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_robbery_2">
-    <text>РџР°Рј'СЏС‚Р°С”С€, РїСЂРѕ С‰Рѕ СЏ С‚РѕР±С– РєР°Р·Р°РІ?</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_robbery_3">
-    <text>РћС‚ РјРё Р№ Р·СѓСЃС‚СЂС–Р»РёСЃСЊ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_robbery_4">
-    <text>Р—Р°СЂР°Р· С‚Рё РјРµРЅС–, СЃСѓРєР°, РІСЃРµ РїРѕРІРµСЂРЅРµС€, РІРёСЂРѕРґРєСѓ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_robbery_5">
-    <text>РњСѓР¶РёРєРё, РІР°Р»РёРјРѕ Р№РѕРіРѕ!</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_angry_meet">
-    <text>РЁРѕ РїСЂРёС‡РµРїРёРІСЃСЏ? РџСЂРѕРІР°Р»СЋР№!</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_bye_1">
-    <text>РџРѕРїСѓС‚РЅРѕРіРѕ РІС–С‚СЂСѓ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_bye_2">
-    <text>Р”Рѕ Р·СѓСЃС‚СЂС–С‡С–.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_hello_1">
-    <text>Р—РґРѕСЂРѕРІ Р±СѓРІ, РґСЏРґСЊРєСѓ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_hello_2">
-    <text>Р’С–С‚Р°СЋ.</text>
-  </string>
-  <string id="st_gar_stalker_messenger_help">
-    <text>РњСѓР¶РёРєРё, РІРёСЂСѓС‡Р°Р№С‚Рµ! РњРµРЅРµ Р·Р°СЂР°Р· С‚СѓС‚ СЃРѕР±Р°РєРё РїРѕСЂРІСѓС‚СЊ.</text>
-  </string>
-  <string id="st_gar_drunk_medic_start_message">
-    <text>РџСЂРёРІС–С‚. РЇ С‚СѓС‚ РІР»Р°С€С‚СѓРІР°РІСЃСЏ РЅР° Р±Р°Р·С–. Р—Р°С…РѕРґСЊ, РїРѕС…РјРµР»РёРјРѕСЃСЏ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_speak_rac_1">
-    <text>РњРёСЃР»Р°РІРµ, РїСЂРёР№РѕРј!\nРўРё РЅР° РЎРјС–С‚РЅРёРєСѓ?</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_speak_rac_2">
-    <text>РўР°Рє? РџР°С‚СЂРѕРЅРµ, СЏ С‚СѓС‚.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_speak_rac_3_1">
-    <text>Р—РґРѕСЂРѕРІ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_speak_rac_3_2">
-    <text>РЇ С‚РѕР±С– Р·Р°СЂР°Р· СЃС‚Р°Р»РєРµСЂР° РїСЂРёС€Р»СЋ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_speak_rac_3_3">
-    <text>Р РѕР·С‚РѕР»РєСѓР№ РїСЂРѕ РЅР°С€Рµ РґС–Р»Рѕ. Р“РѕРґРёС‚СЊСЃСЏ?</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_speak_rac_4">
-    <text>Р—СЂРѕР·СѓРјС–РІ. Р—РіРѕРґРёС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_start_meet">
-    <text>РўРё С‡РѕРіРѕ С‚СЂРµС€СЃСЏ С‚СѓС‚?\nРҐРѕС‚С–РІ С‡РѕРіРѕСЃСЊ?</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_wait_trader_1">
-    <text>РџС–РґСЂСѓР»СЋР№ С–РЅС€РёРј СЂР°Р·РѕРј:\nРєСЂР°РјР°СЂ РїРѕРєРё РЅРµ РјРѕР¶Рµ РїС–РґС–Р№С‚Рё.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_wait_trader_2">
-    <text>РљСЂР°РјР°СЂ С‰Рµ РЅРµ Р·РІС–Р»СЊРЅРёРІСЃСЏ.</text>
-  </string>
-  <string id="st_gar_stalker_base_ohrannik_wait_trader_3">
-    <text>РџС–РґС…РѕРґСЊ РїС–Р·РЅС–С€Рµ.\nРљСЂР°РјР°СЂ С‰Рµ Р·Р°Р№РЅСЏС‚РёР№.</text>
-  </string>
-  <string id="st_gar_trader_sms_after_katakomb_1">
-    <text>РЎРѕРєРёСЂРѕ, Р№РѕРєР°СЂРЅРёР№ Р±Р°Р±Р°Р№, С‚Рё РґРµ Р±СѓРІ?</text>
-  </string>
-  <string id="st_gar_trader_sms_after_katakomb_2">
-    <text>РЇ РІР¶Рµ РїРѕРґСѓРјР°РІ, С‚Рё РґСЂРµРјРµРЅСѓРІ Р· РјРѕС—РјРё Р°СЂС‚РµС„Р°РєС‚Р°РјРё.</text>
-  </string>
-  <string id="st_gar_trader_sms_after_katakomb_3">
-    <text>Р”Р°РІР°Р№, РґСѓР№ РЅР° Р±Р°Р·Сѓ, С€РІРёРґРєРѕ.</text>
-  </string>
-  <string id="st_gar_trader_darkvalley_message_1">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, СЏ РІС–РґР»СѓС‡СѓСЃСЏ РЅР° СЏРєРёР№СЃСЊ С‡Р°СЃ. Р—Р°Р№РјРёСЃСЏ РїРѕРєРё РєРµР№СЃРѕРј.</text>
-  </string>
-  <string id="st_gar_trader_darkvalley_message_2">
-    <text>Р—'СЏРІР»СЋСЃСЏ  вЂ”  РјР°СЏРєРЅСѓ.</text>
-  </string>
-  <string id="st_gar_trader_primary_task_1_1">
-    <text>РЎРѕРєРёСЂРѕ, С” РЅРµРІС–РґРєР»Р°РґРЅР° СЂРѕР·РјРѕРІР°.</text>
-  </string>
-  <string id="st_gar_trader_primary_task_1_2">
-    <text>Р‘С–РіРѕРј РґРѕ РјРµРЅРµ, С‚РµСЂРјС–РЅРѕРІРѕ!</text>
-  </string>
-  <string id="st_gar_trader_primary_task_2_1">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, С‚СѓС‚ РґРµСЏРєР° РїСЂРѕР±Р»РµРјР° Р·'СЏРІРёР»Р°СЃСЊ.</text>
-  </string>
-  <string id="st_gar_trader_primary_task_2_2">
-    <text>Р—Р°РіР»СЏРЅСЊ РґРѕ РјРµРЅРµ РЅР° РґРѕР·РІС–Р»Р»С–: С‚СЂРµР±Р° РґРµС‡РѕРіРѕ РґС–Р·РЅР°С‚РёСЃСЏ.</text>
-  </string>
-  <string id="st_gar_trader_second_actor_bye_1">
-    <text>Р§РµС€Рё РґР°РІР°Р№!</text>
-  </string>
-  <string id="st_gar_trader_second_actor_bye_2">
-    <text>Р‘РµР· РїРѕС‚СЂРµР±Рё РјРµРЅРµ РЅРµ РІС–РґРІРѕР»С–РєР°Р№!</text>
-  </string>
-  <string id="st_gar_trader_second_actor_bye_3">
-    <text>Р†РґРё, Р·РІС–РґРєРё РїСЂРёР№С€РѕРІ, РіР°?\nРќРµ РјР°СЏС‡!</text>
-  </string>
-  <string id="st_gar_trader_second_actor_hello_1">
-    <text>Р§РѕРіРѕ С‚РѕР±С–?</text>
-  </string>
-  <string id="st_gar_trader_second_actor_hello_2">
-    <text>Р”Р°РІР°Р№ РєР°Р¶Рё, С‚С–Р»СЊРєРё С€РІРёРґРєРѕ.</text>
-  </string>
-  <string id="st_gar_trader_second_actor_hello_3">
-    <text>РўР° РЅРµ СЃС‚С–Р№ С‚Рё РЅР°Рґ РґСѓС€РµСЋ.\nР“РѕРІРѕСЂРё С€РІРёРґС€Рµ!</text>
-  </string>
-  <string id="st_gar_trader_second_actor_first_meet">
-    <text>Р—РЅРѕРІСѓ Р·Р°Р»СЊРѕС‚РЅРёР№ Сѓ РЅР°СЃ.\nРќСѓ, С‡РѕРіРѕ С‚СЂРµР±Р°?</text>
-  </string>
-  <string id="st_gar_trader_surge_start_1">
-    <text>РЈСЃС–Рј СѓРІР°РіР°: РЅР°Р±Р»РёР¶Р°С”С‚СЊСЃСЏ РІРёРєРёРґ. РҐРѕРІР°Р№С‚Рµ СЃРІРѕС— РґСѓРїРё, СЏРєС‰Рѕ С‰Рµ Р¶РёС‚Рё РЅРµ РЅР°Р±СЂРёРґР»Рѕ.</text>
-  </string>
-  <string id="st_gar_trader_surge_start_2">
-    <text>РЎС‚Р°Р»РєРµСЂРЅСЏ, С‚СѓС‚ РІРёРєРёРґ РЅР°РјС–С‡Р°С”С‚СЊСЃСЏ. Р‘С–РіРѕРј РІ СѓРєСЂРёС‚С‚СЏ, Р±С–РіРѕРј!</text>
-  </string>
-  <string id="st_gar_trader_surge_start_3">
-    <text>РЈРІР°РіР°: СЃСѓРґСЏС‡Рё Р· РїРѕРєР°Р·Р°РЅСЊ РїСЂРёР»Р°РґС–РІ, РїРѕС‡РёРЅР°С”С‚СЊСЃСЏ РІРёРєРёРґ. Р’ СѓРєСЂРёС‚С‚СЏ: Р· РєРѕР¶РЅРѕСЋ С…РІРёР»РёРЅРѕСЋ С€Р°РЅСЃС–РІ Сѓ РІР°СЃ РІСЃРµ РјРµРЅС€Рµ!</text>
-  </string>
-  <string id="st_gar_trader_surge_in_process_1">
-    <text>РќСѓ, Р·Р°СЂР°Р· РїРѕС‡РЅРµС‚СЊСЃСЏ. РќРµ РІРёСЃРѕРІСѓР№С‚РµСЃСЏ Р· СѓРєСЂРёС‚С‚С–РІ!</text>
-  </string>
-  <string id="st_gar_trader_surge_in_process_2">
-    <text>Р—Р° С…РІРёР»РёРЅСѓ РЅР°РєСЂРёС”. РҐРѕРІР°Р№С‚Рµ РґСѓРїРё, СЃС‚Р°Р»РєРµСЂРё!</text>
-  </string>
-  <string id="st_gar_trader_surge_in_process_3">
-    <text>Р РІРѕРЅРµ Р±СѓРєРІР°Р»СЊРЅРѕ Р·Р° РєС–Р»СЊРєР° СЃРµРєСѓРЅРґ. РќРµ Р»С–Р·СЊС‚Рµ РЅС–РєСѓРґРё!</text>
-  </string>
-  <string id="st_gar_trader_surge_compl_1">
-    <text>Р’СЃРµ, РІРёРєРёРґ Р·Р°РєС–РЅС‡РёРІСЃСЏ. Р’РёРїРѕРІР·Р°Р№С‚Рµ Р·С– СЃС…РѕРІРёС‰.</text>
-  </string>
-  <string id="st_gar_trader_surge_compl_2">
-    <text>РЎС‚РёС…С–Р№РЅС– Р»РёС…Р° РЅР°СЃ РјРёРЅСѓР»Рё! РЇРєС‰Рѕ РєРѕРіРѕ РїРѕС‚СЂС–РїР°Р»Рѕ, Р·Р°С…РѕРґСЊС‚Рµ РґРѕ РЅР°СЃ: РїРѕСЃС‚Р°РІРёРјРѕ РЅР° РЅРѕРіРё.</text>
-  </string>
-  <string id="st_gar_trader_surge_compl_2_cc">
-    <text>РЎС‚РёС…С–Р№РЅС– Р»РёС…Р° РЅР°СЃ РјРёРЅСѓР»Рё! [СЃРјС–С…] РЇРєС‰Рѕ РєРѕРіРѕ РїРѕС‚СЂС–РїР°Р»Рѕ, Р·Р°С…РѕРґСЊС‚Рµ РґРѕ РЅР°СЃ: РїРѕСЃС‚Р°РІРёРјРѕ РЅР° РЅРѕРіРё.</text>
-  </string>
-  <string id="st_gar_trader_surge_compl_3">
-    <text>РќСѓ РІСЃРµ, РЅР°СЂРѕРґРµ. Р’РёРєРёРґ Р·Р°РєС–РЅС‡РёРІСЃСЏ. Р—Р° СЂРѕР±РѕС‚Сѓ!</text>
-  </string>
-  <string id="st_gar_stalker_messenger_bye_1">
-    <text>Р”Рѕ Р·СѓСЃС‚СЂС–С‡С–.</text>
-  </string>
-  <string id="st_gar_stalker_messenger_bye_2">
-    <text>РҐР°Р№ С‰Р°СЃС‚РёС‚СЊ.</text>
-  </string>
-  <string id="st_gar_stalker_messenger_bye_3">
-    <text>Р’СЃСЊРѕРіРѕ РЅР°Р№РєСЂР°С‰РѕРіРѕ.</text>
-  </string>
-  <string id="st_gar_stalker_messenger_hello_1">
-    <text>РЇРєС– РЅРѕРІРёРЅРё, СЃС‚Р°Р»РєРµСЂРµ?</text>
-  </string>
-  <string id="st_gar_stalker_messenger_hello_2">
-    <text>Р–РёРІРёР№? Р¦Рµ РґРѕР±СЂРµ.</text>
-  </string>
-  <string id="st_gar_stalker_messenger_hello_3">
-    <text>Р Р°РґРёР№ Р±Р°С‡РёС‚Рё!</text>
-  </string>
-  <string id="st_gar_stalker_messenger_thanx_1">
-    <text>Р”СЏРєСѓСЋ, РґСЂСѓР¶Рµ! Р’РёСЂСѓС‡РёРІ РјРµРЅРµ.</text>
-  </string>
-  <string id="st_gar_stalker_messenger_thanx_2">
-    <text>РћРґРЅРѕСЋ РЅРѕРіРѕСЋ РІР¶Рµ РЅР° С‚РѕРјСѓ СЃРІС–С‚С– СЃС‚РѕСЏРІ.</text>
-  </string>
-  <string id="st_gar_stalker_messenger_thanx_3">
-    <text>РўРё РІС–Рґ РџР°С‚СЂРѕРЅР°, С‚Р°Рє?</text>
-  </string>
-  <string id="st_gar_forest_aver_final">
-    <text>РҐСЂС”РЅ С‚РѕР±С–, Р° РЅРµ РїС–РґРІРёС‰РµРЅРЅСЏ! РќР° РґРЅС– РєРѕР»РѕРґСЏР·СЏ С‚РµРїРµСЂ РіРЅРёС‚РёРјРµС€!</text>
-  </string>
-  <string id="st_gar_forest_aver_phrase_1">
-    <text>РќСѓ С‰Рѕ, РґРѕСЃС‚СЂРёР±Р°РІСЃСЏ? РџС–РґРІРёС‰РµРЅРЅСЏ Р·Р°С…РѕС‚С–РІ? РўР° С…С‚Рѕ С‚Рё РІР·Р°РіР°Р»С– С‚Р°РєРёР№? Р©Рѕ С‚Рё Р·СЂРѕР±РёРІ РґР»СЏ В«Р”РѕР»РіСѓВ»?</text>
-  </string>
-  <string id="st_gar_forest_stecurin">
-    <text>РЎС‚С–Р№ С– РЅРµ СЃРјРёРєР°Р№СЃСЏ, С‚РІР°СЂСЋРєРѕ.</text>
-  </string>
-  <string id="st_gar_actor_kladbishe_phrase_1">
-    <text>РџР°С†Р°РЅРё, Р·РґРѕСЂРѕРІ. РЈ РІР°СЃ РІРѕРґРёС‡РєРё РЅРµ Р·РЅР°Р№РґРµС‚СЊСЃСЏ?</text>
-  </string>
-  <string id="st_gar_actor_kladbishe_phrase_2">
-    <text>Рђ С†Рµ С€Рѕ, РЅРµ С‚Р°Р±С–СЂ СЃС‚Р°Р»РєРµСЂС–РІ?</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_1_1">
-    <text>РЇ С‚РѕР±С– РѕС‚РІС–С‡Р°СЋ,</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_1_2">
-    <text>СЃС‚Р°Р»РєРµСЂРё Р±СѓРґСѓС‚СЊ РґР»СЏ РЅР°СЃ\nРЅРµС…РёР»С– Р±Р°Р±РєРё РїС–РґРЅС–РјР°С‚Рё!</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_1_3">
-    <text>РџРѕС€Р»РµРјРѕ С—С… РґРѕ Р°РЅРѕРјР°Р»С–С—</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_1_4">
-    <text>С– С…Р°Р№ Р°СЂС‚РµС„Р°РєС‚Рё РЅРёС€РїРѕСЂСЏС‚СЊ,\nСЏРєС‰Рѕ Р¶РёС‚Рё С…РѕС‡СѓС‚СЊ!</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_2">
-    <text>РљСЂР°СЃР°РІР°!</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_2_cc">
-    <text>РљСЂР°СЃР°РІР°! [СЃРјС–С…]</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_3_1">
-    <text>Р•, Р°Р»РєР°С€РЅСЏ!</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_3_2">
-    <text>РўРё С…РѕС‡ Р·РЅР°С”С€,\nРєСѓРґРё РїСЂРёР№С€РѕРІ, СЃСѓС‡Р°СЂРѕ?</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_4_1">
-    <text>РќСѓ, С‚РёРїСѓ С‚РѕРіРѕ!</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_4_1_cc">
-    <text>[СЃРјС–С…] РќСѓ, С‚РёРїСѓ С‚РѕРіРѕ!</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_4_2">
-    <text>РџР°С†Р°РЅРё, РІ'СЏР¶С–С‚СЊ Р№РѕРіРѕ!</text>
-  </string>
-  <string id="st_gar_bandit_speaker_1_phrase_4_3">
-    <text>Р©Рµ РѕРґРЅРѕРіРѕ Р»РѕС€РєР° Р·РЅР°Р№С€Р»Рё.</text>
-  </string>
-  <string id="st_gar_bandit_speaker_2_phrase_1_1">
-    <text>РўР° Р±Р»СЏС…Р°, СЏ Р№ РЅРµ СЃСѓРјРЅС–РІР°РІСЃСЏ!</text>
-  </string>
-  <string id="st_gar_bandit_speaker_2_phrase_1_2">
-    <text>РўРµРїРµСЂ С‚РѕС‡РЅРѕ С‚Р°С‡С–Р»Сѓ СЃРѕР±С– РєСѓРїР»СЋ.</text>
-  </string>
-  <string id="st_gar_bandit_speaker_2_phrase_1_3">
-    <text>Р—Р°РЅРёР¶РµРЅСѓ С‚Р°РєСѓ, Р· РјСѓР·РёС‡РєРѕСЋ.</text>
-  </string>
-  <string id="st_gar_bandit_speaker_2_phrase_1_4">
-    <text>РЈСЃС– Р±Р°Р±Рё РјРѕС—РјРё Р±СѓРґСѓС‚СЊ.</text>
-  </string>
-  <string id="st_gar_bandit_speaker_2_phrase_2">
-    <text>Рћ, РґРёРІРёСЃСЏ! РЁРѕ Р·Р° С‡РµРїСѓС€РёР»Рѕ СЃСЋРґРё РєРѕР»РµСЃР° РєРѕС‚РёС‚СЊ?</text>
-  </string>
-  <string id="st_gar_actor_hunt_bloodsucker_danger">
-    <text>РўРІРѕСЋ Р¶ РјР°С‚Рё!</text>
-  </string>
-  <string id="st_gar_stalker_medic_bye_1">
-    <text>Р’РґР°Р»РѕС— С…РѕРґРєРё С‚РѕР±С–, СЃС‚Р°Р»РєРµСЂРµ.</text>
-  </string>
-  <string id="st_gar_stalker_medic_bye_2">
-    <text>РЇ, Р·РІРёС‡Р°Р№РЅРѕ, РЅРµ РїСЃРёС…РѕР»РѕРі,\nР°Р»Рµ Р±СѓРґРµ СЃСѓРјРЅРѕ  вЂ”  Р·Р°С…РѕРґСЊ.</text>
-  </string>
-  <string id="st_gar_stalker_medic_bye_3">
-    <text>Р”Р°РІР°Р№-РґР°РІР°Р№. Р”Рѕ Р·СѓСЃС‚СЂС–С‡С–.</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_dies_1">
-    <text>РҐСЂС”РЅРѕРІРѕ... Р”СѓР¶Рµ С…СЂС”РЅРѕРІРѕ...</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_dies_2">
-    <text>РџРѕСЃР»СѓС…Р°Р№:</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_dies_3">
-    <text>Сѓ РјРµРЅРµ РІ СЃС…РѕРІРёС‰С– Р»РµР¶Р°С‚СЊ Р·Р°РїРёСЃРё.</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_dies_4">
-    <text>РџРµСЂРµРґР°Р№ С—С… Р”СѓР±РёРЅС†СЋ\nРѕ РЅР°СѓРєРѕРІРѕРіРѕ РєРѕРјРїР»РµРєСЃСѓ РЅР° В«РђРіСЂРѕРїСЂРѕРјС–В».</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_dies_5">
-    <text>РЎРєР°Р¶Рё, С‰Рѕ СЏ РїСЂРѕСЂР°С…СѓРІР°РІСЃСЏ.</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_get_out_artefact_1">
-    <text>РњРё РЅР° РјС–СЃС†С–.\nР“РѕС‚СѓР№ Р°СЂС‚РµС„Р°РєС‚.</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_get_out_artefact_2">
-    <text>РўС–Р»СЊРєРё РґРёРІРёСЃСЏ,\nР±РµР· СЂС–Р·РєРёС… СЂСѓС…С–РІ.</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_get_out_artefact_3">
-    <text>Р†РґРё Р·Р° РјРЅРѕСЋ СЃР»С–Рґ Сѓ СЃР»С–Рґ, Р·СЂРѕР·СѓРјС–РІ?</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_hit_cc">
-    <text>[РєСЂРёРє РІС–Рґ Р±РѕР»СЋ]</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_see_snorks_1">
-    <text>Р”С–РґСЊРєРѕ, Р° СЃРЅРѕСЂРєРё С‚СѓС‚ Р·РІС–РґРєРё РІР·СЏР»РёСЃСЏ?</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_see_snorks_2">
-    <text>РўР°Рє, С‚СЂРµР±Р° РїРѕРІС–Р»СЊРЅРѕ, РїРѕ-С‚РёС…РѕРјСѓ Р·РІС–РґСЃРё РІС–РґС…РѕРґРёС‚Рё.</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_see_snorks_3">
-    <text>Р—Р° РјРЅРѕСЋ.</text>
-  </string>
-  <string id="st_gar_stalker_medic_final_task_what_happened">
-    <text>Р©Рѕ СЃС‚Р°Р»РѕСЃСЏ?</text>
-  </string>
-  <string id="st_gar_stalker_medic_hello_1">
-    <text>РќСѓ РїСЂРёРІС–С‚, СЃС‚Р°Р»РєРµСЂРµ!</text>
-  </string>
-  <string id="st_gar_stalker_medic_hello_2">
-    <text>РќСѓ С‰Рѕ,\nР·РЅРѕРІСѓ С‚РµР±Рµ Р—РѕРЅР° РїРѕС‚СЂС–РїР°Р»Р°?</text>
-  </string>
-  <string id="st_gar_stalker_medic_hello_3">
-    <text>Р”Р°РІР°Р№-РґР°РІР°Р№, Р·Р°С…РѕРґСЊ. РќРµ СЃРѕСЂРѕРјСЃСЏ.</text>
-  </string>
-  <string id="st_gar_stalker_medic_monolog_1">
-    <text>РќРµ Р±С–Р№СЃСЏ:\nРІС–РЅ Р·РѕРІСЃС–Рј Р±РµР·РїРµС‡РЅРёР№.</text>
-  </string>
-  <string id="st_gar_stalker_medic_monolog_2">
-    <text>РЇРє Р±Р°С‡РёС€, СЂРµР·СѓР»СЊС‚Р°С‚\nРјРѕС—С… Р·Р°С…РѕРїР»РµРЅСЊ РјРѕР¶Рµ Р·РґРёРІСѓРІР°С‚Рё.</text>
-  </string>
-  <string id="st_gar_stalker_medic_monolog_3">
-    <text>РќСѓ, С‚Рё СЏРє?</text>
-  </string>
-  <string id="st_gar_stalker_medic_monolog_4">
-    <text>РЇ С‚РµР±Рµ С‚СЂРѕС…Рё РїС–РґР»Р°С‚Р°РІ.</text>
-  </string>
-  <string id="st_gar_stalker_medic_monolog_5">
-    <text>Р—Р° РєС–Р»СЊРєР° РґРЅС–РІ\nР±СѓРґРµС€ СЏРє РЅРѕРІРµРЅСЊРєРёР№!</text>
-  </string>
-  <string id="st_gar_stalker_medic_monolog_6">
-    <text>РЈ СЏРєРѕСЃС‚С– РєРѕРјРїРµРЅСЃР°С†С–С—, СЏ Р·Р°Р»РёС€Сѓ С‚РѕР±С–\nРєР»СЋС‡ РІС–Рґ СЃРІРѕС”С— С…Р°Р»СѓРїРєРё Р№ РґРѕРїР»Р°С‡Сѓ С‚СЂРѕС…Рё.</text>
-  </string>
-  <string id="st_gar_stalker_medic_monolog_7">
-    <text>РЇРє РїСЂРёР№РґРµС€ РґРѕ С‚СЏРјРё,\nРїСЂРёС…РѕРґСЊ Сѓ С‚Р°Р±С–СЂ СЃС‚Р°Р»РєРµСЂС–РІ  вЂ” </text>
-  </string>
-  <string id="st_gar_stalker_medic_monolog_8">
-    <text>РїРѕРіРѕРІРѕСЂРёРјРѕ С‰Рµ.</text>
-  </string>
-  <string id="st_gar_mishgan_record_1">
-    <text>Р”РѕРІРµРґРµС‚СЊСЃСЏ РІС–РґР±РёРІР°С‚Рё СЃРІРѕС—С… РґСЂСѓР·С–РІ СЃР°РјРѕС‚СѓР¶РєРё.</text>
-  </string>
-  <string id="st_gar_mishgan_record_2">
-    <text>РљРѕРіРѕ Р± РЅРµ РїСЂРѕСЃРёРІ, СѓСЃС– РІС–РґРјРѕРІРёР»РёСЃСЊ РјРµРЅС– РґРѕРїРѕРјРѕРіС‚Рё.</text>
-  </string>
-  <string id="st_gar_mishgan_record_3">
-    <text>РђР»Рµ Р№ РїРѕРєРёРЅСѓС‚Рё РјСѓР¶РёРєС–РІ СЏ РЅРµ РјРѕР¶Сѓ: СЃС‚С–Р»СЊРєРё Р· РЅРёРјРё Р—РѕРЅСѓ С‚РѕРїС‚Р°Р»Рё.</text>
-  </string>
-  <string id="st_gar_mishgan_record_4">
-    <text>РЎРїРѕРґС–РІР°СЋСЃСЊ, С†РµР№ Р·Р°РїРёСЃ РЅС–С…С‚Рѕ РЅРµ РїРѕС‡СѓС”, С– РІСЃРµ РїСЂРѕР№РґРµ РіР»Р°РґРєРѕ.</text>
-  </string>
-  <string id="st_gar_mishgan_record_5">
-    <text>Рђ СЏРєС‰Рѕ РЅС–, С‚Рѕ РїРµСЂРµРґР°Р№С‚Рµ РјС–Р№ РљРџРљ Сѓ СЃРµР»Рѕ РЅРѕРІР°С‡РєС–РІ. РўР°Рј РґР»СЏ РјРѕС—С… С” РїРѕСЃР»Р°РЅРЅСЏ.</text>
-  </string>
-  <string id="st_gar_mishgan_record_6_cc">
-    <text>[РІРёРґРёС…]</text>
-  </string>
-  <string id="st_gar_mishgan_record_7">
-    <text>РќСѓ РІСЃРµ, СЏ РїС–С€РѕРІ.</text>
-  </string>
-  <string id="st_gar_friend_mishgan_1_thanx">
-    <text>Р”СЏРєСѓСЋ, РґСЂСѓР¶Рµ!</text>
-  </string>
-  <string id="st_gar_friend_mishgan_1_thanx_actor">
-    <text>Р”СЏРґСЊРєСѓ, РІРµР»РёС‡РµР·РЅР° С‚РѕР±С– РїРѕРґСЏРєР°!</text>
-  </string>
-  <string id="st_gar_friend_mishgan_2_thanx">
-    <text>РћС…, РґСЏРєСѓСЋ.</text>
-  </string>
-  <string id="st_gar_friend_mishgan_2_thanx_actor">
-    <text>Р”СЏРєСѓСЋ, С‡РѕР»РѕРІС–С‡Рµ.</text>
-  </string>
-  <string id="st_gar_mishgan_begin_leave">
-    <text>Р’СЃС‚Р°РІР°Р№С‚Рµ, РјСѓР¶РёРєРё! Р’СЃРµ СЃРєС–РЅС‡РёР»РѕСЃСЏ.</text>
-  </string>
-  <string id="st_gar_mishgan_help_fail">
-    <text>РќСѓ Р№ СЃС†РёРєР»Рѕ Р¶ С‚Рё.</text>
-  </string>
-  <string id="st_gar_mishgan_help_hello">
-    <text>Р“РµР№, СЃС‚Р°Р»РєРµСЂРµ,\nРїРѕС‚СЂС–Р±РЅР° С‚РІРѕСЏ РґРѕРїРѕРјРѕРіР°.</text>
-  </string>
-  <string id="st_gar_mishgan_thx_actor_1">
-    <text>Р¦Рµ РІРё РѕРЅ\nС‚РѕРјСѓ СЃС‚Р°Р»РєРµСЂСѓ РґСЏРєСѓР№С‚Рµ.</text>
-  </string>
-  <string id="st_gar_mishgan_thx_actor_2">
-    <text>РЇРєР±Рё РЅРµ РІС–РЅ,\nС…СЂС”РЅ Р±Рё Сѓ РјРµРЅРµ С‰Рѕ РІРёР№С€Р»Рѕ!</text>
-  </string>
-  <string id="st_gar_trader_actor_first_meet_1">
-    <text>Рђ С‚Рё С‰Рµ С…С‚Рѕ С‚Р°РєРёР№?</text>
-  </string>
-  <string id="st_gar_trader_actor_first_meet_2">
-    <text>РќРµ Р±Р°С‡РёРІ С‚РµР±Рµ С‚СѓС‚ СЂР°РЅС–С€Рµ.</text>
-  </string>
-  <string id="st_gar_trader_actor_first_meet_3">
-    <text>РЇРєС‰Рѕ С‰РѕСЃСЊ РєСѓРїРёС‚Рё С‚СЂРµР±Р°, С‚Рѕ РєСѓРїР»СЏР№.\nРќС–  вЂ”  С‡РµС€Рё Р·РІС–РґСЃРё!</text>
-  </string>
-  <string id="st_gar_trader_bye_1">
-    <text>РќСѓ, Р±СѓРІР°Р№.</text>
-  </string>
-  <string id="st_gar_trader_bye_2">
-    <text>Р‘СѓРІР°Р№. РҐР°Р№ С‰Р°СЃС‚РёС‚СЊ.</text>
-  </string>
-  <string id="st_gar_trader_bye_3">
-    <text>Р”Р°РІР°Р№, СЂСѓС…Р°Р№СЃСЏ.</text>
-  </string>
-  <string id="st_gar_trader_hello_1">
-    <text>РќСѓ, Р·РґРѕСЂРѕРІ Р±СѓРІ!</text>
-  </string>
-  <string id="st_gar_trader_hello_2">
-    <text>Р‘СѓРґСЊ-СЏРєР° РїСЂРёРјС…Р°\nР·Р° РІР°С€С– РіСЂРѕС€С–.</text>
-  </string>
-  <string id="st_gar_trader_hello_3">
-    <text>Р§РѕРіРѕ С‚РѕР±С–, СЃС‚Р°Р»РєРµСЂРµ?</text>
-  </string>
-  <string id="st_subtitles_kladbishe_bandit">
-    <text>Р‘Р°РЅРґРёС‚</text>
-  </string>
-  <string id="st_gar_dyatlov_actor_first_phrase_1">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, С‚Рё СѓРІС–Р№С€РѕРІ РЅР° С‚РµСЂРёС‚РѕСЂС–СЋ, РїС–РґРєРѕРЅС‚СЂРѕР»СЊРЅСѓ В«Р”РѕР»РіСѓВ».</text>
-  </string>
-  <string id="st_gar_dyatlov_actor_first_phrase_2">
-    <text>Р‘СѓРґСЊ-СЏРєР° СЃРїСЂРѕР±Р° РЅР°РїР°РґСѓ РЅР° РЅР°С€РёС… Р»СЋРґРµР№ РєР°СЂР°С‚РёРјРµС‚СЊСЃСЏ СЃРјРµСЂС‚СЋ.</text>
-  </string>
-  <string id="st_gar_kladbishe_bandits_check_transiver_1">
-    <text>РЎРёС€РёС€, РїР°С†Р°РЅРё, С†Рµ РјРё.</text>
-  </string>
-  <string id="st_gar_kladbishe_bandits_check_transiver_2">
-    <text>РџР°С†Р°РЅРё, РІРё РїРѕСЃС†СЏС‚Рё РїС–С€Р»Рё, С‡Рё С€Рѕ?</text>
-  </string>
-  <string id="st_gar_kladbishe_bandits_check_transiver_3">
-    <text>Р“РµР№, СЏ РЅРµ РїРѕР№РЅСЏРІ. РўСЂСѓР±Сѓ РІР°С‰С” РІС–Р·СЊРјСѓС‚СЊ, С‡Рё СЏРє?</text>
-  </string>
-  <string id="st_gar_kladbishe_bandits_check_transiver_4">
-    <text>РђР»СЊРѕ, РїР°С†Р°РЅРё, РјРё С‚СѓС‚ Сѓ РЅС”РїРѕРЅСЏС‚РєР°С…. Р’Рё РґРµ РІР°С‰С”?</text>
-  </string>
-  <string id="st_gar_kladbishe_bandits_check_transiver_5_1">
-    <text>РљР°СЂРѕС‡Рµ, С„С–РіРЅСЏ СЏРєР°СЃСЊ Сѓ РїР°С†Р°РЅС–РІ.</text>
-  </string>
-  <string id="st_gar_kladbishe_bandits_check_transiver_5_2">
-    <text>Р—РјРѕС‚Р°Р№С‚РµСЃСЏ РїРѕР·РёСЂРёС‚Рё, С€Рѕ С‚Р°Рј!</text>
-  </string>
-  <string id="st_gar_kladbishe_bandits_check_transiver_6">
-    <text>Р“С–РІРЅРѕ РІРѕРїСЂРѕСЃ. Р—Р°СЂР° РїСЂРѕР±Р№РѕРј.</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_koval_phrase_1">
-    <text>РњРѕР¶Рµ, РґРѕРіРѕРІРѕСЂРёРјРѕСЃСЊ?</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_koval_phrase_2">
-    <text>Р“СЂРѕС€РµР№ РїСЂРёРЅРµСЃСѓ, Р·Р±СЂРѕСЋ Р±СѓРґСЊ-СЏРєСѓ вЂ”\nС‰Рѕ С…РѕС‡РµС‚Рµ.</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_koval_phrase_3">
-    <text>РўС–Р»СЊРєРё РґРµС‚РµРєС‚РѕСЂ РїРѕРІРµСЂРЅС–С‚СЊ!</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_koval_thanx">
-    <text>Р”СЏРєСѓСЋ, РєРѕРјР°РЅРґРёСЂРµ.\nР’РёР±Р°С‡Р°Р№, С‰Рѕ РІСЃРµ С‚Р°Рє РІРёР№С€Р»Рѕ.</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_1">
-    <text>РќРѕСЂРјР°Р»СЊРЅР° С‚Р°РєР° РїСЂСЏС…Р°!</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_2">
-    <text>РљР°СЂРѕС‡Рµ, С‚Р°Рє: РІР°Р»Рё Р·РІС–РґСЃРё.</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_3">
-    <text>Рђ С–РіСЂР°С€РєСѓ С†СЋ\nРјРё СЃРѕР±С– Р·Р°Р»РёС€РёРј  вЂ”  РїРѕРіСЂР°С‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_4">
-    <text>Рђ СЏРєС‰Рѕ Р·Р°С…РѕС‡РµС€\nРїРѕ РЎРјС–С‚РЅРёРєСѓ СЃРїРѕРєС–Р№РЅРѕ С…РѕРґРёС‚Рё,</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_5">
-    <text>С‚СЏРіРЅРё С‰Рµ РґРІС– С‚Р°РєРёС….</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_6">
-    <text>Р† РЅС–С…С‚Рѕ С‚РµР±Рµ РїР°Р»СЊС†РµРј РЅРµ С‚РѕСЂРєРЅРµС‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_7">
-    <text>Р—СЂРѕР·СѓРјС–Р»Рѕ?</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_1">
-    <text>РҐС”СЂ С‚РѕР±С–, С…РёС‚СЂРѕР¶РѕРїРёР№!</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_2">
-    <text>РўСЂРµ Р±СѓР»Рѕ РЅРѕСЂРјР°Р»СЊРЅРѕ, РїРѕ-РїР°С†Р°РЅСЃСЊРєРё:</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_3">
-    <text>Р·Р°Р№С‚Рё РґРѕ РЅР°СЃ, РїС–РґРіРѕРЅС‡РёРє РїСЂРёРЅРµСЃС‚Рё...</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_4">
-    <text>Рђ С‚Рё, СЃСѓРєР°,\nРЅРёС€РїРѕСЂРёС€ С‚СѓС‚, СЏРє РїР°С†СЋРє!</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_5">
-    <text>РўР°Рє С€Рѕ РіСѓР»СЏР№, РґСЏРґСЋ!</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_6">
-    <text>Рђ С‰Рµ СЂР°Р· РїРѕР±Р°С‡Сѓ С‚РµР±Рµ С‚СѓС‚,</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_7">
-    <text>С– Р±РµР· РїС–РґРіРѕРЅСѓ  вЂ”  СѓСЂРѕСЋ!</text>
-  </string>
-  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_8">
-    <text>РћС‚РІС–С‡Р°СЋ, СѓСЂРѕСЋ!</text>
-  </string>
-  <string id="st_gar_dyatlov_actor_first_phrase_second_hero_1">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, С‚Рё РЅР° С‚РµСЂРёС‚РѕСЂС–С— В«Р”РѕР»РіСѓВ».</text>
-  </string>
-  <string id="st_gar_dyatlov_actor_first_phrase_second_hero_2">
-    <text>РџСѓСЃС‚СѓРІР°С‚Рё С‚СѓС‚ РЅС–СЏРє РЅРµ РґРѕР·РІРѕР»СЏС”С‚СЊСЃСЏ.</text>
-  </string>
-  <string id="st_gar_dyatlov_actor_first_phrase_second_hero_3">
-    <text>Р— СѓСЃС–РјР° РїРёС‚Р°РЅРЅСЏРјРё РїС–РґС…РѕРґСЊ РґРѕ РјРµРЅРµ.</text>
-  </string>
-  <string id="st_gar_dyatlov_bandits_task_info_pda_1">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, РјРµРЅС– С‚СЂРµР±Р° РЅР°РІС–РґР°С‚РёСЃСЊ Сѓ Р±Р°СЂ РґРѕ РєРµСЂС–РІРЅРёС†С‚РІР°.</text>
-  </string>
-  <string id="st_gar_dyatlov_bandits_task_info_pda_2">
-    <text>РџРѕ РЅР°С€С–Р№ СЃРїСЂР°РІС– РїРѕРіРѕРІРѕСЂРёРјРѕ РїСЂРё Р·СѓСЃС‚СЂС–С‡С–.</text>
-  </string>
-  <string id="st_gar_dyatlov_bandits_task_info_pda_3">
-    <text>РџРѕРєРё РґР»СЏ С‚РµР±Рµ С” Р±С–Р»СЊС€ РїСЂС–РѕСЂРёС‚РµС‚РЅРµ Р·Р°РІРґР°РЅРЅСЏ:</text>
-  </string>
-  <string id="st_gar_dyatlov_bandits_task_info_pda_4">
-    <text>РјС–СЃС†РµРІС– РїРѕРІС–РґРѕРјРёР»Рё, С‰Рѕ РЅР° С…СѓС‚РѕСЂС– РЅРµРїРѕРґР°Р»С–Рє РІС–Рґ Р»С–СЃСѓ Р·Р°СЃС–Р»Р° РіСЂСѓРїР° Р±Р°РЅРґРёС‚С–РІ.</text>
-  </string>
-  <string id="st_gar_dyatlov_bandits_task_info_pda_5">
-    <text>РўРё РјР°С”С€ С‚СѓРґРё РЅР°РІС–РґР°С‚РёСЃСЊ С‚Р° РїСЂРёР±СЂР°С‚Рё С—С… Р±СѓРґСЊ-СЏРєРёРј СЃРїРѕСЃРѕР±РѕРј.</text>
-  </string>
-  <string id="st_gar_dyatlov_bandits_task_info_pda_6">
-    <text>РўР°Рј Р±СѓРґРµ Р±Р°Р·СѓРІР°С‚РёСЃСЏ РЅР°С€ Р·Р°РіС–РЅ, СЏРєРёР№ РјРё РЅР°РїСЂР°РІРёРјРѕ Р· Р±Р°СЂСѓ.</text>
-  </string>
-  <string id="st_gar_dyatlov_bandits_task_info_pda_7">
-    <text>Р—СЂРѕР±РёС€ С†Рµ  вЂ”  Р·Р°Р±РµР·РїРµС‡РёС€ СЃРµР±Рµ РґРѕРІС–СЂРѕСЋ РЅР°С€РѕРіРѕ СѓРіСЂСѓРїРѕРІР°РЅРЅСЏ.</text>
-  </string>
-  <string id="st_gar_dyatlov_bandits_task_info_pda_8">
-    <text>Р‘РѕСЂРіРё Сѓ В«Р”РѕР»РіСѓВ» РїРѕРІРµСЂС‚Р°СЋС‚СЊ.</text>
-  </string>
-  <string id="st_gar_dyatlov_bye_second_hero_1">
-    <text>Р‘СѓРІР°Р№.</text>
-  </string>
-  <string id="st_gar_dyatlov_bye_second_hero_2">
-    <text>Р”Рѕ Р·СѓСЃС‚СЂС–С‡С–.</text>
-  </string>
-  <string id="st_gar_dyatlov_bye_second_hero_3">
-    <text>РЈСЃРїС–С…С–РІ, СЃС‚Р°Р»РєРµСЂРµ.</text>
-  </string>
-  <string id="st_gar_dyatlov_hello_second_hero_1">
-    <text>РЇ С‚РµР±Рµ СЃР»СѓС…Р°СЋ.</text>
-  </string>
-  <string id="st_gar_dyatlov_hello_second_hero_2">
-    <text>Р“РѕРІРѕСЂРё.</text>
-  </string>
-  <string id="st_gar_dyatlov_hello_second_hero_3">
-    <text>РќСѓ, РІРёРєР»Р°РґР°Р№.</text>
-  </string>
-  <string id="st_gar_desertir_first_meet">
-    <text>РЎС‚Р°Р»РєРµСЂРµ, РїС–РґС–Р№РґРё! РўС–Р»СЊРєРё РЅРµ СЃС‚СЂС–Р»СЏР№!</text>
-  </string>
-  <string id="st_gar_desertir_start_path">
-    <text>Р”СЏРєСѓСЋ, С‰Рѕ РІС–РґРіСѓРєРЅСѓРІСЃСЏ! РќСѓ, РїС–С€Р»Рё С‚РѕРґС–.</text>
-  </string>
-  <string id="st_gar_desertir_angry_actor_long_dist_1">
-    <text>Р”СЂСѓР¶Рµ, РЅРµ Р№РґРё РґР°Р»РµРєРѕ!</text>
-  </string>
-  <string id="st_gar_desertir_angry_actor_long_dist_2">
-    <text>РќРµ РІС–РґС…РѕРґСЊ РґР°Р»РµРєРѕ, СЃС‚Р°Р»РєРµСЂРµ!</text>
-  </string>
-  <string id="st_gar_desertir_angry_actor_long_dist_3">
-    <text>Р”СЏРґСЊРєСѓ, РЅСѓ С‚Рё РєСѓРґРё?</text>
-  </string>
-  <string id="st_gar_desertir_see_dogs">
-    <text>РЎРѕР±Р°РєРё! Р—Р°СЂР°Р· РјРё С—С…...</text>
-  </string>
-  <string id="st_gar_desertir_see_stalkers">
-    <text>Р”РёРІРёСЃСЊ, С‚Р°Рј С…С‚РѕСЃСЊ С–Р· С‚РІРѕС—С…!</text>
-  </string>
-  <string id="st_gar_desertir_angry">
-    <text>РћС‚ РІРёСЂРѕРґРєРё, РЅРµРІР¶Рµ РЅРµ РјРѕР¶РЅР° Р±СѓР»Рѕ РїРѕ-Р»СЋРґСЃСЊРєРё РґРѕРјРѕРІРёС‚РёСЃСЊ...</text>
-  </string>
-  <string id="st_gar_desertir_final_phrase">
-    <text>РҐРѕРґС–РјРѕ, С‚РѕРІР°СЂРёС€Сѓ-РїСЂРѕРІС–РґРЅРёРєСѓ. Р† РґСЏРєСѓСЋ С‚РѕР±С–, СЃС‚Р°Р»РєРµСЂРµ. РџРѕРїСѓС‚РЅРѕРіРѕ РІС–С‚СЂСѓ!</text>
-  </string>
-  <string id="st_gar_stalker_snake_angry">
-    <text>РўРё С€Рѕ, Р·РѕРІСЃС–Рј РѕС…СЂС–РЅС–РІ?! РЇ Р¶ С‚РµР±Рµ Р·Р°РІР°Р»СЋ, РїР°СЃРєСѓРґРѕ!</text>
-  </string>
-  <string id="st_gar_stalker_nimble_hello_1">
-    <text>Р—РґРѕСЂРѕРІРµРЅСЊРєС– Р±СѓР»Рё, СЃС‚Р°Р»РєРµСЂРµ! </text>
-  </string>
-  <string id="st_gar_stalker_nimble_hello_2">
-    <text>Р”РѕР±СЂРѕРіРѕ Р·РґРѕСЂРѕРІ'СЏ, СЃС‚Р°Р»РєРµСЂРµ!</text>
-  </string>
-  <string id="st_gar_stalker_nimble_nimble_bye_1">
-    <text>Р§РµРєР°СЋ РЅР° С‚РµР±Рµ Р·РЅРѕРІСѓ!</text>
-  </string>
-  <string id="st_gar_stalker_nimble_bye_2">
-    <text>РўРё Р·Р°С…РѕРґСЊ С‰Рµ.</text>
-  </string>
-  <string id="st_gar_stalker_nimble_bad_select_1">
-    <text> Р”РёРІРЅРёР№ РІРёР±С–СЂ. РќСѓ РґРѕР±СЂРµ.</text>
-  </string>
-  <string id="st_gar_stalker_nimble_bad_select_2">
-    <text>РќР° Р»СЋР±РёС‚РµР»СЏ С€С‚СѓС‡РєР°.</text>
-  </string>
-  <string id="st_gar_stalker_nimble_good_outfit_1">
-    <text>Р§СѓРґРѕРІРёР№ Р±СЂРѕРЅС–Рє! РўРё С‚РµРїРµСЂ СЏРє Р· РіРѕР»РѕС‡РєРё!</text>
-  </string>
-  <string id="st_gar_stalker_nimble_good_outfit_2">
-    <text>РџР°СЂРµРЅСЊ, С‚Р° С‚РµР±Рµ РЅРµ РІРїС–Р·РЅР°С‚Рё... РїСЂСЏРј СЃРїРµС†РЅР°Р·С–РІРµС†СЊ!</text>
-  </string>
-  <string id="st_gar_stalker_nimble_good_outfit_3">
-    <text>Р§СѓРґРѕРІР° Р±СЂРѕРЅСЏ, РЅРѕСЃРё РЅР° Р·РґРѕСЂРѕРІ'СЏ!</text>
-  </string>
-  <string id="st_gar_stalker_nimble_good_outfit_4">
-    <text>РќСѓ РІСЃРµ, С‚РµРїРµСЂ СЃРІРёРЅРµС†СЊ РјРѕР¶РµС€ Р»РѕРІРёС‚Рё С…РѕС‡ Р·СѓР±Р°РјРё! Р–Р°СЂС‚.</text>
-  </string>
-  <string id="st_gar_stalker_nimble_good_select_1">
-    <text>Р“Р°СЂРЅРёР№ РІРёР±С–СЂ, СЃР°Рј Р±Рё РЅРµ РІС–РґРјРѕРІРёРІСЃСЏ!</text>
-  </string>
-  <string id="st_gar_stalker_nimble_good_select_2">
-    <text>Р§СѓРґРѕРІРёР№ РІРёР±С–СЂ, С‚РµРїРµСЂ С…РѕС‡ РЅР° РІС–Р№РЅСѓ!</text>
-  </string>
-  <string id="st_gar_stalker_nimble_good_select_3">
-    <text>Р’С–РґРјС–РЅРЅРёР№ РІР°СЂС–Р°РЅС‚. РўР° С‚Рё, РЅС–СЏРє, СЂРѕР·Р±РёСЂР°С”С€СЃСЏ!</text>
-  </string>
-  <string id="st_gar_stalker_nimble_good_select_4">
-    <text>РџСЂРµРєСЂР°СЃРЅРёР№ Р°РіСЂРµРіР°С‚. Р—Р°Р·РґСЂСЋ!</text>
-  </string>
+
+	<string id="st_gar_corvalol_angry_1">
+		<text>Гей, не заважай мені.\nЗараз закінчу.</text>
+	</string>
+
+	<string id="st_gar_corvalol_angry_2">
+		<text>Дядьку, відвали.\nДай діло закінчити!</text>
+	</string>
+
+	<string id="st_gar_corvalol_angry_3">
+		<text>Я не можу зараз теревенити.\nНе бачиш, чи що?</text>
+	</string>
+
+	<string id="st_gar_corvalol_angry_4">
+		<text>Я зайнятий. Пізніше поговоримо.</text>
+	</string>
+
+	<string id="st_gar_corvalol_first_meet">
+		<text>Ну, я тебе слухаю.</text>
+	</string>
+
+	<string id="st_gar_corvalol_good_luck">
+		<text>Щасти тобі!</text>
+	</string>
+
+	<string id="st_gar_corvalol_kombez_1">
+		<text>Ай, твою ж мати!</text>
+	</string>
+
+	<string id="st_gar_corvalol_kombez_2">
+		<text>За сорок кусків комбез, бляха!</text>
+	</string>
+
+	<string id="st_gar_actor_baraholka_phrase_1">
+		<text>Юрку, прийом.</text>
+	</string>
+
+	<string id="st_gar_actor_baraholka_phrase_2">
+		<text>Юрку... Ти тут?</text>
+	</string>
+
+	<string id="st_gar_actor_baraholka_phrase_3">
+		<text>Знову напився, чи що? Прийом!</text>
+	</string>
+
+	<string id="st_gar_actor_baraholka_phrase_4_1">
+		<text>Потрібно вивести із Зони\nодну людину.</text>
+	</string>
+
+	<string id="st_gar_actor_baraholka_phrase_4_2">
+		<text>Платить щедро. Візьмешся?</text>
+	</string>
+
+	<string id="st_gar_jurok_desertir_raciya_1">
+		<text>Сокиро, здоров. Щось сталося?</text>
+	</string>
+
+	<string id="st_gar_jurok_desertir_raciya_2">
+		<text>А чому б ні? Кидай координати.</text>
+	</string>
+
+	<string id="st_gar_jurok_desertir_start">
+		<text>Ну що, служивий, готовий? Почапали.</text>
+	</string>
+
+	<string id="st_gar_dolg_zastava_soldier_danger_1">
+		<text>Ой, чую я, друзі:</text>
+	</string>
+
+	<string id="st_gar_dolg_zastava_soldier_danger_2">
+		<text>щось недобре скоро буде,\nой недобре.</text>
+	</string>
+
+	<string id="st_gar_drunk_medic_bye_1">
+		<text>Всього найкращого.</text>
+	</string>
+
+	<string id="st_gar_drunk_medic_bye_2">
+		<text>Бувай.</text>
+	</string>
+
+	<string id="st_gar_drunk_medic_bye_3">
+		<text>Бувай.</text>
+	</string>
+
+	<string id="st_gar_drunk_medic_hello_1">
+		<text>Привіт, сталкере.</text>
+	</string>
+
+	<string id="st_gar_drunk_medic_hello_2">
+		<text>Ну, здрастуй, сталкере.\nЗ чим завітав?</text>
+	</string>
+
+	<string id="st_gar_drunk_medic_hello_3">
+		<text>Привіт, сталкере. Що нового?</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bye_1">
+		<text>Ну, бувай.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bye_2">
+		<text>Всього найкращого, сталкере.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bye_3">
+		<text>До зустрічі.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bye_4">
+		<text>Побачимось.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_hello_1">
+		<text>Мої вітання, сталкере.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_hello_2">
+		<text>Чого тобі, сталкере?</text>
+	</string>
+
+	<string id="st_gar_dyatlov_hello_3">
+		<text>Слухаю.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_hello_4">
+		<text>Уважно слухаю.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_radio_ok">
+		<text>Прийняв, бійцю. Кінець зв'язку.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_actor_fail_1">
+		<text>Чеши, чеши, пацюче.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_actor_fail_2">
+		<text>Світ тісний. Пам'ятай про це!</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_robbery_1">
+		<text>Ну здрастуй, сталкере.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_robbery_2">
+		<text>Пам'ятаєш, про що я тобі казав?</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_robbery_3">
+		<text>От ми й зустрілись.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_robbery_4">
+		<text>Зараз ти мені, сука, все повернеш, виродку.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_robbery_5">
+		<text>Мужики, валимо його!</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_angry_meet">
+		<text>Шо причепився? Провалюй!</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_bye_1">
+		<text>Попутного вітру.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_bye_2">
+		<text>До зустрічі.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_hello_1">
+		<text>Здоров був, дядьку.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_hello_2">
+		<text>Вітаю.</text>
+	</string>
+
+	<string id="st_gar_stalker_messenger_help">
+		<text>Мужики, виручайте! Мене зараз тут собаки порвуть.</text>
+	</string>
+
+	<string id="st_gar_drunk_medic_start_message">
+		<text>Привіт. Я тут влаштувався на базі. Заходь, похмелимося.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_speak_rac_1">
+		<text>Миславе, прийом!\nТи на Смітнику?</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_speak_rac_2">
+		<text>Так? Патроне, я тут.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_speak_rac_3_1">
+		<text>Здоров.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_speak_rac_3_2">
+		<text>Я тобі зараз сталкера пришлю.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_speak_rac_3_3">
+		<text>Розтолкуй про наше діло. Годиться?</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_speak_rac_4">
+		<text>Зрозумів. Згодиться.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_start_meet">
+		<text>Ти чого трешся тут?\nХотів чогось?</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_wait_trader_1">
+		<text>Підрулюй іншим разом:\nкрамар поки не може підійти.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_wait_trader_2">
+		<text>Крамар ще не звільнився.</text>
+	</string>
+
+	<string id="st_gar_stalker_base_ohrannik_wait_trader_3">
+		<text>Підходь пізніше.\nКрамар ще зайнятий.</text>
+	</string>
+
+	<string id="st_gar_trader_sms_after_katakomb_1">
+		<text>Сокиро, йокарний бабай, ти де був?</text>
+	</string>
+
+	<string id="st_gar_trader_sms_after_katakomb_2">
+		<text>Я вже подумав, ти дременув з моїми артефактами.</text>
+	</string>
+
+	<string id="st_gar_trader_sms_after_katakomb_3">
+		<text>Давай, дуй на базу, швидко.</text>
+	</string>
+
+	<string id="st_gar_trader_darkvalley_message_1">
+		<text>Сталкере, я відлучуся на якийсь час. Займися поки кейсом.</text>
+	</string>
+
+	<string id="st_gar_trader_darkvalley_message_2">
+		<text>З'явлюся  -  маякну.</text>
+	</string>
+
+	<string id="st_gar_trader_primary_task_1_1">
+		<text>Сокиро, є невідкладна розмова.</text>
+	</string>
+
+	<string id="st_gar_trader_primary_task_1_2">
+		<text>Бігом до мене, терміново!</text>
+	</string>
+
+
+	<string id="st_gar_trader_primary_task_2_1">
+		<text>Сталкере, тут деяка проблема з'явилась.</text>
+	</string>
+
+	<string id="st_gar_trader_primary_task_2_2">
+		<text>Заглянь до мене на дозвіллі: треба дечого дізнатися.</text>
+	</string>
+
+	<string id="st_gar_trader_second_actor_bye_1">
+		<text>Чеши давай!</text>
+	</string>
+
+	<string id="st_gar_trader_second_actor_bye_2">
+		<text>Без потреби мене не відволікай!</text>
+	</string>
+
+	<string id="st_gar_trader_second_actor_bye_3">
+		<text>Іди, звідки прийшов, га?\nНе маяч!</text>
+	</string>
+
+	<string id="st_gar_trader_second_actor_hello_1">
+		<text>Чого тобі?</text>
+	</string>
+
+	<string id="st_gar_trader_second_actor_hello_2">
+		<text>Давай кажи, тільки швидко.</text>
+	</string>
+
+	<string id="st_gar_trader_second_actor_hello_3">
+		<text>Та не стій ти над душею.\nГовори швидше!</text>
+	</string>
+
+	<string id="st_gar_trader_second_actor_first_meet">
+		<text>Знову зальотний у нас.\nНу, чого треба?</text>
+	</string>
+
+	<string id="st_gar_trader_surge_start_1">
+		<text>Усім увага: наближається викид. Ховайте свої дупи, якщо ще жити не набридло.</text>
+	</string>
+
+	<string id="st_gar_trader_surge_start_2">
+		<text>Сталкерня, тут викид намічається. Бігом в укриття, бігом!</text>
+	</string>
+
+	<string id="st_gar_trader_surge_start_3">
+		<text>Увага: судячи з показань приладів, починається викид. В укриття: з кожною хвилиною шансів у вас все менше!</text>
+	</string>
+
+	<string id="st_gar_trader_surge_in_process_1">
+		<text>Ну, зараз почнеться. Не висовуйтеся з укриттів!</text>
+	</string>
+
+	<string id="st_gar_trader_surge_in_process_2">
+		<text>За хвилину накриє. Ховайте дупи, сталкери!</text>
+	</string>
+
+	<string id="st_gar_trader_surge_in_process_3">
+		<text>Рвоне буквально за кілька секунд. Не лізьте нікуди!</text>
+	</string>
+
+	<string id="st_gar_trader_surge_compl_1">
+		<text>Все, викид закінчився. Виповзайте зі сховищ.</text>
+	</string>
+
+	<string id="st_gar_trader_surge_compl_2">
+		<text>Стихійні лиха нас минули! Якщо кого потріпало, заходьте до нас: поставимо на ноги.</text>
+	</string>
+
+	<string id="st_gar_trader_surge_compl_2_cc">
+		<text>Стихійні лиха нас минули! [сміх] Якщо кого потріпало, заходьте до нас: поставимо на ноги.</text>
+	</string>
+
+	<string id="st_gar_trader_surge_compl_3">
+		<text>Ну все, народе. Викид закінчився. За роботу!</text>
+	</string>
+
+	<string id="st_gar_stalker_messenger_bye_1">
+		<text>До зустрічі.</text>
+	</string>
+
+	<string id="st_gar_stalker_messenger_bye_2">
+		<text>Хай щастить.</text>
+	</string>
+
+	<string id="st_gar_stalker_messenger_bye_3">
+		<text>Всього найкращого.</text>
+	</string>
+
+	<string id="st_gar_stalker_messenger_hello_1">
+		<text>Які новини, сталкере?</text>
+	</string>
+
+	<string id="st_gar_stalker_messenger_hello_2">
+		<text>Живий? Це добре.</text>
+	</string>
+
+	<string id="st_gar_stalker_messenger_hello_3">
+		<text>Радий бачити!</text>
+	</string>
+
+	<string id="st_gar_stalker_messenger_thanx_1">
+		<text>Дякую, друже! Виручив мене.</text>
+	</string>
+
+	<string id="st_gar_stalker_messenger_thanx_2">
+		<text>Одною ногою вже на тому світі стояв.</text>
+	</string>
+
+	<string id="st_gar_stalker_messenger_thanx_3">
+		<text>Ти від Патрона, так?</text>
+	</string>
+
+	<string id="st_gar_forest_aver_final">
+		<text>Хрєн тобі, а не підвищення! На дні колодязя тепер гнитимеш!</text>
+	</string>
+
+	<string id="st_gar_forest_aver_phrase_1">
+		<text>Ну що, дострибався? Підвищення захотів? Та хто ти взагалі такий? Що ти зробив для «Долгу»?</text>
+	</string>
+
+	<string id="st_gar_forest_stecurin">
+		<text>Стій і не смикайся, тварюко.</text>
+	</string>
+
+	<string id="st_gar_actor_kladbishe_phrase_1">
+		<text>Пацани, здоров. У вас водички не знайдеться?</text>
+	</string>
+
+	<string id="st_gar_actor_kladbishe_phrase_2">
+		<text>А це шо, не табір сталкерів?</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_1_1">
+		<text>Я тобі отвічаю,</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_1_2">
+		<text>сталкери будуть для нас\nнехилі бабки піднімати!</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_1_3">
+		<text>Пошлемо їх до аномалії</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_1_4">
+		<text>і хай артефакти нишпорять,\nякщо жити хочуть!</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_2">
+		<text>Красава!</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_2_cc">
+		<text>Красава! [сміх]</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_3_1">
+		<text>Е, алкашня!</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_3_2">
+		<text>Ти хоч знаєш,\nкуди прийшов, сучаро?</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_4_1">
+		<text>Ну, типу того!</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_4_1_cc">
+		<text>[сміх] Ну, типу того!</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_4_2">
+		<text>Пацани, в'яжіть його!</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_1_phrase_4_3">
+		<text>Ще одного лошка знайшли.</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_2_phrase_1_1">
+		<text>Та бляха, я й не сумнівався!</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_2_phrase_1_2">
+		<text>Тепер точно тачілу собі куплю.</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_2_phrase_1_3">
+		<text>Занижену таку, з музичкою.</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_2_phrase_1_4">
+		<text>Усі баби моїми будуть.</text>
+	</string>
+
+	<string id="st_gar_bandit_speaker_2_phrase_2">
+		<text>О, дивися! Шо за чепушило сюди колеса котить?</text>
+	</string>
+
+	<string id="st_gar_actor_hunt_bloodsucker_danger">
+		<text>Твою ж мати!</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_bye_1">
+		<text>Вдалої ходки тобі, сталкере.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_bye_2">
+		<text>Я, звичайно, не психолог,\nале буде сумно  -  заходь.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_bye_3">
+		<text>Давай-давай. До зустрічі.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_dies_1">
+		<text>Хрєново... Дуже хрєново...</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_dies_2">
+		<text>Послухай:</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_dies_3">
+		<text>у мене в сховищі лежать записи.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_dies_4">
+		<text>Передай їх Дубинцю\nо наукового комплексу на «Агропромі».</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_dies_5">
+		<text>Скажи, що я прорахувався.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_get_out_artefact_1">
+		<text>Ми на місці.\nГотуй артефакт.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_get_out_artefact_2">
+		<text>Тільки дивися,\nбез різких рухів.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_get_out_artefact_3">
+		<text>Іди за мною слід у слід, зрозумів?</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_hit_cc">
+		<text>[крик від болю]</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_see_snorks_1">
+		<text>Дідько, а снорки тут звідки взялися?</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_see_snorks_2">
+		<text>Так, треба повільно, по-тихому звідси відходити.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_see_snorks_3">
+		<text>За мною.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_final_task_what_happened">
+		<text>Що сталося?</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_hello_1">
+		<text>Ну привіт, сталкере!</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_hello_2">
+		<text>Ну що,\nзнову тебе Зона потріпала?</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_hello_3">
+		<text>Давай-давай, заходь. Не соромся.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_monolog_1">
+		<text>Не бійся:\nвін зовсім безпечний.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_monolog_2">
+		<text>Як бачиш, результат\nмоїх захоплень може здивувати.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_monolog_3">
+		<text>Ну, ти як?</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_monolog_4">
+		<text>Я тебе трохи підлатав.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_monolog_5">
+		<text>За кілька днів\nбудеш як новенький!</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_monolog_6">
+		<text>У якості компенсації, я залишу тобі\nключ від своєї халупки й доплачу трохи.</text>
+	</string>
+
+	<string id="st_gar_stalker_medic_monolog_7">
+		<text>Як прийдеш до тями,\nприходь у табір сталкерів  - </text>
+	</string>
+
+	<string id="st_gar_stalker_medic_monolog_8">
+		<text>поговоримо ще.</text>
+	</string>
+
+	<string id="st_gar_mishgan_record_1">
+		<text>Доведеться відбивати своїх друзів самотужки.</text>
+	</string>
+
+	<string id="st_gar_mishgan_record_2">
+		<text>Кого б не просив, усі відмовились мені допомогти.</text>
+	</string>
+
+	<string id="st_gar_mishgan_record_3">
+		<text>Але й покинути мужиків я не можу: стільки з ними Зону топтали.</text>
+	</string>
+
+	<string id="st_gar_mishgan_record_4">
+		<text>Сподіваюсь, цей запис ніхто не почує, і все пройде гладко.</text>
+	</string>
+
+	<string id="st_gar_mishgan_record_5">
+		<text>А якщо ні, то передайте мій КПК у село новачків. Там для моїх є послання.</text>
+	</string>
+
+	<string id="st_gar_mishgan_record_6_cc">
+		<text>[видих]</text>
+	</string>
+
+	<string id="st_gar_mishgan_record_7">
+		<text>Ну все, я пішов.</text>
+	</string>
+
+	<string id="st_gar_friend_mishgan_1_thanx">
+		<text>Дякую, друже!</text>
+	</string>
+
+	<string id="st_gar_friend_mishgan_1_thanx_actor">
+		<text>Дядьку, величезна тобі подяка!</text>
+	</string>
+
+	<string id="st_gar_friend_mishgan_2_thanx">
+		<text>Ох, дякую.</text>
+	</string>
+
+	<string id="st_gar_friend_mishgan_2_thanx_actor">
+		<text>Дякую, чоловіче.</text>
+	</string>
+
+	<string id="st_gar_mishgan_begin_leave">
+		<text>Вставайте, мужики! Все скінчилося.</text>
+	</string>
+
+	<string id="st_gar_mishgan_help_fail">
+		<text>Ну й сцикло ж ти.</text>
+	</string>
+
+	<string id="st_gar_mishgan_help_hello">
+		<text>Гей, сталкере,\nпотрібна твоя допомога.</text>
+	</string>
+
+	<string id="st_gar_mishgan_thx_actor_1">
+		<text>Це ви он\nтому сталкеру дякуйте.</text>
+	</string>
+
+	<string id="st_gar_mishgan_thx_actor_2">
+		<text>Якби не він,\nхрєн би у мене що вийшло!</text>
+	</string>
+
+	<string id="st_gar_trader_actor_first_meet_1">
+		<text>А ти ще хто такий?</text>
+	</string>
+
+	<string id="st_gar_trader_actor_first_meet_2">
+		<text>Не бачив тебе тут раніше.</text>
+	</string>
+
+	<string id="st_gar_trader_actor_first_meet_3">
+		<text>Якщо щось купити треба, то купляй.\nНі  -  чеши звідси!</text>
+	</string>
+
+	<string id="st_gar_trader_bye_1">
+		<text>Ну, бувай.</text>
+	</string>
+
+	<string id="st_gar_trader_bye_2">
+		<text>Бувай. Хай щастить.</text>
+	</string>
+
+	<string id="st_gar_trader_bye_3">
+		<text>Давай, рухайся.</text>
+	</string>
+
+	<string id="st_gar_trader_hello_1">
+		<text>Ну, здоров був!</text>
+	</string>
+
+	<string id="st_gar_trader_hello_2">
+		<text>Будь-яка примха\nза ваші гроші.</text>
+	</string>
+
+	<string id="st_gar_trader_hello_3">
+		<text>Чого тобі, сталкере?</text>
+	</string>
+
+	<string id="st_subtitles_kladbishe_bandit">
+		<text>Бандит</text>
+	</string>
+
+	<string id="st_gar_dyatlov_actor_first_phrase_1">
+		<text>Сталкере, ти увійшов на територію, підконтрольну «Долгу».</text>
+	</string>
+
+	<string id="st_gar_dyatlov_actor_first_phrase_2">
+		<text>Будь-яка спроба нападу на наших людей каратиметься смертю.</text>
+	</string>
+
+	<string id="st_gar_kladbishe_bandits_check_transiver_1">
+		<text>Сишиш, пацани, це ми.</text>
+	</string>
+
+	<string id="st_gar_kladbishe_bandits_check_transiver_2">
+		<text>Пацани, ви посцяти пішли, чи шо?</text>
+	</string>
+
+	<string id="st_gar_kladbishe_bandits_check_transiver_3">
+		<text>Гей, я не пойняв. Трубу ващє візьмуть, чи як?</text>
+	</string>
+
+	<string id="st_gar_kladbishe_bandits_check_transiver_4">
+		<text>Альо, пацани, ми тут у нєпонятках. Ви де ващє?</text>
+	</string>
+
+	<string id="st_gar_kladbishe_bandits_check_transiver_5_1">
+		<text>Кароче, фігня якась у пацанів.</text>
+	</string>
+
+	<string id="st_gar_kladbishe_bandits_check_transiver_5_2">
+		<text>Змотайтеся позирити, шо там!</text>
+	</string>
+
+	<string id="st_gar_kladbishe_bandits_check_transiver_6">
+		<text>Гівно вопрос. Зара пробйом.</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_koval_phrase_1">
+		<text>Може, договоримось?</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_koval_phrase_2">
+		<text>Грошей принесу, зброю будь-яку —\nщо хочете.</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_koval_phrase_3">
+		<text>Тільки детектор поверніть!</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_koval_thanx">
+		<text>Дякую, командире.\nВибачай, що все так вийшло.</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_1">
+		<text>Нормальна така пряха!</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_2">
+		<text>Кароче, так: вали звідси.</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_3">
+		<text>А іграшку цю\nми собі залишим  -  пограться.</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_4">
+		<text>А якщо захочеш\nпо Смітнику спокійно ходити,</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_5">
+		<text>тягни ще дві таких.</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_6">
+		<text>І ніхто тебе пальцем не торкнеться.</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_7">
+		<text>Зрозуміло?</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_1">
+		<text>Хєр тобі, хитрожопий!</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_2">
+		<text>Тре було нормально, по-пацанськи:</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_3">
+		<text>зайти до нас, підгончик принести...</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_4">
+		<text>А ти, сука,\nнишпориш тут, як пацюк!</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_5">
+		<text>Так шо гуляй, дядю!</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_6">
+		<text>А ще раз побачу тебе тут,</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_7">
+		<text>і без підгону  -  урою!</text>
+	</string>
+
+	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_8">
+		<text>Отвічаю, урою!</text>
+	</string>
+
+	<string id="st_gar_dyatlov_actor_first_phrase_second_hero_1">
+		<text>Сталкере, ти на території «Долгу».</text>
+	</string>
+
+	<string id="st_gar_dyatlov_actor_first_phrase_second_hero_2">
+		<text>Пустувати тут ніяк не дозволяється.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_actor_first_phrase_second_hero_3">
+		<text>З усіма питаннями підходь до мене.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bandits_task_info_pda_1">
+		<text>Сталкере, мені треба навідатись у бар до керівництва.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bandits_task_info_pda_2">
+		<text>По нашій справі поговоримо при зустрічі.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bandits_task_info_pda_3">
+		<text>Поки для тебе є більш пріоритетне завдання:</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bandits_task_info_pda_4">
+		<text>місцеві повідомили, що на хуторі неподалік від лісу засіла група бандитів.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bandits_task_info_pda_5">
+		<text>Ти маєш туди навідатись та прибрати їх будь-яким способом.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bandits_task_info_pda_6">
+		<text>Там буде базуватися наш загін, який ми направимо з бару.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bandits_task_info_pda_7">
+		<text>Зробиш це  -  забезпечиш себе довірою нашого угруповання.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bandits_task_info_pda_8">
+		<text>Борги у «Долгу» повертають.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bye_second_hero_1">
+		<text>Бувай.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bye_second_hero_2">
+		<text>До зустрічі.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_bye_second_hero_3">
+		<text>Успіхів, сталкере.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_hello_second_hero_1">
+		<text>Я тебе слухаю.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_hello_second_hero_2">
+		<text>Говори.</text>
+	</string>
+
+	<string id="st_gar_dyatlov_hello_second_hero_3">
+		<text>Ну, викладай.</text>
+	</string>
+
+	<string id="st_gar_desertir_first_meet">
+		<text>Сталкере, підійди! Тільки не стріляй!</text>
+	</string>
+
+	<string id="st_gar_desertir_start_path">
+		<text>Дякую, що відгукнувся! Ну, пішли тоді.</text>
+	</string>
+
+	<string id="st_gar_desertir_angry_actor_long_dist_1">
+		<text>Друже, не йди далеко!</text>
+	</string>
+
+	<string id="st_gar_desertir_angry_actor_long_dist_2">
+		<text>Не відходь далеко, сталкере!</text>
+	</string>
+
+	<string id="st_gar_desertir_angry_actor_long_dist_3">
+		<text>Дядьку, ну ти куди?</text>
+	</string>
+
+	<string id="st_gar_desertir_see_dogs">
+		<text>Собаки! Зараз ми їх...</text>
+	</string>
+
+	<string id="st_gar_desertir_see_stalkers">
+		<text>Дивись, там хтось із твоїх!</text>
+	</string>
+
+	<string id="st_gar_desertir_angry">
+		<text>От виродки, невже не можна було по-людськи домовитись...</text>
+	</string>
+
+	<string id="st_gar_desertir_final_phrase">
+		<text>Ходімо, товаришу-провіднику. І дякую тобі, сталкере. Попутного вітру!</text>
+	</string>
+
+	<string id="st_gar_stalker_snake_angry">
+		<text>Ти шо, зовсім охрінів?! Я ж тебе завалю, паскудо!</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_hello_1">
+		<text>Здоровенькі були, сталкере! </text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_hello_2">
+		<text>Доброго здоров'я, сталкере!</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_nimble_bye_1">
+		<text>Чекаю на тебе знову!</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_bye_2">
+		<text>Ти заходь ще.</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_bad_select_1">
+		<text> Дивний вибір. Ну добре.</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_bad_select_2">
+		<text>На любителя штучка.</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_good_outfit_1">
+		<text>Чудовий бронік! Ти тепер як з голочки!</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_good_outfit_2">
+		<text>Парень, та тебе не впізнати... прям спецназівець!</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_good_outfit_3">
+		<text>Чудова броня, носи на здоров'я!</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_good_outfit_4">
+		<text>Ну все, тепер свинець можеш ловити хоч зубами! Жарт.</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_good_select_1">
+		<text>Гарний вибір, сам би не відмовився!</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_good_select_2">
+		<text>Чудовий вибір, тепер хоч на війну!</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_good_select_3">
+		<text>Відмінний варіант. Та ти, ніяк, розбираєшся!</text>
+	</string>
+
+	<string id="st_gar_stalker_nimble_good_select_4">
+		<text>Прекрасний агрегат. Заздрю!</text>
+	</string>
+
 </string_table>

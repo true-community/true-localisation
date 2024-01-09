@@ -1,513 +1,684 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="Btn_Cancel">
-    <text>РЎРєР°СЃСѓРІР°С‚Рё</text>
-  </string>
-  <string id="Btn_No">
-    <text>РќС–</text>
-  </string>
-  <string id="Btn_OK">
-    <text>РћРљ</text>
-  </string>
-  <string id="Btn_Yes">
-    <text>РўР°Рє</text>
-  </string>
-  <string id="btn_close">
-    <text>Р—Р°РєСЂРёС‚Рё</text>
-  </string>
-  <string id="bad">
-    <text>РџРѕРіР°РЅРѕ</text>
-  </string>
-  <string id="enemy">
-    <text>Р’РѕСЂРѕРі</text>
-  </string>
-  <string id="excellent">
-    <text>Р§СѓРґРѕРІРѕ</text>
-  </string>
-  <string id="experienced">
-    <text>Р”РѕСЃРІС–РґС‡РµРЅРёР№</text>
-  </string>
-  <string id="friendly">
-    <text>Р”СЂСѓРі</text>
-  </string>
-  <string id="global_map">
-    <text>РњР°РїР° Р—РѕРЅРё</text>
-  </string>
-  <string id="good">
-    <text>Р”РѕР±СЂРµ</text>
-  </string>
-  <string id="indifferent">
-    <text>Р‘Р°Р№РґСѓР¶Рµ</text>
-  </string>
-  <string id="master">
-    <text>РњР°Р№СЃС‚РµСЂ</text>
-  </string>
-  <string id="mm_mp_pda_hunt">
-    <text>Р‘РѕРЅСѓСЃ Р·Р° РљРџРљ</text>
-  </string>
-  <string id="mp_only_one_voting">
-    <text>Р”РѕР·РІРѕР»РµРЅРѕ Р»РёС€Рµ РѕРґРЅРµ Р°РєС‚РёРІРЅРµ РіРѕР»РѕСЃСѓРІР°РЅРЅСЏ</text>
-  </string>
-  <string id="neutral">
-    <text>РќРµР№С‚СЂР°Р»</text>
-  </string>
-  <string id="novice">
-    <text>РќРѕРІР°С‡РѕРє</text>
-  </string>
-  <string id="st_game">
-    <text>Р“СЂР°</text>
-  </string>
-  <string id="st_item_used">
-    <text>Р’РёРєРѕСЂРёСЃС‚Р°РЅРѕ</text>
-  </string>
-  <string id="st_level">
-    <text>Р С–РІРµРЅСЊ</text>
-  </string>
-  <string id="st_loading_ai_objects">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ РЁР† РѕР±'С”РєС‚С–РІ</text>
-  </string>
-  <string id="st_loading_alife_simulator">
-    <text>РЎРµСЂРІРµСЂ: Р·Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ СЃРёРјСѓР»СЏС†С–С— Р¶РёС‚С‚СЏ</text>
-  </string>
-  <string id="st_loading_cform">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ С„РѕСЂРјРё РѕР±'С”РєС‚С–РІ</text>
-  </string>
-  <string id="st_loading_details">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ РґРµС‚Р°Р»СЊРЅРёС… РѕР±'С”РєС‚С–РІ</text>
-  </string>
-  <string id="st_loading_geometry">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ РіРµРѕРјРµС‚СЂС–С—</text>
-  </string>
-  <string id="st_loading_saved_game">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ РіСЂРё</text>
-  </string>
-  <string id="st_loading_sectors_portals">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ СЃРµРєС‚РѕСЂС–РІ С– РїРѕСЂС‚Р°Р»С–РІ</text>
-  </string>
-  <string id="st_loading_shaders">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ С€РµР№РґРµСЂС–РІ</text>
-  </string>
-  <string id="st_loading_spatial_db">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ Р±Р°Р·Рё РїСЂРѕСЃС‚РѕСЂС–РІ</text>
-  </string>
-  <string id="st_loading_textures">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ С‚РµРєСЃС‚СѓСЂ</text>
-  </string>
-  <string id="st_mp_direct_ip">
-    <text>РџСЂСЏРјРёР№ IP</text>
-  </string>
-  <string id="st_no_active_task">
-    <text>РќРµРјР° Р°РєС‚РёРІРЅРѕРіРѕ Р·Р°РІРґР°РЅРЅСЏ</text>
-  </string>
-  <string id="st_no_active_task_upper">
-    <text>РќР•РњРђ РђРљРўРР’РќРћР“Рћ Р—РђР’Р”РђРќРќРЇ</text>
-  </string>
-  <string id="st_not_enough_money">
-    <text>Р‘СЂР°РєСѓС” РіСЂРѕС€РµР№</text>
-  </string>
-  <string id="st_not_enough_money_npc">
-    <text>РЈ РќР†Рџ Р±СЂР°РєСѓС” РіСЂРѕС€РµР№</text>
-  </string>
-  <string id="st_opening_stream">
-    <text>Р’С–РґРєСЂРёС‚С‚СЏ РїРѕС‚РѕРєСѓ</text>
-  </string>
-  <string id="st_prefetching_objects">
-    <text>РљРµС€СѓРІР°РЅРЅСЏ РѕР±'С”РєС‚С–РІ</text>
-  </string>
-  <string id="st_rubles">
-    <text>СЂСѓР±Р»С–РІ.</text>
-  </string>
-  <string id="st_server_connecting">
-    <text>РЎРµСЂРІРµСЂ: Р·'С”РґРЅР°РЅРЅСЏ</text>
-  </string>
-  <string id="st_server_starting">
-    <text>РЎРµСЂРІРµСЂ: СЃС‚Р°СЂС‚</text>
-  </string>
-  <string id="st_validating_cdkey">
-    <text>РџРµСЂРµРІС–СЂРєР° РєР»СЋС‡Р°</text>
-  </string>
-  <string id="st_video">
-    <text>Р’С–РґРµРѕ</text>
-  </string>
-  <string id="terrible">
-    <text>Р–Р°С…Р»РёРІРѕ</text>
-  </string>
-  <string id="ui_inv_repair">
-    <text>Р РµРјРѕРЅС‚СѓРІР°С‚Рё</text>
-  </string>
-  <string id="ui_st_cant_run_r2">
-    <text>Р’Рё РЅРµ РјРѕР¶РµС‚Рµ Р·Р°РїСѓСЃС‚РёС‚Рё РґСЂСѓРіРёР№ СЂРµРЅРґРµСЂРµСЂ РЅР° С†СЊРѕРјСѓ РєРѕРјРї'СЋС‚РµСЂС–</text>
-  </string>
-  <string id="ui_st_community">
-    <text>РЈРіСЂСѓРїРѕРІР°РЅРЅСЏ</text>
-  </string>
-  <string id="ui_st_conn_cdkey_disabled">
-    <text>РџРѕРјРёР»РєР° Р·'С”РґРЅР°РЅРЅСЏ: РІР°С€ CD-key Р·Р°Р±Р»РѕРєРѕРІР°РЅРѕ. Р—РІ'СЏР¶С–С‚СЊСЃСЏ Р·С– СЃР»СѓР¶Р±РѕСЋ РїС–РґС‚СЂРёРјРєРё.</text>
-  </string>
-  <string id="ui_st_conn_cdkey_in_use">
-    <text>РџРѕРјРёР»РєР° Р·'С”РґРЅР°РЅРЅСЏ: С‚Р°РєРёР№ CD-key СѓР¶Рµ РІРёРєРѕСЂРёСЃС‚РѕРІСѓС”С‚СЊСЃСЏ</text>
-  </string>
-  <string id="ui_st_conn_cdkey_invalid">
-    <text>РџРѕРјРёР»РєР° Р·'С”РґРЅР°РЅРЅСЏ: РЅРµРїСЂР°РІРёР»СЊРЅРёР№ CD-key</text>
-  </string>
-  <string id="ui_st_conn_invalid_host">
-    <text>РџРѕРјРёР»РєР° Р·'С”РґРЅР°РЅРЅСЏ: РЅРµРїСЂР°РІРёР»СЊРЅРёР№ С…РѕСЃС‚</text>
-  </string>
-  <string id="ui_st_conn_invalid_pass">
-    <text>РџРѕРјРёР»РєР° Р·'С”РґРЅР°РЅРЅСЏ: РЅРµРїСЂР°РІРёР»СЊРЅРёР№ РїР°СЂРѕР»СЊ</text>
-  </string>
-  <string id="ui_st_conn_new_patch">
-    <text>Р”РѕСЃС‚СѓРїРЅРёР№ РЅРѕРІРёР№ РїР°С‚С‡. \n Р’РµСЂСЃС–СЏ: %s\n %s\n Р‘Р°Р¶Р°С”С‚Рµ Р·Р°РІР°РЅС‚Р°Р¶РёС‚Рё Р№РѕРіРѕ Р·Р°СЂР°Р·?</text>
-  </string>
-  <string id="ui_st_conn_no_new_patch">
-    <text>РќРµРјР°С” РЅРѕРІРёС… РїР°С‚С‡С–РІ</text>
-  </string>
-  <string id="ui_st_conn_rejected_server">
-    <text>РџРѕРјРёР»РєР°: Р·'С”РґРЅР°РЅРЅСЏ СЂРѕР·С–СЂРІР°РЅРµ СЃРµСЂРІРµСЂРѕРј</text>
-  </string>
-  <string id="ui_st_conn_sess_full">
-    <text>РџРѕРјРёР»РєР°: СЃРµСЂРІРµСЂ Р·Р°РїРѕРІРЅРµРЅРёР№</text>
-  </string>
-  <string id="ui_st_conn_version_differs">
-    <text>РџРѕРјРёР»РєР° Р·'С”РґРЅР°РЅРЅСЏ: СЂС–Р·РЅС– РІРµСЂСЃС–С—</text>
-  </string>
-  <string id="ui_st_connecting_to_masterserver">
-    <text>Р—'С”РґРЅР°РЅРЅСЏ С–Р· РјР°Р№СЃС‚РµСЂ-СЃРµСЂРІРµСЂРѕРј</text>
-  </string>
-  <string id="ui_st_days">
-    <text>РґРЅ.</text>
-  </string>
-  <string id="ui_st_error">
-    <text>РџРѕРјРёР»РєР°</text>
-  </string>
-  <string id="ui_st_error_loading">
-    <text>РџРѕРјРёР»РєР° Р·Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ</text>
-  </string>
-  <string id="ui_st_file_exist_owerwrite_q">
-    <text>Р¤Р°Р№Р» С–Р· С‚Р°РєРёРј С–Рј'СЏРј РІР¶Рµ С–СЃРЅСѓС”. РџРµСЂРµР·Р°РїРёСЃР°С‚Рё?</text>
-  </string>
-  <string id="ui_st_file_name_is_empty">
-    <text>Р†Рј'СЏ С„Р°Р№Р»Сѓ РїРѕСЂРѕР¶РЅС”</text>
-  </string>
-  <string id="ui_st_hours">
-    <text>РіРѕРґ.</text>
-  </string>
-  <string id="ui_st_kicked_by_battleye">
-    <text>Р±СѓР»Рѕ РІС–РґРєР»СЋС‡РµРЅРѕ Р·Р°С…РёСЃС‚РѕРј BattlEye:</text>
-  </string>
-  <string id="ui_st_kicked_by_server">
-    <text>Р’С–РґРєР»СЋС‡РµРЅРѕ. РџСЂРёС‡РёРЅР° -</text>
-  </string>
-  <string id="ui_st_leave">
-    <text>РџС–С‚Рё</text>
-  </string>
-  <string id="ui_st_load_game_confirm">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ РіСЂРё РїСЂРёР·РІРµРґРµ РґРѕ РІС‚СЂР°С‚Рё РЅРµР·Р±РµСЂРµР¶РµРЅРёС… РґР°РЅРёС…. Р‘Р°Р¶Р°С”С‚Рµ РїСЂРѕРґРѕРІР¶РёС‚Рё?</text>
-  </string>
-  <string id="ui_st_mins">
-    <text>С…РІ.</text>
-  </string>
-  <string id="ui_st_months">
-    <text>РјС–СЃ.</text>
-  </string>
-  <string id="ui_st_opponent_items">
-    <text>Р СЋРєР·Р°Рє</text>
-  </string>
-  <string id="ui_st_params">
-    <text>РџР°СЂР°РјРµС‚СЂРё</text>
-  </string>
-  <string id="ui_st_patch_download_error">
-    <text>РќРµРјРѕР¶Р»РёРІРѕ Р·Р°РІР°РЅС‚Р°Р¶РёС‚Рё РїР°С‚С‡.</text>
-  </string>
-  <string id="ui_st_patch_download_success">
-    <text>РџР°С‚С‡ СѓСЃРїС–С€РЅРѕ Р·Р°РІР°РЅС‚Р°Р¶РµРЅРѕ. Р‘Р°Р¶Р°С”С‚Рµ РІСЃС‚Р°РЅРѕРІРёС‚Рё?</text>
-  </string>
-  <string id="ui_st_price">
-    <text>Р¦С–РЅР°</text>
-  </string>
-  <string id="ui_st_rank">
-    <text>Р Р°РЅРі</text>
-  </string>
-  <string id="ui_st_relation">
-    <text>РЎС‚Р°РІР»РµРЅРЅСЏ</text>
-  </string>
-  <string id="ui_st_reputation">
-    <text>Р РµРїСѓС‚Р°С†С–СЏ</text>
-  </string>
-  <string id="ui_st_secs">
-    <text>СЃРµРє.</text>
-  </string>
-  <string id="ui_st_boost_sec">
-    <text>СЃ.</text>
-  </string>
-  <string id="ui_st_select_one_map">
-    <text>Р‘СѓРґСЊ Р»Р°СЃРєР°, РІРёР±РµСЂС–С‚СЊ С…РѕС‡Р° Р± РѕРґРЅСѓ РјР°РїСѓ</text>
-  </string>
-  <string id="ui_st_take_all">
-    <text>РЈР·СЏС‚Рё РІСЃРµ</text>
-  </string>
-  <string id="ui_st_time_remains">
-    <text>Р—Р°Р»РёС€РёР»РѕСЃСЏ</text>
-  </string>
-  <string id="ui_st_voting_disabled">
-    <text>Р“РѕР»РѕСЃСѓРІР°РЅРЅСЏ РІС–РґРєР»СЋС‡РµРЅРѕ</text>
-  </string>
-  <string id="ui_st_want_to_leave_game_q">
-    <text>Р’Рё СЃРїСЂР°РІРґС– Р±Р°Р¶Р°С”С‚Рµ Р·Р°РІРµСЂС€РёС‚Рё РіСЂСѓ?</text>
-  </string>
-  <string id="ui_total_price">
-    <text>РЈСЃСЊРѕРіРѕ</text>
-  </string>
-  <string id="very_bad">
-    <text>РґСѓР¶Рµ РїРѕРіР°РЅРѕ</text>
-  </string>
-  <string id="very_good">
-    <text>РґСѓР¶Рµ РґРѕР±СЂРµ</text>
-  </string>
-  <string id="veteran">
-    <text>Р’РµС‚РµСЂР°РЅ</text>
-  </string>
-  <string id="ui_st_inv_repair">
-    <text>Р РµРјРѕРЅС‚</text>
-  </string>
-  <string id="ui_repair_button_hint">
-    <text>РџРѕР»Р°РіРѕРґРёС‚Рё РѕР±СЂР°РЅСѓ СЂС–С‡</text>
-  </string>
-  <string id="st_key_notbinded">
-    <text>...</text>
-  </string>
-  <string id="st_save_uni_travel_generic">
-    <text>РїРµСЂРµС…С–Рґ Р»РѕРєР°С†С–С”СЋ</text>
-  </string>
-  <string id="st_save_uni_travel_zat_to_jup">
-    <text>РїРµСЂРµС…С–Рґ С–Р· Р—Р°С‚РѕРЅСѓ РЅР° В«РЇРЅС–РІВ»</text>
-  </string>
-  <string id="st_save_uni_travel_zat_to_pri">
-    <text>РїРµСЂРµС…С–Рґ С–Р· Р—Р°С‚РѕРЅСѓ РґРѕ РџСЂРёРї'СЏС‚С–</text>
-  </string>
-  <string id="st_save_uni_travel_jup_to_zat">
-    <text>РїРµСЂРµС…С–Рґ Р· В«РЇРЅРѕРІР°В» РЅР° Р—Р°С‚РѕРЅ</text>
-  </string>
-  <string id="st_save_uni_travel_jup_to_pri">
-    <text>РїРµСЂРµС…С–Рґ Р· В«РЇРЅРѕРІР°В» РґРѕ РџСЂРёРї'СЏС‚С–</text>
-  </string>
-  <string id="st_save_uni_travel_pri_to_zat">
-    <text>РїРµСЂРµС…С–Рґ С–Р· РџСЂРёРї'СЏС‚С– РЅР° Р—Р°С‚РѕРЅ</text>
-  </string>
-  <string id="st_save_uni_travel_pri_to_jup">
-    <text>РїРµСЂРµС…С–Рґ С–Р· РџСЂРёРї'СЏС‚С– РЅР° В«РЇРЅС–РІВ»</text>
-  </string>
-  <string id="st_save_uni_pri_to_labx8">
-    <text>РїРµСЂРµС…С–Рґ С–Р· РџСЂРёРї'СЏС‚С– РґРѕ X8</text>
-  </string>
-  <string id="st_save_uni_labx8_to_pri">
-    <text>РїРµСЂРµС…С–Рґ Р· X8 РґРѕ РџСЂРёРї'СЏС‚С–</text>
-  </string>
-  <string id="st_save_uni_surge_start">
-    <text>РІРёРєРёРґ</text>
-  </string>
-  <string id="st_save_zat_a1_game_start">
-    <text>РїРѕС‡Р°С‚РѕРє РіСЂРё</text>
-  </string>
-  <string id="st_save_zat_a2_reached_skadovsk">
-    <text>РїСЂРёР±СѓС‚С‚СЏ РЅР° В«РЎРєР°РґРѕРІСЃСЊРєВ»</text>
-  </string>
-  <string id="st_save_jup_b9_searched_heli_1">
-    <text>РґРѕСЃР»С–РґР¶РµРЅРѕ В«РЎРєР°С‚-1В»</text>
-  </string>
-  <string id="st_save_zat_b100_searched_heli_2">
-    <text>РґРѕСЃР»С–РґР¶РµРЅРѕ В«РЎРєР°С‚-2В»</text>
-  </string>
-  <string id="st_save_zat_b28_searched_heli_3">
-    <text>РґРѕСЃР»С–РґР¶РµРЅРѕ В«РЎРєР°С‚-3В»</text>
-  </string>
-  <string id="st_save_jup_b8_searched_heli_4">
-    <text>РґРѕСЃР»С–РґР¶РµРЅРѕ В«РЎРєР°С‚-4В»</text>
-  </string>
-  <string id="st_save_zat_b101_searched_heli_5">
-    <text>РґРѕСЃР»С–РґР¶РµРЅРѕ В«РЎРєР°С‚-5В»</text>
-  </string>
-  <string id="st_save_zat_b18_noah_showed_teleport">
-    <text>С€Р»СЏС… РЅР° РїР»Р°С‚Рѕ</text>
-  </string>
-  <string id="st_save_jup_b217_arrived_to_jup">
-    <text>РїСЂРёР±СѓС‚С‚СЏ РЅР° В«РЇРЅС–РІВ»</text>
-  </string>
-  <string id="st_save_jup_a9_got_underpass_docs">
-    <text>Р·РЅР°Р№РґРµРЅРѕ С€Р»СЏС… РґРѕ РџСЂРёРї'СЏС‚С–</text>
-  </string>
-  <string id="st_save_jup_b15_drunk_with_zulu">
-    <text>РґРѕ Р·Р°РіРѕРЅСѓ РґРѕР»СѓС‡РёРІСЃСЏ Р—СѓР»СѓСЃ</text>
-  </string>
-  <string id="st_save_jup_a10_gonna_return_debt">
-    <text>РїРѕРІРµСЂРЅРµРЅРЅСЏ Р±РѕСЂРіСѓ Р’Р°РЅРѕ</text>
-  </string>
-  <string id="st_save_jup_b218_vano_in_squad">
-    <text>РґРѕ Р·Р°РіРѕРЅСѓ РґРѕР»СѓС‡РёРІСЃСЏ Р’Р°РЅРѕ</text>
-  </string>
-  <string id="st_save_jup_b206_got_anomalous_plant">
-    <text>РІР·СЏС‚Рѕ Р°РЅРѕРјР°Р»СЊРЅСѓ СЂРѕСЃР»РёРЅСѓ</text>
-  </string>
-  <string id="st_save_jup_b218_sokolov_in_squad">
-    <text>РґРѕ Р·Р°РіРѕРЅСѓ РґРѕР»СѓС‡РёРІСЃСЏ РЎРѕРєРѕР»РѕРІ</text>
-  </string>
-  <string id="st_save_jup_b218_strider_in_squad">
-    <text>РґРѕ Р·Р°РіРѕРЅСѓ РґРѕР»СѓС‡РёРІСЃСЏ Р‘СЂРѕРґСЏРіР°</text>
-  </string>
-  <string id="st_save_jup_b218_travel_jup_to_pas">
-    <text>Р·Р°РіС–РЅ Р·С–Р±СЂР°РЅРѕ</text>
-  </string>
-  <string id="st_save_pas_b400_underpass_start">
-    <text>РїСЂРёР±СѓС‚С‚СЏ РґРѕ С€Р»СЏС…РѕРїСЂРѕРІРѕРґСѓ</text>
-  </string>
-  <string id="st_save_uni_travel_pas_to_pri">
-    <text>РІРёС…С–Рґ РґРѕ РџСЂРёРї'СЏС‚С–</text>
-  </string>
-  <string id="st_save_pri_a16_arrived_to_pri">
-    <text>Р·РЅР°Р№РґРµРЅРѕ РІС–Р№СЃСЊРєРѕРІРёС…</text>
-  </string>
-  <string id="st_save_pri_a17_hospital_start">
-    <text>Р·Р°С…РѕРїР»РµРЅРЅСЏ РЅРµРІС–РґРѕРјРѕС— Р·Р±СЂРѕС—</text>
-  </string>
-  <string id="st_save_pri_a20_found_dead_recon">
-    <text>Р·РЅР°Р№РґРµРЅРѕ СЂРѕР·РІС–РґРіСЂСѓРїСѓ</text>
-  </string>
-  <string id="st_save_pri_a18_met_reinforcement">
-    <text>РїСЂРёР±СѓР»Рѕ РїС–РґРєСЂС–РїР»РµРЅРЅСЏ</text>
-  </string>
-  <string id="st_save_pri_a18_searched_antenna">
-    <text>РґРѕСЃР»С–РґР¶РµРЅРѕ В«Р°РЅС‚РµРЅСѓВ»</text>
-  </string>
-  <string id="st_save_pri_a21_approached_mad_sentry">
-    <text>Р·РЅР°Р№РґРµРЅРѕ Р·РЅРёРєР»РѕРіРѕ РІР°СЂС‚РѕРІРѕРіРѕ</text>
-  </string>
-  <string id="st_save_pri_a21_killed_controller">
-    <text>РІР±РёС‚Рѕ РєРѕРЅС‚СЂРѕР»РµСЂР° РєРѕР»Рѕ РІР°СЂС‚РѕРІРѕРіРѕ</text>
-  </string>
-  <string id="st_save_zat_a23_entered_test_center">
-    <text>РІС…С–Рґ РґРѕ РґРѕСЃР»С–РґРЅРѕРіРѕ С†РµС…Сѓ</text>
-  </string>
-  <string id="st_save_zat_a23_got_gauss_docs">
-    <text>Р·РЅР°Р№РґРµРЅРѕ РґРѕРєСѓРјРµРЅС‚Р°С†С–СЋ РґРѕ РіР°СѓСЃ-РіР°СЂРјР°С‚Рё</text>
-  </string>
-  <string id="st_save_pri_a22_found_dead_squad">
-    <text>Р·РЅР°Р№РґРµРЅРѕ Р·Р°РіРёР±Р»РѕРіРѕ Р±С–Р№С†СЏ</text>
-  </string>
-  <string id="st_save_pri_a25_gonna_place_explosive">
-    <text>РІС…С–Рґ РґРѕ РґРёС‚СЏС‡РѕРіРѕ СЃР°РґРєР°</text>
-  </string>
-  <string id="st_save_pri_a25_freed_medic">
-    <text>РІСЂСЏС‚РѕРІР°РЅРѕ РІС–Р№СЃСЊРєРѕРІРѕРіРѕ РјРµРґРёРєР°</text>
-  </string>
-  <string id="st_save_pri_a28_talked_with_ssu">
-    <text>РІСЃС‚Р°РЅРѕРІР»РµРЅРѕ Р·РІ'СЏР·РѕРє С–Р· РєРѕРјР°РЅРґСѓРІР°РЅРЅСЏРј</text>
-  </string>
-  <string id="st_save_pri_a28_evacutaion_start">
-    <text>РїРѕС‡Р°С‚РѕРє РµРІР°РєСѓР°С†С–С— Р· РџСЂРёРї'СЏС‚С–</text>
-  </string>
-  <string id="st_save_pri_a28_evacuation_end">
-    <text>РґРѕСЃСЏРіРЅСѓС‚Рѕ РіРµР»С–РєРѕРїС‚РµСЂС–РІ РµРІР°РєСѓР°С†С–С—</text>
-  </string>
-  <string id="st_save_uni_zone_to_reality">
-    <text>РІС–РґС…С–Рґ С–Р· Р—РѕРЅРё</text>
-  </string>
-  <string id="st_save_jup_b209_placed_mutant_scanner">
-    <text>РґР°С‚С‡РёРє РЅР°СЏРІРЅРѕСЃС‚С– РјСѓС‚Р°РЅС‚С–РІ</text>
-  </string>
-  <string id="st_save_jup_a12_gave_artefact_for_hostage">
-    <text>РІРёРєСѓРїР»РµРЅРѕ Р·Р°СЂСѓС‡РЅРёРєР°</text>
-  </string>
-  <string id="st_save_jup_a12_met_with_liberators">
-    <text>Р·РІС–Р»СЊРЅРµРЅРЅСЏ Р·Р°СЂСѓС‡РЅРёРєР°</text>
-  </string>
-  <string id="st_save_jup_b6_arrived_to_ash_heap">
-    <text>РІРёРјС–СЂСЋРІР°РЅРЅСЏ Р°РЅРѕРјР°Р»С–С— В«РџРѕРїРµР»РёС‰РµВ»</text>
-  </string>
-  <string id="st_save_jup_b6_arrived_to_fen">
-    <text>РІРёРјС–СЂСЋРІР°РЅРЅСЏ Р°РЅРѕРјР°Р»С–С— В«РџР»Р°РІРЅС–В»</text>
-  </string>
-  <string id="st_save_zat_b38_met_with_grouse">
-    <text>Р»С–РіРІРѕ РєСЂРѕРІРѕСЃРѕСЃС–РІ</text>
-  </string>
-  <string id="st_save_jup_b19_arrived_to_kopachy">
-    <text>РІС–РґРїСЂР°РІРєР° РґРѕ РљРѕРїР°С‡С–РІ</text>
-  </string>
-  <string id="st_save_zat_b40_warned_by_mercs">
-    <text>РїС–РґС…С–Рґ РґРѕ СЃС‚Р°РЅС†С–С— РїРµСЂРµСЂРѕР±РєРё РІС–РґС…РѕРґС–РІ</text>
-  </string>
-  <string id="st_save_zat_b7_met_with_robbers">
-    <text>РЅР°С—Р·Рґ РЅР° СЃС‚Р°Р»РєРµСЂС–РІ</text>
-  </string>
-  <string id="st_save_zat_b33_got_container">
-    <text>Р·РЅР°Р№РґРµРЅРѕ РєРѕРЅС‚РµР№РЅРµСЂ Сѓ СЃС…РѕРІРєСѓ</text>
-  </string>
-  <string id="st_save_zat_b106_arrived_to_chimera_lair">
-    <text>РїРѕР»СЋРІР°РЅРЅСЏ РЅР° С…РёРјРµСЂСѓ</text>
-  </string>
-  <string id="st_save_jup_b16_passed_labyrinth">
-    <text>Р·РЅР°Р№РґРµРЅРѕ В«РћР°Р·СѓВ»</text>
-  </string>
-  <string id="st_save_pri_b35_ready_to_snipe">
-    <text>РїРѕС‡Р°С‚РѕРє РѕРїРµСЂР°С†С–С— В«РћРґРёРЅ РїРѕСЃС‚СЂС–Р»В»</text>
-  </string>
-  <string id="st_save_jup_b1_entered_railroad_tunnel">
-    <text>РїРѕС€СѓРє РґР¶РµСЂРµР»Р° РїСЃС–-РІРёРїСЂРѕРјС–РЅСЋРІР°РЅРЅСЏ</text>
-  </string>
-  <string id="st_save_jup_b47_got_admin_docs">
-    <text>Р°РґРјС–РЅС–СЃС‚СЂР°С‚РёРІРЅС– РґРѕРєСѓРјРµРЅС‚Рё</text>
-  </string>
-  <string id="st_save_zat_b103_warned_by_mercs">
-    <text>РїС–РґС…С–Рґ РґРѕ С†РµС…С–РІ РїС–РґСЃС‚Р°РЅС†С–С—</text>
-  </string>
-  <string id="st_save_zat_b5_met_with_others">
-    <text>СѓРіРѕРґР° Р±С–Р»СЏ Р»С–СЃРЅРёС†С‚РІР°</text>
-  </string>
-  <string id="st_save_jup_b207_arrived_to_duty_depot">
-    <text>СЃРєР»Р°Рґ В«Р”РѕР»РіСѓВ»</text>
-  </string>
-  <string id="st_save_zat_b14_got_altered_wheel">
-    <text>Р·РЅР°Р№РґРµРЅРѕ РґР¶РµСЂРµР»Рѕ РґРёРІРЅРѕРіРѕ СЃРІС–С‚С–РЅРЅСЏ</text>
-  </string>
-  <string id="st_save_pri_b301_arrived_to_help_zulu">
-    <text>Р·РЅР°Р№РґРµРЅРѕ Р—СѓР»СѓСЃР°</text>
-  </string>
-  <string id="st_save_zat_b42_arrived_to_controler_lair">
-    <text>РЅРµР±РµР·РїРµС‡РЅР° РїРµС‡РµСЂР°</text>
-  </string>
-  <string id="ui_st_upgrade">
-    <text>Р РµРјРѕРЅС‚/РјРѕРґРёС„С–РєР°С†С–СЏ</text>
-  </string>
-  <string id="ui_st_buy">
-    <text>РљСѓРїРёС‚Рё</text>
-  </string>
-  <string id="ui_st_sell">
-    <text>РџСЂРѕРґР°С‚Рё</text>
-  </string>
-  <string id="ui_st_trade">
-    <text>РўРѕСЂРіСѓРІР°С‚Рё</text>
-  </string>
-  <string id="ui_st_exit_hint">
-    <text>Р—Р°РєСЂРёС‚Рё РІС–РєРЅРѕ ($$ACTION_USE$$)</text>
-  </string>
-  <string id="ui_st_trade_hint">
-    <text>Р’С–РґРєСЂРёС‚Рё РІС–РєРЅРѕ С‚РѕСЂРіС–РІР»С– ($$ACTION_SPRINT_TOGGLE$$)</text>
-  </string>
-  <string id="ui_st_upgrade_hint">
-    <text>Р’С–РґРєСЂРёС‚Рё РІС–РєРЅРѕ СЂРµРјРѕРЅС‚Сѓ С‚Р° РјРѕРґРёС„С–РєР°С†С–С— ($$ACTION_SPRINT_TOGGLE$$)</text>
-  </string>
-  <string id="ui_st_history_hint">
-    <text>РџРѕРєР°Р·Р°С‚Рё С–СЃС‚РѕСЂС–СЋ РґС–Р°Р»РѕРіСѓ</text>
-  </string>
-  <string id="ui_st_take_all_hint">
-    <text>РџРµСЂРµРјС–СЃС‚РёС‚Рё СѓСЃС– СЂРµС‡С– РґРѕ СЃРІРѕРіРѕ СЂСЋРєР·Р°РєР° ($$ACTION_SPRINT_TOGGLE$$)</text>
-  </string>
-  <string id="ui_st_buy_hint">
-    <text>РџСЂРёРґР±Р°С‚Рё РѕР±СЂР°РЅС– СЂРµС‡С–</text>
-  </string>
-  <string id="ui_st_sell_hint">
-    <text>РџСЂРѕРґР°С‚Рё РѕР±СЂР°РЅС– СЂРµС‡С–</text>
-  </string>
-  <string id="st_save_pri_a28_evacuation_heli">
-    <text>РІС–РґР»С–С‚ РіРµР»С–РєРѕРїС‚РµСЂС–РІ РµРІР°РєСѓР°С†С–С—</text>
-  </string>
+
+	<string id="Btn_Cancel">
+		<text>Скасувати</text>
+	</string>
+
+	<string id="Btn_No">
+		<text>Ні</text>
+	</string>
+
+	<string id="Btn_OK">
+		<text>ОК</text>
+	</string>
+
+	<string id="Btn_Yes">
+		<text>Так</text>
+	</string>
+
+	<string id="btn_close">
+		<text>Закрити</text>
+	</string>
+
+	<string id="bad">
+		<text>Погано</text>
+	</string>
+
+	<string id="enemy">
+		<text>Ворог</text>
+	</string>
+
+	<string id="excellent">
+		<text>Чудово</text>
+	</string>
+
+	<string id="experienced">
+		<text>Досвідчений</text>
+	</string>
+
+	<string id="friendly">
+		<text>Друг</text>
+	</string>
+
+	<string id="global_map">
+		<text>Мапа Зони</text>
+	</string>
+
+	<string id="good">
+		<text>Добре</text>
+	</string>
+
+	<string id="indifferent">
+		<text>Байдуже</text>
+	</string>
+
+	<string id="master">
+		<text>Майстер</text>
+	</string>
+
+	<string id="mm_mp_pda_hunt">
+		<text>Бонус за КПК</text>
+	</string>
+
+	<string id="mp_only_one_voting">
+		<text>Дозволено лише одне активне голосування</text>
+	</string>
+
+	<string id="neutral">
+		<text>Нейтрал</text>
+	</string>
+
+	<string id="novice">
+		<text>Новачок</text>
+	</string>
+
+	<string id="st_game">
+		<text>Гра</text>
+	</string>
+
+	<string id="st_item_used">
+		<text>Використано</text>
+	</string>
+
+	<string id="st_level">
+		<text>Рівень</text>
+	</string>
+
+	<string id="st_loading_ai_objects">
+		<text>Завантаження ШІ об'єктів</text>
+	</string>
+
+	<string id="st_loading_alife_simulator">
+		<text>Сервер: завантаження симуляції життя</text>
+	</string>
+
+	<string id="st_loading_cform">
+		<text>Завантаження форми об'єктів</text>
+	</string>
+
+	<string id="st_loading_details">
+		<text>Завантаження детальних об'єктів</text>
+	</string>
+
+	<string id="st_loading_geometry">
+		<text>Завантаження геометрії</text>
+	</string>
+
+	<string id="st_loading_saved_game">
+		<text>Завантаження гри</text>
+	</string>
+
+	<string id="st_loading_sectors_portals">
+		<text>Завантаження секторів і порталів</text>
+	</string>
+
+	<string id="st_loading_shaders">
+		<text>Завантаження шейдерів</text>
+	</string>
+
+	<string id="st_loading_spatial_db">
+		<text>Завантаження бази просторів</text>
+	</string>
+
+	<string id="st_loading_textures">
+		<text>Завантаження текстур</text>
+	</string>
+
+	<string id="st_mp_direct_ip">
+		<text>Прямий IP</text>
+	</string>
+
+	<string id="st_no_active_task">
+		<text>Нема активного завдання</text>
+	</string>
+
+	<string id="st_no_active_task_upper">
+		<text>НЕМА АКТИВНОГО ЗАВДАННЯ</text>
+	</string>
+
+	<string id="st_not_enough_money">
+		<text>Бракує грошей</text>
+	</string>
+
+	<string id="st_not_enough_money_npc">
+		<text>У НІП бракує грошей</text>
+	</string>
+
+	<string id="st_opening_stream">
+		<text>Відкриття потоку</text>
+	</string>
+
+	<string id="st_prefetching_objects">
+		<text>Кешування об'єктів</text>
+	</string>
+
+	<string id="st_rubles">
+		<text>рублів.</text>
+	</string>
+
+	<string id="st_server_connecting">
+		<text>Сервер: з'єднання</text>
+	</string>
+
+	<string id="st_server_starting">
+		<text>Сервер: старт</text>
+	</string>
+
+	<string id="st_validating_cdkey">
+		<text>Перевірка ключа</text>
+	</string>
+
+	<string id="st_video">
+		<text>Відео</text>
+	</string>
+
+	<string id="terrible">
+		<text>Жахливо</text>
+	</string>
+
+	<string id="ui_inv_repair">
+		<text>Ремонтувати</text>
+	</string>
+
+	<string id="ui_st_cant_run_r2">
+		<text>Ви не можете запустити другий рендерер на цьому комп'ютері</text>
+	</string>
+
+	<string id="ui_st_community">
+		<text>Угруповання</text>
+	</string>
+
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Помилка з'єднання: ваш CD-key заблоковано. Зв'яжіться зі службою підтримки.</text>
+	</string>
+
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Помилка з'єднання: такий CD-key уже використовується</text>
+	</string>
+
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Помилка з'єднання: неправильний CD-key</text>
+	</string>
+
+	<string id="ui_st_conn_invalid_host">
+		<text>Помилка з'єднання: неправильний хост</text>
+	</string>
+
+	<string id="ui_st_conn_invalid_pass">
+		<text>Помилка з'єднання: неправильний пароль</text>
+	</string>
+
+	<string id="ui_st_conn_new_patch">
+		<text>Доступний новий патч. \n Версія: %s\n %s\n Бажаєте завантажити його зараз?</text>
+	</string>
+
+	<string id="ui_st_conn_no_new_patch">
+		<text>Немає нових патчів</text>
+	</string>
+
+	<string id="ui_st_conn_rejected_server">
+		<text>Помилка: з'єднання розірване сервером</text>
+	</string>
+
+	<string id="ui_st_conn_sess_full">
+		<text>Помилка: сервер заповнений</text>
+	</string>
+
+	<string id="ui_st_conn_version_differs">
+		<text>Помилка з'єднання: різні версії</text>
+	</string>
+
+	<string id="ui_st_connecting_to_masterserver">
+		<text>З'єднання із майстер-сервером</text>
+	</string>
+
+	<string id="ui_st_days">
+		<text>дн.</text>
+	</string>
+
+	<string id="ui_st_error">
+		<text>Помилка</text>
+	</string>
+
+	<string id="ui_st_error_loading">
+		<text>Помилка завантаження</text>
+	</string>
+
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Файл із таким ім'ям вже існує. Перезаписати?</text>
+	</string>
+
+	<string id="ui_st_file_name_is_empty">
+		<text>Ім'я файлу порожнє</text>
+	</string>
+
+	<string id="ui_st_hours">
+		<text>год.</text>
+	</string>
+
+	<string id="ui_st_kicked_by_battleye">
+		<text>було відключено захистом BattlEye:</text>
+	</string>
+
+	<string id="ui_st_kicked_by_server">
+		<text>Відключено. Причина -</text>
+	</string>
+
+	<string id="ui_st_leave">
+		<text>Піти</text>
+	</string>
+
+	<string id="ui_st_load_game_confirm">
+		<text>Завантаження гри призведе до втрати незбережених даних. Бажаєте продовжити?</text>
+	</string>
+
+	<string id="ui_st_mins">
+		<text>хв.</text>
+	</string>
+
+	<string id="ui_st_months">
+		<text>міс.</text>
+	</string>
+
+	<string id="ui_st_opponent_items">
+		<text>Рюкзак</text>
+	</string>
+
+	<string id="ui_st_params">
+		<text>Параметри</text>
+	</string>
+
+	<string id="ui_st_patch_download_error">
+		<text>Неможливо завантажити патч.</text>
+	</string>
+
+	<string id="ui_st_patch_download_success">
+		<text>Патч успішно завантажено. Бажаєте встановити?</text>
+	</string>
+
+	<string id="ui_st_price">
+		<text>Ціна</text>
+	</string>
+
+	<string id="ui_st_rank">
+		<text>Ранг</text>
+	</string>
+
+	<string id="ui_st_relation">
+		<text>Ставлення</text>
+	</string>
+
+	<string id="ui_st_reputation">
+		<text>Репутація</text>
+	</string>
+
+	<string id="ui_st_secs">
+		<text>сек.</text>
+	</string>
+
+	<string id="ui_st_boost_sec">
+		<text>с.</text>
+	</string>
+
+	<string id="ui_st_select_one_map">
+		<text>Будь ласка, виберіть хоча б одну мапу</text>
+	</string>
+
+	<string id="ui_st_take_all">
+		<text>Узяти все</text>
+	</string>
+
+	<string id="ui_st_time_remains">
+		<text>Залишилося</text>
+	</string>
+
+	<string id="ui_st_voting_disabled">
+		<text>Голосування відключено</text>
+	</string>
+
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Ви справді бажаєте завершити гру?</text>
+	</string>
+
+	<string id="ui_total_price">
+		<text>Усього</text>
+	</string>
+
+	<string id="very_bad">
+		<text>дуже погано</text>
+	</string>
+
+	<string id="very_good">
+		<text>дуже добре</text>
+	</string>
+
+	<string id="veteran">
+		<text>Ветеран</text>
+	</string>
+
+	<string id="ui_st_inv_repair">
+		<text>Ремонт</text>
+	</string>
+
+	<string id="ui_repair_button_hint">
+		<text>Полагодити обрану річ</text>
+	</string>
+
+	<string id="st_key_notbinded">
+		<text>...</text>
+	</string>
+
+	<string id="st_save_uni_travel_generic">
+		<text>перехід локацією</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_jup">
+		<text>перехід із Затону на «Янів»</text>
+	</string>
+
+	<string id="st_save_uni_travel_zat_to_pri">
+		<text>перехід із Затону до Прип'яті</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_zat">
+		<text>перехід з «Янова» на Затон</text>
+	</string>
+
+	<string id="st_save_uni_travel_jup_to_pri">
+		<text>перехід з «Янова» до Прип'яті</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_zat">
+		<text>перехід із Прип'яті на Затон</text>
+	</string>
+
+	<string id="st_save_uni_travel_pri_to_jup">
+		<text>перехід із Прип'яті на «Янів»</text>
+	</string>
+
+	<string id="st_save_uni_pri_to_labx8">
+		<text>перехід із Прип'яті до X8</text>
+	</string>
+
+	<string id="st_save_uni_labx8_to_pri">
+		<text>перехід з X8 до Прип'яті</text>
+	</string>
+
+	<string id="st_save_uni_surge_start">
+		<text>викид</text>
+	</string>
+
+	<string id="st_save_zat_a1_game_start">
+		<text>початок гри</text>
+	</string>
+
+	<string id="st_save_zat_a2_reached_skadovsk">
+		<text>прибуття на «Скадовськ»</text>
+	</string>
+
+	<string id="st_save_jup_b9_searched_heli_1">
+		<text>досліджено «Скат-1»</text>
+	</string>
+
+	<string id="st_save_zat_b100_searched_heli_2">
+		<text>досліджено «Скат-2»</text>
+	</string>
+
+	<string id="st_save_zat_b28_searched_heli_3">
+		<text>досліджено «Скат-3»</text>
+	</string>
+
+	<string id="st_save_jup_b8_searched_heli_4">
+		<text>досліджено «Скат-4»</text>
+	</string>
+
+	<string id="st_save_zat_b101_searched_heli_5">
+		<text>досліджено «Скат-5»</text>
+	</string>
+
+	<string id="st_save_zat_b18_noah_showed_teleport">
+		<text>шлях на плато</text>
+	</string>
+
+	<string id="st_save_jup_b217_arrived_to_jup">
+		<text>прибуття на «Янів»</text>
+	</string>
+
+	<string id="st_save_jup_a9_got_underpass_docs">
+		<text>знайдено шлях до Прип'яті</text>
+	</string>
+
+	<string id="st_save_jup_b15_drunk_with_zulu">
+		<text>до загону долучився Зулус</text>
+	</string>
+
+	<string id="st_save_jup_a10_gonna_return_debt">
+		<text>повернення боргу Вано</text>
+	</string>
+
+	<string id="st_save_jup_b218_vano_in_squad">
+		<text>до загону долучився Вано</text>
+	</string>
+
+	<string id="st_save_jup_b206_got_anomalous_plant">
+		<text>взято аномальну рослину</text>
+	</string>
+
+	<string id="st_save_jup_b218_sokolov_in_squad">
+		<text>до загону долучився Соколов</text>
+	</string>
+
+	<string id="st_save_jup_b218_strider_in_squad">
+		<text>до загону долучився Бродяга</text>
+	</string>
+
+	<string id="st_save_jup_b218_travel_jup_to_pas">
+		<text>загін зібрано</text>
+	</string>
+
+	<string id="st_save_pas_b400_underpass_start">
+		<text>прибуття до шляхопроводу</text>
+	</string>
+
+	<string id="st_save_uni_travel_pas_to_pri">
+		<text>вихід до Прип'яті</text>
+	</string>
+
+	<string id="st_save_pri_a16_arrived_to_pri">
+		<text>знайдено військових</text>
+	</string>
+
+	<string id="st_save_pri_a17_hospital_start">
+		<text>захоплення невідомої зброї</text>
+	</string>
+
+	<string id="st_save_pri_a20_found_dead_recon">
+		<text>знайдено розвідгрупу</text>
+	</string>
+
+	<string id="st_save_pri_a18_met_reinforcement">
+		<text>прибуло підкріплення</text>
+	</string>
+
+	<string id="st_save_pri_a18_searched_antenna">
+		<text>досліджено «антену»</text>
+	</string>
+
+	<string id="st_save_pri_a21_approached_mad_sentry">
+		<text>знайдено зниклого вартового</text>
+	</string>
+
+	<string id="st_save_pri_a21_killed_controller">
+		<text>вбито контролера коло вартового</text>
+	</string>
+
+	<string id="st_save_zat_a23_entered_test_center">
+		<text>вхід до дослідного цеху</text>
+	</string>
+
+	<string id="st_save_zat_a23_got_gauss_docs">
+		<text>знайдено документацію до гаус-гармати</text>
+	</string>
+
+	<string id="st_save_pri_a22_found_dead_squad">
+		<text>знайдено загиблого бійця</text>
+	</string>
+
+	<string id="st_save_pri_a25_gonna_place_explosive">
+		<text>вхід до дитячого садка</text>
+	</string>
+
+	<string id="st_save_pri_a25_freed_medic">
+		<text>врятовано військового медика</text>
+	</string>
+
+	<string id="st_save_pri_a28_talked_with_ssu">
+		<text>встановлено зв'язок із командуванням</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacutaion_start">
+		<text>початок евакуації з Прип'яті</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_end">
+		<text>досягнуто гелікоптерів евакуації</text>
+	</string>
+
+	<string id="st_save_uni_zone_to_reality">
+		<text>відхід із Зони</text>
+	</string>
+
+	<string id="st_save_jup_b209_placed_mutant_scanner">
+		<text>датчик наявності мутантів</text>
+	</string>
+
+	<string id="st_save_jup_a12_gave_artefact_for_hostage">
+		<text>викуплено заручника</text>
+	</string>
+
+	<string id="st_save_jup_a12_met_with_liberators">
+		<text>звільнення заручника</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_ash_heap">
+		<text>вимірювання аномалії «Попелище»</text>
+	</string>
+
+	<string id="st_save_jup_b6_arrived_to_fen">
+		<text>вимірювання аномалії «Плавні»</text>
+	</string>
+
+	<string id="st_save_zat_b38_met_with_grouse">
+		<text>лігво кровососів</text>
+	</string>
+
+	<string id="st_save_jup_b19_arrived_to_kopachy">
+		<text>відправка до Копачів</text>
+	</string>
+
+	<string id="st_save_zat_b40_warned_by_mercs">
+		<text>підхід до станції переробки відходів</text>
+	</string>
+
+	<string id="st_save_zat_b7_met_with_robbers">
+		<text>наїзд на сталкерів</text>
+	</string>
+
+	<string id="st_save_zat_b33_got_container">
+		<text>знайдено контейнер у сховку</text>
+	</string>
+
+	<string id="st_save_zat_b106_arrived_to_chimera_lair">
+		<text>полювання на химеру</text>
+	</string>
+
+	<string id="st_save_jup_b16_passed_labyrinth">
+		<text>знайдено «Оазу»</text>
+	</string>
+
+	<string id="st_save_pri_b35_ready_to_snipe">
+		<text>початок операції «Один постріл»</text>
+	</string>
+
+	<string id="st_save_jup_b1_entered_railroad_tunnel">
+		<text>пошук джерела псі-випромінювання</text>
+	</string>
+
+	<string id="st_save_jup_b47_got_admin_docs">
+		<text>адміністративні документи</text>
+	</string>
+
+	<string id="st_save_zat_b103_warned_by_mercs">
+		<text>підхід до цехів підстанції</text>
+	</string>
+
+	<string id="st_save_zat_b5_met_with_others">
+		<text>угода біля лісництва</text>
+	</string>
+
+	<string id="st_save_jup_b207_arrived_to_duty_depot">
+		<text>склад «Долгу»</text>
+	</string>
+
+	<string id="st_save_zat_b14_got_altered_wheel">
+		<text>знайдено джерело дивного світіння</text>
+	</string>
+
+	<string id="st_save_pri_b301_arrived_to_help_zulu">
+		<text>знайдено Зулуса</text>
+	</string>
+
+	<string id="st_save_zat_b42_arrived_to_controler_lair">
+		<text>небезпечна печера</text>
+	</string>
+
+	<string id="ui_st_upgrade">
+		<text>Ремонт/модифікація</text>
+	</string>
+
+	<string id="ui_st_buy">
+		<text>Купити</text>
+	</string>
+
+	<string id="ui_st_sell">
+		<text>Продати</text>
+	</string>
+
+	<string id="ui_st_trade">
+		<text>Торгувати</text>
+	</string>
+
+	<string id="ui_st_exit_hint">
+		<text>Закрити вікно ($$ACTION_USE$$)</text>
+	</string>
+
+	<string id="ui_st_trade_hint">
+		<text>Відкрити вікно торгівлі ($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+
+	<string id="ui_st_upgrade_hint">
+		<text>Відкрити вікно ремонту та модифікації ($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+
+	<string id="ui_st_history_hint">
+		<text>Показати історію діалогу</text>
+	</string>
+
+	<string id="ui_st_take_all_hint">
+		<text>Перемістити усі речі до свого рюкзака ($$ACTION_SPRINT_TOGGLE$$)</text>
+	</string>
+
+	<string id="ui_st_buy_hint">
+		<text>Придбати обрані речі</text>
+	</string>
+
+	<string id="ui_st_sell_hint">
+		<text>Продати обрані речі</text>
+	</string>
+
+	<string id="st_save_pri_a28_evacuation_heli">
+		<text>відліт гелікоптерів евакуації</text>
+	</string>
+
 </string_table>

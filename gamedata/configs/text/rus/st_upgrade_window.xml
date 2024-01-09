@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="ui_upgrade_window_modification_installed">
-    <text>РЈРЎРўРђРќРћР’Р›Р•РќРћ</text>
-  </string>
-  <string id="ui_upgrade_window_modification_unavailable">
-    <text>РќР•Р”РћРЎРўРЈРџРќРћ</text>
-  </string>
-  <string id="ui_upgrade_window_modification_unavailable_for_technic">
-    <text>РќР•Р”РћРЎРўРЈРџРќРћ Р”Р›РЇ РўР•РҐРќРРљРђ</text>
-  </string>
-  <string id="ui_upgrade_window_modification_unavailable_need_previous_module">
-    <text>РўР Р•Р‘. РџР Р•Р”Р«Р”РЈР©РР™ РњРћР”РЈР›Р¬</text>
-  </string>
-  <string id="ui_upgrade_window_repair">
-    <text>Р Р•РњРћРќРў</text>
-  </string>
+
+    <string id="ui_upgrade_window_modification_installed">
+        <text>УСТАНОВЛЕНО</text>
+    </string>
+
+    <string id="ui_upgrade_window_modification_unavailable">
+        <text>НЕДОСТУПНО</text>
+    </string>
+
+    <string id="ui_upgrade_window_modification_unavailable_for_technic">
+        <text>НЕДОСТУПНО ДЛЯ ТЕХНИКА</text>
+    </string>
+
+    <string id="ui_upgrade_window_modification_unavailable_need_previous_module">
+        <text>ТРЕБ. ПРЕДЫДУЩИЙ МОДУЛЬ</text>
+    </string>
+
+    <string id="ui_upgrade_window_repair">
+        <text>РЕМОНТ</text>
+    </string>
+
 </string_table>

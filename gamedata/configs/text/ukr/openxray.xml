@@ -1,84 +1,112 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_loading_lights">
-    <text>Р—Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ РѕСЃРІС–С‚Р»РµРЅРЅСЏ</text>
-  </string>
-  <string id="st_client_connecting_to">
-    <text>РљР»С–С”РЅС‚: Р·'С”РґРЅР°РЅРЅСЏ Р·</text>
-  </string>
-  <string id="st_client_spawning">
-    <text>РљР»С–С”РЅС‚: СЃС‚РІРѕСЂРµРЅРЅСЏ</text>
-  </string>
-  <string id="st_client_synchronising">
-    <text>РљР»С–С”РЅС‚: СЃРёРЅС…СЂРѕРЅС–Р·Р°С†С–СЏ</text>
-  </string>
-  <string id="st_creating_new_game">
-    <text>РЎС‚РІРѕСЂРµРЅРЅСЏ РЅРѕРІРѕС— РіСЂРё</text>
-  </string>
-  <string id="ui_mm_always_active">
-    <text>Р—РђР’Р–Р”Р РђРљРўРР’РќРР™</text>
-  </string>
-  <string id="ui_mm_detail_radius">
-    <text>Р”РђР›Р¬РќР†РЎРўР¬ РџР РћРњРђР›Р¬РћР’РЈР’РђРќРќРЇ РўР РђР’Р</text>
-  </string>
-  <string id="ui_mm_ui_style">
-    <text>РЎС‚РёР»СЊ С–РЅС‚РµСЂС„РµР№СЃСѓ</text>
-  </string>
-  <string id="ui_style_default">
-    <text>РџРѕРєР»РёРє РџСЂРёРї'СЏС‚С–</text>
-  </string>
-  <string id="ui_mm_loadingstages">
-    <text>РЎС‚Р°РґС–С— Р·Р°РІР°РЅС‚Р°Р¶РµРЅРЅСЏ</text>
-  </string>
-  <string id="renderer_gl">
-    <text>OpenGL</text>
-  </string>
-  <string id="ui_mm_r2_fxaa">
-    <text>Р—Р“Р›РђР”Р–РЈР’РђРќРќРЇ FXAA</text>
-  </string>
-  <string id="ui_mm_r2_smap_size">
-    <text>РљРђР РўР РўР†РќР•Р™</text>
-  </string>
-  <string id="ui_mm_r3_dynamic_wet_surfaces_opt">
-    <text>РћРџРўРРњР†Р—РђР¦Р†РЇ РќРђРњРћРљРђРќРќРЇ</text>
-  </string>
-  <string id="ui_mm_r3_dynamic_wet_surfaces_near">
-    <text>РќРђРњРћРљРђРќРќРЇ Р—Р‘Р›РР—Р¬РљРђ</text>
-  </string>
-  <string id="ui_mm_r3_dynamic_wet_surfaces_far">
-    <text>РќРђРњРћРљРђРќРќРЇ РќРђ Р’Р†Р”Р”РђР›Р†</text>
-  </string>
-  <string id="ui_mm_r3_dynamic_wet_surfaces_sm_res">
-    <text>РЇРљР†РЎРўР¬ РќРђРњРћРљРђРќРќРЇ</text>
-  </string>
-  <string id="ui_mm_fov">
-    <text>РљРЈРў РћР“Р›РЇР”РЈ</text>
-  </string>
-  <string id="ui_mm_localization">
-    <text>РњРћР’Рђ</text>
-  </string>
-  <string id="eng">
-    <text>РђРќР“Р›Р†Р™РЎР¬РљРђ</text>
-  </string>
-  <string id="fra">
-    <text>Р¤Р РђРќР¦РЈР—Р¬РљРђ</text>
-  </string>
-  <string id="ger">
-    <text>РќР†РњР•Р¦Р¬РљРђ</text>
-  </string>
-  <string id="ita">
-    <text>Р†РўРђР›IР™РЎР¬РљРђ</text>
-  </string>
-  <string id="pol">
-    <text>РџРћР›Р¬РЎР¬РљРђ</text>
-  </string>
-  <string id="rus">
-    <text>Р РћРЎР†Р™РЎР¬РљРђ</text>
-  </string>
-  <string id="ukr">
-    <text>РЈРљР РђР‡РќРЎР¬РљРђ</text>
-  </string>
-  <string id="spa">
-    <text>Р†РЎРџРђРќРЎР¬РљРђ</text>
-  </string>
+
+	<string id="st_loading_lights">
+		<text>Завантаження освітлення</text>
+	</string>
+
+	<string id="st_client_connecting_to">
+		<text>Клієнт: з'єднання з</text>
+	</string>
+
+	<string id="st_client_spawning">
+		<text>Клієнт: створення</text>
+	</string>
+
+	<string id="st_client_synchronising">
+		<text>Клієнт: синхронізація</text>
+	</string>
+
+	<string id="st_creating_new_game">
+		<text>Створення нової гри</text>
+	</string>
+
+	<string id="ui_mm_always_active">
+		<text>ЗАВЖДИ АКТИВНИЙ</text>
+	</string>
+
+	<string id="ui_mm_detail_radius">
+		<text>ДАЛЬНІСТЬ ПРОМАЛЬОВУВАННЯ ТРАВИ</text>
+	</string>
+
+	<string id="ui_mm_ui_style">
+		<text>Стиль інтерфейсу</text>
+	</string>
+
+	<string id="ui_style_default">
+		<text>Поклик Прип'яті</text>
+	</string>
+
+	<string id="ui_mm_loadingstages">
+		<text>Стадії завантаження</text>
+	</string>
+
+	<string id="renderer_gl">
+		<text>OpenGL</text>
+	</string>
+
+	<string id="ui_mm_r2_fxaa">
+		<text>ЗГЛАДЖУВАННЯ FXAA</text>
+	</string>
+
+	<string id="ui_mm_r2_smap_size">
+		<text>КАРТИ ТІНЕЙ</text>
+	</string>
+
+	<string id="ui_mm_r3_dynamic_wet_surfaces_opt">
+		<text>ОПТИМІЗАЦІЯ НАМОКАННЯ</text>
+	</string>
+
+	<string id="ui_mm_r3_dynamic_wet_surfaces_near">
+		<text>НАМОКАННЯ ЗБЛИЗЬКА</text>
+	</string>
+
+	<string id="ui_mm_r3_dynamic_wet_surfaces_far">
+		<text>НАМОКАННЯ НА ВІДДАЛІ</text>
+	</string>
+
+	<string id="ui_mm_r3_dynamic_wet_surfaces_sm_res">
+		<text>ЯКІСТЬ НАМОКАННЯ</text>
+	</string>
+
+	<string id="ui_mm_fov">
+		<text>КУТ ОГЛЯДУ</text>
+	</string>
+
+	<string id="ui_mm_localization">
+		<text>МОВА</text>
+	</string>
+
+	<string id="eng">
+		<text>АНГЛІЙСЬКА</text>
+	</string>
+
+	<string id="fra">
+		<text>ФРАНЦУЗЬКА</text>
+	</string>
+
+	<string id="ger">
+		<text>НІМЕЦЬКА</text>
+	</string>
+
+	<string id="ita">
+		<text>ІТАЛIЙСЬКА</text>
+	</string>
+
+	<string id="pol">
+		<text>ПОЛЬСЬКА</text>
+	</string>
+
+	<string id="rus">
+		<text>РОСІЙСЬКА</text>
+	</string>
+
+	<string id="ukr">
+		<text>УКРАЇНСЬКА</text>
+	</string>
+
+	<string id="spa">
+		<text>ІСПАНСЬКА</text>
+	</string>
+
 </string_table>

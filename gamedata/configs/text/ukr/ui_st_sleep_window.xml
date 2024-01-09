@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="ui_st_sleep_window_current_time">
-    <text>РџРћРўРћР§РќРР™ Р§РђРЎ:</text>
-  </string>
-  <string id="ui_st_sleep_window_confirm">
-    <text>%c[info_orange][SPACE] %c[info_title]РџР†Р”РўР’Р•Р Р”РРўР</text>
-  </string>
+	<string id="ui_st_sleep_window_current_time">
+		<text>ПОТОЧНИЙ ЧАС:</text>
+	</string>
+
+	<string id="ui_st_sleep_window_confirm">
+		<text>%c[info_orange][SPACE] %c[info_title]ПІДТВЕРДИТИ</text>
+	</string>
 </string_table>

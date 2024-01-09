@@ -1,510 +1,680 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_save_esc_trader_take_job">
-    <text>РїРµСЂРІС‹Рµ Р·Р°СЂР°Р±РѕС‚РєРё</text>
-  </string>
-  <string id="st_save_esc_search_collector_arts">
-    <text>РЅРѕРІР°СЏ РІС‹Р»Р°Р·РєР°</text>
-  </string>
-  <string id="st_save_esc_arts_for_trader">
-    <text>Р°СЂС‚РµС„Р°РєС‚С‹ РґР»СЏ С‚РѕСЂРіРѕРІС†Р°</text>
-  </string>
-  <string id="st_save_esc_fatalities_army">
-    <text>РїРѕРіРёР±С€РёРµ РІ Р°РЅРѕРјР°Р»РёРё</text>
-  </string>
-  <string id="st_save_esc_fanat_logovo_start">
-    <text>СЃС‚Р°СЂС‹Рµ Р·РЅР°РєРѕРјС‹Рµ</text>
-  </string>
-  <string id="st_save_esc_logovo_take_dinamit">
-    <text>Р»РѕРіРѕРІРѕ РјСѓС‚Р°РЅС‚РѕРІ</text>
-  </string>
-  <string id="st_save_esc_actor_repair_ar">
-    <text>РїРµСЂРІС‹Р№ Р°РІС‚РѕРјР°С‚</text>
-  </string>
-  <string id="st_save_esc_mechanic_night_polters">
-    <text>СЃС‚СЂР°РЅРЅС‹Рµ СЃРІРµС‡РµРЅРёСЏ</text>
-  </string>
-  <string id="st_save_esc_trader_take_job_2">
-    <text>СЂР°Р±РѕС‚Р° РЅР° РљРѕСЂРґРѕРЅРµ</text>
-  </string>
-  <string id="st_save_esc_scientists_task">
-    <text>СЃР»РµР¶РєР°</text>
-  </string>
-  <string id="st_save_second_esc_scientists_task">
-    <text>РїСЂРѕСЃР»РµРґРёС‚СЊ Р·Р° СѓС‡С‘РЅС‹РјРё</text>
-  </string>
-  <string id="st_save_esc_technic_inspect_object">
-    <text>СЃС‚СЂР°РЅРЅС‹Р№ РїСЂРёР±РѕСЂ</text>
-  </string>
-  <string id="st_save_esc_defence_village">
-    <text>Р°С‚Р°РєР° РЅР° РґРµСЂРµРІРЅСЋ</text>
-  </string>
-  <string id="st_save_esc_technic_device_atp_task">
-    <text>СЂР°Р±РѕС‚Р° РЅР° РєРѕРјР±РµР·</text>
-  </string>
-  <string id="st_save_esc_trader_fail_speak_jurok">
-    <text>РґСЂСѓРі РЅРµ Р±СЂРѕСЃРёС‚</text>
-  </string>
-  <string id="st_save_esc_travel_task_provodnik">
-    <text>СЂР°Р±РѕС‚Р° РїСЂРѕРІРѕРґРЅРёРєРѕРј</text>
-  </string>
-  <string id="st_save_esc_travel_robbery_speak">
-    <text>РѕРіСЂР°Р±Р»РµРЅРёРµ</text>
-  </string>
-  <string id="st_save_esc_travel_robbery_task">
-    <text>СѓРєСЂР°РґРµРЅРЅРѕРµ РґРѕР±СЂРѕ</text>
-  </string>
-  <string id="st_save_esc_go_to_garbage">
-    <text>СЃС‚СЂР°С… РЅРµРёР·РІРµРґР°РЅРЅРѕРіРѕ</text>
-  </string>
-  <string id="st_save_esc_find_the_missing_stalker">
-    <text>РјР°СЃС‚РµСЂР° СЃ РљРѕСЂРґРѕРЅР°</text>
-  </string>
-  <string id="st_save_esc_stalker_car_benzin_task">
-    <text>РІС‹РіРѕРґРЅРѕРµ РїСЂРµРґР»РѕР¶РµРЅРёРµ</text>
-  </string>
-  <string id="st_save_esc_help_stalker_car">
-    <text>С‚РѕРІР°СЂРёС‰ РІ Р±РµРґРµ</text>
-  </string>
-  <string id="st_save_esc_task_for_trailer">
-    <text>РїСЂРѕРїР°РІС€РёР№ СЃС‚Р°Р»РєРµСЂ</text>
-  </string>
-  <string id="st_save_esc_task_for_trailer2">
-    <text>РѕС‚РїСЂР°РІРёС‚СЊСЃСЏ РІ РґРµСЂРµРІРЅСЋ Р·Р° РїРѕРјРѕС‰СЊСЋ</text>
-  </string>
-  <string id="st_save_esc_task_for_trailer3">
-    <text>СЂР°СЃСЃС‚СЂРµР»СЏС‚СЊ СЃС‚Р°СЋ РїР»РѕС‚РµР№</text>
-  </string>
-  <string id="st_save_gar_mishgan_attack_bandits">
-    <text>РґРѕР±РёС‚СЊ РѕСЃС‚Р°РІС€РёС…СЃСЏ Р±Р°РЅРґРёС‚РѕРІ</text>
-  </string>
-  <string id="st_save_gar_find_local_trader">
-    <text>С‚РѕСЂРіРѕРІРµС† СЃРѕ РЎРІР°Р»РєРё</text>
-  </string>
-  <string id="st_save_gar_inspect_level">
-    <text>РѕСЃРјРѕС‚СЂРµС‚СЊ РѕРєСЂРµСЃС‚РЅРѕСЃС‚Рё</text>
-  </string>
-  <string id="st_save_gar_spend_desertir">
-    <text>РґРµР·РµСЂС‚РёСЂ</text>
-  </string>
-  <string id="st_save_gar_dyatlov_zastava_secret">
-    <text>С‚Р°Р№РЅР° Р·Р°СЃС‚Р°РІС‹ Р”СЏС‚Р»РѕРІР°</text>
-  </string>
-  <string id="st_save_gar_duty_bandits_kill_task">
-    <text>РїРѕРјРѕС‰СЊ В«Р”РѕР»РіСѓВ»</text>
-  </string>
-  <string id="st_save_gar_speak_gamzat_save">
-    <text>РјРµСЃС‚РЅС‹Р№ Р»РµРєР°СЂСЊ</text>
-  </string>
-  <string id="st_save_gar_gamzat_task_hunt">
-    <text>РѕРїР°СЃРЅР°СЏ РІС‹Р»Р°Р·РєР°</text>
-  </string>
-  <string id="st_save_gar_restore_health_task">
-    <text>СЂР°РЅРµРЅРёРµ</text>
-  </string>
-  <string id="st_save_gar_task_for_stalker_messenger">
-    <text>Р·Р°РјР°РЅС‡РёРІРѕРµ РїСЂРµРґР»РѕР¶РµРЅРёРµ</text>
-  </string>
-  <string id="st_save_gar_to_meet_stalker_messenger">
-    <text>СЃРІСЏР·РЅРѕР№</text>
-  </string>
-  <string id="st_save_gar_known_stalker_messenger">
-    <text>РјС‘СЂС‚РІС‹Р№ СЃРІСЏР·РЅРѕР№</text>
-  </string>
-  <string id="st_save_gar_meet_stalkers_for_agroprom_case">
-    <text>РІ РїРѕРёСЃРєР°С… РєРѕРґР°</text>
-  </string>
-  <string id="st_save_agr_agroprom_docs">
-    <text>РєРµР№СЃ РїРѕРґ Р·Р°РјРєРѕРј</text>
-  </string>
-  <string id="st_save_agr_diggers_take_weapons">
-    <text>РїСѓС€РєРё</text>
-  </string>
-  <string id="st_save_agr_agroprom_docs_not_full">
-    <text>РєРѕРґ РѕС‚ СЃРµР№С„Р°</text>
-  </string>
-  <string id="st_save_agr_agroprom_docs_new_attempt">
-    <text>РІРѕР№РЅР° Р·Р° РєРµР№СЃ</text>
-  </string>
-  <string id="st_save_go_to_darkvalley">
-    <text>РўС‘РјРЅР°СЏ Р”РѕР»РёРЅР°</text>
-  </string>
-  <string id="st_save_val_monster_factory_quest">
-    <text>С‡РµСЂС‚РѕРІС‰РёРЅР° РЅР° Р·Р°РІРѕРґРµ</text>
-  </string>
-  <string id="st_save_val_search_monster_quest">
-    <text>РѕСЃРјРѕС‚СЂ РїРѕРјРµС‰РµРЅРёР№</text>
-  </string>
-  <string id="st_save_val_case_with_stones">
-    <text>РєРµР№СЃ СЃ РєР°РјРЅСЏРјРё</text>
-  </string>
-  <string id="st_save_val_job_in_the_darkvalley">
-    <text>СЂР°Р±РѕС‚Р° РІ Р”РѕР»РёРЅРµ</text>
-  </string>
-  <string id="st_save_val_labx18_inspect_level">
-    <text>РїРѕРґР·РµРјРЅР°СЏ СЂР°Р·РІРµРґРєР°</text>
-  </string>
-  <string id="st_save_val_task_farm">
-    <text>СЂР°Р±РѕС‚Р° РІ Р±СЂРёРіР°РґРµ</text>
-  </string>
-  <string id="st_save_val_labx18_boom">
-    <text>СЃРµРєСЂРµС‚РЅС‹Р№ РІС…РѕРґ</text>
-  </string>
-  <string id="st_save_labx18_map_treasure">
-    <text>РёСЃС‡РµР·РЅРѕРІРµРЅРёРµ СЃС‚Р°Р»РєРµСЂР°</text>
-  </string>
-  <string id="st_save_labx18_task_code">
-    <text>РєРѕРґРѕРІР°СЏ РґРІРµСЂСЊ</text>
-  </string>
-  <string id="st_save_esc_repair_nimble_rifle_1">
-    <text>СѓРЅРёРєР°Р»СЊРЅР°СЏ В«Р“СЂРѕР·Р°В»</text>
-  </string>
-  <string id="st_save_esc_repair_nimble_rifle_2">
-    <text>РјР°С‚РµСЂРёР°Р»С‹ РґР»СЏ РњРёС…Р°Р»С‹С‡Р°</text>
-  </string>
-  <string id="st_save_kat_primary_task">
-    <text>РїРѕРґР·РµРјРµР»СЊСЏ</text>
-  </string>
-  <string id="st_save_val_treasure_task">
-    <text>С‚Р°Р№РЅРёРє В«РЎРІРѕР±РѕРґС‹В»</text>
-  </string>
-  <string id="st_save_start_speak_dolg">
-    <text>Р·Р°СЃС‚Р°РІР° В«Р”РѕР»РіР°В»</text>
-  </string>
-  <string id="st_save_gar_case_final_task">
-    <text>РІРѕР·РІСЂР°С‰РµРЅРёРµ</text>
-  </string>
-  <string id="st_save_gar_stalker_medic_artefacts">
-    <text>РїРѕРІРµР»РёС‚РµР»СЊ РјРѕРЅСЃС‚СЂРѕРІ</text>
-  </string>
-  <string id="st_save_agru_diggers_robbery_search_weapon">
-    <text>РІ РїР»РµРЅСѓ</text>
-  </string>
-  <string id="st_save_agr_stalker_help_sos_task">
-    <text>СЃРёРіРЅР°Р» SOS</text>
-  </string>
-  <string id="st_save_agr_stalker_perch_task">
-    <text>РѕРїР°СЃРЅС‹Рµ Р·Р°РґР°РЅРёСЏ</text>
-  </string>
-  <string id="st_save_agr_scientists_base_scientist_task_start">
-    <text>РІСЃС‚СЂРµС‚РёС‚СЊСЃСЏ СЃ Р”СѓР±РёРЅРёРЅС‹Рј</text>
-  </string>
-  <string id="st_save_agr_soldier_post_task">
-    <text>РіРѕР»РѕРґРЅС‹Р№ РїРѕСЃС‚РѕРІРѕР№</text>
-  </string>
-  <string id="st_save_agr_drunk_medic_search">
-    <text>РїСЊСЏРЅС‹Р№ РјРµРґРёРє</text>
-  </string>
-  <string id="st_save_agr_scientific_job">
-    <text>РЅР°СѓС‡РЅР°СЏ СЂР°Р±РѕС‚Р°</text>
-  </string>
-  <string id="st_save_agr_anomaly_scene_end">
-    <text>СѓР±РёС‚СЊ СЃС‚Р°Р»РєРµСЂРѕРІ</text>
-  </string>
-  <string id="st_save_agr_scientific_job_second">
-    <text>РЅРѕРІС‹Рµ РѕРєСЂРµСЃС‚РЅРѕСЃС‚Рё</text>
-  </string>
-  <string id="st_save_gar_drunk_medic_start_task">
-    <text>РЅРѕРІС‹Р№ РјРµРґРёРє</text>
-  </string>
-  <string id="st_save_gar_drunk_medic_supplies_task">
-    <text>РїСЂРѕСЃСЊР±Р°</text>
-  </string>
-  <string id="st_save_esc_village_new_meet">
-    <text>СЃС‚Р°СЂС‹Рµ РґСЂСѓР·СЊСЏ</text>
-  </string>
-  <string id="st_save_esc_strange_things">
-    <text>РѕС‡РµРЅСЊ СЃС‚СЂР°РЅРЅС‹Рµ РґРµР»Р°</text>
-  </string>
-  <string id="st_save_nsp_scientific_job_place_scanners">
-    <text>Р°РЅРѕРјР°Р»СЊРЅР°СЏ Р°РєС‚РёРІРЅРѕСЃС‚СЊ</text>
-  </string>
-  <string id="st_save_nsp_scientific_job_full">
-    <text>С‚СЂР°РЅСЃРјСѓС‚Р°С†РёСЏ</text>
-  </string>
-  <string id="st_save_nsp_mysterious_death">
-    <text>С‚Р°РёРЅСЃС‚РІРµРЅРЅР°СЏ СЃРјРµСЂС‚СЊ</text>
-  </string>
-  <string id="st_save_nsp_village_gain_confidence">
-    <text>СЃРєР°РЅРµСЂ РІ РґРµСЂРµРІРЅРµ</text>
-  </string>
-  <string id="st_save_nsp_suicide_stalker_treasure_task">
-    <text>С…Р°Р±Р°СЂ РљРѕСЂС€СѓРЅР°</text>
-  </string>
-  <string id="st_save_nsp_scientific_job_generators">
-    <text>РіРµРЅРµСЂР°С‚РѕСЂС‹</text>
-  </string>
-  <string id="st_save_nsp_polter_scaner_task">
-    <text>РїРѕР»С‚РµСЂРіРµР№СЃС‚</text>
-  </string>
-  <string id="st_save_nsp_hunter_retrieve_scanner">
-    <text>РѕС…РѕС‚Р°</text>
-  </string>
-  <string id="st_save_nsp_hunter_retrieve_scanner_end">
-    <text>РѕС…РѕС‚Р° Р·Р°РІРµСЂС€РµРЅР°</text>
-  </string>
-  <string id="st_save_nsp_brawl_task">
-    <text>Р·Р°РІР°СЂСѓС€РєР°</text>
-  </string>
-  <string id="st_save_nsp_general_boar_task">
-    <text>РіРµРЅРµСЂР°Р» РЁС‚РѕРє</text>
-  </string>
-  <string id="st_save_gar_start_bar_task">
-    <text>Р±Р°СЂ</text>
-  </string>
-  <string id="st_save_esc_jurok_drunk_task">
-    <text>РЅРёС‡РµРіРѕ РЅРµ РјРµРЅСЏРµС‚СЃСЏ</text>
-  </string>
-  <string id="st_save_esc_technic_scientists_device_task">
-    <text>РїРѕСЂСѓС‡РµРЅРёРµ С‚РµС…РЅРёРєР°</text>
-  </string>
-  <string id="st_save_esc_sweep_task">
-    <text>Р·Р°С‡РёСЃС‚РєР°</text>
-  </string>
-  <string id="st_save_agr_colonel_task">
-    <text>РєРѕРјР°РЅРґРёСЂ РІС‹Р·С‹РІР°РµС‚</text>
-  </string>
-  <string id="st_save_agr_before_sending">
-    <text>РїРµСЂРµРґ РѕС‚РїСЂР°РІРєРѕР№</text>
-  </string>
-  <string id="st_save_nsp_musician_stalker_guitar_task">
-    <text>РјСѓР·С‹РєР°РЅС‚ РёР· РќРѕРІРѕС€РµРїРµР»РёС‡РµР№</text>
-  </string>
-  <string id="st_save_yan_start_task">
-    <text>РѕР·РµСЂРѕ РЇРЅС‚Р°СЂСЊ</text>
-  </string>
-  <string id="st_save_yan_something_in_silence">
-    <text>РЅРµС‡С‚Рѕ РІ С‚РёС€РёРЅРµ</text>
-  </string>
-  <string id="st_save_yan_someone_alive">
-    <text>РІС‹Р¶РёРІС€РёР№</text>
-  </string>
-  <string id="st_save_yan_missing_koval">
-    <text>РїСЂРѕРїР°Р¶Р°</text>
-  </string>
-  <string id="st_save_yan_collect_info">
-    <text>СЃР±РѕСЂ РёРЅС„РѕСЂРјР°С†РёРё</text>
-  </string>
-  <string id="st_save_yan_labx16_task">
-    <text>РїСЂРѕР»РѕРј</text>
-  </string>
-  <string id="st_save_yan_labx16_second_task">
-    <text>РІ Р·Р°РїР°РґРЅРµ</text>
-  </string>
-  <string id="st_save_yan_mysterious_stranger_task">
-    <text>Р·Р°РіР°РґРѕС‡РЅС‹Р№ РЅРµР·РЅР°РєРѕРјРµС†</text>
-  </string>
-  <string id="st_save_yan_source_of_interference">
-    <text>РёСЃС‚РѕС‡РЅРёРє РїРѕРјРµС…</text>
-  </string>
-  <string id="st_save_yan_final_task">
-    <text>РіРѕРЅРµС† РїСЂР°РІРѕСЃСѓРґРёСЏ</text>
-  </string>
-  <string id="st_save_bar_duty_territory">
-    <text>С‚РµСЂСЂРёС‚РѕСЂРёСЏ В«Р”РѕР»РіР°В»</text>
-  </string>
-  <string id="st_save_bar_stalker_asshole_task">
-    <text>Р±Р°РЅРґРёС‚СЃРєРёРµ РґРµР±СЂРё</text>
-  </string>
-  <string id="st_save_bar_after_robbery">
-    <text>РїРѕСЃР»Рµ РѕС‚РєР»СЋС‡РєРё</text>
-  </string>
-  <string id="st_save_bar_duty_help_present">
-    <text>РЅРµРѕР±С‹С‡РЅР°СЏ РїСЂРѕСЃСЊР±Р°</text>
-  </string>
-  <string id="st_save_bar_bandits_treasure_task">
-    <text>РЅР°РіСЂР°Р±Р»РµРЅРЅРѕРµ</text>
-  </string>
-  <string id="st_save_bar_after_robbery_box">
-    <text>Р»РёС‡РЅРѕРµ</text>
-  </string>
-  <string id="st_save_agr_after_yantar_task">
-    <text>РїСЂРѕР±СѓР¶РґРµРЅРёРµ</text>
-  </string>
-  <string id="st_save_agr_scientist_boss_info_task">
-    <text>РЅР° РєРѕРІС‘СЂ</text>
-  </string>
-  <string id="st_save_agr_scientist_boss_search_task">
-    <text>РїСЂРѕРїР°РІС€РёР№ СѓС‡С‘РЅС‹Р№</text>
-  </string>
-  <string id="st_save_val_bandits_base_passage_task">
-    <text>РІСЃС‘ СЂР°РґРё С†РµР»Рё</text>
-  </string>
-  <string id="st_save_val_prison_task">
-    <text>Р±Р°РЅРґРёС‚СЃРєРёРµ РґРµР±СЂРё</text>
-  </string>
-  <string id="st_save_agr_tonnel_dogs_task">
-    <text>РЅР°РїР°РґРµРЅРёРµ СЃРѕР±Р°Рє</text>
-  </string>
-  <string id="st_save_esc_visit_trader_task">
-    <text>С‡СѓР¶РѕР№ СЃСЂРµРґРё С‡СѓР¶РёС…</text>
-  </string>
-  <string id="st_save_esc_first_actor_bridge_task">
-    <text>РїРѕ СЃР»РµРґР°Рј СЃС‚Р°Р»РєРµСЂР°</text>
-  </string>
-  <string id="st_save_esc_scientist_in_trouble_task">
-    <text>СѓС‡С‘РЅС‹Р№ РІ Р±РµРґРµ</text>
-  </string>
-  <string id="st_save_gar_military_task">
-    <text>РЅР° РђСЂРјРµР№СЃРєРёРµ СЃРєР»Р°РґС‹</text>
-  </string>
-  <string id="st_save_bar_mystical_dogs_task">
-    <text>РЅР° РїРѕРґС…РѕРґР°С…</text>
-  </string>
-  <string id="st_save_bar_prison_task_save">
-    <text>РїРѕР±РµРі</text>
-  </string>
-  <string id="st_save_second_bar_prison_task_save">
-    <text>РїРѕСЃС‚РѕРІС‹Рµ</text>
-  </string>
-  <string id="st_save_mil_search_unknowns_task">
-    <text>РїРѕРёСЃРєРё РЅРµРёР·РІРµСЃС‚РЅС‹С…</text>
-  </string>
-  <string id="st_save_mil_mercs_prison_task">
-    <text>РїР»РµРЅ РІ РїР»РµРЅСѓ</text>
-  </string>
-  <string id="st_save_mkat_battle_task">
-    <text>РєРѕСЂРѕР»РµРІСЃРєР°СЏ Р±РёС‚РІР°</text>
-  </string>
-  <string id="st_save_mil_after_katakomb_task">
-    <text>РґРµР»Рѕ Рє РєРѕРЅС†Сѓ</text>
-  </string>
-  <string id="st_save_mil_after_katakomb_trader_task">
-    <text>РЅРµРѕРїР»Р°С‡РµРЅРЅС‹Р№ РґРѕР»Рі</text>
-  </string>
-  <string id="st_save_mil_after_katakomb_trader_alternative_task">
-    <text>РјРµСЃС‚РЅС‹Р№ Р±Р°СЂС‹РіР°</text>
-  </string>
-  <string id="st_save_mil_after_katakomb_trader_sleep_task">
-    <text>РѕС‚РґС‹С…</text>
-  </string>
-  <string id="st_save_mil_plan_interception_task">
-    <text>РїР»Р°РЅ РїРµСЂРµС…РІР°С‚</text>
-  </string>
-  <string id="st_save_mil_village_prisoner_task">
-    <text>РїРѕРґРїРѕР»СЊРЅС‹Р№ РїР»РµРЅ</text>
-  </string>
-  <string id="st_save_mil_psy_helm_task">
-    <text>РїСЃРё-С€Р»РµРј</text>
-  </string>
-  <string id="st_save_second_mil_psy_helm_task">
-    <text>РЅР°Р№РґРµРЅС‹ РґРµС‚Р°Р»Рё</text>
-  </string>
-  <string id="st_save_mil_heli_final_task">
-    <text>Сѓ С†РµР»Рё</text>
-  </string>
-  <string id="st_save_mil_helicopter_defence_task">
-    <text>РїСЂРёРєСЂС‹С‚РёРµ</text>
-  </string>
-  <string id="st_save_mil_skylight_error_task">
-    <text>РЅРµРёСЃРїСЂР°РІРЅРѕСЃС‚Рё</text>
-  </string>
-  <string id="st_save_mlab_stalker_fate_task">
-    <text>СЃСѓРґСЊР±Р° СЃС‚Р°Р»РєРµСЂР°</text>
-  </string>
-  <string id="st_save_mlab_trials_task">
-    <text>РёСЃРїС‹С‚Р°РЅРёСЏ</text>
-  </string>
-  <string id="st_save_mlab_final_task">
-    <text>РїСЂРѕСЂС‹РІ</text>
-  </string>
-  <string id="st_save_second_mlab_final_task">
-    <text>РІС‹Р±РѕСЂ</text>
-  </string>
-  <string id="st_save_third_mlab_final_task">
-    <text>РґРѕРіРЅР°С‚СЊ Р”СѓР±РёРЅРёРЅР°</text>
-  </string>
-  <string id="st_save_nsp_freedom_meet_task">
-    <text>РѕС‚СЂСЏРґ В«РЎРІРѕР±РѕРґС‹В»</text>
-  </string>
-  <string id="st_save_nsp_freedom_bandits_task">
-    <text>РЅРµС„С‚РµР±Р°Р·Р°</text>
-  </string>
-  <string id="st_save_nsp_freedom_monster_task">
-    <text>Р±РѕР»СЊС€Р°СЏ РїСЂРѕР±Р»РµРјР°</text>
-  </string>
-  <string id="st_save_esc_composer_task">
-    <text>СЃС‚Р°СЂР°СЏ РіРІР°СЂРґРёСЏ</text>
-  </string>
-  <string id="st_save_esc_actor_provodnik_dialog_complete">
-    <text>РѕС‚РІРµСЃС‚Рё РЅРѕРІРёС‡РєРѕРІ РІ РґРµСЂРµРІРЅСЋ</text>
-  </string>
-  <string id="st_save_esc_composer_task_wait_time">
-    <text>Р¶РґР°С‚СЊ СѓРєР°Р·Р°РЅРёР№ РѕС‚ РЎРјС‹С€Р»РѕРІР°</text>
-  </string>
-  <string id="st_save_gar_stalker_nimble_wait_order_task">
-    <text>РѕСЃРѕР±С‹Р№ Р·Р°РєР°Р·</text>
-  </string>
-  <string id="st_save_esc_trader_notebook_task">
-    <text>СЂР°Р±РѕС‚Р° РїРѕ РјРµР»РѕС‡Рё</text>
-  </string>
-  <string id="st_save_val_stalker_technic_task">
-    <text>СЂР°РґРёРѕР»СЋР±РёС‚РµР»СЊ</text>
-  </string>
-  <string id="st_save_esc_stalker_liar_task">
-    <text>РЅРµРѕР±С‹С‡РЅС‹Р№ Р°СЂС‚РµС„Р°РєС‚</text>
-  </string>
-  <string id="st_save_esc_stalker_liar_task_art_good">
-    <text>Р°СЂС‚РµС„Р°РєС‚ Сѓ Р±СЂРµС…СѓРЅР°</text>
-  </string>
-  <string id="st_save_esc_stalker_liar_task_art_bad">
-    <text>Р±СЂРµС…СѓРЅ РІСЂР°Р¶РґРµР±РµРЅ</text>
-  </string>
-  <string id="st_save_bar_stalker_fireball_task">
-    <text>РёРіСЂР° СЃ РѕРіРЅС‘Рј</text>
-  </string>
-  <string id="st_save_bar_drunk_stalker_task">
-    <text>С‚Р°Р№РЅРёРє Р‘СѓС…РѕРіРѕ</text>
-  </string>
-  <string id="st_save_bar_drunk_stalker_task_second">
-    <text>СѓР·РЅР°С‚СЊ, С‡С‚Рѕ РїСЂРѕРёР·РѕС€Р»Рѕ</text>
-  </string>
-  <string id="st_save_bar_stalker_google_chrome_task">
-    <text>РіРµСЂРѕР№ РёР»Рё РїР°Р»Р°С‡</text>
-  </string>
-  <string id="st_save_gar_stalker_google_chrome_task_attack_scene">
-    <text>СѓР±РёС‚СЊ РѕС‚СЂСЏРґ РљРѕР±СЂС‹</text>
-  </string>
-  <string id="st_save_gar_stalker_medic_medic_final">
-    <text>РѕС‚Р±РёС‚СЊСЃСЏ РѕС‚ РјСѓС‚Р°РЅС‚РѕРІ</text>
-  </string>
-  <string id="st_save_yan_kill_xyecoc">
-    <text>СѓР±РёС‚СЊ Р±СЋСЂРµСЂР°</text>
-  </string>
-  <string id="st_save_esc_stalker_technic_toolkit_task_save">
-    <text>РїРѕРјРѕС‰СЊ РњРёС…Р°Р»С‹С‡Сѓ</text>
-  </string>
-  <string id="st_save_val_monster_scene_kill_xyecoyc">
-    <text>СѓР±РёС‚СЊ РјРѕРЅСЃС‚СЂР°</text>
-  </string>
-  <string id="st_save_gar_scientist_in_trouble_scene_complete">
-    <text>СЃРїР°СЃС‚Рё РљРѕРІР°Р»СЏ</text>
-  </string>
-  <string id="st_save_esc_composer_task_actor_check_corpses">
-    <text>РѕСЃРјРѕС‚СЂРµС‚СЊ РјРµСЃС‚Рѕ РіРёР±РµР»Рё СЃС‚Р°Р»РєРµСЂРѕРІ</text>
-  </string>
-  <string id="st_save_val_composer_task_stalker_leader_see_actor">
-    <text>РІСЃС‚СЂРµС‡Р° СЃ Р’РёР·РёСЂРµРј</text>
-  </string>
-  <string id="st_save_agr_composer_task_monsters_complete">
-    <text>РїРѕР·РёС†РёРё СѓРґРµСЂР¶Р°РЅС‹</text>
-  </string>
-  <string id="st_save_agr_composer_task_controller_part">
-    <text>РїСЂРѕРІРµСЃС‚Рё Р·Р°РјРµСЂС‹</text>
-  </string>
-  <string id="st_save_esc_composer_task_trader_psy_blockade">
-    <text>РІР·СЏС‚СЊ Сѓ РЎРёРґРѕСЂРѕРІРёС‡Р° РїСЂРµРїР°СЂР°С‚С‹</text>
-  </string>
-  <string id="st_save_esc_composer_task_scientist_wait_actor">
-    <text>СЃРѕРѕР±С‰РёС‚СЊ РЎРјС‹С€Р»РѕРІСѓ Рѕ РіРѕС‚РѕРІРЅРѕСЃС‚Рё</text>
-  </string>
-  <string id="st_save_esc_actor_stalker_sos_task">
-    <text>СЃС‚СЂР°РЅРЅС‹Р№ СЃРёРіРЅР°Р»</text>
-  </string>
-  <string id="st_save_agr_composer_task_final">
-    <text>РљСѓС‡Р° СѓС€С‘Р»</text>
-  </string>
-  <string id="st_save_labx18_polter_boss_death">
-    <text>РЈР‘РРў РџРћР›РўР•Р Р“Р•Р™РЎРў-Р›РР”Р•Р </text>
-  </string>
+
+	<string id="st_save_esc_trader_take_job">
+		<text>первые заработки</text>
+	</string>
+
+	<string id="st_save_esc_search_collector_arts">
+		<text>новая вылазка</text>
+	</string>
+
+	<string id="st_save_esc_arts_for_trader">
+		<text>артефакты для торговца</text>
+	</string>
+
+	<string id="st_save_esc_fatalities_army">
+		<text>погибшие в аномалии</text>
+	</string>
+
+	<string id="st_save_esc_fanat_logovo_start">
+		<text>старые знакомые</text>
+	</string>
+
+	<string id="st_save_esc_logovo_take_dinamit">
+		<text>логово мутантов</text>
+	</string>
+
+	<string id="st_save_esc_actor_repair_ar">
+		<text>первый автомат</text>
+	</string>
+
+	<string id="st_save_esc_mechanic_night_polters">
+		<text>странные свечения</text>
+	</string>
+
+	<string id="st_save_esc_trader_take_job_2">
+		<text>работа на Кордоне</text>
+	</string>
+
+	<string id="st_save_esc_scientists_task">
+		<text>слежка</text>
+	</string>
+	
+	<string id="st_save_second_esc_scientists_task">
+		<text>проследить за учёными</text>
+	</string>
+
+	<string id="st_save_esc_technic_inspect_object">
+		<text>странный прибор</text>
+	</string>
+
+	<string id="st_save_esc_defence_village">
+		<text>атака на деревню</text>
+	</string>
+
+	<string id="st_save_esc_technic_device_atp_task">
+		<text>работа на комбез</text>
+	</string>
+
+	<string id="st_save_esc_trader_fail_speak_jurok">
+		<text>друг не бросит</text>
+	</string>
+
+	<string id="st_save_esc_travel_task_provodnik">
+		<text>работа проводником</text>
+	</string>
+
+	<string id="st_save_esc_travel_robbery_speak">
+		<text>ограбление</text>
+	</string>
+
+	<string id="st_save_esc_travel_robbery_task">
+		<text>украденное добро</text>
+	</string>
+
+	<string id="st_save_esc_go_to_garbage">
+		<text>страх неизведанного</text>
+	</string>
+
+	<string id="st_save_esc_find_the_missing_stalker">
+		<text>мастера с Кордона</text>
+	</string>
+
+	<string id="st_save_esc_stalker_car_benzin_task">
+		<text>выгодное предложение</text>
+	</string>
+
+	<string id="st_save_esc_help_stalker_car">
+		<text>товарищ в беде</text>
+	</string>
+
+	<string id="st_save_esc_task_for_trailer">
+		<text>пропавший сталкер</text>
+	</string>
+
+	<string id="st_save_esc_task_for_trailer2">
+		<text>отправиться в деревню за помощью</text>
+	</string>
+
+	<string id="st_save_esc_task_for_trailer3">
+		<text>расстрелять стаю плотей</text>
+	</string>
+
+	<string id="st_save_gar_mishgan_attack_bandits">
+		<text>добить оставшихся бандитов</text>
+	</string>
+
+	<string id="st_save_gar_find_local_trader">
+		<text>торговец со Свалки</text>
+	</string>
+
+	<string id="st_save_gar_inspect_level">
+		<text>осмотреть окрестности</text>
+	</string>
+
+	<string id="st_save_gar_spend_desertir">
+		<text>дезертир</text>
+	</string>
+
+	<string id="st_save_gar_dyatlov_zastava_secret">
+		<text>тайна заставы Дятлова</text>
+	</string>
+
+	<string id="st_save_gar_duty_bandits_kill_task">
+		<text>помощь «Долгу»</text>
+	</string>
+
+	<string id="st_save_gar_speak_gamzat_save">
+		<text>местный лекарь</text>
+	</string>
+
+	<string id="st_save_gar_gamzat_task_hunt">
+		<text>опасная вылазка</text>
+	</string>
+
+	<string id="st_save_gar_restore_health_task">
+		<text>ранение</text>
+	</string>
+
+	<string id="st_save_gar_task_for_stalker_messenger">
+		<text>заманчивое предложение</text>
+	</string>
+
+	<string id="st_save_gar_to_meet_stalker_messenger">
+		<text>связной</text>
+	</string>
+
+	<string id="st_save_gar_known_stalker_messenger">
+		<text>мёртвый связной</text>
+	</string>
+
+	<string id="st_save_gar_meet_stalkers_for_agroprom_case">
+		<text>в поисках кода</text>
+	</string>
+
+	<string id="st_save_agr_agroprom_docs">
+		<text>кейс под замком</text>
+	</string>
+
+	<string id="st_save_agr_diggers_take_weapons">
+		<text>пушки</text>
+	</string>
+
+	<string id="st_save_agr_agroprom_docs_not_full">
+		<text>код от сейфа</text>
+	</string>
+
+	<string id="st_save_agr_agroprom_docs_new_attempt">
+		<text>война за кейс</text>
+	</string>
+
+	<string id="st_save_go_to_darkvalley">
+		<text>Тёмная Долина</text>
+	</string>
+
+	<string id="st_save_val_monster_factory_quest">
+		<text>чертовщина на заводе</text>
+	</string>
+
+	<string id="st_save_val_search_monster_quest">
+		<text>осмотр помещений</text>
+	</string>
+
+	<string id="st_save_val_case_with_stones">
+		<text>кейс с камнями</text>
+	</string>
+
+	<string id="st_save_val_job_in_the_darkvalley">
+		<text>работа в Долине</text>
+	</string>
+
+	<string id="st_save_val_labx18_inspect_level">
+		<text>подземная разведка</text>
+	</string>
+
+	<string id="st_save_val_task_farm">
+		<text>работа в бригаде</text>
+	</string>
+
+	<string id="st_save_val_labx18_boom">
+		<text>секретный вход</text>
+	</string>
+
+	<string id="st_save_labx18_map_treasure">
+		<text>исчезновение сталкера</text>
+	</string>
+
+	<string id="st_save_labx18_task_code">
+		<text>кодовая дверь</text>
+	</string>
+
+	<string id="st_save_esc_repair_nimble_rifle_1">
+		<text>уникальная «Гроза»</text>
+	</string>
+
+	<string id="st_save_esc_repair_nimble_rifle_2">
+		<text>материалы для Михалыча</text>
+	</string>
+
+	<string id="st_save_kat_primary_task">
+		<text>подземелья</text>
+	</string>
+
+	<string id="st_save_val_treasure_task">
+		<text>тайник «Свободы»</text>
+	</string>
+
+	<string id="st_save_start_speak_dolg">
+		<text>застава «Долга»</text>
+	</string>
+
+	<string id="st_save_gar_case_final_task">
+		<text>возвращение</text>
+	</string>
+
+	<string id="st_save_gar_stalker_medic_artefacts">
+		<text>повелитель монстров</text>
+	</string>
+
+	<string id="st_save_agru_diggers_robbery_search_weapon">
+		<text>в плену</text>
+	</string>
+
+	<string id="st_save_agr_stalker_help_sos_task">
+		<text>сигнал SOS</text>
+	</string>
+
+	<string id="st_save_agr_stalker_perch_task">
+		<text>опасные задания</text>
+	</string>
+
+	<string id="st_save_agr_scientists_base_scientist_task_start">
+		<text>встретиться с Дубининым</text>
+	</string>
+
+	<string id="st_save_agr_soldier_post_task">
+		<text>голодный постовой</text>
+	</string>
+
+	<string id="st_save_agr_drunk_medic_search">
+		<text>пьяный медик</text>
+	</string>
+
+	<string id="st_save_agr_scientific_job">
+		<text>научная работа</text>
+	</string>
+
+	<string id="st_save_agr_anomaly_scene_end">
+		<text>убить сталкеров</text>
+	</string>
+
+	<string id="st_save_agr_scientific_job_second">
+		<text>новые окрестности</text>
+	</string>
+
+	<string id="st_save_gar_drunk_medic_start_task">
+		<text>новый медик</text>
+	</string>
+
+	<string id="st_save_gar_drunk_medic_supplies_task">
+		<text>просьба</text>
+	</string>
+
+	<string id="st_save_esc_village_new_meet">
+		<text>старые друзья</text>
+	</string>
+
+	<string id="st_save_esc_strange_things">
+		<text>очень странные дела</text>
+	</string>
+
+	<string id="st_save_nsp_scientific_job_place_scanners">
+		<text>аномальная активность</text>
+	</string>
+
+	<string id="st_save_nsp_scientific_job_full">
+		<text>трансмутация</text>
+	</string>
+
+	<string id="st_save_nsp_mysterious_death">
+		<text>таинственная смерть</text>
+	</string>
+
+	<string id="st_save_nsp_village_gain_confidence">
+		<text>сканер в деревне</text>
+	</string>
+
+	<string id="st_save_nsp_suicide_stalker_treasure_task">
+		<text>хабар Коршуна</text>
+	</string>
+
+	<string id="st_save_nsp_scientific_job_generators">
+		<text>генераторы</text>
+	</string>
+
+	<string id="st_save_nsp_polter_scaner_task">
+		<text>полтергейст</text>
+	</string>
+
+	<string id="st_save_nsp_hunter_retrieve_scanner">
+		<text>охота</text>
+	</string>
+
+	<string id="st_save_nsp_hunter_retrieve_scanner_end">
+		<text>охота завершена</text>
+	</string>
+
+	<string id="st_save_nsp_brawl_task">
+		<text>заварушка</text>
+	</string>
+
+	<string id="st_save_nsp_general_boar_task">
+		<text>генерал Шток</text>
+	</string>
+
+	<string id="st_save_gar_start_bar_task">
+		<text>бар</text>
+	</string>
+
+	<string id="st_save_esc_jurok_drunk_task">
+		<text>ничего не меняется</text>
+	</string>
+
+	<string id="st_save_esc_technic_scientists_device_task">
+		<text>поручение техника</text>
+	</string>
+
+	<string id="st_save_esc_sweep_task">
+		<text>зачистка</text>
+	</string>
+
+	<string id="st_save_agr_colonel_task">
+		<text>командир вызывает</text>
+	</string>
+
+	<string id="st_save_agr_before_sending">
+		<text>перед отправкой</text>
+	</string>
+
+	<string id="st_save_nsp_musician_stalker_guitar_task">
+		<text>музыкант из Новошепеличей</text>
+	</string>
+
+	<string id="st_save_yan_start_task">
+		<text>озеро Янтарь</text>
+	</string>
+
+	<string id="st_save_yan_something_in_silence">
+		<text>нечто в тишине</text>
+	</string>
+
+	<string id="st_save_yan_someone_alive">
+		<text>выживший</text>
+	</string>
+
+	<string id="st_save_yan_missing_koval">
+		<text>пропажа</text>
+	</string>
+
+	<string id="st_save_yan_collect_info">
+		<text>сбор информации</text>
+	</string>
+
+	<string id="st_save_yan_labx16_task">
+		<text>пролом</text>
+	</string>
+
+	<string id="st_save_yan_labx16_second_task">
+		<text>в западне</text>
+	</string>
+
+	<string id="st_save_yan_mysterious_stranger_task">
+		<text>загадочный незнакомец</text>
+	</string>
+
+	<string id="st_save_yan_source_of_interference">
+		<text>источник помех</text>
+	</string>
+
+	<string id="st_save_yan_final_task">
+		<text>гонец правосудия</text>
+	</string>
+
+	<string id="st_save_bar_duty_territory">
+		<text>территория «Долга»</text>
+	</string>
+
+	<string id="st_save_bar_stalker_asshole_task">
+		<text>бандитские дебри</text>
+	</string>
+
+	<string id="st_save_bar_after_robbery">
+		<text>после отключки</text>
+	</string>
+
+	<string id="st_save_bar_duty_help_present">
+		<text>необычная просьба</text>
+	</string>
+
+	<string id="st_save_bar_bandits_treasure_task">
+		<text>награбленное</text>
+	</string>
+
+	<string id="st_save_bar_after_robbery_box">
+		<text>личное</text>
+	</string>
+
+	<string id="st_save_agr_after_yantar_task">
+		<text>пробуждение</text>
+	</string>
+
+	<string id="st_save_agr_scientist_boss_info_task">
+		<text>на ковёр</text>
+	</string>
+
+	<string id="st_save_agr_scientist_boss_search_task">
+		<text>пропавший учёный</text>
+	</string>
+
+	<string id="st_save_val_bandits_base_passage_task">
+		<text>всё ради цели</text>
+	</string>
+
+	<string id="st_save_val_prison_task">
+		<text>бандитские дебри</text>
+	</string>
+
+	<string id="st_save_agr_tonnel_dogs_task">
+		<text>нападение собак</text>
+	</string>
+
+	<string id="st_save_esc_visit_trader_task">
+		<text>чужой среди чужих</text>
+	</string>
+
+	<string id="st_save_esc_first_actor_bridge_task">
+		<text>по следам сталкера</text>
+	</string>
+
+	<string id="st_save_esc_scientist_in_trouble_task">
+		<text>учёный в беде</text>
+	</string>
+
+	<string id="st_save_gar_military_task">
+		<text>на Армейские склады</text>
+	</string>
+
+	<string id="st_save_bar_mystical_dogs_task">
+		<text>на подходах</text>
+	</string>
+
+	<string id="st_save_bar_prison_task_save">
+		<text>побег</text>
+	</string>
+
+	<string id="st_save_second_bar_prison_task_save">
+		<text>постовые</text>
+	</string>
+
+	<string id="st_save_mil_search_unknowns_task">
+		<text>поиски неизвестных</text>
+	</string>
+
+	<string id="st_save_mil_mercs_prison_task">
+		<text>плен в плену</text>
+	</string>
+
+	<string id="st_save_mkat_battle_task">
+		<text>королевская битва</text>
+	</string>
+
+	<string id="st_save_mil_after_katakomb_task">
+		<text>дело к концу</text>
+	</string>
+
+	<string id="st_save_mil_after_katakomb_trader_task">
+		<text>неоплаченный долг</text>
+	</string>
+
+	<string id="st_save_mil_after_katakomb_trader_alternative_task">
+		<text>местный барыга</text>
+	</string>
+
+	<string id="st_save_mil_after_katakomb_trader_sleep_task">
+		<text>отдых</text>
+	</string>
+
+	<string id="st_save_mil_plan_interception_task">
+		<text>план перехват</text>
+	</string>
+
+	<string id="st_save_mil_village_prisoner_task">
+		<text>подпольный плен</text>
+	</string>
+
+	<string id="st_save_mil_psy_helm_task">
+		<text>пси-шлем</text>
+	</string>
+	
+	<string id="st_save_second_mil_psy_helm_task">
+		<text>найдены детали</text>
+	</string>
+
+	<string id="st_save_mil_heli_final_task">
+		<text>у цели</text>
+	</string>
+
+	<string id="st_save_mil_helicopter_defence_task">
+		<text>прикрытие</text>
+	</string>
+
+	<string id="st_save_mil_skylight_error_task">
+		<text>неисправности</text>
+	</string>
+
+	<string id="st_save_mlab_stalker_fate_task">
+		<text>судьба сталкера</text>
+	</string>
+
+	<string id="st_save_mlab_trials_task">
+		<text>испытания</text>
+	</string>
+
+	<string id="st_save_mlab_final_task">
+		<text>прорыв</text>
+	</string>
+
+	<string id="st_save_second_mlab_final_task">
+		<text>выбор</text>
+	</string>
+
+	<string id="st_save_third_mlab_final_task">
+		<text>догнать Дубинина</text>
+	</string>
+
+	<string id="st_save_nsp_freedom_meet_task">
+		<text>отряд «Свободы»</text>
+	</string>
+
+	<string id="st_save_nsp_freedom_bandits_task">
+		<text>нефтебаза</text>
+	</string>
+
+	<string id="st_save_nsp_freedom_monster_task">
+		<text>большая проблема</text>
+	</string>
+
+	<string id="st_save_esc_composer_task">
+		<text>старая гвардия</text>
+	</string>	
+
+	<string id="st_save_esc_actor_provodnik_dialog_complete">
+		<text>отвести новичков в деревню</text>
+	</string>
+
+	<string id="st_save_esc_composer_task_wait_time">
+		<text>ждать указаний от Смышлова</text>
+	</string>
+
+	<string id="st_save_gar_stalker_nimble_wait_order_task">
+		<text>особый заказ</text>
+	</string>
+
+	<string id="st_save_esc_trader_notebook_task">
+		<text>работа по мелочи</text>
+	</string>
+
+	<string id="st_save_val_stalker_technic_task">
+		<text>радиолюбитель</text>
+	</string>
+
+	<string id="st_save_esc_stalker_liar_task">
+		<text>необычный артефакт</text>
+	</string>
+
+	<string id="st_save_esc_stalker_liar_task_art_good">
+		<text>артефакт у брехуна</text>
+	</string>
+
+	<string id="st_save_esc_stalker_liar_task_art_bad">
+		<text>брехун враждебен</text>
+	</string>
+
+	<string id="st_save_bar_stalker_fireball_task">
+		<text>игра с огнём</text>
+	</string>
+
+	<string id="st_save_bar_drunk_stalker_task">
+		<text>тайник Бухого</text>
+	</string>
+
+	<string id="st_save_bar_drunk_stalker_task_second">
+		<text>узнать, что произошло</text>
+	</string>
+
+	<string id="st_save_bar_stalker_google_chrome_task">
+		<text>герой или палач</text>
+	</string>
+
+	<string id="st_save_gar_stalker_google_chrome_task_attack_scene">
+		<text>убить отряд Кобры</text>
+	</string>
+
+	<string id="st_save_gar_stalker_medic_medic_final">
+		<text>отбиться от мутантов</text>
+	</string>
+
+	<string id="st_save_yan_kill_xyecoc">
+		<text>убить бюрера</text>
+	</string>
+
+	<string id="st_save_esc_stalker_technic_toolkit_task_save">
+		<text>помощь Михалычу</text>
+	</string>
+
+	<string id="st_save_val_monster_scene_kill_xyecoyc">
+		<text>убить монстра</text>
+	</string>
+
+	<string id="st_save_gar_scientist_in_trouble_scene_complete">
+		<text>спасти Коваля</text>
+	</string>
+
+	<string id="st_save_esc_composer_task_actor_check_corpses">
+		<text>осмотреть место гибели сталкеров</text>
+	</string>
+
+	<string id="st_save_val_composer_task_stalker_leader_see_actor">
+		<text>встреча с Визирем</text>
+	</string>
+
+	<string id="st_save_agr_composer_task_monsters_complete">
+		<text>позиции удержаны</text>
+	</string>
+
+	<string id="st_save_agr_composer_task_controller_part">
+		<text>провести замеры</text>
+	</string>
+
+	<string id="st_save_esc_composer_task_trader_psy_blockade">
+		<text>взять у Сидоровича препараты</text>
+	</string>
+
+	<string id="st_save_esc_composer_task_scientist_wait_actor">
+		<text>сообщить Смышлову о готовности</text>
+	</string>
+
+	<string id="st_save_esc_actor_stalker_sos_task">
+		<text>странный сигнал</text>
+	</string>
+
+	<string id="st_save_agr_composer_task_final">
+		<text>Куча ушёл</text>
+	</string>
+
+	<string id="st_save_labx18_polter_boss_death">
+		<text>УБИТ ПОЛТЕРГЕЙСТ-ЛИДЕР</text>
+	</string>
+
 </string_table>

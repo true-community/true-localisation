@@ -1,84 +1,112 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="st_kat_bandits_1_bandit_1_start">
-    <text>РќР°Р№РґС‘Рј вЂ” РЅР° РјРµС…Р° РїРѕСЂРµР¶РµРј!</text>
-  </string>
-  <string id="st_kat_bandits_1_bandit_1_second">
-    <text>РћРї, РјС‹ С‚РµР±Рµ С‰Р°\nРєСЂРѕРІСЏРЅРѕС‡РєСѓ-С‚Рѕ РїСѓСЃС‚РёРј!</text>
-  </string>
-  <string id="st_kat_bandits_1_bandit_1_actor_search">
-    <text>Р­Р№, Р±Р°РєР»Р°РЅ,\nСЂР°Р·РіРѕРІРѕСЂ РµСЃС‚СЊ. Р’С‹С…РѕРґРё!</text>
-  </string>
-  <string id="st_kat_bandits_2_bandit_1_actor_hello">
-    <text>РЎРјРѕС‚СЂРёС‚Рµ, РєС‚Рѕ Рє РЅР°Рј\nРєРѕР»С‘СЃР° РєР°С‚РёС‚!</text>
-  </string>
-  <string id="st_kat_boss_angry_1">
-    <text>РЈР±РёСЂР°Р№С‚РµСЃСЊ,\nСѓР±РёСЂР°Р№С‚РµСЃСЊ РІСЃРµ РѕС‚СЃСЋРґР°!</text>
-  </string>
-  <string id="st_kat_boss_angry_2">
-    <text>РЇ СЃРєР°Р·Р°Р», СѓР±РёСЂР°Р№С‚РµСЃСЊ!</text>
-  </string>
-  <string id="st_kat_boss_start">
-    <text>РЈС…РѕРґРё РѕС‚СЃСЋРґР°, РјСѓР¶РёРє.</text>
-  </string>
-  <string id="st_kat_boss_threatens_1">
-    <text>РќРµ С‚СЂРѕРіР°Р№ РёС…,\nРёР»Рё СЏ РєРёС€РєРё С‚РµР±Рµ РІС‹РїСѓС‰Сѓ!</text>
-  </string>
-  <string id="st_kat_boss_threatens_2">
-    <text>РўС‹ С‚РѕР¶Рµ СЃРєРѕСЂРѕ СЃРґРѕС…РЅРµС€СЊ.</text>
-  </string>
-  <string id="st_kat_boss_threatens_3">
-    <text>Р—СЂСЏ. Р—СЂСЏ С‚С‹ СЃСЋРґР° Р·Р°Р»РµР·.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_1">
-    <text>РљСѓРґР° РЅРё РїРѕР№РґРё, РєР°Р¶РґС‹Р№ СЂР°Р· РІРѕР·СЂР°С‰Р°РµС€СЊСЃСЏ РЅР° РѕРґРЅРѕ Рё С‚Рѕ Р¶Рµ РјРµСЃС‚Рѕ.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_2">
-    <text>РўСѓРјР°РЅ СЌС‚РѕС‚ С‡С‘СЂС‚РѕРІ. РџСЂРёРІС‹РєРЅСѓС‚СЊ РЅРµРІРѕР·РјРѕР¶РЅРѕ.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_3">
-    <text>Р§РµРїСѓСЂРЅРѕР№ РёСЃС‡РµР·, Рё СЃ РєРѕРЅС†Р°РјРё. РЎС‚СЂР°РЅРЅРѕ. РњРѕР¶РµС‚, РЅР°С€С‘Р» РІС‹С…РѕРґ?</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_4">
-    <text>РЁРµСЃС‚РѕР№ РґРµРЅСЊ. Р’РѕРґР° РІС‹С€Р»Р° РІСЃСЏ.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_5">
-    <text>Рђ РїРѕР»РєРѕРІРЅРёРє СЃРІРёС…РЅСѓР»СЃСЏ: РґРІРѕРёС… СЂР°СЃСЃС‚СЂРµР»СЏР» Рё СЃРµР±Рµ РїСѓР»СЋ РІ Р»РѕР±.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_6">
-    <text>РЇ С‚РµРїРµСЂСЊ РѕРґРёРЅ.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_7">
-    <text>РћРґРёРЅ РІРЅСѓС‚СЂРё СЌС‚РѕР№ РґРѕР»Р±Р°РЅРѕР№ Р°РЅРѕРјР°Р»РёРё.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_8">
-    <text>Р РґС‘СЂРЅСѓР»Рѕ Р¶Рµ РјРµРЅСЏ СѓСЃС‚СЂРѕРёС‚СЊ РѕР±СЂС‹РІ СЃРІСЏР·Рё СЃРѕ С€С‚Р°Р±РѕРј.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_9">
-    <text>РњРѕРіР»Рё Р±С‹ Р·Р°Р±СЂР°С‚СЊ, Р°? РџРµРЅСЃРёСЏ, РґР°С‡Р°, СЂС‹Р±Р°Р»РєР°...</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_10">
-    <text>Р РЅРµ Р±С‹Р»Рѕ Р±С‹ РЅРёРєР°РєРѕРіРѕ В«Р”РѕР»РіР°В».</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_11">
-    <text>Рђ РїСЂР°РІРґР°, РёРЅС‚РµСЂРµСЃРЅРѕ, РєР°Рє Р±С‹ РІСЃС‘ РїРѕРІРµСЂРЅСѓР»РѕСЃСЊ.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_12">
-    <text>РўРѕР»СЊРєРѕ Рє С‡С‘СЂС‚Сѓ. РљР°РїРёС‚Р°РЅ РўР°С‡РµРЅРєРѕ СѓР¶Рµ РјС‘СЂС‚РІС‹Р№ РґР°РІРЅРѕ.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_13">
-    <text>Рђ РіРµРЅРµСЂР°Р» В«Р”РѕР»РіР°В» РўР°С‡РµРЅРєРѕ СЃРµР№С‡Р°СЃ СѓР№РґС‘С‚. РЎРєРѕСЂРѕ.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_14">
-    <text>Р’ РІРµСЂС…РЅСЋСЋ С‚СѓРЅРґСЂСѓ, РјР°С‚СЊ РµС‘.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_15">
-    <text>Р’ РјРµСЃС‚Р°, Р±РѕРіР°С‚С‹Рµ РґРёС‡СЊСЋ.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_16">
-    <text>РўР°РєР°СЏ РІРѕС‚ СЃРїСЂР°РІРµРґР»РёРІРѕСЃС‚СЊ.</text>
-  </string>
-  <string id="st_kat_duty_leader_pda_record_17_cc">
-    <text>[РІС‹СЃС‚СЂРµР»]</text>
-  </string>
+
+	<string id="st_kat_bandits_1_bandit_1_start">
+		<text>Найдём — на меха порежем!</text>
+	</string>
+
+	<string id="st_kat_bandits_1_bandit_1_second">
+		<text>Оп, мы тебе ща\nкровяночку-то пустим!</text>
+	</string>
+
+	<string id="st_kat_bandits_1_bandit_1_actor_search">
+		<text>Эй, баклан,\nразговор есть. Выходи!</text>
+	</string>
+
+	<string id="st_kat_bandits_2_bandit_1_actor_hello">
+		<text>Смотрите, кто к нам\nколёса катит!</text>
+	</string>
+
+	<string id="st_kat_boss_angry_1">
+		<text>Убирайтесь,\nубирайтесь все отсюда!</text>
+	</string>
+	
+	<string id="st_kat_boss_angry_2">
+		<text>Я сказал, убирайтесь!</text>
+	</string>
+
+	<string id="st_kat_boss_start">
+		<text>Уходи отсюда, мужик.</text>
+	</string>
+
+	<string id="st_kat_boss_threatens_1">
+		<text>Не трогай их,\nили я кишки тебе выпущу!</text>
+	</string>
+
+	<string id="st_kat_boss_threatens_2">
+		<text>Ты тоже скоро сдохнешь.</text>
+	</string>
+
+	<string id="st_kat_boss_threatens_3">
+		<text>Зря. Зря ты сюда залез.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_1">
+		<text>Куда ни пойди, каждый раз возращаешься на одно и то же место.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_2">
+		<text>Туман этот чёртов. Привыкнуть невозможно.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_3">
+		<text>Чепурной исчез, и с концами. Странно. Может, нашёл выход?</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_4">
+		<text>Шестой день. Вода вышла вся.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_5">
+		<text>А полковник свихнулся: двоих расстрелял и себе пулю в лоб.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_6">
+		<text>Я теперь один.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_7">
+		<text>Один внутри этой долбаной аномалии.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_8">
+		<text>И дёрнуло же меня устроить обрыв связи со штабом.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_9">
+		<text>Могли бы забрать, а? Пенсия, дача, рыбалка...</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_10">
+		<text>И не было бы никакого «Долга».</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_11">
+		<text>А правда, интересно, как бы всё повернулось.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_12">
+		<text>Только к чёрту. Капитан Таченко уже мёртвый давно.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_13">
+		<text>А генерал «Долга» Таченко сейчас уйдёт. Скоро.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_14">
+		<text>В верхнюю тундру, мать её.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_15">
+		<text>В места, богатые дичью.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_16">
+		<text>Такая вот справедливость.</text>
+	</string>
+
+	<string id="st_kat_duty_leader_pda_record_17_cc">
+		<text>[выстрел]</text>
+	</string>
+
 </string_table>

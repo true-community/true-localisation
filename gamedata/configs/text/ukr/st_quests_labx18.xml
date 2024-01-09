@@ -1,94 +1,133 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
-  <string id="labx18_inspect_level">
-    <text>РџР†Р”Р—Р•РњРќРђ Р РћР—Р’Р†Р”РљРђ</text>
-  </string>
-  <string id="labx18_inspect_level_start_down_name">
-    <text>РЎРїСѓСЃС‚РёС‚РёСЃСЏ Р· Р±Р°РЅРґРёС‚Р°РјРё РІ Р»Р°Р±РѕСЂР°С‚РѕСЂС–СЋ РҐ-18</text>
-  </string>
-  <string id="labx18_inspect_level_start_down_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ СЂРѕР·РІС–РґР°С‚Рё РѕР±СЃС‚Р°РІРёРЅРё РІ РїС–РґР·РµРјРЅС–Р№ Р»Р°Р±РѕСЂР°С‚РѕСЂС–С— РҐ-18 С–Р· Р·Р°РіРѕРЅРѕРј Р±Р°РЅРґРёС‚С–РІ С– РґРѕРїРѕРІС–СЃС‚Рё РўСЂСѓС…Р»СЏСЋ.</text>
-  </string>
-  <string id="labx18_map_treasure">
-    <text>Р—РќРРљРќР•РќРќРЇ РЎРўРђР›РљР•Р Рђ</text>
-  </string>
-  <string id="labx18_map_treasure_search_stalker_name">
-    <text>Р—РЅР°Р№С‚Рё РјР°Р№СЃС‚СЂР° Р¶РёРІРёРј Р°Р±Рѕ РјРµСЂС‚РІРёРј</text>
-  </string>
-  <string id="labx18_map_treasure_search_stalker_text">
-    <text>РўСЂСѓС…Р»СЏР№ РєР°Р·Р°РІ, С‰Рѕ РѕРґРёРЅ С–Р· РґРѕСЃРІС–РґС‡РµРЅРёС… СЃС‚Р°Р»РєРµСЂС–РІ Р·РЅРёРє РґРµСЃСЊ Сѓ X-18. РњРѕР¶Рµ, Сѓ РјРµРЅРµ РІРёР№РґРµ РЅР°С€С‚РѕРІС…РЅСѓС‚РёСЃСЏ РЅР° РЅСЊРѕРіРѕ. РђР±Рѕ РЅР° Р№РѕРіРѕ С‚СЂСѓРї...</text>
-  </string>
-  <string id="labx18_map_treasure_check_new_location_name">
-    <text>РџРµСЂРµРІС–СЂРёС‚Рё РјС–СЃС†Рµ, РІС–РґР·РЅР°С‡РµРЅРµ РЅР° РєР°СЂС‚С–</text>
-  </string>
-  <string id="labx18_map_treasure_check_new_location_text">
-    <text>РЈ С‚СЂСѓРїС– СЃС‚Р°Р»РєРµСЂР°-РјР°Р¶РѕСЂР° Р·РЅР°Р№С€РѕРІ РєР°СЂС‚Сѓ Р· РїРѕР·РЅР°С‡РєРѕСЋ. Р†РјРѕРІС–СЂРЅРѕ, С†Рµ РјС–СЃС†Рµ СЏРєРѕСЃСЊ РїРѕРІ'СЏР·Р°РЅРµ Р· СѓРіСЂСѓРїРѕРІР°РЅРЅСЏРј В«Р’РѕР»СЏВ». РџРѕС‚СЂС–Р±РЅРѕ С‚СѓРґРё СЃС…РѕРґРёС‚Рё. РћСЃСЊ С‚С–Р»СЊРєРё РјС–СЃС†Рµ Р·РЅР°С…РѕРґРёС‚СЊСЃСЏ РЅР° С‚РµСЂРёС‚РѕСЂС–С— Р±Р°Р·Рё Р±Р°РЅРґРёС‚С–РІ...</text>
-  </string>
-  <string id="labx18_inspect_level_start_name"><text>РћРіР»СЏРЅСѓС‚Рё Р»Р°Р±РѕСЂР°С‚РѕСЂС–СЋ Р· Р±Р°РЅРґРёС‚Р°РјРё</text>.
+
+	<string id="labx18_inspect_level">
+		<text>ПІДЗЕМНА РОЗВІДКА</text>
 	</string>
-  <string id="labx18_inspect_level_start_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ РїРµСЂРµРІС–СЂРёС‚Рё Р»Р°Р±РѕСЂР°С‚РѕСЂС–СЋ СЂР°Р·РѕРј Р· Р±Р°РЅРґРёС‚Р°РјРё.</text>
-  </string>
-  <string id="labx18_inspect_level_kill_monsters_name">
-    <text> Р РѕР·С–Р±СЂР°С‚РёСЃСЏ Р· РјСѓС‚Р°РЅС‚Р°РјРё</text>
-  </string>
-  <string id="labx18_inspect_level_kill_monsters_text">
-    <text>Р”Р»СЏ РїРѕРґР°Р»СЊС€РѕРіРѕ РїСЂРѕСЃСѓРІР°РЅРЅСЏ РїРѕ Р»Р°Р±РѕСЂР°С‚РѕСЂС–С— РЅРµРѕР±С…С–РґРЅРѕ РїРѕР·Р±СѓС‚РёСЃСЏ РјСѓС‚Р°РЅС‚С–РІ.</text>
-  </string>
-  <string id="labx18_inspect_level_speak_bandit_name">
-    <text>РџРѕРіРѕРІРѕСЂРёС‚Рё Р· Р±Р°РЅРґРёС‚РѕРј</text>
-  </string>
-  <string id="labx18_inspect_level_speak_bandit_text">
-    <text>РњР°СЃРѕР» С‡РёРјРѕСЃСЊ СЃС‚СЂРёРІРѕР¶РµРЅРёР№ РїС–СЃР»СЏ Р°С‚Р°РєРё РјСѓС‚Р°РЅС‚С–РІ. РџРѕС‚СЂС–Р±РЅРѕ РѕРіРѕРІРѕСЂРёС‚Рё РґРµС‚Р°Р»С– РґР»СЏ РїРѕРґР°Р»СЊС€РѕРіРѕ РїСЂРѕСЃСѓРІР°РЅРЅСЏ.</text>
-  </string>
-  <string id="labx18_inspect_level_alone_name"><text>РћРіР»СЏРЅСѓС‚Рё РІСЃС– СЂС–РІРЅС– РҐ-18 РїРѕРѕРґРёРЅС†С–</text>.
+
+	<string id="labx18_inspect_level_start_down_name">
+		<text>Спуститися з бандитами в лабораторію Х-18</text>
 	</string>
-  <string id="labx18_inspect_level_alone_one_text">
-    <text>РўР°Рє С– Р·РЅР°РІ, С‰Рѕ РЅРµ РјРѕР¶РЅР° Р· Р±Р°РЅРґРёС‚Р°РјРё СЃРїСЂР°РІ РјР°С‚Рё. Р”СѓСЂРµРЅСЊ, Рѕ РґСѓСЂРµРЅСЊ! Рђ С†С– СЃРєРѕС‚Рё С‰Рµ РѕС‚СЂРёРјР°СЋС‚СЊ СЃРІРѕС” вЂ” СЏ-С‚Рѕ Р¶ СѓР¶Рµ Р·РЅР°Р№РґСѓ СЃРїРѕСЃС–Р± С—Рј РЅР°СЃРѕР»РёС‚Рё.</text>
-  </string>
-  <string id="labx18_inspect_level_alone_two_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ Р±СѓР»Рѕ РґРѕРїРѕРјРѕРіС‚Рё Р±Р°РЅРґРёС‚Р°Рј СЂРѕР·С–Р±СЂР°С‚РёСЃСЏ Р· РјСѓС‚Р°РЅС‚Р°РјРё, Р°Р»Рµ С‚Р° РіР°СЂР°Р·Рґ. РџС–РґСѓ РѕРіР»СЏРЅСѓ Р»Р°Р±РѕСЂР°С‚РѕСЂС–СЋ, РІРѕРЅРё РїРѕРІРёРЅРЅС– РІРїРѕСЂР°С‚РёСЃСЏ. РЎСѓРјРЅС–РІРЅРѕ, С‰Рѕ РІРѕРЅРё Р± РїС–С€Р»Рё Р·С– РјРЅРѕСЋ.</text>
-  </string>
-  <string id="labx18_inspect_level_alone_three_text">
-    <text>РњСѓС‚Р°РЅС‚Рё РІР±РёС‚С–. РџС–РґСѓ РїРѕРґРёРІР»СЋСЃСЏ, С‰Рѕ РєРѕС—С‚СЊСЃСЏ РЅР° РЅРёР¶РЅС–С… РїРѕРІРµСЂС…Р°С…. Р“Р°РґР°СЋ, С†СЏ РіРѕРїРѕС‚Р° РЅР°РІСЂСЏРґ С‡Рё Р± Р·С– РјРЅРѕСЋ РїС–С€Р»Р° вЂ” РїС–РґРѕР·СЂС–Р»С– РІРѕРЅРё СЏРєС–СЃСЊ.</text>
-  </string>
-  <string id="labx18_inspect_level_kill_monster_name">
-    <text>Р—РЅРёС‰РёС‚Рё РјРѕРЅСЃС‚СЂР°</text>
-  </string>
-  <string id="labx18_inspect_level_kill_monster_text">
-    <text>Р—РґР°С”С‚СЊСЃСЏ, С†Рµ С‚Р°РєР° СЃР°РјР° С‚РІР°СЂСЋРєР°, СЏРєСѓ РјРё РІР±РёР»Рё РЅР° РїРѕРІРµСЂС…РЅС–. Р”Р°Р№ Р‘РѕРі РјРµРЅС– РѕРґРЅРѕРјСѓ Р· РЅРµСЋ РІРїРѕСЂР°С‚РёСЃСЏ...</text>
-  </string>
-  <string id="labx18_inspect_level_go_back_name"><text>РџРѕРІРµСЂРЅСѓС‚РёСЃСЏ РЅР° РїРѕРІРµСЂС…РЅСЋ</text>.
+
+	<string id="labx18_inspect_level_start_down_text">
+		<text>Потрібно розвідати обставини в підземній лабораторії Х-18 із загоном бандитів і доповісти Трухляю.</text>
 	</string>
-  <string id="labx18_inspect_level_go_back_text">
-    <text>РўРІР°СЂСЋРєСѓ Р·РЅРёС‰РµРЅРѕ. Р§Р°СЃ РїРѕРІРµСЂС‚Р°С‚РёСЃСЏ РЅР°РіРѕСЂСѓ.</text>
-  </string>
-  <string id="labx18_inspect_level_go_back_two_text">
-    <text>Р©Рµ Р№ РЎРІРѕР±РѕРґС–РІРµС†СЊ СЏРєРёР№СЃСЊ РЅР° РјРµРЅРµ РЅР°РїР°РІ! РџРѕСЂР° РЅР°СЂРµС€С‚С– РІР°Р»РёС‚Рё Р·РІС–РґСЃРё РґРѕ Р±С–СЃРѕРІРѕС— РјР°С‚РµСЂС–...</text>
-  </string>
-  <string id="labx18_inspect_level_search_corpse_name"><text>РћС€СѓРєР°С‚Рё С‚СЂСѓРї РЅРµРІС–РґРѕРјРѕРіРѕ</text>.
+
+	<string id="labx18_map_treasure">
+		<text>ЗНИКНЕННЯ СТАЛКЕРА</text>
 	</string>
-  <string id="labx18_inspect_level_search_corpse_text">
-    <text>РќР° РјРµРЅРµ РЅР°РїР°РІ СЃС‚Р°Р»РєРµСЂ. РЎС…РѕР¶РёР№ РЅР°... РЎРІРѕР±РѕРґС–РІС†СЏ? РџРѕС‚СЂС–Р±РЅРѕ Р№РѕРіРѕ РѕС€СѓРєР°С‚Рё.</text>
-  </string>
-  <string id="labx18_inspect_level_speak_bandit_desertir_name">
-    <text>Р РѕР·РїРѕРІС–СЃС‚Рё РўСЂСѓС…Р»СЏСЋ РїСЂРѕ С‚Рµ, С‰Рѕ СЃС‚Р°Р»РѕСЃСЏ</text>
-  </string>
-  <string id="labx18_inspect_level_speak_bandit_desertir_text">
-    <text>РќР°СЂРµС€С‚С– СЏ РІРёР±СЂР°РІСЃСЏ, РЅР°СЃС‚Р°РІ С‡Р°СЃ РЅР°РІС–РґР°С‚РёСЃСЏ РґРѕ РўСЂСѓС…Р»СЏСЏ Р· РЅРѕРІРёРЅР°РјРё, РЅРµС…Р°Р№ С– РЅРµ РґСѓР¶Рµ РґРѕР±СЂРёРјРё...</text>
-  </string>
-  <string id="labx18_task_code">
-    <text>РљРћР”РћР’Р† Р”Р’Р•Р Р†</text>
-  </string>
-  <string id="labx18_task_code_search_name">
-    <text>Р—РЅР°Р№С‚Рё РєРѕРґ РІС–Рґ РґРІРµСЂРµР№</text>
-  </string>
-  <string id="labx18_task_code_search_text">
-    <text>РџРѕС‚СЂС–Р±РЅРѕ РґС–Р·РЅР°С‚РёСЃСЏ, С‰Рѕ Р·РЅР°С…РѕРґРёС‚СЊСЃСЏ Р·Р° Р·Р°С‡РёРЅРµРЅРёРјРё РґРІРµСЂРёРјР°. РњРѕР¶Рµ, РІРёР№РґРµ Р·РЅР°Р№С‚Рё РєРѕРґ. РџСЂРѕР№РґСѓСЃСЏ С‰Рµ С‚СЂРѕС…Рё.</text>
-  </string>
-  <string id="labx18_task_code_open_door_name"><text>РџРѕС‚СЂР°РїРёС‚Рё РІ СЃСѓСЃС–РґРЅС” РїСЂРёРјС–С‰РµРЅРЅСЏ</text>.
+
+	<string id="labx18_map_treasure_search_stalker_name">
+		<text>Знайти майстра живим або мертвим</text>
 	</string>
-  <string id="labx18_task_code_open_door_text">
-    <text>РљРѕРґ Сѓ РјРµРЅРµ. Р§Р°СЃ РїРµСЂРµРІС–СЂРёС‚Рё, С‰Рѕ Р¶ Р·РЅР°С…РѕРґРёС‚СЊСЃСЏ Р·Р° С‚РёРјРё РґРІРµСЂРёРјР°.</text>
-  </string>
+
+	<string id="labx18_map_treasure_search_stalker_text">
+		<text>Трухляй казав, що один із досвідчених сталкерів зник десь у X-18. Може, у мене вийде наштовхнутися на нього. Або на його труп...</text>
+	</string>
+
+	<string id="labx18_map_treasure_check_new_location_name">
+		<text>Перевірити місце, відзначене на карті</text>
+	</string>
+
+	<string id="labx18_map_treasure_check_new_location_text">
+		<text>У трупі сталкера-мажора знайшов карту з позначкою. Імовірно, це місце якось пов'язане з угрупованням «Воля». Потрібно туди сходити. Ось тільки місце знаходиться на території бази бандитів...</text>
+	</string>
+
+	<string id="labx18_inspect_level_start_name">
+		<text>Оглянути лабораторію з бандитами</text>.
+	</string>
+
+	<string id="labx18_inspect_level_start_text">
+		<text>Потрібно перевірити лабораторію разом з бандитами.</text>
+	</string>
+
+	<string id="labx18_inspect_level_kill_monsters_name">
+		<text> Розібратися з мутантами</text>
+	</string>
+
+	<string id="labx18_inspect_level_kill_monsters_text">
+		<text>Для подальшого просування по лабораторії необхідно позбутися мутантів.</text>
+	</string>
+
+	<string id="labx18_inspect_level_speak_bandit_name">
+		<text>Поговорити з бандитом</text>
+	</string>
+
+	<string id="labx18_inspect_level_speak_bandit_text">
+		<text>Масол чимось стривожений після атаки мутантів. Потрібно оговорити деталі для подальшого просування.</text>
+	</string>
+
+	<string id="labx18_inspect_level_alone_name">
+		<text>Оглянути всі рівні Х-18 поодинці</text>.
+	</string>
+
+	<string id="labx18_inspect_level_alone_one_text">
+		<text>Так і знав, що не можна з бандитами справ мати. Дурень, о дурень! А ці скоти ще отримають своє - я-то ж уже знайду спосіб їм насолити.</text>
+	</string>
+
+	<string id="labx18_inspect_level_alone_two_text">
+		<text>Потрібно було допомогти бандитам розібратися з мутантами, але та гаразд. Піду огляну лабораторію, вони повинні впоратися. Сумнівно, що вони б пішли зі мною.</text>
+	</string>
+
+	<string id="labx18_inspect_level_alone_three_text">
+		<text>Мутанти вбиті. Піду подивлюся, що коїться на нижніх поверхах. Гадаю, ця гопота навряд чи б зі мною пішла - підозрілі вони якісь.</text>
+	</string>
+
+	<string id="labx18_inspect_level_kill_monster_name">
+		<text>Знищити монстра</text>
+	</string>
+
+	<string id="labx18_inspect_level_kill_monster_text">
+		<text>Здається, це така сама тварюка, яку ми вбили на поверхні. Дай Бог мені одному з нею впоратися...</text>
+	</string>
+
+	<string id="labx18_inspect_level_go_back_name">
+		<text>Повернутися на поверхню</text>.
+	</string>
+
+	<string id="labx18_inspect_level_go_back_text">
+		<text>Тварюку знищено. Час повертатися нагору.</text>
+	</string>
+
+	<string id="labx18_inspect_level_go_back_two_text">
+		<text>Ще й Свободівець якийсь на мене напав! Пора нарешті валити звідси до бісової матері...</text>
+	</string>
+
+	<string id="labx18_inspect_level_search_corpse_name">
+		<text>Ошукати труп невідомого</text>.
+	</string>
+
+	<string id="labx18_inspect_level_search_corpse_text">
+		<text>На мене напав сталкер. Схожий на... Свободівця? Потрібно його ошукати.</text>
+	</string>
+
+	<string id="labx18_inspect_level_speak_bandit_desertir_name">
+		<text>Розповісти Трухляю про те, що сталося</text>
+	</string>
+
+	<string id="labx18_inspect_level_speak_bandit_desertir_text">
+		<text>Нарешті я вибрався, настав час навідатися до Трухляя з новинами, нехай і не дуже добрими...</text>
+	</string>
+
+	<string id="labx18_task_code">
+		<text>КОДОВІ ДВЕРІ</text>
+	</string>
+
+	<string id="labx18_task_code_search_name">
+		<text>Знайти код від дверей</text>
+	</string>
+
+	<string id="labx18_task_code_search_text">
+		<text>Потрібно дізнатися, що знаходиться за зачиненими дверима. Може, вийде знайти код. Пройдуся ще трохи.</text>
+	</string>
+
+
+	<string id="labx18_task_code_open_door_name">
+		<text>Потрапити в сусіднє приміщення</text>.
+	</string>
+
+	<string id="labx18_task_code_open_door_text">
+		<text>Код у мене. Час перевірити, що ж знаходиться за тими дверима.</text>
+	</string>
+
 </string_table>
