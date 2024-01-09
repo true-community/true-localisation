@@ -1,1479 +1,1972 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1252"?>
 <string_table>
-  <string id="val_bandits_garbage_dialog_0">
-    <text>What's your business here, buddy?</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_1_1">
-    <text>Well, you know, just drifting around...</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_1_2">
-    <text>This ain't the place for you to be driftin', little napkin.</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_1_3">
-    <text>I'm going, I'm going.</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_1_4">
-    <text>Screw you!</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_2_1">
-    <text>Crutch sent me. I came to collect a package from your boss.</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_2_2">
-    <text>Ah, I see. Cough up the dough and we'll let you in.</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_2_3">
-    <text>What dough? The trader didn't tell me anything about that.</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_2_4">
-    <text>Well, I'm telling you. Hand over the paper and we'll let you in. If you ain't paying, take the detour. Your choice.</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_2_5">
-    <text>Where's the detour?</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_2_6">
-    <text>Up to you to find out. Ain't my problem.</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_2_7">
-    <text>Alright. I'll find the detour, but as soon as I get inside the base, your papa's gonna know you're hustling bribes.</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_2_8">
-    <text>Listen, man, why don't you just cut the righteous talk and head on in? We ain't gonna touch you. Unless you make another threat, that is.</text>
-  </string>
-  <string id="val_bandits_garbage_dialog_2_9">
-    <text>I see. I'll head on in.</text>
-  </string>
-  <string id="val_bandits_base_leader_dialog_case_0">
-    <text>What do you need?</text>
-  </string>
-  <string id="val_bandits_base_leader_dialog_case_1">
-    <text>Hi. Crutch sent me. I'm here for the package.</text>
-  </string>
-  <string id="val_bandits_base_leader_dialog_case_2">
-    <text>Fresh meat, huh? Then listen up: this here is our base, and that means you're a guest to us. Remember that, and don't be making a show. Understand?</text>
-  </string>
-  <string id="val_bandits_base_leader_dialog_case_3">
-    <text>I understand. I'll just grab the case and hit the road.</text>
-  </string>
-  <string id="val_bandits_base_leader_dialog_case_4">
-    <text>Hand over the money.</text>
-  </string>
-  <string id="val_bandits_base_leader_dialog_case_5_1">
-    <text>Here.</text>
-  </string>
-  <string id="val_bandits_base_leader_dialog_case_5_2">
-    <text>I don't have enough. I'll be right back.</text>
-  </string>
-  <string id="val_bandits_base_leader_dialog_case_6">
-    <text>Alright, you can get out of here. And please, try not to overstay your welcome.</text>
-  </string>
-  <string id="val_bandits_base_leader_dialog_case_7">
-    <text>Got it. I'm leaving.</text>
-  </string>
-  <string id="val_bandits_base_leader_dialog_case_two_0">
-    <text>Got the money?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_0">
-    <text>What're ya hanging 'round for?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_1">
-    <text>Just passing by. I'm leaving.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_2">
-    <text>Say, pal, are you afraid of something?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_3">
-    <text>What do you mean?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_4">
-    <text>Just look at your legs. They're practically shaking! Try to make it to the can before you drop one on the ground, hah! Why so tense, buddy? You think our crew is gonna make trouble for you here?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_5">
-    <text>To be honest? I think it's best to be careful around you.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_6">
-    <text>Well, you're right about that, but no worries. I take it you're gonna be hauling packages from the Garbage trader?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_7">
-    <text>For now, yes.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_8">
-    <text>I see. So, uh... I'm gathering a team for a job. If the trader trusted you with his business, and you know when to play it safe, it means you're a stalker with brains. Interested?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_9">
-    <text>What job? Raids, muggings, robberies?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_10">
-    <text>Hey, don't be comparing us to those junkyard gangbangers! They're half loony and half desperate. People from 'round here... you could say we're more sympathetic.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_11">
-    <text>So what's this job of yours?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_12">
-    <text>I'm gathering a group to scout a place. This ain't no child's play, or else wouldn't need more than one or two guys.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_13">
-    <text>What place?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_14">
-    <text>You know the abandoned factory nearby?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_15_1">
-    <text>Haven't heard.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_15_2">
-    <text>Yeah, I passed by it.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_16_1">
-    <text>Well, basically, it's close by. That's also where you have the entrance to lab X18. We used to have it under control, squeezed all sorts of stalkers that enjoyed wandering into abandoned labs. Earned us some cash on the side. Later, some real shit went down in that place. Contacted our boys, asked what's up — no response. So we thought, maybe that last emission screwed up our comms. Sent a couple boys to check it out.\n \nThey come back after an hour, all panting and scared shitless. I ask, "What's the matter? What the hell happened?" And then they tell me, "Our boys are on ropes! They're all dead!" I ask, "The hell are you on? What do you mean, 'they're on ropes'"?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_16_2">
-    <text>Good. You probably know that's where the entrance to lab X18 is at. We used to have it under control, squeezed all sorts of stalkers that enjoyed wandering into abandoned labs. Earned us some cash on the side. Later, some real shit went down in that place. Contacted our boys, asked what's up — no response. So we thought, maybe that last emission screwed up our comms. Sent a couple boys to check it out.\n \nThey come back after an hour, all panting and scared shitless. I ask, "What's the matter? What the hell happened?" And then they tell me, "Our boys are on ropes! They're all dead!" I ask, "The hell are you on? What do you mean, 'they're on ropes'"?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_17">
-    <text>What did they say?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_18">
-    <text>Well, they caught their breath and started telling me everything. They were at the factory, and it was dead silent, until they started getting hit with the smell. Went inside and found all our boys dead with their remains scattered all over. Some were hanging on beams below the roof, others on the walls... It's like someone took them and hung them like Christmas lights. I didn't believe them for a moment, so I went there myself. Didn't get too close, just went up to the gate — and yeah, they weren't shitting.\n \nI had no clue how things ended up as they did, but I thought I'd round up the boys and go scout the place. I come back, and no one wants to go with me. The rumor spread like wildfire, and that place ended up on our blacklist — under no circumstances does anyone want to go there.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_19">
-    <text>Damn... So did you manage to gather a team?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_20">
-    <text>Three men. If you're in on it, we'll get going.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_21">
-    <text>What's in it for me?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_22">
-    <text>I'll pay you. Got four grand. I'll throw in some more if any trouble comes our way.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_23">
-    <text>Alright, that'll do. When are we moving out?</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_24">
-    <text>I've got my boys near the factory. We'll go there, group together and head inside.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_25_1">
-    <text>Got it. Let's go.</text>
-  </string>
-  <string id="val_bandits_base_desertir_quest_dialog_25_2">
-    <text>At this very moment? I've got some business to take care of. You go and I'll catch up.</text>
-  </string>
-  <string id="val_bandits_base_desertir_angry_dialog_0">
-    <text>Hey, where the hell have you been? We're fed up sitting on our asses.</text>
-  </string>
-  <string id="val_bandits_base_desertir_angry_dialog_1_1">
-    <text>I'm ready. Let's go.</text>
-  </string>
-  <string id="val_bandits_base_desertir_angry_dialog_1_2">
-    <text>Just a little longer.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_0">
-    <text>Just a walk in the park, huh? Jesus...</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_1">
-    <text>God damn! Just what in the hell was that?!</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_2">
-    <text>Damned if I know! Didn't look like a regular old poltergeist at all — it's even got a different shine and color. Where did it even come from?</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_3">
-    <text>You did say there's an underground entrance here. That's got to be it.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_4">
-    <text>Dunno, but it's a better guess than mine.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_5">
-    <text>I hope doesn't have any offspring.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_6">
-    <text>Best we make sure of that. I can't do business if we're gonna have garbage like this residing next door.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_7">
-    <text>Let's just blow up the underground passage and be done with it.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_8">
-    <text>Then why the hell did we clean this place up in the first place? We collapse the passage and no one's gonna visit here anymore. That means we can kiss our profit goodbye.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_9">
-    <text>I don't think the underground's what stalkers are looking for. What else could we find there of interest? My pal told me X18 was discovered just a few years ago — it must've been ransacked since then.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_10">
-    <text>No offense, homeboy, but I took you for someone who's seen the Zone. That's some stupid questions right there. It's not just an underground vault but an abandoned laboratory. You might think the place is raided, but I'm telling you: there's tons of good stuff left.\n \nYou ever heard the story about those valuable underground artifacts? It's more than just a story, if you ask me. We had this one stalker who liked going underground — paid us big money but still came time and time again. That means he made a profit, right? Though, he didn't return from his last underground trip... probably buried down there with all that loot he liked carrying.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_11">
-    <text>In any case, that's none of my business. I did my part, right?</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_12">
-    <text>I keep my word. Honest pay for honest work. In case you're interested, don't be a stranger — we'll always have work in store for ya.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_13">
-    <text>Thanks. Good luck with your business, then!</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_14">
-    <text>You too! Just a friendly piece of advice as thanks for your help: if you're gonna continue dealing with Mongol, think twice before making any rash decisions. Watch yourself around him.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_15">
-    <text>What do you mean?</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_16">
-    <text>Simple. Screwing over stalkers like you is a piece of cake for him.</text>
-  </string>
-  <string id="val_bandits_base_desertir_final_quest_dialog_17">
-    <text>Thanks for the heads-up. Stay safe.</text>
-  </string>
-  <string id="val_bandits_base_desertir_idle_dialog_0">
-    <text>Opa! Our mutie butcher! What'll it be?</text>
-  </string>
-  <string id="val_bandits_base_desertir_idle_dialog_two_0">
-    <text>Welcome. What do you need?</text>
-  </string>
-  <string id="val_bandits_base_desertir_idle_dialog_three_0">
-    <text>Anything new?</text>
-  </string>
-  <string id="val_bandits_base_desertir_idle_dialog_three_1_0">
-    <text>Nothing yet.</text>
-  </string>
-  <string id="val_bandits_base_desertir_idle_dialog_four_0">
-    <text>Don't take too long. Grab the pot and stick it in the punks' meals.</text>
-  </string>
-  <string id="val_bandits_base_desertir_idle_dialog_four_1">
-    <text>I'm going.</text>
-  </string>
-  <string id="val_bandits_base_desertir_idle_dialog_three_1_1">
-    <text>I got info on the entrance, but I'll go check it first.</text>
-  </string>
-  <string id="val_bandits_base_leader_angry_dialog_0">
-    <text>What is this? There are no artifacts in your case!</text>
-  </string>
-  <string id="val_bandits_base_leader_angry_dialog_1">
-    <text>What? What's wrong?</text>
-  </string>
-  <string id="val_bandits_base_leader_angry_dialog_2">
-    <text>I gave you the money — the trader's money — and you didn't fulfill your part of the bargain. There are no artifacts in the case.</text>
-  </string>
-  <string id="val_bandits_base_leader_angry_dialog_3">
-    <text>You've gone soft in the head, punk. You were given the case; whether you brought the artifacts to the trader or not is your problem. Where were you the whole time? Things like that need to be checked first thing, you snowflake... but you just went and wasted them all, and now you're making accusations against me. You know, it's too bad I need to maintain good relations with the trader, or else neither he nor any other stalker would recognize you after you leave here. Take a hike!</text>
-  </string>
-  <string id="val_bandits_base_leader_angry_dialog_4">
-    <text>But I need those artifacts.</text>
-  </string>
-  <string id="val_bandits_base_leader_angry_dialog_5">
-    <text>No problem at all. Fifty grand and we'll have them ready for you.</text>
-  </string>
-  <string id="val_bandits_base_leader_angry_dialog_6">
-    <text>I see how it is...</text>
-  </string>
-  <string id="val_bandits_base_leader_idle_dialog_0">
-    <text>Whatcha need, stalker boy?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_0">
-    <text>Hey. It's me again. Still got work to offer me?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_1">
-    <text>Of course I do. We've got plans for this place, so there's a lot to be done. Hey, aren't you supposed to be at the Garbage?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_2">
-    <text>Put short, you were right about Mongol. So I wouldn't mind some work.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_3">
-    <text>Yeah, he can go shove a grenade up his ass. Here's a little secret: we want to get rid of him, 'cause we're real fed up... but it needs to be done peacefully. Mongol's got a lot of supporters — say something out of place and they'll pounce on you faster than a pack of snorks. But that's just thinkin' aloud. We should get down to business.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_4">
-    <text>Let's make this clear: I'm not gonna do hits or cross free stalkers.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_5">
-    <text>That's not what I'm suggesting. We'll do it ourselves if we have to. There's other work for you too — get in on our business. Perhaps you won't be raking in cash, but you won't be strapped for it either.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_6">
-    <text>An interesting offer... but what am I signing up for?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_7">
-    <text>First, we need to solve our little problem and check whether those muties have a lair underground. I'll send two of my boys with you as backup. Here's the key to the entrance. Just assess the situation, and if you see anything that looks like the mutant, scram on out of there — I don't want more casualties. While you do that, we'll finish up work here on the surface.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_8">
-    <text>Alright. If it's just a scouting trip, I'm in.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_idle_0">
-    <text>Get to the lab!</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_idle_1">
-    <text>On it.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_0">
-    <text>There you are! I was worried sick about you guys. What did you find?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_1">
-    <text>Came across a mutant similar to the other one. We dealt with it.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_2">
-    <text>Just one? Hey, where are my boys?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_3">
-    <text>I ran into a Freedomer... No idea how he ended up there, but he fired at us on sight.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_4">
-    <text>How's Freedom fit into all this? We were here this whole time — didn't let anyone through! Just what the hell happened down there?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_5">
-    <text>If you don't believe me, I found this PDA on his body. It says something about a back entrance.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_6">
-    <text>Strange... I don't know of any other entrance.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_7">
-    <text>Still, he somehow found a way in... Guy was armed to the teeth. He was looking for a map of stashes, and it seems that wealthy stalker of yours was doing the same thing — I found his body. Now I see why he went into the underground so often.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_8">
-    <text>What map?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_9">
-    <text>Take a look yourself — I found it on the stalker. It's got the location of some Freedom stash that was left while they were still in the Dark Valley.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_10">
-    <text>Strange. Haven't heard anything about it, and it's right under our base. I doubt even Mongol knows about it. What about my boys — did they make it?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_11">
-    <text>We split up. By the time I came back, the Freedom guy was searching their bodies.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_12">
-    <text>Damn, that's a real shame. Regardless, you did good: you dealt with the mutant and dug up some very interesting info. If you're interested, my offer still stands: you wanna join up with our crew?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_13">
-    <text>I'll have to refuse. Don't take this as an insult, but I'd rather not be part of the bandit roster.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_14">
-    <text>That's cool. I'm not forcing you. I'm just suggesting we continue cooperating. Honest pay for honest work, if we get any... and you won't be doing any hits either.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_15">
-    <text>Well, hell. I'm staying in the Dark Valley for a couple days, so I could use the extra work. I'm in.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_16">
-    <text>Sweet! Right now, we need to know as much as possible about the secret lab entrance the Freedom guy found. If we don't have it sealed and someone else finds out about it, our business is going down the drain.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_17">
-    <text>Any thoughts?</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_18">
-    <text>I have one. Some stalkers settled on the farm, and they've been here longer than us, so they know the area better. Maybe they know some kind of lead? You're a guy with a pretty good reputation on you — best you go talk to them.</text>
-  </string>
-  <string id="val_bandits_base_desertir_job_dialog_final_19">
-    <text>Alright. I'll drop by.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_0">
-    <text>Hey, want a cool gun? I cracked open someone's stash at Yantar and found this Gauss rifle — practically new. I'm giving it away for only 1500 rubles! Don't have any rounds for it, but I need the cash real bad.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_1">
-    <text>Seems a bit shady to me... I'll have to decline the offer. But I do have a few questions for you.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_2">
-    <text>I'll answer any questions as long as you buy the gun.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_3">
-    <text>Give it up. What are you trying to sell me?</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_4">
-    <text>Nah, pal, you give up your money. Pay up and we'll talk.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_5_1">
-    <text>Fine. Take the damn money, you hustler.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_5_2">
-    <text>Damn. Out of cash right now...</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_6_1">
-    <text>Now we're talking. What did you want?</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_6_2">
-    <text>Come back when you get some. Best you don't talk to the others without any cash — I'll tell 'em.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_7_1">
-    <text>I'm looking for info on a secret entrance to lab X18. I know there's one somewhere.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_7_2">
-    <text>Bye.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_8">
-    <text>Why you wanna know that, man?</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_9">
-    <text>The bandits are robbing me blind! I want to find another way around so I can have a chance at some loot.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_10">
-    <text>There's nothing there but trash. What exactly did you plan on finding?</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_11">
-    <text>I'm looking for old tech. One man's trash is another man's treasure.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_12">
-    <text>Yeah, that makes sense... but I don't know of any such entrance. First time I've heard of it.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_13">
-    <text>You're a real fraud, you know that? Paid you for jack shit. You'll get far like that!</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_14">
-    <text>Don't get so worked up, pal. Ask Clumsy by the fire over there — he'll have more to tell you.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_start_15">
-    <text>Got it.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_two_0">
-    <text>So, got the cash?</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_two_1_1">
-    <text>Here.</text>
-  </string>
-  <string id="val_stalker_base_sentence_dialog_two_1_2">
-    <text>Not yet.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_0_1">
-    <text>Whatcha want? Out of my sight, man.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_0_2">
-    <text>Go about your business. Stay out of the way.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_0_3">
-    <text>What are ya hanging 'round here for? Clear out.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_0_4">
-    <text>I'm listening.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_0_5">
-    <text>Speak.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_0_6">
-    <text>What is it?</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_1_1">
-    <text>Someone's on edge today.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_1_2">
-    <text>Hi. Are you Clumsy? I was told you could help me with something.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_2">
-    <text>That's me. What is it?</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_3">
-    <text>I'm looking for a secret entrance to lab X18. Those bastard bandits are taking all of my money. Going through them is unprofitable.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_4">
-    <text>Sorry, but I can't help you for free either. Sharing information for free in these times is a luxury that you can't afford — *we* can't afford. Lots of bandits around, and they've cleared our pockets too.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_5">
-    <text>What do you want in exchange for information? I already paid for your "Gauss rifle."</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_6">
-    <text>Money's not what I need. There's something else you could help with instead... You look like you've been in the Zone for a while; you'll manage this.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_7">
-    <text>What needs doing?</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_8">
-    <text>There's a Fault anomaly a couple hundred yards away. I noticed this interesting artifact around it but couldn't get it. Tried to grab it, but it just wouldn't let me... and then my head started hurting, so I left. Strange place, for sure — I haven't noticed anything like that before. Perhaps you'll have better luck?</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_start_dialog_9">
-    <text>I do have some experience with artifact catching. I'll go check it out... but if you don't hand me the info, I'll keep it for myself.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_wait_dialog_0">
-    <text>How's it going with the artifact?</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_wait_dialog_1">
-    <text>Don't have it yet.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_final_dialog_0">
-    <text>What took you so long? Got the artifact?</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_final_dialog_1">
-    <text>Here it is. Haven't seen anything this weird before...</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_final_dialog_2">
-    <text>Woah, look at it... The hell is this? And what the hell happened to you? Did you stain your pants or something?</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_final_dialog_3">
-    <text>When I tried grabbing the artifact, it moved away a few meters from me. Then I started seeing phantom stalkers, and at the end of it, I was attacked by mutants resembling controllers...</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_final_dialog_4">
-    <text>Looks like I was right about something being off there. What happened next?</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_final_dialog_5">
-    <text>When I dealt with the mutants, my eyes were all foggy and I woke up in the morning. All that stuff was gone. I only saw the artifact lying in front of me...</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_final_dialog_6">
-    <text>Wow... Last time I went there, my head started aching. I pretty much came to myself after a couple hours. Anyway, as we agreed, I'll send you the approximate coordinates to the entrance on your PDA. Be careful there — there's tons more mutants waiting for you.</text>
-  </string>
-  <string id="val_stalker_base_quest_stalker_final_dialog_7">
-    <text>Thanks. Bye.</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_0">
-    <text>Finally!</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_1">
-    <text>What happened?</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_2">
-    <text>We did some thinking on the map you found of the Freedom stash, and we've come up with a plan on how to clean it out quietly.</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_3">
-    <text>What do you mean "clean it out"? What about Mongol? I thought you'd tell your leader that there are supplies under the base and that you'd get them afterwards.</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_4">
-    <text>We split with him. We're running our own gang now.</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_5">
-    <text>Well, now... Won't there be consequences for that?</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_6">
-    <text>Doubt it. We brought some of the other boys with us, so our camp isn't falling that easily, even if Mongol's planning on it... but he won't do anything. I'm sure of it.</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_7">
-    <text>But how do you plan on cleaning out the stash without making any fuss or taking anyone out? There are at least two dozen people in that base!</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_8">
-    <text>We'll get creative. And you're gonna help us with that.</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_9">
-    <text>Why me?</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_10">
-    <text>Because, all things considered, you're working with Mongol's group. They don't see you as an outsider in their base, and I can't say the same about us after leaving there.</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_11">
-    <text>What's your plan, then?</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_12">
-    <text>Okay, listen up. We know this one scientist who's willing to sell us some dope. We'll use it to drug the whole camp and, while they're all out like a light, clean out the stash. How's that sound to you? Genius plan, ain't it?</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_13">
-    <text>It's doubtful. How do you plan on carrying all that out?</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_14">
-    <text>Simple. I spent a long time in that base, so I know it like the back of my hand. You could spread it out inside the field kitchen: they'll go get their chow and then hit the sack. Whoever refuses dinner gets a pistol whip to the face — simple as that. No one will even realize who fooled 'em. I'll also give you a sizable reward for it — have I ever let you down on that?</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_15">
-    <text>You haven't... At least I've made enough for some equipment. What do I need to do?</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_16">
-    <text>You meet with the scientist, buy the dope and run inside the base. Then quietly spread out the powder, and that's that. We'll take care of the rest.</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_17">
-    <text>I'm in — I've got my bone to pick with them. I'll set down my conditions, though: I'm not gonna call dibs on the Freedom stash. I just need one thing held by Mongol. Help me get it and I'll come with you.</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_18">
-    <text>I didn't doubt you for a second! We'll stick out for you too, of course. You'll get your thing... Now, business: right now, I'm gonna prepare the boys and brief 'em on everything. In the meantime, you go to the scientist — just so happens he's on official business in the Valley. Here's your dough — buy the dope with it. After that, you go inside the base, and once you're there, be extra careful so that not a single rat catches you slip anything. Soon as they're sound asleep, we go inside and clean out the stash, nice and quiet. Everything clear?</text>
-  </string>
-  <string id="val_bandit_desertir_bandit_alarm_message_dialog_19">
-    <text>Clear! I'm off.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_0">
-    <text>Yes?</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_1">
-    <text>Hello! I'm here for the goods. You must've been told in advance.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_2">
-    <text>Oh, hello! Yes, I've been notified of your arrival. Here is your package.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_3">
-    <text>Is this your security?</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_4">
-    <text>Naturally. Without a security detail, our facility's assistants never leave anywhere.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_5">
-    <text>What are you doing so far away from your base? It's at Agroprom, correct?</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_6">
-    <text>Correct. There are certain samples we have to take in as short amount of time as possible... and, as ill fortune would have it, our superiors have no hired stalkers at their disposal. In such cases, such work is left to us. Personally, though, I adore expeditions of this type... there are simply times when laboratory work needs to be cast aside. Granted, the task I have today is not a simple one.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_7">
-    <text>What's the matter?</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_8">
-    <text>A unique anomaly has formed here. This type appears very rarely, and thus we'd like to study it in detail.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_9">
-    <text>Looks like an ordinary Electro.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_10">
-    <text>There are many of them here. What confuses me is that it's formed next to the swamp, next to a chemical anomaly. I'm interested in how they interact with one another. Perhaps some new artifacts will appear in the process. I need to place a scanner as close as possible to the epicenter, but it's not letting me.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_11">
-    <text>No way it can be placed from behind?</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_12">
-    <text>There is... but that may cause the final data to become of questionable quality.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_13_1">
-    <text>Let me try, okay? I heard Electros can be discharged by throwing bolts into them. Something might come out of it.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_13_2">
-    <text>I see. Well, good luck to you then — I have to get back to my business.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_14">
-    <text>That would be greatly appreciated.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_first_dialog_15">
-    <text>I'll try.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_idle_dialog_0_1">
-    <text>Greetings.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_idle_dialog_0_2">
-    <text>Yes?</text>
-  </string>
-  <string id="val_scientist_smart_scientist_idle_dialog_1_1">
-    <text>Good day.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_idle_dialog_1_2">
-    <text>Until next time.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_wait_scaner_dialog_0">
-    <text>How is it going?</text>
-  </string>
-  <string id="val_scientist_smart_scientist_wait_scaner_dialog_1">
-    <text>Just a minute.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_final_scaner_dialog_0">
-    <text>I see you made it!</text>
-  </string>
-  <string id="val_scientist_smart_scientist_final_scaner_dialog_1">
-    <text>I suppose. It wasn't easy. Did I place the scanner correctly?</text>
-  </string>
-  <string id="val_scientist_smart_scientist_final_scaner_dialog_2">
-    <text>As correct as can be! Thank you for the help. Incidentally, I cannot pay you anything right now, but do come visit me in our facility. Next week, I'll be working in the vegetation research department. There will absolutely be work for you... that pays well, of course.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_final_scaner_dialog_3">
-    <text>Garden work?</text>
-  </string>
-  <string id="val_scientist_smart_scientist_final_scaner_dialog_4">
-    <text>Haha! I don't believe a stalker of your stature would work with a shovel. We'll find more suitable work for you.</text>
-  </string>
-  <string id="val_scientist_smart_scientist_final_scaner_dialog_5">
-    <text>Thank you. Until next time.</text>
-  </string>
-  <string id="val_bandits_base_barmen_kitchen_dialog_0">
-    <text>What are you doing here?</text>
-  </string>
-  <string id="val_bandits_base_barmen_kitchen_dialog_1">
-    <text>I'm just working for the trader from the Garbage. I came here for the package.</text>
-  </string>
-  <string id="val_bandits_base_barmen_kitchen_dialog_2">
-    <text>I got that... but what are you snooping around the whole base for? Trying to sniff out somethin'?</text>
-  </string>
-  <string id="val_bandits_base_barmen_kitchen_dialog_3">
-    <text>Well... How do I explain it? I'm tight on money right now, and I need a bite real bad. I saw your kitchen, and it smells like heaven, so I wanted to grab something.</text>
-  </string>
-  <string id="val_bandits_base_barmen_kitchen_dialog_4">
-    <text>Hahaha! You're a sneaky bastard, you know that? Okay, come back in an hour. We'll feed ya for sure, you bum. Until then, just stay out of our hair.</text>
-  </string>
-  <string id="val_bandits_base_barmen_kitchen_dialog_5">
-    <text>What's for dinner?</text>
-  </string>
-  <string id="val_bandits_base_barmen_kitchen_dialog_6">
-    <text>You'll see. Now, scram on out of here.</text>
-  </string>
-  <string id="val_bandits_base_barmen_kitchen_dialog_7">
-    <text>Later, then.</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_0">
-    <text>What's the news?</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_1">
-    <text>The deed's done.</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_2">
-    <text>That fast? Way to go! Everything go smooth?</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_3">
-    <text>I think so.</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_4">
-    <text>What do you mean, "I think so"? You sure everything's okay?</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_5">
-    <text>One of the bandits noticed me, but he didn't see when I slipped the powder.</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_6">
-    <text>Okay, great. That's all that matters. Now, we'll make a move for the stash in approximately two hours. I have a lookout at the gas station — soon as he gives the signal, we'll move.</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_7">
-    <text>Got the explosives?</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_8">
-    <text>Guess what: we know how to get the door open, so we won't have to use up the explosives on that. We could put the charge to different use instead.</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_9">
-    <text>For what?</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_10">
-    <text>What do you mean, "for what"? You were looking for another entrance to the lab, remember? Wouldn't be a bad thing if we'd seal it, considering that word in the Zone travels fast. Soon enough, everyone and their pseudodog will know about it. I'll entrust the job to you while we still have time. Here's the charge — blow everything up nice and firm. As soon as we need help, I'll holler at ya.</text>
-  </string>
-  <string id="val_bandits_base_desertir_dynamite_dialog_11">
-    <text>Alright. I'm off.</text>
-  </string>
-  <string id="val_bandits_base_desertir_ready_dialog_0">
-    <text>We're all set.</text>
-  </string>
-  <string id="val_bandits_base_desertir_ready_dialog_1">
-    <text>Well? Everything prepared?</text>
-  </string>
-  <string id="val_bandits_base_desertir_ready_dialog_2">
-    <text>Look at 'em, all sleeping like babies! Whoever hasn't fallen asleep, well, that's their problem. Careful: we don't have much time, so let's make this lightning fast. Right, let's go!</text>
-  </string>
-  <string id="val_bandits_base_desertir_ready_dialog_3">
-    <text>Let's go.</text>
-  </string>
-  <string id="val_bandit_desertir_treasure_start_dialog_0">
-    <text>Right! While we deal with the door, you go look for the thing you need. It's safer if my pal goes with you. Once you have it, get back here on the double. Got it?</text>
-  </string>
-  <string id="val_bandit_desertir_treasure_start_dialog_1">
-    <text>Got it. I'm moving.</text>
-  </string>
-  <string id="val_bandit_desertir_treasure_start_dialog_2">
-    <text>Hold up! Recently, a bunch of these lowlifes locked up a stalker in the basement. Think they called him "Mute." I might be a bandit myself, but man, some things you just don't do... I dunno what they're gonna do with him, but go check it out on the way if you get the chance. Might even free him. Just don't take too long — time's short as it is!</text>
-  </string>
-  <string id="val_bandit_desertir_treasure_start_dialog_3_1">
-    <text>Yeah, I definitely don't want to leave a stalker brother here. I should try. I'm off.</text>
-  </string>
-  <string id="val_bandit_desertir_treasure_start_dialog_3_2">
-    <text>Already taken care of, so don't worry. I'm off.</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_11">
-    <text>Hey, man. Feel like shooting some crows?</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_111">
-    <text>Sure.</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_1111">
-    <text>Great. You can play for fun, cash, or try to set a new record. What do you want to do?</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_112">
-    <text>Nah, I don't feel like it.</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_1121">
-    <text>Your choice, buddy. I'll be here if you change your mind.</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_21">
-    <text>Here's your dough as promised. I play fair. How about another go?</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_31">
-    <text>That was just bad luck. Give it another shot, man!</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_41">
-    <text>Where are you going, man? Shooting outside is your private business, but how about you stay and play by the rules?</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_51">
-    <text>You know that your time is ticking, right? We can talk later.</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_511">
-    <text>Got it.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_0">
-    <text>I want to play for money.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_1">
-    <text>That's music to my ears. You need me to run over the rules for you or what?</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_11">
-    <text>Let's get shooting.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_111">
-    <text>Enough chat, buddy. So, how many crows do you reckon you can take down in one minute?</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_111111">
-    <text>Deal.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_1111111">
-    <text>Kickass. Get your shooter ready, man.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_11111111">
-    <text>Okay.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_111112">
-    <text>I don't have that much cash.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_1111121">
-    <text>Then how about you choose something you can afford?</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_11111211">
-    <text>Yeah, I'll choose a different number of crows.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_11111212">
-    <text>No, not interested.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_111112121">
-    <text>Well, you can play for fun. Or you could try to set a record, but that really hits your pocket. What do you say?</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_12">
-    <text>Please explain.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_121">
-    <text>Playing for money is my definition of fun. Tell me how many crows you're gonna take down in a minute, bet your cash and go get 'em. If you kill as many as you said, I double your cash, fair and square. If you don't, I keep the bet. And remember, the more crows, the higher the bets.</text>
-  </string>
-  <string id="val_bandit_bookmaker_money_13">
-    <text>I don't feel like playing all of a sudden.</text>
-  </string>
-  <string id="val_bandit_bookmaker_questions_0">
-    <text>Are there any general rules?</text>
-  </string>
-  <string id="val_bandit_bookmaker_questions_1">
-    <text>Not really. I start the timer, you get ready and start blasting at the crows on my signal. If you kill the right number in a minute, you win — good job and all that. How you kill them is up to you. But remember: if you leave this area, the game is over. So, do you want to play for fun, money, or try and set a new record?</text>
-  </string>
-  <string id="val_bandit_bookmaker_quit_0">
-    <text>I don't feel like playing.</text>
-  </string>
-  <string id="val_bandit_bookmaker_quit_1">
-    <text>Your choice, buddy. I'll be here if you change your mind.</text>
-  </string>
-  <string id="val_bandit_bookmaker_record_0">
-    <text>I want to set a new record.</text>
-  </string>
-  <string id="val_bandit_bookmaker_record_11">
-    <text>Let's start.</text>
-  </string>
-  <string id="val_bandit_bookmaker_record_1111">
-    <text>Okay.</text>
-  </string>
-  <string id="val_bandit_bookmaker_record_11111">
-    <text>Okay. Let's see if you're champion material, buddy.</text>
-  </string>
-  <string id="val_bandit_bookmaker_record_1112">
-    <text>I'd like to, but I don't have the cash.</text>
-  </string>
-  <string id="val_bandit_bookmaker_record_11121">
-    <text>Well, there are simpler options: you can play for cash or just for fun. What do you say?</text>
-  </string>
-  <string id="val_bandit_bookmaker_record_1113">
-    <text>I... changed my mind.</text>
-  </string>
-  <string id="val_bandit_bookmaker_record_12">
-    <text>Remind me what the rules are.</text>
-  </string>
-  <string id="val_bandit_bookmaker_record_121">
-    <text>Well, this one is for the real men. If you reckon you can beat the current record, you make a bet that matches it. If you manage to set a new record, I'll double your bet — plus, you'll be the new champ and all that. If you don't, I keep your cash.</text>
-  </string>
-  <string id="val_bandit_bookmaker_record_13">
-    <text>I... changed my mind.</text>
-  </string>
-  <string id="val_bandit_bookmaker_training_0">
-    <text>For fun.</text>
-  </string>
-  <string id="val_bandit_bookmaker_training_1">
-    <text>Ahh, just practicing? You remember the rules, don't ya?</text>
-  </string>
-  <string id="val_bandit_bookmaker_training_11">
-    <text>Yeah. Let's get to the shooting.</text>
-  </string>
-  <string id="val_bandit_bookmaker_training_111">
-    <text>Okay, so how many crows can you take out?</text>
-  </string>
-  <string id="val_bandit_bookmaker_training_11111">
-    <text>Okay, well, cough up the cash.</text>
-  </string>
-  <string id="val_bandit_bookmaker_training_111111">
-    <text>Okay.</text>
-  </string>
-  <string id="val_bandit_bookmaker_training_21">
-    <text>No. Tell me.</text>
-  </string>
-  <string id="val_bandit_bookmaker_training_211">
-    <text>Well, playing for fun is just that — you won't get any cash. It's good if you want to practice or just feeling shitty and want to shoot something. You just decide how many crows you can take out in a minute and attempt to do just that.</text>
-  </string>
-  <string id="val_bandit_bookmaker_training_31">
-    <text>I changed my mind.</text>
-  </string>
-  <string id="val_bandit_bookmaker_training_311">
-    <text>No problem. The choices are still the same: play for money or try for a record. What do you say?</text>
-  </string>
-  <string id="val_bandit_bookmaker_hello_61">
-    <text>You did some good shootin' there, buddy. You should think about playing for cash. Feel like shooting some more?</text>
-  </string>
-  <string id="val_bandits_commentators_11">
-    <text>Check it out, man! One shot from this vertical baby and feathers fill the air!</text>
-  </string>
-  <string id="val_bandits_commentators_111">
-    <text>Hrm... I better go now.</text>
-  </string>
-  <string id="val_bandits_commentators_12">
-    <text>You don't like fowl either, heh? Don't worry, we got loads of 'em here!</text>
-  </string>
-  <string id="val_bandits_commentators_13">
-    <text>Whatcha standing there for? C'mon, slaughter the damn things, make a bloody mess, go for it!</text>
-  </string>
-  <string id="val_bandits_trader_start_dialog_0">
-    <text>Tell me about yourself.</text>
-  </string>
-  <string id="val_bandits_trader_start_dialog_1">
-    <text>I was doing backstreet business back in the Soviet Union when I got caught on a major deal. I did my time like a man — made some good buddies and connections with the underworld crowd — and when I got out, I started buying up goods from burglars. I got nicked again and did some more time, but when I got out, the Soviet Union was dead and buried. I never managed to adjust to the changes — I was broke and living a shit life... but then the Zone appeared, and I bolted here right away. This place immediately reminded me of the good old days, so I became a trader without a second thought. At first, I hung out with the boys at the Garbage, then made my way here. Been through two bosses by now! Mongol reminds me of Yoga — a sneaky bastard, that one. My gut tells me he'll end up the same way as my first boss.</text>
-  </string>
-  <string id="val_bandits_trader_start_dialog_2">
-    <text>Thanks.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_1_phrase_0_1">
-    <text>Listen, punk, you better clear out of here! I won't be held responsible for letting in drifters like you. Take the front entrance.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_1_phrase_0_2">
-    <text>Wrong entrance, buddy. Go through the front one so I don't get any trouble for trash like you.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_1_phrase_0_3">
-    <text>Hit the bricks, you bum! If it's the boss you want, go through the main entrance. This one is for our boys exclusively.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_1_phrase_0_4">
-    <text>Best you clear out of here, pal, before I wipe you off the face of the Zone myself. If it's the boss you want, take the main entrance.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_1_phrase_0_5">
-    <text>You stalkers amaze me! The hell you lookin' for here? Take the main entrance — this one ain't open for riffraff like you!</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_1_phrase_1_1">
-    <text>Don't get worked up. I'm leaving.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_1_phrase_1_2">
-    <text>I'm gone.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_1_phrase_1_3">
-    <text>I'm leaving.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_1_phrase_1_4">
-    <text>Alright, I'm going.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_1_phrase_1_5">
-    <text>I get it. Easy.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_2_phrase_0_1">
-    <text>Listen, party crasher, what are you slithering around for? If it's the boss you want to see, you need to go through the other side. This here is for our top dogs only, capiche?</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_2_phrase_0_2">
-    <text>Buddy, hit the road while you still can! Go inside our territory through the main entrance... if they let you through, that is.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_2_phrase_0_3">
-    <text>Turn around and go back to where you came, stalker boy. If you want Mongol, go through the other side. We don't let strangers through here.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_2_phrase_0_4">
-    <text>What are you looking at? Go see the boss if you have questions — it's on the other side. Now piss off!</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_2_phrase_0_5">
-    <text>Get lost, stalker — I ain't got time for you. If you've got business with Mongol, you can only get inside from the other side, where the gas station's at... if our boys don't take every red cent from you, hehe!</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_2_phrase_1_1">
-    <text>I won't bother you.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_2_phrase_1_2">
-    <text>Just don't get worked up. I'm turning.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_2_phrase_1_3">
-    <text>Alright, alright. I'm leaving.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_2_phrase_1_4">
-    <text>Yep, I'm getting out of here.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_2_phrase_1_5">
-    <text>You have a good day.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_3_phrase_0_1">
-    <text>Hey, party crasher! Turn back around and beat it while you still have the chance! Looking for Mongol? Then it's further to the right, through the main entrance. We don't let strangers pass here.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_3_phrase_0_2">
-    <text>Buddy, you should probably hightail it away from here... or something bad might happen to you. If you need the boss that badly, strike a deal with the boys at the front entrance. Capice?</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_3_phrase_0_3">
-    <text>Hey, ambassador, take whatever diplomatic business you have and go through the main entrance. Just don't waste my time, 'kay?</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_3_phrase_0_4">
-    <text>Hanging around here like a stray dog, huh? It's the boss you want, isn't it? Then take the front entrance. Take it up with boys over there, not with me. Get lost.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_3_phrase_0_5">
-    <text>What is it you don't get, stalker? Not the best place for you to hang around all alone, I'm telling you. If you wanna see Mongol, see the boys at the main entrance. Who knows, they might let you in if they're in a good mood... Now, clear off while you still can.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_3_phrase_1_1">
-    <text>I'm turning.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_3_phrase_1_2">
-    <text>Consider me gone.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_3_phrase_1_3">
-    <text>Right. I'm leaving.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_3_phrase_1_4">
-    <text>I'm out of here. Dial it down.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_dialog_3_phrase_1_5">
-    <text>Yep, I'm out of here.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_0">
-    <text>Hold your horses, punk! You're here for the boss, ain't you? Then you'll just have to pay him some tribute!</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_1_1">
-    <text>That wasn't the deal. I came to get the artifacts for the trader.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_1_2">
-    <text>No, just wandering around. I'm off.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_2">
-    <text>We don't care about your deals right now. Our boys are preparing for a raid across fields that are radioactive, but we're short on antirads. If you can get us ten of those, you can get your piece-of-shit artifacts. We'll keep our word.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_3_1">
-    <text>Here are your antirads.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_3_2">
-    <text>I'm short on antirads myself...</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_4_1">
-    <text>See? Where there's a hill... I mean, will, there's a way! Go on inside — I'll warn the others so they don't do anything to ya. Now hurry, chop-chop!</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_4_2">
-    <text>Well... I'll give you one other option. Either you pay up in cash instead of antirads — four grand — or you get us an artifact that can draw out radiation. You could also try to get a hold of antirads. The locals in uniform know more about it, but we're at odds with 'em.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_5_1">
-    <text>I'll go, then.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_5_2_1">
-    <text>Fine... Here are your antirads.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_5_2_2">
-    <text>Take the money.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_5_2_3">
-    <text>Here's an artifact.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_first_dialog_5_2_4">
-    <text>Alright. I'll see what I can think of...</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_0">
-    <text>Someone's eager to go places today! Where you headed, jag-off? To the boss? Uh-uh, pal, no chance — you'll have to do a little something for us first.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_1_1">
-    <text>Hey, that wasn't the deal. I just need to get the artifacts.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_1_2">
-    <text>I'm just looking around. Consider me gone.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_2">
-    <text>We don't give two turds in a pseudodog sandwich about your deals. Get us ten pieces of antirad and we'll talk. A group of ours is goin' on a raid in a couple of days — those areas are radioactive, and we don't have enough meds against it. Get it for us and you can pick up your artifacts.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_3_1">
-    <text>Here are the antirads.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_3_2">
-    <text>I'm low on meds myself...</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_4_1">
-    <text>Look at that! Funny you were so hesitant to cough it up! Okay, go on in. I'll tell our boys not to touch you.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_4_2">
-    <text>I guess there are a couple other options for you. Either you hand us money instead of antirads — four figures — or you get us some artifact that can deal with the radiation. 'Course, it's better if you get a hold of antirads. The locals in uniform probably have a supply, though we're at odds with 'em.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_5_1">
-    <text>Thanks.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_5_2_1">
-    <text>Alright. Here are the antirads.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_5_2_2">
-    <text>Take the cash.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_5_2_3">
-    <text>Take this artifact.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_task_second_dialog_5_2_4">
-    <text>Alright. I'll try to think of something.</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_search_task_first_dialog_0">
-    <text>Did you get what was asked of you?</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_search_task_second_dialog_0">
-    <text>So, find antirads?</text>
-  </string>
-  <string id="val_bandits_base_passage_lock_search_task_dialog_none">
-    <text>Not yet...</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_0">
-    <text>A stalker! No way... One of my own!</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_1">
-    <text>Hey, who are you and how'd you end up here?</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_2">
-    <text>Name's Mute. Those bastard bandits put heat on me practically right by the Duty checkpoint in front of the Bar! Plain embarrassing how those scum with jackets full of holes could shake down an experienced stalker... Those sons of bitches took everything. Only got this stupid sweater, and god knows where my precious armor's at... Now I'm in this cell, wasting away like a rotten corpse.</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_3_1">
-    <text>So you're Mute, guy who disappeared from Brute's group? Your boys are looking for you!</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_3_2">
-    <text>Yeah... Shit like that happens... You been here for long?</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_4_1">
-    <text>Well, I'll be! What a small world! Yeah, I'm from his group, but we'll talk about that later. Could you help me out? I've been down here for three weeks by now!</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_4_2">
-    <text>I've been down in this damp basement for three weeks by now. Help me out, stalker!</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_5">
-    <text>I don't even know how to help you. The bandits don't exactly trust me...</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_6">
-    <text>Think of something, please! There's only one of those shitbags upstairs.</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_7_1">
-    <text>Getting out from there won't be that easy. I'll try to help when I get the chance. You have my word.</text>
-  </string>
-  <string id="val_stalker_prisoner_start_dialog_7_2">
-    <text>Right now, everyone should be sound asleep thanks to an elaborate scheme of mine... Wait just a moment. I'll try getting you out.</text>
-  </string>
-  <string id="val_bandits_base_prison_watcher_angry_dialog_0">
-    <text>Get lost before I throw you in the cell with that prick!</text>
-  </string>
-  <string id="val_bandits_base_prison_watcher_angry_dialog_1">
-    <text>Alright, alright. I'm leaving.</text>
-  </string>
-  <string id="val_stalker_prisoner_idle_dialog_0_1">
-    <text>Open the cell, stalker! The controls are on the wall.</text>
-  </string>
-  <string id="val_stalker_prisoner_idle_dialog_0_2">
-    <text>Stalker, get me out of here.</text>
-  </string>
-  <string id="val_stalker_prisoner_idle_dialog_0_3">
-    <text>Buddy, please, open this damn cell!</text>
-  </string>
-  <string id="val_stalker_prisoner_idle_dialog_1_1">
-    <text>Don't panic. I'm on it.</text>
-  </string>
-  <string id="val_stalker_prisoner_idle_dialog_1_2">
-    <text>Wait up. I'll open it now.</text>
-  </string>
-  <string id="val_stalker_prisoner_idle_dialog_1_3">
-    <text>Wait up.</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_0">
-    <text>Man, thank you so much! If it wasn't for you...</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_1">
-    <text>Congratulations on reclaiming your freedom!</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_2">
-    <text>If only you knew what escape plans I've been cooking up... I thought to myself, this is the end — I'm gonna die in this stinking cell and no one will even remember me. And then you show up!</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_3_1">
-    <text>Let's get out of here, man. You have any place you could go without equipment?</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_3_2">
-    <text>So that's who you are, Mute the Duty guy! Your squadmates are looking for you — I saw them at the Cordon. Brute's group, right?</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_4_1">
-    <text>Of course I do! I'm going to the Bar, to my group — to Brute and the others. Feels like forever since I last saw them... I'll just go to the Cordon along the way to do some business — won't be getting through the bandits to take a direct path anyway.</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_4_2">
-    <text>Well, I should realize it's a small world by now... Yeah, that's my group. So they're at the Cordon? They must've gone to the Bar by now, so I'll make my way there. I'll just go to the Cordon along the way to do some business — won't be getting through the bandits to take a direct path anyway.</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_5_1">
-    <text>I feel you. I've been in situations like this too, but not to this extent.</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_5_2">
-    <text>So just how did you end up here?</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_6_1">
-    <text>Listen, drop by at the Bar when you get the chance — my boys and I are usually stationed at the Duty checkpoint by the Wild Territory. I've got this stash that's jam packed with stuff, so I'll give you some of it to remember me. Drop by if you're ever around. My guys will also be glad to see you!</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_6_2">
-    <text>Yeah, so, I was heading in the direction of the Army Warehouses. Was almost at the Duty checkpoint by the Bar when those bastard bandits put heat on me. Plain embarrassing how I couldn't deal with them... Let's just forget about it.\n \nListen, drop by at the Bar when you get the chance — my boys and I are usually stationed at the Duty checkpoint by the Wild Territory. I've got this stash that's jam packed with stuff, so I'll give you some of it to remember me. Drop by if you're ever around. My guys will also be glad to see you!</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_7">
-    <text>I'll be sure to visit.</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_8">
-    <text>Hold up. How'd you even get here? What's happening up there, where are the bandits?</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_9">
-    <text>Long story. Look, the bandits are out like logs, so you need to disappear before they wake up.</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_10">
-    <text>Alright. Stay safe! See you at the Bar.</text>
-  </string>
-  <string id="val_stalker_prisoner_final_dialog_11">
-    <text>See you.</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_0">
-    <text>Hi. Got the goods?</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_1">
-    <text>Hey. You guys sure seem on edge. I don't have the goods, but I have this PDA.</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_2">
-    <text>What else did you find there? I mean, in the place where you found the PDA.</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_3">
-    <text>Some corpses... Seems like there was a battle there. A few mutants, stalkers and mercenaries. It's like they first shot at the mutants and then at each other.</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_4">
-    <text>That makes sense... Actually, no, it doesn't. There are no goods, but there's you and a load of corpses. How did you even end up in there?</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_5">
-    <text>The boys sent a distress signal, so Crutch sent me.</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_6">
-    <text>Idiots! Alright, savior boy, here's a little something for the PDA.</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_7">
-    <text>Thank you, gracious sir.</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_8">
-    <text>Cut the wise talk, stalker. I need those goods ASAP; you probably have an empty wallet and nothing to do, and I have no time to look for someone else. Listen: here's a spare meeting place in case of any unforeseen circumstances. That's where the column was supposed to move in case there were any misunderstandings. You go with my man — he'll cover you. Go there, look around, then report back.</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_9">
-    <text>Got it. Why don't you take your henchmen and go by yourself?</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_10">
-    <text>Because, smartass, I need to remain here in case that part of the group decides to come back here. Now, enough chit-chat. Grinya will go with you.</text>
-  </string>
-  <string id="val_composer_task_stalker_leader_start_dialog_11">
-    <text>Seems I have no choice. I'll move out with him.</text>
-  </string>
-  <string id="val_composer_task_stalker_follower_final_dialog_0">
-    <text>Sorry, stalker, but I have specific instructions regarding you.</text>
-  </string>
-  <string id="val_composer_task_stalker_follower_final_dialog_1">
-    <text>So that's how it is. Why'd we go all the way here? Was killing me on the spot no good? Wasted time.</text>
-  </string>
-  <string id="val_composer_task_stalker_follower_final_dialog_2">
-    <text>How was it wasted time? I already checked that the camp was empty. I only needed you to check the anomalies for me.</text>
-  </string>
-  <string id="val_composer_task_stalker_follower_final_dialog_3">
-    <text>Bastards!</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_0">
-    <text>What are you staring at? Come on, get up. I'd even say you owe me a thank-you, hehe!</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_1">
-    <text>Thanks... And who are you?</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_2">
-    <text>Who am I... A bat in a freakin' hat. Name's Cluster.</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_3">
-    <text>Cluster... What clusterfuck have I gotten myself into? How'd you get here?</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_4">
-    <text>You're asking big questions, pal! What's your name? Investigator? Just so you know, I'm a goodfella and I don't like watching things go south. I see a man in trouble, I help him. I mean, it'll go in my favor, right?</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_5">
-    <text>For someone in bandit cloth, never once have I met a goody two-shoes like you.</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_6">
-    <text>That's just pushing it, buddy! I'm telling you, Cluster's a good guy, don't like when there's trouble. He ain't the sharpest tool in the shed, but he's no chump either, you get me?</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_7">
-    <text>I get you, I get you. Though, forgive me if I don't believe in good samaritans among your people.</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_8">
-    <text>Ah, fugget about it. Believe in Santa Claus if you like, but don't forget Cluster saved your hide. As you understand, he hopes the, uh... service will be returned.</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_9">
-    <text>I'm not surprised. What do you need?</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_10">
-    <text>Okay, so, whacking Vizier is a no-go right now, 'specially since we don't know who's covering up for him. We can't stay here either, 'cos they'll be coming for your escort soon. All I can say is, you're in their sights now!</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_11">
-    <text>I get that, but what are you getting out of this, Cluster? They'll waste both of us.</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_12">
-    <text>Well, you see here: I saw what was in the place where the stalkers carried their box, and since Vizier himself is in the game, there must be some serious goodies in that box. I can feel it. These guys really don't want show their cards, since they tried to off ya. Y'know, less people knowing about it means less trouble for them, and the head honcho gets more dough.</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_13">
-    <text>I didn't even want anything out of this whole thing ???. What exactly do you suggest?</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_14">
-    <text>We need to find that box and take the stuff no matter what. I can't do it on my own, so you'll help me in return. I also know some people, so when we find it, we'll take off and see them. Capiche?</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_15">
-    <text>Capiche. Where are we headed?</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_16">
-    <text>To the Garbage. I stashed a PDA I found on a stalker there before you showed up. I got a small stash there and I need to read what's in the PDA, 'cos doing it in the Valley with this whole circus? Not a chance.</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_start_dialog_17">
-    <text>Let's go.</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_info_dialog_0">
-    <text>Tell me about yourself.</text>
-  </string>
-  <string id="val_composer_task_bandit_savior_info_dialog_1">
-    <text>Heh, buddy, if I tell you anything, it's game over for me!</text>
-  </string>
-  <string id="val_stalker_technic_task_start_dialog_0">
-    <text>Holy shit, you scared me!</text>
-  </string>
-  <string id="val_stalker_technic_task_start_dialog_1">
-    <text>Hi. One question: who are you and what's happening here?</text>
-  </string>
-  <string id="val_stalker_technic_task_start_dialog_2">
-    <text>Phew, heart's beating out of my chest. Nice to see you too, traveler. I'm trying to make this little device, but I'm missing one part... a few parts, actually. Name's Harpoon. Listen, could you help me? There's good pay in it for you.</text>
-  </string>
-  <string id="val_stalker_technic_task_start_dialog_3">
-    <text>Of course I can help, but what is it you're making?</text>
-  </string>
-  <string id="val_stalker_technic_task_start_dialog_4">
-    <text>A radio receiver. I should say, something like a radio receiver, but more powerful. For that, I need an actual radio, plus as an electric lamp.</text>
-  </string>
-  <string id="val_stalker_technic_task_start_dialog_5">
-    <text>What's the lamp for?</text>
-  </string>
-  <string id="val_stalker_technic_task_start_dialog_6">
-    <text>You see, to amplify the signal, I need some source of electricity. See how much equipment there is here? I plan on making a generator out of it, and for that, I need a lamp.</text>
-  </string>
-  <string id="val_stalker_technic_task_start_dialog_7">
-    <text>Okay, then. So what's the catch? You said you'd pay me well.</text>
-  </string>
-  <string id="val_stalker_technic_task_start_dialog_8">
-    <text>There is one catch. I know places where you can get all the stuff: there's a lamp, as well as a radio, in the garage next to the entrance to the abandoned laboratory. There's bound to be lots of garbage and old electronics there. It's just that I already sent one guy there, and he hasn't come back. Maybe he gave up on it, or maybe... maybe something happened to him.</text>
-  </string>
-  <string id="val_stalker_technic_task_start_dialog_9">
-    <text>Okay, I'll try to solve your problem, but no guarantees.</text>
-  </string>
-  <string id="val_stalker_technic_task_idle_dialog_0_1_1">
-    <text>Find anything?</text>
-  </string>
-  <string id="val_stalker_technic_task_idle_dialog_0_2_1">
-    <text>How's it going?</text>
-  </string>
-  <string id="val_stalker_technic_task_idle_dialog_0_3_1">
-    <text>Any luck?</text>
-  </string>
-  <string id="val_stalker_technic_task_idle_dialog_1_1_1">
-    <text>Nothing yet.</text>
-  </string>
-  <string id="val_stalker_technic_task_idle_dialog_1_2_1">
-    <text>Haven't found anything.</text>
-  </string>
-  <string id="val_stalker_technic_task_idle_dialog_1_3_1">
-    <text>If I get any results, I'll let you know.</text>
-  </string>
-  <string id="val_stalker_technic_friend_task_start_dialog_0">
-    <text>Hey there, newcomer. Need something?</text>
-  </string>
-  <string id="val_stalker_technic_friend_task_start_dialog_1">
-    <text>Hi. Yeah, I'd like to know: who are you?</text>
-  </string>
-  <string id="val_stalker_technic_friend_task_start_dialog_2">
-    <text>That's an unusual, if not stupid question. We're a group of stalkers who live here, doing the usual things, collecting artifacts and making a living. Just like everyone else. My name's Mug.</text>
-  </string>
-  <string id="val_stalker_technic_friend_task_start_dialog_3">
-    <text>I see. Who exactly is that Harpoon guy?</text>
-  </string>
-  <string id="val_stalker_technic_friend_task_start_dialog_4">
-    <text>Well, he's been with us since the beginning. Decent guy, just a bit secretive. He's kind of our engineer.</text>
-  </string>
-  <string id="val_stalker_technic_friend_task_start_dialog_5">
-    <text>So, this "secrecy" led him to leave separately from you?</text>
-  </string>
-  <string id="val_stalker_technic_friend_task_start_dialog_6">
-    <text>Not really. He concluded that we'd distract him, which is why he's the only true loner out of us.</text>
-  </string>
-  <string id="val_stalker_technic_friend_task_start_dialog_7">
-    <text>And he's always been with you?</text>
-  </string>
-  <string id="val_stalker_technic_friend_task_start_dialog_8">
-    <text>No. There was this one faction long ago, though I forgot the name. They were doing research. When it split up, he happened upon us. That's pretty much all we know about him.</text>
-  </string>
-  <string id="val_stalker_technic_friend_task_start_dialog_9">
-    <text>I see. I guess I'll go.</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_0">
-    <text>You got everything? Are you in one piece? What happened to the other guy?</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_1">
-    <text>Here's your junk. You don't need to look for him — he's doing fine where he is, all eaten up by bloodsuckers. And I still have a question for you.</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_2">
-    <text>Shoot. Oh, yeah, your reward: here's the money. It'll be of use to you.</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_3">
-    <text>Thanks. As for my question: why so much money for a regular fetch job?</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_4">
-    <text>First of all, I told you the pay would be good. Second: you got me. I don't need the lamp for a radio receiver — I'm a collectioner of sorts, gathering all kinds of equipment and other thingies. This, for example, is a rare sample.</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_5">
-    <text>I see. Not my business anymore. You got anything else you need dug up?</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_6">
-    <text>It's money you want, huh? I get it. Let me think... I do have something, but I'm not ready to share with you just yet.</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_7">
-    <text>Is it a secret?</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_8">
-    <text>You could say that. Come back here later when I finish a little business. I'll message you.</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_9">
-    <text>Alright. You've got me interested.</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_10">
-    <text>Trust me, it'll be worth it.</text>
-  </string>
-  <string id="val_stalker_technic_task_reward_dialog_11">
-    <text>Later.</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_0">
-    <text>Ah, it's you. I can explain...</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_1">
-    <text>Don't play stupid. Puma already did.</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_2">
-    <text>I wasn't trying to.</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_3">
-    <text>Who are you really, and what happened at the farm? I know you're no collectioner.</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_4">
-    <text>Correct. I take it I'm dead if I don't tell you?</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_5">
-    <text>You're goddamn right.</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_6">
-    <text>My story starts with the Clear Sky faction. I was a fighter in their ranks, fond of all sorts of technical devices. I learned from the technician Novikov... doubt you know who that is. Anyway, I once overheard a little conversation between our commander-in-chief and an apprentice, and it was something about "psy-emissions," the "C-Consciousness" and "Strelok." As it turned out, our chief had worked in the C-Consciousness, and the rumor spread after the faction broke apart. At one point, I thought: why not make my own pocket psy-emitter? Imagine what a weapon that would be. That's when the stalkers invited me, and after thinking about it, I joined. Then we settled here, and I realized this was the perfect spot... and today, I've made history. I don't mind continuing the work of those great people, and that's why these stalkers turned into vegetables. As for Puma, I needed him to eliminate the only witness — you.</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_7">
-    <text>Well, thanks for the clarification. How did you survive?</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_8">
-    <text>My helmet, kiddo. That's the key to not joining them.</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_9">
-    <text>How did you plan on moving it? I saw what you were building. Thing's a leviathan.</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_10">
-    <text>What's it matter? And here's my question to you: what comes next?</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_11_1">
-    <text>I think the answer is obvious. You don't want me around now that I've seen what you've done. I also have no reason to trust you after I turn my back — you might just put a bullet in me.</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_11_2_1">
-    <text>Alright. You'll leave and smash that thing to pieces so no one else gets hurt. Not even that, you'll tear it apart under my watch. I'll keep your secret because I'm not looking for any trouble, but if I see you again, everyone will know who you are. Believe me, I have friends who will tell if anything happens to me. Understand?</text>
-  </string>
-  <string id="val_stalker_technic_task_final_first_dialog_11_2_2">
-    <text>I know everything I need to. I've already smashed your emitter to pieces, so now we'll go our own ways peacefully. If I ever meet you again, I'll shoot you where you stand.</text>
-  </string>
-  <string id="val_stalker_technic_task_final_second_dialog_0">
-    <text>Shit...</text>
-  </string>
-  <string id="val_stalker_technic_task_final_second_dialog_1">
-    <text>What's the matter? Be happy you're alive! Anyone else would've gunned you down a long time ago! Now let's split. We never saw each other.</text>
-  </string>
-  <string id="val_bandits_base_bandits_idle_dialog_0_1">
-    <text>What are you looking at?</text>
-  </string>
-  <string id="val_bandits_base_bandits_idle_dialog_0_2">
-    <text>Hey, what do you want?</text>
-  </string>
-  <string id="val_bandits_base_bandits_idle_dialog_0_3">
-    <text>Stay out of the way, monkey!</text>
-  </string>
-  <string id="val_bandits_base_bandits_idle_dialog_0_4">
-    <text>Keep a straight face, it makes you want to piss on her.</text>
-  </string>
-  <string id="val_bandits_base_bandits_idle_dialog_0_5">
-    <text>How long have you been peeing boiling water? Never? Then you will, you defective, if you don't get out of my sight now.</text>
-  </string>
+
+	<string id="val_bandits_garbage_dialog_0">
+		<text>What's your business here, buddy?</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_1_1">
+		<text>Well, you know, just drifting around...</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_1_2">
+		<text>This ain't the place for you to be driftin', little napkin.</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_1_3">
+		<text>I'm going, I'm going.</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_1_4">
+		<text>Screw you!</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_2_1">
+		<text>Crutch sent me. I came to collect a package from your boss.</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_2_2">
+		<text>Ah, I see. Cough up the dough and we'll let you in.</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_2_3">
+		<text>What dough? The trader didn't tell me anything about that.</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_2_4">
+		<text>Well, I'm telling you. Hand over the paper and we'll let you in. If you ain't paying, take the detour. Your choice.</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_2_5">
+		<text>Where's the detour?</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_2_6">
+		<text>Up to you to find out. Ain't my problem.</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_2_7">
+		<text>Alright. I'll find the detour, but as soon as I get inside the base, your papa's gonna know you're hustling bribes.</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_2_8">
+		<text>Listen, man, why don't you just cut the righteous talk and head on in? We ain't gonna touch you. Unless you make another threat, that is.</text>
+	</string>
+
+	<string id="val_bandits_garbage_dialog_2_9">
+		<text>I see. I'll head on in.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_dialog_case_0">
+		<text>What do you need?</text>
+	</string>
+
+	<string id="val_bandits_base_leader_dialog_case_1">
+		<text>Hi. Crutch sent me. I'm here for the package.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_dialog_case_2">
+		<text>Fresh meat, huh? Then listen up: this here is our base, and that means you're a guest to us. Remember that, and don't be making a show. Understand?</text>
+	</string>
+
+	<string id="val_bandits_base_leader_dialog_case_3">
+		<text>I understand. I'll just grab the case and hit the road.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_dialog_case_4">
+		<text>Hand over the money.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_dialog_case_5_1">
+		<text>Here.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_dialog_case_5_2">
+		<text>I don't have enough. I'll be right back.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_dialog_case_6">
+		<text>Alright, you can get out of here. And please, try not to overstay your welcome.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_dialog_case_7">
+		<text>Got it. I'm leaving.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_dialog_case_two_0">
+		<text>Got the money?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_0">
+		<text>What're ya hanging 'round for?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_1">
+		<text>Just passing by. I'm leaving.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_2">
+		<text>Say, pal, are you afraid of something?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_3">
+		<text>What do you mean?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_4">
+		<text>Just look at your legs. They're practically shaking! Try to make it to the can before you drop one on the ground, hah! Why so tense, buddy? You think our crew is gonna make trouble for you here?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_5">
+		<text>To be honest? I think it's best to be careful around you.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_6">
+		<text>Well, you're right about that, but no worries. I take it you're gonna be hauling packages from the Garbage trader?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_7">
+		<text>For now, yes.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_8">
+		<text>I see. So, uh... I'm gathering a team for a job. If the trader trusted you with his business, and you know when to play it safe, it means you're a stalker with brains. Interested?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_9">
+		<text>What job? Raids, muggings, robberies?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_10">
+		<text>Hey, don't be comparing us to those junkyard gangbangers! They're half loony and half desperate. People from 'round here... you could say we're more sympathetic.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_11">
+		<text>So what's this job of yours?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_12">
+		<text>I'm gathering a group to scout a place. This ain't no child's play, or else wouldn't need more than one or two guys.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_13">
+		<text>What place?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_14">
+		<text>You know the abandoned factory nearby?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_15_1">
+		<text>Haven't heard.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_15_2">
+		<text>Yeah, I passed by it.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_16_1">
+		<text>Well, basically, it's close by. That's also where you have the entrance to lab X18. We used to have it under control, squeezed all sorts of stalkers that enjoyed wandering into abandoned labs. Earned us some cash on the side. Later, some real shit went down in that place. Contacted our boys, asked what's up - no response. So we thought, maybe that last emission screwed up our comms. Sent a couple boys to check it out.\n \nThey come back after an hour, all panting and scared shitless. I ask, "What's the matter? What the hell happened?" And then they tell me, "Our boys are on ropes! They're all dead!" I ask, "The hell are you on? What do you mean, 'they're on ropes'"?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_16_2">
+		<text>Good. You probably know that's where the entrance to lab X18 is at. We used to have it under control, squeezed all sorts of stalkers that enjoyed wandering into abandoned labs. Earned us some cash on the side. Later, some real shit went down in that place. Contacted our boys, asked what's up - no response. So we thought, maybe that last emission screwed up our comms. Sent a couple boys to check it out.\n \nThey come back after an hour, all panting and scared shitless. I ask, "What's the matter? What the hell happened?" And then they tell me, "Our boys are on ropes! They're all dead!" I ask, "The hell are you on? What do you mean, 'they're on ropes'"?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_17">
+		<text>What did they say?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_18">
+		<text>Well, they caught their breath and started telling me everything. They were at the factory, and it was dead silent, until they started getting hit with the smell. Went inside and found all our boys dead with their remains scattered all over. Some were hanging on beams below the roof, others on the walls... It's like someone took them and hung them like Christmas lights. I didn't believe them for a moment, so I went there myself. Didn't get too close, just went up to the gate - and yeah, they weren't shitting.\n \nI had no clue how things ended up as they did, but I thought I'd round up the boys and go scout the place. I come back, and no one wants to go with me. The rumor spread like wildfire, and that place ended up on our blacklist - under no circumstances does anyone want to go there.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_19">
+		<text>Damn... So did you manage to gather a team?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_20">
+		<text>Three men. If you're in on it, we'll get going.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_21">
+		<text>What's in it for me?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_22">
+		<text>I'll pay you. Got four grand. I'll throw in some more if any trouble comes our way.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_23">
+		<text>Alright, that'll do. When are we moving out?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_24">
+		<text>I've got my boys near the factory. We'll go there, group together and head inside.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_25_1">
+		<text>Got it. Let's go.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_quest_dialog_25_2">
+		<text>At this very moment? I've got some business to take care of. You go and I'll catch up.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_angry_dialog_0">
+		<text>Hey, where the hell have you been? We're fed up sitting on our asses.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_angry_dialog_1_1">
+		<text>I'm ready. Let's go.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_angry_dialog_1_2">
+		<text>Just a little longer.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_0">
+		<text>Just a walk in the park, huh? Jesus...</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_1">
+		<text>God damn! Just what in the hell was that?!</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_2">
+		<text>Damned if I know! Didn't look like a regular old poltergeist at all - it's even got a different shine and color. Where did it even come from?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_3">
+		<text>You did say there's an underground entrance here. That's got to be it.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_4">
+		<text>Dunno, but it's a better guess than mine.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_5">
+		<text>I hope doesn't have any offspring.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_6">
+		<text>Best we make sure of that. I can't do business if we're gonna have garbage like this residing next door.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_7">
+		<text>Let's just blow up the underground passage and be done with it.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_8">
+		<text>Then why the hell did we clean this place up in the first place? We collapse the passage and no one's gonna visit here anymore. That means we can kiss our profit goodbye.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_9">
+		<text>I don't think the underground's what stalkers are looking for. What else could we find there of interest? My pal told me X18 was discovered just a few years ago - it must've been ransacked since then.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_10">
+		<text>No offense, homeboy, but I took you for someone who's seen the Zone. That's some stupid questions right there. It's not just an underground vault but an abandoned laboratory. You might think the place is raided, but I'm telling you: there's tons of good stuff left.\n \nYou ever heard the story about those valuable underground artifacts? It's more than just a story, if you ask me. We had this one stalker who liked going underground - paid us big money but still came time and time again. That means he made a profit, right? Though, he didn't return from his last underground trip... probably buried down there with all that loot he liked carrying.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_11">
+		<text>In any case, that's none of my business. I did my part, right?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_12">
+		<text>I keep my word. Honest pay for honest work. In case you're interested, don't be a stranger - we'll always have work in store for ya.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_13">
+		<text>Thanks. Good luck with your business, then!</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_14">
+		<text>You too! Just a friendly piece of advice as thanks for your help: if you're gonna continue dealing with Mongol, think twice before making any rash decisions. Watch yourself around him.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_15">
+		<text>What do you mean?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_16">
+		<text>Simple. Screwing over stalkers like you is a piece of cake for him.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_final_quest_dialog_17">
+		<text>Thanks for the heads-up. Stay safe.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_idle_dialog_0">
+		<text>Opa! Our mutie butcher! What'll it be?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_idle_dialog_two_0">
+		<text>Welcome. What do you need?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_idle_dialog_three_0">
+		<text>Anything new?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_idle_dialog_three_1_0">
+		<text>Nothing yet.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_idle_dialog_four_0">
+		<text>Don't take too long. Grab the pot and stick it in the punks' meals.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_idle_dialog_four_1">
+		<text>I'm going.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_idle_dialog_three_1_1">
+		<text>I got info on the entrance, but I'll go check it first.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_angry_dialog_0">
+		<text>What is this? There are no artifacts in your case!</text>
+	</string>
+
+	<string id="val_bandits_base_leader_angry_dialog_1">
+		<text>What? What's wrong?</text>
+	</string>
+
+	<string id="val_bandits_base_leader_angry_dialog_2">
+		<text>I gave you the money - the trader's money - and you didn't fulfill your part of the bargain. There are no artifacts in the case.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_angry_dialog_3">
+		<text>You've gone soft in the head, punk. You were given the case; whether you brought the artifacts to the trader or not is your problem. Where were you the whole time? Things like that need to be checked first thing, you snowflake... but you just went and wasted them all, and now you're making accusations against me. You know, it's too bad I need to maintain good relations with the trader, or else neither he nor any other stalker would recognize you after you leave here. Take a hike!</text>
+	</string>
+
+	<string id="val_bandits_base_leader_angry_dialog_4">
+		<text>But I need those artifacts.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_angry_dialog_5">
+		<text>No problem at all. Fifty grand and we'll have them ready for you.</text>
+	</string>
+
+	<string id="val_bandits_base_leader_angry_dialog_6">
+		<text>I see how it is...</text>
+	</string>
+
+	<string id="val_bandits_base_leader_idle_dialog_0">
+		<text>Whatcha need, stalker boy?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_0">
+		<text>Hey. It's me again. Still got work to offer me?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_1">
+		<text>Of course I do. We've got plans for this place, so there's a lot to be done. Hey, aren't you supposed to be at the Garbage?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_2">
+		<text>Put short, you were right about Mongol. So I wouldn't mind some work.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_3">
+		<text>Yeah, he can go shove a grenade up his ass. Here's a little secret: we want to get rid of him, 'cause we're real fed up... but it needs to be done peacefully. Mongol's got a lot of supporters - say something out of place and they'll pounce on you faster than a pack of snorks. But that's just thinkin' aloud. We should get down to business.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_4">
+		<text>Let's make this clear: I'm not gonna do hits or cross free stalkers.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_5">
+		<text>That's not what I'm suggesting. We'll do it ourselves if we have to. There's other work for you too - get in on our business. Perhaps you won't be raking in cash, but you won't be strapped for it either.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_6">
+		<text>An interesting offer... but what am I signing up for?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_7">
+		<text>First, we need to solve our little problem and check whether those muties have a lair underground. I'll send two of my boys with you as backup. Here's the key to the entrance. Just assess the situation, and if you see anything that looks like the mutant, scram on out of there - I don't want more casualties. While you do that, we'll finish up work here on the surface.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_8">
+		<text>Alright. If it's just a scouting trip, I'm in.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_idle_0">
+		<text>Get to the lab!</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_idle_1">
+		<text>On it.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_0">
+		<text>There you are! I was worried sick about you guys. What did you find?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_1">
+		<text>Came across a mutant similar to the other one. We dealt with it.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_2">
+		<text>Just one? Hey, where are my boys?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_3">
+		<text>I ran into a Freedomer... No idea how he ended up there, but he fired at us on sight.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_4">
+		<text>How's Freedom fit into all this? We were here this whole time - didn't let anyone through! Just what the hell happened down there?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_5">
+		<text>If you don't believe me, I found this PDA on his body. It says something about a back entrance.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_6">
+		<text>Strange... I don't know of any other entrance.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_7">
+		<text>Still, he somehow found a way in... Guy was armed to the teeth. He was looking for a map of stashes, and it seems that wealthy stalker of yours was doing the same thing - I found his body. Now I see why he went into the underground so often.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_8">
+		<text>What map?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_9">
+		<text>Take a look yourself - I found it on the stalker. It's got the location of some Freedom stash that was left while they were still in the Dark Valley.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_10">
+		<text>Strange. Haven't heard anything about it, and it's right under our base. I doubt even Mongol knows about it. What about my boys - did they make it?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_11">
+		<text>We split up. By the time I came back, the Freedom guy was searching their bodies.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_12">
+		<text>Damn, that's a real shame. Regardless, you did good: you dealt with the mutant and dug up some very interesting info. If you're interested, my offer still stands: you wanna join up with our crew?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_13">
+		<text>I'll have to refuse. Don't take this as an insult, but I'd rather not be part of the bandit roster.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_14">
+		<text>That's cool. I'm not forcing you. I'm just suggesting we continue cooperating. Honest pay for honest work, if we get any... and you won't be doing any hits either.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_15">
+		<text>Well, hell. I'm staying in the Dark Valley for a couple days, so I could use the extra work. I'm in.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_16">
+		<text>Sweet! Right now, we need to know as much as possible about the secret lab entrance the Freedom guy found. If we don't have it sealed and someone else finds out about it, our business is going down the drain.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_17">
+		<text>Any thoughts?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_18">
+		<text>I have one. Some stalkers settled on the farm, and they've been here longer than us, so they know the area better. Maybe they know some kind of lead? You're a guy with a pretty good reputation on you - best you go talk to them.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_job_dialog_final_19">
+		<text>Alright. I'll drop by.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_0">
+		<text>Hey, want a cool gun? I cracked open someone's stash at Yantar and found this Gauss rifle - practically new. I'm giving it away for only 1500 rubles! Don't have any rounds for it, but I need the cash real bad.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_1">
+		<text>Seems a bit shady to me... I'll have to decline the offer. But I do have a few questions for you.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_2">
+		<text>I'll answer any questions as long as you buy the gun.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_3">
+		<text>Give it up. What are you trying to sell me?</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_4">
+		<text>Nah, pal, you give up your money. Pay up and we'll talk.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_5_1">
+		<text>Fine. Take the damn money, you hustler.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_5_2">
+		<text>Damn. Out of cash right now...</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_6_1">
+		<text>Now we're talking. What did you want?</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_6_2">
+		<text>Come back when you get some. Best you don't talk to the others without any cash - I'll tell 'em.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_7_1">
+		<text>I'm looking for info on a secret entrance to lab X18. I know there's one somewhere.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_7_2">
+		<text>Bye.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_8">
+		<text>Why you wanna know that, man?</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_9">
+		<text>The bandits are robbing me blind! I want to find another way around so I can have a chance at some loot.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_10">
+		<text>There's nothing there but trash. What exactly did you plan on finding?</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_11">
+		<text>I'm looking for old tech. One man's trash is another man's treasure.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_12">
+		<text>Yeah, that makes sense... but I don't know of any such entrance. First time I've heard of it.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_13">
+		<text>You're a real fraud, you know that? Paid you for jack shit. You'll get far like that!</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_14">
+		<text>Don't get so worked up, pal. Ask Clumsy by the fire over there - he'll have more to tell you.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_start_15">
+		<text>Got it.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_two_0">
+		<text>So, got the cash?</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_two_1_1">
+		<text>Here.</text>
+	</string>
+
+	<string id="val_stalker_base_sentence_dialog_two_1_2">
+		<text>Not yet.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_0_1">
+		<text>Whatcha want? Out of my sight, man.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_0_2">
+		<text>Go about your business. Stay out of the way.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_0_3">
+		<text>What are ya hanging 'round here for? Clear out.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_0_4">
+		<text>I'm listening.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_0_5">
+		<text>Speak.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_0_6">
+		<text>What is it?</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_1_1">
+		<text>Someone's on edge today.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_1_2">
+		<text>Hi. Are you Clumsy? I was told you could help me with something.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_2">
+		<text>That's me. What is it?</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_3">
+		<text>I'm looking for a secret entrance to lab X18. Those bastard bandits are taking all of my money. Going through them is unprofitable.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_4">
+		<text>Sorry, but I can't help you for free either. Sharing information for free in these times is a luxury that you can't afford - *we* can't afford. Lots of bandits around, and they've cleared our pockets too.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_5">
+		<text>What do you want in exchange for information? I already paid for your "Gauss rifle."</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_6">
+		<text>Money's not what I need. There's something else you could help with instead... You look like you've been in the Zone for a while; you'll manage this.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_7">
+		<text>What needs doing?</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_8">
+		<text>There's a Fault anomaly a couple hundred yards away. I noticed this interesting artifact around it but couldn't get it. Tried to grab it, but it just wouldn't let me... and then my head started hurting, so I left. Strange place, for sure - I haven't noticed anything like that before. Perhaps you'll have better luck?</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_start_dialog_9">
+		<text>I do have some experience with artifact catching. I'll go check it out... but if you don't hand me the info, I'll keep it for myself.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_wait_dialog_0">
+		<text>How's it going with the artifact?</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_wait_dialog_1">
+		<text>Don't have it yet.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_final_dialog_0">
+		<text>What took you so long? Got the artifact?</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_final_dialog_1">
+		<text>Here it is. Haven't seen anything this weird before...</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_final_dialog_2">
+		<text>Woah, look at it... The hell is this? And what the hell happened to you? Did you stain your pants or something?</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_final_dialog_3">
+		<text>When I tried grabbing the artifact, it moved away a few meters from me. Then I started seeing phantom stalkers, and at the end of it, I was attacked by mutants resembling controllers...</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_final_dialog_4">
+		<text>Looks like I was right about something being off there. What happened next?</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_final_dialog_5">
+		<text>When I dealt with the mutants, my eyes were all foggy and I woke up in the morning. All that stuff was gone. I only saw the artifact lying in front of me...</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_final_dialog_6">
+		<text>Wow... Last time I went there, my head started aching. I pretty much came to myself after a couple hours. Anyway, as we agreed, I'll send you the approximate coordinates to the entrance on your PDA. Be careful there - there's tons more mutants waiting for you.</text>
+	</string>
+
+	<string id="val_stalker_base_quest_stalker_final_dialog_7">
+		<text>Thanks. Bye.</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_0">
+		<text>Finally!</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_1">
+		<text>What happened?</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_2">
+		<text>We did some thinking on the map you found of the Freedom stash, and we've come up with a plan on how to clean it out quietly.</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_3">
+		<text>What do you mean "clean it out"? What about Mongol? I thought you'd tell your leader that there are supplies under the base and that you'd get them afterwards.</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_4">
+		<text>We split with him. We're running our own gang now.</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_5">
+		<text>Well, now... Won't there be consequences for that?</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_6">
+		<text>Doubt it. We brought some of the other boys with us, so our camp isn't falling that easily, even if Mongol's planning on it... but he won't do anything. I'm sure of it.</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_7">
+		<text>But how do you plan on cleaning out the stash without making any fuss or taking anyone out? There are at least two dozen people in that base!</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_8">
+		<text>We'll get creative. And you're gonna help us with that.</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_9">
+		<text>Why me?</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_10">
+		<text>Because, all things considered, you're working with Mongol's group. They don't see you as an outsider in their base, and I can't say the same about us after leaving there.</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_11">
+		<text>What's your plan, then?</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_12">
+		<text>Okay, listen up. We know this one scientist who's willing to sell us some dope. We'll use it to drug the whole camp and, while they're all out like a light, clean out the stash. How's that sound to you? Genius plan, ain't it?</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_13">
+		<text>It's doubtful. How do you plan on carrying all that out?</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_14">
+		<text>Simple. I spent a long time in that base, so I know it like the back of my hand. You could spread it out inside the field kitchen: they'll go get their chow and then hit the sack. Whoever refuses dinner gets a pistol whip to the face - simple as that. No one will even realize who fooled 'em. I'll also give you a sizable reward for it - have I ever let you down on that?</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_15">
+		<text>You haven't... At least I've made enough for some equipment. What do I need to do?</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_16">
+		<text>You meet with the scientist, buy the dope and run inside the base. Then quietly spread out the powder, and that's that. We'll take care of the rest.</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_17">
+		<text>I'm in - I've got my bone to pick with them. I'll set down my conditions, though: I'm not gonna call dibs on the Freedom stash. I just need one thing held by Mongol. Help me get it and I'll come with you.</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_18">
+		<text>I didn't doubt you for a second! We'll stick out for you too, of course. You'll get your thing... Now, business: right now, I'm gonna prepare the boys and brief 'em on everything. In the meantime, you go to the scientist - just so happens he's on official business in the Valley. Here's your dough - buy the dope with it. After that, you go inside the base, and once you're there, be extra careful so that not a single rat catches you slip anything. Soon as they're sound asleep, we go inside and clean out the stash, nice and quiet. Everything clear?</text>
+	</string>
+
+	<string id="val_bandit_desertir_bandit_alarm_message_dialog_19">
+		<text>Clear! I'm off.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_0">
+		<text>Yes?</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_1">
+		<text>Hello! I'm here for the goods. You must've been told in advance.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_2">
+		<text>Oh, hello! Yes, I've been notified of your arrival. Here is your package.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_3">
+		<text>Is this your security?</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_4">
+		<text>Naturally. Without a security detail, our facility's assistants never leave anywhere.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_5">
+		<text>What are you doing so far away from your base? It's at Agroprom, correct?</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_6">
+		<text>Correct. There are certain samples we have to take in as short amount of time as possible... and, as ill fortune would have it, our superiors have no hired stalkers at their disposal. In such cases, such work is left to us. Personally, though, I adore expeditions of this type... there are simply times when laboratory work needs to be cast aside. Granted, the task I have today is not a simple one.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_7">
+		<text>What's the matter?</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_8">
+		<text>A unique anomaly has formed here. This type appears very rarely, and thus we'd like to study it in detail.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_9">
+		<text>Looks like an ordinary Electro.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_10">
+		<text>There are many of them here. What confuses me is that it's formed next to the swamp, next to a chemical anomaly. I'm interested in how they interact with one another. Perhaps some new artifacts will appear in the process. I need to place a scanner as close as possible to the epicenter, but it's not letting me.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_11">
+		<text>No way it can be placed from behind?</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_12">
+		<text>There is... but that may cause the final data to become of questionable quality.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_13_1">
+		<text>Let me try, okay? I heard Electros can be discharged by throwing bolts into them. Something might come out of it.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_13_2">
+		<text>I see. Well, good luck to you then - I have to get back to my business.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_14">
+		<text>That would be greatly appreciated.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_first_dialog_15">
+		<text>I'll try.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_idle_dialog_0_1">
+		<text>Greetings.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_idle_dialog_0_2">
+		<text>Yes?</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_idle_dialog_1_1">
+		<text>Good day.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_idle_dialog_1_2">
+		<text>Until next time.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_wait_scaner_dialog_0">
+		<text>How is it going?</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_wait_scaner_dialog_1">
+		<text>Just a minute.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_final_scaner_dialog_0">
+		<text>I see you made it!</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_final_scaner_dialog_1">
+		<text>I suppose. It wasn't easy. Did I place the scanner correctly?</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_final_scaner_dialog_2">
+		<text>As correct as can be! Thank you for the help. Incidentally, I cannot pay you anything right now, but do come visit me in our facility. Next week, I'll be working in the vegetation research department. There will absolutely be work for you... that pays well, of course.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_final_scaner_dialog_3">
+		<text>Garden work?</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_final_scaner_dialog_4">
+		<text>Haha! I don't believe a stalker of your stature would work with a shovel. We'll find more suitable work for you.</text>
+	</string>
+
+	<string id="val_scientist_smart_scientist_final_scaner_dialog_5">
+		<text>Thank you. Until next time.</text>
+	</string>
+
+	<string id="val_bandits_base_barmen_kitchen_dialog_0">
+		<text>What are you doing here?</text>
+	</string>
+
+	<string id="val_bandits_base_barmen_kitchen_dialog_1">
+		<text>I'm just working for the trader from the Garbage. I came here for the package.</text>
+	</string>
+
+	<string id="val_bandits_base_barmen_kitchen_dialog_2">
+		<text>I got that... but what are you snooping around the whole base for? Trying to sniff out somethin'?</text>
+	</string>
+
+	<string id="val_bandits_base_barmen_kitchen_dialog_3">
+		<text>Well... How do I explain it? I'm tight on money right now, and I need a bite real bad. I saw your kitchen, and it smells like heaven, so I wanted to grab something.</text>
+	</string>
+
+	<string id="val_bandits_base_barmen_kitchen_dialog_4">
+		<text>Hahaha! You're a sneaky bastard, you know that? Okay, come back in an hour. We'll feed ya for sure, you bum. Until then, just stay out of our hair.</text>
+	</string>
+
+	<string id="val_bandits_base_barmen_kitchen_dialog_5">
+		<text>What's for dinner?</text>
+	</string>
+
+	<string id="val_bandits_base_barmen_kitchen_dialog_6">
+		<text>You'll see. Now, scram on out of here.</text>
+	</string>
+
+	<string id="val_bandits_base_barmen_kitchen_dialog_7">
+		<text>Later, then.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_0">
+		<text>What's the news?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_1">
+		<text>The deed's done.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_2">
+		<text>That fast? Way to go! Everything go smooth?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_3">
+		<text>I think so.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_4">
+		<text>What do you mean, "I think so"? You sure everything's okay?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_5">
+		<text>One of the bandits noticed me, but he didn't see when I slipped the powder.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_6">
+		<text>Okay, great. That's all that matters. Now, we'll make a move for the stash in approximately two hours. I have a lookout at the gas station - soon as he gives the signal, we'll move.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_7">
+		<text>Got the explosives?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_8">
+		<text>Guess what: we know how to get the door open, so we won't have to use up the explosives on that. We could put the charge to different use instead.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_9">
+		<text>For what?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_10">
+		<text>What do you mean, "for what"? You were looking for another entrance to the lab, remember? Wouldn't be a bad thing if we'd seal it, considering that word in the Zone travels fast. Soon enough, everyone and their pseudodog will know about it. I'll entrust the job to you while we still have time. Here's the charge - blow everything up nice and firm. As soon as we need help, I'll holler at ya.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_dynamite_dialog_11">
+		<text>Alright. I'm off.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_ready_dialog_0">
+		<text>We're all set.</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_ready_dialog_1">
+		<text>Well? Everything prepared?</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_ready_dialog_2">
+		<text>Look at 'em, all sleeping like babies! Whoever hasn't fallen asleep, well, that's their problem. Careful: we don't have much time, so let's make this lightning fast. Right, let's go!</text>
+	</string>
+
+	<string id="val_bandits_base_desertir_ready_dialog_3">
+		<text>Let's go.</text>
+	</string>
+
+	<string id="val_bandit_desertir_treasure_start_dialog_0">
+		<text>Right! While we deal with the door, you go look for the thing you need. It's safer if my pal goes with you. Once you have it, get back here on the double. Got it?</text>
+	</string>
+
+	<string id="val_bandit_desertir_treasure_start_dialog_1">
+		<text>Got it. I'm moving.</text>
+	</string>
+
+	<string id="val_bandit_desertir_treasure_start_dialog_2">
+		<text>Hold up! Recently, a bunch of these lowlifes locked up a stalker in the basement. Think they called him "Mute." I might be a bandit myself, but man, some things you just don't do... I dunno what they're gonna do with him, but go check it out on the way if you get the chance. Might even free him. Just don't take too long - time's short as it is!</text>
+	</string>
+
+	<string id="val_bandit_desertir_treasure_start_dialog_3_1">
+		<text>Yeah, I definitely don't want to leave a stalker brother here. I should try. I'm off.</text>
+	</string>
+
+	<string id="val_bandit_desertir_treasure_start_dialog_3_2">
+		<text>Already taken care of, so don't worry. I'm off.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_11">
+		<text>Hey, man. Feel like shooting some crows?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_111">
+		<text>Sure.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_1111">
+		<text>Great. You can play for fun, cash, or try to set a new record. What do you want to do?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_112">
+		<text>Nah, I don't feel like it.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_1121">
+		<text>Your choice, buddy. I'll be here if you change your mind.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_21">
+		<text>Here's your dough as promised. I play fair. How about another go?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_31">
+		<text>That was just bad luck. Give it another shot, man!</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_41">
+		<text>Where are you going, man? Shooting outside is your private business, but how about you stay and play by the rules?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_51">
+		<text>You know that your time is ticking, right? We can talk later.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_511">
+		<text>Got it.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_0">
+		<text>I want to play for money.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_1">
+		<text>That's music to my ears. You need me to run over the rules for you or what?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_11">
+		<text>Let's get shooting.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_111">
+		<text>Enough chat, buddy. So, how many crows do you reckon you can take down in one minute?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_111111">
+		<text>Deal.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_1111111">
+		<text>Kickass. Get your shooter ready, man.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_11111111">
+		<text>Okay.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_111112">
+		<text>I don't have that much cash.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_1111121">
+		<text>Then how about you choose something you can afford?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_11111211">
+		<text>Yeah, I'll choose a different number of crows.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_11111212">
+		<text>No, not interested.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_111112121">
+		<text>Well, you can play for fun. Or you could try to set a record, but that really hits your pocket. What do you say?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_12">
+		<text>Please explain.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_121">
+		<text>Playing for money is my definition of fun. Tell me how many crows you're gonna take down in a minute, bet your cash and go get 'em. If you kill as many as you said, I double your cash, fair and square. If you don't, I keep the bet. And remember, the more crows, the higher the bets.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_money_13">
+		<text>I don't feel like playing all of a sudden.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_questions_0">
+		<text>Are there any general rules?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_questions_1">
+		<text>Not really. I start the timer, you get ready and start blasting at the crows on my signal. If you kill the right number in a minute, you win - good job and all that. How you kill them is up to you. But remember: if you leave this area, the game is over. So, do you want to play for fun, money, or try and set a new record?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_quit_0">
+		<text>I don't feel like playing.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_quit_1">
+		<text>Your choice, buddy. I'll be here if you change your mind.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_record_0">
+		<text>I want to set a new record.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_record_11">
+		<text>Let's start.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_record_1111">
+		<text>Okay.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_record_11111">
+		<text>Okay. Let's see if you're champion material, buddy.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_record_1112">
+		<text>I'd like to, but I don't have the cash.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_record_11121">
+		<text>Well, there are simpler options: you can play for cash or just for fun. What do you say?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_record_1113">
+		<text>I... changed my mind.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_record_12">
+		<text>Remind me what the rules are.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_record_121">
+		<text>Well, this one is for the real men. If you reckon you can beat the current record, you make a bet that matches it. If you manage to set a new record, I'll double your bet - plus, you'll be the new champ and all that. If you don't, I keep your cash.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_record_13">
+		<text>I... changed my mind.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_training_0">
+		<text>For fun.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_training_1">
+		<text>Ahh, just practicing? You remember the rules, don't ya?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_training_11">
+		<text>Yeah. Let's get to the shooting.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_training_111">
+		<text>Okay, so how many crows can you take out?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_training_11111">
+		<text>Okay, well, cough up the cash.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_training_111111">
+		<text>Okay.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_training_21">
+		<text>No. Tell me.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_training_211">
+		<text>Well, playing for fun is just that - you won't get any cash. It's good if you want to practice or just feeling shitty and want to shoot something. You just decide how many crows you can take out in a minute and attempt to do just that.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_training_31">
+		<text>I changed my mind.</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_training_311">
+		<text>No problem. The choices are still the same: play for money or try for a record. What do you say?</text>
+	</string>
+
+	<string id="val_bandit_bookmaker_hello_61">
+		<text>You did some good shootin' there, buddy. You should think about playing for cash. Feel like shooting some more?</text>
+	</string>
+
+	<string id="val_bandits_commentators_11">
+		<text>Check it out, man! One shot from this vertical baby and feathers fill the air!</text>
+	</string>
+
+	<string id="val_bandits_commentators_111">
+		<text>Hrm... I better go now.</text>
+	</string>
+
+	<string id="val_bandits_commentators_12">
+		<text>You don't like fowl either, heh? Don't worry, we got loads of 'em here!</text>
+	</string>
+
+	<string id="val_bandits_commentators_13">
+		<text>Whatcha standing there for? C'mon, slaughter the damn things, make a bloody mess, go for it!</text>
+	</string>
+
+	<string id="val_bandits_trader_start_dialog_0">
+		<text>Tell me about yourself.</text>
+	</string>
+
+	<string id="val_bandits_trader_start_dialog_1">
+		<text>I was doing backstreet business back in the Soviet Union when I got caught on a major deal. I did my time like a man - made some good buddies and connections with the underworld crowd - and when I got out, I started buying up goods from burglars. I got nicked again and did some more time, but when I got out, the Soviet Union was dead and buried. I never managed to adjust to the changes - I was broke and living a shit life... but then the Zone appeared, and I bolted here right away. This place immediately reminded me of the good old days, so I became a trader without a second thought. At first, I hung out with the boys at the Garbage, then made my way here. Been through two bosses by now! Mongol reminds me of Yoga - a sneaky bastard, that one. My gut tells me he'll end up the same way as my first boss.</text>
+	</string>
+
+	<string id="val_bandits_trader_start_dialog_2">
+		<text>Thanks.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_1_phrase_0_1">
+		<text>Listen, punk, you better clear out of here! I won't be held responsible for letting in drifters like you. Take the front entrance.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_1_phrase_0_2">
+		<text>Wrong entrance, buddy. Go through the front one so I don't get any trouble for trash like you.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_1_phrase_0_3">
+		<text>Hit the bricks, you bum! If it's the boss you want, go through the main entrance. This one is for our boys exclusively.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_1_phrase_0_4">
+		<text>Best you clear out of here, pal, before I wipe you off the face of the Zone myself. If it's the boss you want, take the main entrance.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_1_phrase_0_5">
+		<text>You stalkers amaze me! The hell you lookin' for here? Take the main entrance - this one ain't open for riffraff like you!</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_1_phrase_1_1">
+		<text>Don't get worked up. I'm leaving.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_1_phrase_1_2">
+		<text>I'm gone.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_1_phrase_1_3">
+		<text>I'm leaving.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_1_phrase_1_4">
+		<text>Alright, I'm going.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_1_phrase_1_5">
+		<text>I get it. Easy.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_2_phrase_0_1">
+		<text>Listen, party crasher, what are you slithering around for? If it's the boss you want to see, you need to go through the other side. This here is for our top dogs only, capiche?</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_2_phrase_0_2">
+		<text>Buddy, hit the road while you still can! Go inside our territory through the main entrance... if they let you through, that is.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_2_phrase_0_3">
+		<text>Turn around and go back to where you came, stalker boy. If you want Mongol, go through the other side. We don't let strangers through here.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_2_phrase_0_4">
+		<text>What are you looking at? Go see the boss if you have questions - it's on the other side. Now piss off!</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_2_phrase_0_5">
+		<text>Get lost, stalker - I ain't got time for you. If you've got business with Mongol, you can only get inside from the other side, where the gas station's at... if our boys don't take every red cent from you, hehe!</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_2_phrase_1_1">
+		<text>I won't bother you.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_2_phrase_1_2">
+		<text>Just don't get worked up. I'm turning.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_2_phrase_1_3">
+		<text>Alright, alright. I'm leaving.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_2_phrase_1_4">
+		<text>Yep, I'm getting out of here.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_2_phrase_1_5">
+		<text>You have a good day.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_3_phrase_0_1">
+		<text>Hey, party crasher! Turn back around and beat it while you still have the chance! Looking for Mongol? Then it's further to the right, through the main entrance. We don't let strangers pass here.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_3_phrase_0_2">
+		<text>Buddy, you should probably hightail it away from here... or something bad might happen to you. If you need the boss that badly, strike a deal with the boys at the front entrance. Capice?</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_3_phrase_0_3">
+		<text>Hey, ambassador, take whatever diplomatic business you have and go through the main entrance. Just don't waste my time, 'kay?</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_3_phrase_0_4">
+		<text>Hanging around here like a stray dog, huh? It's the boss you want, isn't it? Then take the front entrance. Take it up with boys over there, not with me. Get lost.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_3_phrase_0_5">
+		<text>What is it you don't get, stalker? Not the best place for you to hang around all alone, I'm telling you. If you wanna see Mongol, see the boys at the main entrance. Who knows, they might let you in if they're in a good mood... Now, clear off while you still can.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_3_phrase_1_1">
+		<text>I'm turning.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_3_phrase_1_2">
+		<text>Consider me gone.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_3_phrase_1_3">
+		<text>Right. I'm leaving.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_3_phrase_1_4">
+		<text>I'm out of here. Dial it down.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_dialog_3_phrase_1_5">
+		<text>Yep, I'm out of here.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_0">
+		<text>Hold your horses, punk! You're here for the boss, ain't you? Then you'll just have to pay him some tribute!</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_1_1">
+		<text>That wasn't the deal. I came to get the artifacts for the trader.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_1_2">
+		<text>No, just wandering around. I'm off.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_2">
+		<text>We don't care about your deals right now. Our boys are preparing for a raid across fields that are radioactive, but we're short on antirads. If you can get us ten of those, you can get your piece-of-shit artifacts. We'll keep our word.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_3_1">
+		<text>Here are your antirads.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_3_2">
+		<text>I'm short on antirads myself...</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_4_1">
+		<text>See? Where there's a hill... I mean, will, there's a way! Go on inside - I'll warn the others so they don't do anything to ya. Now hurry, chop-chop!</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_4_2">
+		<text>Well... I'll give you one other option. Either you pay up in cash instead of antirads - four grand - or you get us an artifact that can draw out radiation. You could also try to get a hold of antirads. The locals in uniform know more about it, but we're at odds with 'em.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_5_1">
+		<text>I'll go, then.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_5_2_1">
+		<text>Fine... Here are your antirads.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_5_2_2">
+		<text>Take the money.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_5_2_3">
+		<text>Here's an artifact.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_first_dialog_5_2_4">
+		<text>Alright. I'll see what I can think of...</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_0">
+		<text>Someone's eager to go places today! Where you headed, jag-off? To the boss? Uh-uh, pal, no chance - you'll have to do a little something for us first.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_1_1">
+		<text>Hey, that wasn't the deal. I just need to get the artifacts.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_1_2">
+		<text>I'm just looking around. Consider me gone.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_2">
+		<text>We don't give two turds in a pseudodog sandwich about your deals. Get us ten pieces of antirad and we'll talk. A group of ours is goin' on a raid in a couple of days - those areas are radioactive, and we don't have enough meds against it. Get it for us and you can pick up your artifacts.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_3_1">
+		<text>Here are the antirads.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_3_2">
+		<text>I'm low on meds myself...</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_4_1">
+		<text>Look at that! Funny you were so hesitant to cough it up! Okay, go on in. I'll tell our boys not to touch you.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_4_2">
+		<text>I guess there are a couple other options for you. Either you hand us money instead of antirads - four figures - or you get us some artifact that can deal with the radiation. 'Course, it's better if you get a hold of antirads. The locals in uniform probably have a supply, though we're at odds with 'em.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_5_1">
+		<text>Thanks.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_5_2_1">
+		<text>Alright. Here are the antirads.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_5_2_2">
+		<text>Take the cash.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_5_2_3">
+		<text>Take this artifact.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_task_second_dialog_5_2_4">
+		<text>Alright. I'll try to think of something.</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_search_task_first_dialog_0">
+		<text>Did you get what was asked of you?</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_search_task_second_dialog_0">
+		<text>So, find antirads?</text>
+	</string>
+
+	<string id="val_bandits_base_passage_lock_search_task_dialog_none">
+		<text>Not yet...</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_0">
+		<text>A stalker! No way... One of my own!</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_1">
+		<text>Hey, who are you and how'd you end up here?</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_2">
+		<text>Name's Mute. Those bastard bandits put heat on me practically right by the Duty checkpoint in front of the Bar! Plain embarrassing how those scum with jackets full of holes could shake down an experienced stalker... Those sons of bitches took everything. Only got this stupid sweater, and god knows where my precious armor's at... Now I'm in this cell, wasting away like a rotten corpse.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_3_1">
+		<text>So you're Mute, guy who disappeared from Brute's group? Your boys are looking for you!</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_3_2">
+		<text>Yeah... Shit like that happens... You been here for long?</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_4_1">
+		<text>Well, I'll be! What a small world! Yeah, I'm from his group, but we'll talk about that later. Could you help me out? I've been down here for three weeks by now!</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_4_2">
+		<text>I've been down in this damp basement for three weeks by now. Help me out, stalker!</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_5">
+		<text>I don't even know how to help you. The bandits don't exactly trust me...</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_6">
+		<text>Think of something, please! There's only one of those shitbags upstairs.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_7_1">
+		<text>Getting out from there won't be that easy. I'll try to help when I get the chance. You have my word.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_start_dialog_7_2">
+		<text>Right now, everyone should be sound asleep thanks to an elaborate scheme of mine... Wait just a moment. I'll try getting you out.</text>
+	</string>
+
+	<string id="val_bandits_base_prison_watcher_angry_dialog_0">
+		<text>Get lost before I throw you in the cell with that prick!</text>
+	</string>
+
+	<string id="val_bandits_base_prison_watcher_angry_dialog_1">
+		<text>Alright, alright. I'm leaving.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_idle_dialog_0_1">
+		<text>Open the cell, stalker! The controls are on the wall.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_idle_dialog_0_2">
+		<text>Stalker, get me out of here.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_idle_dialog_0_3">
+		<text>Buddy, please, open this damn cell!</text>
+	</string>
+
+	<string id="val_stalker_prisoner_idle_dialog_1_1">
+		<text>Don't panic. I'm on it.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_idle_dialog_1_2">
+		<text>Wait up. I'll open it now.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_idle_dialog_1_3">
+		<text>Wait up.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_0">
+		<text>Man, thank you so much! If it wasn't for you...</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_1">
+		<text>Congratulations on reclaiming your freedom!</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_2">
+		<text>If only you knew what escape plans I've been cooking up... I thought to myself, this is the end - I'm gonna die in this stinking cell and no one will even remember me. And then you show up!</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_3_1">
+		<text>Let's get out of here, man. You have any place you could go without equipment?</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_3_2">
+		<text>So that's who you are, Mute the Duty guy! Your squadmates are looking for you - I saw them at the Cordon. Brute's group, right?</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_4_1">
+		<text>Of course I do! I'm going to the Bar, to my group - to Brute and the others. Feels like forever since I last saw them... I'll just go to the Cordon along the way to do some business - won't be getting through the bandits to take a direct path anyway.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_4_2">
+		<text>Well, I should realize it's a small world by now... Yeah, that's my group. So they're at the Cordon? They must've gone to the Bar by now, so I'll make my way there. I'll just go to the Cordon along the way to do some business - won't be getting through the bandits to take a direct path anyway.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_5_1">
+		<text>I feel you. I've been in situations like this too, but not to this extent.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_5_2">
+		<text>So just how did you end up here?</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_6_1">
+		<text>Listen, drop by at the Bar when you get the chance - my boys and I are usually stationed at the Duty checkpoint by the Wild Territory. I've got this stash that's jam packed with stuff, so I'll give you some of it to remember me. Drop by if you're ever around. My guys will also be glad to see you!</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_6_2">
+		<text>Yeah, so, I was heading in the direction of the Army Warehouses. Was almost at the Duty checkpoint by the Bar when those bastard bandits put heat on me. Plain embarrassing how I couldn't deal with them... Let's just forget about it.\n \nListen, drop by at the Bar when you get the chance - my boys and I are usually stationed at the Duty checkpoint by the Wild Territory. I've got this stash that's jam packed with stuff, so I'll give you some of it to remember me. Drop by if you're ever around. My guys will also be glad to see you!</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_7">
+		<text>I'll be sure to visit.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_8">
+		<text>Hold up. How'd you even get here? What's happening up there, where are the bandits?</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_9">
+		<text>Long story. Look, the bandits are out like logs, so you need to disappear before they wake up.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_10">
+		<text>Alright. Stay safe! See you at the Bar.</text>
+	</string>
+
+	<string id="val_stalker_prisoner_final_dialog_11">
+		<text>See you.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_0">
+		<text>Hi. Got the goods?</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_1">
+		<text>Hey. You guys sure seem on edge. I don't have the goods, but I have this PDA.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_2">
+		<text>What else did you find there? I mean, in the place where you found the PDA.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_3">
+		<text>Some corpses... Seems like there was a battle there. A few mutants, stalkers and mercenaries. It's like they first shot at the mutants and then at each other.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_4">
+		<text>That makes sense... Actually, no, it doesn't. There are no goods, but there's you and a load of corpses. How did you even end up in there?</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_5">
+		<text>The boys sent a distress signal, so Crutch sent me.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_6">
+		<text>Idiots! Alright, savior boy, here's a little something for the PDA.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_7">
+		<text>Thank you, gracious sir.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_8">
+		<text>Cut the wise talk, stalker. I need those goods ASAP; you probably have an empty wallet and nothing to do, and I have no time to look for someone else. Listen: here's a spare meeting place in case of any unforeseen circumstances. That's where the column was supposed to move in case there were any misunderstandings. You go with my man - he'll cover you. Go there, look around, then report back.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_9">
+		<text>Got it. Why don't you take your henchmen and go by yourself?</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_10">
+		<text>Because, smartass, I need to remain here in case that part of the group decides to come back here. Now, enough chit-chat. Grinya will go with you.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_leader_start_dialog_11">
+		<text>Seems I have no choice. I'll move out with him.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_follower_final_dialog_0">
+		<text>Sorry, stalker, but I have specific instructions regarding you.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_follower_final_dialog_1">
+		<text>So that's how it is. Why'd we go all the way here? Was killing me on the spot no good? Wasted time.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_follower_final_dialog_2">
+		<text>How was it wasted time? I already checked that the camp was empty. I only needed you to check the anomalies for me.</text>
+	</string>
+
+	<string id="val_composer_task_stalker_follower_final_dialog_3">
+		<text>Bastards!</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_0">
+		<text>What are you staring at? Come on, get up. I'd even say you owe me a thank-you, hehe!</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_1">
+		<text>Thanks... And who are you?</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_2">
+		<text>Who am I... A bat in a freakin' hat. Name's Cluster.</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_3">
+		<text>Cluster... What clusterfuck have I gotten myself into? How'd you get here?</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_4">
+		<text>You're asking big questions, pal! What's your name? Investigator? Just so you know, I'm a goodfella and I don't like watching things go south. I see a man in trouble, I help him. I mean, it'll go in my favor, right?</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_5">
+		<text>For someone in bandit cloth, never once have I met a goody two-shoes like you.</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_6">
+		<text>That's just pushing it, buddy! I'm telling you, Cluster's a good guy, don't like when there's trouble. He ain't the sharpest tool in the shed, but he's no chump either, you get me?</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_7">
+		<text>I get you, I get you. Though, forgive me if I don't believe in good samaritans among your people.</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_8">
+		<text>Ah, fugget about it. Believe in Santa Claus if you like, but don't forget Cluster saved your hide. As you understand, he hopes the, uh... service will be returned.</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_9">
+		<text>I'm not surprised. What do you need?</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_10">
+		<text>Okay, so, whacking Vizier is a no-go right now, 'specially since we don't know who's covering up for him. We can't stay here either, 'cos they'll be coming for your escort soon. All I can say is, you're in their sights now!</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_11">
+		<text>I get that, but what are you getting out of this, Cluster? They'll waste both of us.</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_12">
+		<text>Well, you see here: I saw what was in the place where the stalkers carried their box, and since Vizier himself is in the game, there must be some serious goodies in that box. I can feel it. These guys really don't want show their cards, since they tried to off ya. Y'know, less people knowing about it means less trouble for them, and the head honcho gets more dough.</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_13">
+		<text>I didn't even want anything out of this whole thing ???. What exactly do you suggest?</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_14">
+		<text>We need to find that box and take the stuff no matter what. I can't do it on my own, so you'll help me in return. I also know some people, so when we find it, we'll take off and see them. Capiche?</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_15">
+		<text>Capiche. Where are we headed?</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_16">
+		<text>To the Garbage. I stashed a PDA I found on a stalker there before you showed up. I got a small stash there and I need to read what's in the PDA, 'cos doing it in the Valley with this whole circus? Not a chance.</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_start_dialog_17">
+		<text>Let's go.</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_info_dialog_0">
+		<text>Tell me about yourself.</text>
+	</string>
+
+	<string id="val_composer_task_bandit_savior_info_dialog_1">
+		<text>Heh, buddy, if I tell you anything, it's game over for me!</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_dialog_0">
+		<text>Holy shit, you scared me!</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_dialog_1">
+		<text>Hi. One question: who are you and what's happening here?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_dialog_2">
+		<text>Phew, heart's beating out of my chest. Nice to see you too, traveler. I'm trying to make this little device, but I'm missing one part... a few parts, actually. Name's Harpoon. Listen, could you help me? There's good pay in it for you.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_dialog_3">
+		<text>Of course I can help, but what is it you're making?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_dialog_4">
+		<text>A radio receiver. I should say, something like a radio receiver, but more powerful. For that, I need an actual radio, plus as an electric lamp.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_dialog_5">
+		<text>What's the lamp for?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_dialog_6">
+		<text>You see, to amplify the signal, I need some source of electricity. See how much equipment there is here? I plan on making a generator out of it, and for that, I need a lamp.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_dialog_7">
+		<text>Okay, then. So what's the catch? You said you'd pay me well.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_dialog_8">
+		<text>There is one catch. I know places where you can get all the stuff: there's a lamp, as well as a radio, in the garage next to the entrance to the abandoned laboratory. There's bound to be lots of garbage and old electronics there. It's just that I already sent one guy there, and he hasn't come back. Maybe he gave up on it, or maybe... maybe something happened to him.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_start_dialog_9">
+		<text>Okay, I'll try to solve your problem, but no guarantees.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_idle_dialog_0_1_1">
+		<text>Find anything?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_idle_dialog_0_2_1">
+		<text>How's it going?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_idle_dialog_0_3_1">
+		<text>Any luck?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_idle_dialog_1_1_1">
+		<text>Nothing yet.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_idle_dialog_1_2_1">
+		<text>Haven't found anything.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_idle_dialog_1_3_1">
+		<text>If I get any results, I'll let you know.</text>
+	</string>
+
+	<string id="val_stalker_technic_friend_task_start_dialog_0">
+		<text>Hey there, newcomer. Need something?</text>
+	</string>
+
+	<string id="val_stalker_technic_friend_task_start_dialog_1">
+		<text>Hi. Yeah, I'd like to know: who are you?</text>
+	</string>
+
+	<string id="val_stalker_technic_friend_task_start_dialog_2">
+		<text>That's an unusual, if not stupid question. We're a group of stalkers who live here, doing the usual things, collecting artifacts and making a living. Just like everyone else. My name's Mug.</text>
+	</string>
+
+	<string id="val_stalker_technic_friend_task_start_dialog_3">
+		<text>I see. Who exactly is that Harpoon guy?</text>
+	</string>
+
+	<string id="val_stalker_technic_friend_task_start_dialog_4">
+		<text>Well, he's been with us since the beginning. Decent guy, just a bit secretive. He's kind of our engineer.</text>
+	</string>
+
+	<string id="val_stalker_technic_friend_task_start_dialog_5">
+		<text>So, this "secrecy" led him to leave separately from you?</text>
+	</string>
+
+	<string id="val_stalker_technic_friend_task_start_dialog_6">
+		<text>Not really. He concluded that we'd distract him, which is why he's the only true loner out of us.</text>
+	</string>
+
+	<string id="val_stalker_technic_friend_task_start_dialog_7">
+		<text>And he's always been with you?</text>
+	</string>
+
+	<string id="val_stalker_technic_friend_task_start_dialog_8">
+		<text>No. There was this one faction long ago, though I forgot the name. They were doing research. When it split up, he happened upon us. That's pretty much all we know about him.</text>
+	</string>
+
+	<string id="val_stalker_technic_friend_task_start_dialog_9">
+		<text>I see. I guess I'll go.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_0">
+		<text>You got everything? Are you in one piece? What happened to the other guy?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_1">
+		<text>Here's your junk. You don't need to look for him - he's doing fine where he is, all eaten up by bloodsuckers. And I still have a question for you.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_2">
+		<text>Shoot. Oh, yeah, your reward: here's the money. It'll be of use to you.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_3">
+		<text>Thanks. As for my question: why so much money for a regular fetch job?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_4">
+		<text>First of all, I told you the pay would be good. Second: you got me. I don't need the lamp for a radio receiver - I'm a collectioner of sorts, gathering all kinds of equipment and other thingies. This, for example, is a rare sample.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_5">
+		<text>I see. Not my business anymore. You got anything else you need dug up?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_6">
+		<text>It's money you want, huh? I get it. Let me think... I do have something, but I'm not ready to share with you just yet.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_7">
+		<text>Is it a secret?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_8">
+		<text>You could say that. Come back here later when I finish a little business. I'll message you.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_9">
+		<text>Alright. You've got me interested.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_10">
+		<text>Trust me, it'll be worth it.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_reward_dialog_11">
+		<text>Later.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_0">
+		<text>Ah, it's you. I can explain...</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_1">
+		<text>Don't play stupid. Puma already did.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_2">
+		<text>I wasn't trying to.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_3">
+		<text>Who are you really, and what happened at the farm? I know you're no collectioner.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_4">
+		<text>Correct. I take it I'm dead if I don't tell you?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_5">
+		<text>You're goddamn right.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_6">
+		<text>My story starts with the Clear Sky faction. I was a fighter in their ranks, fond of all sorts of technical devices. I learned from the technician Novikov... doubt you know who that is. Anyway, I once overheard a little conversation between our commander-in-chief and an apprentice, and it was something about "psy-emissions," the "C-Consciousness" and "Strelok." As it turned out, our chief had worked in the C-Consciousness, and the rumor spread after the faction broke apart. At one point, I thought: why not make my own pocket psy-emitter? Imagine what a weapon that would be. That's when the stalkers invited me, and after thinking about it, I joined. Then we settled here, and I realized this was the perfect spot... and today, I've made history. I don't mind continuing the work of those great people, and that's why these stalkers turned into vegetables. As for Puma, I needed him to eliminate the only witness - you.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_7">
+		<text>Well, thanks for the clarification. How did you survive?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_8">
+		<text>My helmet, kiddo. That's the key to not joining them.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_9">
+		<text>How did you plan on moving it? I saw what you were building. Thing's a leviathan.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_10">
+		<text>What's it matter? And here's my question to you: what comes next?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_11_1">
+		<text>I think the answer is obvious. You don't want me around now that I've seen what you've done. I also have no reason to trust you after I turn my back - you might just put a bullet in me.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_11_2_1">
+		<text>Alright. You'll leave and smash that thing to pieces so no one else gets hurt. Not even that, you'll tear it apart under my watch. I'll keep your secret because I'm not looking for any trouble, but if I see you again, everyone will know who you are. Believe me, I have friends who will tell if anything happens to me. Understand?</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_first_dialog_11_2_2">
+		<text>I know everything I need to. I've already smashed your emitter to pieces, so now we'll go our own ways peacefully. If I ever meet you again, I'll shoot you where you stand.</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_second_dialog_0">
+		<text>Shit...</text>
+	</string>
+
+	<string id="val_stalker_technic_task_final_second_dialog_1">
+		<text>What's the matter? Be happy you're alive! Anyone else would've gunned you down a long time ago! Now let's split. We never saw each other.</text>
+	</string>
+
+	<string id="val_bandits_base_bandits_idle_dialog_0_1">
+		<text>What are you looking at?</text>
+	</string>
+
+	<string id="val_bandits_base_bandits_idle_dialog_0_2">
+		<text>Hey, what do you want?</text>
+	</string>
+
+	<string id="val_bandits_base_bandits_idle_dialog_0_3">
+		<text>Stay out of the way, monkey!</text>
+	</string>
+
+	<string id="val_bandits_base_bandits_idle_dialog_0_4">
+		<text>Keep a straight face, it makes you want to piss on her.</text>
+	</string>
+
+	<string id="val_bandits_base_bandits_idle_dialog_0_5">
+		<text>How long have you been peeing boiling water? Never? Then you will, you defective, if you don't get out of my sight now.</text>
+	</string>
+
 </string_table>

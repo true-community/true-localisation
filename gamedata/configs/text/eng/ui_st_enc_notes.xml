@@ -1,177 +1,236 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1252"?>
 <string_table>
-  <string id="encyclopedia_tasks_agr_diggers_safe_code">
-    <text>Digger safe code</text>
-  </string>
-  <string id="encyclopedia_tasks_agr_diggers_safe_code_descr">
-    <text>Code to the digger safe at Agroprom: %c[ts_pda_color]127625%c[default].</text>
-  </string>
-  <string id="encyclopedia_tasks_labx18_door_code">
-    <text>X-18 door codes</text>
-  </string>
-  <string id="encyclopedia_tasks_labx18_door_code_descr">
-    <text>Info from the stalker PDA: The code %c[ts_pda_color]1243%c[default] opens the door on the top floor, %c[ts_pda_color]9524%c[default] opens bottom floor door.</text>
-  </string>
-  <string id="encyclopedia_tasks_kat_boss_notes">
-    <text>Note from the Master</text>
-  </string>
-  <string id="encyclopedia_tasks_kat_boss_notes_descr">
-    <text>A note apparently left by the Master of the Underground for his daughter: \n \n%c[ts_pda_color]"Honey, when you get back from school, be sure to eat and do your homework. Daddy's going on a general meeting with by the scientists. I'll be gone for a couple of hours. Be a good girl. Love you.%c[default] \n \n[written underneath with different handwriting] \n \n%c[ts_pda_color]Daddy! Mommy, Sasha and I are being sent out of the village! Something here exploded again, and everyone's being told to leave. Mommy thinks you won't come back, but she's wrong! I know you'll come back and be with us again, daddy, I just know it! I love you so much!"</text>
-  </string>
-  <string id="encyclopedia_other_kat_corpse_notes_1">
-    <text>Dead stalker's notes</text>
-  </string>
-  <string id="encyclopedia_other_kat_corpse_notes_2">
-    <text>Dead stalker's notes</text>
-  </string>
-  <string id="encyclopedia_other_kat_corpse_notes_3">
-    <text>Dead stalker's notes</text>
-  </string>
-  <string id="encyclopedia_other_kat_corpse_notes_1_descr">
-    <text>Note from dead stalker's PDA from the unknown underground area: %c[ts_pda_color]"Seems there's no way out of here. Wherever I go, I always end up back at the same spot. That thing is everywhere. Palych, Bullet... brothers, if you find me, grab the things I scraped up under the anomalous tree in the Dark Valley..."</text>
-  </string>
-  <string id="encyclopedia_other_kat_corpse_notes_2_descr">
-    <text>Note from dead stalker's PDA from the unknown underground area: %c[ts_pda_color]"What is it that he wants? If he wanted to kill me, he'd have done it already, like he did to those unlucky decoys. But it's like he's out to screw with me, make me go nuts. Seems he's all silent now. I'll rest up a bit and head on ahead. I'm seeing a light, and it looks like that might be the exit..."</text>
-  </string>
-  <string id="encyclopedia_other_kat_corpse_notes_3_descr">
-    <text>Note from dead stalker's PDA from the unknown underground area: %c[ts_pda_color]"God damn that hole! Three of my men from the squad died off almost immediately, but Fedya and I were left alive and wandered around for a couple of days... after which he joined them. I'll never get what happened out of my head: he touched a zombie by accident and got torn to pieces right before my eyes. I noticed the zombie carried a badge with the tag 'X-18' — they must've been test subjects. Being that I'm a guest in this underground, I'll try to heed this 'benevolent' master's commands. He might even let me out..."</text>
-  </string>
-  <string id="encyclopedia_other_kat_corpse_notes_1_sms_descr">
-    <text>%c[ts_pda_color]"Seems there's no way out of here. Wherever I go, I always end up back at the same spot. That thing is everywhere. Palych, Bullet... brothers, if you find me, grab the things I scraped up under the anomalous tree in the Dark Valley..."</text>
-  </string>
-  <string id="encyclopedia_other_kat_corpse_notes_2_sms_descr">
-    <text>%c[ts_pda_color]"What is it that he wants? If he wanted to kill me, he'd have done it already, like he did to those unlucky doppelgangers. But it's like he wants to screw with me and make me go nuts. It seems he's gone silent now. I'll rest up a bit and head on ahead. I'm seeing a light, and it looks like that might be the exit..."</text>
-  </string>
-  <string id="encyclopedia_other_kat_corpse_notes_3_sms_descr">
-    <text>%c[ts_pda_color]"God damn that hole! Three of my men from the squad died off almost immediately, but Fedya and I made it and wandered around for a couple of days... after which he joined them. I'll never get what happened out of my head: he touched a zombie by accident and got torn to pieces right before my eyes. I noticed the zombie carried a badge with the tag 'X-18' — they must've been test subjects. Being a guest in this underground, I'll try to heed this 'benevolent' master's commands. He might even let me out..."</text>
-  </string>
-  <string id="encyclopedia_other_kat_duty_leader_notes">
-    <text>Entry from general Tachenko</text>
-  </string>
-  <string id="encyclopedia_other_kat_duty_leader_notes_descr">
-    <text>From general Tachenko, found dead underground in the Dark Valley. His PDA contained one entry:\n \n%c[ts_pda_color]"Wherever you go, you always end up at the same spot. Damn this fog. Can never get used to it. Chepurnoy just disappeared. Strange. Maybe he found an exit?\n \nDay six. Out of water. The colonel went mad; shot two others and then himself in the head. Now I'm alone. Alone in this damn anomaly. What an idiot I am for cutting comms with HQ. They could've rescued us. I'd retire, have my cottage, go fishing... And there'd be no Duty. I wonder how everything would've turned out.\n \nBut that's gone. Captain Tachenko died long ago. And General Tachenko of Duty will soon follow. Into the blue heavens. Into wide hunting fields. That's justice for you."</text>
-  </string>
-  <string id="encyclopedia_other_agru_corpse_pda_info">
-    <text>Note from Buzzard</text>
-  </string>
-  <string id="encyclopedia_other_agru_corpse_pda_info_descr">
-    <text>Note from Buzzard's PDA:\n \n%c[ts_pda_color]"That decoy son of a bitch... Started fussing around and threw me right into the Fruit Punch. Panicking shit! Got himself killed, and I got my legs all sizzled! All because of that damn artifact! If I knew what I was getting into, no way I'd have gone into that anomaly! Now all my hopes are on Red. He should be somewhere nearby — promised to help. God damn, this hurts..."</text>
-  </string>
-  <string id="encyclopedia_other_gar_chase_bandits_info">
-    <text>Mongol's order</text>
-  </string>
-  <string id="encyclopedia_other_gar_chase_bandits_info_descr">
-    <text>Note from one of the bandits' PDA at the Garbage:\n \n%c[ts_pda_color]"Go see how our boys are doing in the tunnel, 'cause they've been quiet for some time. They're probably feeding the Zone's worms by now, but we need to make sure what's going on. Wouldn't want to lose such a sweet spot. One more thing: you'll scout the Garbage and see what's up on the outskirts. There's gonna be some hardass who took out our boys at the base. Try blocking the road to the Cordon. If you see him, gouge out his eyeballs and skullfuck him."</text>
-  </string>
-  <string id="encyclopedia_other_gar_new_medic_treasure_info">
-    <text>Scientists' belongings</text>
-  </string>
-  <string id="encyclopedia_other_gar_new_medic_treasure_info_descr">
-    <text>The new stalker medic, Sanya, told me that there's a cluster of Electro anomalies somewhere at the Garbage. The scientist group left their things there in a hurry. I should check it out.</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_suicide_stalker_notes">
-    <text>Note from Kite</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_suicide_stalker_notes_descr">
-    <text>A stalker nearly fell down onto me... A note I found on him contains the following:\n \n%c[ts_pda_color]I can't take it anymore. I JUST CAN'T TAKE IT! They're following me. It's like they're inside me! I can't stand living here anymore, and they aren't letting me outside of these areas. Seems there's only one way out... Die! And let me die with you!"</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_village_letter">
-    <text>Note from Ferret</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_village_letter_descr">
-    <text>A note from Ferret found at the site of his suicide:\n \n%c[ts_pda_color]"Five shadows. They come for everyone."</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_village_leader_letter">
-    <text>Note from Eustace</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_village_leader_letter_descr">
-    <text>A note from Eustace found on him after suicide:\n \n%c[ts_pda_color]"Save yourselves while you still can!"</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_soldier_polter_notes">
-    <text>Note from soldier</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_soldier_polter_notes_1">
-    <text>Note from soldier</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_soldier_polter_notes_1_descr">
-    <text>A note that seems to be written by a soldier. Found in a bus:\n \n%c[ts_pda_color]"Hey, Masha! How's our boy doing? Is your flu better? I was given a two-week leave, so I'm flying home tomorrow. You mentioned that Andrey isn't going to school, but don't worry, 'cause daddy's bringing him a little present soon — a little valuable trinket that my uncle in Kyiv sent me a couple days ago. Let's call it a family heirloom — you'll see it once I arrive. See you soon. Love you both!\n \n%c[default]These notes contain a map with a marked spot. The soldier was likely to keep something valuable there.</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_soldier_polter_notes_2">
-    <text>Note from soldier</text>
-  </string>
-  <string id="encyclopedia_tasks_nsp_soldier_polter_notes_2_descr">
-    <text>Another part of the soldier's notes:\n \n%c[ts_pda_color]"I thought about it and decided not to tell anyone what happened during the last installation test, even more so since it's been three days and I feel fine. I must've been born under a lucky star... Damn, though, I'll never forget that fireball that flew out of the generator set right into my chest... Nobody noticed it, since they were all at the control panel. No way I'm telling anyone, though, or else they'll have my stripes for not complying with safety regulations!"</text>
-  </string>
-  <string id="encyclopedia_other_esc_atp_bandits_found_device">
-    <text>"Holy mackerel"</text>
-  </string>
-  <string id="encyclopedia_other_esc_atp_bandits_found_device_descr">
-    <text>A bandit body at the vehicle station held a PDA with a message:\n \n%c[ts_pda_color]"And here I was wondering why the hell no one was getting in touch! The boys and I went to see what was going on, and all of 'em kicked the bucket. We also found some strange thingamajig in the attic... a device of some sort. I don't think it was left by our guys. Maybe that's what's behind all these mutant attacks? We smashed it to pieces just to be doubly sure."</text>
-  </string>
-  <string id="encyclopedia_tasks_hunter_corp_boar_record_1">
-    <text>Note from Greek #1</text>
-  </string>
-  <string id="encyclopedia_tasks_hunter_corp_boar_record_1_descr">
-    <text>Note from the hunter Greek, whose body was found in the lair of the massive boar known as general Shtok:\n \n%c[ts_pda_color]"That hunk of meat, Shtok, split Mazay wide open. Jug told us we'll gather the team and go searching for him at sunrise... Like hell I'll wait 'til sunrise! I'll head out myself while it's dark and tear that thing's fangs out. What are we, hunters or chickenshits?!"</text>
-  </string>
-  <string id="encyclopedia_tasks_hunter_corp_boar_record_2">
-    <text>Note from Greek #2</text>
-  </string>
-  <string id="encyclopedia_tasks_hunter_corp_boar_record_2_descr">
-    <text>Another note from Greek:\n \n%c[ts_pda_color]"Shit on a cracker... I tried tracking the thing down, and it came out of nowhere and knocked me right off my feet. Took me to its lair while I was unconscious... Damn, this hurts! Can't even move my legs, and there's no connection in this cursed hole. Lost my rifle, but I still have my pistol and some AP rounds. Soon as Shtok gets back, I'll teach him a lesson..."</text>
-  </string>
-  <string id="encyclopedia_other_yan_friend_jurok_notes">
-    <text>Notes from Vityok</text>
-  </string>
-  <string id="encyclopedia_other_yan_friend_jurok_notes_descr">
-    <text>Stalker Vityok's records, whose body was found near the scientists' bunker at Yantar:\n \n%c[default]Sep 8, 2012\n%c[ts_pda_color]"Got hammered with Yurok yesterday. Woke up in the morning and felt like horseshit. I'm sick and tired of this life, having to fetch tin cans for small change. Tonight, it's back to sitting with those deadbeats and guzzling vodka while listening to their crazy stories about how they found their first artifacts. I want good work already, something to keep me going for a while. Yurok's well off and isn't going bankrupt anytime soon, so I decided to get out of here. I'm going to the scientists — there's always work at Yantar."\n \n%c[default]Nov 18, 2012\n%c[ts_pda_color]"Haven't written in my journal for a long time, and for a good reason. Yantar really had lots of work to offer: accompanying scientists, going out on snork hunts with the bunker security and more. Managed to earn some money before winter, and now I'm back to the outside — gonna spend the cold months and be back here by spring."\n \n%c[default]Nov 19, 2012\n%c[ts_pda_color]"Stopped by the Cordon to see Yurok, but he wasn't in the village. Got told he led some stalkers toward the Darkscape. Left him some vodka as a gift and continued home."\n \n%c[default]March 4, 2013\n%c[ts_pda_color]"After my little hibernation, I'm back at Yantar. To say that things hit me like a freight train would be an understatement. Everything is different now: the scientists are working on some kind of project, the factory's sealed off and they're not letting me in. They're all busy with something big, and I'm left to pick up the crumbs. I'm working as bunker security again, but the money's not the same. Even my head's started hurting; maybe spring vitamins haven't kicked in yet."\n \n%c[default]April 25, 2013\n%c[ts_pda_color]"Mutant activity is much higher, and we're barely holding them off. We were promised additional guards, and until they arrive, we're to guard the bunker twenty-four seven. Good thing they raised our pay, but if this keeps up, I swear, I'm out of here."\n \n%c[default]May 30, 2013\n%c[ts_pda_color]"What are the eggheads up to in that damn factory? My head just keeps on pounding, and everyone else feels the same thing. I made my decision to leave first thing in the morning. I'll grab my payment and head back for the Cordon."</text>
-  </string>
-  <string id="encyclopedia_other_global_actor_treasure">
-    <text>My stash</text>
-  </string>
-  <string id="encyclopedia_other_global_actor_treasure_descr">
-    <text>This personal stash serves for storing excess loot and valuables. All contents are shared between areas, meaning loot placed in any such stash is accessible from stashes marked with the same icon even from a different location. Other residents of the Zone will not touch items inside. These stashes are only available on neutral territory.</text>
-  </string>
-  <string id="encyclopedia_tasks_zombie_scientist_door_code">
-    <text>Code to door in factory</text>
-  </string>
-  <string id="encyclopedia_tasks_zombie_scientist_door_code_descr">
-    <text>Professor Sytyanov's PDA held the coordinates to the emitter that's causing problems around Yantar.\n \nIt also contains the code to a door that leads directly into the emitter: %c[ts_pda_color]439478%c[default].</text>
-  </string>
-  <string id="encyclopedia_tasks_mil_mercs_base_safe_code">
-    <text>Code to mercenary safe</text>
-  </string>
-  <string id="encyclopedia_tasks_mil_mercs_base_safe_code_descr">
-    <text>A mercenary body at the Army Warehouses held the code to a safe with their loot and the loot of other stalkers they've battled with in the underground: %c[ts_pda_color]128947%c[default].</text>
-  </string>
-  <string id="encyclopedia_tasks_gar_composer_task_merc_info">
-    <text>Note from mercenary</text>
-  </string>
-  <string id="encyclopedia_tasks_gar_composer_task_merc_info_descr">
-    <text>Note from a mercenary who was leading the stalker group:\n \n%c[ts_pda_color]"I don't get the deal with this Turov guy. Is he a scientist, an engineer or both? Either way, the contract's a fat one, with double the rate and a bonus for the short notice. Our CO's competent and knows the right people.\n \nCarrying the cargo, day two. Three stalkers move it while we do the security work. Stalkers say its weight changes. One moment, you can easily carry it yourself; the next, not even the three of them can manage... Strange. Still, we're almost at the target. If something goes off, we'll hand the cargo over to Vizier. After that, we can return to base, get some shut-eye and have a bite.\n \nMy head's been hurting all day and I barely got a wink of sleep. Hope we get this over with soon, 'cause I'm not liking it. Just in case: if you're reading this, we got a raw deal. Our code states that my PDA is to be handed to Vizier — for a reward, of course."</text>
-  </string>
-  <string id="encyclopedia_other_labx18_rakoffka_stalker_note">
-    <text>Note from Lemur</text>
-  </string>
-  <string id="encyclopedia_other_labx18_rakoffka_stalker_note_descr">
-    <text>A note from Lemur, a stalker found in the X-18 laboratory. A single entry is available:\n \n%c[ts_pda_color]"Artyom and I barely broke through the bandits, and they're all gone. Apparently, the documents are somewhere in the main hall, but I'm hearing some strange sound from there. If it wasn't for my chance to make a million, I'd never have gone here with this geologist guy. I'll leave this scientist suit I found here along with my marksman rifle just in case. Who knows what's up ahead..."</text>
-  </string>
-  <string id="encyclopedia_tasks_val_stalker_technic_merc_pda">
-    <text>Message from contractor</text>
-  </string>
-  <string id="encyclopedia_tasks_val_stalker_technic_merc_pda_descr">
-    <text>A message from a certain contractor is available in Puma's PDA:\n \n%c[ts_pda_color]"Puma, head to the farm and await the stalker there. Should be easily distinguishable from the zombies. If not the emissions, the locals will get him. I've always been generous to you, so don't let me down. As soon as it's done, head to the gas station, where you'll find me with the payment."</text>
-  </string>
-  <string id="encyclopedia_tasks_bar_stalker_goose_note">
-    <text>Note from Goose</text>
-  </string>
-  <string id="encyclopedia_tasks_bar_stalker_goose_note_descr">
-    <text>A note from Goose that given to me after his death in the arena:\n \n%c[ts_pda_color]"Hi, friend. If you're reading this, it means I'm already dead. Like I said, it doesn't matter anymore. Thanks for your attention and words of support. It was really nice and unexpected. After talking to you, I even thought about running somewhere far away and starting life anew, forgetting my past pain. But I barely made it to the Bar in the first place, and I could never survive in the Zone by myself. And running away from someone who helped me isn't right.\n \nCobra, though unsociable and even dangerous, helped me when everyone else turned their back. The fact that I'd have to work off the debt my whole life didn't bother me — what mattered was my mom. He paid a lot of money to that private clinic after I gave him my full share for the raid. Then she died. And everything he transferred is gone. 'No refunds,' they said. I couldn't talk to Cobra again for more work. I'm already in debt to him, even though I'm a nobody to him. I didn't know what to do other than participate in battles. Thank Cobra for everything and tell him I'm sorry I couldn't repay him. Goodbye."</text>
-  </string>
-  <string id="encyclopedia_tasks_esc_first_actor_photo">
-    <text>Photo of stalker</text>
-  </string>
-  <string id="encyclopedia_tasks_esc_first_actor_photo_descr">
-    <text>%c[ts_pda_color]"According to our information, one stalker is connected with Dubinin. He appeared in his company a couple of times, as evidenced by the testimony of one of the guards. I went through the video archive and found recordings from the surveillance cameras of the Agroprom complex, I am attaching a photo. I think it will be easier for you to find a needle in a haystack, having an idea of what he looks like."</text>
-  </string>
+
+	<string id="encyclopedia_tasks_agr_diggers_safe_code">
+		<text>Digger safe code</text>
+	</string>
+
+	<string id="encyclopedia_tasks_agr_diggers_safe_code_descr">
+		<text>Code to the digger safe at Agroprom: %c[ts_pda_color]127625%c[default].</text>
+	</string>
+
+	<string id="encyclopedia_tasks_labx18_door_code">
+		<text>X-18 door codes</text>
+	</string>
+
+	<string id="encyclopedia_tasks_labx18_door_code_descr">
+		<text>Info from the stalker PDA: The code %c[ts_pda_color]1243%c[default] opens the door on the top floor, %c[ts_pda_color]9524%c[default] opens bottom floor door.</text>
+	</string>
+
+	<string id="encyclopedia_tasks_kat_boss_notes">
+		<text>Note from the Master</text>
+	</string>
+
+	<string id="encyclopedia_tasks_kat_boss_notes_descr">
+		<text>A note apparently left by the Master of the Underground for his daughter: \n \n%c[ts_pda_color]"Honey, when you get back from school, be sure to eat and do your homework. Daddy's going on a general meeting with by the scientists. I'll be gone for a couple of hours. Be a good girl. Love you.%c[default] \n \n[written underneath with different handwriting] \n \n%c[ts_pda_color]Daddy! Mommy, Sasha and I are being sent out of the village! Something here exploded again, and everyone's being told to leave. Mommy thinks you won't come back, but she's wrong! I know you'll come back and be with us again, daddy, I just know it! I love you so much!"</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_corpse_notes_1">
+		<text>Dead stalker's notes</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_corpse_notes_2">
+		<text>Dead stalker's notes</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_corpse_notes_3">
+		<text>Dead stalker's notes</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_corpse_notes_1_descr">
+		<text>Note from dead stalker's PDA from the unknown underground area: %c[ts_pda_color]"Seems there's no way out of here. Wherever I go, I always end up back at the same spot. That thing is everywhere. Palych, Bullet... brothers, if you find me, grab the things I scraped up under the anomalous tree in the Dark Valley..."</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_corpse_notes_2_descr">
+		<text>Note from dead stalker's PDA from the unknown underground area: %c[ts_pda_color]"What is it that he wants? If he wanted to kill me, he'd have done it already, like he did to those unlucky decoys. But it's like he's out to screw with me, make me go nuts. Seems he's all silent now. I'll rest up a bit and head on ahead. I'm seeing a light, and it looks like that might be the exit..."</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_corpse_notes_3_descr">
+		<text>Note from dead stalker's PDA from the unknown underground area: %c[ts_pda_color]"God damn that hole! Three of my men from the squad died off almost immediately, but Fedya and I were left alive and wandered around for a couple of days... after which he joined them. I'll never get what happened out of my head: he touched a zombie by accident and got torn to pieces right before my eyes. I noticed the zombie carried a badge with the tag 'X-18' - they must've been test subjects. Being that I'm a guest in this underground, I'll try to heed this 'benevolent' master's commands. He might even let me out..."</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_corpse_notes_1_sms_descr">
+		<text>%c[ts_pda_color]"Seems there's no way out of here. Wherever I go, I always end up back at the same spot. That thing is everywhere. Palych, Bullet... brothers, if you find me, grab the things I scraped up under the anomalous tree in the Dark Valley..."</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_corpse_notes_2_sms_descr">
+		<text>%c[ts_pda_color]"What is it that he wants? If he wanted to kill me, he'd have done it already, like he did to those unlucky doppelgangers. But it's like he wants to screw with me and make me go nuts. It seems he's gone silent now. I'll rest up a bit and head on ahead. I'm seeing a light, and it looks like that might be the exit..."</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_corpse_notes_3_sms_descr">
+		<text>%c[ts_pda_color]"God damn that hole! Three of my men from the squad died off almost immediately, but Fedya and I made it and wandered around for a couple of days... after which he joined them. I'll never get what happened out of my head: he touched a zombie by accident and got torn to pieces right before my eyes. I noticed the zombie carried a badge with the tag 'X-18' - they must've been test subjects. Being a guest in this underground, I'll try to heed this 'benevolent' master's commands. He might even let me out..."</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_duty_leader_notes">
+		<text>Entry from General Tachenko</text>
+	</string>
+
+	<string id="encyclopedia_other_kat_duty_leader_notes_descr">
+		<text>From General Tachenko, found dead underground in the Dark Valley. His PDA contained one entry:\n \n%c[ts_pda_color]"Wherever you go, you always end up at the same spot. Damn this fog. Can never get used to it. Chepurnoy just disappeared. Strange. Maybe he found an exit?\n \nDay six. Out of water. The colonel went mad; shot two others and then himself in the head. Now I'm alone. Alone in this damn anomaly. What an idiot I am for cutting comms with HQ. They could've rescued us. I'd retire, have my cottage, go fishing... And there'd be no Duty. I wonder how everything would've turned out.\n \nBut that's gone. Captain Tachenko died long ago. And General Tachenko of Duty will soon follow. Into the blue heavens. Into wide hunting fields. That's justice for you."</text>
+	</string>
+
+	<string id="encyclopedia_other_agru_corpse_pda_info">
+		<text>Note from Buzzard</text>
+	</string>
+
+	<string id="encyclopedia_other_agru_corpse_pda_info_descr">
+		<text>Note from Buzzard's PDA:\n \n%c[ts_pda_color]"That decoy son of a bitch... Started fussing around and threw me right into the Fruit Punch. Panicking shit! Got himself killed, and I got my legs all sizzled! All because of that damn artifact! If I knew what I was getting into, no way I'd have gone into that anomaly! Now all my hopes are on Red. He should be somewhere nearby - promised to help. God damn, this hurts..."</text>
+	</string>
+
+	<string id="encyclopedia_other_gar_chase_bandits_info">
+		<text>Mongol's order</text>
+	</string>
+
+	<string id="encyclopedia_other_gar_chase_bandits_info_descr">
+		<text>Note from one of the bandits' PDA at the Garbage:\n \n%c[ts_pda_color]"Go see how our boys are doing in the tunnel, 'cause they've been quiet for some time. They're probably feeding the Zone's worms by now, but we need to make sure what's going on. Wouldn't want to lose such a sweet spot. One more thing: you'll scout the Garbage and see what's up on the outskirts. There's gonna be some hardass who took out our boys at the base. Try blocking the road to the Cordon. If you see him, gouge out his eyeballs and skullfuck him."</text>
+	</string>
+
+	<string id="encyclopedia_other_gar_new_medic_treasure_info">
+		<text>Scientists' belongings</text>
+	</string>
+
+	<string id="encyclopedia_other_gar_new_medic_treasure_info_descr">
+		<text>The new stalker medic, Sanya, told me that there's a cluster of Electro anomalies somewhere at the Garbage. The scientist group left their things there in a hurry. I should check it out.</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_suicide_stalker_notes">
+		<text>Note from Kite</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_suicide_stalker_notes_descr">
+		<text>A stalker nearly fell down onto me... A note I found on him contains the following:\n \n%c[ts_pda_color]"I just can't take this anymore. I JUST CAN'T! They're following me. It's as if they're already inside me! Life here has become unbearable... they're not letting me out of this place. I suppose there's only one way out... letting them die along with me!"</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_village_letter">
+		<text>Note from Ferret</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_village_letter_descr">
+		<text>A note from Ferret found at the site of his suicide:\n \n%c[ts_pda_color]"The five shadows... They are coming for everybody."</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_village_leader_letter">
+		<text>Note from Eustace</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_village_leader_letter_descr">
+		<text>A note from Eustace found next to him after he commited suicide:\n \n%c[ts_pda_color]"Save yourselves while you still can!"</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_soldier_polter_notes">
+		<text>Note from soldier</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_soldier_polter_notes_1">
+		<text>Note from soldier</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_soldier_polter_notes_1_descr">
+		<text>A note that seems to be written by a soldier. Found in a bus:\n \n%c[ts_pda_color]"Hey, Masha! How's our boy doing? Is your flu better? I was given a two-week leave, so I'm flying home tomorrow. You mentioned that Andrey isn't going to school, but don't worry, 'cause daddy's bringing him a little present soon - a little valuable trinket that my uncle in Kyiv sent me a couple days ago. Let's call it a family heirloom - you'll see it once I arrive. See you soon. Love you both!\n \n%c[default]These notes contain a map with a marked spot. The soldier was likely to keep something valuable there.</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_soldier_polter_notes_2">
+		<text>Note from soldier</text>
+	</string>
+
+	<string id="encyclopedia_tasks_nsp_soldier_polter_notes_2_descr">
+		<text>Another part of the soldier's notes:\n \n%c[ts_pda_color]"I thought about it and decided not to tell anyone what happened during the last installation test, even more so since it's been three days and I feel fine. I must've been born under a lucky star... Damn, though, I'll never forget that fireball that flew out of the generator set right into my chest... Nobody noticed it, since they were all at the control panel. No way I'm telling anyone, though, or else they'll have my stripes for not complying with safety regulations!"</text>
+	</string>
+
+	<string id="encyclopedia_other_esc_atp_bandits_found_device">
+		<text>"Holy mackerel"</text>
+	</string>
+
+	<string id="encyclopedia_other_esc_atp_bandits_found_device_descr">
+		<text>A bandit body at the vehicle station held a PDA with a message:\n \n%c[ts_pda_color]"And here I was wondering why the hell no one was getting in touch! The boys and I went to see what was going on, and all of 'em kicked the bucket. We also found some strange thingamajig in the attic... a device of some sort. I don't think it was left by our guys. Maybe that's what's behind all these mutant attacks? We smashed it to pieces just to be doubly sure."</text>
+	</string>
+
+	<string id="encyclopedia_tasks_hunter_corp_boar_record_1">
+		<text>Note from Greek #1</text>
+	</string>
+
+	<string id="encyclopedia_tasks_hunter_corp_boar_record_1_descr">
+		<text>Note from the hunter Greek, whose body was found in the lair of the massive boar known as general Shtok:\n \n%c[ts_pda_color]"That hunk of meat, Shtok, split Mazay wide open. Jug told us we'll gather the team and go searching for him at sunrise... Like hell I'll wait 'til sunrise! I'll head out myself while it's dark and tear that thing's fangs out. What are we, hunters or chickenshits?!"</text>
+	</string>
+
+	<string id="encyclopedia_tasks_hunter_corp_boar_record_2">
+		<text>Note from Greek #2</text>
+	</string>
+
+	<string id="encyclopedia_tasks_hunter_corp_boar_record_2_descr">
+		<text>Another note from Greek:\n \n%c[ts_pda_color]"Shit on a cracker... I tried tracking the thing down, and it came out of nowhere and knocked me right off my feet. Took me to its lair while I was unconscious... Damn, this hurts! Can't even move my legs, and there's no connection in this cursed hole. Lost my rifle, but I still have my pistol and some AP rounds. Soon as Shtok gets back, I'll teach him a lesson..."</text>
+	</string>
+
+	<string id="encyclopedia_other_yan_friend_jurok_notes">
+		<text>Notes from Vityok</text>
+	</string>
+
+	<string id="encyclopedia_other_yan_friend_jurok_notes_descr">
+		<text>Stalker Vityok's records, whose body was found near the scientists' bunker at Yantar:\n \n%c[default]Sep 8, 2012\n%c[ts_pda_color]"Got hammered with Yurok yesterday. Woke up in the morning and felt like horseshit. I'm sick and tired of this life, having to fetch tin cans for small change. Tonight, it's back to sitting with those deadbeats and guzzling vodka while listening to their crazy stories about how they found their first artifacts. I want good work already, something to keep me going for a while. Yurok's well off and isn't going bankrupt anytime soon, so I decided to get out of here. I'm going to the scientists - there's always work at Yantar."\n \n%c[default]Nov 18, 2012\n%c[ts_pda_color]"Haven't written in my journal for a long time, and for a good reason. Yantar really had lots of work to offer: accompanying scientists, going out on snork hunts with the bunker security and more. Managed to earn some money before winter, and now I'm back to the outside - gonna spend the cold months and be back here by spring."\n \n%c[default]Nov 19, 2012\n%c[ts_pda_color]"Stopped by the Cordon to see Yurok, but he wasn't in the village. Got told he led some stalkers toward the Darkscape. Left him some vodka as a gift and continued home."\n \n%c[default]March 4, 2013\n%c[ts_pda_color]"After my little hibernation, I'm back at Yantar. To say that things hit me like a freight train would be an understatement. Everything is different now: the scientists are working on some kind of project, the factory's sealed off and they're not letting me in. They're all busy with something big, and I'm left to pick up the crumbs. I'm working as bunker security again, but the money's not the same. Even my head's started hurting; maybe spring vitamins haven't kicked in yet."\n \n%c[default]April 25, 2013\n%c[ts_pda_color]"Mutant activity is much higher, and we're barely holding them off. We were promised additional guards, and until they arrive, we're to guard the bunker twenty-four seven. Good thing they raised our pay, but if this keeps up, I swear, I'm out of here."\n \n%c[default]May 30, 2013\n%c[ts_pda_color]"What are the eggheads up to in that damn factory? My head just keeps on pounding, and everyone else feels the same thing. I made my decision to leave first thing in the morning. I'll grab my payment and head back for the Cordon."</text>
+	</string>
+
+	<string id="encyclopedia_other_global_actor_treasure">
+		<text>My stash</text>
+	</string>
+
+	<string id="encyclopedia_other_global_actor_treasure_descr">
+		<text>This personal stash serves for storing excess loot and valuables. All contents are shared between areas, meaning loot placed in any such stash is accessible from stashes marked with the same icon even from a different location. Other residents of the Zone will not touch items inside. These stashes are only available on neutral territory.</text>
+	</string>
+
+	<string id="encyclopedia_tasks_zombie_scientist_door_code">
+		<text>Code to door in factory</text>
+	</string>
+
+	<string id="encyclopedia_tasks_zombie_scientist_door_code_descr">
+		<text>Professor Sytyanov's PDA held the coordinates to the emitter that's causing problems around Yantar.\n \nIt also contains the code to a door that leads directly into the emitter: %c[ts_pda_color]439478%c[default].</text>
+	</string>
+
+	<string id="encyclopedia_tasks_mil_mercs_base_safe_code">
+		<text>Code to mercenary safe</text>
+	</string>
+
+	<string id="encyclopedia_tasks_mil_mercs_base_safe_code_descr">
+		<text>A mercenary body at the Army Warehouses held the code to a safe with their loot and the loot of other stalkers they've battled with in the underground: %c[ts_pda_color]128947%c[default].</text>
+	</string>
+
+	<string id="encyclopedia_tasks_gar_composer_task_merc_info">
+		<text>Note from mercenary</text>
+	</string>
+
+	<string id="encyclopedia_tasks_gar_composer_task_merc_info_descr">
+		<text>Note from a mercenary who was leading the stalker group:\n \n%c[ts_pda_color]"I don't get the deal with this Turov guy. Is he a scientist, an engineer or both? Either way, the contract's a fat one, with double the rate and a bonus for the short notice. Our CO's competent and knows the right people.\n \nCarrying the cargo, day two. Three stalkers move it while we do the security work. Stalkers say its weight changes. One moment, you can easily carry it yourself; the next, not even the three of them can manage... Strange. Still, we're almost at the target. If something goes off, we'll hand the cargo over to Vizier. After that, we can return to base, get some shut-eye and have a bite.\n \nMy head's been hurting all day and I barely got a wink of sleep. Hope we get this over with soon, 'cause I'm not liking it. Just in case: if you're reading this, we got a raw deal. Our code states that my PDA is to be handed to Vizier - for a reward, of course."</text>
+	</string>
+
+	<string id="encyclopedia_other_labx18_rakoffka_stalker_note">
+		<text>Note from Lemur</text>
+	</string>
+
+	<string id="encyclopedia_other_labx18_rakoffka_stalker_note_descr">
+		<text>A note from Lemur, a stalker found in the X-18 laboratory. A single entry is available:\n \n%c[ts_pda_color]"Artyom and I barely broke through the bandits, and they're all gone. Apparently, the documents are somewhere in the main hall, but I'm hearing some strange sound from there. If it wasn't for my chance to make a million, I'd never have gone here with this geologist guy. I'll leave this scientist suit I found here along with my marksman rifle just in case. Who knows what's up ahead..."</text>
+	</string>
+
+	<string id="encyclopedia_tasks_val_stalker_technic_merc_pda">
+		<text>Message from contractor</text>
+	</string>
+
+	<string id="encyclopedia_tasks_val_stalker_technic_merc_pda_descr">
+		<text>A message from a certain contractor is available in Puma's PDA:\n \n%c[ts_pda_color]"Puma, head to the farm and await the stalker there. Should be easily distinguishable from the zombies. If not the emissions, the locals will get him. I've always been generous to you, so don't let me down. As soon as it's done, head to the gas station, where you'll find me with the payment."</text>
+	</string>
+
+	<string id="encyclopedia_tasks_bar_stalker_goose_note">
+		<text>Note from Goose</text>
+	</string>
+
+	<string id="encyclopedia_tasks_bar_stalker_goose_note_descr">
+		<text>A note from Goose that given to me after his death in the arena:\n \n%c[ts_pda_color]"Hi, friend. If you're reading this, it means I'm already dead. Like I said, it doesn't matter anymore. Thanks for your attention and words of support. It was really nice and unexpected. After talking to you, I even thought about running somewhere far away and starting life anew, forgetting my past pain. But I barely made it to the Bar in the first place, and I could never survive in the Zone by myself. And running away from someone who helped me isn't right.\n \nCobra, though unsociable and even dangerous, helped me when everyone else turned their back. The fact that I'd have to work off the debt my whole life didn't bother me - what mattered was my mom. He paid a lot of money to that private clinic after I gave him my full share for the raid. Then she died. And everything he transferred is gone. 'No refunds,' they said. I couldn't talk to Cobra again for more work. I'm already in debt to him, even though I'm a nobody to him. I didn't know what to do other than participate in battles. Thank Cobra for everything and tell him I'm sorry I couldn't repay him. Goodbye."</text>
+	</string>
+
+	<string id="encyclopedia_tasks_esc_first_actor_photo">
+		<text>Photo of stalker</text>
+	</string>
+
+	<string id="encyclopedia_tasks_esc_first_actor_photo_descr">
+		<text>%c[ts_pda_color]"According to our information, one stalker is connected with Dubinin. He appeared in his company a couple of times, as evidenced by the testimony of one of the guards. I went through the video archive and found recordings from the surveillance cameras of the Agroprom complex, I am attaching a photo. I think it will be easier for you to find a needle in a haystack, having an idea of what he looks like."</text>
+	</string>
+
 </string_table>

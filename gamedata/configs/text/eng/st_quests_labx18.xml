@@ -1,99 +1,132 @@
-<?xml version="1.0" encoding="windows-1251"?>
+﻿<?xml version="1.0" encoding="windows-1252"?>
 <string_table>
-  <string id="labx18_inspect_level">
-    <text>RECON BELOW GROUND</text>
-  </string>
-  <string id="labx18_inspect_level_start_down_name">
-    <text>Enter the X-18 laboratory with the bandits</text>
-  </string>
-  <string id="labx18_inspect_level_start_down_text">
-    <text>I must investigate the situation down in the underground labroratory with the bandit squad and inform Trukhlyay.</text>
-  </string>
-  <string id="labx18_map_treasure">
-    <text>MISSING STALKER</text>
-  </string>
-  <string id="labx18_map_treasure_search_stalker_name">
-    <text>Find the stalker dead or alive</text>
-  </string>
-  <string id="labx18_map_treasure_search_stalker_text">
-    <text>Trukhlyay said that an experienced stalker went missing somewhere in X18. Perhaps I'll stumble onto him... or his body.</text>
-  </string>
-  <string id="labx18_map_treasure_check_new_location_name">
-    <text>Investigate the area marked on the map</text>
-  </string>
-  <string id="labx18_map_treasure_check_new_location_text">
-    <text>I found a map on the wealthy stalker's body with a highlighted area that likely has something to do with Freedom. I should check it out. The fact that it's located in bandit territory might be a problem, though...</text>
-  </string>
-  <string id="labx18_inspect_level_start_name">
-    <text>Examine the laboratory with the bandits</text>
-  </string>
-  <string id="labx18_inspect_level_start_text">
-    <text>I should check the laboratory together with the bandits.</text>
-  </string>
-  <string id="labx18_inspect_level_kill_monsters_name">
-    <text>Deal with the mutants</text>
-  </string>
-  <string id="labx18_inspect_level_kill_monsters_text">
-    <text>In order to advance further into the laboratory, the mutants need to be eliminated.</text>
-  </string>
-  <string id="labx18_inspect_level_speak_bandit_name">
-    <text>Talk to the bandit</text>
-  </string>
-  <string id="labx18_inspect_level_speak_bandit_text">
-    <text>Masol seems alarmed after the mutant attack. We should discuss how to proceed.</text>
-  </string>
-  <string id="labx18_inspect_level_alone_name">
-    <text>Examine all X-18 levels alone</text>
-  </string>
-  <string id="labx18_inspect_level_alone_one_text">
-    <text>I'm an idiot. I knew I shouldn't have trusted those bandit bastards! They'll pay for this one way or another.</text>
-  </string>
-  <string id="labx18_inspect_level_alone_two_text">
-    <text>I should've helped the bandits deal with the mutants, but oh well. They'll probably manage just fine while I go examine the laboratory. They probably wouldn't have came along anyway.</text>
-  </string>
-  <string id="labx18_inspect_level_alone_three_text">
-    <text>The mutants are dead. I'll go check what's happening on the lower levels. I don't think those crooks would've gone with me — they seem a bit too suspicious.</text>
-  </string>
-  <string id="labx18_inspect_level_kill_monster_name">
-    <text>Eliminate the monster</text>
-  </string>
-  <string id="labx18_inspect_level_kill_monster_text">
-    <text>Seems this is the same thing we killed on the surface. I hope to God I can handle it alone...</text>
-  </string>
-  <string id="labx18_inspect_level_go_back_name">
-    <text>Return to the surface</text>
-  </string>
-  <string id="labx18_inspect_level_go_back_text">
-    <text>The thing is dead. Time to go back up.</text>
-  </string>
-  <string id="labx18_inspect_level_go_back_two_text">
-    <text>Now someone from Freedom is attacking me! Time to get the hell out of here already.</text>
-  </string>
-  <string id="labx18_inspect_level_search_corpse_name">
-    <text>Check the unknown stalker's body</text>
-  </string>
-  <string id="labx18_inspect_level_search_corpse_text">
-    <text>A stalker attacked me at the exit. Looks like he's from... Freedom? I should check his body for anything important.</text>
-  </string>
-  <string id="labx18_inspect_level_speak_bandit_desertir_name">
-    <text>Report to Trukhlyay</text>
-  </string>
-  <string id="labx18_inspect_level_speak_bandit_desertir_text">
-    <text>I finally got out. It's time to get back to Trukhlyay with the news, though not very good ones...</text>
-  </string>
-  <string id="labx18_task_code">
-    <text>CODE-LOCKED DOOR</text>
-  </string>
-  <string id="labx18_task_code_search_name">
-    <text>Find the door code</text>
-  </string>
-  <string id="labx18_task_code_search_text">
-    <text>I need to find out what's behind the locked door. Perhaps I'll find the code after looking around a bit more.</text>
-  </string>
-  <string id="labx18_task_code_open_door_name">
-    <text>Enter the next room</text>
-  </string>
-  <string id="labx18_task_code_open_door_text">
-    <text>I have the code. Time to see just what is behind that door.</text>
-  </string>
+
+	<string id="labx18_inspect_level">
+		<text>RECON BELOW GROUND</text>
+	</string>
+
+	<string id="labx18_inspect_level_start_down_name">
+		<text>Enter the X-18 laboratory with the bandits</text>
+	</string>
+
+	<string id="labx18_inspect_level_start_down_text">
+		<text>I must investigate the situation down in the underground labroratory with the bandit squad and inform Trukhlyay.</text>
+	</string>
+
+	<string id="labx18_map_treasure">
+		<text>MISSING STALKER</text>
+	</string>
+
+	<string id="labx18_map_treasure_search_stalker_name">
+		<text>Find the stalker dead or alive</text>
+	</string>
+
+	<string id="labx18_map_treasure_search_stalker_text">
+		<text>Trukhlyay said that an experienced stalker went missing somewhere in X18. Perhaps I'll stumble onto him... or his body.</text>
+	</string>
+
+	<string id="labx18_map_treasure_check_new_location_name">
+		<text>Investigate the area marked on the map</text>
+	</string>
+
+	<string id="labx18_map_treasure_check_new_location_text">
+		<text>I found a map on the wealthy stalker's body with a highlighted area that likely has something to do with Freedom. I should check it out. The fact that it's located in bandit territory might be a problem, though...</text>
+	</string>
+
+	<string id="labx18_inspect_level_start_name">
+		<text>Examine the laboratory with the bandits</text>
+	</string>
+
+	<string id="labx18_inspect_level_start_text">
+		<text>I should check the laboratory together with the bandits.</text>
+	</string>
+
+	<string id="labx18_inspect_level_kill_monsters_name">
+		<text>Deal with the mutants</text>
+	</string>
+
+	<string id="labx18_inspect_level_kill_monsters_text">
+		<text>In order to advance further into the laboratory, the mutants need to be eliminated.</text>
+	</string>
+
+	<string id="labx18_inspect_level_speak_bandit_name">
+		<text>Talk to the bandit</text>
+	</string>
+
+	<string id="labx18_inspect_level_speak_bandit_text">
+		<text>Masol seems alarmed after the mutant attack. We should discuss how to proceed.</text>
+	</string>
+
+	<string id="labx18_inspect_level_alone_name">
+		<text>Examine all X-18 levels alone</text>
+	</string>
+
+	<string id="labx18_inspect_level_alone_one_text">
+		<text>I'm an idiot. I knew I shouldn't have trusted those bandit bastards! They'll pay for this one way or another.</text>
+	</string>
+
+	<string id="labx18_inspect_level_alone_two_text">
+		<text>I should've helped the bandits deal with the mutants, but oh well. They'll probably manage just fine while I go examine the laboratory. They probably wouldn't have came along anyway.</text>
+	</string>
+
+	<string id="labx18_inspect_level_alone_three_text">
+		<text>The mutants are dead. I'll go check what's happening on the lower levels. I don't think those crooks would've gone with me - they seem a bit too suspicious.</text>
+	</string>
+
+	<string id="labx18_inspect_level_kill_monster_name">
+		<text>Eliminate the monster</text>
+	</string>
+
+	<string id="labx18_inspect_level_kill_monster_text">
+		<text>Seems this is the same thing we killed on the surface. I hope to God I can handle it alone...</text>
+	</string>
+
+	<string id="labx18_inspect_level_go_back_name">
+		<text>Return to the surface</text>
+	</string>
+
+	<string id="labx18_inspect_level_go_back_text">
+		<text>The thing is dead. Time to go back up.</text>
+	</string>
+
+	<string id="labx18_inspect_level_go_back_two_text">
+		<text>Now someone from Freedom is attacking me! Time to get the hell out of here already.</text>
+	</string>
+
+	<string id="labx18_inspect_level_search_corpse_name">
+		<text>Check the unknown stalker's body</text>
+	</string>
+
+	<string id="labx18_inspect_level_search_corpse_text">
+		<text>A stalker attacked me at the exit. Looks like he's from... Freedom? I should check his body for anything important.</text>
+	</string>
+
+	<string id="labx18_inspect_level_speak_bandit_desertir_name">
+		<text>Report to Trukhlyay</text>
+	</string>
+
+	<string id="labx18_inspect_level_speak_bandit_desertir_text">
+		<text>I finally got out. It's time to get back to Trukhlyay with the news, though not very good ones...</text>
+	</string>
+
+	<string id="labx18_task_code">
+		<text>CODE-LOCKED DOOR</text>
+	</string>
+
+	<string id="labx18_task_code_search_name">
+		<text>Find the door code</text>
+	</string>
+
+	<string id="labx18_task_code_search_text">
+		<text>I need to find out what's behind the locked door. Perhaps I'll find the code after looking around a bit more.</text>
+	</string>
+
+	<string id="labx18_task_code_open_door_name">
+		<text>Enter the next room</text>
+	</string>
+
+	<string id="labx18_task_code_open_door_text">
+		<text>I have the code. Time to see just what is behind that door.</text>
+	</string>
+
 </string_table>
