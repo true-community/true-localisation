@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+﻿<?xml version="1.0" encoding="windows-1252"?>
 <string_table>
   <string id="st_agr_anomaly_task_scene_stalker_1_phrase_1">
     <text>And how will we get it now?</text>
@@ -37,7 +37,7 @@
     <text>you go into the anomaly.</text>
   </string>
   <string id="st_agr_anomaly_task_scene_stalker_2_phrase_3">
-    <text>Your suit's newer. It'll hold.</text>
+    <text>Your suit's newer. It'll hold...</text>
   </string>
   <string id="st_agr_anomaly_task_scene_stalker_2_phrase_4_1">
     <text>Quiet.</text>
@@ -179,7 +179,7 @@
     <text>Hey, man,\nkeep your distance!</text>
   </string>
   <string id="st_agr_diggers_threat_2_2">
-    <text>You've no business here.</text>
+    <text>You have no business here.</text>
   </string>
   <string id="st_agr_diggers_volodya_cover_phrase_1">
     <text>Stalker, I warned you. Now go.</text>
@@ -200,7 +200,7 @@
     <text>Stop it. Let me sleep...</text>
   </string>
   <string id="st_age_heli_radio_1">
-    <text>815, base here. What's the situation?\nBase, this is 815. All quiet. We're passing the factory. ETA two minutes.\nCopy, 815. You have permission to land.</text>
+    <text>Base to 815. What's the situation? Respond.\n815 to base. All quiet. We're passing the factory. ETA two minutes, over.\nCopy that, 815. You have permission to land.</text>
   </string>
   <string id="st_agr_scientists_base_koval_talk_with_colonel_1">
     <text>All you have is surplus from the trader.</text>
@@ -215,7 +215,7 @@
     <text>Hi there.</text>
   </string>
   <string id="st_agr_mid_final_scene_scientist_1_talk_1_1">
-    <text>I'm confident that bloodsuckers\nshould be classed as psionics.</text>
+    <text>I'm confident that bloodsuckers\nshould be classed as psi-mutants.</text>
   </string>
   <string id="st_agr_mid_final_scene_scientist_1_talk_1_2">
     <text>It's the only way\nto explain their invisibility.</text>
@@ -251,7 +251,7 @@
     <text>Sakharov's reports made it abundantly clear</text>
   </string>
   <string id="st_agr_mid_final_scene_scientist_2_talk_1_3">
-    <text>that their source of invisibility\nis a special slime.</text>
+    <text>that their source of invisibility\nis a special mucous.</text>
   </string>
   <string id="st_agr_mid_final_scene_scientist_2_talk_1_4">
     <text>I mean, they did an autopsy!</text>
@@ -467,13 +467,13 @@
     <text>See you soon!</text>
   </string>
   <string id="st_agr_heli_start_1">
-    <text>815, this is base. What's the situation?</text>
+    <text>Base to 815. What's the situation? Respond.</text>
   </string>
   <string id="st_agr_heli_start_2">
-    <text>Base, this is 815. All quiet. We're passing the factory. ETA two minutes.</text>
+    <text>815 to base. All quiet. We're passing the factory. ETA two minutes, over.</text>
   </string>
   <string id="st_agr_heli_start_3">
-    <text>Copy, 815. You have permission to land.</text>
+    <text>Copy that, 815. You have permission to land.</text>
   </string>
   <string id="st_agr_mid_final_scene_colonel_message">
     <text>Zhuravlyov, come see me when you're here. We need to talk.</text>
@@ -629,7 +629,7 @@
     <text>Neurons, you know, they don't regenerate.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_2_3">
-    <text>And you still have to live and live.</text>
+    <text>And you still have to live and live on.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_2_4">
     <text>If, of course, you make the right decisions.</text>
@@ -644,7 +644,7 @@
     <text>That box, as you put it...</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_3_4">
-    <text>It's nothing more than a prototype mobile psy device.</text>
+    <text>is nothing more than a prototype mobile psy-device.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_4">
     <text>Be my guest if you want to become a test subject.</text>
@@ -674,31 +674,31 @@
     <text>Okay, it's not my first time.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_6_4">
-    <text>The Brain Scorcher generates psy radiation,\nwhich is harmful to the human body.</text>
+    <text>The Brain Scorcher generates psy-radiation,\nwhich is harmful to the human body.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_6_5">
-    <text>Some people just have convulsions,\nsome people lose their minds and some people die.</text>
+    <text>Some people have convulsions,\nsome people lose their minds and some people even die.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_6_6">
-    <text>But who says only the Brain Scorcher or a Controller\ncan generate a psi-field?</text>
+    <text>But who says only the Brain Scorcher or a Controller\ncan generate psy-fields?</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_6_7">
-    <text>Now, professor Smyshlov and I have created\na portable device that generates psy radiation.</text>
+    <text>Now, Professor Smyshlov and I have developed\na portable device that generates psy-radiation.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_6_8">
     <text>But the effects of exposure to this radiation are quite different.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_6_9">
-    <text>Do you get it now?</text>
+    <text>That's it, do you get it now?</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_7_1">
     <text>You stalkers are such a shallow bunch...</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_7_2">
-    <text>You tell them about this and that, about the prospects...</text>
+    <text>It's like talking to a bunch of cavemen.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_7_3">
-    <text>And they tell you: fire is scary, it burns!</text>
+    <text>You tell them about lighting fires, and they tell you: fire is scary, it burns!</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_7_4">
     <text>None of you can see any further than your nose.</text>
@@ -710,10 +710,10 @@
     <text>With its help, it would be possible to...</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_8_3">
-    <text>Ah, what am I talking about...</text>
+    <text>Oh, what am I talking about...</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_8_4">
-    <text>The goal is not only to understand the nature of psy radiation,\nbut also to control it.</text>
+    <text>The goal is not only to understand the nature of psy-radiation,\nbut also to control it.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_8_5">
     <text>To harness this energy for the needs of mankind!</text>
@@ -743,7 +743,7 @@
     <text>Except...</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_11_1">
-    <text>As I said, Smyshlov and I\ncreated this device together.</text>
+    <text>As I said, it was me and Smyshlov\nwho created this device together.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_11_2">
     <text>I was in charge of the engineering part and he was in charge of the core.</text>
@@ -758,7 +758,7 @@
     <text>And now he's obsessed with the idea of me using it for\nselfish and even dangerous purposes.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_11_6">
-    <text>And that's just the beginning.</text>
+    <text>And that won't be the only thing he'll become obsessed about.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_11_7">
     <text>Smyshlov's paranoia will\nonly progress from here.</text>
@@ -767,7 +767,7 @@
     <text>I'm a researcher, after all.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_11_9">
-    <text>I only want to continue to study psy radiation,</text>
+    <text>I only want to continue to study psy-radiation,</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_11_10">
     <text>by whatever means necessary.</text>
@@ -782,10 +782,10 @@
     <text>but I don't know how to synthesise its main component.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_13_3">
-    <text>But at least I know that if something goes\nwrong during the experiments,</text>
+    <text>But what I do know is that if something goes\nwrong during the experiments,</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_13_4">
-    <text>and the core of the psy emitter fails...</text>
+    <text>and the core of the psy-device fails...</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_13_5">
     <text>This will slow me down for months.</text>
@@ -800,7 +800,7 @@
     <text>I've already tried.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_14_2">
-    <text>This moron's obsessed with the thought that\nI want to control both humans and mutants with a psy radiation.</text>
+    <text>This moron's obsessed with the thought that\nI want to control human beings and mutants with a psy-radiation.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_15_1">
     <text>I realise you haven't understood\nwhy we started this project yet.</text>
@@ -842,13 +842,13 @@
     <text>I already said: we need the measurements.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_18_2">
-    <text>You'll be measuring the psy radiation.</text>
+    <text>You'll be measuring the psy-radiation.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_18_3">
     <text>Here's the measuring device.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_18_4">
-    <text>First you go to these coordinates\nand measure the first psy field.</text>
+    <text>First you go to these coordinates\nand measure the first psy-field.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_18_5">
     <text>These coordinates are also\nwhere an active Controller was last spotted.</text>
@@ -860,7 +860,7 @@
     <text>Then you come back to me.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_19_1">
-    <text>Don't be so dramatic.</text>
+    <text>Oh, don't be so dramatic.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_captive_scene_19_2">
     <text>Remember: the sooner you start, the sooner you finish.</text>
@@ -1052,7 +1052,7 @@
     <text>So Smyshlov was right all along:</text>
   </string>
   <string id="st_agr_composer_task_actor_final_scene_2_2">
-    <text>you don't just need an army of zombies — you want more.</text>
+    <text>you want an army of zombies and more.</text>
   </string>
   <string id="st_agr_composer_task_actor_final_scene_2_3">
     <text>And what's the purpose of all of this for you?</text>
@@ -1061,31 +1061,31 @@
     <text>Okay, Turov, I'll entertain that idea.</text>
   </string>
   <string id="st_agr_composer_task_actor_final_scene_3_2">
-    <text>But what's to stop you from taking\ncontrol of living stalkers or mutants with the device?</text>
+    <text>But what's to stop you from taking\ncontrol of living stalkers or mutants with this device,</text>
   </string>
   <string id="st_agr_composer_task_actor_final_scene_3_3">
-    <text>So that they obediently bring you a bunch of food, water,\nartifacts and do not interfere with your work.</text>
+    <text>so that they obediently bring you artifacts, take measurements,\nand not interfere with your work?</text>
   </string>
   <string id="st_agr_composer_task_actor_final_scene_4_1">
     <text>Holy crap...</text>
   </string>
   <string id="st_agr_composer_task_actor_final_scene_4_2">
-    <text>Doggo can become human? A full human being?</text>
+    <text>So Doggo can become human again?</text>
   </string>
   <string id="st_agr_composer_task_actor_final_scene_4_3">
-    <text>The same as it was before. you know, before the Zone?</text>
+    <text>The same as he was before? you know, before the Zone?</text>
   </string>
   <string id="st_agr_composer_task_actor_final_scene_5_1">
     <text>No.</text>
   </string>
   <string id="st_agr_composer_task_actor_final_scene_5_2">
-    <text>Of course, I won't allow people to be turned\ninto stupid tools for someone else's benefit.</text>
+    <text>I won't allow people to be turned\ninto brainless tools for someone else's benefit.</text>
   </string>
   <string id="st_agr_composer_task_actor_final_scene_6">
-    <text>Smyshlov! Are you alive?</text>
+    <text>Smyshlov?! Are you okay?</text>
   </string>
   <string id="st_agr_composer_task_bandit_savior_final_scene_1_1">
-    <text>My feet in my mouth!</text>
+    <text>Holy shit!</text>
   </string>
   <string id="st_agr_composer_task_bandit_savior_final_scene_1_2">
     <text>You seriously sayin' you can fix the minds of the undead?</text>
@@ -1097,40 +1097,40 @@
     <text>Hey, you dumb fuck!</text>
   </string>
   <string id="st_agr_composer_task_bandit_savior_final_scene_3_2">
-    <text>What are ya tryin' to mumble with your jaw?</text>
+    <text>What are ya mumbling about, huh?</text>
   </string>
   <string id="st_agr_composer_task_bandit_savior_final_scene_4">
     <text>Can't move...</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_1">
-    <text>Alight, but first I'll show you what we've accomplished here\nwhile you've been looking around.</text>
+    <text>Alright, but first I'll show you what we've accomplished\nwhile you've been wandering around.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_2">
-    <text>This is a the subject Bobik\nand he will only respond to my commands.</text>
+    <text>This is test subject Doggo,\nand he will only respond to my commands.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_3_1">
-    <text>Unfortunately, Bobik can't do anything but\nfollow simple commands.</text>
+    <text>Unfortunately, he can't do anything but\nfollow simple commands.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_3_2">
-    <text>The brain was too badly damaged by the brain scorcher.</text>
+    <text>That's because his brain was too badly damaged by the Brain Scorcher.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_3_3">
-    <text>It's a good thing my vestibular system\nis still functioning.</text>
+    <text>But at least his vestibular system\nis still functioning.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_4_1">
-    <text>There's no way to cure these poor zombies.</text>
+    <text>There's no way to cure these poor zombified stalkers.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_4_2">
-    <text>But they can serve science more than once, and in both senses.</text>
+    <text>But at least they can serve science more than once, and in both senses.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_4_3">
-    <text>We can run psy radiation tests on them</text>
+    <text>We can run psy-radiation tests on them,</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_4_4">
-    <text>and send samples where,\nstalkers are wary of going.</text>
+    <text>and send them to collect samples\nwhere stalkers wouldn't dare on going.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_4_5">
-    <text>Also defending scientists during field trials.</text>
+    <text>They could also defend scientists during field experiments.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_5">
     <text>Somehow I didn't expect anything else.</text>
@@ -1139,7 +1139,7 @@
     <text>What's the point?</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_6_2">
-    <text>You want to go through the same process\nand hope for a different result?</text>
+    <text>You want to do the same thing\nover and over again expecting a different result?</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_6_3">
     <text>Does that ring any bells?</text>
@@ -1154,13 +1154,13 @@
     <text>This is all very interesting,\nbut let's get back to the point.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_8_2">
-    <text>I want to get documentation for creating the core\nand its variations.</text>
+    <text>I want to get the documentations for creating the core,\nas well as its variations.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_8_3">
-    <text>I promise, in my scientific work I will mention you, Smyshlov, as my colleague.</text>
+    <text>And I promise, that in my scientific work I will mention you, Smyshlov, as my colleague.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_8_4">
-    <text>So the laurels are shared equally.</text>
+    <text>So we will both be recognized for our hard work.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_8_5">
     <text>Vizier, we'll take the professor with us.</text>
@@ -1169,7 +1169,7 @@
     <text>Axe, you've been a great help.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_9_2">
-    <text>So don't get in my way.</text>
+    <text>Now don't get in my way.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_10_1">
     <text>You're a tool, only you're\nbeing manipulated differently.</text>
@@ -1181,7 +1181,7 @@
     <text>But you made your own choice.</text>
   </string>
   <string id="st_agr_composer_task_scientist_boss_final_scene_come">
-    <text>So, gentlemen stalkers, come in all together\nand put your weapons away.</text>
+    <text>So, gentlemen stalkers, why don't you come all\ntogetherand put your weapons away.</text>
   </string>
   <string id="st_agr_composer_task_scientist_final_scene_1_1">
     <text>Oh, that's handy!</text>
@@ -1214,7 +1214,7 @@
     <text>This is an experiment after all...</text>
   </string>
   <string id="st_agr_composer_task_scientist_final_scene_7_1">
-    <text>No, guys, wait.</text>
+    <text>No, gentlemen, wait.</text>
   </string>
   <string id="st_agr_composer_task_scientist_final_scene_7_2">
     <text>You've said your word, now I'll do the talking.</text>
@@ -1229,7 +1229,7 @@
     <text>maybe thousands of people?</text>
   </string>
   <string id="st_agr_composer_task_scientist_final_scene_8_4">
-    <text>Understand, stalker\nthis is not just about the Zone!</text>
+    <text>nthis is not just about the Zone,\nyou have to understand that!</text>
   </string>
   <string id="st_agr_composer_task_scientist_final_scene_9_1">
     <text>I'm fine.</text>
@@ -1244,7 +1244,7 @@
     <text>Fantastic!</text>
   </string>
   <string id="st_agr_composer_task_scientist_final_scene_10_2">
-    <text>So, wait a minute, \nwho's your master?</text>
+    <text>But, wait a minute,\nwho's your master?</text>
   </string>
   <string id="st_agr_composer_task_scientist_final_scene_11_1">
     <text>Oh, wait a minute.</text>
@@ -1256,7 +1256,7 @@
     <text>This... it just can't be...</text>
   </string>
   <string id="st_agr_composer_task_scientist_final_scene_12_2">
-    <text>To make the experiment realise itself as a person.</text>
+    <text>To make the experiment realise it is a person.</text>
   </string>
   <string id="st_agr_composer_task_scientist_final_scene_12_3">
     <text>Look...</text>
@@ -1271,7 +1271,7 @@
     <text>Everything's fine.</text>
   </string>
   <string id="st_agr_composer_task_stalker_bird_final_scene_2">
-    <text>Oh, fucking theatre... Dead man talking!</text>
+    <text>This is some hollywood shit, man. Dead man talking!</text>
   </string>
   <string id="st_agr_composer_task_zombie_final_scene_1">
     <text>It... It hurts...</text>
@@ -1289,7 +1289,7 @@
     <text>Thanks for waking me up...</text>
   </string>
   <string id="st_agr_composer_task_zombie_final_scene_3_3">
-    <text>My master... lets you go..</text>
+    <text>My master... he lets you go..</text>
   </string>
   <string id="st_agr_composer_task_zombie_final_scene_4_1">
     <text>Call us whatever you want..</text>
@@ -1301,10 +1301,10 @@
     <text>The master thanks you, Professor...</text>
   </string>
   <string id="st_agr_composer_task_zombie_final_scene_4_4">
-    <text>For not fighting him</text>
+    <text>for not resisting him</text>
   </string>
   <string id="st_agr_composer_task_zombie_final_scene_4_5">
-    <text>and did exactly as he wished.</text>
+    <text>and doing exactly as he wished.</text>
   </string>
   <string id="st_agr_composer_task_zombie_final_scene_5_1">
     <text>These two scientists created my master.</text>
@@ -1313,7 +1313,7 @@
     <text>He is grateful to them, but he will not serve them.</text>
   </string>
   <string id="st_agr_composer_task_zombie_final_scene_5_3">
-    <text>Don't follow us.</text>
+    <text>Don't follow us now...</text>
   </string>
   <string id="st_agr_composer_task_zombie_final_scene_5_4">
     <text>And we won't hurt you.</text>
