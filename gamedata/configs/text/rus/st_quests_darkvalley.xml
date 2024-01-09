@@ -1,440 +1,330 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="val_monster_factory_quest">
-		<text>ЧЕРТОВЩИНА НА ЗАВОДЕ</text>
-	</string>	
-
-	<string id="val_monster_factory_quest_follow_the_bandit_desertir_name">
-		<text>Следовать за Трухляем</text>
-	</string>
-
-	<string id="val_monster_factory_quest_follow_the_bandit_desertir_text">
-		<text>Нужно следовать за Трухляем на место встречи.</text>
-	</string>
-
-	<string id="val_monster_factory_quest_follow_the_bandit_desertir_two_name">
-		<text>Встретиться с Трухляем в свободное время</text>
-	</string>
-
-	<string id="val_monster_factory_quest_follow_the_bandit_desertir_two_text">
-		<text>Я обещал составить компанию Трухляю для вылазки на завод, где, как он говорит, происходят странные вещи.</text>
-	</string>
-
-	<string id="val_monster_factory_quest_follow_the_squad_name">
-		<text>Следовать за отрядом</text>
-	</string>
-
-	<string id="val_monster_factory_quest_follow_the_squad_text">
-		<text>Нужно с отрядом добраться до завода и выяснить, что там произошло.</text>
-	</string>
-
-	<string id="val_monster_factory_quest_inspect_factory_name">
-		<text>Осмотреть помещения</text>
-	</string>
-
-	<string id="val_monster_factory_quest_inspect_factory_text">
-		<text>На заводе творится что-то странное. Нужно осмотреть помещения.</text>
-	</string>
-
-	<string id="val_monster_factory_quest_kill_monster_name">
-		<text>Разобраться с тварью</text>
-	</string>
-
-	<string id="val_monster_factory_quest_kill_monster_text">
-		<text>На заводе оказалась какая-то опасная тварь. Нужно с ней разобраться.</text>
-	</string>
-
-	<string id="val_monster_factory_quest_kill_speak_bandit_desertir_name">
-		<text>Поговорить с Трухляем</text>
-	</string>
-
-	<string id="val_monster_factory_quest_kill_speak_bandit_desertir_text">
-		<text>Столь жаркого боя в моей жизни ещё не было... Пора забирать награду.</text>
-	</string>
-
-	<string id="val_case_with_stones">
-		<text>КЕЙС С КАМНЯМИ</text>
-	</string>
-
-	<string id="val_case_with_stones_speak_leader_name">
-		<text>Вернуться к лидеру бандитов</text>
-	</string>
-
-	<string id="val_case_with_stones_speak_leader_text">
-		<text>Похоже, я снова облажался. Внутри кейса оказались не артефакты, а обычные камни! Не знаю, есть ли смысл сейчас идти к лидеру бандитов, но другого варианта я не нахожу.</text>
-	</string>
-
-	<string id="val_restore_justice">
-		<text>ПОДСТАВА</text>
-	</string>
-
-	<string id="val_restore_justice_name">
-		<text>Вернуть артефакты торговца</text>
-	</string>
-
-	<string id="val_restore_justice_text">
-		<text>Чёрт, Трухляй был прав насчёт этого ублюдка Монгола. Так, пока побуду в Тёмной Долине и что-нибудь придумаю.</text>
-	</string>
-	
-	<string id="val_job_in_the_darkvalley">
-		<text>РАБОТА В ДОЛИНЕ</text>
-	</string>	
-
-	<string id="val_job_in_the_darkvalley_speak_bandit_desertir_name">
-		<text>Отправиться к Трухляю за работой</text>
-	</string>
-
-	<string id="val_job_in_the_darkvalley_speak_bandit_desertir_text">
-		<text>Трухляй предлагал работу. Ввиду нынешней ситуации будет логично согласиться.</text>
-	</string>
-
-	<string id="val_task_farm">
-		<text>РАБОТА В БРИГАДЕ</text>
-	</string>
-
-	<string id="val_task_farm_search_stalkers_name">
-		<text>Добраться до лагеря сталкеров на ферме</text>
-	</string>
-
-	<string id="val_task_farm_search_stalkers_text">
-		<text>В окрестностях Темной Долины где-то есть ещё один вход в лабораторию X-18. Надо отыскать его. Информацию об этом могут знать сталкеры из лагеря на ферме.</text>
-	</string>
-
-	<string id="val_task_farm_speak_first_name">
-		<text>Поговорить со сталкером</text>
-	</string>
-
-	<string id="val_task_farm_speak_first_text">
-		<text>У сталкера есть какое-то предложение. Надо поговорить.</text>
-	</string>
-
-	<string id="val_task_farm_searh_money_name">
-		<text>Достать деньги</text>
-	</string>
-
-	<string id="val_task_farm_searh_money_text">
-		<text>Сталкеры не станут со мной говорить, пока я не принесу им деньги. Требуют 1500 рублей.</text>
-	</string>
-
-	<string id="val_task_farm_speak_quest_stalker_name">
-		<text>Поговорить с Неумёхой</text>
-	</string>
-
-	<string id="val_task_farm_speak_quest_stalker_text">
-		<text>Неумёха может знать что-то насчет моего дела.</text>
-	</string>
-
-	<string id="val_task_farm_searh_artefact_name">
-		<text>Отправиться за артефактом к «Разлому»</text>
-	</string>
-
-	<string id="val_task_farm_searh_artefact_text">
-		<text>Неумёха расскажет о секретном входе в X-18, если я достану ему артефакт.</text>
-	</string>
-
-	<string id="val_task_farm_follow_artefact_name">
-		<text>«Догнать» артефакт</text>
-	</string>
-
-	<string id="val_task_farm_follow_artefact_text">
-		<text>Что за чертовщина? Стоит мне только подойти, как артефакт куда-то перемещается... Попробую преследовать его.</text>
-	</string>
-
-	<string id="val_task_farm_check_house_name">
-		<text>Схватить артефакт</text>
-	</string>
-
-	<string id="val_task_farm_check_house_text">
-		<text>Кажется, он с каждым разом всё ближе. Сейчас идеальный шанс его схватить...</text>
-	</string>
-
-	<string id="val_task_farm_kill_boss_name">
-		<text>Разобраться с нечистью</text>
-	</string>
-
-	<string id="val_task_farm_kill_boss_text">
-		<text>Кто-то или что-то явно не хочет отпускать меня живым...</text>
-	</string>
-
-	<string id="val_task_farm_take_artefact_name">
-		<text>Подобрать артефакт</text>
-	</string>
-
-	<string id="val_task_farm_take_artefact_text">
-		<text>Ох, мать... Что же это было? Сколько времени прошло? Башка трещит... Хорошо хоть, что артефакт больше не перемещается.</text>
-	</string>
-
-	<string id="val_task_farm_speak_quest_stalker_final_name">
-		<text>Отдать артефакт Неумёхе</text>
-	</string>
-
-	<string id="val_task_farm_speak_quest_stalker_final_text">
-		<text>Интересная вышла история... Кому расскажу - не поверят. Надо отнести артефакт сталкеру.</text>
-	</string>
-
-	<string id="val_task_farm_check_spot_name">
-		<text>Отправиться к секретному входу</text>
-	</string>
-
-	<string id="val_task_farm_check_spot_text">
-		<text>Неумеха предоставил мне информацию о тайном входе в лабораторию. Разведаю местность, а потом за наградой.</text>
-	</string>
-
-	<string id="val_task_farm_alarm_call_name">
-		<text>Вернуться в лагерь бандитов</text>
-	</string>
-
-	<string id="val_task_farm_alarm_call_text">
-		<text>Трухляй срочно вызвал в лагерь. Что-то определенно важное...</text>
-	</string>
-
-	<string id="val_task_farm_speak_scientist_name">
-		<text>Встретиться с ученым</text>
-	</string>
-
-	<string id="val_task_farm_speak_scientist_text">
-		<text>Трухляй попросил забрать у учёного дурь и передать ему деньги, чтобы воплотить свой план по краже вещей из тайника на базе бандитов.</text>
-	</string>
-
-	<string id="val_scientist_task">
-		<text>СКАНЕР В ЭЛЕКТРЕ</text>
-	</string>
-
-	<string id="val_scientist_task_set_scaner_name">
-		<text>Установить прибор в аномалии</text>
-	</string>
-
-	<string id="val_scientist_task_set_scaner_text">
-		<text>Учёный попросил помочь ему с установкой сканера в аномалии.</text>
-	</string>
-
-	<string id="val_scientist_task_scaner_place_compl_name">
-		<text>Поговорить с учёным</text>
-	</string>
-
-	<string id="val_scientist_task_scaner_place_compl_text">
-		<text>Прибор установлен. Пора поговорить с учёным.</text>
-	</string>
-
-	<string id="val_treasure_task">
-		<text>ТАЙНИК «СВОБОДЫ»</text>
-	</string>
-
-	<string id="val_treasure_task_start_robbery_name">
-		<text>Отправиться на базу бандитов</text>
-	</string>
-
-	<string id="val_treasure_task_start_robbery_text">
-		<text>За дело! Нужно отправиться на базу бандитов и подсыпать порошок в полевую кухню.</text>
-	</string>
-
-	<string id="val_treasure_task_come_back_speak_name">
-		<text>Вернуться к Трухляю</text>
-	</string>
-
-	<string id="val_treasure_task_come_back_speak_text">
-		<text>Порошок подсыпан в полевую кухню. Через несколько часов все должно сработать, и мы обчистим тайник «Свободы». А сейчас нужно вернуться к Трухляю и доложить об успешном выполнении.</text>
-	</string>
-
-	<string id="val_treasure_task_wait_message_name">
-		<text>Ждать сигнала от Трухляя</text>
-	</string>
-
-	<string id="val_treasure_task_wait_message_text">
-		<text>Трухляй даст сигнал, когда нужна будет помощь. Сейчас надо разобраться со входом в лабораторию.</text>
-	</string>
-
-	<string id="val_treasure_task_all_ready_name">
-		<text>Отправиться на место сбора</text>
-	</string>
-
-	<string id="val_treasure_task_all_ready_text">
-		<text>По всей видимости все готово для начала операции. Нужно встретиться с группой Трухляя.</text>
-	</string>
-
-	<string id="val_treasure_task_follow_squad_name">
-		<text>Следовать за бандитами</text>
-	</string>
-
-	<string id="val_treasure_task_follow_squad_text">
-		<text>Пора забрать кейс торговца и узнать, что находится в тайнике.</text>
-	</string>
-
-	<string id="val_labx18_boom">
-		<text>СЕКРЕТНЫЙ ВХОД</text>
-	</string>
-
-	<string id="val_labx18_boom_go_start_name">
-		<text>Взорвать вход в лабораторию</text>
-	</string>
-
-	<string id="val_labx18_boom_go_start_text">
-		<text>Трухляй дал задание запечатать второй вход в лабораторию.</text>
-	</string>
-
-	<string id="val_treasure_task_search_trader_case_name">
-		<text>Найти кейс торговца</text>
-	</string>
-
-	<string id="val_treasure_task_search_trader_case_text">
-		<text>Пока бандиты разбираются со входом в тайник, мне нужно найти артефакты торговца.</text>
-	</string>
-
-	<string id="val_treasure_task_start_robbery_squad_name">
-		<text>Вернуться к отряду</text>
-	</string>
-
-	<string id="val_treasure_task_start_robbery_squad_text">
-		<text>Пора возвращаться к бандитам. Они уже наверняка разобрались со входом в тайник.</text>
-	</string>
-
-	<string id="val_bandits_base_passage_task">
-		<text>ВСЁ РАДИ ЦЕЛИ</text>
-	</string>
-
-	<string id="val_bandits_base_passage_task_name">
-		<text>Раздобыть для бандитов необходимое</text>
-	</string>
-
-	<string id="val_bandits_base_passage_task_text">
-		<text>Чтобы попасть на базу к бандитам и забрать артефакты Костыля, нужно в качестве платы за проход принести десяток антирадов или же четыре тысячи рублей. В крайнем случае сгодится какой-нибудь артефакт, выводящий радиацию.</text>
-	</string>
-
-	<string id="val_prison_task">
-		<text>БАНДИТСКИЕ ДЕБРИ</text>
-	</string>
-
-	<string id="val_prison_task_start_name">
-		<text>Отозваться на просьбу о помощи</text>
-	</string>
-
-	<string id="val_prison_task_start_text">
-		<text>Из подвалов здания бандитской базы некий сталкер попросил о помощи. Вероятно, это пленный бандитов. Как же это знакомо, сука... Нужно узнать, как можно ему помочь.</text>
-	</string>
-
-	<string id="val_prison_task_wait_need_moment_name">
-		<text>Выждать момент</text>
-	</string>
-
-	<string id="val_prison_task_wait_need_moment_text">
-		<text>Нужно выждать момент, когда можно будет помочь Немому выбраться из бандитской тюрьмы. Стоит поработать на ублюдков, если что-то подвернётся.</text>
-	</string>
-
-	<string id="val_prison_task_help_go_name">
-		<text>Вытащить сталкера</text>
-	</string>
-
-	<string id="val_prison_task_help_go_text">
-		<text>За время моего отсутствия бандиты должны были уже уснуть от подсыпанной дряни. Во всяком случае, остаётся только на это надеяться. Стоит попытаться вытащить сталкера из клетки.</text>
-	</string>
-
-	<string id="val_prison_task_open_door_name">
-		<text>Открыть клетку</text>
-	</string>
-
-	<string id="val_prison_task_open_door_text">
-		<text>Нужно открыть клетку и вытащить сталкера. Управление дверью осуществляется с пульта на стене неподалёку от клетки.</text>
-	</string>
-
-	<string id="val_stalker_technic_task">
-		<text>РАДИОЛЮБИТЕЛЬ</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_name">
-		<text>Найти светильник и радио</text>
-	</string>
-
-	<string id="val_stalker_technic_task_start_text">
-		<text>Странный человек с фермы попросил меня найти электросветильник и радио в гараже неподалёку от входа в лабораторию. Взамен обещал щедрую награду.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_name">
-		<text>Отдать Гарпуну светильник и радио</text>
-	</string>
-
-	<string id="val_stalker_technic_task_reward_text">
-		<text>Все предметы для радиолюбителя найдены, пора отдать их ему.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_wait_name">
-		<text>Дождаться сообщения от Гарпуна</text>
-	</string>
-
-	<string id="val_stalker_technic_task_wait_text">
-		<text>Местный радиолюбитель решил предложить ещё одно дело, но после того, как разберётся со своими проблемами. Нужно дождаться от него сообщения.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_sos_name">
-		<text>Откликнуться на сигнал SOS</text>
-	</string>
-
-	<string id="val_stalker_technic_task_sos_text">
-		<text>Рыло, один из сталкеров на ферме, отправил сигнал SOS. Нужно отравиться туда и узнать, что случилось.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_kill_zombie_name">
-		<text>Убить зомби</text>
-	</string>
-
-	<string id="val_stalker_technic_task_kill_zombie_text">
-		<text>Все сталкеры на ферме были зомбированы. Скорее всего, это дело рук Гарпуна. Нужно успокоить сталкеров и решить, что делать дальше.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_check_farm_name">
-		<text>Разобраться в произошедшем</text>
-	</string>
-
-	<string id="val_stalker_technic_task_check_farm_text">
-		<text>Стоит прошерстить ферму и попытаться понять, что зомбировало сталкеров. Теперь я точно уверен, что это дело рук Гарпуна.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_kill_sniper_name">
-		<text>Ликвидировать снайпера</text>
-	</string>
-
-	<string id="val_stalker_technic_task_kill_sniper_text">
-		<text>На меня напал неизвестный. Чтобы узнать, кто это, его нужно убить.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_check_sniper_name">
-		<text>Обыскать снайпера</text>
-	</string>
-
-	<string id="val_stalker_technic_task_check_sniper_text">
-		<text>Нападающий мёртв. Надеюсь, при нём есть какие-то зацепки, говорящие о причинах визита ко мне.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_solution_name">
-		<text>Разобраться с заказчиком</text>
-	</string>
-
-	<string id="val_stalker_technic_task_solution_text">
-		<text>У наёмника Пумы в ПДА оказалась часть диалога с заказчиком. Судя по всему, после выполнения работы их встреча должна была состояться на заправке. Пора отправляться туда и начать решать эту проблему с ним один на один.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_kill_name">
-		<text>Убить Гарпуна</text>
-	</string>
-
-	<string id="val_stalker_technic_task_kill_text">
-		<text>По-хорошему договориться не вышло. Остаётся идти на крайние меры.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_check_corp_name">
-		<text>Обыскать Гарпуна</text>
-	</string>
-
-	<string id="val_stalker_technic_task_check_corp_text">
-		<text>У Гарпуна должно быть что-то, что позволило ему не умереть от сгенерированного им же пси-излучения. Нужно забрать это и уничтожить его излучатель.</text>
-	</string>
-
-	<string id="val_stalker_technic_task_destroy_psy_name">
-		<text>Уничтожить пси-излучатель</text>
-	</string>
-
-	<string id="val_stalker_technic_task_destroy_psy_text">
-		<text>Дело сделано. Теперь осталось уничтожить последствия работы Гарпуна, чтобы никто больше не попал в эту западню.</text>
-	</string>
-
+  <string id="val_monster_factory_quest">
+    <text>ЧЕРТОВЩИНА НА ЗАВОДЕ</text>
+  </string>
+  <string id="val_monster_factory_quest_follow_the_bandit_desertir_name">
+    <text>Следовать за Трухляем</text>
+  </string>
+  <string id="val_monster_factory_quest_follow_the_bandit_desertir_text">
+    <text>Нужно следовать за Трухляем на место встречи.</text>
+  </string>
+  <string id="val_monster_factory_quest_follow_the_bandit_desertir_two_name">
+    <text>Встретиться с Трухляем в свободное время</text>
+  </string>
+  <string id="val_monster_factory_quest_follow_the_bandit_desertir_two_text">
+    <text>Я обещал составить компанию Трухляю для вылазки на завод, где, как он говорит, происходят странные вещи.</text>
+  </string>
+  <string id="val_monster_factory_quest_follow_the_squad_name">
+    <text>Следовать за отрядом</text>
+  </string>
+  <string id="val_monster_factory_quest_follow_the_squad_text">
+    <text>Нужно с отрядом добраться до завода и выяснить, что там произошло.</text>
+  </string>
+  <string id="val_monster_factory_quest_inspect_factory_name">
+    <text>Осмотреть помещения</text>
+  </string>
+  <string id="val_monster_factory_quest_inspect_factory_text">
+    <text>На заводе творится что-то странное. Нужно осмотреть помещения.</text>
+  </string>
+  <string id="val_monster_factory_quest_kill_monster_name">
+    <text>Разобраться с тварью</text>
+  </string>
+  <string id="val_monster_factory_quest_kill_monster_text">
+    <text>На заводе оказалась какая-то опасная тварь. Нужно с ней разобраться.</text>
+  </string>
+  <string id="val_monster_factory_quest_kill_speak_bandit_desertir_name">
+    <text>Поговорить с Трухляем</text>
+  </string>
+  <string id="val_monster_factory_quest_kill_speak_bandit_desertir_text">
+    <text>Столь жаркого боя в моей жизни ещё не было... Пора забирать награду.</text>
+  </string>
+  <string id="val_case_with_stones">
+    <text>КЕЙС С КАМНЯМИ</text>
+  </string>
+  <string id="val_case_with_stones_speak_leader_name">
+    <text>Вернуться к лидеру бандитов</text>
+  </string>
+  <string id="val_case_with_stones_speak_leader_text">
+    <text>Похоже, я снова облажался. Внутри кейса оказались не артефакты, а обычные камни! Не знаю, есть ли смысл сейчас идти к лидеру бандитов, но другого варианта я не нахожу.</text>
+  </string>
+  <string id="val_restore_justice">
+    <text>ПОДСТАВА</text>
+  </string>
+  <string id="val_restore_justice_name">
+    <text>Вернуть артефакты торговца</text>
+  </string>
+  <string id="val_restore_justice_text">
+    <text>Чёрт, Трухляй был прав насчёт этого ублюдка Монгола. Так, пока побуду в Тёмной Долине и что-нибудь придумаю.</text>
+  </string>
+  <string id="val_job_in_the_darkvalley">
+    <text>РАБОТА В ДОЛИНЕ</text>
+  </string>
+  <string id="val_job_in_the_darkvalley_speak_bandit_desertir_name">
+    <text>Отправиться к Трухляю за работой</text>
+  </string>
+  <string id="val_job_in_the_darkvalley_speak_bandit_desertir_text">
+    <text>Трухляй предлагал работу. Ввиду нынешней ситуации будет логично согласиться.</text>
+  </string>
+  <string id="val_task_farm">
+    <text>РАБОТА В БРИГАДЕ</text>
+  </string>
+  <string id="val_task_farm_search_stalkers_name">
+    <text>Добраться до лагеря сталкеров на ферме</text>
+  </string>
+  <string id="val_task_farm_search_stalkers_text">
+    <text>В окрестностях Темной Долины где-то есть ещё один вход в лабораторию X-18. Надо отыскать его. Информацию об этом могут знать сталкеры из лагеря на ферме.</text>
+  </string>
+  <string id="val_task_farm_speak_first_name">
+    <text>Поговорить со сталкером</text>
+  </string>
+  <string id="val_task_farm_speak_first_text">
+    <text>У сталкера есть какое-то предложение. Надо поговорить.</text>
+  </string>
+  <string id="val_task_farm_searh_money_name">
+    <text>Достать деньги</text>
+  </string>
+  <string id="val_task_farm_searh_money_text">
+    <text>Сталкеры не станут со мной говорить, пока я не принесу им деньги. Требуют 1500 рублей.</text>
+  </string>
+  <string id="val_task_farm_speak_quest_stalker_name">
+    <text>Поговорить с Неумёхой</text>
+  </string>
+  <string id="val_task_farm_speak_quest_stalker_text">
+    <text>Неумёха может знать что-то насчет моего дела.</text>
+  </string>
+  <string id="val_task_farm_searh_artefact_name">
+    <text>Отправиться за артефактом к «Разлому»</text>
+  </string>
+  <string id="val_task_farm_searh_artefact_text">
+    <text>Неумёха расскажет о секретном входе в X-18, если я достану ему артефакт.</text>
+  </string>
+  <string id="val_task_farm_follow_artefact_name">
+    <text>«Догнать» артефакт</text>
+  </string>
+  <string id="val_task_farm_follow_artefact_text">
+    <text>Что за чертовщина? Стоит мне только подойти, как артефакт куда-то перемещается... Попробую преследовать его.</text>
+  </string>
+  <string id="val_task_farm_check_house_name">
+    <text>Схватить артефакт</text>
+  </string>
+  <string id="val_task_farm_check_house_text">
+    <text>Кажется, он с каждым разом всё ближе. Сейчас идеальный шанс его схватить...</text>
+  </string>
+  <string id="val_task_farm_kill_boss_name">
+    <text>Разобраться с нечистью</text>
+  </string>
+  <string id="val_task_farm_kill_boss_text">
+    <text>Кто-то или что-то явно не хочет отпускать меня живым...</text>
+  </string>
+  <string id="val_task_farm_take_artefact_name">
+    <text>Подобрать артефакт</text>
+  </string>
+  <string id="val_task_farm_take_artefact_text">
+    <text>Ох, мать... Что же это было? Сколько времени прошло? Башка трещит... Хорошо хоть, что артефакт больше не перемещается.</text>
+  </string>
+  <string id="val_task_farm_speak_quest_stalker_final_name">
+    <text>Отдать артефакт Неумёхе</text>
+  </string>
+  <string id="val_task_farm_speak_quest_stalker_final_text">
+    <text>Интересная вышла история... Кому расскажу — не поверят. Надо отнести артефакт сталкеру.</text>
+  </string>
+  <string id="val_task_farm_check_spot_name">
+    <text>Отправиться к секретному входу</text>
+  </string>
+  <string id="val_task_farm_check_spot_text">
+    <text>Неумеха предоставил мне информацию о тайном входе в лабораторию. Разведаю местность, а потом за наградой.</text>
+  </string>
+  <string id="val_task_farm_alarm_call_name">
+    <text>Вернуться в лагерь бандитов</text>
+  </string>
+  <string id="val_task_farm_alarm_call_text">
+    <text>Трухляй срочно вызвал в лагерь. Что-то определенно важное...</text>
+  </string>
+  <string id="val_task_farm_speak_scientist_name">
+    <text>Встретиться с ученым</text>
+  </string>
+  <string id="val_task_farm_speak_scientist_text">
+    <text>Трухляй попросил забрать у учёного дурь и передать ему деньги, чтобы воплотить свой план по краже вещей из тайника на базе бандитов.</text>
+  </string>
+  <string id="val_scientist_task">
+    <text>СКАНЕР В ЭЛЕКТРЕ</text>
+  </string>
+  <string id="val_scientist_task_set_scaner_name">
+    <text>Установить прибор в аномалии</text>
+  </string>
+  <string id="val_scientist_task_set_scaner_text">
+    <text>Учёный попросил помочь ему с установкой сканера в аномалии.</text>
+  </string>
+  <string id="val_scientist_task_scaner_place_compl_name">
+    <text>Поговорить с учёным</text>
+  </string>
+  <string id="val_scientist_task_scaner_place_compl_text">
+    <text>Прибор установлен. Пора поговорить с учёным.</text>
+  </string>
+  <string id="val_treasure_task">
+    <text>ТАЙНИК «СВОБОДЫ»</text>
+  </string>
+  <string id="val_treasure_task_start_robbery_name">
+    <text>Отправиться на базу бандитов</text>
+  </string>
+  <string id="val_treasure_task_start_robbery_text">
+    <text>За дело! Нужно отправиться на базу бандитов и подсыпать порошок в полевую кухню.</text>
+  </string>
+  <string id="val_treasure_task_come_back_speak_name">
+    <text>Вернуться к Трухляю</text>
+  </string>
+  <string id="val_treasure_task_come_back_speak_text">
+    <text>Порошок подсыпан в полевую кухню. Через несколько часов все должно сработать, и мы обчистим тайник «Свободы». А сейчас нужно вернуться к Трухляю и доложить об успешном выполнении.</text>
+  </string>
+  <string id="val_treasure_task_wait_message_name">
+    <text>Ждать сигнала от Трухляя</text>
+  </string>
+  <string id="val_treasure_task_wait_message_text">
+    <text>Трухляй даст сигнал, когда нужна будет помощь. Сейчас надо разобраться со входом в лабораторию.</text>
+  </string>
+  <string id="val_treasure_task_all_ready_name">
+    <text>Отправиться на место сбора</text>
+  </string>
+  <string id="val_treasure_task_all_ready_text">
+    <text>По всей видимости все готово для начала операции. Нужно встретиться с группой Трухляя.</text>
+  </string>
+  <string id="val_treasure_task_follow_squad_name">
+    <text>Следовать за бандитами</text>
+  </string>
+  <string id="val_treasure_task_follow_squad_text">
+    <text>Пора забрать кейс торговца и узнать, что находится в тайнике.</text>
+  </string>
+  <string id="val_labx18_boom">
+    <text>СЕКРЕТНЫЙ ВХОД</text>
+  </string>
+  <string id="val_labx18_boom_go_start_name">
+    <text>Взорвать вход в лабораторию</text>
+  </string>
+  <string id="val_labx18_boom_go_start_text">
+    <text>Трухляй дал задание запечатать второй вход в лабораторию.</text>
+  </string>
+  <string id="val_treasure_task_search_trader_case_name">
+    <text>Найти кейс торговца</text>
+  </string>
+  <string id="val_treasure_task_search_trader_case_text">
+    <text>Пока бандиты разбираются со входом в тайник, мне нужно найти артефакты торговца.</text>
+  </string>
+  <string id="val_treasure_task_start_robbery_squad_name">
+    <text>Вернуться к отряду</text>
+  </string>
+  <string id="val_treasure_task_start_robbery_squad_text">
+    <text>Пора возвращаться к бандитам. Они уже наверняка разобрались со входом в тайник.</text>
+  </string>
+  <string id="val_bandits_base_passage_task">
+    <text>ВСЁ РАДИ ЦЕЛИ</text>
+  </string>
+  <string id="val_bandits_base_passage_task_name">
+    <text>Раздобыть для бандитов необходимое</text>
+  </string>
+  <string id="val_bandits_base_passage_task_text">
+    <text>Чтобы попасть на базу к бандитам и забрать артефакты Костыля, нужно в качестве платы за проход принести десяток антирадов или же четыре тысячи рублей. В крайнем случае сгодится какой-нибудь артефакт, выводящий радиацию.</text>
+  </string>
+  <string id="val_prison_task">
+    <text>БАНДИТСКИЕ ДЕБРИ</text>
+  </string>
+  <string id="val_prison_task_start_name">
+    <text>Отозваться на просьбу о помощи</text>
+  </string>
+  <string id="val_prison_task_start_text">
+    <text>Из подвалов здания бандитской базы некий сталкер попросил о помощи. Вероятно, это пленный бандитов. Как же это знакомо, сука... Нужно узнать, как можно ему помочь.</text>
+  </string>
+  <string id="val_prison_task_wait_need_moment_name">
+    <text>Выждать момент</text>
+  </string>
+  <string id="val_prison_task_wait_need_moment_text">
+    <text>Нужно выждать момент, когда можно будет помочь Немому выбраться из бандитской тюрьмы. Стоит поработать на ублюдков, если что-то подвернётся.</text>
+  </string>
+  <string id="val_prison_task_help_go_name">
+    <text>Вытащить сталкера</text>
+  </string>
+  <string id="val_prison_task_help_go_text">
+    <text>За время моего отсутствия бандиты должны были уже уснуть от подсыпанной дряни. Во всяком случае, остаётся только на это надеяться. Стоит попытаться вытащить сталкера из клетки.</text>
+  </string>
+  <string id="val_prison_task_open_door_name">
+    <text>Открыть клетку</text>
+  </string>
+  <string id="val_prison_task_open_door_text">
+    <text>Нужно открыть клетку и вытащить сталкера. Управление дверью осуществляется с пульта на стене неподалёку от клетки.</text>
+  </string>
+  <string id="val_stalker_technic_task">
+    <text>РАДИОЛЮБИТЕЛЬ</text>
+  </string>
+  <string id="val_stalker_technic_task_start_name">
+    <text>Найти светильник и радио</text>
+  </string>
+  <string id="val_stalker_technic_task_start_text">
+    <text>Странный человек с фермы попросил меня найти электросветильник и радио в гараже неподалёку от входа в лабораторию. Взамен обещал щедрую награду.</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_name">
+    <text>Отдать Гарпуну светильник и радио</text>
+  </string>
+  <string id="val_stalker_technic_task_reward_text">
+    <text>Все предметы для радиолюбителя найдены, пора отдать их ему.</text>
+  </string>
+  <string id="val_stalker_technic_task_wait_name">
+    <text>Дождаться сообщения от Гарпуна</text>
+  </string>
+  <string id="val_stalker_technic_task_wait_text">
+    <text>Местный радиолюбитель решил предложить ещё одно дело, но после того, как разберётся со своими проблемами. Нужно дождаться от него сообщения.</text>
+  </string>
+  <string id="val_stalker_technic_task_sos_name">
+    <text>Откликнуться на сигнал SOS</text>
+  </string>
+  <string id="val_stalker_technic_task_sos_text">
+    <text>Рыло, один из сталкеров на ферме, отправил сигнал SOS. Нужно отравиться туда и узнать, что случилось.</text>
+  </string>
+  <string id="val_stalker_technic_task_kill_zombie_name">
+    <text>Убить зомби</text>
+  </string>
+  <string id="val_stalker_technic_task_kill_zombie_text">
+    <text>Все сталкеры на ферме были зомбированы. Скорее всего, это дело рук Гарпуна. Нужно успокоить сталкеров и решить, что делать дальше.</text>
+  </string>
+  <string id="val_stalker_technic_task_check_farm_name">
+    <text>Разобраться в произошедшем</text>
+  </string>
+  <string id="val_stalker_technic_task_check_farm_text">
+    <text>Стоит прошерстить ферму и попытаться понять, что зомбировало сталкеров. Теперь я точно уверен, что это дело рук Гарпуна.</text>
+  </string>
+  <string id="val_stalker_technic_task_kill_sniper_name">
+    <text>Ликвидировать снайпера</text>
+  </string>
+  <string id="val_stalker_technic_task_kill_sniper_text">
+    <text>На меня напал неизвестный. Чтобы узнать, кто это, его нужно убить.</text>
+  </string>
+  <string id="val_stalker_technic_task_check_sniper_name">
+    <text>Обыскать снайпера</text>
+  </string>
+  <string id="val_stalker_technic_task_check_sniper_text">
+    <text>Нападающий мёртв. Надеюсь, при нём есть какие-то зацепки, говорящие о причинах визита ко мне.</text>
+  </string>
+  <string id="val_stalker_technic_task_solution_name">
+    <text>Разобраться с заказчиком</text>
+  </string>
+  <string id="val_stalker_technic_task_solution_text">
+    <text>У наёмника Пумы в ПДА оказалась часть диалога с заказчиком. Судя по всему, после выполнения работы их встреча должна была состояться на заправке. Пора отправляться туда и начать решать эту проблему с ним один на один.</text>
+  </string>
+  <string id="val_stalker_technic_task_kill_name">
+    <text>Убить Гарпуна</text>
+  </string>
+  <string id="val_stalker_technic_task_kill_text">
+    <text>По-хорошему договориться не вышло. Остаётся идти на крайние меры.</text>
+  </string>
+  <string id="val_stalker_technic_task_check_corp_name">
+    <text>Обыскать Гарпуна</text>
+  </string>
+  <string id="val_stalker_technic_task_check_corp_text">
+    <text>У Гарпуна должно быть что-то, что позволило ему не умереть от сгенерированного им же пси-излучения. Нужно забрать это и уничтожить его излучатель.</text>
+  </string>
+  <string id="val_stalker_technic_task_destroy_psy_name">
+    <text>Уничтожить пси-излучатель</text>
+  </string>
+  <string id="val_stalker_technic_task_destroy_psy_text">
+    <text>Дело сделано. Теперь осталось уничтожить последствия работы Гарпуна, чтобы никто больше не попал в эту западню.</text>
+  </string>
 </string_table>

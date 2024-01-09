@@ -1,836 +1,627 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="st_bar_main_post_soldier_agit_1">
-		<text>Агов, салаго,\nвступай до нас у «Долг»!</text>
-	</string>
-
-	<string id="st_bar_main_post_soldier_agit_2">
-		<text>Сталкере, на території\nбази не пустуй, зрозуміло?</text>
-	</string>
-
-	<string id="st_bar_main_post_soldier_agit_3">
-		<text>Врахуй, ти дотримуєшся наших правил —\nтебе ніхто не чіпає.</text>
-	</string>
-
-	<string id="st_bar_main_post_soldier_boss_threat_1">
-		<text>Стояти! Чужинцям на територію\nвхід закрито!</text>
-	</string>
-
-	<string id="st_bar_main_post_soldier_boss_threat_2">
-		<text>Стояти!\nТериторія для чужинців закрита!</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_1_1">
-		<text>Ти його часом не вальнув?</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_1_2">
-		<text>Він навіть вирубився...</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_2_1">
-		<text>Гаразд, тягнімо його до ангара.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_2_2">
-		<text>Тільки давай обережно:\nпопереду долгівський КПП.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_3">
-		<text>Ну й шо нам\nтепер з ним робити?</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_4">
-		<text>Не перегинаєш?</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_5_1">
-		<text>Та ми зараз звалимо,\nзвідки прийшли.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_5_2">
-		<text>Як паркан перелізли,\nтак і назад заліземо.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_6_1">
-		<text>Погано це скінчиться, сука.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_6_2">
-		<text>Ой, погано!</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_7_1">
-		<text>От сука!</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_1_phrase_7_2">
-		<text>Мужики, цейво, мужики, ви тіки не стріляйте!</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_1">
-		<text>Та не здохне.\nЗ цієї пукалки тільки ворон збивати.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_2_1">
-		<text>Та шо-шо...\nЗабрати хабар і замести сліди.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_2_2">
-		<text>Прикінчити його\nта викинуть куди подалі.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_3_1">
-		<text>Він прочухається\nта й підніме тут усіх на вуха.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_3_2">
-		<text>Нам треба цей кіпіш?</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_4_1">
-		<text>Ти, здається, забув,\nзаради чого ми це затіяли:</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_4_2">
-		<text>нам треба більше хабаря.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_4_3">
-		<text>З одного цього тупака\nми назбираємо собі тікі на пиво.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_4_4">
-		<text>Його грохнемо, а через пару днів\nще когось захапаєм.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_5">
-		<text>Досить нити. За дєло,\nберемо бабло зі шматтям і валимо.</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_6_1">
-		<text>Мля, в натурі, не шмаляйте!</text>
-	</string>
-
-	<string id="st_bar_robbery_bandit_2_phrase_6_2">
-		<text>Ми ж можемо домовитись!</text>
-	</string>
-
-	<string id="st_bar_robbery_duty_help_soldier_1_phrase_1">
-		<text>Та, не думав тут\nбандитів зустріти.</text>
-	</string>
-
-	<string id="st_bar_robbery_duty_help_soldier_1_phrase_2">
-		<text>Що ж, доведеться розбиратися!</text>
-	</string>
-
-	<string id="st_bar_robbery_duty_help_soldier_2_phrase">
-		<text>На фарш у мене підеш!</text>
-	</string>
-
-	<string id="st_subtitles_bar_duty">
-		<text>Долгівець</text>
-	</string>
-
-	<string id="st_bar_robbery_duty_help_1">
-		<text>Бійці, вперед!</text>
-	</string>
-
-	<string id="st_bar_robbery_duty_help_2">
-		<text>Контакт із супротивником, підтягуйтесь!</text>
-	</string>
-
-	<string id="st_bar_green_stalker_leader_dogs_compl_1">
-		<text>Ми там собак на підході\nдо бару перестріляли.</text>
-	</string>
-
-	<string id="st_bar_green_stalker_leader_dogs_compl_2">
-		<text>Допомогли захистити світ\nвід зарази Зони.</text>
-	</string>
-
-	<string id="st_bar_green_stalker_leader_dogs_compl_3">
-		<text>Може, нам належить\nякась нагорода?</text>
-	</string>
-
-	<string id="st_bar_main_post_soldier_dogs_compl">
-		<text>Ну, якщо захистили, то буде нагорода. Звернися до Бармена, хлюпне тобі пару скляночок за рахунок закладу.</text>
-	</string>
-
-	<string id="st_bar_green_stalker_leader_no_meet_1">
-		<text>Давай. Не маяч.</text>
-	</string>
-
-	<string id="st_bar_green_stalker_leader_no_meet_2">
-		<text>Відчепись, дядю.</text>
-	</string>
-
-	<string id="st_bar_green_stalker_leader_no_meet_3">
-		<text>Слухай, чоловіче, відвали від мене.</text>
-	</string>
-
-	<string id="st_bar_green_stalker_leader_no_meet_4">
-		<text>Відчепися, чоловіче.\nНе хочу я з тобою говорити.</text>
-	</string>
-
-	<string id="st_bar_green_stalker_leader_no_meet_5">
-		<text>Ну все! Чеши, куди йшов.</text>
-	</string>
-
-	<string id="st_bar_green_stalker_leader_no_meet_6">
-		<text>Та шо ти причепився, як банний лист? Не хочу я з тобою говорити!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_talk_with_drunk_stalker">
-		<text>Тихо, дядьку.\nОсьо тобі пузир. Іди віддихай.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_start_go">
-		<text>Ну все, пішли. Тільки тихо.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_see_duty">
-		<text>Патрульний! В кущі, швидко!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_actor_bush_angry_1">
-		<text>В кущі, дурбецало. Бігом!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_actor_bush_angry_2">
-		<text>Мерщій сюди!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_projectors_info_1">
-		<text>Звідси тільки один вихід.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_projectors_info_2">
-		<text>Треба прорубати їм світло й по-тихому пройти повз вартових.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_projectors_info_3">
-		<text>Важіль у будівлі поруч.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_go_fast">
-		<text>Треба поспішати: вони от-от помітять твою пропажу!</text>
-	</string>
-
-	<string id="st_bar_prison_task_soldier_drunk_stalker_talk_1">
-		<text>Ти з ким тут\nрозмовляєш, недоумку?</text>
-	</string>
-
-	<string id="st_bar_prison_task_soldier_drunk_stalker_talk_2_1">
-		<text>Так, відпочивальник,\nдавай-но у витверезник до ранку,</text>
-	</string>
-
-	<string id="st_bar_prison_task_soldier_drunk_stalker_talk_2_2">
-		<text>а там ми з тобою ще розберемось.</text>
-	</string>
-
-	<string id="st_bar_prison_task_soldier_1_second_post_talk_1">
-		<text>Товаришу капітане, може, чайку?</text>
-	</string>
-
-	<string id="st_bar_prison_task_soldier_1_second_post_talk_2">
-		<text>Я миттю!</text>
-	</string>
-
-	<string id="st_bar_prison_task_soldier_2_second_post_talk_1">
-		<text>Відставити.\nА от кавусі можна.</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_1_projector_comment">
-		<text>Якого біса?</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_2_projector_comment_1">
-		<text>Я ж казав,\nпрожектори вирубаються.</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_2_projector_comment_2">
-		<text>Просив же, бляха, полагодити!</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_2_projector_comment_3">
-		<text>Іди дроти перевіряй.</text>
-	</string>
-
-	<string id="st_bar_prison_task_drunk_stalker_thanx">
-		<text>О, оце діло.\nДякую, хлопці!</text>
-	</string>
-
-	<string id="st_bar_prison_task_drunk_stalker_see_duty">
-		<text>Та я просто відпочиваю.</text>
-	</string>
-
-	<string id="st_bar_prison_task_drunk_stalker_monolog_1">
-		<text>Сука, бармен,\nне продає пузир.</text>
-	</string>
-
-	<string id="st_bar_prison_task_drunk_stalker_monolog_2">
-		<text>Та я йому стільки артефактів припер,</text>
-	</string>
-
-	<string id="st_bar_prison_task_drunk_stalker_monolog_3">
-		<text>а він жлобиться.</text>
-	</string>
-
-	<string id="st_bar_prison_task_actor_search">
-		<text>Полонений злиняв! Шукайте його, він не міг далеко піти!</text>
-	</string>
-
-	<string id="st_bar_prison_stalker_song">
-		<text>Хто не мріяв стати героєм дня, іскрою божественного вогню...</text>
-	</string>
-
-	<string id="st_bar_duty_base_prison_boss_stalker_song_reaction">
-		<text>Так, замовкнути! Розспівся тут.</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_1_check_light_1_1">
-		<text>Дивись-но, кришка відкрита!</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_1_check_light_1_2">
-		<text>Може, це волога потрапила якась?</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_1_check_light_1_3">
-		<text>Я, мабуть, забув закрити.</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_1_check_light_2">
-		<text>От бляха.\nЗрозуміти б, де тут що закоротило...</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_1_check_light_3_1">
-		<text>Нє, командир сьогодні\nне з'явиться, не хвилюйся.</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_1_check_light_3_2">
-		<text>Він вчора з'їв\nякусь хєрню в барі,</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_1_check_light_3_3">
-		<text>а сьогодні, ну, обісрав нам весь сортир, коротше.</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_2_check_light_1_1">
-		<text>Ну от і розбирайся тепер, бовдуре!</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_2_check_light_1_2">
-		<text>Вічно через вас усі проблеми.</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_2_check_light_2_1">
-		<text>Давай-давай, ворушись!</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_2_check_light_2_2">
-		<text>Зараз командир прийде —\nтаких лящів нам дасть!</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_2_check_light_3_1">
-		<text>Давай-давай,\nворушись!</text>
-	</string>
-
-	<string id="st_bar_prison_task_projector_soldier_2_check_light_3_2">
-		<text>Зара ти у мене обісрешся...</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_main_post_compl">
-		<text>Чудово, рушаймо далі!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_hello_1">
-		<text>Здоров, командире.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_hello_2">
-		<text>Ну що, тепер моя черга\nтебе витягувати.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_actor_light_angry_1">
-		<text>Гаси світло. Чого застряг там?</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_actor_light_angry_2">
-		<text>Не тупи. Вируби їм світло!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_actor_light_angry_3">
-		<text>Давай швидше. Руби їм світло!</text>
-	</string>
-
-	<string id="st_bar_green_stalker_leader_need_help">
-		<text>Друже, виручай!\nТут монстрів  -  здуріти можна!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_duty_start_1">
-		<text>Вони зараз підуть до тебе. Сховайся кудись.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_duty_start_2">
-		<text>Щойно дочекаєшся моменту, вискакуй звідти.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_quickly">
-		<text>Рухайся. Погнали!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_duty_see_actor">
-		<text>Ах ти ж бляха. Суши весла тепер!</text>
-	</string>
-
-	<string id="st_bar_prison_task_drunk_stalker_go_prison">
-		<text>Пішли, командире, пішли.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_actor_long_dist_1">
-		<text>Ти ледве плетешся. Рухайся!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_actor_long_dist_2">
-		<text>Не відставай!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_actor_long_dist_3">
-		<text>Давай, підтягуйся!</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_actor_fail">
-		<text>Вибирайся сам. Хрін з тобою.</text>
-	</string>
-
-	<string id="st_bar_prison_task_stalker_koval_death_cc">
-		<text>[кашель від болю]</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_lose_1">
-		<text>Перемога!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_lose_2">
-		<text>Як же легко підкорився салага цьому сталкеру!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_lose_3">
-		<text>Заберіть тушу з арени.\nУ нас претендент на наступний бій!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_ready_1">
-		<text>Сьогодні на арені битимуться два найсвіжіші шматки м'яса!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_ready_2">
-		<text>Хтось із них от-от\nпіде на корм собакам.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_ready_3">
-		<text>Тільки один піде до бару\nсвяткувати перемогу.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_ready_4">
-		<text>Поїхали!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_win_1">
-		<text>Перемога!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_win_2">
-		<text>Наш переможець\nпройшов хрещення вогнем!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_win_3">
-		<text>Здається мені, що ще не раз\nми його тут побачимо!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_1_win_4">
-		<text>Правда ж, молодий?</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_lose_1">
-		<text>Не вийшло!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_lose_2">
-		<text>Цього невдаху було розгромлено\nвже у другому бою!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_lose_3">
-		<text>Ненадовго ж його вистачило.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_lose_4">
-		<text>Прибрати м'ясо з арени!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_ready_1">
-		<text>Сезон продовжується!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_ready_2">
-		<text>Сьогодні б'ються\nвже не салаги, але й не майстри!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_ready_3">
-		<text>У них за спиною\nпо одному виграному бою,</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_ready_4">
-		<text>і це ще нічого не значить!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_ready_5">
-		<text>Хтось має програти.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_ready_6">
-		<text>Почали!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_win_1">
-		<text>Бачили, як він від'їхав?</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_win_2">
-		<text>Сокира знову переміг!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_win_3">
-		<text>Що ж, якщо він\nвийде на третій бій,</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_win_4">
-		<text>дізнаємось, чи справді цей сталкер такий вправний!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_2_win_5">
-		<text>Може, це просто везіння?</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_lose_1">
-		<text>Чорт забирай,\nбеззаконня перемогло!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_lose_2">
-		<text>Бандити просуваються на наступний ступінь.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_lose_3">
-		<text>Якщо їм вдасться виграти усі бої, вони отримають свободу!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_ready_1">
-		<text>Новий бій!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_ready_2">
-		<text>Проти вже знайомого сталкера\nвиступить парочка злочинців!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_ready_3">
-		<text>Цим двом майже вдалося\nприбрати до рук хабар Сокири,</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_ready_4">
-		<text>але їх було затримано доблесним\nзагоном «Долгу» недалеко від бару.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_ready_5">
-		<text>Цей бій  -  справа честі\nдля нашого сталкера.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_ready_6">
-		<text>Покажи їм, як наших грабувати!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_win_1">
-		<text>Перемога!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_win_2">
-		<text>Бандитський дует\nпокидає наш захід</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_win_3">
-		<text>і вирушає прямо в могилу!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_3_win_4">
-		<text>Ну а на що ще було розраховувати\nобдовбаним відморозкам?</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_4_lose_1">
-		<text>Наш інкогніто\nпросувається на п'ятий ступінь!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_4_lose_2">
-		<text>А тілу Сокири судилося бути\nз'їденим чорнобильськими хробаками.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_4_ready_1">
-		<text>Бандитське поріддя позаду!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_4_ready_2">
-		<text>Сьогодні Сокира виступить\nвже проти дійшлого бійця,</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_4_ready_3">
-		<text>який обрав залишити\nсвоє ім'я в таємниці.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_4_ready_4">
-		<text>Що ж, поїхали!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_4_win_1">
-		<text>Він готовий!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_4_win_2">
-		<text>З якою ж холоднокровністю\nпрацює цей молодий сталкер!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_lose_1">
-		<text>Ну а чого ви чекали?</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_lose_2">
-		<text>Навіть досвідчений боєць навряд чи\nвистоїть один проти чотирьох.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_lose_3">
-		<text>Прибрати м'ясо з арени!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_ready_1">
-		<text>Незвичайний бій!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_ready_2">
-		<text>Сокира знайшов у собі сміливість\nвийти проти чотирьох сталкерів!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_ready_3">
-		<text>Ці салаги обрали бій\nне віч-на-віч,</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_ready_4">
-		<text>а вчотирьох, але проти досвідченого.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_ready_5">
-		<text>Подивимось, чи це зіграє роль\nдля нашого постійного переможця!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_win_1">
-		<text>Неймовірно!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_win_2">
-		<text>Один проти чотирьох і перемога!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_5_win_3">
-		<text>Цьому сталкеру безперечно\nпотрібно було йти у загін спецпризначення!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_lose_1">
-		<text>Отакої.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_lose_2">
-		<text>Ішов сталкер до фіналу,\nа прийшов зрештою до своєї могили!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_lose_3">
-		<text>Ну нічого. Попереду нас чекає\nще багато цікавих боїв!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_ready_1">
-		<text>Сезон неухильно\nаближається до фіналу!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_ready_2">
-		<text>Сьогодні Сокира виступить\nпроти загону «Волі»!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_ready_3">
-		<text>Ці хлопці,\nяк і бандити, що нас покинули,</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_ready_4">
-		<text>були спіймані бійцями «Долгу»\nна підходах до бару.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_ready_5">
-		<text>Це буде важкий бій для сталкера.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_ready_6">
-		<text>Почали!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_win_1">
-		<text>Щоразу все важче\nвірити в те, що відбувається!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_win_2">
-		<text>Сталкер знову переміг!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_win_3">
-		<text>Перемогу з великою перевагою у силах!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_6_win_4">
-		<text>Навіть не знаю, чого від нього\nчекати надалі!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_lose_1">
-		<text>Він не зміг.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_lose_2">
-		<text>Не зміг дійти до фіналу.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_lose_3">
-		<text>Скільки сталкерів покладали на нього надії...</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_ready_1">
-		<text>Передостанній бій!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_ready_2">
-		<text>Його учасники максимально\nнаблизились до фіналу.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_ready_3">
-		<text>Це має бути вкрай видовищно!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_ready_4">
-		<text>Не будемо мимрити. Почали!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_win_1">
-		<text>Без шансів!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_win_2">
-		<text>Переможець просувається у фінал,\nале у фінал не без сюрпризів!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_win_3">
-		<text>Вже скоро, якщо Сокира\nзалишиться живий до наступного бою,</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_7_win_4">
-		<text>ми спостерігатимемо\nвкрай цікаве видовище!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_lose_1">
-		<text>Цього варто було очікувати.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_lose_2">
-		<text>Лише один сталкер за всю історію Арени\nзміг подолати останній рубіж.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_lose_3">
-		<text>Це був Мічений,\nі ніхто з ним не зрівняється.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_lose_4">
-		<text>Прибрати тушу з арени!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_ready_1">
-		<text>Фінальний бій!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_ready_2">
-		<text>Сокира погодився на цей двобій,\nне знаючи, що його чекає!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_ready_3">
-		<text>Подивимось, чим закінчиться цей сезон\nдля занадто сміливого сталкера.</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_ready_4">
-		<text>Почали!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_win_1">
-		<text>Чорт забирай, слава!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_win_2">
-		<text>Слава нашому переможцю!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_win_3">
-		<text>Слава новому майстру Арени!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_win_4">
-		<text>Він зміг зробити це так само ефектно,\nяк колись зробив Мічений!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_win_5">
-		<text>Сокира заслужив це звання по праву!</text>
-	</string>
-
-	<string id="st_bar_arena_manager_fight_8_win_6">
-		<text>З перемогою, сталкере-майстре!</text>
-	</string>
-
-	<string id="st_bar_stalker_fireball_wait_actor_1">
-		<text>Ех, дідько...</text>
-	</string>
-
-	<string id="st_bar_stalker_fireball_wait_actor_2">
-		<text>Ех, бляха... якби хто допоміг...</text>
-	</string>
-
-	<string id="st_bar_stalker_fireball_wait_actor_3">
-		<text>Бляха...</text>
-	</string>
-
-	<string id="st_bar_stalker_google_chrome_start_phrase">
-		<text>Ну, ще раз пом'янемо. Хороший був сталкер.</text>
-	</string>
-
-	<string id="st_bar_stalker_pribluda_kill_phrase">
-		<text>Завалю нахрєн, сука!</text>
-	</string>
-
-	<string id="st_bar_security_1_see_actor">
-		<text>Проходь, не затримуйся.</text>
-	</string>
-
-	<string id="st_bar_security_2_see_actor">
-		<text>Іди своєю дорогою, сталкере.</text>
-	</string>
-
-	<string id="st_bar_security_barmen_security_use_1">
-		<text>Тобі сюди не можна!</text>
-	</string>
-
-	<string id="st_bar_security_barmen_security_use_2">
-		<text>Поговори з Барменом.</text>
-	</string>
-
-	<string id="st_bar_security_barmen_security_use_3">
-		<text>Стій! Зараз сюди не можна.</text>
-	</string>
-
+  <string id="st_bar_main_post_soldier_agit_1">
+    <text>Агов, салаго,\nвступай до нас у «Долг»!</text>
+  </string>
+  <string id="st_bar_main_post_soldier_agit_2">
+    <text>Сталкере, на території\nбази не пустуй, зрозуміло?</text>
+  </string>
+  <string id="st_bar_main_post_soldier_agit_3">
+    <text>Врахуй, ти дотримуєшся наших правил —\nтебе ніхто не чіпає.</text>
+  </string>
+  <string id="st_bar_main_post_soldier_boss_threat_1">
+    <text>Стояти! Чужинцям на територію\nвхід закрито!</text>
+  </string>
+  <string id="st_bar_main_post_soldier_boss_threat_2">
+    <text>Стояти!\nТериторія для чужинців закрита!</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_1_1">
+    <text>Ти його часом не вальнув?</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_1_2">
+    <text>Він навіть вирубився...</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_2_1">
+    <text>Гаразд, тягнімо його до ангара.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_2_2">
+    <text>Тільки давай обережно:\nпопереду долгівський КПП.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_3">
+    <text>Ну й шо нам\nтепер з ним робити?</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_4">
+    <text>Не перегинаєш?</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_5_1">
+    <text>Та ми зараз звалимо,\nзвідки прийшли.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_5_2">
+    <text>Як паркан перелізли,\nтак і назад заліземо.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_6_1">
+    <text>Погано це скінчиться, сука.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_6_2">
+    <text>Ой, погано!</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_7_1">
+    <text>От сука!</text>
+  </string>
+  <string id="st_bar_robbery_bandit_1_phrase_7_2">
+    <text>Мужики, цейво, мужики, ви тіки не стріляйте!</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_1">
+    <text>Та не здохне.\nЗ цієї пукалки тільки ворон збивати.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_2_1">
+    <text>Та шо-шо...\nЗабрати хабар і замести сліди.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_2_2">
+    <text>Прикінчити його\nта викинуть куди подалі.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_3_1">
+    <text>Він прочухається\nта й підніме тут усіх на вуха.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_3_2">
+    <text>Нам треба цей кіпіш?</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_4_1">
+    <text>Ти, здається, забув,\nзаради чого ми це затіяли:</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_4_2">
+    <text>нам треба більше хабаря.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_4_3">
+    <text>З одного цього тупака\nми назбираємо собі тікі на пиво.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_4_4">
+    <text>Його грохнемо, а через пару днів\nще когось захапаєм.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_5">
+    <text>Досить нити. За дєло,\nберемо бабло зі шматтям і валимо.</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_6_1">
+    <text>Мля, в натурі, не шмаляйте!</text>
+  </string>
+  <string id="st_bar_robbery_bandit_2_phrase_6_2">
+    <text>Ми ж можемо домовитись!</text>
+  </string>
+  <string id="st_bar_robbery_duty_help_soldier_1_phrase_1">
+    <text>Та, не думав тут\nбандитів зустріти.</text>
+  </string>
+  <string id="st_bar_robbery_duty_help_soldier_1_phrase_2">
+    <text>Що ж, доведеться розбиратися!</text>
+  </string>
+  <string id="st_bar_robbery_duty_help_soldier_2_phrase">
+    <text>На фарш у мене підеш!</text>
+  </string>
+  <string id="st_subtitles_bar_duty">
+    <text>Долгівець</text>
+  </string>
+  <string id="st_bar_robbery_duty_help_1">
+    <text>Бійці, вперед!</text>
+  </string>
+  <string id="st_bar_robbery_duty_help_2">
+    <text>Контакт із супротивником, підтягуйтесь!</text>
+  </string>
+  <string id="st_bar_green_stalker_leader_dogs_compl_1">
+    <text>Ми там собак на підході\nдо бару перестріляли.</text>
+  </string>
+  <string id="st_bar_green_stalker_leader_dogs_compl_2">
+    <text>Допомогли захистити світ\nвід зарази Зони.</text>
+  </string>
+  <string id="st_bar_green_stalker_leader_dogs_compl_3">
+    <text>Може, нам належить\nякась нагорода?</text>
+  </string>
+  <string id="st_bar_main_post_soldier_dogs_compl">
+    <text>Ну, якщо захистили, то буде нагорода. Звернися до Бармена, хлюпне тобі пару скляночок за рахунок закладу.</text>
+  </string>
+  <string id="st_bar_green_stalker_leader_no_meet_1">
+    <text>Давай. Не маяч.</text>
+  </string>
+  <string id="st_bar_green_stalker_leader_no_meet_2">
+    <text>Відчепись, дядю.</text>
+  </string>
+  <string id="st_bar_green_stalker_leader_no_meet_3">
+    <text>Слухай, чоловіче, відвали від мене.</text>
+  </string>
+  <string id="st_bar_green_stalker_leader_no_meet_4">
+    <text>Відчепися, чоловіче.\nНе хочу я з тобою говорити.</text>
+  </string>
+  <string id="st_bar_green_stalker_leader_no_meet_5">
+    <text>Ну все! Чеши, куди йшов.</text>
+  </string>
+  <string id="st_bar_green_stalker_leader_no_meet_6">
+    <text>Та шо ти причепився, як банний лист? Не хочу я з тобою говорити!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_talk_with_drunk_stalker">
+    <text>Тихо, дядьку.\nОсьо тобі пузир. Іди віддихай.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_start_go">
+    <text>Ну все, пішли. Тільки тихо.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_see_duty">
+    <text>Патрульний! В кущі, швидко!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_actor_bush_angry_1">
+    <text>В кущі, дурбецало. Бігом!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_actor_bush_angry_2">
+    <text>Мерщій сюди!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_projectors_info_1">
+    <text>Звідси тільки один вихід.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_projectors_info_2">
+    <text>Треба прорубати їм світло й по-тихому пройти повз вартових.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_projectors_info_3">
+    <text>Важіль у будівлі поруч.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_go_fast">
+    <text>Треба поспішати: вони от-от помітять твою пропажу!</text>
+  </string>
+  <string id="st_bar_prison_task_soldier_drunk_stalker_talk_1">
+    <text>Ти з ким тут\nрозмовляєш, недоумку?</text>
+  </string>
+  <string id="st_bar_prison_task_soldier_drunk_stalker_talk_2_1">
+    <text>Так, відпочивальник,\nдавай-но у витверезник до ранку,</text>
+  </string>
+  <string id="st_bar_prison_task_soldier_drunk_stalker_talk_2_2">
+    <text>а там ми з тобою ще розберемось.</text>
+  </string>
+  <string id="st_bar_prison_task_soldier_1_second_post_talk_1">
+    <text>Товаришу капітане, може, чайку?</text>
+  </string>
+  <string id="st_bar_prison_task_soldier_1_second_post_talk_2">
+    <text>Я миттю!</text>
+  </string>
+  <string id="st_bar_prison_task_soldier_2_second_post_talk_1">
+    <text>Відставити.\nА от кавусі можна.</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_1_projector_comment">
+    <text>Якого біса?</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_2_projector_comment_1">
+    <text>Я ж казав,\nпрожектори вирубаються.</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_2_projector_comment_2">
+    <text>Просив же, бляха, полагодити!</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_2_projector_comment_3">
+    <text>Іди дроти перевіряй.</text>
+  </string>
+  <string id="st_bar_prison_task_drunk_stalker_thanx">
+    <text>О, оце діло.\nДякую, хлопці!</text>
+  </string>
+  <string id="st_bar_prison_task_drunk_stalker_see_duty">
+    <text>Та я просто відпочиваю.</text>
+  </string>
+  <string id="st_bar_prison_task_drunk_stalker_monolog_1">
+    <text>Сука, бармен,\nне продає пузир.</text>
+  </string>
+  <string id="st_bar_prison_task_drunk_stalker_monolog_2">
+    <text>Та я йому стільки артефактів припер,</text>
+  </string>
+  <string id="st_bar_prison_task_drunk_stalker_monolog_3">
+    <text>а він жлобиться.</text>
+  </string>
+  <string id="st_bar_prison_task_actor_search">
+    <text>Полонений злиняв! Шукайте його, він не міг далеко піти!</text>
+  </string>
+  <string id="st_bar_prison_stalker_song">
+    <text>Хто не мріяв стати героєм дня, іскрою божественного вогню...</text>
+  </string>
+  <string id="st_bar_duty_base_prison_boss_stalker_song_reaction">
+    <text>Так, замовкнути! Розспівся тут.</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_1_check_light_1_1">
+    <text>Дивись-но, кришка відкрита!</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_1_check_light_1_2">
+    <text>Може, це волога потрапила якась?</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_1_check_light_1_3">
+    <text>Я, мабуть, забув закрити.</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_1_check_light_2">
+    <text>От бляха.\nЗрозуміти б, де тут що закоротило...</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_1_check_light_3_1">
+    <text>Нє, командир сьогодні\nне з'явиться, не хвилюйся.</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_1_check_light_3_2">
+    <text>Він вчора з'їв\nякусь хєрню в барі,</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_1_check_light_3_3">
+    <text>а сьогодні, ну, обісрав нам весь сортир, коротше.</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_2_check_light_1_1">
+    <text>Ну от і розбирайся тепер, бовдуре!</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_2_check_light_1_2">
+    <text>Вічно через вас усі проблеми.</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_2_check_light_2_1">
+    <text>Давай-давай, ворушись!</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_2_check_light_2_2">
+    <text>Зараз командир прийде —\nтаких лящів нам дасть!</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_2_check_light_3_1">
+    <text>Давай-давай,\nворушись!</text>
+  </string>
+  <string id="st_bar_prison_task_projector_soldier_2_check_light_3_2">
+    <text>Зара ти у мене обісрешся...</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_main_post_compl">
+    <text>Чудово, рушаймо далі!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_hello_1">
+    <text>Здоров, командире.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_hello_2">
+    <text>Ну що, тепер моя черга\nтебе витягувати.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_actor_light_angry_1">
+    <text>Гаси світло. Чого застряг там?</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_actor_light_angry_2">
+    <text>Не тупи. Вируби їм світло!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_actor_light_angry_3">
+    <text>Давай швидше. Руби їм світло!</text>
+  </string>
+  <string id="st_bar_green_stalker_leader_need_help">
+    <text>Друже, виручай!\nТут монстрів  —  здуріти можна!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_duty_start_1">
+    <text>Вони зараз підуть до тебе. Сховайся кудись.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_duty_start_2">
+    <text>Щойно дочекаєшся моменту, вискакуй звідти.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_quickly">
+    <text>Рухайся. Погнали!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_duty_see_actor">
+    <text>Ах ти ж бляха. Суши весла тепер!</text>
+  </string>
+  <string id="st_bar_prison_task_drunk_stalker_go_prison">
+    <text>Пішли, командире, пішли.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_actor_long_dist_1">
+    <text>Ти ледве плетешся. Рухайся!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_actor_long_dist_2">
+    <text>Не відставай!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_actor_long_dist_3">
+    <text>Давай, підтягуйся!</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_actor_fail">
+    <text>Вибирайся сам. Хрін з тобою.</text>
+  </string>
+  <string id="st_bar_prison_task_stalker_koval_death_cc">
+    <text>[кашель від болю]</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_lose_1">
+    <text>Перемога!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_lose_2">
+    <text>Як же легко підкорився салага цьому сталкеру!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_lose_3">
+    <text>Заберіть тушу з арени.\nУ нас претендент на наступний бій!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_ready_1">
+    <text>Сьогодні на арені битимуться два найсвіжіші шматки м'яса!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_ready_2">
+    <text>Хтось із них от-от\nпіде на корм собакам.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_ready_3">
+    <text>Тільки один піде до бару\nсвяткувати перемогу.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_ready_4">
+    <text>Поїхали!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_win_1">
+    <text>Перемога!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_win_2">
+    <text>Наш переможець\nпройшов хрещення вогнем!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_win_3">
+    <text>Здається мені, що ще не раз\nми його тут побачимо!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_1_win_4">
+    <text>Правда ж, молодий?</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_lose_1">
+    <text>Не вийшло!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_lose_2">
+    <text>Цього невдаху було розгромлено\nвже у другому бою!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_lose_3">
+    <text>Ненадовго ж його вистачило.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_lose_4">
+    <text>Прибрати м'ясо з арени!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_ready_1">
+    <text>Сезон продовжується!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_ready_2">
+    <text>Сьогодні б'ються\nвже не салаги, але й не майстри!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_ready_3">
+    <text>У них за спиною\nпо одному виграному бою,</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_ready_4">
+    <text>і це ще нічого не значить!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_ready_5">
+    <text>Хтось має програти.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_ready_6">
+    <text>Почали!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_win_1">
+    <text>Бачили, як він від'їхав?</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_win_2">
+    <text>Сокира знову переміг!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_win_3">
+    <text>Що ж, якщо він\nвийде на третій бій,</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_win_4">
+    <text>дізнаємось, чи справді цей сталкер такий вправний!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_2_win_5">
+    <text>Може, це просто везіння?</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_lose_1">
+    <text>Чорт забирай,\nбеззаконня перемогло!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_lose_2">
+    <text>Бандити просуваються на наступний ступінь.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_lose_3">
+    <text>Якщо їм вдасться виграти усі бої, вони отримають свободу!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_ready_1">
+    <text>Новий бій!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_ready_2">
+    <text>Проти вже знайомого сталкера\nвиступить парочка злочинців!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_ready_3">
+    <text>Цим двом майже вдалося\nприбрати до рук хабар Сокири,</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_ready_4">
+    <text>але їх було затримано доблесним\nзагоном «Долгу» недалеко від бару.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_ready_5">
+    <text>Цей бій  —  справа честі\nдля нашого сталкера.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_ready_6">
+    <text>Покажи їм, як наших грабувати!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_win_1">
+    <text>Перемога!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_win_2">
+    <text>Бандитський дует\nпокидає наш захід</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_win_3">
+    <text>і вирушає прямо в могилу!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_3_win_4">
+    <text>Ну а на що ще було розраховувати\nобдовбаним відморозкам?</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_4_lose_1">
+    <text>Наш інкогніто\nпросувається на п'ятий ступінь!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_4_lose_2">
+    <text>А тілу Сокири судилося бути\nз'їденим чорнобильськими хробаками.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_4_ready_1">
+    <text>Бандитське поріддя позаду!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_4_ready_2">
+    <text>Сьогодні Сокира виступить\nвже проти дійшлого бійця,</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_4_ready_3">
+    <text>який обрав залишити\nсвоє ім'я в таємниці.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_4_ready_4">
+    <text>Що ж, поїхали!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_4_win_1">
+    <text>Він готовий!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_4_win_2">
+    <text>З якою ж холоднокровністю\nпрацює цей молодий сталкер!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_lose_1">
+    <text>Ну а чого ви чекали?</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_lose_2">
+    <text>Навіть досвідчений боєць навряд чи\nвистоїть один проти чотирьох.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_lose_3">
+    <text>Прибрати м'ясо з арени!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_ready_1">
+    <text>Незвичайний бій!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_ready_2">
+    <text>Сокира знайшов у собі сміливість\nвийти проти чотирьох сталкерів!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_ready_3">
+    <text>Ці салаги обрали бій\nне віч-на-віч,</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_ready_4">
+    <text>а вчотирьох, але проти досвідченого.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_ready_5">
+    <text>Подивимось, чи це зіграє роль\nдля нашого постійного переможця!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_win_1">
+    <text>Неймовірно!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_win_2">
+    <text>Один проти чотирьох і перемога!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_5_win_3">
+    <text>Цьому сталкеру безперечно\nпотрібно було йти у загін спецпризначення!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_lose_1">
+    <text>Отакої.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_lose_2">
+    <text>Ішов сталкер до фіналу,\nа прийшов зрештою до своєї могили!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_lose_3">
+    <text>Ну нічого. Попереду нас чекає\nще багато цікавих боїв!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_ready_1">
+    <text>Сезон неухильно\nаближається до фіналу!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_ready_2">
+    <text>Сьогодні Сокира виступить\nпроти загону «Волі»!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_ready_3">
+    <text>Ці хлопці,\nяк і бандити, що нас покинули,</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_ready_4">
+    <text>були спіймані бійцями «Долгу»\nна підходах до бару.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_ready_5">
+    <text>Це буде важкий бій для сталкера.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_ready_6">
+    <text>Почали!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_win_1">
+    <text>Щоразу все важче\nвірити в те, що відбувається!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_win_2">
+    <text>Сталкер знову переміг!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_win_3">
+    <text>Перемогу з великою перевагою у силах!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_6_win_4">
+    <text>Навіть не знаю, чого від нього\nчекати надалі!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_lose_1">
+    <text>Він не зміг.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_lose_2">
+    <text>Не зміг дійти до фіналу.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_lose_3">
+    <text>Скільки сталкерів покладали на нього надії...</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_ready_1">
+    <text>Передостанній бій!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_ready_2">
+    <text>Його учасники максимально\nнаблизились до фіналу.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_ready_3">
+    <text>Це має бути вкрай видовищно!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_ready_4">
+    <text>Не будемо мимрити. Почали!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_win_1">
+    <text>Без шансів!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_win_2">
+    <text>Переможець просувається у фінал,\nале у фінал не без сюрпризів!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_win_3">
+    <text>Вже скоро, якщо Сокира\nзалишиться живий до наступного бою,</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_7_win_4">
+    <text>ми спостерігатимемо\nвкрай цікаве видовище!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_lose_1">
+    <text>Цього варто було очікувати.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_lose_2">
+    <text>Лише один сталкер за всю історію Арени\nзміг подолати останній рубіж.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_lose_3">
+    <text>Це був Мічений,\nі ніхто з ним не зрівняється.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_lose_4">
+    <text>Прибрати тушу з арени!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_ready_1">
+    <text>Фінальний бій!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_ready_2">
+    <text>Сокира погодився на цей двобій,\nне знаючи, що його чекає!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_ready_3">
+    <text>Подивимось, чим закінчиться цей сезон\nдля занадто сміливого сталкера.</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_ready_4">
+    <text>Почали!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_win_1">
+    <text>Чорт забирай, слава!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_win_2">
+    <text>Слава нашому переможцю!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_win_3">
+    <text>Слава новому майстру Арени!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_win_4">
+    <text>Він зміг зробити це так само ефектно,\nяк колись зробив Мічений!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_win_5">
+    <text>Сокира заслужив це звання по праву!</text>
+  </string>
+  <string id="st_bar_arena_manager_fight_8_win_6">
+    <text>З перемогою, сталкере-майстре!</text>
+  </string>
+  <string id="st_bar_stalker_fireball_wait_actor_1">
+    <text>Ех, дідько...</text>
+  </string>
+  <string id="st_bar_stalker_fireball_wait_actor_2">
+    <text>Ех, бляха... якби хто допоміг...</text>
+  </string>
+  <string id="st_bar_stalker_fireball_wait_actor_3">
+    <text>Бляха...</text>
+  </string>
+  <string id="st_bar_stalker_google_chrome_start_phrase">
+    <text>Ну, ще раз пом'янемо. Хороший був сталкер.</text>
+  </string>
+  <string id="st_bar_stalker_pribluda_kill_phrase">
+    <text>Завалю нахрєн, сука!</text>
+  </string>
+  <string id="st_bar_security_1_see_actor">
+    <text>Проходь, не затримуйся.</text>
+  </string>
+  <string id="st_bar_security_2_see_actor">
+    <text>Іди своєю дорогою, сталкере.</text>
+  </string>
+  <string id="st_bar_security_barmen_security_use_1">
+    <text>Тобі сюди не можна!</text>
+  </string>
+  <string id="st_bar_security_barmen_security_use_2">
+    <text>Поговори з Барменом.</text>
+  </string>
+  <string id="st_bar_security_barmen_security_use_3">
+    <text>Стій! Зараз сюди не можна.</text>
+  </string>
 </string_table>

@@ -1,592 +1,444 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="windows-1252"?>
 <string_table>
-
-	<string id="st_tab_tasks">
-		<text>TASKS</text>
-	</string>
-
-	<string id="st_tab_map">
-		<text>MAP</text>
-	</string>
-
-	<string id="st_tab_inventory">
-		<text>INVENTORY</text>
-	</string>
-
-	<string id="st_tab_notes">
-		<text>NOTES</text>
-	</string>
-
-	<string id="st_tab_encyclopedia">
-		<text>ENCYCLOPEDIA</text>
-	</string>
-
-	<string id="st_tab_history">
-		<text>HISTORY</text>
-	</string>
-
-	<string id="Time">
-		<text>Time</text>
-	</string>
-
-	<string id="actor">
-		<text>Free Stalker</text>
-	</string>
-
-	<string id="army">
-		<text>Military</text>
-	</string>
-
-	<string id="bandit">
-		<text>Bandit</text>
-	</string>
-
-	<string id="trader">
-		<text>Trader</text>
-	</string>
-
-	<string id="dolg">
-		<text>Duty</text>
-	</string>
-
-	<string id="ecolog">
-		<text>Scientist</text>
-	</string>
-
-	<string id="hunter">
-		<text>Hunter</text>
-	</string>
-
-	<string id="unknown">
-		<text>Unknown</text>
-	</string>
-
-	<string id="filter_secondary_tasks_text">
-		<text>Side missions</text>
-	</string>
-
-	<string id="filter_treasures_text">
-		<text>Stashes</text>
-	</string>
-
-	<string id="freedom">
-		<text>Freedom</text>
-	</string>
-
-	<string id="killer">
-		<text>Mercenary</text>
-	</string>
-
-	<string id="missions_list">
-		<text>Mission log</text>
-	</string>
-
-	<string id="monolith">
-		<text>Monolith</text>
-	</string>
-
-	<string id="monster">
-		<text>Mutant</text>
-	</string>
-
-	<string id="month_april">
-		<text>April</text>
-	</string>
-
-	<string id="month_august">
-		<text>August</text>
-	</string>
-
-	<string id="month_december">
-		<text>December</text>
-	</string>
-
-	<string id="month_february">
-		<text>February</text>
-	</string>
-
-	<string id="month_january">
-		<text>January</text>
-	</string>
-
-	<string id="month_july">
-		<text>July</text>
-	</string>
-
-	<string id="month_june">
-		<text>June</text>
-	</string>
-
-	<string id="month_march">
-		<text>March</text>
-	</string>
-
-	<string id="month_may">
-		<text>May</text>
-	</string>
-
-	<string id="month_november">
-		<text>November</text>
-	</string>
-
-	<string id="month_october">
-		<text>October</text>
-	</string>
-
-	<string id="month_september">
-		<text>September</text>
-	</string>
-
-	<string id="pda_btn_close">
-		<text>Deactivate PDA</text>
-	</string>
-
-	<string id="pda_btn_logs">
-		<text>Message log</text>
-	</string>
-
-	<string id="pda_btn_logs_hint">
-		<text>Show message history</text>
-	</string>
-
-	<string id="pda_btn_quests">
-		<text>Area map</text>
-	</string>
-
-	<string id="pda_btn_quests_hint">
-		<text>Show Zone map and mission log</text>
-	</string>
-
-	<string id="pda_btn_ranking">
-		<text>Stats</text>
-	</string>
-
-	<string id="pda_btn_ranking_hint">
-		<text>Show personal stats</text>
-	</string>
-
-	<string id="pda_cur_time">
-		<text>Current time:</text>
-	</string>
-
-	<string id="pda_date_filter">
-		<text>Date filter</text>
-	</string>
-
-	<string id="pda_filter_news">
-		<text>Show news</text>
-	</string>
-
-	<string id="pda_filter_talk">
-		<text>Show dialogs</text>
-	</string>
-
-	<string id="pda_legend_caption">
-		<text>Legend</text>
-	</string>
-
-	<string id="pda_stat_1">
-		<text>Zone time:</text>
-	</string>
-
-	<string id="pda_stat_2">
-		<text>Emissions survived:</text>
-	</string>
-
-	<string id="pda_stat_3">
-		<text>Missions completed:</text>
-	</string>
-
-	<string id="pda_stat_4">
-		<text>Mutants killed:</text>
-	</string>
-
-	<string id="pda_stat_5">
-		<text>Stalkers killed:</text>
-	</string>
-
-	<string id="pda_stat_6">
-		<text>Artifacts found:</text>
-	</string>
-
-	<string id="pda_stat_7">
-		<text>Stashes found:</text>
-	</string>
-
-	<string id="pda_stat_favorite_weapon">
-		<text>Favorite weapon</text>
-	</string>
-
-	<string id="pda_stat_mutant_killed">
-		<text>Most powerful mutant killed</text>
-	</string>
-
-	<string id="st_location">
-		<text>Location:</text>
-	</string>
-
-	<string id="st_target">
-		<text>Objective</text>
-	</string>
-
-	<string id="st_ui_pda_legend_additional_task">
-		<text>Side mission</text>
-	</string>
-
-	<string id="st_ui_pda_legend_enemies">
-		<text>Enemies</text>
-	</string>
-
-	<string id="st_ui_pda_legend_friends">
-		<text>Friends</text>
-	</string>
-
-	<string id="st_ui_pda_legend_leader">
-		<text>Faction leader</text>
-	</string>
-
-	<string id="st_ui_pda_legend_main_task">
-		<text>Main mission</text>
-	</string>
-
-	<string id="st_ui_pda_legend_neutrals">
-		<text>Neutrals</text>
-	</string>
-
-	<string id="st_ui_pda_legend_scout">
-		<text>Guide</text>
-	</string>
-
-	<string id="st_ui_pda_legend_secrets">
-		<text>Stashes</text>
-	</string>
-
-	<string id="st_ui_pda_legend_squad">
-		<text>Squad commander</text>
-	</string>
-
-	<string id="st_ui_pda_legend_trader">
-		<text>Trader</text>
-	</string>
-
-	<string id="stalker">
-		<text>Stalker</text>
-	</string>
-
-	<string id="ui_logs_center_caption">
-		<text>Message log</text>
-	</string>
-
-	<string id="ui_map_btn_center">
-		<text>Center on me</text>
-	</string>
-
-	<string id="ui_map_btn_down">
-		<text>Move down</text>
-	</string>
-
-	<string id="ui_map_btn_left">
-		<text>Move left</text>
-	</string>
-
-	<string id="ui_map_btn_legend">
-		<text>Show legend</text>
-	</string>
-
-	<string id="ui_map_btn_right">
-		<text>Move right</text>
-	</string>
-
-	<string id="ui_map_btn_up">
-		<text>Move up</text>
-	</string>
-
-	<string id="ui_map_btn_zmreset">
-		<text>Maximum zoom out</text>
-	</string>
-
-	<string id="ui_map_btn_zoom_in">
-		<text>Zoom</text>
-	</string>
-
-	<string id="ui_map_btn_zoom_out">
-		<text>Zoom out</text>
-	</string>
-
-	<string id="ui_ranking_center_caption">
-		<text>Achievements</text>
-	</string>
-
-	<string id="ui_task_btn_focus_center">
-		<text>Center map on mission</text>
-	</string>
-
-	<string id="ui_task_btn_focus_center2">
-		<text>Center map on mission</text>
-	</string>
-
-	<string id="zombied">
-		<text>Zombie</text>
-	</string>
-
-	<string id="zoom_in_btn_hint">
-		<text>scale +</text>
-	</string>
-
-	<string id="zoom_out_btn_hint">
-		<text>scale -</text>
-	</string>
-
-	<string id="st_ui_pda_legend_vip">
-		<text>Important character</text>
-	</string>
-
-	<string id="st_ui_pda_legend_mechanic">
-		<text>Technician</text>
-	</string>
-
-	<string id="st_ui_pda_legend_medic">
-		<text>Medic</text>
-	</string>
-
-	<string id="st_ui_pda_legend_smuggler">
-		<text>Smuggler</text>
-	</string>
-
-	<string id="ui_pda_secondary_task">
-		<text>Current Missions</text>
-	</string>
-
-	<string id="ui_show_second_task_wnd">
-		<text>Show/Hide Missions</text>
-	</string>
-
-	<string id="st_ui_pda_actor_box">
-		<text>My stash</text>
-	</string>
-
-	<string id="zaton">
-		<text>Zaton</text>
-	</string>
-
-	<string id="jupiter">
-		<text>The area around Jupiter</text>
-	</string>
-
-	<string id="pripyat">
-		<text>Pripyat</text>
-	</string>
-
-	<string id="jupiter_underground">
-		<text>Pripyat 1 underpass</text>
-	</string>
-
-	<string id="labx8">
-		<text>Laboratory X8</text>
-	</string>
-
-	<string id="filter_primary_objects_text">
-		<text>Areas</text>
-	</string>
-
-	<string id="filter_quest_npcs_text">
-		<text>Important objects</text>
-	</string>
-
-	<string id="st_ui_pda_legend_primary_objects">
-		<text>Area</text>
-	</string>
-
-	<string id="st_jup_b32_has_af">
-		<text>Scanners have detected artifacts:</text>
-	</string>
-
-	<string id="st_jup_b32_no_af">
-		<text>Scanners have not detected any artifacts</text>
-	</string>
-
-	<string id="st_ui_pda_secret">
-		<text>Stash</text>
-	</string>
-
-	<string id="st_ui_pda_sleep_place">
-		<text>Sleeping area</text>
-	</string>
-
-	<string id="st_actor_global_treasure">
-		<text>My stash</text>
-	</string>
-
-	<string id="st_user_spot">
-		<text>My map spot</text>
-	</string>
-
-	<string id="st_ui_global_map_task_position">
-		<text>%c[info_orange][V] %c[info_title]Show active task</text>
-	</string>
-
-	<string id="st_ui_global_map_task_position_h">
-		<text>%c[info_orange][V] Show active task</text>
-	</string>
-
-	<string id="st_ui_global_map_actor_position">
-		<text>%c[info_orange][C] %c[info_title]Center</text>
-	</string>
-
-	<string id="st_ui_global_map_actor_position_h">
-		<text>%c[info_orange][C] Center</text>
-	</string>
-
-	<string id="st_ui_global_map_toggle_spots">
-		<text>%c[info_orange][X] %c[info_title]Show/hide markers</text>
-	</string>
-
-	<string id="st_ui_global_map_toggle_spots_h">
-		<text>%c[info_orange][X] Show/hide markers</text>
-	</string>
-
-	<string id="st_ui_global_map_toggle">
-		<text>%c[info_orange][SPACE] %c[info_title]Area</text>
-	</string>
-
-	<string id="st_ui_global_map_toggle_h">
-		<text>%c[info_orange][SPACE] Area</text>
-	</string>
-
-	<string id="st_ui_global_map_place_spot_hint">
-		<text>%c[info_orange][RB] %c[info_title]Add/Remove mark</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_main_task">
-		<text>Main\ntask</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_second_task">
-		<text>Side\ntask</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_location">
-		<text>Area</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_unknown_location">
-		<text>Unknown\narea</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_base">
-		<text>Base</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_lair">
-		<text>Lair</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_spot">
-		<text>Marker</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_bought_treasure">
-		<text>Purchased\nstash</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_dead_man_treasure">
-		<text>Dead man's\nstash</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_level_changer">
-		<text>Passage</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_level_changer_underground">
-		<text>Underground\nentrance</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_level_changer_disabled">
-		<text>Blocked passage</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_actor_box">
-		<text>Personal stash</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_sleep">
-		<text>Sleeping\narea</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_trader">
-		<text>Trader</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_technic">
-		<text>Technician</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_medic">
-		<text>Medic</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_smuggler">
-		<text>Smuggler</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_dialog">
-		<text>Avail.\ndialog</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_actor">
-		<text>You</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_radioactive_anomaly">
-		<text>Radioactive\nzone</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_gravi_anomaly">
-		<text>Gravity\nanomaly</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_chemical_anomaly">
-		<text>Chemical\nanomaly</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_psy_anomaly">
-		<text>Psi\nemission</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_burn_anomaly">
-		<text>Thermal\nanomaly</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_electric_anomaly">
-		<text>Electrical\nanomaly</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_zone">
-		<text>Search\narea</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_scanner">
-		<text>Scanner</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_kill_target">
-		<text>Target\nfor killing</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_neutral_npc">
-		<text>Neutral</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_friend_npc">
-		<text>Friend</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_enemy_npc">
-		<text>Enemy</text>
-	</string>
-
-	<string id="st_ui_global_map_filter_dead_man">
-		<text>Dead man</text>
-	</string>
-
+  <string id="st_tab_tasks">
+    <text>TASKS</text>
+  </string>
+  <string id="st_tab_map">
+    <text>MAP</text>
+  </string>
+  <string id="st_tab_inventory">
+    <text>INVENTORY</text>
+  </string>
+  <string id="st_tab_notes">
+    <text>NOTES</text>
+  </string>
+  <string id="st_tab_encyclopedia">
+    <text>ENCYCLOPEDIA</text>
+  </string>
+  <string id="st_tab_history">
+    <text>HISTORY</text>
+  </string>
+  <string id="Time">
+    <text>Time</text>
+  </string>
+  <string id="actor">
+    <text>Free Stalker</text>
+  </string>
+  <string id="army">
+    <text>Military</text>
+  </string>
+  <string id="bandit">
+    <text>Bandit</text>
+  </string>
+  <string id="trader">
+    <text>Trader</text>
+  </string>
+  <string id="dolg">
+    <text>Duty</text>
+  </string>
+  <string id="ecolog">
+    <text>Scientist</text>
+  </string>
+  <string id="hunter">
+    <text>Hunter</text>
+  </string>
+  <string id="unknown">
+    <text>Unknown</text>
+  </string>
+  <string id="filter_secondary_tasks_text">
+    <text>Side missions</text>
+  </string>
+  <string id="filter_treasures_text">
+    <text>Stashes</text>
+  </string>
+  <string id="freedom">
+    <text>Freedom</text>
+  </string>
+  <string id="killer">
+    <text>Mercenary</text>
+  </string>
+  <string id="missions_list">
+    <text>Mission log</text>
+  </string>
+  <string id="monolith">
+    <text>Monolith</text>
+  </string>
+  <string id="monster">
+    <text>Mutant</text>
+  </string>
+  <string id="month_april">
+    <text>April</text>
+  </string>
+  <string id="month_august">
+    <text>August</text>
+  </string>
+  <string id="month_december">
+    <text>December</text>
+  </string>
+  <string id="month_february">
+    <text>February</text>
+  </string>
+  <string id="month_january">
+    <text>January</text>
+  </string>
+  <string id="month_july">
+    <text>July</text>
+  </string>
+  <string id="month_june">
+    <text>June</text>
+  </string>
+  <string id="month_march">
+    <text>March</text>
+  </string>
+  <string id="month_may">
+    <text>May</text>
+  </string>
+  <string id="month_november">
+    <text>November</text>
+  </string>
+  <string id="month_october">
+    <text>October</text>
+  </string>
+  <string id="month_september">
+    <text>September</text>
+  </string>
+  <string id="pda_btn_close">
+    <text>Deactivate PDA</text>
+  </string>
+  <string id="pda_btn_logs">
+    <text>Message log</text>
+  </string>
+  <string id="pda_btn_logs_hint">
+    <text>Show message history</text>
+  </string>
+  <string id="pda_btn_quests">
+    <text>Area map</text>
+  </string>
+  <string id="pda_btn_quests_hint">
+    <text>Show Zone map and mission log</text>
+  </string>
+  <string id="pda_btn_ranking">
+    <text>Stats</text>
+  </string>
+  <string id="pda_btn_ranking_hint">
+    <text>Show personal stats</text>
+  </string>
+  <string id="pda_cur_time">
+    <text>Current time:</text>
+  </string>
+  <string id="pda_date_filter">
+    <text>Date filter</text>
+  </string>
+  <string id="pda_filter_news">
+    <text>Show news</text>
+  </string>
+  <string id="pda_filter_talk">
+    <text>Show dialogs</text>
+  </string>
+  <string id="pda_legend_caption">
+    <text>Legend</text>
+  </string>
+  <string id="pda_stat_1">
+    <text>Zone time:</text>
+  </string>
+  <string id="pda_stat_2">
+    <text>Emissions survived:</text>
+  </string>
+  <string id="pda_stat_3">
+    <text>Missions completed:</text>
+  </string>
+  <string id="pda_stat_4">
+    <text>Mutants killed:</text>
+  </string>
+  <string id="pda_stat_5">
+    <text>Stalkers killed:</text>
+  </string>
+  <string id="pda_stat_6">
+    <text>Artifacts found:</text>
+  </string>
+  <string id="pda_stat_7">
+    <text>Stashes found:</text>
+  </string>
+  <string id="pda_stat_favorite_weapon">
+    <text>Favorite weapon</text>
+  </string>
+  <string id="pda_stat_mutant_killed">
+    <text>Most powerful mutant killed</text>
+  </string>
+  <string id="st_location">
+    <text>Location:</text>
+  </string>
+  <string id="st_target">
+    <text>Objective</text>
+  </string>
+  <string id="st_ui_pda_legend_additional_task">
+    <text>Side mission</text>
+  </string>
+  <string id="st_ui_pda_legend_enemies">
+    <text>Enemies</text>
+  </string>
+  <string id="st_ui_pda_legend_friends">
+    <text>Friends</text>
+  </string>
+  <string id="st_ui_pda_legend_leader">
+    <text>Faction leader</text>
+  </string>
+  <string id="st_ui_pda_legend_main_task">
+    <text>Main mission</text>
+  </string>
+  <string id="st_ui_pda_legend_neutrals">
+    <text>Neutrals</text>
+  </string>
+  <string id="st_ui_pda_legend_scout">
+    <text>Guide</text>
+  </string>
+  <string id="st_ui_pda_legend_secrets">
+    <text>Stashes</text>
+  </string>
+  <string id="st_ui_pda_legend_squad">
+    <text>Squad commander</text>
+  </string>
+  <string id="st_ui_pda_legend_trader">
+    <text>Trader</text>
+  </string>
+  <string id="stalker">
+    <text>Stalker</text>
+  </string>
+  <string id="ui_logs_center_caption">
+    <text>Message log</text>
+  </string>
+  <string id="ui_map_btn_center">
+    <text>Center on me</text>
+  </string>
+  <string id="ui_map_btn_down">
+    <text>Move down</text>
+  </string>
+  <string id="ui_map_btn_left">
+    <text>Move left</text>
+  </string>
+  <string id="ui_map_btn_legend">
+    <text>Show legend</text>
+  </string>
+  <string id="ui_map_btn_right">
+    <text>Move right</text>
+  </string>
+  <string id="ui_map_btn_up">
+    <text>Move up</text>
+  </string>
+  <string id="ui_map_btn_zmreset">
+    <text>Maximum zoom out</text>
+  </string>
+  <string id="ui_map_btn_zoom_in">
+    <text>Zoom</text>
+  </string>
+  <string id="ui_map_btn_zoom_out">
+    <text>Zoom out</text>
+  </string>
+  <string id="ui_ranking_center_caption">
+    <text>Achievements</text>
+  </string>
+  <string id="ui_task_btn_focus_center">
+    <text>Center map on mission</text>
+  </string>
+  <string id="ui_task_btn_focus_center2">
+    <text>Center map on mission</text>
+  </string>
+  <string id="zombied">
+    <text>Zombie</text>
+  </string>
+  <string id="zoom_in_btn_hint">
+    <text>scale +</text>
+  </string>
+  <string id="zoom_out_btn_hint">
+    <text>scale -</text>
+  </string>
+  <string id="st_ui_pda_legend_vip">
+    <text>Important character</text>
+  </string>
+  <string id="st_ui_pda_legend_mechanic">
+    <text>Technician</text>
+  </string>
+  <string id="st_ui_pda_legend_medic">
+    <text>Medic</text>
+  </string>
+  <string id="st_ui_pda_legend_smuggler">
+    <text>Smuggler</text>
+  </string>
+  <string id="ui_pda_secondary_task">
+    <text>Current Missions</text>
+  </string>
+  <string id="ui_show_second_task_wnd">
+    <text>Show/Hide Missions</text>
+  </string>
+  <string id="st_ui_pda_actor_box">
+    <text>My stash</text>
+  </string>
+  <string id="zaton">
+    <text>Zaton</text>
+  </string>
+  <string id="jupiter">
+    <text>The area around Jupiter</text>
+  </string>
+  <string id="pripyat">
+    <text>Pripyat</text>
+  </string>
+  <string id="jupiter_underground">
+    <text>Pripyat 1 underpass</text>
+  </string>
+  <string id="labx8">
+    <text>Laboratory X8</text>
+  </string>
+  <string id="filter_primary_objects_text">
+    <text>Areas</text>
+  </string>
+  <string id="filter_quest_npcs_text">
+    <text>Important objects</text>
+  </string>
+  <string id="st_ui_pda_legend_primary_objects">
+    <text>Area</text>
+  </string>
+  <string id="st_jup_b32_has_af">
+    <text>Scanners have detected artifacts:</text>
+  </string>
+  <string id="st_jup_b32_no_af">
+    <text>Scanners have not detected any artifacts</text>
+  </string>
+  <string id="st_ui_pda_secret">
+    <text>Stash</text>
+  </string>
+  <string id="st_ui_pda_sleep_place">
+    <text>Sleeping area</text>
+  </string>
+  <string id="st_actor_global_treasure">
+    <text>My stash</text>
+  </string>
+  <string id="st_user_spot">
+    <text>My map spot</text>
+  </string>
+  <string id="st_ui_global_map_task_position">
+    <text>%c[info_orange][V] %c[info_title]Show active task</text>
+  </string>
+  <string id="st_ui_global_map_task_position_h">
+    <text>%c[info_orange][V] Show active task</text>
+  </string>
+  <string id="st_ui_global_map_actor_position">
+    <text>%c[info_orange][C] %c[info_title]Center</text>
+  </string>
+  <string id="st_ui_global_map_actor_position_h">
+    <text>%c[info_orange][C] Center</text>
+  </string>
+  <string id="st_ui_global_map_toggle_spots">
+    <text>%c[info_orange][X] %c[info_title]Show/hide markers</text>
+  </string>
+  <string id="st_ui_global_map_toggle_spots_h">
+    <text>%c[info_orange][X] Show/hide markers</text>
+  </string>
+  <string id="st_ui_global_map_toggle">
+    <text>%c[info_orange][SPACE] %c[info_title]Area</text>
+  </string>
+  <string id="st_ui_global_map_toggle_h">
+    <text>%c[info_orange][SPACE] Area</text>
+  </string>
+  <string id="st_ui_global_map_place_spot_hint">
+    <text>%c[info_orange][RB] %c[info_title]Add/Remove mark</text>
+  </string>
+  <string id="st_ui_global_map_filter_main_task">
+    <text>Main\ntask</text>
+  </string>
+  <string id="st_ui_global_map_filter_second_task">
+    <text>Side\ntask</text>
+  </string>
+  <string id="st_ui_global_map_filter_location">
+    <text>Area</text>
+  </string>
+  <string id="st_ui_global_map_filter_unknown_location">
+    <text>Unknown\narea</text>
+  </string>
+  <string id="st_ui_global_map_filter_base">
+    <text>Base</text>
+  </string>
+  <string id="st_ui_global_map_filter_lair">
+    <text>Lair</text>
+  </string>
+  <string id="st_ui_global_map_filter_spot">
+    <text>Marker</text>
+  </string>
+  <string id="st_ui_global_map_filter_bought_treasure">
+    <text>Purchased\nstash</text>
+  </string>
+  <string id="st_ui_global_map_filter_dead_man_treasure">
+    <text>Dead man's\nstash</text>
+  </string>
+  <string id="st_ui_global_map_filter_level_changer">
+    <text>Passage</text>
+  </string>
+  <string id="st_ui_global_map_filter_level_changer_underground">
+    <text>Underground\nentrance</text>
+  </string>
+  <string id="st_ui_global_map_filter_level_changer_disabled">
+    <text>Blocked passage</text>
+  </string>
+  <string id="st_ui_global_map_filter_actor_box">
+    <text>Personal stash</text>
+  </string>
+  <string id="st_ui_global_map_filter_sleep">
+    <text>Sleeping\narea</text>
+  </string>
+  <string id="st_ui_global_map_filter_trader">
+    <text>Trader</text>
+  </string>
+  <string id="st_ui_global_map_filter_technic">
+    <text>Technician</text>
+  </string>
+  <string id="st_ui_global_map_filter_medic">
+    <text>Medic</text>
+  </string>
+  <string id="st_ui_global_map_filter_smuggler">
+    <text>Smuggler</text>
+  </string>
+  <string id="st_ui_global_map_filter_dialog">
+    <text>Avail.\ndialog</text>
+  </string>
+  <string id="st_ui_global_map_filter_actor">
+    <text>You</text>
+  </string>
+  <string id="st_ui_global_map_filter_radioactive_anomaly">
+    <text>Radioactive\nzone</text>
+  </string>
+  <string id="st_ui_global_map_filter_gravi_anomaly">
+    <text>Gravity\nanomaly</text>
+  </string>
+  <string id="st_ui_global_map_filter_chemical_anomaly">
+    <text>Chemical\nanomaly</text>
+  </string>
+  <string id="st_ui_global_map_filter_psy_anomaly">
+    <text>Psi\nemission</text>
+  </string>
+  <string id="st_ui_global_map_filter_burn_anomaly">
+    <text>Thermal\nanomaly</text>
+  </string>
+  <string id="st_ui_global_map_filter_electric_anomaly">
+    <text>Electrical\nanomaly</text>
+  </string>
+  <string id="st_ui_global_map_filter_zone">
+    <text>Search\narea</text>
+  </string>
+  <string id="st_ui_global_map_filter_scanner">
+    <text>Scanner</text>
+  </string>
+  <string id="st_ui_global_map_filter_kill_target">
+    <text>Target\nfor killing</text>
+  </string>
+  <string id="st_ui_global_map_filter_neutral_npc">
+    <text>Neutral</text>
+  </string>
+  <string id="st_ui_global_map_filter_friend_npc">
+    <text>Friend</text>
+  </string>
+  <string id="st_ui_global_map_filter_enemy_npc">
+    <text>Enemy</text>
+  </string>
+  <string id="st_ui_global_map_filter_dead_man">
+    <text>Dead man</text>
+  </string>
 </string_table>

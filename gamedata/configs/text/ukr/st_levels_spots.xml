@@ -1,300 +1,225 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="escape">
-		<text>Кордон</text>
-	</string>
-
-	<string id="garbage">
-		<text>Смітник</text>
-	</string>
-
-	<string id="agroprom">
-		<text>«Агропром»</text>
-	</string>
-
-	<string id="agroprom_underground">
-		<text>Підземелля «Агропрому»</text>
-	</string>
-
-	<string id="darkvalley">
-		<text>Темна долина</text>
-	</string>
-
-	<string id="labx18">
-		<text>Лабораторія X18</text>
-	</string>
-
-	<string id="ts_valley_katakomb">
-		<text>Підземелля</text>
-	</string>
-
-	<string id="ts_nshep">
-		<text>Новошепіличі</text>
-	</string>
-
-	<string id="bar">
-		<text>Бар</text>
-	</string>
-
-	<string id="yantar">
-		<text>Янтар</text>
-	</string>
-
-	<string id="military">
-		<text>Армійські склади</text>
-	</string>
-
-	<string id="ts_military_katakomb">
-		<text>Шлюз «D»</text>
-	</string>
-
-	<string id="ts_millab">
-		<text>Об'єкт-21</text>
-	</string>
-
-	<string id="to_esc">
-		<text>На Кордон</text>
-	</string>
-
-	<string id="to_gar">
-		<text>На Смітник</text>
-	</string>
-
-	<string id="to_agr">
-		<text>На «Агропром»</text>
-	</string>
-
-	<string id="to_val">
-		<text>У Темну долину</text>
-	</string>
-
-	<string id="to_labx18">
-		<text>У лабораторію X18</text>
-	</string>
-
-	<string id="st_lchanger_to_ts_nshep">
-		<text>У Новошепеличі</text>
-	</string>
-
-	<string id="st_lchanger_to_bar">
-		<text>У Бар</text>
-	</string>
-
-	<string id="esc_sr_army_base_spot_name">
-		<text>КПП «Дитятки»</text>
-	</string>
-
-	<string id="esc_nov_village_spot_name">
-		<text>Селище</text>
-	</string>
-
-	<string id="esc_elevator_map_spot_name">
-		<text>Елеватор</text>
-	</string>
-
-	<string id="esc_most_map_spot_name">
-		<text>Залізничний насип</text>
-	</string>
-
-	<string id="esc_atp_map_spot_name">
-		<text>АТП</text>
-	</string>
-
-	<string id="esc_ferma_map_spot_name">
-		<text>Ферма</text>
-	</string>
-
-	<string id="esc_truck_map_spot_name">
-		<text>«Вантажівка смерті»</text>
-	</string>
-
-	<string id="esc_destroys_map_spot_name">
-		<text>Руїни</text>
-	</string>
-
-	<string id="esc_cpp_map_spot_name">
-		<text>КПП</text>
-	</string>
-
-	<string id="gar_kladbishe_map_spot_name">
-		<text>Кладовище техніки</text>
-	</string>
-
-	<string id="gar_sr_spot_micro_village_name">
-		<text>Руїни хутора</text>
-	</string>
-
-	<string id="gar_sr_spot_water_name">
-		<text>Стара водотяжня</text>
-	</string>
-
-	<string id="gar_sr_spot_dolg_zastava_name">
-		<text>Застава «Долгу»</text>
-	</string>
-
-	<string id="gar_sr_spot_depo_name">
-		<text>ДЕПО</text>
-	</string>
-
-	<string id="gar_sr_forest_spot_name">
-		<text>Ліс</text>
-	</string>
-
-	<string id="gar_sr_thermal_anomaly_spot_name">
-		<text>Аномалія «Духівка»</text>
-	</string>
-
-	<string id="gar_sr_electric_anomaly_spot_name">
-		<text>Аномалія «Електрична»</text>
-	</string>
-
-	<string id="agr_sr_complex_1_spot_name">
-		<text>ЦКН «Боровик»</text>
-	</string>
-
-	<string id="val_sr_stalker_base_spot_name">
-		<text>Ферма</text>
-	</string>
-
-	<string id="val_sr_factory_spot_name">
-		<text>Завод</text>
-	</string>
-
-	<string id="val_sr_bandits_base_spot_name">
-		<text>База бандитів</text>
-	</string>
-
-	<string id="val_sr_fuel_spot_name">
-		<text>Заправка</text>
-	</string>
-
-	<string id="val_sr_swamp_spot_name">
-		<text>Болото</text>
-	</string>
-
-	<string id="val_sr_spot_thermal_anomaly_name">
-		<text>Аномалія «Розлам»</text>
-	</string>
-
-	<string id="val_sr_coast_spot_name">
-		<text>Берег річки</text>
-	</string>
-
-	<string id="esc_sr_dynamite_spot_name">
-		<text>Десь тут Вовк сховав динаміт</text>
-	</string>
-
-	<string id="esc_robbery_novices_spot_elevator_name">
-		<text>Елеватор\nТут варто пошукати крадіїв</text>
-	</string>
-
-	<string id="esc_robbery_novices_spot_ferma_name">
-		<text>Ферма\nТут варто пошукати крадіїв</text>
-	</string>
-
-	<string id="agr_sr_scientists_base_spot_name">
-		<text>Науковий комплекс</text>
-	</string>
-
-	<string id="esc_sr_forestry_spot_name">
-		<text>Тартак</text>
-	</string>
-
-	<string id="nsp_sr_pool_spot_name">
-		<text>Басейн</text>
-	</string>
-
-	<string id="nsp_sr_military_base_spot_name">
-		<text>Військова база</text>
-	</string>
-
-	<string id="nsp_sr_village_spot_name">
-		<text>Село Новошепеличі</text>
-	</string>
-
-	<string id="nsp_sr_bridge_spot_name">
-		<text>Міст</text>
-	</string>
-
-	<string id="nsp_sr_oil_industry_name">
-		<text>Нафтобаза</text>
-	</string>
-
-	<string id="nsp_thermal_anomaly_spot_name">
-		<text>Аномалія «Котлован»</text>
-	</string>
-
-	<string id="nsp_kladbishe_spot_name">
-		<text>Цвинтар</text>
-	</string>
-
-	<string id="nsp_zone_place_scanner">
-		<text>Тут потрібно встановити сканер</text>
-	</string>
-
-	<string id="nsp_village_stalkers_spot">
-		<text>Варто поговорити з місцевими сталкерами, щоб дізнатися щось про дивні смерті у Новошепеличах</text>
-	</string>
-
-	<string id="nsp_masters_flashback_kill_spot">
-		<text>Потрібно позбутися сталкерів</text>
-	</string>
-
-	<string id="yan_primary_spot">
-		<text>Оглянути місце</text>
-	</string>
-
-	<string id="agr_scientists_base_soldiers_spot">
-		<text>Потрібно дізнатися у військових подробиці про зниклого вченого</text>
-	</string>
-
-	<string id="nsp_sr_hunters_base_spot_name">
-		<text>Табір мисливців</text>
-	</string>
-
-	<string id="st_global_map_level_escape">
-		<text>КОРДОН</text>
-	</string>
-
-	<string id="st_global_map_level_garbage">
-		<text>СМІТНИК</text>
-	</string>
-
-	<string id="st_global_map_level_agroprom">
-		<text>«АГРОПРОМ»</text>
-	</string>
-
-	<string id="st_global_map_level_darkvalley">
-		<text>ТЕМНА ДОЛИНА</text>
-	</string>
-
-	<string id="st_global_map_level_ts_nshep">
-		<text>НОВОШЕПЕЛИЧІ</text>
-	</string>
-
-	<string id="st_global_map_level_bar">
-		<text>БАР</text>
-	</string>
-
-	<string id="st_global_map_level_yantar">
-		<text>ЯНТАР</text>
-	</string>
-
-	<string id="st_global_map_level_military">
-		<text>ВІЙСЬКОВІ СКЛАДЫ</text>
-	</string>
-
-	<string id="st_global_map_level_not_known">
-		<text>НЕВІДОМО</text>
-	</string>
-
-	<string id="st_global_map_level_actor_current_level">
-		<text>ВИ ТУТ</text>
-	</string>
-
-	<string id="gar_stalker_messenger_stalkers_spot_title">
-		<text>Можливо, тут можна знайти одного зі сталкерів, які знають код від сейфа дигерів на Агропромі</text>
-	</string>
-
+  <string id="escape">
+    <text>Кордон</text>
+  </string>
+  <string id="garbage">
+    <text>Смітник</text>
+  </string>
+  <string id="agroprom">
+    <text>«Агропром»</text>
+  </string>
+  <string id="agroprom_underground">
+    <text>Підземелля «Агропрому»</text>
+  </string>
+  <string id="darkvalley">
+    <text>Темна долина</text>
+  </string>
+  <string id="labx18">
+    <text>Лабораторія X18</text>
+  </string>
+  <string id="ts_valley_katakomb">
+    <text>Підземелля</text>
+  </string>
+  <string id="ts_nshep">
+    <text>Новошепіличі</text>
+  </string>
+  <string id="bar">
+    <text>Бар</text>
+  </string>
+  <string id="yantar">
+    <text>Янтар</text>
+  </string>
+  <string id="military">
+    <text>Армійські склади</text>
+  </string>
+  <string id="ts_military_katakomb">
+    <text>Шлюз «D»</text>
+  </string>
+  <string id="ts_millab">
+    <text>Об'єкт-21</text>
+  </string>
+  <string id="to_esc">
+    <text>На Кордон</text>
+  </string>
+  <string id="to_gar">
+    <text>На Смітник</text>
+  </string>
+  <string id="to_agr">
+    <text>На «Агропром»</text>
+  </string>
+  <string id="to_val">
+    <text>У Темну долину</text>
+  </string>
+  <string id="to_labx18">
+    <text>У лабораторію X18</text>
+  </string>
+  <string id="st_lchanger_to_ts_nshep">
+    <text>У Новошепеличі</text>
+  </string>
+  <string id="st_lchanger_to_bar">
+    <text>У Бар</text>
+  </string>
+  <string id="esc_sr_army_base_spot_name">
+    <text>КПП «Дитятки»</text>
+  </string>
+  <string id="esc_nov_village_spot_name">
+    <text>Селище</text>
+  </string>
+  <string id="esc_elevator_map_spot_name">
+    <text>Елеватор</text>
+  </string>
+  <string id="esc_most_map_spot_name">
+    <text>Залізничний насип</text>
+  </string>
+  <string id="esc_atp_map_spot_name">
+    <text>АТП</text>
+  </string>
+  <string id="esc_ferma_map_spot_name">
+    <text>Ферма</text>
+  </string>
+  <string id="esc_truck_map_spot_name">
+    <text>«Вантажівка смерті»</text>
+  </string>
+  <string id="esc_destroys_map_spot_name">
+    <text>Руїни</text>
+  </string>
+  <string id="esc_cpp_map_spot_name">
+    <text>КПП</text>
+  </string>
+  <string id="gar_kladbishe_map_spot_name">
+    <text>Кладовище техніки</text>
+  </string>
+  <string id="gar_sr_spot_micro_village_name">
+    <text>Руїни хутора</text>
+  </string>
+  <string id="gar_sr_spot_water_name">
+    <text>Стара водотяжня</text>
+  </string>
+  <string id="gar_sr_spot_dolg_zastava_name">
+    <text>Застава «Долгу»</text>
+  </string>
+  <string id="gar_sr_spot_depo_name">
+    <text>ДЕПО</text>
+  </string>
+  <string id="gar_sr_forest_spot_name">
+    <text>Ліс</text>
+  </string>
+  <string id="gar_sr_thermal_anomaly_spot_name">
+    <text>Аномалія «Духівка»</text>
+  </string>
+  <string id="gar_sr_electric_anomaly_spot_name">
+    <text>Аномалія «Електрична»</text>
+  </string>
+  <string id="agr_sr_complex_1_spot_name">
+    <text>ЦКН «Боровик»</text>
+  </string>
+  <string id="val_sr_stalker_base_spot_name">
+    <text>Ферма</text>
+  </string>
+  <string id="val_sr_factory_spot_name">
+    <text>Завод</text>
+  </string>
+  <string id="val_sr_bandits_base_spot_name">
+    <text>База бандитів</text>
+  </string>
+  <string id="val_sr_fuel_spot_name">
+    <text>Заправка</text>
+  </string>
+  <string id="val_sr_swamp_spot_name">
+    <text>Болото</text>
+  </string>
+  <string id="val_sr_spot_thermal_anomaly_name">
+    <text>Аномалія «Розлам»</text>
+  </string>
+  <string id="val_sr_coast_spot_name">
+    <text>Берег річки</text>
+  </string>
+  <string id="esc_sr_dynamite_spot_name">
+    <text>Десь тут Вовк сховав динаміт</text>
+  </string>
+  <string id="esc_robbery_novices_spot_elevator_name">
+    <text>Елеватор\nТут варто пошукати крадіїв</text>
+  </string>
+  <string id="esc_robbery_novices_spot_ferma_name">
+    <text>Ферма\nТут варто пошукати крадіїв</text>
+  </string>
+  <string id="agr_sr_scientists_base_spot_name">
+    <text>Науковий комплекс</text>
+  </string>
+  <string id="esc_sr_forestry_spot_name">
+    <text>Тартак</text>
+  </string>
+  <string id="nsp_sr_pool_spot_name">
+    <text>Басейн</text>
+  </string>
+  <string id="nsp_sr_military_base_spot_name">
+    <text>Військова база</text>
+  </string>
+  <string id="nsp_sr_village_spot_name">
+    <text>Село Новошепеличі</text>
+  </string>
+  <string id="nsp_sr_bridge_spot_name">
+    <text>Міст</text>
+  </string>
+  <string id="nsp_sr_oil_industry_name">
+    <text>Нафтобаза</text>
+  </string>
+  <string id="nsp_thermal_anomaly_spot_name">
+    <text>Аномалія «Котлован»</text>
+  </string>
+  <string id="nsp_kladbishe_spot_name">
+    <text>Цвинтар</text>
+  </string>
+  <string id="nsp_zone_place_scanner">
+    <text>Тут потрібно встановити сканер</text>
+  </string>
+  <string id="nsp_village_stalkers_spot">
+    <text>Варто поговорити з місцевими сталкерами, щоб дізнатися щось про дивні смерті у Новошепеличах</text>
+  </string>
+  <string id="nsp_masters_flashback_kill_spot">
+    <text>Потрібно позбутися сталкерів</text>
+  </string>
+  <string id="yan_primary_spot">
+    <text>Оглянути місце</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_spot">
+    <text>Потрібно дізнатися у військових подробиці про зниклого вченого</text>
+  </string>
+  <string id="nsp_sr_hunters_base_spot_name">
+    <text>Табір мисливців</text>
+  </string>
+  <string id="st_global_map_level_escape">
+    <text>КОРДОН</text>
+  </string>
+  <string id="st_global_map_level_garbage">
+    <text>СМІТНИК</text>
+  </string>
+  <string id="st_global_map_level_agroprom">
+    <text>«АГРОПРОМ»</text>
+  </string>
+  <string id="st_global_map_level_darkvalley">
+    <text>ТЕМНА ДОЛИНА</text>
+  </string>
+  <string id="st_global_map_level_ts_nshep">
+    <text>НОВОШЕПЕЛИЧІ</text>
+  </string>
+  <string id="st_global_map_level_bar">
+    <text>БАР</text>
+  </string>
+  <string id="st_global_map_level_yantar">
+    <text>ЯНТАР</text>
+  </string>
+  <string id="st_global_map_level_military">
+    <text>ВІЙСЬКОВІ СКЛАДЫ</text>
+  </string>
+  <string id="st_global_map_level_not_known">
+    <text>НЕВІДОМО</text>
+  </string>
+  <string id="st_global_map_level_actor_current_level">
+    <text>ВИ ТУТ</text>
+  </string>
+  <string id="gar_stalker_messenger_stalkers_spot_title">
+    <text>Можливо, тут можна знайти одного зі сталкерів, які знають код від сейфа дигерів на Агропромі</text>
+  </string>
 </string_table>

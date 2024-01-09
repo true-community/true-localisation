@@ -1,364 +1,266 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="bar_duty_territory">
-		<text>ТЕРРИТОРІЯ «ДОЛГУ»</text>
-	</string>
-
-	<string id="bar_duty_territory_start_name">
-		<text>Отримати довіру місцевих</text>
-	</string>
-
-	<string id="bar_duty_territory_start_text">
-		<text>Для пропуску до безпосереднього керівництва «Долгу», до його торговця і техніка потрібно постаратися заслужити довіру місцевих. Тоді там можна буде розжитися якоюсь роботою і спорядженням. Сержант Плічко для початку порадив попрацювати на Бармена.</text>
-	</string>
-
-	<string id="bar_duty_territory_final_name">
-		<text>Поговорити з сержантом Плічко</text>.
-	</string>
-
-	<string id="bar_duty_territory_final_text">
-		<text>Думаю, я досить непогано освоївся в Барі, і сержант Плічко тепер зможе пропустити мене на територію «Долгу». Можливо, там буде ще якась робота.</text>
-	</string>
-
-	<string id="bar_stalker_asshole_task">
-		<text>БАНДИТСЬКІ КОЗНІ</text>
-	</string>
-
-	<string id="bar_stalker_asshole_task_start_name">
-		<text>Відправитися на зустріч зі сталкерами</text>
-	</string>
-
-	<string id="bar_stalker_asshole_task_start_text">
-		<text>Один сталкер з Бару попросив допомогти витягнути його друзів, які потрапили в полон до бандитів на Звалищі. Потрібно зустрітися зі ще парою сталкерів, щоб організувати напад.</text>
-	</string>
-
-	<string id="bar_after_robbery">
-		<text>ПІСЛЯ ВІДКЛЮЧКИ</text>
-	</string>
-
-	<string id="bar_after_robbery_start_name">
-		<text>Дізнатися, що сталося</text>
-	</string>
-
-	<string id="bar_after_robbery_start_text">
-		<text>Неясно пам'ятаю, як у мене стріляли. Потім я опинився тут. Потрібно дізнатися, що це за місце.</text>
-	</string>
-
-	<string id="bar_after_robbery_talk_with_duty_name">
-		<text>Поговорити з бійцями із загону «Долга»</text>
-	</string>
-
-	<string id="bar_prison_task_self_go_textbar_prison_task_self_go_text">
-		<text>Бармен розповів, що мене врятували довговці від бандитів. Потрібно поговорити з ними і дізнатися, чи потрібно їм щось.</text>
-	</string>
-
-	<string id="bar_duty_help_present">
-		<text>НЕЗВИЧАЙНЕ ПРОХАННЯ</text>
-	</string>
-
-	<string id="bar_duty_help_present_start_name">
-		<text>Сходити до Корвалола за подарунком для сержанта</text>
-	</string>
-
-	<string id="bar_duty_help_present_start_text">
-		<text>Сержант Любезнов попросив метнутися до Смітника до нашого спільного знайомого і забрати його подарунок.</text>
-	</string>
-
-	<string id="bar_duty_help_present_final_name">
-		<text>Віднести сержанту жетон і артефакт</text>
-	</string>
-
-	<string id="bar_duty_help_present_final_text">
-		<text>Корвалол передав сержанту Любезнову його загублений жетон і артефакт на додачу. Потрібно всю цю справу передати долговцю.</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task">
-		<text>ГРА З ВОГНЕМ</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_kill_polters_name">
-		<text>Вбити вогняних полтергейстів</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_kill_polters_text">
-		<text>Гена Полий, сталкер з Бару, розповів про вогняних полтергейстів, що спалили його товаришів живцем, і попросив розібратися з ними, якщо буду неподалік від дороги на Військові склади.</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_take_reward_name">
-		<text>Повернутися за винагородою</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_take_reward_text">
-		<text>Вогняні полтергейсти більше не потурбують мешканців Бара. Тепер можна навідатися до Гени Полого за нагородою.</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task">
-		<text>СХОВАНКА БУХОГО</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_check_treasure_name">
-		<text>Дістатися до схрону</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_check_treasure_text">
-		<text>Саня Горілчаний розповів про схованку сталкера Бухого. Схованка, за його словами, повна горілки та рідкісних артефактів. Варто випробувати удачу і перевірити місце, про яке він казав.</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_after_robbery_name">
-		<text>З'ясувати, що сталося</text>
-	</string>
-
-	<string id="bar_bandits_treasure_task">
-		<text>НАГРАБОВАНЕ</text>
-	</string>
-
-	<string id="bar_bandits_treasure_task_start_name">
-		<text>Дістатися схованки бандитів</text>
-	</string>
-
-	<string id="bar_bandits_treasure_task_start_text">
-		<text>Сержант Любезнов віддав мені ключ від схованки бандитів на Смітнику, які мене ледве не доклали під час першого відвідування Бару. Для мене там може виявитися щось корисне.</text>
-	</string>
-
-	<string id="bar_bandits_treasure_task_second_name">
-		<text>Ошукати схованку бандитів</text>
-	</string>
-
-	<string id="bar_bandits_treasure_task_second_text">
-		<text>Мені вдалося потрапити в приміщення зі схованкою. Потрібно тут добряче все оглянути: можна знайти щось корисне.</text>
-	</string>
-
-	<string id="bar_after_robbery_box">
-		<text>ОСОБИСТЕ</text>
-	</string>
-
-	<string id="bar_after_robbery_box_start_name">
-		<text>Забрати свої речі зі скриньки</text>
-	</string>
-
-	<string id="bar_after_robbery_box_start_text">
-		<text>Бармен склав усі мої речі до ящику в його кімнаті, потрібно їх забрати.</text>
-	</string>
-
-	<string id="bar_mystical_dogs_task">
-		<text>НА ПІДХОДАХ</text>
-	</string>
-
-	<string id="bar_mystical_dogs_task_start_name">
-		<text>Відгукнутись на допомогу</text>
-	</string>
-
-	<string id="bar_mystical_dogs_task_start_text">
-		<text>Сталкери на підходах до бару просять допомогти. Як вони взагалі забралися так далеко за такого спорядження?</text>
-	</string>
-
-	<string id="bar_mystical_dogs_task_kill_dogs_name">
-		<text>Розобратися з псі-собаками</text>
-	</string>
-
-	<string id="bar_mystical_dogs_task_kill_dogs_text">
-		<text>Група сталкерів не може прорватися до Бару через зграю псі-собак. Треба розчистити дорогу... насамперед, для своєї ж безпеки.</text>
-	</string>
-
-	<string id="bar_prison_task">
-		<text>ВТЕЧА</text>
-	</string>
-
-	<string id="bar_prison_task_start_name">
-		<text>Знайти вихід</text>
-	</string>
-
-	<string id="bar_prison_task_start_text">
-		<text>Примудрилося опинитися за ґратами в Барі... Потрібно терміново шукати якийсь шанс вибратися на волю.</text>
-	</string>
-
-	<string id="bar_prison_task_talk_with_koval_name">
-		<text>Поговорити з Ковалем</text>
-	</string>
-
-	<string id="bar_prison_task_talk_with_koval_text">
-		<text>Неочікувана зустріч! Можливо, Коваль - мій квиток на свободу.</text>
-	</string>
-
-	<string id="bar_prison_task_follow_koval_name">
-		<text>Слідувати за Ковалем</text>.
-	</string>
-
-	<string id="bar_prison_task_follow_koval_text">
-		<text>Коваль прийшов мені на допомогу в скрутну хвилину. Ось у чому був полковник правий щодо нього, так це про його досвід звичайного сталкера. У даному випадку він дуже згодився.</text>
-	</string>
-
-	<string id="bar_prison_task_projectors_off_name">
-		<text>Відключити світло на пропускному пункті «Долгу»</text>
-	</string>
-
-	<string id="bar_prison_task_projectors_off_text">
-		<text>Щоб непомітно проскочити повз патрульних, доведеться відрубати світло. Досить опустити рубільник у будівлі по сусідству.</text>
-	</string>
-
-	<string id="bar_prison_task_wait_duty_name">
-		<text>Сховатися від патрулів і дочекатися зручного моменту</text>
-	</string>
-
-	<string id="bar_prison_task_wait_duty_text">
-		<text>Вдалося вирубити світло на пропускному пункті. Тепер треба почекати момент, коли можна буде непомітно проскочити повз патрульних.</text>
-	</string>
-
-	<string id="bar_prison_task_sprint_to_military_name">
-		<text>Втекти з території «Долга»</text>
-	</string>
-
-	<string id="bar_prison_task_sprint_to_military_text">
-		<text>Не вдалося по-тихому оминути солдатів «Долгу». Тепер терміново потрібно вибиратися звідси і якомога швидше.</text>
-	</string>
-		
-	<string id="bar_prison_task_self_go_name">
-		<text>Вибратися з Бару самостійно</text>
-	</string>
-
-	<string id="bar_prison_task_self_go_text">
-		<text>Тепер самому доведеться пробиратися через усю цю дупу.</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task">
-		<text>ГРА З ВОГНЕМ</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_kill_polters_name">
-		<text>Вбити вогняних полтергейстів</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_kill_polters_text">
-		<text>Гена Полий, сталкер з Бару, розповів про вогняних полтергейстів, що спалили його товаришів живцем, і попросив розібратися з ними, якщо буду неподалік від дороги на Військові склади.</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_take_reward_name">
-		<text>Повернутися за нагородою</text>
-	</string>
-
-	<string id="bar_stalker_fireball_task_take_reward_text">
-		<text>Вогняні полтергейсти більше не потурбують мешканців Бара. Тепер можна навідатися до Гени Полого за нагородою.</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task">
-		<text>ТАЙНИК БУХОГО</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_check_treasure_name">
-		<text>Дістатися до схрону</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_check_treasure_text">
-		<text>Саня Горілчаний розповів про схованку сталкера Бухого. Схованка, за його словами, повна горілки та рідкісних артефактів. Варто випробувати удачу і перевірити місце, про яке він казав.</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_after_robbery_name">
-		<text>З'ясувати, що сталося</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_after_robbery_text">
-		<text>Схоже, я потрапив у пастку для лохів... Як же просто мене обчистили! А тут і Саня Горілчаний намалювався. Потрібно поставити йому кілька запитань.</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_final_name">
-		<text>Вирішити долю Сані Горілчаного</text>
-	</string>
-
-	<string id="bar_drunk_stalker_task_final_text">
-		<text>Саня Горілчаний підставив мене, заманивши в пастку, а зараз корчиться від болю і просить допомоги. Дати йому аптечку чи залишити виродка на поталу щурам?</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_task">
-		<text>ГЕРОЙ АБО ПАЛАЧ?</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_task_start_name">
-		<text>Знайти Гуся</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_task_start_text">
-		<text>Потрібно знайти Гуся і відмовити його брати участь у боях на арені. Має бути для нього інший вихід. Імовірно, Бармен щось про нього знає.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_snake_info_name">
-		<text>Довідатися у Хрома про Кобру</text>.
-	</string>
-
-	<string id="bar_stalker_google_chrome_snake_info_text">
-		<text>Плювати на те, що розповів Хром про цього Кобру. Потрібно щось робити з цим покидьком! Спершу дізнаюся, де його знайти.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_talk_snake_name">
-		<text>Поговорити з Коброю</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_talk_snake_text">
-		<text>Потрібно домовитися з Коброю, зберігаючи при цьому обережність. Навряд чи це буде так просто.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_follow_name">
-		<text>Слідувати за Хромом</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_follow_text">
-		<text>Хром жадає покінчити з Коброю. Але щось у його словах не сходиться. Який у Хрома може бути мотив? Поки що потрібно йти за ним, а далі побачимо.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_arena_talk_name">
-		<text>Поговорити з Арні</text>.
-	</string>
-
-	<string id="bar_stalker_google_chrome_arena_talk_text">
-		<text>Через те, що сталося, я забув про Гусака і його виступ на Арені. Потрібно дізнатися, що з ним і чи живий він.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_read_note_name">
-		<text>Прочитати записку Гусака</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_read_note_text">
-		<text> Гусак перед смертю залишив мені записку. Варто її прочитати, щоб дізнатися будь-які подробиці.</text>.
-	</string>
-
-	<string id="bar_stalker_google_chrome_talk_after_read_name">
-		<text>Поговорити з Хромом</text>.
-	</string>
-
-	<string id="bar_stalker_google_chrome_talk_after_read_text">
-		<text>Виходить, що Хром мене обдурив. Майже все, що він розповів про Кобру, було брехнею. Але для чого він це зробив? Потрібно з'ясувати це в нього.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_take_items_name">
-		<text>Забрати своє спорядження в притулок Кобри</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_take_items_text">
-		<text>Усе вийшло не так погано, хоча мені довелося похвилюватися. Те, що сказав Хром, схоже на правду. Тільки не вірю я йому до кінця. Щось він упустив. Як він сам і сказав, потрібно поменше довіряти незнайомцям. Тепер необхідно забрати своє спорядження і рушити за Коброю.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_to_garbage_name">
-		<text>Зустрітися з Хромом</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_to_garbage_text">
-		<text>Потрібно зустрітися з Хромом за південним блокпостом Бара. Чи точно Кобра заслуговує на смерть? Зараз ні в чому не можна бути на сто відсотків упевненим.</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_attack_name">
-		<text>Вбити сталкерів і спробувати поговорити з Коброю</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_attack_text">
-		<text>Приспішники Кобри мене не цікавлять, а от сам Кобра... Цікаво дізнатися його точку зору в його конфлікті з Хромом.</text>.
-	</string>
-
-	<string id="bar_stalker_google_chrome_final_name">
-		<text>Поговорити з Хромом</text>
-	</string>
-
-	<string id="bar_stalker_google_chrome_final_text">
-		<text> Схоже, все закінчилося. Час поговорити з Хромом.</text>
-	</string>
-
+  <string id="bar_duty_territory">
+    <text>ТЕРРИТОРІЯ «ДОЛГУ»</text>
+  </string>
+  <string id="bar_duty_territory_start_name">
+    <text>Отримати довіру місцевих</text>
+  </string>
+  <string id="bar_duty_territory_start_text">
+    <text>Для пропуску до безпосереднього керівництва «Долгу», до його торговця і техніка потрібно постаратися заслужити довіру місцевих. Тоді там можна буде розжитися якоюсь роботою і спорядженням. Сержант Плічко для початку порадив попрацювати на Бармена.</text>
+  </string>
+  <string id="bar_duty_territory_final_name"><text>Поговорити з сержантом Плічко</text>.
+	</string>
+  <string id="bar_duty_territory_final_text">
+    <text>Думаю, я досить непогано освоївся в Барі, і сержант Плічко тепер зможе пропустити мене на територію «Долгу». Можливо, там буде ще якась робота.</text>
+  </string>
+  <string id="bar_stalker_asshole_task">
+    <text>БАНДИТСЬКІ КОЗНІ</text>
+  </string>
+  <string id="bar_stalker_asshole_task_start_name">
+    <text>Відправитися на зустріч зі сталкерами</text>
+  </string>
+  <string id="bar_stalker_asshole_task_start_text">
+    <text>Один сталкер з Бару попросив допомогти витягнути його друзів, які потрапили в полон до бандитів на Звалищі. Потрібно зустрітися зі ще парою сталкерів, щоб організувати напад.</text>
+  </string>
+  <string id="bar_after_robbery">
+    <text>ПІСЛЯ ВІДКЛЮЧКИ</text>
+  </string>
+  <string id="bar_after_robbery_start_name">
+    <text>Дізнатися, що сталося</text>
+  </string>
+  <string id="bar_after_robbery_start_text">
+    <text>Неясно пам'ятаю, як у мене стріляли. Потім я опинився тут. Потрібно дізнатися, що це за місце.</text>
+  </string>
+  <string id="bar_after_robbery_talk_with_duty_name">
+    <text>Поговорити з бійцями із загону «Долга»</text>
+  </string>
+  <string id="bar_prison_task_self_go_textbar_prison_task_self_go_text">
+    <text>Бармен розповів, що мене врятували довговці від бандитів. Потрібно поговорити з ними і дізнатися, чи потрібно їм щось.</text>
+  </string>
+  <string id="bar_duty_help_present">
+    <text>НЕЗВИЧАЙНЕ ПРОХАННЯ</text>
+  </string>
+  <string id="bar_duty_help_present_start_name">
+    <text>Сходити до Корвалола за подарунком для сержанта</text>
+  </string>
+  <string id="bar_duty_help_present_start_text">
+    <text>Сержант Любезнов попросив метнутися до Смітника до нашого спільного знайомого і забрати його подарунок.</text>
+  </string>
+  <string id="bar_duty_help_present_final_name">
+    <text>Віднести сержанту жетон і артефакт</text>
+  </string>
+  <string id="bar_duty_help_present_final_text">
+    <text>Корвалол передав сержанту Любезнову його загублений жетон і артефакт на додачу. Потрібно всю цю справу передати долговцю.</text>
+  </string>
+  <string id="bar_stalker_fireball_task">
+    <text>ГРА З ВОГНЕМ</text>
+  </string>
+  <string id="bar_stalker_fireball_task_kill_polters_name">
+    <text>Вбити вогняних полтергейстів</text>
+  </string>
+  <string id="bar_stalker_fireball_task_kill_polters_text">
+    <text>Гена Полий, сталкер з Бару, розповів про вогняних полтергейстів, що спалили його товаришів живцем, і попросив розібратися з ними, якщо буду неподалік від дороги на Військові склади.</text>
+  </string>
+  <string id="bar_stalker_fireball_task_take_reward_name">
+    <text>Повернутися за винагородою</text>
+  </string>
+  <string id="bar_stalker_fireball_task_take_reward_text">
+    <text>Вогняні полтергейсти більше не потурбують мешканців Бара. Тепер можна навідатися до Гени Полого за нагородою.</text>
+  </string>
+  <string id="bar_drunk_stalker_task">
+    <text>СХОВАНКА БУХОГО</text>
+  </string>
+  <string id="bar_drunk_stalker_task_check_treasure_name">
+    <text>Дістатися до схрону</text>
+  </string>
+  <string id="bar_drunk_stalker_task_check_treasure_text">
+    <text>Саня Горілчаний розповів про схованку сталкера Бухого. Схованка, за його словами, повна горілки та рідкісних артефактів. Варто випробувати удачу і перевірити місце, про яке він казав.</text>
+  </string>
+  <string id="bar_drunk_stalker_task_after_robbery_name">
+    <text>З'ясувати, що сталося</text>
+  </string>
+  <string id="bar_bandits_treasure_task">
+    <text>НАГРАБОВАНЕ</text>
+  </string>
+  <string id="bar_bandits_treasure_task_start_name">
+    <text>Дістатися схованки бандитів</text>
+  </string>
+  <string id="bar_bandits_treasure_task_start_text">
+    <text>Сержант Любезнов віддав мені ключ від схованки бандитів на Смітнику, які мене ледве не доклали під час першого відвідування Бару. Для мене там може виявитися щось корисне.</text>
+  </string>
+  <string id="bar_bandits_treasure_task_second_name">
+    <text>Ошукати схованку бандитів</text>
+  </string>
+  <string id="bar_bandits_treasure_task_second_text">
+    <text>Мені вдалося потрапити в приміщення зі схованкою. Потрібно тут добряче все оглянути: можна знайти щось корисне.</text>
+  </string>
+  <string id="bar_after_robbery_box">
+    <text>ОСОБИСТЕ</text>
+  </string>
+  <string id="bar_after_robbery_box_start_name">
+    <text>Забрати свої речі зі скриньки</text>
+  </string>
+  <string id="bar_after_robbery_box_start_text">
+    <text>Бармен склав усі мої речі до ящику в його кімнаті, потрібно їх забрати.</text>
+  </string>
+  <string id="bar_mystical_dogs_task">
+    <text>НА ПІДХОДАХ</text>
+  </string>
+  <string id="bar_mystical_dogs_task_start_name">
+    <text>Відгукнутись на допомогу</text>
+  </string>
+  <string id="bar_mystical_dogs_task_start_text">
+    <text>Сталкери на підходах до бару просять допомогти. Як вони взагалі забралися так далеко за такого спорядження?</text>
+  </string>
+  <string id="bar_mystical_dogs_task_kill_dogs_name">
+    <text>Розобратися з псі-собаками</text>
+  </string>
+  <string id="bar_mystical_dogs_task_kill_dogs_text">
+    <text>Група сталкерів не може прорватися до Бару через зграю псі-собак. Треба розчистити дорогу... насамперед, для своєї ж безпеки.</text>
+  </string>
+  <string id="bar_prison_task">
+    <text>ВТЕЧА</text>
+  </string>
+  <string id="bar_prison_task_start_name">
+    <text>Знайти вихід</text>
+  </string>
+  <string id="bar_prison_task_start_text">
+    <text>Примудрилося опинитися за ґратами в Барі... Потрібно терміново шукати якийсь шанс вибратися на волю.</text>
+  </string>
+  <string id="bar_prison_task_talk_with_koval_name">
+    <text>Поговорити з Ковалем</text>
+  </string>
+  <string id="bar_prison_task_talk_with_koval_text">
+    <text>Неочікувана зустріч! Можливо, Коваль — мій квиток на свободу.</text>
+  </string>
+  <string id="bar_prison_task_follow_koval_name"><text>Слідувати за Ковалем</text>.
+	</string>
+  <string id="bar_prison_task_follow_koval_text">
+    <text>Коваль прийшов мені на допомогу в скрутну хвилину. Ось у чому був полковник правий щодо нього, так це про його досвід звичайного сталкера. У даному випадку він дуже згодився.</text>
+  </string>
+  <string id="bar_prison_task_projectors_off_name">
+    <text>Відключити світло на пропускному пункті «Долгу»</text>
+  </string>
+  <string id="bar_prison_task_projectors_off_text">
+    <text>Щоб непомітно проскочити повз патрульних, доведеться відрубати світло. Досить опустити рубільник у будівлі по сусідству.</text>
+  </string>
+  <string id="bar_prison_task_wait_duty_name">
+    <text>Сховатися від патрулів і дочекатися зручного моменту</text>
+  </string>
+  <string id="bar_prison_task_wait_duty_text">
+    <text>Вдалося вирубити світло на пропускному пункті. Тепер треба почекати момент, коли можна буде непомітно проскочити повз патрульних.</text>
+  </string>
+  <string id="bar_prison_task_sprint_to_military_name">
+    <text>Втекти з території «Долга»</text>
+  </string>
+  <string id="bar_prison_task_sprint_to_military_text">
+    <text>Не вдалося по-тихому оминути солдатів «Долгу». Тепер терміново потрібно вибиратися звідси і якомога швидше.</text>
+  </string>
+  <string id="bar_prison_task_self_go_name">
+    <text>Вибратися з Бару самостійно</text>
+  </string>
+  <string id="bar_prison_task_self_go_text">
+    <text>Тепер самому доведеться пробиратися через усю цю дупу.</text>
+  </string>
+  <string id="bar_stalker_fireball_task">
+    <text>ГРА З ВОГНЕМ</text>
+  </string>
+  <string id="bar_stalker_fireball_task_kill_polters_name">
+    <text>Вбити вогняних полтергейстів</text>
+  </string>
+  <string id="bar_stalker_fireball_task_kill_polters_text">
+    <text>Гена Полий, сталкер з Бару, розповів про вогняних полтергейстів, що спалили його товаришів живцем, і попросив розібратися з ними, якщо буду неподалік від дороги на Військові склади.</text>
+  </string>
+  <string id="bar_stalker_fireball_task_take_reward_name">
+    <text>Повернутися за нагородою</text>
+  </string>
+  <string id="bar_stalker_fireball_task_take_reward_text">
+    <text>Вогняні полтергейсти більше не потурбують мешканців Бара. Тепер можна навідатися до Гени Полого за нагородою.</text>
+  </string>
+  <string id="bar_drunk_stalker_task">
+    <text>ТАЙНИК БУХОГО</text>
+  </string>
+  <string id="bar_drunk_stalker_task_check_treasure_name">
+    <text>Дістатися до схрону</text>
+  </string>
+  <string id="bar_drunk_stalker_task_check_treasure_text">
+    <text>Саня Горілчаний розповів про схованку сталкера Бухого. Схованка, за його словами, повна горілки та рідкісних артефактів. Варто випробувати удачу і перевірити місце, про яке він казав.</text>
+  </string>
+  <string id="bar_drunk_stalker_task_after_robbery_name">
+    <text>З'ясувати, що сталося</text>
+  </string>
+  <string id="bar_drunk_stalker_task_after_robbery_text">
+    <text>Схоже, я потрапив у пастку для лохів... Як же просто мене обчистили! А тут і Саня Горілчаний намалювався. Потрібно поставити йому кілька запитань.</text>
+  </string>
+  <string id="bar_drunk_stalker_task_final_name">
+    <text>Вирішити долю Сані Горілчаного</text>
+  </string>
+  <string id="bar_drunk_stalker_task_final_text">
+    <text>Саня Горілчаний підставив мене, заманивши в пастку, а зараз корчиться від болю і просить допомоги. Дати йому аптечку чи залишити виродка на поталу щурам?</text>
+  </string>
+  <string id="bar_stalker_google_chrome_task">
+    <text>ГЕРОЙ АБО ПАЛАЧ?</text>
+  </string>
+  <string id="bar_stalker_google_chrome_task_start_name">
+    <text>Знайти Гуся</text>
+  </string>
+  <string id="bar_stalker_google_chrome_task_start_text">
+    <text>Потрібно знайти Гуся і відмовити його брати участь у боях на арені. Має бути для нього інший вихід. Імовірно, Бармен щось про нього знає.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_snake_info_name"><text>Довідатися у Хрома про Кобру</text>.
+	</string>
+  <string id="bar_stalker_google_chrome_snake_info_text">
+    <text>Плювати на те, що розповів Хром про цього Кобру. Потрібно щось робити з цим покидьком! Спершу дізнаюся, де його знайти.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_talk_snake_name">
+    <text>Поговорити з Коброю</text>
+  </string>
+  <string id="bar_stalker_google_chrome_talk_snake_text">
+    <text>Потрібно домовитися з Коброю, зберігаючи при цьому обережність. Навряд чи це буде так просто.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_follow_name">
+    <text>Слідувати за Хромом</text>
+  </string>
+  <string id="bar_stalker_google_chrome_follow_text">
+    <text>Хром жадає покінчити з Коброю. Але щось у його словах не сходиться. Який у Хрома може бути мотив? Поки що потрібно йти за ним, а далі побачимо.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_arena_talk_name"><text>Поговорити з Арні</text>.
+	</string>
+  <string id="bar_stalker_google_chrome_arena_talk_text">
+    <text>Через те, що сталося, я забув про Гусака і його виступ на Арені. Потрібно дізнатися, що з ним і чи живий він.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_read_note_name">
+    <text>Прочитати записку Гусака</text>
+  </string>
+  <string id="bar_stalker_google_chrome_read_note_text"><text> Гусак перед смертю залишив мені записку. Варто її прочитати, щоб дізнатися будь-які подробиці.</text>.
+	</string>
+  <string id="bar_stalker_google_chrome_talk_after_read_name"><text>Поговорити з Хромом</text>.
+	</string>
+  <string id="bar_stalker_google_chrome_talk_after_read_text">
+    <text>Виходить, що Хром мене обдурив. Майже все, що він розповів про Кобру, було брехнею. Але для чого він це зробив? Потрібно з'ясувати це в нього.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_take_items_name">
+    <text>Забрати своє спорядження в притулок Кобри</text>
+  </string>
+  <string id="bar_stalker_google_chrome_take_items_text">
+    <text>Усе вийшло не так погано, хоча мені довелося похвилюватися. Те, що сказав Хром, схоже на правду. Тільки не вірю я йому до кінця. Щось він упустив. Як він сам і сказав, потрібно поменше довіряти незнайомцям. Тепер необхідно забрати своє спорядження і рушити за Коброю.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_to_garbage_name">
+    <text>Зустрітися з Хромом</text>
+  </string>
+  <string id="bar_stalker_google_chrome_to_garbage_text">
+    <text>Потрібно зустрітися з Хромом за південним блокпостом Бара. Чи точно Кобра заслуговує на смерть? Зараз ні в чому не можна бути на сто відсотків упевненим.</text>
+  </string>
+  <string id="bar_stalker_google_chrome_attack_name">
+    <text>Вбити сталкерів і спробувати поговорити з Коброю</text>
+  </string>
+  <string id="bar_stalker_google_chrome_attack_text"><text>Приспішники Кобри мене не цікавлять, а от сам Кобра... Цікаво дізнатися його точку зору в його конфлікті з Хромом.</text>.
+	</string>
+  <string id="bar_stalker_google_chrome_final_name">
+    <text>Поговорити з Хромом</text>
+  </string>
+  <string id="bar_stalker_google_chrome_final_text">
+    <text> Схоже, все закінчилося. Час поговорити з Хромом.</text>
+  </string>
 </string_table>

@@ -1,1104 +1,828 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-		<string id="mil_trader_start_dialog_0_1">
-			<text>Подходи, не стесняйся!</text>
-		</string>
-
-		<string id="mil_trader_start_dialog_0_2">
-			<text>Подходи, сталкер, выбирай товары!</text>
-		</string>
-
-		<string id="mil_trader_start_dialog_0_3">
-			<text>Выбирай товары, сталкер!</text>
-		</string>
-
-		<string id="mil_trader_start_dialog_1_1">
-			<text>О, вернулся! Чем порадуешь? Должок принес?</text>
-		</string>
-
-		<string id="mil_trader_start_dialog_1_2">
-			<text>Приветствую. Не видел тебя здесь раньше, расскажешь чего?</text>
-		</string>
-
-		<string id="mil_trader_actor_break_dialog_0_1">
-			<text>Бывай.</text>
-		</string>
-
-		<string id="mil_trader_actor_break_dialog_0_2">
-			<text>До встречи.</text>
-		</string>
-
-		<string id="mil_trader_actor_break_dialog_0_3">
-			<text>Пока.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_first_dialog_0">
-			<text>А информацией торгуешь?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_first_dialog_1">
-			<text>Заходи, сталкер! Выбирай товары! Или продать что-то хочешь?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_first_dialog_2">
-			<text>Я сталкера одного ищу, Аккордом звать. Знаешь такого?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_first_dialog_3">
-			<text>Отчего же не знать своих должников! Я сам его ищу. Патронов у меня три короба взял, и тю-тю!</text>
-		</string>
-
-		<string id="mil_trader_second_actor_first_dialog_4">
-			<text>Вот, вижу, в одном направлении нам грести. Подскажи, где его можно найти, а я и за долг поговорю.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_first_dialog_5">
-			<text>Ладно. Давай попробуем! Значит, он со своей группой укрытие сделал небольшое, тут, неподалеку. Как с деревни выйдешь - переходи дорогу. Там вагончик увидишь. Вот возможно сейчас они там. Ступай. И про должок напомни этому засранцу!</text>
-		</string>
-
-		<string id="mil_trader_second_actor_first_dialog_6">
-			<text>Так точно!</text>
-		</string>
-
-		<string id="mil_merc_leader_start_dialog_0">
-			<text>Привет, по пятам идущий! Удивлен, что ты так быстро вышел на след.</text>
-		</string>
-
-		<string id="mil_merc_leader_start_dialog_1">
-			<text>Так это ты? Один из тех, кого видели у научного комплекса...</text>
-		</string>
-
-		<string id="mil_merc_leader_start_dialog_2">
-			<text>Верно. Ты же меня так усердно искал, и вот я перед тобой. Теперь что?</text>
-		</string>
-
-		<string id="mil_merc_leader_start_dialog_3">
-			<text>Где профессор?</text>
-		</string>
-
-		<string id="mil_merc_leader_start_dialog_4">
-			<text>Профессор? Там, где ему гораздо лучше, чем в вашей шараге! И тебе я советую, пока не поздно, выбрать правильную сторону.</text>
-		</string>
-
-		<string id="mil_merc_leader_start_dialog_5">
-			<text>Правильную? Ты же убийца! Ты убил людей в этом лагере и сталкера на кордоне. И профессор, вы же похитили его?</text>
-		</string>
-
-		<string id="mil_merc_leader_start_dialog_6">
-			<text>Похитили? Ха-ха! Он бежал от вас со скоростью света, ибо знал, что неблагодарное это дело, на правительство работать.</text>
-		</string>
-
-		<string id="mil_merc_leader_start_dialog_7">
-			<text>Кто вы такие?</text>
-		</string>
-
-		<string id="mil_merc_leader_after_katakomb_dialog_0">
-			<text>Ну что, как самочувствие?</text>
-		</string>
-
-		<string id="mil_merc_leader_after_katakomb_dialog_1">
-			<text>Зубы мне не заговаривай. Мы так и не закончили наш разговор. Кто вы такие и где профессор Дубинин?</text>
-		</string>
-
-		<string id="mil_merc_leader_after_katakomb_dialog_2">
-			<text>Давай ненадолго отложим этот длинный разговор, пока твари, загнавшие нас в подземку, ходят безнаказанными, да и шмотки тебе твои нужны, ведь так?</text>
-		</string>
-
-		<string id="mil_merc_leader_after_katakomb_dialog_3">
-			<text>Что ты предлагаешь?</text>
-		</string>
-
-		<string id="mil_merc_leader_after_katakomb_dialog_4">
-			<text>Отправиться к ублюдкам и наказать как следует. Давай, пошевеливайся.</text>
-		</string>
-
-		<string id="mil_merc_leader_after_katakomb_dialog_5">
-			<text>Если что, ты у меня на мушке.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_1_1">
-			<text>Боюсь, что некому уже его возвращать. Аккорд и его группа мертвы.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_1_2">
-			<text>Я был в лагере Аккорда. Ты, кажется, с ним знаком. Точнее, был знаком. Аккорд и его группа мертвы.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_2">
-			<text>Дiдько!</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_3">
-			<text>Убили их и, судя по всему, сделали это быстро и незаметно. Они не успели даже понять.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_4">
-			<text>За что ж это... Ребят-то как жалко... Они же мне помогали и работу выполнять, и хабар таскали. Эх, земля им артефактами...</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_5">
-			<text>А я, оказывается, ни черта не знаю про эти края. Это что тут за борзые наемники обосновались неподалеку?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_6">
-			<text>Аа, эти... Да, ты верно сказал, борзые! Вот, видишь руку? Вот я ни хера не вижу! Твари эти постарались!</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_7">
-			<text>Да ладно? И за что так?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_8">
-			<text>Да пришли они как-то ко мне, товары посмотреть. И в цене мы немного не сошлись. Думали, я их обмануть решил! Ну да, чего тут таить, так оно и было... Я же вижу, они при деньгах, дай, думаю, пару тысяч накину. А они мне по руке - хрясь! И висит теперь она у них в лагере как сувенир...</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_9">
-			<text>А про игры их слышал?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_10">
-			<text>Ага, наслышан. Только они мне сразу сказали, что вместе с моей культяпкой в лагере будут висеть и другие части тела, если кому-то расскажу. Блин, а я ж тебе вот и проговорился...</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_11">
-			<text>Не ссы, нет их больше в лагере. Не с тем они сыграть решили.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_12">
-			<text>Да ладно? Йокало мене! Вот это ты меня обрадовал! Смерти людей, конечно, радоваться нехорошо, но за это не грех и горилки выпить! Будешь?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_13">
-			<text>Ну, давай стаканчик.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_14">
-			<text>А ты что от группы Аккорда хотел? Не ты ли их часом прибил то?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_15">
-			<text>Да ты что? Нет. Да и я в одиночку, против группы? Чай не терминатор.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_16">
-			<text>А что ж с ними случилось-то тогда?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_17">
-			<text>Убили их. Люди, за которыми я сюда и пришел. Не встречал случайно хорошо вооруженные группы неизвестных в этих местах? Форма у них ещё такая, необычная!</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_18">
-			<text>Я лично не видел. Но люди поговаривали про подобное. Впрочем, кого только сюда не заносит! А где это им Аккорд дорогу перешел?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_19">
-			<text>Скрываются они. А Аккорд их видел, и доложил кому нужно. Жаль только, что за это пришлось жизнью поплатиться. Где они могут быть? Может, есть места, где они могли разбить лагерь?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_20">
-			<text>Здесь-то? Вряд ли. На Барьере свободовцы, военные склады давно заброшены. В деревне поселилось семейство кровососов. А больше то и нет здесь укромных мест. Не местные они, явно.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_21">
-			<text>А что склады? Там же раньше Свобода базу держала?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_22">
-			<text>Они сейчас барьер укрепили, все там и обосновались. А на складах чертовщина твориться какая-то начала. Я сам не в курсе, но сталкеры туда стараются не заходить. Во-первых, делать там нечего, во-вторых, мерещится всякое. То ли призраки, то ли фантомы. Не контролер ли там поселился?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_23">
-			<text>Ладно, спасибо за информацию!</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_24">
-			<text>А ты сам-то кем будешь? Зачем этих экипированных разыскиваешь?</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_25">
-			<text>Я простой работяга. Получил задание их найти - пытаюсь теперь его выполнить.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_26">
-			<text>Ага... работяга, значит. Ну, если захочешь в моем цеху поработать, так ты обращайся. Мне такой человек ох как полезен будет!</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_27">
-			<text>Заметано! Но сперва решу свои дела. У тебя можно где-то покемарить часик? А то ноги уже не держат.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_28">
-			<text>Без проблем. Тут в деревеньке есть пара подходящих мест, ложись. Ребята в лагере покараулят.</text>
-		</string>
-
-		<string id="mil_trader_second_actor_after_katakomb_dialog_29">
-			<text>Спасибо!</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_0">
-			<text>Как ты? Выглядишь уставшим.</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_1">
-			<text>Ничего, живой. Вы как добрались, без проблем?</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_2">
-			<text>Все путем. Решили обойти Бар стороной. Это значит, про вас вся сталкерская сеть гудела? Жаль Коваля.</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_3">
-			<text>Если бы не он - гудела бы сейчас сеть радостями сталкеров о том, что они военного застрелили. Да и без него, вряд ли бы мы вышли на след профессора.</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_4">
-			<text>Что ты узнал?</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_5">
-			<text>Не так много. Они убили того сталкера, который неофициально работал с профессором. Тот, наверно, либо много знал, либо где-то перешел им дорогу. Несколько часов назад мне довелось лично пообщаться с одним из этих людей. Он намекнул мне, что нам лучше отступить и прекратить преследование. Иначе с нами будет то же самое.</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_6">
-			<text>И что ты думаешь?</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_7">
-			<text>У нас задание - найти профессора Дубинина. Мы должны его выполнить, невзирая на какие-то там угрозы. Неизвестно, с кем мы имеем дело, сколько их в отряде, и стоит ли вообще воспринимать эти угрозы всерьез.</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_8">
-			<text>Что известно про Дубинина? Они его похитили?</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_9">
-			<text>Я уже очень сильно в этом сомневаюсь. Не исключено, что он сам охотно покинул комплекс. Осталось только узнать, зачем?</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_10">
-			<text>Какой план действий?</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_11">
-			<text>Мы где-то рядом. Нам нужно только найти то место, где они могли организовать лагерь.</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_12">
-			<text>Думаю, это можно постараться устроить. У меня с собой есть необходимое оборудование для перехвата радиосигналов. Они же наверняка пользуются какой-то связью. Нужно только поймать нужный сигнал и выйти на его источник. Однако потребуется найти какую-то высокую точку, чтобы охватить больший радиус.</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_13">
-			<text>Неподалеку отсюда есть заброшенная военная база. Там есть дозорные вышки. Сгодится?</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_14">
-			<text>Можно попробовать. Тогда двинули?</text>
-		</string>
-
-		<string id="mil_soldier_sky_first_dialog_15">
-			<text>Двинули. Только аккуратнее там. Не так давно военные склады удерживали бойцы группировки Свобода, но потом они спешно покинули свою базу. Сталкеры тоже это место стараются обходить стороной. Что-то неладное там, поэтому стоит быть начеку.</text>
-		</string>
-
-		<string id="mil_soldier_sky_army_base_tower_dialog_0">
-			<text>Фух, вроде прошли!</text>
-		</string>
-
-		<string id="mil_soldier_sky_army_base_tower_dialog_1">
-			<text>Надо быстрее заканчивать дела, пока все эти призраки не устроили нам фиаско.</text>
-		</string>
-
-		<string id="mil_soldier_sky_army_base_tower_dialog_2">
-			<text>Давай так: вот этот прибор нужно разместить на вышке. Я снизу буду ловить сигнал, а ребята нас прикроют.</text>
-		</string>
-
-		<string id="mil_soldier_sky_army_base_tower_dialog_3">
-			<text>Годится.</text>
-		</string>
-
-		<string id="mil_soldier_sky_after_army_base_dialog_0">
-			<text>Выбрались!</text>
-		</string>
-
-		<string id="mil_soldier_sky_after_army_base_dialog_1">
-			<text>Это точно! Есть чем порадовать? Там на вышке я слышал в эфире какие-то цифры.</text>
-		</string>
-
-		<string id="mil_soldier_sky_after_army_base_dialog_2">
-			<text>Устройство действительно перехватило несколько сигналов! Некоторые, очевидно, принадлежат местным сталкерам, а вот один из них, довольно мощный, передается в зашифрованном формате. Источник этого сигнала - где-то районе упавшего вертолета, что неподалеку от деревни торговца.</text>
-		</string>
-
-		<string id="mil_soldier_sky_after_army_base_dialog_3">
-			<text>Значит, есть смысл туда наведаться! А что с шифром в радиосигналах? Можно понять, о чем шла речь?</text>
-		</string>
-
-		<string id="mil_soldier_sky_after_army_base_dialog_4">
-			<text>Пока не знаю. Похоже на номерное радио. Имел с таким дело ещё студентом. Нужно будет покумекать над этим.</text>
-		</string>
-
-		<string id="mil_soldier_sky_after_army_base_dialog_5">
-			<text>Ладно, это позже. В путь.</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_psy_zone_dialog_0">
-			<text>Приехали! Тут излучение, мама не горюй!</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_psy_zone_dialog_1">
-			<text>Там в вертолете что-то есть! Похоже на хорошо замаскированный вход.</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_psy_zone_dialog_2">
-			<text>Действительно. Но нам туда не попасть. Приборы зашкаливают от пси-излучения. Мозги вмиг расплавит, если ещё хоть пару шагов сделать в сторону вертолета.</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_psy_zone_dialog_3">
-			<text>Можно что-то придумать?</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_psy_zone_dialog_4">
-			<text>Без специальной защиты нам туда явно не попасть.</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_psy_zone_dialog_5">
-			<text>Может, торговец Зубр сможет нам что-то подсказать. Это место у него буквально под носом. Двигаемся в деревню!</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_0">
-			<text>Приветствую, мне срочно нужна информация.</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_1">
-			<text>О, опять ты! Ну как твоя погоня за черной кошкой в темной комнате?</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_2">
-			<text>Не такая уж она и черная. А что насчет комнаты - надеюсь как раз ты мне и поможешь лучше про нее узнать.</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_3">
-			<text>Не хочется остаться без второй руки, если я вдруг расскажу тебе что-то не то. Эти неизвестные, как ты их называешь, убили группу Аккорда. А они были далеко не новичками. Не хочу встревать в ваши игры и рисковать жизнью. Я просто торговец.</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_4">
-			<text>Если ты просто торговец, то почему торгуешь здесь, а не дынями на рынке? Ты такой же нелегал, как и многие тут. Окажешь мне содействие - сможешь и дальше здесь торговать. Никто из военных тебя не тронет.</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_5">
-			<text>Так я и думал! Значит, ты один из них! Из военных! Оно и видно. А что мне вас бояться? У меня все обговорено. Кому надо конвертик с гривнами занес, чтобы ваш брат меня не трогал.</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_6">
-			<text>С кем бы ты это не обговаривал, отказ от сотрудничества со мной аннулирует любые договоренности. Это я гарантирую. В любом случае, все, что ты мне расскажешь, - останется между нами.</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_7">
-			<text>И что тебя интересует?</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_8">
-			<text>Вертолет неподалеку от деревни. Что ты про него знаешь?</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_9">
-			<text>Обычный рухнувший вертолет. Сто лет там уже валяется. Только ты к нему лучше не приближайся - башка закипит так, что хоть чай потом в ней заваривай!</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_10">
-			<text>Никто из сталкеров не пытался к нему подобраться?</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_11">
-			<text>А зачем? Отбитые на голову отсеиваются ещё на Кордоне или Свалке. А у тех, кто сюда добрался, хватит ума не лезть в источник пси-излучения.</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_12">
-			<text>Нам нужно осмотреть это место. Может, излучение периодически спадает?</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_13">
-			<text>Я про такое не слышал.</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_14">
-			<text>Ну же, может, есть какие-то идеи? В накладе не останешься, барыга!</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_15">
-			<text>У меня идей нет, но могу подсказать человека, который очень интересуется подобной хренью. Рукастый, головастый, только вот обидчивый, зараза! Раньше в деревне у нас сидел. Чинил сталкерам снарягу и электронику. А потом мы с ним слегка повздорили и теперь он в отчуждении от нас. Давай так: я тебе даю ID-номер его КПК, а ты уговариваешь его вернуться в деревню. Скажи, что я готов договориться на взаимовыгодных условиях! Идет?</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_16">
-			<text>Идет!</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_17">
-			<text>Договорились! ID-номер сбросил тебе на КПК. Давай, удачи!</text>
-		</string>
-
-		<string id="mil_trader_after_army_base_dialog_18">
-			<text>Спасибо, ещё загляну.</text>
-		</string>
-
-		<string id="mil_soldier_sky_stalker_technic_info_dialog_0">
-			<text>Ну что?</text>
-		</string>
-
-		<string id="mil_soldier_sky_stalker_technic_info_dialog_1">
-			<text>Нам нужно найти человека, который поможет пробраться к вертолету. У меня есть ID-номер его КПК. Сможешь выследить, где его найти?</text>
-		</string>
-
-		<string id="mil_soldier_sky_stalker_technic_info_dialog_2">
-			<text>Без проблем. Сбрасывай номер!</text>
-		</string>
-
-		<string id="mil_soldier_sky_stalker_technic_info_dialog_3">
-			<text>Отлично. Значит, поступим следующим образом: ты остаешься в деревне. Попытайся расшифровать сигналы, а если поймаешь что-то еще, дай знать. С тобой останется Вуслыч. Хоттабыч отправится присматривать за вертолетом. Нам нужно быть в курсе обо всех перемещениях около него.</text>
-		</string>
-
-		<string id="mil_soldier_sky_stalker_technic_info_dialog_4">
-			<text>А ты? Справишься один?</text>
-		</string>
-
-		<string id="mil_soldier_sky_stalker_technic_info_dialog_5">
-			<text>Передвигаться по местности всем отрядом - слишком палевно. И так уже знатно здесь пошумели. Скоро каждая собака про нас узнает. Поэтому пойду один и поговорю с этим сталкером.</text>
-		</string>
-
-		<string id="mil_soldier_sky_stalker_technic_info_dialog_6">
-			<text>Его КПК пеленгуется в заброшенной деревне через дорогу. Поговаривают, там кровососы! Точно справишься?</text>
-		</string>
-
-		<string id="mil_soldier_sky_stalker_technic_info_dialog_7">
-			<text>Я-то справлюсь. Главное, чтобы этот сталкер был цел. Все. Я пошел!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_0">
-			<text>Хоть кто-то живой!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_1">
-			<text>Ты что там делаешь?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_2">
-			<text>Да вот, в подпол решил за вареньем слазить! Провалился я сюда, когда от кровососа убегал!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_3">
-			<text>Так, посиди пока, я пока разберусь с кровососами, иначе в спокойной обстановке я тебя не вытащу, тут надо что-то придумать.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_1">
-			<text>Ну что, закончил ты с кровососами?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_2">
-			<text>Всё, убил кровососов?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_3">
-			<text>Кровососы мертвы?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_1">
-			<text>Ещё нет, подожди пока.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_2">
-			<text>Пока не всех, жди.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_3">
-			<text>Нет пока, посиди ещё немного.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_0">
-			<text>Живая душа, наконец-то!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_1">
-			<text>Ты что там делаешь?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_2">
-			<text>Да вот, в подпол решил за вареньем слазить! Провалился я сюда, когда от кровососа убегал!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_3">
-			<text>Как же вытащить тебя теперь...</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_compl_second_dialog_0">
-			<text>Ну что, убил тварей?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_bloodsuckers_compl_second_dialog_1">
-			<text>Вроде да. Вытаскивать тебя как будем?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_wait_ladder_dialog_0_1">
-			<text>Друг, ну где там лестница?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_wait_ladder_dialog_0_2">
-			<text>Мужик, мне не по себе уже, тащи лестницу!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_wait_ladder_dialog_0_3">
-			<text>Где лестница, сталкер? Вытащи меня, пожалуйста!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_wait_ladder_dialog_1_1">
-			<text>Без паники, скоро принесу.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_wait_ladder_dialog_1_2">
-			<text>Успокойся, сейчас найду.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_wait_ladder_dialog_1_3">
-			<text>Не паникуй, найду сейчас тебе лестницу.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_ladder_compl_dialog_0">
-			<text>Наконец-то, давай её сюда!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_ladder_compl_dialog_1">
-			<text>Двигайся, опускаю.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_0">
-			<text>Спасибо тебе, сталкер! Думал уже, что все - от голода здесь сгину. В эту деревню редко живые души заходят.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_1">
-			<text>А тебя-то что сюда занесло?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_2">
-			<text>Ты это видишь? Видишь горящий свет, работающий холодильник, шипящее радио?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_3">
-			<text>Трудно такое не заметить! Во всей деревне свет полыхает.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_4">
-			<text>Вот я и пытаюсь разобраться, почему. Этой технике уже сто лет в обед, а она, внезапно, заработала.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_5">
-			<text>Не лучшее это место для научных проектов. Тут тьма кровососов! Один из них и вовсе какой-то электризованный был.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_6">
-			<text>Да-да, я как раз от него деру и дал в этот дом. Во дворе сейчас тихо? Ты всех убил?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_7">
-			<text>Видел. Убил несколько, но думаю, ещё не всех.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_8">
-			<text>Во дворе я видел искрящийся трансформатор. Помоги мне к нему пробиться? Думаю, он и является источником энергии. Я в долгу не останусь!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_9">
-			<text>Звать-то тебя как?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_10">
-			<text>Сурок.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_after_under_dialog_11">
-			<text>Ладно, Сурок, уговорил. Веди.</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_final_dialog_0">
-			<text>Вот это да! Видел такой когда-нибудь?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_final_dialog_1">
-			<text>Нет. Получается, артефакт и спровоцировал в деревне работу всей электроники?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_final_dialog_2">
-			<text>Как видишь: все потухло, когда я его вытащил. Теперь-то у меня не будет проблем с электричеством в моей хибаре!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_final_dialog_3">
-			<text>У тебя хибара своя есть?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_final_dialog_4">
-			<text>Конечно! Не на хуторе же с этим упырем оставаться!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_final_dialog_5">
-			<text>Это ты про торговца?</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_final_dialog_6">
-			<text>Ага. Про него самого. Может, будем убираться отсюда? А то ещё местные жители заподозрят пропажу... Давай ко мне, а то я вижу у тебя снаряга вся дырявая. Залатаю за оказанную помощь!</text>
-		</string>
-
-		<string id="mil_stalker_technic_village_final_dialog_7">
-			<text>Это точно. Уходим.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_0">
-			<text>Вот мы и на месте!</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_1">
-			<text>Как ты только додумался именно здесь сделать укрытие?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_2">
-			<text>Ну а что, место хорошее! Да, болотом немного воняет. Зато мины кругом, мутанты не подберутся.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_3">
-			<text>А соседства не боишься?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_4">
-			<text>Наоборот. Никто сюда нос свой не сует. Боятся того, что на военной базе стало происходить.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_5">
-			<text>А ты, стало быть, не боишься?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_6">
-			<text>А я туда и не хожу. Хочется порой, конечно... Там же наверняка столько всего полезного осталось после военных и Свободы. Но стремно! А ты сам то кто? Не видел тебя здесь раньше.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_7">
-			<text>Сталкер я. Воробей меня зовут.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_8">
-			<text>Мало ты похож на сталкера.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_9">
-			<text>Это почему же?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_10">
-			<text>У любого сталкера на твоем месте бы глаза загорелись от артефакта, который мы в деревне нашли. А тебе будто все равно!</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_11">
-			<text>По другим я тут делам. Мне нужно попасть в кабину вертолета, который упал неподалеку отсюда. Но там пси-излучение. Не пробраться. Нет идей, как его миновать?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_12">
-			<text>А я-то думал, ты случайно на меня набрел в деревне. А ты что, меня и искал?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_13">
-			<text>Ты что, психолог? Ничего от тебя не скрыть!</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_14">
-			<text>Нет, просто слишком складно все получилось. Мне нужна была твоя помощь, тебе была нужна моя.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_15">
-			<text>И вот я тебе уже помог. Поможешь теперь мне?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_16">
-			<text>А чего это тебя интересует так вертолет?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_17">
-			<text>Черный ящик ищу.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_18">
-			<text>Ха, какой ещё черный ящик? Этот вертолет ещё в прошлом веке сюда по ходу упал. Все уже давно растащили.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_19">
-			<text>А я хочу рискнуть. Так ты поможешь?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_20">
-			<text>Нужна защита. Я могу такую собрать, даже опыт есть.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_21">
-			<text>Да? И откуда же?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_22">
-			<text>Когда ещё выжигатель работал, заходило ко мне несколько сталкеров. Пробовали мы с ними собрать несколько шлемов, чтобы к Припяти прорваться.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_23">
-			<text>Получилось?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_24">
-			<text>Нет. Сгинули на Радаре.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_25">
-			<text>Обнадеживает.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_26">
-			<text>Сгинули, но смогли пройти гораздо дальше, чем удавалось тем, у кого не было защитного шлема. У вертолета излучение не такое мощное, может хватить. Но есть нюансы...</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_27">
-			<text>Какие?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_28">
-			<text>Мои ресурсы не безграничны. Чтобы собрать такой шлем, потребуются детали. У меня их сейчас нет.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_29">
-			<text>Где их можно достать?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_30">
-			<text>Теоретически, они лежат в трёхстах метрах от нас.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_31">
-			<text>Военная база?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_32">
-			<text>Именно! Давно хотел туда наведаться, но в одиночку страшно. А компанию составить никто не желает что-то.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_33">
-			<text>Я так понимаю, у тебя есть свой интерес?</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_34">
-			<text>Конечно, есть. Для меня на их складе много интересных игрушек может оказаться. Мне ведь надо как-то подниматься. Обустроить домик на болоте, ещё немного мин расставить по краям. Связь мощную настроить. Единственное место, где я могу все это найти - военная база.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_35">
-			<text>Значит, нам в попутном направлении. Но я бы хотел все провернуть как можно быстрее.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_36">
-			<text>Можем двигать хоть сейчас.</text>
-		</string>
-
-		<string id="mil_stalker_technic_hut_start_dialog_37">
-			<text>Двигаем!</text>
-		</string>
-		
-		<string id="mil_stalker_technic_army_base_warehouse_vodka_dialog_0">
-			<text>Этот фантом жалуется на отсутствие выпивки. Ну-ка, дай ему бутылку, авось прокатит.</text>
-		</string>
-
-		<string id="mil_stalker_technic_army_base_warehouse_vodka_dialog_1">
-			<text>Попробую.</text>
-		</string>
-
-		<string id="mil_stalker_technic_army_base_warehouse_final_dialog_0">
-			<text>Всё тихо? Мурашки по коже у меня от этого кладовщика!</text>
-		</string>
-
-		<string id="mil_stalker_technic_army_base_warehouse_final_dialog_1">
-			<text>Тишина. Ты-то меня порадуешь?</text>
-		</string>
-
-		<string id="mil_stalker_technic_army_base_warehouse_final_dialog_2">
-			<text>Думаю, найденных материалов хватит, чтобы собрать шлем.</text>
-		</string>
-
-		<string id="mil_stalker_technic_army_base_warehouse_final_dialog_3">
-			<text>Один?</text>
-		</string>
-
-		<string id="mil_stalker_technic_army_base_warehouse_final_dialog_4">
-			<text>Один. А тебе что, ещё нужно?</text>
-		</string>
-
-		<string id="mil_stalker_technic_army_base_warehouse_final_dialog_5">
-			<text>Было бы очень кстати.</text>
-		</string>
-
-		<string id="mil_stalker_technic_army_base_warehouse_final_dialog_6">
-			<text>Если у тебя есть на примете ещё одна военная база с призраками, то ты не стесняйся, говори. И туда сходим. Поди ещё пару шлемов соберем!</text>
-		</string>
-
-		<string id="mil_stalker_technic_army_base_warehouse_final_dialog_7">
-			<text>Ладно, хотя бы один... Всё, давай скручивать отсюда!</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_0">
-			<text>Руки, вроде, помнят. Сейчас постараюсь все собрать!</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_1">
-			<text>Это долго?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_2">
-			<text>Куда ты так торопишься? Не угонят твой вертолет, не сикай!</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_3">
-			<text>Но всё же?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_4">
-			<text>На часик работы. Я таких уже штук пять собрал. Схема есть, остальное лишь дело техники. Точнее, моих рук.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_5">
-			<text>Оно точно будет работать? Не хотел бы я расплавить себе мозги.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_6">
-			<text>Обижаешь! Разве я могу подвести человека, который мне предложил свою руку и лестницу! Кстати, спасибо тебе ещё раз!</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_7">
-			<text>И тебе спасибо. А ты как вообще техником заделался?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_8">
-			<text>Я когда в Зону пришел, вообще ничего не умел. Потом свела меня судьба с одним человеком на болотах. Я туда как-то со сталкерами отправился артефакты искать, и в передрягу вместе с ними попал.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_9">
-			<text>Тебя разговоры не отвлекают?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_10">
-			<text>Не. Мне так даже лучше.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_11">
-			<text>Ну, смотри. Пошли вы на болота, потом что?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_12">
-			<text>А, так вот. Набрали уже полные рюкзаки артефактов. Болота ведь место не настолько исхоженное, как Кордон. Сняли сливки, так сказать. Идем, тишина вокруг. И вдруг КПК разрывается сообщениями, что грядет выброс! Мы по сторонам посмотрели - ага, видим какой-то хутор заброшенный. Двинули туда, отсидеться. Почти добежали до хутора, как вдруг из камышей выносится здоровенная стая кабанов! Испугались гады выброса и побежали всей стаей! Мы отстреливаться, да только толку? Их там особей тридцать было. Они нас как волной всех и смели! Уж не знаю, сколько их хряков по моему телу пробежалось, но я лежал, и тела уже не чувствовал. А потом и вырубился окончательно. Проснулся уже в кровати. Ноги, руки, ребра - все переломано. На теле живого места нет - все в синяках! Дышать аж больно было. Как я позже узнал, спас меня один местный сталкер. Жил в одиночестве на окраине болот.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_13">
-			<text>Болотный доктор?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_14">
-			<text>Нет. Я тоже как глаза открыл, думал, к болотному доктору попал. Но нет. Мне представился Иваном. Но думается мне, не так его на самом деле зовут. Говорит, нашел меня полумертвого на берегу болотца. Принес в лагерь. Раны залатал, шины на переломы наложил. Придется, говорит, тебе тут полежать месяцок, хочешь ты этого или нет.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_15">
-			<text>А остальные?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_16">
-			<text>А не было никого рядом. Ни остальных, ни рюкзака моего с хабаром. Даже оружие забрали. Бросили меня там подыхать.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_17">
-			<text>Мда уж. Ну и друзья.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_18">
-			<text>Они мне друзьями и не были. Познакомились в деревне, договорились вместе за хабаром пойти, вот и все.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_19">
-			<text>Но хоть что-то человеческое должно было в них быть. Вот так оставить на болотах умирать...</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_20">
-			<text>Я пока отлеживался, тоже думал об этом. Жил мыслями, что как только на ноги встану - найду их, по пуле всажу! Но Иван рассказал, что к моменту моего обнаружения на живого я уже не был похож. Да и выброс уже был близко. Если бы они меня попытались спасти - и меня бы не дотащили, и сами бы себя похоронили. И я остыл. Так вот, к чему история-то. Я пока отлеживался, Иван меня многому научил. И оружие чистить, и броню латать. В радиоэлектронике капались. Все, что я знаю - это благодаря ему. Пробыл я в лагере не месяц, как он меня обнадеживал, а все десять. Но знания, которые я получил, - лучшая плата за полученные увечья.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_21">
-			<text>А потом что?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_22">
-			<text>Потом я вернулся на Кордон, к обычной сталкерской жизни. Через пару месяцев хотел заглянуть к Ивану в гости, водки принести, закуски. Отблагодарить его как следует. Но его жилище уже было пустое. Ушел. Больше не видел его. Надеюсь, жив-здоров мужик. Если бы не он, не сидели бы мы сейчас здесь с тобой.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_23">
-			<text>А как на складах оказался?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_24">
-			<text>Торговец местный, Зубр, решил здесь лавку свою открыть. Позвал меня к себе. Буду, говорит, тебе проценты с выручки отдавать, ты только сталкерам снаряжение чини. Мол, сделаем аналог Бара, но на севере Зоны. Чтобы любой мог и вещички подлатать, и припасов закупить. Так оно собственно и было, пока ему наемники руку не отрубили. Потом как с цепи сорвался. Раньше деньгами не обижал, а потом вообще стал с меня их требовать. Типа, ты в моей деревне бизнес ведешь, а мне ничего не достается. Делись. Я плюнул и ушел.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_25">
-			<text>Справедливо. Он просил меня с тобой поговорить насчет возвращения.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_26">
-			<text>А, так ты с ним знаком? Не будет никакого возвращения! Так и передай!</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_27">
-			<text>Он обещал взаимовыгодные условия.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_28">
-			<text>Мне и здесь хорошо.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_29">
-			<text>Но ты здесь один. А в лагере хоть сталкеры есть, помогут, если что.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_30">
-			<text>Вот за этим я и ходил на склады. Нашел там несколько мин. Завтра все тут заставлю, никто не подберется к домику без моего ведома. А потом уже сталкерам расскажу, что могу им снарягу чинить. Клиент в этих краях всегда найдется.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_31">
-			<text>Дело твое. Ну что там, получается?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_32">
-			<text>Практически все! А ты сам-то кто? А то я все про себя, да про себя.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_33">
-			<text>Я могу тебе сказать, если ты пообещаешь держать язык за зубами.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_34">
-			<text>Я не из шестерок, не сикай.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_35">
-			<text>Из военных сталкеров я. По заданию тут.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_36">
-			<text>Военный?!</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_37">
-			<text>Нет, не совсем. Военный сталкер. Как и вы, только на официальной основе. В мои обязанности не входит поиск и ловля нелегалов, не бойся.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_38">
-			<text>А чем же ты занимаешься?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_39">
-			<text>Обычные военные редко заходят дальше Кордона или научных объектов. А мы вот как раз по этой части. Ты, кстати, смышлёный мужик, по всей видимости. Нам такие нужны. Подумай. Зарплатой не обидят. Будешь в безопасности заниматься любимым делом.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_40">
-			<text>Хм. Спасибо, конечно, но...</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_41">
-			<text>Ну, будем знакомы, в любом случае. Надеюсь, это не последняя наша встреча, и мы друг другу ещё будем полезны.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_42">
-			<text>И я тоже на это надеюсь. Принимай работу!</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_43">
-			<text>Работает?</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_44">
-			<text>Работает! Только учти - шлем быстро нагревается, поэтому у тебя будет не так много времени внутри излучения до его полного перегрева. Если почувствуешь головную боль - сразу убегай. Я не бог, чтобы сделать идеальное устройство. Но оно должно дать тебе необходимое время на изучение кабины вертолета.</text>
-		</string>
-
-		<string id="mil_stalker_technic_psy_helm_final_dialog_45">
-			<text>Спасибо! Мне пора! Береги себя, Сурок!</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_final_dialog_0">
-			<text>Ну что, какие новости?</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_final_dialog_1">
-			<text>Местный умелец собрал для меня пси-шлем. Нужно спускаться, пока они ещё там, и во всем, наконец, разобраться.</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_final_dialog_2">
-			<text>Шлем один? А мы? Идти туда в одиночку - авантюра! Мы даже не знаем, сколько их!</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_final_dialog_3">
-			<text>У нас есть выбор? Ты же сам все слышал. Они уже в курсе, что мы рядом, и спешно собираются рвать когти. Или сейчас, или никогда. Вы присматривайте снаружи, и держите меня в курсе, если удастся перехватить ещё какие-то переговоры.</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_final_dialog_4">
-			<text>Хорошо. Ты точно уверен?</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_final_dialog_5">
-			<text>Да. Я не за этим месяцами ждал серьезных поручений, чтобы сдрейфить в последний момент.</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_final_dialog_6">
-			<text>Хотя бы не лезь на верную смерть, если почувствуешь запах жаренного. Уйдут — снова отыщем! Ты, главное, под пули не лезь!</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_final_dialog_7">
-			<text>И кто мне это говорит? Тот, кто при штурме ЧАЭС хотел идти дальше, вопреки моему приказу?</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_final_dialog_8">
-			<text>Хах, вот тогда я тебя послушал. А теперь прошу послушать меня. Если силы будут неравны, отступи.</text>
-		</string>
-
-		<string id="mil_soldier_sky_helicopter_final_dialog_9">
-			<text>Я не буду играть в рэмбо. Вы сами тут будьте начеку! Несколько часов назад на меня напали. Они могут появиться и здесь! Все. До связи!</text>
-		</string>
-
-		<string id="mil_stalker_idle_dialog_0_1">
-			<text>Рад тебя видеть!</text>
-		</string>
-
-		<string id="mil_stalker_idle_dialog_0_2">
-			<text>Приветствую!</text>
-		</string>
-
-		<string id="mil_stalker_idle_dialog_0_3">
-			<text>Выкладывай, чего у тебя там?</text>
-		</string>
-
-		<string id="mil_stalker_technic_idle_dialog_0_1">
-			<text>Рад тебя видеть!</text>
-		</string>
-
-		<string id="mil_stalker_technic_idle_dialog_0_2">
-			<text>Ну, выкладывай, сталкер!</text>
-		</string>
-
-		<string id="mil_stalker_technic_idle_dialog_0_3">
-			<text>Я тебя слушаю, друг.</text>
-		</string>
-
-		<string id="mil_stalker_technic_idle_dialog_1_1">
-			<text>Бывай.</text>
-		</string>
-
-		<string id="mil_stalker_technic_idle_dialog_1_2">
-			<text>Пойду я.</text>
-		</string>
-
-		<string id="mil_stalker_technic_idle_dialog_1_3">
-			<text>До встречи</text>
-		</string>
-
+  <string id="mil_trader_start_dialog_0_1">
+    <text>Подходи, не стесняйся!</text>
+  </string>
+  <string id="mil_trader_start_dialog_0_2">
+    <text>Подходи, сталкер, выбирай товары!</text>
+  </string>
+  <string id="mil_trader_start_dialog_0_3">
+    <text>Выбирай товары, сталкер!</text>
+  </string>
+  <string id="mil_trader_start_dialog_1_1">
+    <text>О, вернулся! Чем порадуешь? Должок принес?</text>
+  </string>
+  <string id="mil_trader_start_dialog_1_2">
+    <text>Приветствую. Не видел тебя здесь раньше, расскажешь чего?</text>
+  </string>
+  <string id="mil_trader_actor_break_dialog_0_1">
+    <text>Бывай.</text>
+  </string>
+  <string id="mil_trader_actor_break_dialog_0_2">
+    <text>До встречи.</text>
+  </string>
+  <string id="mil_trader_actor_break_dialog_0_3">
+    <text>Пока.</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_0">
+    <text>А информацией торгуешь?</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_1">
+    <text>Заходи, сталкер! Выбирай товары! Или продать что-то хочешь?</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_2">
+    <text>Я сталкера одного ищу, Аккордом звать. Знаешь такого?</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_3">
+    <text>Отчего же не знать своих должников! Я сам его ищу. Патронов у меня три короба взял, и тю-тю!</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_4">
+    <text>Вот, вижу, в одном направлении нам грести. Подскажи, где его можно найти, а я и за долг поговорю.</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_5">
+    <text>Ладно. Давай попробуем! Значит, он со своей группой укрытие сделал небольшое, тут, неподалеку. Как с деревни выйдешь — переходи дорогу. Там вагончик увидишь. Вот возможно сейчас они там. Ступай. И про должок напомни этому засранцу!</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_6">
+    <text>Так точно!</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_0">
+    <text>Привет, по пятам идущий! Удивлен, что ты так быстро вышел на след.</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_1">
+    <text>Так это ты? Один из тех, кого видели у научного комплекса...</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_2">
+    <text>Верно. Ты же меня так усердно искал, и вот я перед тобой. Теперь что?</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_3">
+    <text>Где профессор?</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_4">
+    <text>Профессор? Там, где ему гораздо лучше, чем в вашей шараге! И тебе я советую, пока не поздно, выбрать правильную сторону.</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_5">
+    <text>Правильную? Ты же убийца! Ты убил людей в этом лагере и сталкера на кордоне. И профессор, вы же похитили его?</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_6">
+    <text>Похитили? Ха-ха! Он бежал от вас со скоростью света, ибо знал, что неблагодарное это дело, на правительство работать.</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_7">
+    <text>Кто вы такие?</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_0">
+    <text>Ну что, как самочувствие?</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_1">
+    <text>Зубы мне не заговаривай. Мы так и не закончили наш разговор. Кто вы такие и где профессор Дубинин?</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_2">
+    <text>Давай ненадолго отложим этот длинный разговор, пока твари, загнавшие нас в подземку, ходят безнаказанными, да и шмотки тебе твои нужны, ведь так?</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_3">
+    <text>Что ты предлагаешь?</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_4">
+    <text>Отправиться к ублюдкам и наказать как следует. Давай, пошевеливайся.</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_5">
+    <text>Если что, ты у меня на мушке.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_1_1">
+    <text>Боюсь, что некому уже его возвращать. Аккорд и его группа мертвы.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_1_2">
+    <text>Я был в лагере Аккорда. Ты, кажется, с ним знаком. Точнее, был знаком. Аккорд и его группа мертвы.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_2">
+    <text>Дiдько!</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_3">
+    <text>Убили их и, судя по всему, сделали это быстро и незаметно. Они не успели даже понять.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_4">
+    <text>За что ж это... Ребят-то как жалко... Они же мне помогали и работу выполнять, и хабар таскали. Эх, земля им артефактами...</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_5">
+    <text>А я, оказывается, ни черта не знаю про эти края. Это что тут за борзые наемники обосновались неподалеку?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_6">
+    <text>Аа, эти... Да, ты верно сказал, борзые! Вот, видишь руку? Вот я ни хера не вижу! Твари эти постарались!</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_7">
+    <text>Да ладно? И за что так?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_8">
+    <text>Да пришли они как-то ко мне, товары посмотреть. И в цене мы немного не сошлись. Думали, я их обмануть решил! Ну да, чего тут таить, так оно и было... Я же вижу, они при деньгах, дай, думаю, пару тысяч накину. А они мне по руке — хрясь! И висит теперь она у них в лагере как сувенир...</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_9">
+    <text>А про игры их слышал?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_10">
+    <text>Ага, наслышан. Только они мне сразу сказали, что вместе с моей культяпкой в лагере будут висеть и другие части тела, если кому-то расскажу. Блин, а я ж тебе вот и проговорился...</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_11">
+    <text>Не ссы, нет их больше в лагере. Не с тем они сыграть решили.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_12">
+    <text>Да ладно? Йокало мене! Вот это ты меня обрадовал! Смерти людей, конечно, радоваться нехорошо, но за это не грех и горилки выпить! Будешь?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_13">
+    <text>Ну, давай стаканчик.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_14">
+    <text>А ты что от группы Аккорда хотел? Не ты ли их часом прибил то?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_15">
+    <text>Да ты что? Нет. Да и я в одиночку, против группы? Чай не терминатор.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_16">
+    <text>А что ж с ними случилось-то тогда?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_17">
+    <text>Убили их. Люди, за которыми я сюда и пришел. Не встречал случайно хорошо вооруженные группы неизвестных в этих местах? Форма у них ещё такая, необычная!</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_18">
+    <text>Я лично не видел. Но люди поговаривали про подобное. Впрочем, кого только сюда не заносит! А где это им Аккорд дорогу перешел?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_19">
+    <text>Скрываются они. А Аккорд их видел, и доложил кому нужно. Жаль только, что за это пришлось жизнью поплатиться. Где они могут быть? Может, есть места, где они могли разбить лагерь?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_20">
+    <text>Здесь-то? Вряд ли. На Барьере свободовцы, военные склады давно заброшены. В деревне поселилось семейство кровососов. А больше то и нет здесь укромных мест. Не местные они, явно.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_21">
+    <text>А что склады? Там же раньше Свобода базу держала?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_22">
+    <text>Они сейчас барьер укрепили, все там и обосновались. А на складах чертовщина твориться какая-то начала. Я сам не в курсе, но сталкеры туда стараются не заходить. Во-первых, делать там нечего, во-вторых, мерещится всякое. То ли призраки, то ли фантомы. Не контролер ли там поселился?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_23">
+    <text>Ладно, спасибо за информацию!</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_24">
+    <text>А ты сам-то кем будешь? Зачем этих экипированных разыскиваешь?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_25">
+    <text>Я простой работяга. Получил задание их найти — пытаюсь теперь его выполнить.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_26">
+    <text>Ага... работяга, значит. Ну, если захочешь в моем цеху поработать, так ты обращайся. Мне такой человек ох как полезен будет!</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_27">
+    <text>Заметано! Но сперва решу свои дела. У тебя можно где-то покемарить часик? А то ноги уже не держат.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_28">
+    <text>Без проблем. Тут в деревеньке есть пара подходящих мест, ложись. Ребята в лагере покараулят.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_29">
+    <text>Спасибо!</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_0">
+    <text>Как ты? Выглядишь уставшим.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_1">
+    <text>Ничего, живой. Вы как добрались, без проблем?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_2">
+    <text>Все путем. Решили обойти Бар стороной. Это значит, про вас вся сталкерская сеть гудела? Жаль Коваля.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_3">
+    <text>Если бы не он — гудела бы сейчас сеть радостями сталкеров о том, что они военного застрелили. Да и без него, вряд ли бы мы вышли на след профессора.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_4">
+    <text>Что ты узнал?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_5">
+    <text>Не так много. Они убили того сталкера, который неофициально работал с профессором. Тот, наверно, либо много знал, либо где-то перешел им дорогу. Несколько часов назад мне довелось лично пообщаться с одним из этих людей. Он намекнул мне, что нам лучше отступить и прекратить преследование. Иначе с нами будет то же самое.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_6">
+    <text>И что ты думаешь?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_7">
+    <text>У нас задание — найти профессора Дубинина. Мы должны его выполнить, невзирая на какие-то там угрозы. Неизвестно, с кем мы имеем дело, сколько их в отряде, и стоит ли вообще воспринимать эти угрозы всерьез.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_8">
+    <text>Что известно про Дубинина? Они его похитили?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_9">
+    <text>Я уже очень сильно в этом сомневаюсь. Не исключено, что он сам охотно покинул комплекс. Осталось только узнать, зачем?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_10">
+    <text>Какой план действий?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_11">
+    <text>Мы где-то рядом. Нам нужно только найти то место, где они могли организовать лагерь.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_12">
+    <text>Думаю, это можно постараться устроить. У меня с собой есть необходимое оборудование для перехвата радиосигналов. Они же наверняка пользуются какой-то связью. Нужно только поймать нужный сигнал и выйти на его источник. Однако потребуется найти какую-то высокую точку, чтобы охватить больший радиус.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_13">
+    <text>Неподалеку отсюда есть заброшенная военная база. Там есть дозорные вышки. Сгодится?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_14">
+    <text>Можно попробовать. Тогда двинули?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_15">
+    <text>Двинули. Только аккуратнее там. Не так давно военные склады удерживали бойцы группировки Свобода, но потом они спешно покинули свою базу. Сталкеры тоже это место стараются обходить стороной. Что-то неладное там, поэтому стоит быть начеку.</text>
+  </string>
+  <string id="mil_soldier_sky_army_base_tower_dialog_0">
+    <text>Фух, вроде прошли!</text>
+  </string>
+  <string id="mil_soldier_sky_army_base_tower_dialog_1">
+    <text>Надо быстрее заканчивать дела, пока все эти призраки не устроили нам фиаско.</text>
+  </string>
+  <string id="mil_soldier_sky_army_base_tower_dialog_2">
+    <text>Давай так: вот этот прибор нужно разместить на вышке. Я снизу буду ловить сигнал, а ребята нас прикроют.</text>
+  </string>
+  <string id="mil_soldier_sky_army_base_tower_dialog_3">
+    <text>Годится.</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_0">
+    <text>Выбрались!</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_1">
+    <text>Это точно! Есть чем порадовать? Там на вышке я слышал в эфире какие-то цифры.</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_2">
+    <text>Устройство действительно перехватило несколько сигналов! Некоторые, очевидно, принадлежат местным сталкерам, а вот один из них, довольно мощный, передается в зашифрованном формате. Источник этого сигнала — где-то районе упавшего вертолета, что неподалеку от деревни торговца.</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_3">
+    <text>Значит, есть смысл туда наведаться! А что с шифром в радиосигналах? Можно понять, о чем шла речь?</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_4">
+    <text>Пока не знаю. Похоже на номерное радио. Имел с таким дело ещё студентом. Нужно будет покумекать над этим.</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_5">
+    <text>Ладно, это позже. В путь.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_0">
+    <text>Приехали! Тут излучение, мама не горюй!</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_1">
+    <text>Там в вертолете что-то есть! Похоже на хорошо замаскированный вход.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_2">
+    <text>Действительно. Но нам туда не попасть. Приборы зашкаливают от пси-излучения. Мозги вмиг расплавит, если ещё хоть пару шагов сделать в сторону вертолета.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_3">
+    <text>Можно что-то придумать?</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_4">
+    <text>Без специальной защиты нам туда явно не попасть.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_5">
+    <text>Может, торговец Зубр сможет нам что-то подсказать. Это место у него буквально под носом. Двигаемся в деревню!</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_0">
+    <text>Приветствую, мне срочно нужна информация.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_1">
+    <text>О, опять ты! Ну как твоя погоня за черной кошкой в темной комнате?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_2">
+    <text>Не такая уж она и черная. А что насчет комнаты — надеюсь как раз ты мне и поможешь лучше про неё узнать.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_3">
+    <text>Не хочется остаться без второй руки, если я вдруг расскажу тебе что-то не то. Эти неизвестные, как ты их называешь, убили группу Аккорда. А они были далеко не новичками. Не хочу встревать в ваши игры и рисковать жизнью. Я просто торговец.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_4">
+    <text>Если ты просто торговец, то почему торгуешь здесь, а не дынями на рынке? Ты такой же нелегал, как и многие тут. Окажешь мне содействие — сможешь и дальше здесь торговать. Никто из военных тебя не тронет.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_5">
+    <text>Так я и думал! Значит, ты один из них! Из военных! Оно и видно. А что мне вас бояться? У меня все обговорено. Кому надо конвертик с гривнами занес, чтобы ваш брат меня не трогал.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_6">
+    <text>С кем бы ты это не обговаривал, отказ от сотрудничества со мной аннулирует любые договоренности. Это я гарантирую. В любом случае, все, что ты мне расскажешь, — останется между нами.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_7">
+    <text>И что тебя интересует?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_8">
+    <text>Вертолет неподалеку от деревни. Что ты про него знаешь?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_9">
+    <text>Обычный рухнувший вертолет. Сто лет там уже валяется. Только ты к нему лучше не приближайся — башка закипит так, что хоть чай потом в ней заваривай!</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_10">
+    <text>Никто из сталкеров не пытался к нему подобраться?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_11">
+    <text>А зачем? Отбитые на голову отсеиваются ещё на Кордоне или Свалке. А у тех, кто сюда добрался, хватит ума не лезть в источник пси-излучения.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_12">
+    <text>Нам нужно осмотреть это место. Может, излучение периодически спадает?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_13">
+    <text>Я про такое не слышал.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_14">
+    <text>Ну же, может, есть какие-то идеи? В накладе не останешься, барыга!</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_15">
+    <text>У меня идей нет, но могу подсказать человека, который очень интересуется подобной хренью. Рукастый, головастый, только вот обидчивый, зараза! Раньше в деревне у нас сидел. Чинил сталкерам снарягу и электронику. А потом мы с ним слегка повздорили и теперь он в отчуждении от нас. Давай так: я тебе даю ID-номер его КПК, а ты уговариваешь его вернуться в деревню. Скажи, что я готов договориться на взаимовыгодных условиях! Идет?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_16">
+    <text>Идет!</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_17">
+    <text>Договорились! ID-номер сбросил тебе на КПК. Давай, удачи!</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_18">
+    <text>Спасибо, ещё загляну.</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_0">
+    <text>Ну что?</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_1">
+    <text>Нам нужно найти человека, который поможет пробраться к вертолету. У меня есть ID-номер его КПК. Сможешь выследить, где его найти?</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_2">
+    <text>Без проблем. Сбрасывай номер!</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_3">
+    <text>Отлично. Значит, поступим следующим образом: ты остаешься в деревне. Попытайся расшифровать сигналы, а если поймаешь что-то еще, дай знать. С тобой останется Вуслыч. Хоттабыч отправится присматривать за вертолетом. Нам нужно быть в курсе обо всех перемещениях около него.</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_4">
+    <text>А ты? Справишься один?</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_5">
+    <text>Передвигаться по местности всем отрядом — слишком палевно. И так уже знатно здесь пошумели. Скоро каждая собака про нас узнает. Поэтому пойду один и поговорю с этим сталкером.</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_6">
+    <text>Его КПК пеленгуется в заброшенной деревне через дорогу. Поговаривают, там кровососы! Точно справишься?</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_7">
+    <text>Я-то справлюсь. Главное, чтобы этот сталкер был цел. Все. Я пошел!</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_0">
+    <text>Хоть кто-то живой!</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_1">
+    <text>Ты что там делаешь?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_2">
+    <text>Да вот, в подпол решил за вареньем слазить! Провалился я сюда, когда от кровососа убегал!</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_3">
+    <text>Так, посиди пока, я пока разберусь с кровососами, иначе в спокойной обстановке я тебя не вытащу, тут надо что-то придумать.</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_1">
+    <text>Ну что, закончил ты с кровососами?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_2">
+    <text>Всё, убил кровососов?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_3">
+    <text>Кровососы мертвы?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_1">
+    <text>Ещё нет, подожди пока.</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_2">
+    <text>Пока не всех, жди.</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_3">
+    <text>Нет пока, посиди ещё немного.</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_0">
+    <text>Живая душа, наконец-то!</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_1">
+    <text>Ты что там делаешь?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_2">
+    <text>Да вот, в подпол решил за вареньем слазить! Провалился я сюда, когда от кровососа убегал!</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_3">
+    <text>Как же вытащить тебя теперь...</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_second_dialog_0">
+    <text>Ну что, убил тварей?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_second_dialog_1">
+    <text>Вроде да. Вытаскивать тебя как будем?</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_0_1">
+    <text>Друг, ну где там лестница?</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_0_2">
+    <text>Мужик, мне не по себе уже, тащи лестницу!</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_0_3">
+    <text>Где лестница, сталкер? Вытащи меня, пожалуйста!</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_1_1">
+    <text>Без паники, скоро принесу.</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_1_2">
+    <text>Успокойся, сейчас найду.</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_1_3">
+    <text>Не паникуй, найду сейчас тебе лестницу.</text>
+  </string>
+  <string id="mil_stalker_technic_village_ladder_compl_dialog_0">
+    <text>Наконец-то, давай её сюда!</text>
+  </string>
+  <string id="mil_stalker_technic_village_ladder_compl_dialog_1">
+    <text>Двигайся, опускаю.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_0">
+    <text>Спасибо тебе, сталкер! Думал уже, что все — от голода здесь сгину. В эту деревню редко живые души заходят.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_1">
+    <text>А тебя-то что сюда занесло?</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_2">
+    <text>Ты это видишь? Видишь горящий свет, работающий холодильник, шипящее радио?</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_3">
+    <text>Трудно такое не заметить! Во всей деревне свет полыхает.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_4">
+    <text>Вот я и пытаюсь разобраться, почему. Этой технике уже сто лет в обед, а она, внезапно, заработала.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_5">
+    <text>Не лучшее это место для научных проектов. Тут тьма кровососов! Один из них и вовсе какой-то электризованный был.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_6">
+    <text>Да-да, я как раз от него деру и дал в этот дом. Во дворе сейчас тихо? Ты всех убил?</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_7">
+    <text>Видел. Убил несколько, но думаю, ещё не всех.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_8">
+    <text>Во дворе я видел искрящийся трансформатор. Помоги мне к нему пробиться? Думаю, он и является источником энергии. Я в долгу не останусь!</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_9">
+    <text>Звать-то тебя как?</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_10">
+    <text>Сурок.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_11">
+    <text>Ладно, Сурок, уговорил. Веди.</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_0">
+    <text>Вот это да! Видел такой когда-нибудь?</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_1">
+    <text>Нет. Получается, артефакт и спровоцировал в деревне работу всей электроники?</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_2">
+    <text>Как видишь: все потухло, когда я его вытащил. Теперь-то у меня не будет проблем с электричеством в моей хибаре!</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_3">
+    <text>У тебя хибара своя есть?</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_4">
+    <text>Конечно! Не на хуторе же с этим упырем оставаться!</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_5">
+    <text>Это ты про торговца?</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_6">
+    <text>Ага. Про него самого. Может, будем убираться отсюда? А то ещё местные жители заподозрят пропажу... Давай ко мне, а то я вижу у тебя снаряга вся дырявая. Залатаю за оказанную помощь!</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_7">
+    <text>Это точно. Уходим.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_0">
+    <text>Вот мы и на месте!</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_1">
+    <text>Как ты только додумался именно здесь сделать укрытие?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_2">
+    <text>Ну а что, место хорошее! Да, болотом немного воняет. Зато мины кругом, мутанты не подберутся.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_3">
+    <text>А соседства не боишься?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_4">
+    <text>Наоборот. Никто сюда нос свой не сует. Боятся того, что на военной базе стало происходить.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_5">
+    <text>А ты, стало быть, не боишься?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_6">
+    <text>А я туда и не хожу. Хочется порой, конечно... Там же наверняка столько всего полезного осталось после военных и Свободы. Но стремно! А ты сам то кто? Не видел тебя здесь раньше.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_7">
+    <text>Сталкер я. Воробей меня зовут.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_8">
+    <text>Мало ты похож на сталкера.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_9">
+    <text>Это почему же?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_10">
+    <text>У любого сталкера на твоем месте бы глаза загорелись от артефакта, который мы в деревне нашли. А тебе будто все равно!</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_11">
+    <text>По другим я тут делам. Мне нужно попасть в кабину вертолета, который упал неподалеку отсюда. Но там пси-излучение. Не пробраться. Нет идей, как его миновать?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_12">
+    <text>А я-то думал, ты случайно на меня набрел в деревне. А ты что, меня и искал?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_13">
+    <text>Ты что, психолог? Ничего от тебя не скрыть!</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_14">
+    <text>Нет, просто слишком складно все получилось. Мне нужна была твоя помощь, тебе была нужна моя.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_15">
+    <text>И вот я тебе уже помог. Поможешь теперь мне?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_16">
+    <text>А чего это тебя интересует так вертолет?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_17">
+    <text>Черный ящик ищу.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_18">
+    <text>Ха, какой ещё черный ящик? Этот вертолет ещё в прошлом веке сюда по ходу упал. Все уже давно растащили.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_19">
+    <text>А я хочу рискнуть. Так ты поможешь?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_20">
+    <text>Нужна защита. Я могу такую собрать, даже опыт есть.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_21">
+    <text>Да? И откуда же?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_22">
+    <text>Когда ещё выжигатель работал, заходило ко мне несколько сталкеров. Пробовали мы с ними собрать несколько шлемов, чтобы к Припяти прорваться.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_23">
+    <text>Получилось?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_24">
+    <text>Нет. Сгинули на Радаре.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_25">
+    <text>Обнадеживает.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_26">
+    <text>Сгинули, но смогли пройти гораздо дальше, чем удавалось тем, у кого не было защитного шлема. У вертолета излучение не такое мощное, может хватить. Но есть нюансы...</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_27">
+    <text>Какие?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_28">
+    <text>Мои ресурсы не безграничны. Чтобы собрать такой шлем, потребуются детали. У меня их сейчас нет.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_29">
+    <text>Где их можно достать?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_30">
+    <text>Теоретически, они лежат в трёхстах метрах от нас.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_31">
+    <text>Военная база?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_32">
+    <text>Именно! Давно хотел туда наведаться, но в одиночку страшно. А компанию составить никто не желает что-то.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_33">
+    <text>Я так понимаю, у тебя есть свой интерес?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_34">
+    <text>Конечно, есть. Для меня на их складе много интересных игрушек может оказаться. Мне ведь надо как-то подниматься. Обустроить домик на болоте, ещё немного мин расставить по краям. Связь мощную настроить. Единственное место, где я могу все это найти — военная база.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_35">
+    <text>Значит, нам в попутном направлении. Но я бы хотел все провернуть как можно быстрее.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_36">
+    <text>Можем двигать хоть сейчас.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_37">
+    <text>Двигаем!</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_vodka_dialog_0">
+    <text>Этот фантом жалуется на отсутствие выпивки. Ну-ка, дай ему бутылку, авось прокатит.</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_vodka_dialog_1">
+    <text>Попробую.</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_0">
+    <text>Всё тихо? Мурашки по коже у меня от этого кладовщика!</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_1">
+    <text>Тишина. Ты-то меня порадуешь?</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_2">
+    <text>Думаю, найденных материалов хватит, чтобы собрать шлем.</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_3">
+    <text>Один?</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_4">
+    <text>Один. А тебе что, ещё нужно?</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_5">
+    <text>Было бы очень кстати.</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_6">
+    <text>Если у тебя есть на примете ещё одна военная база с призраками, то ты не стесняйся, говори. И туда сходим. Поди ещё пару шлемов соберем!</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_7">
+    <text>Ладно, хотя бы один... Всё, давай скручивать отсюда!</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_0">
+    <text>Руки, вроде, помнят. Сейчас постараюсь все собрать!</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_1">
+    <text>Это долго?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_2">
+    <text>Куда ты так торопишься? Не угонят твой вертолет, не сикай!</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_3">
+    <text>Но всё же?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_4">
+    <text>На часик работы. Я таких уже штук пять собрал. Схема есть, остальное лишь дело техники. Точнее, моих рук.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_5">
+    <text>Оно точно будет работать? Не хотел бы я расплавить себе мозги.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_6">
+    <text>Обижаешь! Разве я могу подвести человека, который мне предложил свою руку и лестницу! Кстати, спасибо тебе ещё раз!</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_7">
+    <text>И тебе спасибо. А ты как вообще техником заделался?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_8">
+    <text>Я когда в Зону пришел, вообще ничего не умел. Потом свела меня судьба с одним человеком на болотах. Я туда как-то со сталкерами отправился артефакты искать, и в передрягу вместе с ними попал.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_9">
+    <text>Тебя разговоры не отвлекают?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_10">
+    <text>Не. Мне так даже лучше.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_11">
+    <text>Ну, смотри. Пошли вы на болота, потом что?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_12">
+    <text>А, так вот. Набрали уже полные рюкзаки артефактов. Болота ведь место не настолько исхоженное, как Кордон. Сняли сливки, так сказать. Идем, тишина вокруг. И вдруг КПК разрывается сообщениями, что грядет выброс! Мы по сторонам посмотрели — ага, видим какой-то хутор заброшенный. Двинули туда, отсидеться. Почти добежали до хутора, как вдруг из камышей выносится здоровенная стая кабанов! Испугались гады выброса и побежали всей стаей! Мы отстреливаться, да только толку? Их там особей тридцать было. Они нас как волной всех и смели! Уж не знаю, сколько их хряков по моему телу пробежалось, но я лежал, и тела уже не чувствовал. А потом и вырубился окончательно. Проснулся уже в кровати. Ноги, руки, ребра — все переломано. На теле живого места нет — все в синяках! Дышать аж больно было. Как я позже узнал, спас меня один местный сталкер. Жил в одиночестве на окраине болот.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_13">
+    <text>Болотный доктор?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_14">
+    <text>Нет. Я тоже как глаза открыл, думал, к болотному доктору попал. Но нет. Мне представился Иваном. Но думается мне, не так его на самом деле зовут. Говорит, нашел меня полумертвого на берегу болотца. Принес в лагерь. Раны залатал, шины на переломы наложил. Придется, говорит, тебе тут полежать месяцок, хочешь ты этого или нет.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_15">
+    <text>А остальные?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_16">
+    <text>А не было никого рядом. Ни остальных, ни рюкзака моего с хабаром. Даже оружие забрали. Бросили меня там подыхать.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_17">
+    <text>Мда уж. Ну и друзья.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_18">
+    <text>Они мне друзьями и не были. Познакомились в деревне, договорились вместе за хабаром пойти, вот и все.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_19">
+    <text>Но хоть что-то человеческое должно было в них быть. Вот так оставить на болотах умирать...</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_20">
+    <text>Я пока отлеживался, тоже думал об этом. Жил мыслями, что как только на ноги встану — найду их, по пуле всажу! Но Иван рассказал, что к моменту моего обнаружения на живого я уже не был похож. Да и выброс уже был близко. Если бы они меня попытались спасти — и меня бы не дотащили, и сами бы себя похоронили. И я остыл. Так вот, к чему история-то. Я пока отлеживался, Иван меня многому научил. И оружие чистить, и броню латать. В радиоэлектронике копались. Все, что я знаю — это благодаря ему. Пробыл я в лагере не месяц, как он меня обнадеживал, а все десять. Но знания, которые я получил, — лучшая плата за полученные увечья.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_21">
+    <text>А потом что?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_22">
+    <text>Потом я вернулся на Кордон, к обычной сталкерской жизни. Через пару месяцев хотел заглянуть к Ивану в гости, водки принести, закуски. Отблагодарить его как следует. Но его жилище уже было пустое. Ушел. Больше не видел его. Надеюсь, жив-здоров мужик. Если бы не он, не сидели бы мы сейчас здесь с тобой.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_23">
+    <text>А как на складах оказался?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_24">
+    <text>Торговец местный, Зубр, решил здесь лавку свою открыть. Позвал меня к себе. Буду, говорит, тебе проценты с выручки отдавать, ты только сталкерам снаряжение чини. Мол, сделаем аналог Бара, но на севере Зоны. Чтобы любой мог и вещички подлатать, и припасов закупить. Так оно собственно и было, пока ему наемники руку не отрубили. Потом как с цепи сорвался. Раньше деньгами не обижал, а потом вообще стал с меня их требовать. Типа, ты в моей деревне бизнес ведешь, а мне ничего не достается. Делись. Я плюнул и ушел.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_25">
+    <text>Справедливо. Он просил меня с тобой поговорить насчет возвращения.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_26">
+    <text>А, так ты с ним знаком? Не будет никакого возвращения! Так и передай!</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_27">
+    <text>Он обещал взаимовыгодные условия.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_28">
+    <text>Мне и здесь хорошо.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_29">
+    <text>Но ты здесь один. А в лагере хоть сталкеры есть, помогут, если что.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_30">
+    <text>Вот за этим я и ходил на склады. Нашел там несколько мин. Завтра все тут заставлю, никто не подберется к домику без моего ведома. А потом уже сталкерам расскажу, что могу им снарягу чинить. Клиент в этих краях всегда найдется.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_31">
+    <text>Дело твое. Ну что там, получается?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_32">
+    <text>Практически все! А ты сам-то кто? А то я все про себя, да про себя.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_33">
+    <text>Я могу тебе сказать, если ты пообещаешь держать язык за зубами.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_34">
+    <text>Я не из шестерок, не сикай.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_35">
+    <text>Из военных сталкеров я. По заданию тут.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_36">
+    <text>Военный?!</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_37">
+    <text>Нет, не совсем. Военный сталкер. Как и вы, только на официальной основе. В мои обязанности не входит поиск и ловля нелегалов, не бойся.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_38">
+    <text>А чем же ты занимаешься?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_39">
+    <text>Обычные военные редко заходят дальше Кордона или научных объектов. А мы вот как раз по этой части. Ты, кстати, смышлёный мужик, по всей видимости. Нам такие нужны. Подумай. Зарплатой не обидят. Будешь в безопасности заниматься любимым делом.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_40">
+    <text>Хм. Спасибо, конечно, но...</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_41">
+    <text>Ну, будем знакомы, в любом случае. Надеюсь, это не последняя наша встреча, и мы друг другу ещё будем полезны.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_42">
+    <text>И я тоже на это надеюсь. Принимай работу!</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_43">
+    <text>Работает?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_44">
+    <text>Работает! Только учти — шлем быстро нагревается, поэтому у тебя будет не так много времени внутри излучения до его полного перегрева. Если почувствуешь головную боль — сразу убегай. Я не бог, чтобы сделать идеальное устройство. Но оно должно дать тебе необходимое время на изучение кабины вертолета.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_45">
+    <text>Спасибо! Мне пора! Береги себя, Сурок!</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_0">
+    <text>Ну что, какие новости?</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_1">
+    <text>Местный умелец собрал для меня пси-шлем. Нужно спускаться, пока они ещё там, и во всем, наконец, разобраться.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_2">
+    <text>Шлем один? А мы? Идти туда в одиночку — авантюра! Мы даже не знаем, сколько их!</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_3">
+    <text>У нас есть выбор? Ты же сам все слышал. Они уже в курсе, что мы рядом, и спешно собираются рвать когти. Или сейчас, или никогда. Вы присматривайте снаружи, и держите меня в курсе, если удастся перехватить ещё какие-то переговоры.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_4">
+    <text>Хорошо. Ты точно уверен?</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_5">
+    <text>Да. Я не за этим месяцами ждал серьезных поручений, чтобы сдрейфить в последний момент.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_6">
+    <text>Хотя бы не лезь на верную смерть, если почувствуешь запах жареного. Уйдут — снова отыщем! Ты, главное, под пули не лезь!</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_7">
+    <text>И кто мне это говорит? Тот, кто при штурме ЧАЭС хотел идти дальше, вопреки моему приказу?</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_8">
+    <text>Хах, вот тогда я тебя послушал. А теперь прошу послушать меня. Если силы будут неравны, отступи.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_9">
+    <text>Я не буду играть в рэмбо. Вы сами тут будьте начеку! Несколько часов назад на меня напали. Они могут появиться и здесь! Все. До связи!</text>
+  </string>
+  <string id="mil_stalker_idle_dialog_0_1">
+    <text>Рад тебя видеть!</text>
+  </string>
+  <string id="mil_stalker_idle_dialog_0_2">
+    <text>Приветствую!</text>
+  </string>
+  <string id="mil_stalker_idle_dialog_0_3">
+    <text>Выкладывай, чего у тебя там?</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_0_1">
+    <text>Рад тебя видеть!</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_0_2">
+    <text>Ну, выкладывай, сталкер!</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_0_3">
+    <text>Я тебя слушаю, друг.</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_1_1">
+    <text>Бывай.</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_1_2">
+    <text>Пойду я.</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_1_3">
+    <text>До встречи</text>
+  </string>
 </string_table>

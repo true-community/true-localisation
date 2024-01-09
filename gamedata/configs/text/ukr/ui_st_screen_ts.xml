@@ -1,820 +1,614 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="st_new_achievement">
-		<text>Нове досягнення</text>
-	</string>
-
-	<string id="st_general_in_item">
-		<text>ОТРИМАНО ПРЕДМЕТ</text>
-	</string>
-
-	<string id="st_general_in_items">
-		<text>ОТРИМАНО ПРЕДМЕТИ</text>
-	</string>
-
-	<string id="st_general_in_money">
-		<text>ОТРИМАНО ГРОШІ</text>
-	</string>
-
-	<string id="st_general_out_item">
-		<text>ВТРАЧЕНО ПРЕДМЕТ</text>
-	</string>
-
-	<string id="st_general_out_items">
-		<text>ВТРАЧЕНО ПРЕДМЕТИ</text>
-	</string>
-
-	<string id="st_general_out_money">
-		<text>ВТРАЧЕНО ГРОШІ</text>
-	</string>
-
-	<string id="st_lock_save">
-		<text>Зараз неможливо зберегти гру!</text>
-	</string>
-
-	<string id="esc_start_show_mesto">
-		<text>ЧОРНОБИЛЬСЬКА ЗОНА ВІДЧУЖЕННЯ. КОРДОН</text>
-	</string>
-
-	<string id="esc_start_show_date">
-		<text>4 ЧЕРВНЯ. 2013 РІК</text>
-	</string>
-
-	<string id="chapter_title">
-		<text>ГЛАВА</text>
-	</string>
-
-	<string id="chapter_1">
-		<text>«ПРИБУТТЯ»</text>
-	</string>
-
-	<string id="chapter_2">
-		<text>«ЗА КОРДОНОМ»</text>
-	</string>
-
-	<string id="chapter_3">
-		<text>«БАНДИТСЬКА ДОЛИНА»</text>
-	</string>
-
-	<string id="chapter_4">
-		<text>«ГОСПОДАР ПІДЗЕМЕЛЬ»</text>
-	</string>
-
-	<string id="chapter_5">
-		<text>«ТРАНСМУТАЦІЯ»</text>
-	</string>
-
-	<string id="chapter_6">
-		<text>«АРТЕФАКТ СМЕРТІ»</text>
-	</string>
-
-	<string id="chapter_7">
-		<text>«У ТЕМНОМУ ЗАТОНІ КРИНИЦІ»</text>
-	</string>
-
-	<string id="chapter_8">
-		<text>«ВІЧ-НА-ВІЧ»</text>
-	</string>
-
-	<string id="chapter_9">
-		<text>«РОЗВ'ЯЗКА»</text>
-	</string>
-
-	<string id="esc_task_for_trailer_text">
-		<text>ЗА ДЕЯКИЙ ЧАС</text>
-	</string>
-
-	<string id="esc_nora_dinamit_explode">
-		<text>До вибуху залишилося</text>
-	</string>
-
-	<string id="st_ts_nosleep">
-		<text>Який сон?! Проспався вже, іди працюй!</text>
-	</string>
-
-	<string id="esc_scients_message_forward_time">
-		<text>Минуло 10 хвилин</text>
-	</string>
-
-	<string id="sr_lc_possible">
-		<text>ПЕРЕЙТИ НА ІНШУ ЛОКАЦІЮ</text>
-	</string>
-
-	<string id="sr_lc_esc_to_gar_impossible">
-		<text>ПОТРІБНО ЗАВЕРШИТИ СПРАВИ НА КОРДОНІ</text>
-	</string>
-
-	<string id="esc_to_nsp_level_changer_disabled">
-		<text>ПОПЕРЕДУ НЕРОЗВІДАНА ТЕРИТОРІЯ</text>
-	</string>
-
-	<string id="esc_to_mar_fake_level_changer_disabled">
-		<text>ЙТИ НА БОЛОТА ОДНОМУ  -  ВІРНА СМЕРТЬ</text>
-	</string>
-
-	<string id="labx18_lc_to_val_impossible">
-		<text>ПІТИ ЗАРАЗ НЕ МОЖНА</text>
-	</string>
-
-	<string id="agr_to_gar_level_changers_disabled">
-		<text>ДІЯ ТИМЧАСОВО НЕДОСТУПНА</text>
-	</string>
-
-	<string id="esc_technic_repair_ar_compl">
-		<text>Я завершив ремонт. Можеш забирати свій калаш.</text>
-	</string>
-
-	<string id="default_clear">
-		<text>Безхмарно</text>
-	</string>
-
-	<string id="default_rain">
-		<text>Дощ</text>
-	</string>
-
-	<string id="default_thunder">
-		<text>Гроза</text>
-	</string>
-
-	<string id="default_cloudy">
-		<text>Хмарно</text>
-	</string>
-
-	<string id="weather_surge">
-		<text>Викид!</text>
-	</string>
-
-	<string id="time_morning">
-		<text>ранок</text>
-	</string>
-
-	<string id="time_day">
-		<text>день</text>
-	</string>
-
-	<string id="time_evening">
-		<text>вечір</text>
-	</string>
-
-	<string id="time_night">
-		<text>ніч</text>
-	</string>
-
-	<string id="weather_manager">
-		<text>Погода</text>
-	</string>
-
-	<string id="esc_actor_message_not_pay_for_fuel">
-		<text>Слухай, чоловіче, тут технік бабла за бензин хоче. Я платити не буду, давай якось сам. Щасти.</text>
-	</string>
-
-	<string id="esc_stalker_car_message_help">
-		<text>Та плювати мені зараз на бензин! Допоможи, на мене бандити пруть!</text>
-	</string>
-
-	<string id="esc_actor_message_for_help_stalker_car">
-		<text>Ах ти ж бляха... Тримайся, я йду!</text>
-	</string>
-
-	<string id="gar_jurok_sms_soldier">
-		<text>Привіт, друже! Забув вчора сказати, що вояка я провів. Реально солідно заплатив! Дякую за наводку, я в боргу не залишуся! На зв'язку!</text>
-	</string>
-
-	<string id="gar_stalker_medic_message_not_see_bloodsucker">
-		<text>Я його загубив! Капець, здається, він став невидимий... Швидко жени його до мене, інакше тобі торба!</text>
-	</string>
-
-	<string id="gar_stalkers_meet_corpse_info">
-		<text>Інформація з трупа сталкера</text>
-	</string>
-
-	<string id="gar_actor_info_code">
-		<text>Код до сейфу: 127625</text>
-	</string>
-
-	<string id="agr_diggers_safe_locked">
-		<text>Сейф замкнено: потрібен код</text>
-	</string>
-
-	<string id="safe_door_locked">
-		<text>Замкнено</text>
-	</string>
-
-	<string id="agr_diggers_safe_locked_2">
-		<text>Потрібно позбутися сторонніх, аби не привертати увагу</text>
-	</string>
-
-	<string id="agr_diggers_box_locked">
-		<text>Замкнено: потрібен ключ</text>
-	</string>
-
-	<string id="labx18_monster_scene_door_tip">
-		<text>Щось утримує двері</text>
-	</string>
-
-	<string id="labx18_codedoor_locked">
-		<text>Потрібен код</text>
-	</string>
-
-	<string id="ts_build_sender">
-		<text>Overfirst</text>
-	</string>
-
-	<string id="ts_build_text">
-		<text>Модифікацію пройдено! Виконати решту завдань зараз неможливо.</text>
-	</string>
-
-	<string id="st_lchanger_disabled">
-		<text>Закритий перехід</text>
-	</string>
-
-	<string id="st_lchanger_to_escape">
-		<text>На Кордон</text>
-	</string>
-
-	<string id="st_lchanger_to_garbage">
-		<text>На Смітник</text>
-	</string>
-
-	<string id="st_lchanger_to_agroprom">
-		<text>На «Агропром»</text>
-	</string>
-
-	<string id="st_lchanger_to_agroprom_underground">
-		<text>У Підземеллі Агропрому</text>
-	</string>
-
-	<string id="st_lchanger_to_darkvalley">
-		<text>На Темну долину</text>
-	</string>
-
-	<string id="st_lchanger_to_labx18">
-		<text>У Лабораторію X18</text>
-	</string>
-
-	<string id="level_changer_invitation">
-		<text>ПЕРЕХІД НА ІНШУ ЛОКАЦІЮ</text>
-	</string>
-
-	<string id="esc_to_gar_level_changer_disabled">
-		<text>ПОТРІБНО ЗАВЕРШИТИ СПРАВИ НА КОРДОНІ</text>
-	</string>
-
-	<string id="val_to_labx18_level_changer_disabled">
-		<text>ЗАРАЗ НЕМОЖЛИВО ПОТРАПИТИ ДО ЛАБОРАТОРІЇ</text>
-	</string>
-
-	<string id="agr_to_mar_level_changer_disabled">
-		<text>ДАЛІ ШЛЯХУ НЕМА</text>
-	</string>
-
-	<string id="agr_to_und_level_changers_disabled">
-		<text>ЙТИ ДАЛІ НАДТО НЕБЕЗПЕЧНО</text>
-	</string>
-
-	<string id="esc_technic_repair_groza_complete">
-		<text>Гей, сталкере, я закінчив з твоєю гвинтівкою. Можеш забирати.</text>
-	</string>
-
-	<string id="st_pda_change_spot_hint">
-		<text>Перейменувати</text>
-	</string>
-
-	<string id="st_pda_add_spot">
-		<text>Додати мітку</text>
-	</string>
-
-	<string id="st_pda_delete_spot">
-		<text>Видалити мітку</text>
-	</string>
-
-	<string id="kat_boss_note_text_1">
-		<text>Доню, як повернешся зі школи</text>
-	</string>
-
-	<string id="kat_boss_note_text_2">
-		<text> -  не забудь поїсти, зробити</text>
-	</string>
-
-	<string id="kat_boss_note_text_3">
-		<text>уроки. Учені дядьки</text>
-	</string>
-
-	<string id="kat_boss_note_text_4">
-		<text>організували якісь загальні</text>
-	</string>
-
-	<string id="kat_boss_note_text_5">
-		<text>збори, потрібно буде сходити  - </text>
-	</string>
-
-	<string id="kat_boss_note_text_6">
-		<text>не сумуй, повернуся за кілька</text>
-	</string>
-
-	<string id="kat_boss_note_text_7">
-		<text>годин. Цілую, будь чемною.</text>
-	</string>
-
-	<string id="kat_boss_note_text_8">
-		<text>Тату! Нас з мамою та Сашком вивозять з селища!</text>
-	</string>
-
-	<string id="kat_boss_note_text_9">
-		<text>Тут знову щось вибухнуло, і тепер всім кажуть</text>
-	</string>
-
-	<string id="kat_boss_note_text_10">
-		<text>поїхати. Мама думає, ти не повернешся, та я в це не</text>
-	</string>
-
-	<string id="kat_boss_note_text_11">
-		<text>вірю! Я знаю, що ти повернешся і будеш з нами,</text>
-	</string>
-
-	<string id="kat_boss_note_text_12">
-		<text>татусику. Я тебе дуже люблю!</text>
-	</string>
-
-	<string id="kat_boss_note_text_13">
-		<text>[нижче дописано іншим почерком]</text>
-	</string>
-
-	<string id="gar_stalker_medic_after_katakomb">
-		<text>Сталкере, у мене є цікава пропозиція. Закінчуй справи та підрулюй. Чекаю.</text>
-	</string>
-
-	<string id="agr_stalker_help_sos_sms">
-		<text>Є хто поруч? Потрібна термінова допомога! Чекаю коло входу в підземелля!</text>
-	</string>
-
-	<string id="nsp_masters_stalker_leader_hello_message">
-		<text>Підходь, сталкере. Посидимо, поговоримо.</text>
-	</string>
-
-	<string id="nsp_to_esc_level_changer_disabled_one">
-		<text>ЗАРАЗ НЕБЕЗПЕЧНО ЗАЛИШАТИ НОВОШЕПЕЛИЧІ</text>
-	</string>
-
-	<string id="nsp_to_esc_level_changer_disabled_two">
-		<text>СПОЧАТКУ ТРЕБА ПОЗБУТИСЯ ТРАНСМУТАТА</text>
-	</string>
-
-	<string id="nsp_to_esc_level_changer_disabled_three">
-		<text>ЗАРАЗ ТРЕБА ЙТИ НА КОРДОН</text>
-	</string>
-
-	<string id="level_changer_disabled_anomalies">
-		<text>ШЛЯХ ПОПЕРЕДУ ПОВЕН АНОМАЛІЙ</text>
-	</string>
-
-	<string id="agr_to_bar_level_changer_disabled">
-		<text>НЕМАЄ ДОЗВОЛУ ДЛЯ ВХОДУ В БАР</text>
-	</string>
-
-	<string id="nsp_hunters_sleep_locked_text">
-		<text>Який сон? Захар чекати не буде!</text>
-	</string>
-
-	<string id="gar_to_bar_level_changer_locked">
-		<text>НЕМАЄ ДОЗВОЛУ УГРУПОВАННЯ «ДОЛГ»!</text>
-	</string>
-
-	<string id="esc_to_gar_level_changer_two_disabled">
-		<text>ПОПЕРЕДУ ЗАВАЛ</text>
-	</string>
-
-	<string id="agru_to_agr_level_changer_lock">
-		<text>ЗАКРИТО</text>
-	</string>
-
-	<string id="kat_to_val_level_changer_lock_message">
-		<text>Вертатися на базу бандитів  -  самогубство. Слід знайти інший шлях.</text>
-	</string>
-
-	<string id="esc_scientists_task_fail_actor_message_device_taken">
-		<text>Сидорович, я дивом вижив і роздобув пристрій вчених. Притягти тобі?</text>
-	</string>
-
-	<string id="esc_scientists_task_fail_trader_message_device_taken">
-		<text>Не смій там нічого брати: хрін його знає, що це за штукенція! Чекаю тебе в себе, розкажеш що трапилося.</text>
-	</string>
-
-	<string id="esc_scientists_task_fail_technic_message_device_taken">
-		<text>Сокира! Слухай, притягни-но мені ту залізяку. Дуже цікаво, що воно таке.</text>
-	</string>
-
-	<string id="esc_scientists_task_fail_actor_second_message_device_taken">
-		<text>Михайлович? Ти тут взагалі як, якого біса?</text>
-	</string>
-
-	<string id="esc_scientists_task_fail_technic_second_message_device_taken">
-		<text>Досвід зламу з Великої землі, про це потім. Тягни пристрій до мене, а я знайду, як тобі віддячити.</text>
-	</string>
-
-	<string id="esc_trader_angry_message_for_attack_village">
-		<text>Що у вас там відбувається? Дурбецало, ти пристрій вчених в селище притяг?! Зовсім клепки повилітали?!</text>
-	</string>
-
-	<string id="esc_scientists_task_actor_message_see_device">
-		<text>Сидор, тут повна срака. Головасті дійшли до летючого селища. Один з них лізе телепортами, вперше таке бачу! Схоже, намагається якесь своє обладнання там тицьнути.</text>
-	</string>
-
-	<string id="esc_scientists_task_trader_message_for_actor_see_device">
-		<text>Ясно. Краще не лізь туди, мені жодних проблем у бункері не треба. Хтозна, що там всередині тих залізяк.</text>
-	</string>
-
-	<string id="esc_scientists_task_technic_message_for_actor_first">
-		<text>Сокира, у тебе до тебе прохання: дістань для мене ту штуку, про яку ти щойно розказував крамарю. Мені також цікаво, що задумали ті чорти.</text>
-	</string>
-
-	<string id="esc_scientists_task_actor_for_technic_message_first">
-		<text>Михайлович? Ти як про це дізнався?</text>
-	</string>
-
-	<string id="esc_scientists_task_technic_message_for_actor_second">
-		<text>У мене свої методи. Досвід зламу з Великої землі, та зараз не про це. Дістань мені пристрій, я тобі щедро віддячу.</text>
-	</string>
-
-	<string id="esc_scientists_task_actor_for_technic_message_second">
-		<text>Гаразд, постараюсь. Тільки дочекаюся коли головасті звалять.</text>
-	</string>
-
-	<string id="esc_scientists_task_tertiary_actor_message_see_device">
-		<text>Сидоре, я відстав від вчених, але дізнався з повідомлення одного сталкера, що вони дійшли до летючого селища. Один з них поліз крізь телепорти та встановив там якийсь пристрій. Може, мені спробувати його дістати?</text>
-	</string>
-
-	<string id="esc_scientists_task_tertiary_trader_message_for_actor_see_device">
-		<text>Краще не лізь туди, мені жодних проблем у бункері не треба. Хтозна, що там всередині тих залізяк.</text>
-	</string>
-
-	<string id="esc_scientists_task_tertiary_technic_message_for_actor_first">
-		<text>Сокира, у тебе до тебе прохання: дістань для мене ту штуку, про яку ти щойно розказував крамарю. Мені також цікаво, що задумали ті чорти.</text>
-	</string>
-
-	<string id="esc_scientists_task_tertiary_actor_for_technic_message_first">
-		<text>Михайлович? Ти як про це дізнався?</text>
-	</string>
-
-	<string id="esc_scientists_task_tertiary_technic_message_for_actor_second">
-		<text>У мене свої методи. Досвід зламу з Великої землі, та зараз не про це. Дістань мені пристрій, я тобі щедро віддячу.</text>
-	</string>
-
-	<string id="esc_scientists_task_tertiary_actor_for_technic_message_second">
-		<text>Подивлюся, що можна зробити.</text>
-	</string>
-
-	<string id="overfirst">
-		<text>Overfirst</text>
-	</string>
-
-	<string id="agr_mid_final_build_complete">
-		<text>Мод завершено, з ним закінчилися пригоди Сокири! В недалекому майбутньому буде реалізовано решта 3 глави сюжетної лінії за іншого героя, на якого гра вже перемкнулася!</text>
-	</string>
-
-	<string id="bar_arena_temp_lock">
-		<text>На арені були готові лише два бої. Повноцінна реалізація з новим озвученням з'явиться в майбутньому.</text>
-	</string>
-
-	<string id="yan_xottab_breaking_the_door_start_message">
-		<text>Спробуємо розібратися з дверима...</text>
-	</string>
-
-	<string id="yan_actor_check_bunker_territory_message">
-		<text>Ми тим часом оглянемо двір.</text>
-	</string>
-
-	<string id="yan_vuslich_see_oddities_message">
-		<text>Командире, я зараз спостерігаю за околицями і здається, щось побачив. Щось дивне.</text>
-	</string>
-
-	<string id="yan_koval_can_handle_message">
-		<text>Ідіть, я сам впораюся. За мене не хвилюйтеся.</text>
-	</string>
-
-	<string id="yan_actor_koval_start_connect_message">
-		<text>Ковалю, прийом! Ти закінчив зі своїм обладнанням? Прийом, як чути?</text>
-	</string>
-
-	<string id="yan_actor_koval_lost_message">
-		<text>Сука, так і знав, що з ним будуть проблеми!</text>
-	</string>
-
-	<string id="yan_decryption_process">
-		<text>Розшифрування</text>
-	</string>
-
-	<string id="yan_decryption_process_message">
-		<text>Іде процес розшифрування. Будь ласка, зачекайте.</text>
-	</string>
-
-	<string id="yan_decryption_process_fail_message">
-		<text>Помилка. Пристрій пошкоджено.</text>
-	</string>
-
-	<string id="yan_koval_actor_long_dist_1_message">
-		<text>Командире, не відставай!</text>
-	</string>
-
-	<string id="yan_koval_actor_long_dist_2_message">
-		<text>Доганяй, босе! Де ти там застряг?</text>
-	</string>
-
-	<string id="yan_koval_actor_long_dist_3_message">
-		<text>Давай доганяй, чого гальмуєш?</text>
-	</string>
-
-	<string id="yan_koval_dogs_death_message">
-		<text>От це ти вчасно!</text>
-	</string>
-
-	<string id="yan_koval_sorry_message">
-		<text>Не бурчи, командире. Більше такого не повториться.</text>
-	</string>
-
-	<string id="yan_koval_devices_start_message">
-		<text>Зараз розставлю потрібне обладнання. Ти поки цей, дивись довкола, ага?</text>
-	</string>
-
-	<string id="yan_vuslich_psy_talk_message">
-		<text>Командире, тут справді щось не те. Мною також трохи хитає.</text>
-	</string>
-
-	<string id="yan_vuslich_see_zombie_message">
-		<text>Командире, зомбовані!</text>
-	</string>
-
-	<string id="yan_vuslich_actor_go_off_switcher_message">
-		<text>Командире, давай нагору, ми прикриємо! Тільки хутчіш, їх тут дуже багато!</text>
-	</string>
-
-	<string id="yan_help_message_name">
-		<text>Загальна мережа</text>
-	</string>
-
-	<string id="yan_vuslich_actor_switcher_compl_message">
-		<text>Ти як, командире? Ще б хвилинка і нам точно був би гаплик! Вчасно ти цю головоломку вимкнув!</text>
-	</string>
-
-	<string id="yan_vuslich_condolence_1_message">
-		<text>Шкода їх. Усіх цих вчених, охорону, сталкерів... Так і залишаться тут, навіть поховати нікому.</text>
-	</string>
-
-	<string id="yan_vuslich_condolence_2_message">
-		<text>Хоч так хоч сяк сумно. Сумно, що все це так обернулося через якусь дурню.</text>
-	</string>
-
-	<string id="yan_actor_final_scene_heli_start_message">
-		<text>Швидше, швидше, злітаємо!</text>
-	</string>
-
-	<string id="val_stalker_base_gauss_message">
-		<text>Слиш, братуха, підійди-но. У мене ділова пропозиція!</text>
-	</string>
-
-	<string id="quicksave">
-		<text>ШВИДКЕ ЗБЕРЕЖЕННЯ</text>
-	</string>
-
-	<string id="autosave">
-		<text>АВТОЗБЕРЕЖЕННЯ</text>
-	</string>
-
-	<string id="st_level_change">
-		<text>ПЕРЕХІД НА ЛОКАЦІЮ</text>
-	</string>
-
-	<string id="gar_to_val_level_changer_disabled">
-		<text>БЕЗ ПОТРЕБИ ПХАТИСЯ ДО БАНДИТІВ НЕ ВАРТО</text>
-	</string>
-
-	<string id="st_agr_soldier_sky_scientist_tonnel_info">
-		<text>Є зачіпка по нашій справі. Я б сказав, зачеписько! Два дні тому якісь сталкери в загальну мережу виклали повідомлення, що аномалія в тунелі порвала на шматки одного вченого. Це не наш клієнт?</text>
-	</string>
-
-	<string id="st_esc_soldier_sky_tonnel_remains_info">
-		<text>Журавльов, прийом! Я отримав результати експертизи. Ті останки, що ти знайшов коло аномалії, не належать Дубініну. Все підлаштовано, щоб ми його не шукали. Такі от новини. До зв'язку!</text>
-	</string>
-
-	<string id="ts_information_send">
-		<text>Надіслано інформацію:</text>
-	</string>
-
-	<string id="esc_actor_give_maps_for_trader_text">
-		<text>Мапи Янтарю</text>
-	</string>
-
-	<string id="esc_to_nsp_level_changer_after_yantar_disabled">
-		<text>ДАЛІ ЛЕЖИТЬ НЕРОЗВІДАНА ТЕРИТОРІЯ</text>
-	</string>
-
-	<string id="esc_to_gar_level_changer_after_yantar_disabled">
-		<text>ВАРТО ПОШУКАТИ РЕШТУ ЗАЧІПОК НА КОРДОНІ</text>
-	</string>
-
-	<string id="agr_to_gar_level_changer_mid_final_disabled">
-		<text>НЕ БУЛО НАКАЗУ ЗАЛИШАТИ «АГРОПРОМ»</text>
-	</string>
-
-	<string id="mil_to_bar_level_changer_danger_disabled">
-		<text>ПОВЕРНУТИСЯ ДО БАРУ  -  САМОГУБСТВО</text>
-	</string>
-
-	<string id="agr_to_yan_level_changer_disabled">
-		<text>НЕМА СВІЖИХ ДАНИХ ПРО ЦЕЙ ШЛЯХ</text>
-	</string>
-
-	<string id="yan_to_agr_level_changer_disabled">
-		<text>СЛІД ЗАВЕРШИТИ ПОТОЧНЕ ЗАВДАННЯ</text>
-	</string>
-
-	<string id="mil_to_mkat_level_changer_disabled">
-		<text>НОРА МАЙЖЕ ПОВНІСТЮ ЗАВАЛЕНА</text>
-	</string>
-
-	<string id="mil_to_red_forest_fake_level_changer_disabled">
-		<text>ШЛЯХ У РУДИЙ ЛІС ПОВЕН МУТАНТІВ</text>
-	</string>
-
-	<string id="mil_to_radar_level_changer_disabled">
-		<text>ПОХІД НА РАДАР  -  ДОРОГА В ОДИН КІНЕЦЬ</text>
-	</string>
-
-	<string id="st_mil_skylight_device_name">
-		<text>SkyLight</text>
-	</string>
-
-	<string id="st_skylight_device_start_message">
-		<text>Зв'язок втрачено.</text>
-	</string>
-
-	<string id="st_skylight_device_reconnect_message">
-		<text>З'єднання...</text>
-	</string>
-
-	<string id="st_skylight_device_error_message">
-		<text>Помилка з'єднання.</text>
-	</string>
-
-	<string id="st_key_action_use">
-		<text>[$$ACTION_USE$$]</text>
-	</string>
-
-	<string id="sleep_warning_all_pleasures">
-		<text>ВИСОКИЙ РІВЕНЬ ОПРОМІНЕННЯ, СИЛЬНА КРОВОТЕЧА</text>
-	</string>
-
-	<string id="sleep_warning_bleeding">
-		<text>СИЛЬНА КРОВОТЕЧА</text>
-	</string>
-
-	<string id="sleep_warning_radiation">
-		<text>ВИСОКИЙ РІВЕНЬ ОПРОМІНЕННЯ</text>
-	</string>
-
-	<string id="mlab_week_static_text">
-		<text>ТИЖДЕНЬ ПОТОМУ</text>
-	</string>
-
-	<string id="mlab_smart_clock">
-		<text>Смартгодинник</text>
-	</string>
-
-	<string id="mlab_smart_call_info">
-		<text>Вхідний виклик (кабінет Дубініна)</text>
-	</string>
-
-	<string id="ls_chapter_name">
-		<text>ГЛАВА</text>
-	</string>
-
-	<string id="ls_TS_chapter_1_name">
-		<text>«Прибуття»</text>
-	</string>
-
-	<string id="ls_TS_chapter_1_desc">
-		<text>Ви знову в Зоні. Потрібно трохи заробити на Кордоні, роздобути спорядження, заново звикнути до тутешніх правил і рухатися далі. Туди, де цікаво та небезпечно. Туди, де кожен сам за себе.</text>
-	</string>
-
-	<string id="ls_TS_chapter_2_name">
-		<text>«За Кордоном»</text>
-	</string>
-
-	<string id="ls_TS_chapter_2_desc">
-		<text>Нова місцевість не надто довго мене чекала. Тепер моє завдання  -  облаштуватися в тутешній місцині та почати заробляти на життя далеко від периметру.</text>
-	</string>
-
-	<string id="ls_TS_chapter_3_name">
-		<text>«Бандитська долина»</text>
-	</string>
-
-	<string id="ls_TS_chapter_3_desc">
-		<text>Ніколи б не подумав, що доведеться мати справу зі справжніми бандитами. Сподіваюся, що з цього буде хоч якась користь... чи принаймні залишуся зі своїм.</text>
-	</string>
-
-	<string id="ls_TS_chapter_4_name">
-		<text>«Володар підземель»</text>
-	</string>
-
-	<string id="ls_TS_chapter_4_desc">
-		<text>Трухняй мертвий: його колишні друзі напали в найнеочікуваніший момент. Похапцем забіг до якого підземелля під базою бандитів. Зараз треба бути акуратним і намагатися не вляпатися ще кудись.</text>
-	</string>
-
-	<string id="ls_TS_chapter_5_name">
-		<text>«Трансмутація»</text>
-	</string>
-
-	<string id="ls_TS_chapter_5_desc">
-		<text>Після бандитських справ трапилася не менше цікава пригода: різноманітна біганина на прохання вчених. Зате платили добре та справно. Завжди б так.</text>
-	</string>
-
-	<string id="ls_TS_chapter_6_name">
-		<text>«Артефакт смерті»</text>
-	</string>
-
-	<string id="ls_TS_chapter_6_desc">
-		<text>Околиці Новошепіличів для мене тепер будуть одним з найцікавіших та найзагадковіших місць Зони. Вже на підході я відчув масштаби цих лісових розлогів, і щосекунди перебування тут мені стає все більш моторошно.</text>
-	</string>
-
-	<string id="ls_TS_chapter_7_name">
-		<text>«У темному затоні криниці»</text>
-	</string>
-
-	<string id="ls_TS_chapter_7_desc">
-		<text>Переді мною та моїм загоном стоїть завдання з'ясувати причини зникнення зв'язку з територією Янтарю.</text>
-	</string>
-
-	<string id="ls_TS_chapter_8_name">
-		<text>«Віч-на-віч»</text>
-	</string>
-
-	<string id="ls_TS_chapter_8_desc">
-		<text>Зникнення професора Дубініна не на жарт схвилювало керівництво НДІ. Мені доручили знайти будь-які зачіпки до його зникнення, або ще краще, його самого.</text>
-	</string>
-
-	<string id="ls_TS_chapter_9_name">
-		<text>«Розв'язка»</text>
-	</string>
-
-	<string id="ls_TS_chapter_9_desc">
-		<text>Настав час дізнатися, що приховано в цій підземній лабораторії, хто такі ці найманці на чолі з Термітом і що тут робить професор Дібінін.</text>
-	</string>
-
-	<string id="agr_composer_task_wait_time">
-		<text>УТРИМУВАТИ ПОЗИЦІЇ</text>
-	</string>
-
-	<string id="agr_composer_task_wait_controller_zone_time">
-		<text>ТРИВАЄ ВИМІРЮВАННЯ ПСІ-АКТИВНОСТІ</text>
-	</string>
-
-	<string id="gar_stalker_nimble_order_complete_message_1">
-		<text>Сталкере, замовлення готове. Можеш забирати.</text>
-	</string>
-
-	<string id="gar_stalker_nimble_order_complete_message_2">
-		<text>Замовлення прибуло, підрулюй.</text>
-	</string>
-
-	<string id="gar_stalker_nimble_order_complete_message_3">
-		<text>Можеш приходити за товаром, сталкере.</text>
-	</string>
-
-	<string id="esc_stalker_liar_reward_message">
-		<text>Друже, я домовився з Сидоровичем. Приходь в селище, я віддам твою нагороду. Буду коло багаття з хлопцями.</text>
-	</string>
-
-	<string id="gar_stalker_google_chrome_actor_leave_message">
-		<text>Не надто ти говіркий, сталкере. Лови як нагороду координати мого сховку. Попутного вітру.</text>
-	</string>
-
-	<string id="esc_actor_stalker_task_sos_message">
-		<text>Отримано координати джерела сигналу SOS</text>
-	</string>
-
-	<string id="esc_actor_stalker_task_open_box_message">
-		<text>Ви отримали доступ до речей з особистого ящику Сокири</text>
-	</string>
-
-	<string id="esc_fake_final_message_box_answer">
-		<text>ВИ ДІЙСНО ХОЧЕТЕ ПОКИНУТИ ЗОНУ? </text>
-	</string>
-
-	<string id="esc_fake_final_message_box_locked">
-		<text>НАЗАД ДОРОГИ НЕМАЄ!</text>
-	</string>
-
-	<string id="esc_pre_final_message_title">
-		<text>УВАГА!</text>
-	</string>
-
-	<string id="esc_pre_final_message_text">
-		<text>ДАЛІ В ІСТОРІЇ НАСТУПАЄ ЧЕРЕДА ВИРІШАЛЬНИХ ПОДІЙ. ПЕРЕКОНАЙТЕСЯ,\nЩО ЗАВЕРШИЛИ ВСІ СВОЇ СПРАВИ, ПЕРШ НІЖ ВІДПРАВИТИСЯ ДАЛІ,\nЩОБ НЕ ВТРАТИТИ ДОСЯГНУТИЙ ПРОГРЕС.\n</text>.
-	</string>
-
-	<string id="esc_pre_final_message_confirm">
-		<text>ПРОДОВЖИТИ</text>
-	</string>
-
+  <string id="st_new_achievement">
+    <text>Нове досягнення</text>
+  </string>
+  <string id="st_general_in_item">
+    <text>ОТРИМАНО ПРЕДМЕТ</text>
+  </string>
+  <string id="st_general_in_items">
+    <text>ОТРИМАНО ПРЕДМЕТИ</text>
+  </string>
+  <string id="st_general_in_money">
+    <text>ОТРИМАНО ГРОШІ</text>
+  </string>
+  <string id="st_general_out_item">
+    <text>ВТРАЧЕНО ПРЕДМЕТ</text>
+  </string>
+  <string id="st_general_out_items">
+    <text>ВТРАЧЕНО ПРЕДМЕТИ</text>
+  </string>
+  <string id="st_general_out_money">
+    <text>ВТРАЧЕНО ГРОШІ</text>
+  </string>
+  <string id="st_lock_save">
+    <text>Зараз неможливо зберегти гру!</text>
+  </string>
+  <string id="esc_start_show_mesto">
+    <text>ЧОРНОБИЛЬСЬКА ЗОНА ВІДЧУЖЕННЯ. КОРДОН</text>
+  </string>
+  <string id="esc_start_show_date">
+    <text>4 ЧЕРВНЯ. 2013 РІК</text>
+  </string>
+  <string id="chapter_title">
+    <text>ГЛАВА</text>
+  </string>
+  <string id="chapter_1">
+    <text>«ПРИБУТТЯ»</text>
+  </string>
+  <string id="chapter_2">
+    <text>«ЗА КОРДОНОМ»</text>
+  </string>
+  <string id="chapter_3">
+    <text>«БАНДИТСЬКА ДОЛИНА»</text>
+  </string>
+  <string id="chapter_4">
+    <text>«ГОСПОДАР ПІДЗЕМЕЛЬ»</text>
+  </string>
+  <string id="chapter_5">
+    <text>«ТРАНСМУТАЦІЯ»</text>
+  </string>
+  <string id="chapter_6">
+    <text>«АРТЕФАКТ СМЕРТІ»</text>
+  </string>
+  <string id="chapter_7">
+    <text>«У ТЕМНОМУ ЗАТОНІ КРИНИЦІ»</text>
+  </string>
+  <string id="chapter_8">
+    <text>«ВІЧ-НА-ВІЧ»</text>
+  </string>
+  <string id="chapter_9">
+    <text>«РОЗВ'ЯЗКА»</text>
+  </string>
+  <string id="esc_task_for_trailer_text">
+    <text>ЗА ДЕЯКИЙ ЧАС</text>
+  </string>
+  <string id="esc_nora_dinamit_explode">
+    <text>До вибуху залишилося</text>
+  </string>
+  <string id="st_ts_nosleep">
+    <text>Який сон?! Проспався вже, іди працюй!</text>
+  </string>
+  <string id="esc_scients_message_forward_time">
+    <text>Минуло 10 хвилин</text>
+  </string>
+  <string id="sr_lc_possible">
+    <text>ПЕРЕЙТИ НА ІНШУ ЛОКАЦІЮ</text>
+  </string>
+  <string id="sr_lc_esc_to_gar_impossible">
+    <text>ПОТРІБНО ЗАВЕРШИТИ СПРАВИ НА КОРДОНІ</text>
+  </string>
+  <string id="esc_to_nsp_level_changer_disabled">
+    <text>ПОПЕРЕДУ НЕРОЗВІДАНА ТЕРИТОРІЯ</text>
+  </string>
+  <string id="esc_to_mar_fake_level_changer_disabled">
+    <text>ЙТИ НА БОЛОТА ОДНОМУ  —  ВІРНА СМЕРТЬ</text>
+  </string>
+  <string id="labx18_lc_to_val_impossible">
+    <text>ПІТИ ЗАРАЗ НЕ МОЖНА</text>
+  </string>
+  <string id="agr_to_gar_level_changers_disabled">
+    <text>ДІЯ ТИМЧАСОВО НЕДОСТУПНА</text>
+  </string>
+  <string id="esc_technic_repair_ar_compl">
+    <text>Я завершив ремонт. Можеш забирати свій калаш.</text>
+  </string>
+  <string id="default_clear">
+    <text>Безхмарно</text>
+  </string>
+  <string id="default_rain">
+    <text>Дощ</text>
+  </string>
+  <string id="default_thunder">
+    <text>Гроза</text>
+  </string>
+  <string id="default_cloudy">
+    <text>Хмарно</text>
+  </string>
+  <string id="weather_surge">
+    <text>Викид!</text>
+  </string>
+  <string id="time_morning">
+    <text>ранок</text>
+  </string>
+  <string id="time_day">
+    <text>день</text>
+  </string>
+  <string id="time_evening">
+    <text>вечір</text>
+  </string>
+  <string id="time_night">
+    <text>ніч</text>
+  </string>
+  <string id="weather_manager">
+    <text>Погода</text>
+  </string>
+  <string id="esc_actor_message_not_pay_for_fuel">
+    <text>Слухай, чоловіче, тут технік бабла за бензин хоче. Я платити не буду, давай якось сам. Щасти.</text>
+  </string>
+  <string id="esc_stalker_car_message_help">
+    <text>Та плювати мені зараз на бензин! Допоможи, на мене бандити пруть!</text>
+  </string>
+  <string id="esc_actor_message_for_help_stalker_car">
+    <text>Ах ти ж бляха... Тримайся, я йду!</text>
+  </string>
+  <string id="gar_jurok_sms_soldier">
+    <text>Привіт, друже! Забув вчора сказати, що вояка я провів. Реально солідно заплатив! Дякую за наводку, я в боргу не залишуся! На зв'язку!</text>
+  </string>
+  <string id="gar_stalker_medic_message_not_see_bloodsucker">
+    <text>Я його загубив! Капець, здається, він став невидимий... Швидко жени його до мене, інакше тобі торба!</text>
+  </string>
+  <string id="gar_stalkers_meet_corpse_info">
+    <text>Інформація з трупа сталкера</text>
+  </string>
+  <string id="gar_actor_info_code">
+    <text>Код до сейфу: 127625</text>
+  </string>
+  <string id="agr_diggers_safe_locked">
+    <text>Сейф замкнено: потрібен код</text>
+  </string>
+  <string id="safe_door_locked">
+    <text>Замкнено</text>
+  </string>
+  <string id="agr_diggers_safe_locked_2">
+    <text>Потрібно позбутися сторонніх, аби не привертати увагу</text>
+  </string>
+  <string id="agr_diggers_box_locked">
+    <text>Замкнено: потрібен ключ</text>
+  </string>
+  <string id="labx18_monster_scene_door_tip">
+    <text>Щось утримує двері</text>
+  </string>
+  <string id="labx18_codedoor_locked">
+    <text>Потрібен код</text>
+  </string>
+  <string id="ts_build_sender">
+    <text>Overfirst</text>
+  </string>
+  <string id="ts_build_text">
+    <text>Модифікацію пройдено! Виконати решту завдань зараз неможливо.</text>
+  </string>
+  <string id="st_lchanger_disabled">
+    <text>Закритий перехід</text>
+  </string>
+  <string id="st_lchanger_to_escape">
+    <text>На Кордон</text>
+  </string>
+  <string id="st_lchanger_to_garbage">
+    <text>На Смітник</text>
+  </string>
+  <string id="st_lchanger_to_agroprom">
+    <text>На «Агропром»</text>
+  </string>
+  <string id="st_lchanger_to_agroprom_underground">
+    <text>У Підземеллі Агропрому</text>
+  </string>
+  <string id="st_lchanger_to_darkvalley">
+    <text>На Темну долину</text>
+  </string>
+  <string id="st_lchanger_to_labx18">
+    <text>У Лабораторію X18</text>
+  </string>
+  <string id="level_changer_invitation">
+    <text>ПЕРЕХІД НА ІНШУ ЛОКАЦІЮ</text>
+  </string>
+  <string id="esc_to_gar_level_changer_disabled">
+    <text>ПОТРІБНО ЗАВЕРШИТИ СПРАВИ НА КОРДОНІ</text>
+  </string>
+  <string id="val_to_labx18_level_changer_disabled">
+    <text>ЗАРАЗ НЕМОЖЛИВО ПОТРАПИТИ ДО ЛАБОРАТОРІЇ</text>
+  </string>
+  <string id="agr_to_mar_level_changer_disabled">
+    <text>ДАЛІ ШЛЯХУ НЕМА</text>
+  </string>
+  <string id="agr_to_und_level_changers_disabled">
+    <text>ЙТИ ДАЛІ НАДТО НЕБЕЗПЕЧНО</text>
+  </string>
+  <string id="esc_technic_repair_groza_complete">
+    <text>Гей, сталкере, я закінчив з твоєю гвинтівкою. Можеш забирати.</text>
+  </string>
+  <string id="st_pda_change_spot_hint">
+    <text>Перейменувати</text>
+  </string>
+  <string id="st_pda_add_spot">
+    <text>Додати мітку</text>
+  </string>
+  <string id="st_pda_delete_spot">
+    <text>Видалити мітку</text>
+  </string>
+  <string id="kat_boss_note_text_1">
+    <text>Доню, як повернешся зі школи</text>
+  </string>
+  <string id="kat_boss_note_text_2">
+    <text> —  не забудь поїсти, зробити</text>
+  </string>
+  <string id="kat_boss_note_text_3">
+    <text>уроки. Учені дядьки</text>
+  </string>
+  <string id="kat_boss_note_text_4">
+    <text>організували якісь загальні</text>
+  </string>
+  <string id="kat_boss_note_text_5">
+    <text>збори, потрібно буде сходити  — </text>
+  </string>
+  <string id="kat_boss_note_text_6">
+    <text>не сумуй, повернуся за кілька</text>
+  </string>
+  <string id="kat_boss_note_text_7">
+    <text>годин. Цілую, будь чемною.</text>
+  </string>
+  <string id="kat_boss_note_text_8">
+    <text>Тату! Нас з мамою та Сашком вивозять з селища!</text>
+  </string>
+  <string id="kat_boss_note_text_9">
+    <text>Тут знову щось вибухнуло, і тепер всім кажуть</text>
+  </string>
+  <string id="kat_boss_note_text_10">
+    <text>поїхати. Мама думає, ти не повернешся, та я в це не</text>
+  </string>
+  <string id="kat_boss_note_text_11">
+    <text>вірю! Я знаю, що ти повернешся і будеш з нами,</text>
+  </string>
+  <string id="kat_boss_note_text_12">
+    <text>татусику. Я тебе дуже люблю!</text>
+  </string>
+  <string id="kat_boss_note_text_13">
+    <text>[нижче дописано іншим почерком]</text>
+  </string>
+  <string id="gar_stalker_medic_after_katakomb">
+    <text>Сталкере, у мене є цікава пропозиція. Закінчуй справи та підрулюй. Чекаю.</text>
+  </string>
+  <string id="agr_stalker_help_sos_sms">
+    <text>Є хто поруч? Потрібна термінова допомога! Чекаю коло входу в підземелля!</text>
+  </string>
+  <string id="nsp_masters_stalker_leader_hello_message">
+    <text>Підходь, сталкере. Посидимо, поговоримо.</text>
+  </string>
+  <string id="nsp_to_esc_level_changer_disabled_one">
+    <text>ЗАРАЗ НЕБЕЗПЕЧНО ЗАЛИШАТИ НОВОШЕПЕЛИЧІ</text>
+  </string>
+  <string id="nsp_to_esc_level_changer_disabled_two">
+    <text>СПОЧАТКУ ТРЕБА ПОЗБУТИСЯ ТРАНСМУТАТА</text>
+  </string>
+  <string id="nsp_to_esc_level_changer_disabled_three">
+    <text>ЗАРАЗ ТРЕБА ЙТИ НА КОРДОН</text>
+  </string>
+  <string id="level_changer_disabled_anomalies">
+    <text>ШЛЯХ ПОПЕРЕДУ ПОВЕН АНОМАЛІЙ</text>
+  </string>
+  <string id="agr_to_bar_level_changer_disabled">
+    <text>НЕМАЄ ДОЗВОЛУ ДЛЯ ВХОДУ В БАР</text>
+  </string>
+  <string id="nsp_hunters_sleep_locked_text">
+    <text>Який сон? Захар чекати не буде!</text>
+  </string>
+  <string id="gar_to_bar_level_changer_locked">
+    <text>НЕМАЄ ДОЗВОЛУ УГРУПОВАННЯ «ДОЛГ»!</text>
+  </string>
+  <string id="esc_to_gar_level_changer_two_disabled">
+    <text>ПОПЕРЕДУ ЗАВАЛ</text>
+  </string>
+  <string id="agru_to_agr_level_changer_lock">
+    <text>ЗАКРИТО</text>
+  </string>
+  <string id="kat_to_val_level_changer_lock_message">
+    <text>Вертатися на базу бандитів  —  самогубство. Слід знайти інший шлях.</text>
+  </string>
+  <string id="esc_scientists_task_fail_actor_message_device_taken">
+    <text>Сидорович, я дивом вижив і роздобув пристрій вчених. Притягти тобі?</text>
+  </string>
+  <string id="esc_scientists_task_fail_trader_message_device_taken">
+    <text>Не смій там нічого брати: хрін його знає, що це за штукенція! Чекаю тебе в себе, розкажеш що трапилося.</text>
+  </string>
+  <string id="esc_scientists_task_fail_technic_message_device_taken">
+    <text>Сокира! Слухай, притягни-но мені ту залізяку. Дуже цікаво, що воно таке.</text>
+  </string>
+  <string id="esc_scientists_task_fail_actor_second_message_device_taken">
+    <text>Михайлович? Ти тут взагалі як, якого біса?</text>
+  </string>
+  <string id="esc_scientists_task_fail_technic_second_message_device_taken">
+    <text>Досвід зламу з Великої землі, про це потім. Тягни пристрій до мене, а я знайду, як тобі віддячити.</text>
+  </string>
+  <string id="esc_trader_angry_message_for_attack_village">
+    <text>Що у вас там відбувається? Дурбецало, ти пристрій вчених в селище притяг?! Зовсім клепки повилітали?!</text>
+  </string>
+  <string id="esc_scientists_task_actor_message_see_device">
+    <text>Сидор, тут повна срака. Головасті дійшли до летючого селища. Один з них лізе телепортами, вперше таке бачу! Схоже, намагається якесь своє обладнання там тицьнути.</text>
+  </string>
+  <string id="esc_scientists_task_trader_message_for_actor_see_device">
+    <text>Ясно. Краще не лізь туди, мені жодних проблем у бункері не треба. Хтозна, що там всередині тих залізяк.</text>
+  </string>
+  <string id="esc_scientists_task_technic_message_for_actor_first">
+    <text>Сокира, у тебе до тебе прохання: дістань для мене ту штуку, про яку ти щойно розказував крамарю. Мені також цікаво, що задумали ті чорти.</text>
+  </string>
+  <string id="esc_scientists_task_actor_for_technic_message_first">
+    <text>Михайлович? Ти як про це дізнався?</text>
+  </string>
+  <string id="esc_scientists_task_technic_message_for_actor_second">
+    <text>У мене свої методи. Досвід зламу з Великої землі, та зараз не про це. Дістань мені пристрій, я тобі щедро віддячу.</text>
+  </string>
+  <string id="esc_scientists_task_actor_for_technic_message_second">
+    <text>Гаразд, постараюсь. Тільки дочекаюся коли головасті звалять.</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_actor_message_see_device">
+    <text>Сидоре, я відстав від вчених, але дізнався з повідомлення одного сталкера, що вони дійшли до летючого селища. Один з них поліз крізь телепорти та встановив там якийсь пристрій. Може, мені спробувати його дістати?</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_trader_message_for_actor_see_device">
+    <text>Краще не лізь туди, мені жодних проблем у бункері не треба. Хтозна, що там всередині тих залізяк.</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_technic_message_for_actor_first">
+    <text>Сокира, у тебе до тебе прохання: дістань для мене ту штуку, про яку ти щойно розказував крамарю. Мені також цікаво, що задумали ті чорти.</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_actor_for_technic_message_first">
+    <text>Михайлович? Ти як про це дізнався?</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_technic_message_for_actor_second">
+    <text>У мене свої методи. Досвід зламу з Великої землі, та зараз не про це. Дістань мені пристрій, я тобі щедро віддячу.</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_actor_for_technic_message_second">
+    <text>Подивлюся, що можна зробити.</text>
+  </string>
+  <string id="overfirst">
+    <text>Overfirst</text>
+  </string>
+  <string id="agr_mid_final_build_complete">
+    <text>Мод завершено, з ним закінчилися пригоди Сокири! В недалекому майбутньому буде реалізовано решта 3 глави сюжетної лінії за іншого героя, на якого гра вже перемкнулася!</text>
+  </string>
+  <string id="bar_arena_temp_lock">
+    <text>На арені були готові лише два бої. Повноцінна реалізація з новим озвученням з'явиться в майбутньому.</text>
+  </string>
+  <string id="yan_xottab_breaking_the_door_start_message">
+    <text>Спробуємо розібратися з дверима...</text>
+  </string>
+  <string id="yan_actor_check_bunker_territory_message">
+    <text>Ми тим часом оглянемо двір.</text>
+  </string>
+  <string id="yan_vuslich_see_oddities_message">
+    <text>Командире, я зараз спостерігаю за околицями і здається, щось побачив. Щось дивне.</text>
+  </string>
+  <string id="yan_koval_can_handle_message">
+    <text>Ідіть, я сам впораюся. За мене не хвилюйтеся.</text>
+  </string>
+  <string id="yan_actor_koval_start_connect_message">
+    <text>Ковалю, прийом! Ти закінчив зі своїм обладнанням? Прийом, як чути?</text>
+  </string>
+  <string id="yan_actor_koval_lost_message">
+    <text>Сука, так і знав, що з ним будуть проблеми!</text>
+  </string>
+  <string id="yan_decryption_process">
+    <text>Розшифрування</text>
+  </string>
+  <string id="yan_decryption_process_message">
+    <text>Іде процес розшифрування. Будь ласка, зачекайте.</text>
+  </string>
+  <string id="yan_decryption_process_fail_message">
+    <text>Помилка. Пристрій пошкоджено.</text>
+  </string>
+  <string id="yan_koval_actor_long_dist_1_message">
+    <text>Командире, не відставай!</text>
+  </string>
+  <string id="yan_koval_actor_long_dist_2_message">
+    <text>Доганяй, босе! Де ти там застряг?</text>
+  </string>
+  <string id="yan_koval_actor_long_dist_3_message">
+    <text>Давай доганяй, чого гальмуєш?</text>
+  </string>
+  <string id="yan_koval_dogs_death_message">
+    <text>От це ти вчасно!</text>
+  </string>
+  <string id="yan_koval_sorry_message">
+    <text>Не бурчи, командире. Більше такого не повториться.</text>
+  </string>
+  <string id="yan_koval_devices_start_message">
+    <text>Зараз розставлю потрібне обладнання. Ти поки цей, дивись довкола, ага?</text>
+  </string>
+  <string id="yan_vuslich_psy_talk_message">
+    <text>Командире, тут справді щось не те. Мною також трохи хитає.</text>
+  </string>
+  <string id="yan_vuslich_see_zombie_message">
+    <text>Командире, зомбовані!</text>
+  </string>
+  <string id="yan_vuslich_actor_go_off_switcher_message">
+    <text>Командире, давай нагору, ми прикриємо! Тільки хутчіш, їх тут дуже багато!</text>
+  </string>
+  <string id="yan_help_message_name">
+    <text>Загальна мережа</text>
+  </string>
+  <string id="yan_vuslich_actor_switcher_compl_message">
+    <text>Ти як, командире? Ще б хвилинка і нам точно був би гаплик! Вчасно ти цю головоломку вимкнув!</text>
+  </string>
+  <string id="yan_vuslich_condolence_1_message">
+    <text>Шкода їх. Усіх цих вчених, охорону, сталкерів... Так і залишаться тут, навіть поховати нікому.</text>
+  </string>
+  <string id="yan_vuslich_condolence_2_message">
+    <text>Хоч так хоч сяк сумно. Сумно, що все це так обернулося через якусь дурню.</text>
+  </string>
+  <string id="yan_actor_final_scene_heli_start_message">
+    <text>Швидше, швидше, злітаємо!</text>
+  </string>
+  <string id="val_stalker_base_gauss_message">
+    <text>Слиш, братуха, підійди-но. У мене ділова пропозиція!</text>
+  </string>
+  <string id="quicksave">
+    <text>ШВИДКЕ ЗБЕРЕЖЕННЯ</text>
+  </string>
+  <string id="autosave">
+    <text>АВТОЗБЕРЕЖЕННЯ</text>
+  </string>
+  <string id="st_level_change">
+    <text>ПЕРЕХІД НА ЛОКАЦІЮ</text>
+  </string>
+  <string id="gar_to_val_level_changer_disabled">
+    <text>БЕЗ ПОТРЕБИ ПХАТИСЯ ДО БАНДИТІВ НЕ ВАРТО</text>
+  </string>
+  <string id="st_agr_soldier_sky_scientist_tonnel_info">
+    <text>Є зачіпка по нашій справі. Я б сказав, зачеписько! Два дні тому якісь сталкери в загальну мережу виклали повідомлення, що аномалія в тунелі порвала на шматки одного вченого. Це не наш клієнт?</text>
+  </string>
+  <string id="st_esc_soldier_sky_tonnel_remains_info">
+    <text>Журавльов, прийом! Я отримав результати експертизи. Ті останки, що ти знайшов коло аномалії, не належать Дубініну. Все підлаштовано, щоб ми його не шукали. Такі от новини. До зв'язку!</text>
+  </string>
+  <string id="ts_information_send">
+    <text>Надіслано інформацію:</text>
+  </string>
+  <string id="esc_actor_give_maps_for_trader_text">
+    <text>Мапи Янтарю</text>
+  </string>
+  <string id="esc_to_nsp_level_changer_after_yantar_disabled">
+    <text>ДАЛІ ЛЕЖИТЬ НЕРОЗВІДАНА ТЕРИТОРІЯ</text>
+  </string>
+  <string id="esc_to_gar_level_changer_after_yantar_disabled">
+    <text>ВАРТО ПОШУКАТИ РЕШТУ ЗАЧІПОК НА КОРДОНІ</text>
+  </string>
+  <string id="agr_to_gar_level_changer_mid_final_disabled">
+    <text>НЕ БУЛО НАКАЗУ ЗАЛИШАТИ «АГРОПРОМ»</text>
+  </string>
+  <string id="mil_to_bar_level_changer_danger_disabled">
+    <text>ПОВЕРНУТИСЯ ДО БАРУ  —  САМОГУБСТВО</text>
+  </string>
+  <string id="agr_to_yan_level_changer_disabled">
+    <text>НЕМА СВІЖИХ ДАНИХ ПРО ЦЕЙ ШЛЯХ</text>
+  </string>
+  <string id="yan_to_agr_level_changer_disabled">
+    <text>СЛІД ЗАВЕРШИТИ ПОТОЧНЕ ЗАВДАННЯ</text>
+  </string>
+  <string id="mil_to_mkat_level_changer_disabled">
+    <text>НОРА МАЙЖЕ ПОВНІСТЮ ЗАВАЛЕНА</text>
+  </string>
+  <string id="mil_to_red_forest_fake_level_changer_disabled">
+    <text>ШЛЯХ У РУДИЙ ЛІС ПОВЕН МУТАНТІВ</text>
+  </string>
+  <string id="mil_to_radar_level_changer_disabled">
+    <text>ПОХІД НА РАДАР  —  ДОРОГА В ОДИН КІНЕЦЬ</text>
+  </string>
+  <string id="st_mil_skylight_device_name">
+    <text>SkyLight</text>
+  </string>
+  <string id="st_skylight_device_start_message">
+    <text>Зв'язок втрачено.</text>
+  </string>
+  <string id="st_skylight_device_reconnect_message">
+    <text>З'єднання...</text>
+  </string>
+  <string id="st_skylight_device_error_message">
+    <text>Помилка з'єднання.</text>
+  </string>
+  <string id="st_key_action_use">
+    <text>[$$ACTION_USE$$]</text>
+  </string>
+  <string id="sleep_warning_all_pleasures">
+    <text>ВИСОКИЙ РІВЕНЬ ОПРОМІНЕННЯ, СИЛЬНА КРОВОТЕЧА</text>
+  </string>
+  <string id="sleep_warning_bleeding">
+    <text>СИЛЬНА КРОВОТЕЧА</text>
+  </string>
+  <string id="sleep_warning_radiation">
+    <text>ВИСОКИЙ РІВЕНЬ ОПРОМІНЕННЯ</text>
+  </string>
+  <string id="mlab_week_static_text">
+    <text>ТИЖДЕНЬ ПОТОМУ</text>
+  </string>
+  <string id="mlab_smart_clock">
+    <text>Смартгодинник</text>
+  </string>
+  <string id="mlab_smart_call_info">
+    <text>Вхідний виклик (кабінет Дубініна)</text>
+  </string>
+  <string id="ls_chapter_name">
+    <text>ГЛАВА</text>
+  </string>
+  <string id="ls_TS_chapter_1_name">
+    <text>«Прибуття»</text>
+  </string>
+  <string id="ls_TS_chapter_1_desc">
+    <text>Ви знову в Зоні. Потрібно трохи заробити на Кордоні, роздобути спорядження, заново звикнути до тутешніх правил і рухатися далі. Туди, де цікаво та небезпечно. Туди, де кожен сам за себе.</text>
+  </string>
+  <string id="ls_TS_chapter_2_name">
+    <text>«За Кордоном»</text>
+  </string>
+  <string id="ls_TS_chapter_2_desc">
+    <text>Нова місцевість не надто довго мене чекала. Тепер моє завдання  —  облаштуватися в тутешній місцині та почати заробляти на життя далеко від периметру.</text>
+  </string>
+  <string id="ls_TS_chapter_3_name">
+    <text>«Бандитська долина»</text>
+  </string>
+  <string id="ls_TS_chapter_3_desc">
+    <text>Ніколи б не подумав, що доведеться мати справу зі справжніми бандитами. Сподіваюся, що з цього буде хоч якась користь... чи принаймні залишуся зі своїм.</text>
+  </string>
+  <string id="ls_TS_chapter_4_name">
+    <text>«Володар підземель»</text>
+  </string>
+  <string id="ls_TS_chapter_4_desc">
+    <text>Трухняй мертвий: його колишні друзі напали в найнеочікуваніший момент. Похапцем забіг до якого підземелля під базою бандитів. Зараз треба бути акуратним і намагатися не вляпатися ще кудись.</text>
+  </string>
+  <string id="ls_TS_chapter_5_name">
+    <text>«Трансмутація»</text>
+  </string>
+  <string id="ls_TS_chapter_5_desc">
+    <text>Після бандитських справ трапилася не менше цікава пригода: різноманітна біганина на прохання вчених. Зате платили добре та справно. Завжди б так.</text>
+  </string>
+  <string id="ls_TS_chapter_6_name">
+    <text>«Артефакт смерті»</text>
+  </string>
+  <string id="ls_TS_chapter_6_desc">
+    <text>Околиці Новошепіличів для мене тепер будуть одним з найцікавіших та найзагадковіших місць Зони. Вже на підході я відчув масштаби цих лісових розлогів, і щосекунди перебування тут мені стає все більш моторошно.</text>
+  </string>
+  <string id="ls_TS_chapter_7_name">
+    <text>«У темному затоні криниці»</text>
+  </string>
+  <string id="ls_TS_chapter_7_desc">
+    <text>Переді мною та моїм загоном стоїть завдання з'ясувати причини зникнення зв'язку з територією Янтарю.</text>
+  </string>
+  <string id="ls_TS_chapter_8_name">
+    <text>«Віч-на-віч»</text>
+  </string>
+  <string id="ls_TS_chapter_8_desc">
+    <text>Зникнення професора Дубініна не на жарт схвилювало керівництво НДІ. Мені доручили знайти будь-які зачіпки до його зникнення, або ще краще, його самого.</text>
+  </string>
+  <string id="ls_TS_chapter_9_name">
+    <text>«Розв'язка»</text>
+  </string>
+  <string id="ls_TS_chapter_9_desc">
+    <text>Настав час дізнатися, що приховано в цій підземній лабораторії, хто такі ці найманці на чолі з Термітом і що тут робить професор Дібінін.</text>
+  </string>
+  <string id="agr_composer_task_wait_time">
+    <text>УТРИМУВАТИ ПОЗИЦІЇ</text>
+  </string>
+  <string id="agr_composer_task_wait_controller_zone_time">
+    <text>ТРИВАЄ ВИМІРЮВАННЯ ПСІ-АКТИВНОСТІ</text>
+  </string>
+  <string id="gar_stalker_nimble_order_complete_message_1">
+    <text>Сталкере, замовлення готове. Можеш забирати.</text>
+  </string>
+  <string id="gar_stalker_nimble_order_complete_message_2">
+    <text>Замовлення прибуло, підрулюй.</text>
+  </string>
+  <string id="gar_stalker_nimble_order_complete_message_3">
+    <text>Можеш приходити за товаром, сталкере.</text>
+  </string>
+  <string id="esc_stalker_liar_reward_message">
+    <text>Друже, я домовився з Сидоровичем. Приходь в селище, я віддам твою нагороду. Буду коло багаття з хлопцями.</text>
+  </string>
+  <string id="gar_stalker_google_chrome_actor_leave_message">
+    <text>Не надто ти говіркий, сталкере. Лови як нагороду координати мого сховку. Попутного вітру.</text>
+  </string>
+  <string id="esc_actor_stalker_task_sos_message">
+    <text>Отримано координати джерела сигналу SOS</text>
+  </string>
+  <string id="esc_actor_stalker_task_open_box_message">
+    <text>Ви отримали доступ до речей з особистого ящику Сокири</text>
+  </string>
+  <string id="esc_fake_final_message_box_answer">
+    <text>ВИ ДІЙСНО ХОЧЕТЕ ПОКИНУТИ ЗОНУ? </text>
+  </string>
+  <string id="esc_fake_final_message_box_locked">
+    <text>НАЗАД ДОРОГИ НЕМАЄ!</text>
+  </string>
+  <string id="esc_pre_final_message_title">
+    <text>УВАГА!</text>
+  </string>
+  <string id="esc_pre_final_message_text"><text>ДАЛІ В ІСТОРІЇ НАСТУПАЄ ЧЕРЕДА ВИРІШАЛЬНИХ ПОДІЙ. ПЕРЕКОНАЙТЕСЯ,\nЩО ЗАВЕРШИЛИ ВСІ СВОЇ СПРАВИ, ПЕРШ НІЖ ВІДПРАВИТИСЯ ДАЛІ,\nЩОБ НЕ ВТРАТИТИ ДОСЯГНУТИЙ ПРОГРЕС.\n</text>.
+	</string>
+  <string id="esc_pre_final_message_confirm">
+    <text>ПРОДОВЖИТИ</text>
+  </string>
 </string_table>

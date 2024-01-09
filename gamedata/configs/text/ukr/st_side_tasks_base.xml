@@ -1,140 +1,105 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="side_tasks_dialog_start">
-		<text>Мені потрібна робота. Є що на прикметі? </text>
-	</string>
-
-	<string id="side_tasks_dialog_has_tasks_1">
-		<text>Дещо є:</text>
-	</string>
-
-	<string id="side_tasks_dialog_has_tasks_2">
-		<text>Можу запропонувати наступне:</text>
-	</string>
-
-	<string id="side_tasks_dialog_has_tasks_3">
-		<text>Є ось така робота:</text>
-	</string>
-
-	<string id="side_tasks_dialog_has_tasks_back">
-		<text>Я передумав.</text>
-	</string>
-
-	<string id="side_tasks_dialog_hasnt_tasks_1">
-		<text>На даний момент роботи немає.</text>
-	</string>
-
-	<string id="side_tasks_dialog_hasnt_tasks_2">
-		<text>Поки що нічого не можу запропонувати.</text>
-	</string>
-
-	<string id="side_tasks_dialog_hasnt_tasks_3">
-		<text>Наразі ніякої роботи немає.</text>
-	</string>
-
-	<string id="side_tasks_dialog_hasnt_tasks_back">
-		<text>Зайду іншим разом.</text>
-	</string>
-
-	<string id="side_tasks_dialog_task_take">
-		<text>Я беруся.</text>
-	</string>
-
-	<string id="side_tasks_dialog_task_wont_take">
-		<text>Така робота мені не цікава.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_start">
-		<text>Я з приводу завдання.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_about_task">
-		<text>Про яке завдання йдеться?</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_about_task_cancel">
-		<text>Зайду іншим разом.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_question_task_1">
-		<text>Так, і що з цим завданням?</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_question_task_2">
-		<text>Уважно слухаю.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_question_task_3">
-		<text>Ну, викладай, що там із цим завданням.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_question_task_cancel">
-		<text>Та нічого, зайду іншим разом.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_complete_task">
-		<text>Я його виконав.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_reversed_task">
-		<text>Я відмовляюся виконувати його.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_complete_task_ok_1">
-		<text>Відмінно, а ось і нагорода!</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_complete_task_ok_2">
-		<text>Прекрасно, а ось і винагорода!</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_complete_task_ok_3">
-		<text>Ну, раз так, то тримай за виконану роботу!</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_reversed_task_ok_1">
-		<text>Жаль. Ну, справа твоя, звичайно.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_reversed_task_ok_2">
-		<text>Ну, як хочеш.</text>
-	</string>
-
-	<string id="side_tasks_reward_dialog_reversed_task_ok_3">
-		<text>Господар — пан.</text>
-	</string>
-
-	<string id="side_tasks_type_find_artefact">
-		<text>ПОШУК АРТЕФАКТА</text>
-	</string>
-
-	<string id="side_tasks_type_find_item">
-		<text>ПОШУК ПРЕДМЕТА</text>
-	</string>
-
-	<string id="side_tasks_type_find_uniq">
-		<text>УНІКАЛЬНИЙ ПРЕДМЕТ</text>
-	</string>
-
-	<string id="side_tasks_type_kill_stalker">
-		<text>Вбивство на замовлення</text>
-	</string>
-
-	<string id="side_tasks_type_kill_stalkers">
-		<text>ВБИВСТВО НА ЗАМОВЛЕННЯ</text>
-	</string>
-
-	<string id="side_tasks_type_kill_monster">
-		<text>ВБИВСТВО МУТАНТА</text>
-	</string>
-
-	<string id="side_tasks_type_kill_monsters">
-		<text>ЗАЧИЩЕННЯ ЛІГВА МУТАНТІВ</text>
-	</string>
-
-	<string id="side_tasks_type_monster_part">
-		<text>ЧАСТИНА ТІЛА МОНСТРА</text>
-	</string>
-
+  <string id="side_tasks_dialog_start">
+    <text>Мені потрібна робота. Є що на прикметі? </text>
+  </string>
+  <string id="side_tasks_dialog_has_tasks_1">
+    <text>Дещо є:</text>
+  </string>
+  <string id="side_tasks_dialog_has_tasks_2">
+    <text>Можу запропонувати наступне:</text>
+  </string>
+  <string id="side_tasks_dialog_has_tasks_3">
+    <text>Є ось така робота:</text>
+  </string>
+  <string id="side_tasks_dialog_has_tasks_back">
+    <text>Я передумав.</text>
+  </string>
+  <string id="side_tasks_dialog_hasnt_tasks_1">
+    <text>На даний момент роботи немає.</text>
+  </string>
+  <string id="side_tasks_dialog_hasnt_tasks_2">
+    <text>Поки що нічого не можу запропонувати.</text>
+  </string>
+  <string id="side_tasks_dialog_hasnt_tasks_3">
+    <text>Наразі ніякої роботи немає.</text>
+  </string>
+  <string id="side_tasks_dialog_hasnt_tasks_back">
+    <text>Зайду іншим разом.</text>
+  </string>
+  <string id="side_tasks_dialog_task_take">
+    <text>Я беруся.</text>
+  </string>
+  <string id="side_tasks_dialog_task_wont_take">
+    <text>Така робота мені не цікава.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_start">
+    <text>Я з приводу завдання.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_about_task">
+    <text>Про яке завдання йдеться?</text>
+  </string>
+  <string id="side_tasks_reward_dialog_about_task_cancel">
+    <text>Зайду іншим разом.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_question_task_1">
+    <text>Так, і що з цим завданням?</text>
+  </string>
+  <string id="side_tasks_reward_dialog_question_task_2">
+    <text>Уважно слухаю.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_question_task_3">
+    <text>Ну, викладай, що там із цим завданням.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_question_task_cancel">
+    <text>Та нічого, зайду іншим разом.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_complete_task">
+    <text>Я його виконав.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_reversed_task">
+    <text>Я відмовляюся виконувати його.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_complete_task_ok_1">
+    <text>Відмінно, а ось і нагорода!</text>
+  </string>
+  <string id="side_tasks_reward_dialog_complete_task_ok_2">
+    <text>Прекрасно, а ось і винагорода!</text>
+  </string>
+  <string id="side_tasks_reward_dialog_complete_task_ok_3">
+    <text>Ну, раз так, то тримай за виконану роботу!</text>
+  </string>
+  <string id="side_tasks_reward_dialog_reversed_task_ok_1">
+    <text>Жаль. Ну, справа твоя, звичайно.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_reversed_task_ok_2">
+    <text>Ну, як хочеш.</text>
+  </string>
+  <string id="side_tasks_reward_dialog_reversed_task_ok_3">
+    <text>Господар — пан.</text>
+  </string>
+  <string id="side_tasks_type_find_artefact">
+    <text>ПОШУК АРТЕФАКТА</text>
+  </string>
+  <string id="side_tasks_type_find_item">
+    <text>ПОШУК ПРЕДМЕТА</text>
+  </string>
+  <string id="side_tasks_type_find_uniq">
+    <text>УНІКАЛЬНИЙ ПРЕДМЕТ</text>
+  </string>
+  <string id="side_tasks_type_kill_stalker">
+    <text>Вбивство на замовлення</text>
+  </string>
+  <string id="side_tasks_type_kill_stalkers">
+    <text>ВБИВСТВО НА ЗАМОВЛЕННЯ</text>
+  </string>
+  <string id="side_tasks_type_kill_monster">
+    <text>ВБИВСТВО МУТАНТА</text>
+  </string>
+  <string id="side_tasks_type_kill_monsters">
+    <text>ЗАЧИЩЕННЯ ЛІГВА МУТАНТІВ</text>
+  </string>
+  <string id="side_tasks_type_monster_part">
+    <text>ЧАСТИНА ТІЛА МОНСТРА</text>
+  </string>
 </string_table>

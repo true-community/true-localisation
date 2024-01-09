@@ -1,432 +1,324 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="st_hidden_place">
-		<text>Неизведанная территория</text>
-	</string>
-
-	<string id="st_hidden_place_inspected">
-		<text>ИССЛЕДОВАНА ТЕРРИТОРИЯ</text>
-	</string>
-
-	<string id="st_agr_inspect_zone_1">
-		<text>Аномальный тоннель</text>
-	</string>
-
-	<string id="st_agr_inspect_zone_2">
-		<text>Кабаний форпост</text>
-	</string>
-
-	<string id="st_agr_inspect_zone_3">
-		<text>Мёртвая поляна</text>
-	</string>
-
-	<string id="st_agr_inspect_zone_4">
-		<text>Лес</text>
-	</string>
-
-	<string id="st_agr_inspect_zone_5">
-		<text>ЦКП «Боровик»</text>
-	</string>
-
-	<string id="st_agr_inspect_zone_6">
-		<text>Аномальное плато</text>
-	</string>
-
-	<string id="st_agr_inspect_zone_7">
-		<text>Ржавое озеро</text>
-	</string>
-
-	<string id="st_agr_inspect_zone_8">
-		<text>НИИ «Агропром»</text>
-	</string>
-
-	<string id="st_agr_inspect_zone_9">
-		<text>Аномальное поле</text>
-	</string>
-
-	<string id="st_agr_inspect_zone_10">
-		<text>Аномалия «Каторга»</text>
-	</string>
-
-	<string id="st_bar_inspect_zone_1">
-		<text>Гараж</text>
-	</string>
-
-	<string id="st_bar_inspect_zone_2">
-		<text>Западный блокпост</text>
-	</string>
-
-	<string id="st_bar_inspect_zone_3">
-		<text>База «Долга»</text>
-	</string>
-
-	<string id="st_bar_inspect_zone_4">
-		<text>Арена</text>
-	</string>
-
-	<string id="st_bar_inspect_zone_5">
-		<text>Бар «100 рентген»</text>
-	</string>
-
-	<string id="st_bar_inspect_zone_6">
-		<text>Южный блокпост</text>
-	</string>
-
-	<string id="st_bar_inspect_zone_7">
-		<text>Привал</text>
-	</string>
-
-	<string id="st_bar_inspect_zone_8">
-		<text>Собачья переправа</text>
-	</string>
-
-	<string id="st_val_inspect_zone_1">
-		<text>Ферма</text>
-	</string>
-
-	<string id="st_val_inspect_zone_2">
-		<text>Аномалия «Телеграф»</text>
-	</string>
-
-	<string id="st_val_inspect_zone_3">
-		<text>Зверинец</text>
-	</string>
-
-	<string id="st_val_inspect_zone_4">
-		<text>Аномальное болото</text>
-	</string>
-
-	<string id="st_val_inspect_zone_5">
-		<text>Западный блокпост</text>
-	</string>
-
-	<string id="st_val_inspect_zone_6">
-		<text>Остановка</text>
-	</string>
-
-	<string id="st_val_inspect_zone_7">
-		<text>Завод</text>
-	</string>
-
-	<string id="st_val_inspect_zone_8">
-		<text>Берег реки</text>
-	</string>
-
-	<string id="st_val_inspect_zone_9">
-		<text>База бандитов</text>
-	</string>
-
-	<string id="st_val_inspect_zone_10">
-		<text>Заправка</text>
-	</string>
-
-	<string id="st_val_inspect_zone_11">
-		<text>Аномалия «Тихие зори»</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_1">
-		<text>Блокпост «Дитятки»</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_2">
-		<text>Тоннель на Болота</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_3">
-		<text>Деревня новичков</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_4">
-		<text>Радиоактивное болото</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_5">
-		<text>Аномальный переход</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_6">
-		<text>Элеватор</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_7">
-		<text>АТП</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_8">
-		<text>Аномальный тоннель</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_9">
-		<text>Форпост</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_10">
-		<text>Электрический тоннель</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_11">
-		<text>Нижний хутор</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_12">
-		<text>Аномальный тепловоз</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_13">
-		<text>Тайный переход</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_14">
-		<text>Ферма</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_15">
-		<text>Верхний хутор</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_16">
-		<text>«Грузовик смерти»</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_17">
-		<text>Лесопилка</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_18">
-		<text>Аномалия «Пекло»</text>
-	</string>
-
-	<string id="st_esc_inspect_zone_19">
-		<text>КПП</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_1">
-		<text>Военная база</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_2">
-		<text>Тир</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_3">
-		<text>Минное поле</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_4">
-		<text>Болотце</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_5">
-		<text>Барьер</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_6">
-		<text>Труднодоступный вертолёт</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_7">
-		<text>Северный хутор</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_8">
-		<text>КПП</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_9">
-		<text>«Кровососовка»</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_10">
-		<text>Южный вход</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_11">
-		<text>Привал мастеров</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_12">
-		<text>Южный хутор</text>
-	</string>
-
-	<string id="st_mil_inspect_zone_13">
-		<text>Аномальный трактор</text>
-	</string>
-
-	<string id="st_yan_inspect_zone_1">
-		<text>Привал</text>
-	</string>
-
-	<string id="st_yan_inspect_zone_2">
-		<text>Провал</text>
-	</string>
-
-	<string id="st_yan_inspect_zone_3">
-		<text>Аномалия «Смрад»</text>
-	</string>
-
-	<string id="st_yan_inspect_zone_4">
-		<text>Завод «Янтарь»</text>
-	</string>
-
-	<string id="st_yan_inspect_zone_5">
-		<text>Аномалия «Котёл»</text>
-	</string>
-
-	<string id="st_yan_inspect_zone_6">
-		<text>Плато</text>
-	</string>
-
-	<string id="st_yan_inspect_zone_7">
-		<text>Бункер учёных</text>
-	</string>
-
-	<string id="st_yan_inspect_zone_8">
-		<text>Озеро «Янтарь»</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_1">
-		<text>Аномальное хранилище</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_2">
-		<text>Деревня «Новошепеличи»</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_3">
-		<text>Бар</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_4">
-		<text>Остановка</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_5">
-		<text>Научно-военная база</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_6">
-		<text>Привал охотников</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_7">
-		<text>Нефтебаза</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_8">
-		<text>Научный комплекс «Бассейн»</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_9">
-		<text>Болотце</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_10">
-		<text>Поля</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_11">
-		<text>Аномалия «Сахара»</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_12">
-		<text>Тоннель на Кордон</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_13">
-		<text>КПП</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_14">
-		<text>Переезд</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_15">
-		<text>Семиходский мост</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_16">
-		<text>Перевал у моста</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_17">
-		<text>Палаточный лагерь</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_18">
-		<text>Неудачная переправа</text>
-	</string>
-
-	<string id="st_nsp_inspect_zone_19">
-		<text>Аномалия «Погост»</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_1">
-		<text>Остов деревни</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_2">
-		<text>Болото у подстанции</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_3">
-		<text>Загадочный лес</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_4">
-		<text>Кладбище техники</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_5">
-		<text>Аномальный форпост</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_6">
-		<text>Кладбище вертолётов</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_7">
-		<text>Привал на обочине</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_8">
-		<text>ДЕПО</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_9">
-		<text>Стоянка бандитов</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_10">
-		<text>Тоннель</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_11">
-		<text>Аномалия «Тесла»</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_12">
-		<text>Застава «Долга»</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_13">
-		<text>Аномалия «Поле»</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_14">
-		<text>Лагерь в камнях</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_15">
-		<text>Лесополоса</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_16">
-		<text>Барахолка</text>
-	</string>
-
-	<string id="st_gar_inspect_zone_17">
-		<text>Аномалия «Мусорка»</text>
-	</string>
-
+  <string id="st_hidden_place">
+    <text>Неизведанная территория</text>
+  </string>
+  <string id="st_hidden_place_inspected">
+    <text>ИССЛЕДОВАНА ТЕРРИТОРИЯ</text>
+  </string>
+  <string id="st_agr_inspect_zone_1">
+    <text>Аномальный тоннель</text>
+  </string>
+  <string id="st_agr_inspect_zone_2">
+    <text>Кабаний форпост</text>
+  </string>
+  <string id="st_agr_inspect_zone_3">
+    <text>Мёртвая поляна</text>
+  </string>
+  <string id="st_agr_inspect_zone_4">
+    <text>Лес</text>
+  </string>
+  <string id="st_agr_inspect_zone_5">
+    <text>ЦКП «Боровик»</text>
+  </string>
+  <string id="st_agr_inspect_zone_6">
+    <text>Аномальное плато</text>
+  </string>
+  <string id="st_agr_inspect_zone_7">
+    <text>Ржавое озеро</text>
+  </string>
+  <string id="st_agr_inspect_zone_8">
+    <text>НИИ «Агропром»</text>
+  </string>
+  <string id="st_agr_inspect_zone_9">
+    <text>Аномальное поле</text>
+  </string>
+  <string id="st_agr_inspect_zone_10">
+    <text>Аномалия «Каторга»</text>
+  </string>
+  <string id="st_bar_inspect_zone_1">
+    <text>Гараж</text>
+  </string>
+  <string id="st_bar_inspect_zone_2">
+    <text>Западный блокпост</text>
+  </string>
+  <string id="st_bar_inspect_zone_3">
+    <text>База «Долга»</text>
+  </string>
+  <string id="st_bar_inspect_zone_4">
+    <text>Арена</text>
+  </string>
+  <string id="st_bar_inspect_zone_5">
+    <text>Бар «100 рентген»</text>
+  </string>
+  <string id="st_bar_inspect_zone_6">
+    <text>Южный блокпост</text>
+  </string>
+  <string id="st_bar_inspect_zone_7">
+    <text>Привал</text>
+  </string>
+  <string id="st_bar_inspect_zone_8">
+    <text>Собачья переправа</text>
+  </string>
+  <string id="st_val_inspect_zone_1">
+    <text>Ферма</text>
+  </string>
+  <string id="st_val_inspect_zone_2">
+    <text>Аномалия «Телеграф»</text>
+  </string>
+  <string id="st_val_inspect_zone_3">
+    <text>Зверинец</text>
+  </string>
+  <string id="st_val_inspect_zone_4">
+    <text>Аномальное болото</text>
+  </string>
+  <string id="st_val_inspect_zone_5">
+    <text>Западный блокпост</text>
+  </string>
+  <string id="st_val_inspect_zone_6">
+    <text>Остановка</text>
+  </string>
+  <string id="st_val_inspect_zone_7">
+    <text>Завод</text>
+  </string>
+  <string id="st_val_inspect_zone_8">
+    <text>Берег реки</text>
+  </string>
+  <string id="st_val_inspect_zone_9">
+    <text>База бандитов</text>
+  </string>
+  <string id="st_val_inspect_zone_10">
+    <text>Заправка</text>
+  </string>
+  <string id="st_val_inspect_zone_11">
+    <text>Аномалия «Тихие зори»</text>
+  </string>
+  <string id="st_esc_inspect_zone_1">
+    <text>Блокпост «Дитятки»</text>
+  </string>
+  <string id="st_esc_inspect_zone_2">
+    <text>Тоннель на Болота</text>
+  </string>
+  <string id="st_esc_inspect_zone_3">
+    <text>Деревня новичков</text>
+  </string>
+  <string id="st_esc_inspect_zone_4">
+    <text>Радиоактивное болото</text>
+  </string>
+  <string id="st_esc_inspect_zone_5">
+    <text>Аномальный переход</text>
+  </string>
+  <string id="st_esc_inspect_zone_6">
+    <text>Элеватор</text>
+  </string>
+  <string id="st_esc_inspect_zone_7">
+    <text>АТП</text>
+  </string>
+  <string id="st_esc_inspect_zone_8">
+    <text>Аномальный тоннель</text>
+  </string>
+  <string id="st_esc_inspect_zone_9">
+    <text>Форпост</text>
+  </string>
+  <string id="st_esc_inspect_zone_10">
+    <text>Электрический тоннель</text>
+  </string>
+  <string id="st_esc_inspect_zone_11">
+    <text>Нижний хутор</text>
+  </string>
+  <string id="st_esc_inspect_zone_12">
+    <text>Аномальный тепловоз</text>
+  </string>
+  <string id="st_esc_inspect_zone_13">
+    <text>Тайный переход</text>
+  </string>
+  <string id="st_esc_inspect_zone_14">
+    <text>Ферма</text>
+  </string>
+  <string id="st_esc_inspect_zone_15">
+    <text>Верхний хутор</text>
+  </string>
+  <string id="st_esc_inspect_zone_16">
+    <text>«Грузовик смерти»</text>
+  </string>
+  <string id="st_esc_inspect_zone_17">
+    <text>Лесопилка</text>
+  </string>
+  <string id="st_esc_inspect_zone_18">
+    <text>Аномалия «Пекло»</text>
+  </string>
+  <string id="st_esc_inspect_zone_19">
+    <text>КПП</text>
+  </string>
+  <string id="st_mil_inspect_zone_1">
+    <text>Военная база</text>
+  </string>
+  <string id="st_mil_inspect_zone_2">
+    <text>Тир</text>
+  </string>
+  <string id="st_mil_inspect_zone_3">
+    <text>Минное поле</text>
+  </string>
+  <string id="st_mil_inspect_zone_4">
+    <text>Болотце</text>
+  </string>
+  <string id="st_mil_inspect_zone_5">
+    <text>Барьер</text>
+  </string>
+  <string id="st_mil_inspect_zone_6">
+    <text>Труднодоступный вертолёт</text>
+  </string>
+  <string id="st_mil_inspect_zone_7">
+    <text>Северный хутор</text>
+  </string>
+  <string id="st_mil_inspect_zone_8">
+    <text>КПП</text>
+  </string>
+  <string id="st_mil_inspect_zone_9">
+    <text>«Кровососовка»</text>
+  </string>
+  <string id="st_mil_inspect_zone_10">
+    <text>Южный вход</text>
+  </string>
+  <string id="st_mil_inspect_zone_11">
+    <text>Привал мастеров</text>
+  </string>
+  <string id="st_mil_inspect_zone_12">
+    <text>Южный хутор</text>
+  </string>
+  <string id="st_mil_inspect_zone_13">
+    <text>Аномальный трактор</text>
+  </string>
+  <string id="st_yan_inspect_zone_1">
+    <text>Привал</text>
+  </string>
+  <string id="st_yan_inspect_zone_2">
+    <text>Провал</text>
+  </string>
+  <string id="st_yan_inspect_zone_3">
+    <text>Аномалия «Смрад»</text>
+  </string>
+  <string id="st_yan_inspect_zone_4">
+    <text>Завод «Янтарь»</text>
+  </string>
+  <string id="st_yan_inspect_zone_5">
+    <text>Аномалия «Котёл»</text>
+  </string>
+  <string id="st_yan_inspect_zone_6">
+    <text>Плато</text>
+  </string>
+  <string id="st_yan_inspect_zone_7">
+    <text>Бункер учёных</text>
+  </string>
+  <string id="st_yan_inspect_zone_8">
+    <text>Озеро «Янтарь»</text>
+  </string>
+  <string id="st_nsp_inspect_zone_1">
+    <text>Аномальное хранилище</text>
+  </string>
+  <string id="st_nsp_inspect_zone_2">
+    <text>Деревня «Новошепеличи»</text>
+  </string>
+  <string id="st_nsp_inspect_zone_3">
+    <text>Бар</text>
+  </string>
+  <string id="st_nsp_inspect_zone_4">
+    <text>Остановка</text>
+  </string>
+  <string id="st_nsp_inspect_zone_5">
+    <text>Научно-военная база</text>
+  </string>
+  <string id="st_nsp_inspect_zone_6">
+    <text>Привал охотников</text>
+  </string>
+  <string id="st_nsp_inspect_zone_7">
+    <text>Нефтебаза</text>
+  </string>
+  <string id="st_nsp_inspect_zone_8">
+    <text>Научный комплекс «Бассейн»</text>
+  </string>
+  <string id="st_nsp_inspect_zone_9">
+    <text>Болотце</text>
+  </string>
+  <string id="st_nsp_inspect_zone_10">
+    <text>Поля</text>
+  </string>
+  <string id="st_nsp_inspect_zone_11">
+    <text>Аномалия «Сахара»</text>
+  </string>
+  <string id="st_nsp_inspect_zone_12">
+    <text>Тоннель на Кордон</text>
+  </string>
+  <string id="st_nsp_inspect_zone_13">
+    <text>КПП</text>
+  </string>
+  <string id="st_nsp_inspect_zone_14">
+    <text>Переезд</text>
+  </string>
+  <string id="st_nsp_inspect_zone_15">
+    <text>Семиходский мост</text>
+  </string>
+  <string id="st_nsp_inspect_zone_16">
+    <text>Перевал у моста</text>
+  </string>
+  <string id="st_nsp_inspect_zone_17">
+    <text>Палаточный лагерь</text>
+  </string>
+  <string id="st_nsp_inspect_zone_18">
+    <text>Неудачная переправа</text>
+  </string>
+  <string id="st_nsp_inspect_zone_19">
+    <text>Аномалия «Погост»</text>
+  </string>
+  <string id="st_gar_inspect_zone_1">
+    <text>Остов деревни</text>
+  </string>
+  <string id="st_gar_inspect_zone_2">
+    <text>Болото у подстанции</text>
+  </string>
+  <string id="st_gar_inspect_zone_3">
+    <text>Загадочный лес</text>
+  </string>
+  <string id="st_gar_inspect_zone_4">
+    <text>Кладбище техники</text>
+  </string>
+  <string id="st_gar_inspect_zone_5">
+    <text>Аномальный форпост</text>
+  </string>
+  <string id="st_gar_inspect_zone_6">
+    <text>Кладбище вертолётов</text>
+  </string>
+  <string id="st_gar_inspect_zone_7">
+    <text>Привал на обочине</text>
+  </string>
+  <string id="st_gar_inspect_zone_8">
+    <text>ДЕПО</text>
+  </string>
+  <string id="st_gar_inspect_zone_9">
+    <text>Стоянка бандитов</text>
+  </string>
+  <string id="st_gar_inspect_zone_10">
+    <text>Тоннель</text>
+  </string>
+  <string id="st_gar_inspect_zone_11">
+    <text>Аномалия «Тесла»</text>
+  </string>
+  <string id="st_gar_inspect_zone_12">
+    <text>Застава «Долга»</text>
+  </string>
+  <string id="st_gar_inspect_zone_13">
+    <text>Аномалия «Поле»</text>
+  </string>
+  <string id="st_gar_inspect_zone_14">
+    <text>Лагерь в камнях</text>
+  </string>
+  <string id="st_gar_inspect_zone_15">
+    <text>Лесополоса</text>
+  </string>
+  <string id="st_gar_inspect_zone_16">
+    <text>Барахолка</text>
+  </string>
+  <string id="st_gar_inspect_zone_17">
+    <text>Аномалия «Мусорка»</text>
+  </string>
 </string_table>

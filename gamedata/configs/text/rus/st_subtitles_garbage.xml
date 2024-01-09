@@ -1,952 +1,714 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="st_gar_corvalol_angry_1">
-		<text>Эй, не мешай мне.\nСейчас закончу.</text>
-	</string>
-
-	<string id="st_gar_corvalol_angry_2">
-		<text>Мужик, отвали.\nДай дело закончить!</text>
-	</string>
-
-	<string id="st_gar_corvalol_angry_3">
-		<text>Я не могу сейчас болтать.\nНе видишь, что ли?</text>
-	</string>
-
-	<string id="st_gar_corvalol_angry_4">
-		<text>Я занят. Позже поговорим.</text>
-	</string>
-
-	<string id="st_gar_corvalol_first_meet">
-		<text>Ну, я тебя слушаю.</text>
-	</string>
-
-	<string id="st_gar_corvalol_good_luck">
-		<text>Удачи тебе!</text>
-	</string>
-
-	<string id="st_gar_corvalol_kombez_1">
-		<text>Ай, твою мать!</text>
-	</string>
-
-	<string id="st_gar_corvalol_kombez_2">
-		<text>За сорок кусков комбез, блин!</text>
-	</string>
-
-	<string id="st_gar_actor_baraholka_phrase_1">
-		<text>Юрок, приём.</text>
-	</string>
-
-	<string id="st_gar_actor_baraholka_phrase_2">
-		<text>Юрок... Ты здесь?</text>
-	</string>
-
-	<string id="st_gar_actor_baraholka_phrase_3">
-		<text>Напился, что ли, опять? Приём!</text>
-	</string>
-
-	<string id="st_gar_actor_baraholka_phrase_4_1">
-		<text>Нужно вывести из Зоны\nодного человека.</text>
-	</string>
-
-	<string id="st_gar_actor_baraholka_phrase_4_2">
-		<text>Платит щедро. Возьмёшься?</text>
-	</string>
-
-	<string id="st_gar_jurok_desertir_raciya_1">
-		<text>Топор, здорово. Случилось чего?</text>
-	</string>
-
-	<string id="st_gar_jurok_desertir_raciya_2">
-		<text>А почему нет? Кидай координаты.</text>
-	</string>
-
-	<string id="st_gar_jurok_desertir_start">
-		<text>Ну что, служивый, готов? Почапали.</text>
-	</string>
-
-	<string id="st_gar_dolg_zastava_soldier_danger_1">
-		<text>Ой, чую я, братцы:</text>
-	</string>
-
-	<string id="st_gar_dolg_zastava_soldier_danger_2">
-		<text>нехорошее скоро будет что-то,\nой нехорошее.</text>
-	</string>
-
-	<string id="st_gar_drunk_medic_bye_1">
-		<text>Всего наилучшего.</text>
-	</string>
-
-	<string id="st_gar_drunk_medic_bye_2">
-		<text>Пока.</text>
-	</string>
-
-	<string id="st_gar_drunk_medic_bye_3">
-		<text>Бывай.</text>
-	</string>
-
-	<string id="st_gar_drunk_medic_hello_1">
-		<text>Привет, сталкер.</text>
-	</string>
-
-	<string id="st_gar_drunk_medic_hello_2">
-		<text>Ну, здравствуй, сталкер.\nС чем пожаловал?</text>
-	</string>
-
-	<string id="st_gar_drunk_medic_hello_3">
-		<text>Привет, сталкер. Что нового?</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bye_1">
-		<text>Ну, бывай.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bye_2">
-		<text>Всего доброго, сталкер.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bye_3">
-		<text>До встречи.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bye_4">
-		<text>Увидимся.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_hello_1">
-		<text>Приветствую, сталкер.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_hello_2">
-		<text>Чего тебе, сталкер?</text>
-	</string>
-
-	<string id="st_gar_dyatlov_hello_3">
-		<text>Слушаю.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_hello_4">
-		<text>Я весь внимание.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_radio_ok">
-		<text>Принял, боец. Конец связи.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_actor_fail_1">
-		<text>Чеши, чеши, крыса.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_actor_fail_2">
-		<text>Мир тесен. Помни об этом!</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_robbery_1">
-		<text>Ну здравстуй, сталкер.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_robbery_2">
-		<text>Помнишь, о чём я тебе говорил?</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_robbery_3">
-		<text>Вот мы и встретились.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_robbery_4">
-		<text>Сейчас ты мне, сука, всё вернёшь, выродок.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_robbery_5">
-		<text>Мужики, валим его!</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_angry_meet">
-		<text>Чё прицепился? Проваливай!</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_bye_1">
-		<text>Попутного ветра.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_bye_2">
-		<text>До встречи.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_hello_1">
-		<text>Здоров, мужик.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_hello_2">
-		<text>Приветствую.</text>
-	</string>
-
-	<string id="st_gar_stalker_messenger_help">
-		<text>Мужики, выручайте! Меня сейчас тут собаки порвут.</text>
-	</string>
-
-	<string id="st_gar_drunk_medic_start_message">
-		<text>Привет. Я тут устроился на базе. Заглядывай, похмелимся.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_speak_rac_1">
-		<text>Мыслав, приём!\nТы на Свалке?</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_speak_rac_2">
-		<text>Да-да? Патрон, я тут.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_speak_rac_3_1">
-		<text>Здорово.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_speak_rac_3_2">
-		<text>Я тебе сейчас сталкера пришлю.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_speak_rac_3_3">
-		<text>Растолкуй про наше дело. Годится?</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_speak_rac_4">
-		<text>Понял. Сгодится.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_start_meet">
-		<text>Ты чего трёшься тут?\nХотел чего-то?</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_wait_trader_1">
-		<text>Подруливай в другой раз:\nторговец пока не может подойти.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_wait_trader_2">
-		<text>Торговец ещё не освободился.</text>
-	</string>
-
-	<string id="st_gar_stalker_base_ohrannik_wait_trader_3">
-		<text>Подходи позже.\nТорговец ещё занят.</text>
-	</string>
-
-	<string id="st_gar_trader_sms_after_katakomb_1">
-		<text>Топор, ёкарный бабай, ты где был?</text>
-	</string>
-
-	<string id="st_gar_trader_sms_after_katakomb_2">
-		<text>Я уже подумал, ты сквозанул с моими артефактами.</text>
-	</string>
-
-	<string id="st_gar_trader_sms_after_katakomb_3">
-		<text>Давай, дуй на базу, быстро.</text>
-	</string>
-
-	<string id="st_gar_trader_darkvalley_message_1">
-		<text>Сталкер, я отлучусь на какое-то время. Займись пока кейсом.</text>
-	</string>
-
-	<string id="st_gar_trader_darkvalley_message_2">
-		<text>Появлюсь - маякну.</text>
-	</string>
-
-	<string id="st_gar_trader_primary_task_1_1">
-		<text>Топор, есть неотложный разговор.</text>
-	</string>
-
-	<string id="st_gar_trader_primary_task_1_2">
-		<text>Бегом ко мне, срочно!</text>
-	</string>
-
-	<string id="st_gar_trader_primary_task_2_1">
-		<text>Сталкер, тут кое-какая проблема появилась.</text>
-	</string>
-
-	<string id="st_gar_trader_primary_task_2_2">
-		<text>Загляни ко мне на досуге: узнать кое-что надо.</text>
-	</string>
-
-	<string id="st_gar_trader_second_actor_bye_1">
-		<text>Чеши давай!</text>
-	</string>
-
-	<string id="st_gar_trader_second_actor_bye_2">
-		<text>Без дела меня не отвлекай!</text>
-	</string>
-
-	<string id="st_gar_trader_second_actor_bye_3">
-		<text>Иди откуда пришёл, а?\nНе мельтеши!</text>
-	</string>
-
-	<string id="st_gar_trader_second_actor_hello_1">
-		<text>Чего тебе?</text>
-	</string>
-
-	<string id="st_gar_trader_second_actor_hello_2">
-		<text>Давай говори, только быстро.</text>
-	</string>
-
-	<string id="st_gar_trader_second_actor_hello_3">
-		<text>Да не стой ты над душой.\nГовори быстрее!</text>
-	</string>
-
-	<string id="st_gar_trader_second_actor_first_meet">
-		<text>Снова залётный у нас.\nНу, чего надо?</text>
-	</string>
-
-	<string id="st_gar_trader_surge_start_1">
-		<text>Внимание всем: приближается выброс. Прячьте свои задницы, если жить ещё не надоело.</text>
-	</string>
-
-	<string id="st_gar_trader_surge_start_2">
-		<text>Сталкерня, тут выброс намечается. Бегом в укрытия, бегом!</text>
-	</string>
-
-	<string id="st_gar_trader_surge_start_3">
-		<text>Внимание: судя по показаниям приборов, начинается выброс. В укрытия: с каждой минутой шансов у вас всё меньше!</text>
-	</string>
-
-	<string id="st_gar_trader_surge_in_process_1">
-		<text>Ну, сейчас начнётся. Не высовывайтесь из укрытий!</text>
-	</string>
-
-	<string id="st_gar_trader_surge_in_process_2">
-		<text>Через минуту накроет. Прячьте задницы, сталкеры!</text>
-	</string>
-
-	<string id="st_gar_trader_surge_in_process_3">
-		<text>Рванёт буквально через пару мгновений. Не суйтесь никуда!</text>
-	</string>
-
-	<string id="st_gar_trader_surge_compl_1">
-		<text>Всё, выброс закончился. Выползайте из убежищ.</text>
-	</string>
-
-	<string id="st_gar_trader_surge_compl_2">
-		<text>Стихийные бедствия нас миновали! Если кого потрепало, заходите к нам: поставим на ноги.</text>
-	</string>
-
-	<string id="st_gar_trader_surge_compl_2_cc">
-		<text>Стихийные бедствия нас миновали! [смех] Если кого потрепало, заходите к нам: поставим на ноги.</text>
-	</string>
-
-	<string id="st_gar_trader_surge_compl_3">
-		<text>Ну всё, народ. Выброс закончился. За работу!</text>
-	</string>
-
-	<string id="st_gar_stalker_messenger_bye_1">
-		<text>До встречи.</text>
-	</string>
-
-	<string id="st_gar_stalker_messenger_bye_2">
-		<text>Счастливо.</text>
-	</string>
-
-	<string id="st_gar_stalker_messenger_bye_3">
-		<text>Всего хорошего.</text>
-	</string>
-
-	<string id="st_gar_stalker_messenger_hello_1">
-		<text>Какие новости, сталкер?</text>
-	</string>
-
-	<string id="st_gar_stalker_messenger_hello_2">
-		<text>Живой? Это хорошо.</text>
-	</string>
-
-	<string id="st_gar_stalker_messenger_hello_3">
-		<text>Рад видеть!</text>
-	</string>
-
-	<string id="st_gar_stalker_messenger_thanx_1">
-		<text>Спасибо, дружище! Выручил меня.</text>
-	</string>
-
-	<string id="st_gar_stalker_messenger_thanx_2">
-		<text>Одной ногой на том свете уже стоял.</text>
-	</string>
-
-	<string id="st_gar_stalker_messenger_thanx_3">
-		<text>Ты от Патрона, да?</text>
-	</string>
-
-	<string id="st_gar_forest_aver_final">
-		<text>Хрен тебе, а не повышение! На дне колодца теперь гнить будешь!</text>
-	</string>
-
-	<string id="st_gar_forest_aver_phrase_1">
-		<text>Ну что, допрыгался? Повышения захотел? Да кто ты вообще такой? Что ты сделал для «Долга»?</text>
-	</string>
-
-	<string id="st_gar_forest_stecurin">
-		<text>Стой и не дёргайся, тварь.</text>
-	</string>
-
-	<string id="st_gar_actor_kladbishe_phrase_1">
-		<text>Пацаны, здорово. У вас водички не найдётся?</text>
-	</string>
-
-	<string id="st_gar_actor_kladbishe_phrase_2">
-		<text>А это чё, не лагерь сталкеров?</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_1_1">
-		<text>Я тебе отвечаю,</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_1_2">
-		<text>сталкеры будут для нас\nнехилые бабки подымать!</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_1_3">
-		<text>Пошлём их к аномалии</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_1_4">
-		<text>и пусть артефакты рыщат,\nесли жить хотят!</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_2">
-		<text>Красава!</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_2_cc">
-		<text>Красава! [смех]</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_3_1">
-		<text>Э, алкашня!</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_3_2">
-		<text>Ты хоть знаешь,\nкуда пришёл, сучара?</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_4_1">
-		<text>Ну, типа того!</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_4_1_cc">
-		<text>[смех] Ну, типа того!</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_4_2">
-		<text>Пацаны, вяжите его!</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_1_phrase_4_3">
-		<text>Ещё одного лошка нашли.</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_2_phrase_1_1">
-		<text>Да ёпта, я и не сомневался!</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_2_phrase_1_2">
-		<text>Теперь точно тачилу себе куплю.</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_2_phrase_1_3">
-		<text>Заниженную такую, с музычкой.</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_2_phrase_1_4">
-		<text>Все бабы мои будут.</text>
-	</string>
-
-	<string id="st_gar_bandit_speaker_2_phrase_2">
-		<text>О, смотри!\nЧё за чепушила сюда колёса катит?</text>
-	</string>
-
-	<string id="st_gar_actor_hunt_bloodsucker_danger">
-		<text>Твою ж мать!</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_bye_1">
-		<text>Удачной ходки тебе, сталкер.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_bye_2">
-		<text>Я, конечно, не психолог,\nно будет грустно — заходи.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_bye_3">
-		<text>Давай-давай. До встречи.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_dies_1">
-		<text>Хреново... Очень хреново...</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_dies_2">
-		<text>Послушай:</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_dies_3">
-		<text>у меня в убежище лежат записи.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_dies_4">
-		<text>Передай их Дубинину\nв научный комплекс на Агропроме.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_dies_5">
-		<text>Скажи, что я просчитался.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_get_out_artefact_1">
-		<text>Мы на месте.\nГотовь артефакт.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_get_out_artefact_2">
-		<text>Только смотри,\nбез резких движений.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_get_out_artefact_3">
-		<text>Иди за мной след-в-след, понял?</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_hit_cc">
-		<text>[крик от боли]</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_see_snorks_1">
-		<text>Чёрт, а снорки-то тут откуда взялись?</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_see_snorks_2">
-		<text>Так, надо медленно по-тихому отсюда уходить.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_see_snorks_3">
-		<text>За мной.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_final_task_what_happened">
-		<text>Что случилось?</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_hello_1">
-		<text>Ну, привет, сталкер!</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_hello_2">
-		<text>Ну что,\nопять тебя Зона потрепала?</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_hello_3">
-		<text>Давай-давай, заходи.\nНе стесняйся.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_monolog_1">
-		<text>Не бойся:\nон полностью безопасен.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_monolog_2">
-		<text>Как видишь, результат\nмоих увлечений может удивлять.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_monolog_3">
-		<text>Ну ты как?</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_monolog_4">
-		<text>Я тебя немного подлатал.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_monolog_5">
-		<text>Через пару дней\nбудешь как новенький!</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_monolog_6">
-		<text>В качестве компенсации я оставлю тебе\nключ от моей бендежки и доплачу немного.</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_monolog_7">
-		<text>Как придёшь в себя,\nприходи в лагерь сталкеров —</text>
-	</string>
-
-	<string id="st_gar_stalker_medic_monolog_8">
-		<text>поговорим ещё.</text>
-	</string>
-
-	<string id="st_gar_mishgan_record_1">
-		<text>Придётся отбивать своих друзей в одиночку.</text>
-	</string>
-
-	<string id="st_gar_mishgan_record_2">
-		<text>Кого бы ни просил, все отказались мне помочь.</text>
-	</string>
-
-	<string id="st_gar_mishgan_record_3">
-		<text>Но и бросить мужиков я не могу: столько с ними Зону топтали.</text>
-	</string>
-
-	<string id="st_gar_mishgan_record_4">
-		<text>Надеюсь, эту запись никто не услышит, и всё пройдёт гладко.</text>
-	</string>
-
-	<string id="st_gar_mishgan_record_5">
-		<text>А если нет, то передайте мой ПДА в деревню новичков. Там для моих есть послание.</text>
-	</string>
-
-	<string id="st_gar_mishgan_record_6_cc">
-		<text>[выдох]</text>
-	</string>
-
-	<string id="st_gar_mishgan_record_7">
-		<text>Ну всё, я пошёл.</text>
-	</string>
-
-	<string id="st_gar_friend_mishgan_1_thanx">
-		<text>Спасибо, дружище!</text>
-	</string>
-
-	<string id="st_gar_friend_mishgan_1_thanx_actor">
-		<text>Мужик, спасибо тебе огромное!</text>
-	</string>
-
-	<string id="st_gar_friend_mishgan_2_thanx">
-		<text>Ох, спасибо.</text>
-	</string>
-
-	<string id="st_gar_friend_mishgan_2_thanx_actor">
-		<text>Спасибо, мужик.</text>
-	</string>
-
-	<string id="st_gar_mishgan_begin_leave">
-		<text>Вставайте, мужики!\nВсё закончилось.</text>
-	</string>
-
-	<string id="st_gar_mishgan_help_fail">
-		<text>Ну и ссыкло же ты.</text>
-	</string>
-
-	<string id="st_gar_mishgan_help_hello">
-		<text>Эй, сталкер,\nнужна твоя помощь.</text>
-	</string>
-
-	<string id="st_gar_mishgan_thx_actor_1">
-		<text>Это вон\nсталкера благодарите.</text>
-	</string>
-
-	<string id="st_gar_mishgan_thx_actor_2">
-		<text>Если бы не он,\nхрен бы у меня что получилось!</text>
-	</string>
-
-	<string id="st_gar_trader_actor_first_meet_1">
-		<text>А ты ещё кто такой?</text>
-	</string>
-
-	<string id="st_gar_trader_actor_first_meet_2">
-		<text>Не видел тебя здесь раньше.</text>
-	</string>
-
-	<string id="st_gar_trader_actor_first_meet_3">
-		<text>Если что нужно купить, так покупай.\nНет - чеши отсюда!</text>
-	</string>
-
-	<string id="st_gar_trader_bye_1">
-		<text>Ну, бывай.</text>
-	</string>
-
-	<string id="st_gar_trader_bye_2">
-		<text>Пока. Удачи.</text>
-	</string>
-
-	<string id="st_gar_trader_bye_3">
-		<text>Давай, двигай.</text>
-	</string>
-
-	<string id="st_gar_trader_hello_1">
-		<text>Ну, здорово!</text>
-	</string>
-
-	<string id="st_gar_trader_hello_2">
-		<text>Любой каприз\nза ваши бабки.</text>
-	</string>
-
-	<string id="st_gar_trader_hello_3">
-		<text>Чего тебе, сталкер?</text>
-	</string>
-
-	<string id="st_subtitles_kladbishe_bandit">
-		<text>Бандит</text>
-	</string>
-
-	<string id="st_gar_dyatlov_actor_first_phrase_1">
-		<text>Сталкер, ты вошёл на территорию, подконтрольную «Долгу».</text>
-	</string>
-
-	<string id="st_gar_dyatlov_actor_first_phrase_2">
-		<text>Любая попытка нападения на наших людей будет караться смертью.</text>
-	</string>
-
-	<string id="st_gar_kladbishe_bandits_check_transiver_1">
-		<text>Слышь, пацаны, это мы!</text>
-	</string>
-
-	<string id="st_gar_kladbishe_bandits_check_transiver_2">
-		<text>Пацаны, вы шо, поссать ушли или чё?</text>
-	</string>
-
-	<string id="st_gar_kladbishe_bandits_check_transiver_3">
-		<text>Эй, я не понял. Трубу ваще возьмут или как?</text>
-	</string>
-
-	<string id="st_gar_kladbishe_bandits_check_transiver_4">
-		<text>Алё, пацаны! Мы тут в непонятках, вы где ваще?</text>
-	</string>
-
-	<string id="st_gar_kladbishe_bandits_check_transiver_5_1">
-		<text>Короче, фигня какая-то у пацанов.</text>
-	</string>
-
-	<string id="st_gar_kladbishe_bandits_check_transiver_5_2">
-		<text>Смотайтесь позырить, чё там!</text>
-	</string>
-
-	<string id="st_gar_kladbishe_bandits_check_transiver_6">
-		<text>Говно вопрос. Ща пробьём!</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_koval_phrase_1">
-		<text>Может, договоримся?</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_koval_phrase_2">
-		<text>Денег принесу, оружие любое —\nчто хотите.</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_koval_phrase_3">
-		<text>Только детектор верните!</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_koval_thanx">
-		<text>Спасибо, командир.\nУж извини, что всё так вышло.</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_1">
-		<text>Нормальная такая пряха!</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_2">
-		<text>Короче, так: вали отсюда.</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_3">
-		<text>А игрушку эту\nмы себе оставим — поиграться.</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_4">
-		<text>А если захочешь\nпо Свалке спокойно ходить,</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_5">
-		<text>тащи ещё две таких.</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_6">
-		<text>И никто тебя пальцем не тронет.</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_7">
-		<text>Понятно?</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_1">
-		<text>Хер тебе, хитрожопый!</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_2">
-		<text>Надо было нормально, по-пацански:</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_3">
-		<text>зайти к нам, подгончик принести...</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_4">
-		<text>А ты, сука,\nшкеришься тут как крыса!</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_5">
-		<text>Так что гуляй, дядя! </text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_6">
-		<text>А ещё раз увижу тебя тут —</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_7">
-		<text>и без подгона урою.</text>
-	</string>
-
-	<string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_8">
-		<text>Отвечаю, урою!</text>
-	</string>
-
-	<string id="st_gar_dyatlov_actor_first_phrase_second_hero_1">
-		<text>Сталкер, ты на территории «Долга».</text>
-	</string>
-
-	<string id="st_gar_dyatlov_actor_first_phrase_second_hero_2">
-		<text>Шалить здесь никак не разрешается.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_actor_first_phrase_second_hero_3">
-		<text>Со всеми вопросами подходи ко мне.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bandits_task_info_pda_1">
-		<text>Сталкер, мне нужно наведаться в Бар к руководству.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bandits_task_info_pda_2">
-		<text>По нашему делу поговорим при встрече.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bandits_task_info_pda_3">
-		<text>Пока для тебя есть более приоритетная задача:</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bandits_task_info_pda_4">
-		<text>местные сообщили, что на хуторе неподалёку от леса обосновалась группа бандитов.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bandits_task_info_pda_5">
-		<text>Тебе нужно туда наведаться и убрать их любым способом.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bandits_task_info_pda_6">
-		<text>Там будет базироваться наш отряд, который мы направим из Бара.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bandits_task_info_pda_7">
-		<text>Сделаешь это — обеспечишь себя доверием нашей группировки.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bandits_task_info_pda_8">
-		<text>Долги в «Долге» возвращают.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bye_second_hero_1">
-		<text>Бывай.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bye_second_hero_2">
-		<text>До встречи.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_bye_second_hero_3">
-		<text>Успехов, сталкер.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_hello_second_hero_1">
-		<text>Я тебя слушаю.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_hello_second_hero_2">
-		<text>Говори.</text>
-	</string>
-
-	<string id="st_gar_dyatlov_hello_second_hero_3">
-		<text>Ну, выкладывай.</text>
-	</string>
-
-	<string id="st_gar_desertir_first_meet">
-		<text>Сталкер, подойди! Только не стреляй!</text>
-	</string>
-
-	<string id="st_gar_desertir_start_path">
-		<text>Спасибо, что откликнулся! Ну, пошли тогда.</text>
-	</string>
-
-	<string id="st_gar_desertir_angry_actor_long_dist_1">
-		<text>Друг, не уходи далеко!</text>
-	</string>
-
-	<string id="st_gar_desertir_angry_actor_long_dist_2">
-		<text>Не отходи далеко, сталкер!</text>
-	</string>
-
-	<string id="st_gar_desertir_angry_actor_long_dist_3">
-		<text>Мужик, ну ты куда?</text>
-	</string>
-
-	<string id="st_gar_desertir_see_dogs">
-		<text>Собаки! Сейчас мы их...</text>
-	</string>
-
-	<string id="st_gar_desertir_see_stalkers">
-		<text>Смотри, там кто-то из твоих!</text>
-	</string>
-
-	<string id="st_gar_desertir_angry">
-		<text>Вот уроды, неужели нельзя было по-человечески договориться...</text>
-	</string>
-
-	<string id="st_gar_desertir_final_phrase">
-		<text>Пойдём, товарищ-проводник. И спасибо тебе, сталкер. Попутного ветра!</text>
-	</string>
-
-	<string id="st_gar_stalker_snake_angry">
-		<text>Ты чё, совсем охренел?! Я ж тебя завалю, ублюдок!</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_hello_1">
-		<text>Здравствуй, сталкер!</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_hello_2">
-		<text>Доброго здравия, сталкер!</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_bye_1">
-		<text>Жду тебя снова!</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_bye_2">
-		<text>Ты заходи ещё.</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_bad_select_1">
-		<text>Странный выбор. Ну да ладно.</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_bad_select_2">
-		<text>На любителя вещица.</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_good_outfit_1">
-		<text>Превосходный броник! Ты теперь как с иголочки!</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_good_outfit_2">
-		<text>Парень, да тебя не узнать... прям спецназовец!</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_good_outfit_3">
-		<text>Отличная броня, носи на здоровье!</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_good_outfit_4">
-		<text>Ну всё, теперь свинец можешь ловить хоть зубами! Шутка.</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_good_select_1">
-		<text>Хороший выбор, сам бы не отказался!</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_good_select_2">
-		<text>Превосходный выбор, теперь хоть на войну!</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_good_select_3">
-		<text>Отличный вариант. Да ты, никак, разбираешься!</text>
-	</string>
-
-	<string id="st_gar_stalker_nimble_good_select_4">
-		<text>Прекрасный агрегат. Завидую!</text>
-	</string>
-
+  <string id="st_gar_corvalol_angry_1">
+    <text>Эй, не мешай мне.\nСейчас закончу.</text>
+  </string>
+  <string id="st_gar_corvalol_angry_2">
+    <text>Мужик, отвали.\nДай дело закончить!</text>
+  </string>
+  <string id="st_gar_corvalol_angry_3">
+    <text>Я не могу сейчас болтать.\nНе видишь, что ли?</text>
+  </string>
+  <string id="st_gar_corvalol_angry_4">
+    <text>Я занят. Позже поговорим.</text>
+  </string>
+  <string id="st_gar_corvalol_first_meet">
+    <text>Ну, я тебя слушаю.</text>
+  </string>
+  <string id="st_gar_corvalol_good_luck">
+    <text>Удачи тебе!</text>
+  </string>
+  <string id="st_gar_corvalol_kombez_1">
+    <text>Ай, твою мать!</text>
+  </string>
+  <string id="st_gar_corvalol_kombez_2">
+    <text>За сорок кусков комбез, блин!</text>
+  </string>
+  <string id="st_gar_actor_baraholka_phrase_1">
+    <text>Юрок, приём.</text>
+  </string>
+  <string id="st_gar_actor_baraholka_phrase_2">
+    <text>Юрок... Ты здесь?</text>
+  </string>
+  <string id="st_gar_actor_baraholka_phrase_3">
+    <text>Напился, что ли, опять? Приём!</text>
+  </string>
+  <string id="st_gar_actor_baraholka_phrase_4_1">
+    <text>Нужно вывести из Зоны\nодного человека.</text>
+  </string>
+  <string id="st_gar_actor_baraholka_phrase_4_2">
+    <text>Платит щедро. Возьмёшься?</text>
+  </string>
+  <string id="st_gar_jurok_desertir_raciya_1">
+    <text>Топор, здорово. Случилось чего?</text>
+  </string>
+  <string id="st_gar_jurok_desertir_raciya_2">
+    <text>А почему нет? Кидай координаты.</text>
+  </string>
+  <string id="st_gar_jurok_desertir_start">
+    <text>Ну что, служивый, готов? Почапали.</text>
+  </string>
+  <string id="st_gar_dolg_zastava_soldier_danger_1">
+    <text>Ой, чую я, братцы:</text>
+  </string>
+  <string id="st_gar_dolg_zastava_soldier_danger_2">
+    <text>нехорошее скоро будет что-то,\nой нехорошее.</text>
+  </string>
+  <string id="st_gar_drunk_medic_bye_1">
+    <text>Всего наилучшего.</text>
+  </string>
+  <string id="st_gar_drunk_medic_bye_2">
+    <text>Пока.</text>
+  </string>
+  <string id="st_gar_drunk_medic_bye_3">
+    <text>Бывай.</text>
+  </string>
+  <string id="st_gar_drunk_medic_hello_1">
+    <text>Привет, сталкер.</text>
+  </string>
+  <string id="st_gar_drunk_medic_hello_2">
+    <text>Ну, здравствуй, сталкер.\nС чем пожаловал?</text>
+  </string>
+  <string id="st_gar_drunk_medic_hello_3">
+    <text>Привет, сталкер. Что нового?</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_1">
+    <text>Ну, бывай.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_2">
+    <text>Всего доброго, сталкер.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_3">
+    <text>До встречи.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_4">
+    <text>Увидимся.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_1">
+    <text>Приветствую, сталкер.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_2">
+    <text>Чего тебе, сталкер?</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_3">
+    <text>Слушаю.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_4">
+    <text>Я весь внимание.</text>
+  </string>
+  <string id="st_gar_dyatlov_radio_ok">
+    <text>Принял, боец. Конец связи.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_actor_fail_1">
+    <text>Чеши, чеши, крыса.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_actor_fail_2">
+    <text>Мир тесен. Помни об этом!</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_robbery_1">
+    <text>Ну здравстуй, сталкер.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_robbery_2">
+    <text>Помнишь, о чём я тебе говорил?</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_robbery_3">
+    <text>Вот мы и встретились.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_robbery_4">
+    <text>Сейчас ты мне, сука, всё вернёшь, выродок.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_robbery_5">
+    <text>Мужики, валим его!</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_angry_meet">
+    <text>Чё прицепился? Проваливай!</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_bye_1">
+    <text>Попутного ветра.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_bye_2">
+    <text>До встречи.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_hello_1">
+    <text>Здоров, мужик.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_hello_2">
+    <text>Приветствую.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_help">
+    <text>Мужики, выручайте! Меня сейчас тут собаки порвут.</text>
+  </string>
+  <string id="st_gar_drunk_medic_start_message">
+    <text>Привет. Я тут устроился на базе. Заглядывай, похмелимся.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_1">
+    <text>Мыслав, приём!\nТы на Свалке?</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_2">
+    <text>Да-да? Патрон, я тут.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_3_1">
+    <text>Здорово.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_3_2">
+    <text>Я тебе сейчас сталкера пришлю.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_3_3">
+    <text>Растолкуй про наше дело. Годится?</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_4">
+    <text>Понял. Сгодится.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_start_meet">
+    <text>Ты чего трёшься тут?\nХотел чего-то?</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_wait_trader_1">
+    <text>Подруливай в другой раз:\nторговец пока не может подойти.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_wait_trader_2">
+    <text>Торговец ещё не освободился.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_wait_trader_3">
+    <text>Подходи позже.\nТорговец ещё занят.</text>
+  </string>
+  <string id="st_gar_trader_sms_after_katakomb_1">
+    <text>Топор, ёкарный бабай, ты где был?</text>
+  </string>
+  <string id="st_gar_trader_sms_after_katakomb_2">
+    <text>Я уже подумал, ты сквозанул с моими артефактами.</text>
+  </string>
+  <string id="st_gar_trader_sms_after_katakomb_3">
+    <text>Давай, дуй на базу, быстро.</text>
+  </string>
+  <string id="st_gar_trader_darkvalley_message_1">
+    <text>Сталкер, я отлучусь на какое-то время. Займись пока кейсом.</text>
+  </string>
+  <string id="st_gar_trader_darkvalley_message_2">
+    <text>Появлюсь — маякну.</text>
+  </string>
+  <string id="st_gar_trader_primary_task_1_1">
+    <text>Топор, есть неотложный разговор.</text>
+  </string>
+  <string id="st_gar_trader_primary_task_1_2">
+    <text>Бегом ко мне, срочно!</text>
+  </string>
+  <string id="st_gar_trader_primary_task_2_1">
+    <text>Сталкер, тут кое-какая проблема появилась.</text>
+  </string>
+  <string id="st_gar_trader_primary_task_2_2">
+    <text>Загляни ко мне на досуге: узнать кое-что надо.</text>
+  </string>
+  <string id="st_gar_trader_second_actor_bye_1">
+    <text>Чеши давай!</text>
+  </string>
+  <string id="st_gar_trader_second_actor_bye_2">
+    <text>Без дела меня не отвлекай!</text>
+  </string>
+  <string id="st_gar_trader_second_actor_bye_3">
+    <text>Иди откуда пришёл, а?\nНе мельтеши!</text>
+  </string>
+  <string id="st_gar_trader_second_actor_hello_1">
+    <text>Чего тебе?</text>
+  </string>
+  <string id="st_gar_trader_second_actor_hello_2">
+    <text>Давай говори, только быстро.</text>
+  </string>
+  <string id="st_gar_trader_second_actor_hello_3">
+    <text>Да не стой ты над душой.\nГовори быстрее!</text>
+  </string>
+  <string id="st_gar_trader_second_actor_first_meet">
+    <text>Снова залётный у нас.\nНу, чего надо?</text>
+  </string>
+  <string id="st_gar_trader_surge_start_1">
+    <text>Внимание всем: приближается выброс. Прячьте свои задницы, если жить ещё не надоело.</text>
+  </string>
+  <string id="st_gar_trader_surge_start_2">
+    <text>Сталкерня, тут выброс намечается. Бегом в укрытия, бегом!</text>
+  </string>
+  <string id="st_gar_trader_surge_start_3">
+    <text>Внимание: судя по показаниям приборов, начинается выброс. В укрытия: с каждой минутой шансов у вас всё меньше!</text>
+  </string>
+  <string id="st_gar_trader_surge_in_process_1">
+    <text>Ну, сейчас начнётся. Не высовывайтесь из укрытий!</text>
+  </string>
+  <string id="st_gar_trader_surge_in_process_2">
+    <text>Через минуту накроет. Прячьте задницы, сталкеры!</text>
+  </string>
+  <string id="st_gar_trader_surge_in_process_3">
+    <text>Рванёт буквально через пару мгновений. Не суйтесь никуда!</text>
+  </string>
+  <string id="st_gar_trader_surge_compl_1">
+    <text>Всё, выброс закончился. Выползайте из убежищ.</text>
+  </string>
+  <string id="st_gar_trader_surge_compl_2">
+    <text>Стихийные бедствия нас миновали! Если кого потрепало, заходите к нам: поставим на ноги.</text>
+  </string>
+  <string id="st_gar_trader_surge_compl_2_cc">
+    <text>Стихийные бедствия нас миновали! [смех] Если кого потрепало, заходите к нам: поставим на ноги.</text>
+  </string>
+  <string id="st_gar_trader_surge_compl_3">
+    <text>Ну всё, народ. Выброс закончился. За работу!</text>
+  </string>
+  <string id="st_gar_stalker_messenger_bye_1">
+    <text>До встречи.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_bye_2">
+    <text>Счастливо.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_bye_3">
+    <text>Всего хорошего.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_hello_1">
+    <text>Какие новости, сталкер?</text>
+  </string>
+  <string id="st_gar_stalker_messenger_hello_2">
+    <text>Живой? Это хорошо.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_hello_3">
+    <text>Рад видеть!</text>
+  </string>
+  <string id="st_gar_stalker_messenger_thanx_1">
+    <text>Спасибо, дружище! Выручил меня.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_thanx_2">
+    <text>Одной ногой на том свете уже стоял.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_thanx_3">
+    <text>Ты от Патрона, да?</text>
+  </string>
+  <string id="st_gar_forest_aver_final">
+    <text>Хрен тебе, а не повышение! На дне колодца теперь гнить будешь!</text>
+  </string>
+  <string id="st_gar_forest_aver_phrase_1">
+    <text>Ну что, допрыгался? Повышения захотел? Да кто ты вообще такой? Что ты сделал для «Долга»?</text>
+  </string>
+  <string id="st_gar_forest_stecurin">
+    <text>Стой и не дёргайся, тварь.</text>
+  </string>
+  <string id="st_gar_actor_kladbishe_phrase_1">
+    <text>Пацаны, здорово. У вас водички не найдётся?</text>
+  </string>
+  <string id="st_gar_actor_kladbishe_phrase_2">
+    <text>А это чё, не лагерь сталкеров?</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_1_1">
+    <text>Я тебе отвечаю,</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_1_2">
+    <text>сталкеры будут для нас\nнехилые бабки подымать!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_1_3">
+    <text>Пошлём их к аномалии</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_1_4">
+    <text>и пусть артефакты рыщат,\nесли жить хотят!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_2">
+    <text>Красава!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_2_cc">
+    <text>Красава! [смех]</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_3_1">
+    <text>Э, алкашня!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_3_2">
+    <text>Ты хоть знаешь,\nкуда пришёл, сучара?</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_4_1">
+    <text>Ну, типа того!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_4_1_cc">
+    <text>[смех] Ну, типа того!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_4_2">
+    <text>Пацаны, вяжите его!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_4_3">
+    <text>Ещё одного лошка нашли.</text>
+  </string>
+  <string id="st_gar_bandit_speaker_2_phrase_1_1">
+    <text>Да ёпта, я и не сомневался!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_2_phrase_1_2">
+    <text>Теперь точно тачилу себе куплю.</text>
+  </string>
+  <string id="st_gar_bandit_speaker_2_phrase_1_3">
+    <text>Заниженную такую, с музычкой.</text>
+  </string>
+  <string id="st_gar_bandit_speaker_2_phrase_1_4">
+    <text>Все бабы мои будут.</text>
+  </string>
+  <string id="st_gar_bandit_speaker_2_phrase_2">
+    <text>О, смотри!\nЧё за чепушила сюда колёса катит?</text>
+  </string>
+  <string id="st_gar_actor_hunt_bloodsucker_danger">
+    <text>Твою ж мать!</text>
+  </string>
+  <string id="st_gar_stalker_medic_bye_1">
+    <text>Удачной ходки тебе, сталкер.</text>
+  </string>
+  <string id="st_gar_stalker_medic_bye_2">
+    <text>Я, конечно, не психолог,\nно будет грустно — заходи.</text>
+  </string>
+  <string id="st_gar_stalker_medic_bye_3">
+    <text>Давай-давай. До встречи.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_dies_1">
+    <text>Хреново... Очень хреново...</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_dies_2">
+    <text>Послушай:</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_dies_3">
+    <text>у меня в убежище лежат записи.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_dies_4">
+    <text>Передай их Дубинину\nв научный комплекс на Агропроме.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_dies_5">
+    <text>Скажи, что я просчитался.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_get_out_artefact_1">
+    <text>Мы на месте.\nГотовь артефакт.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_get_out_artefact_2">
+    <text>Только смотри,\nбез резких движений.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_get_out_artefact_3">
+    <text>Иди за мной след-в-след, понял?</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_hit_cc">
+    <text>[крик от боли]</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_see_snorks_1">
+    <text>Чёрт, а снорки-то тут откуда взялись?</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_see_snorks_2">
+    <text>Так, надо медленно по-тихому отсюда уходить.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_see_snorks_3">
+    <text>За мной.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_what_happened">
+    <text>Что случилось?</text>
+  </string>
+  <string id="st_gar_stalker_medic_hello_1">
+    <text>Ну, привет, сталкер!</text>
+  </string>
+  <string id="st_gar_stalker_medic_hello_2">
+    <text>Ну что,\nопять тебя Зона потрепала?</text>
+  </string>
+  <string id="st_gar_stalker_medic_hello_3">
+    <text>Давай-давай, заходи.\nНе стесняйся.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_1">
+    <text>Не бойся:\nон полностью безопасен.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_2">
+    <text>Как видишь, результат\nмоих увлечений может удивлять.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_3">
+    <text>Ну ты как?</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_4">
+    <text>Я тебя немного подлатал.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_5">
+    <text>Через пару дней\nбудешь как новенький!</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_6">
+    <text>В качестве компенсации я оставлю тебе\nключ от моей бендежки и доплачу немного.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_7">
+    <text>Как придёшь в себя,\nприходи в лагерь сталкеров —</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_8">
+    <text>поговорим ещё.</text>
+  </string>
+  <string id="st_gar_mishgan_record_1">
+    <text>Придётся отбивать своих друзей в одиночку.</text>
+  </string>
+  <string id="st_gar_mishgan_record_2">
+    <text>Кого бы ни просил, все отказались мне помочь.</text>
+  </string>
+  <string id="st_gar_mishgan_record_3">
+    <text>Но и бросить мужиков я не могу: столько с ними Зону топтали.</text>
+  </string>
+  <string id="st_gar_mishgan_record_4">
+    <text>Надеюсь, эту запись никто не услышит, и всё пройдёт гладко.</text>
+  </string>
+  <string id="st_gar_mishgan_record_5">
+    <text>А если нет, то передайте мой ПДА в деревню новичков. Там для моих есть послание.</text>
+  </string>
+  <string id="st_gar_mishgan_record_6_cc">
+    <text>[выдох]</text>
+  </string>
+  <string id="st_gar_mishgan_record_7">
+    <text>Ну всё, я пошёл.</text>
+  </string>
+  <string id="st_gar_friend_mishgan_1_thanx">
+    <text>Спасибо, дружище!</text>
+  </string>
+  <string id="st_gar_friend_mishgan_1_thanx_actor">
+    <text>Мужик, спасибо тебе огромное!</text>
+  </string>
+  <string id="st_gar_friend_mishgan_2_thanx">
+    <text>Ох, спасибо.</text>
+  </string>
+  <string id="st_gar_friend_mishgan_2_thanx_actor">
+    <text>Спасибо, мужик.</text>
+  </string>
+  <string id="st_gar_mishgan_begin_leave">
+    <text>Вставайте, мужики!\nВсё закончилось.</text>
+  </string>
+  <string id="st_gar_mishgan_help_fail">
+    <text>Ну и ссыкло же ты.</text>
+  </string>
+  <string id="st_gar_mishgan_help_hello">
+    <text>Эй, сталкер,\nнужна твоя помощь.</text>
+  </string>
+  <string id="st_gar_mishgan_thx_actor_1">
+    <text>Это вон\nсталкера благодарите.</text>
+  </string>
+  <string id="st_gar_mishgan_thx_actor_2">
+    <text>Если бы не он,\nхрен бы у меня что получилось!</text>
+  </string>
+  <string id="st_gar_trader_actor_first_meet_1">
+    <text>А ты ещё кто такой?</text>
+  </string>
+  <string id="st_gar_trader_actor_first_meet_2">
+    <text>Не видел тебя здесь раньше.</text>
+  </string>
+  <string id="st_gar_trader_actor_first_meet_3">
+    <text>Если что нужно купить, так покупай.\nНет — чеши отсюда!</text>
+  </string>
+  <string id="st_gar_trader_bye_1">
+    <text>Ну, бывай.</text>
+  </string>
+  <string id="st_gar_trader_bye_2">
+    <text>Пока. Удачи.</text>
+  </string>
+  <string id="st_gar_trader_bye_3">
+    <text>Давай, двигай.</text>
+  </string>
+  <string id="st_gar_trader_hello_1">
+    <text>Ну, здорово!</text>
+  </string>
+  <string id="st_gar_trader_hello_2">
+    <text>Любой каприз\nза ваши бабки.</text>
+  </string>
+  <string id="st_gar_trader_hello_3">
+    <text>Чего тебе, сталкер?</text>
+  </string>
+  <string id="st_subtitles_kladbishe_bandit">
+    <text>Бандит</text>
+  </string>
+  <string id="st_gar_dyatlov_actor_first_phrase_1">
+    <text>Сталкер, ты вошёл на территорию, подконтрольную «Долгу».</text>
+  </string>
+  <string id="st_gar_dyatlov_actor_first_phrase_2">
+    <text>Любая попытка нападения на наших людей будет караться смертью.</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_1">
+    <text>Слышь, пацаны, это мы!</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_2">
+    <text>Пацаны, вы шо, поссать ушли или чё?</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_3">
+    <text>Эй, я не понял. Трубу ваще возьмут или как?</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_4">
+    <text>Алё, пацаны! Мы тут в непонятках, вы где ваще?</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_5_1">
+    <text>Короче, фигня какая-то у пацанов.</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_5_2">
+    <text>Смотайтесь позырить, чё там!</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_6">
+    <text>Говно вопрос. Ща пробьём!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_koval_phrase_1">
+    <text>Может, договоримся?</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_koval_phrase_2">
+    <text>Денег принесу, оружие любое —\nчто хотите.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_koval_phrase_3">
+    <text>Только детектор верните!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_koval_thanx">
+    <text>Спасибо, командир.\nУж извини, что всё так вышло.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_1">
+    <text>Нормальная такая пряха!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_2">
+    <text>Короче, так: вали отсюда.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_3">
+    <text>А игрушку эту\nмы себе оставим — поиграться.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_4">
+    <text>А если захочешь\nпо Свалке спокойно ходить,</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_5">
+    <text>тащи ещё две таких.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_6">
+    <text>И никто тебя пальцем не тронет.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_7">
+    <text>Понятно?</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_1">
+    <text>Хер тебе, хитрожопый!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_2">
+    <text>Надо было нормально, по-пацански:</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_3">
+    <text>зайти к нам, подгончик принести...</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_4">
+    <text>А ты, сука,\nшкеришься тут как крыса!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_5">
+    <text>Так что гуляй, дядя! </text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_6">
+    <text>А ещё раз увижу тебя тут —</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_7">
+    <text>и без подгона урою.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_8">
+    <text>Отвечаю, урою!</text>
+  </string>
+  <string id="st_gar_dyatlov_actor_first_phrase_second_hero_1">
+    <text>Сталкер, ты на территории «Долга».</text>
+  </string>
+  <string id="st_gar_dyatlov_actor_first_phrase_second_hero_2">
+    <text>Шалить здесь никак не разрешается.</text>
+  </string>
+  <string id="st_gar_dyatlov_actor_first_phrase_second_hero_3">
+    <text>Со всеми вопросами подходи ко мне.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_1">
+    <text>Сталкер, мне нужно наведаться в Бар к руководству.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_2">
+    <text>По нашему делу поговорим при встрече.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_3">
+    <text>Пока для тебя есть более приоритетная задача:</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_4">
+    <text>местные сообщили, что на хуторе неподалёку от леса обосновалась группа бандитов.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_5">
+    <text>Тебе нужно туда наведаться и убрать их любым способом.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_6">
+    <text>Там будет базироваться наш отряд, который мы направим из Бара.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_7">
+    <text>Сделаешь это — обеспечишь себя доверием нашей группировки.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_8">
+    <text>Долги в «Долге» возвращают.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_second_hero_1">
+    <text>Бывай.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_second_hero_2">
+    <text>До встречи.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_second_hero_3">
+    <text>Успехов, сталкер.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_second_hero_1">
+    <text>Я тебя слушаю.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_second_hero_2">
+    <text>Говори.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_second_hero_3">
+    <text>Ну, выкладывай.</text>
+  </string>
+  <string id="st_gar_desertir_first_meet">
+    <text>Сталкер, подойди! Только не стреляй!</text>
+  </string>
+  <string id="st_gar_desertir_start_path">
+    <text>Спасибо, что откликнулся! Ну, пошли тогда.</text>
+  </string>
+  <string id="st_gar_desertir_angry_actor_long_dist_1">
+    <text>Друг, не уходи далеко!</text>
+  </string>
+  <string id="st_gar_desertir_angry_actor_long_dist_2">
+    <text>Не отходи далеко, сталкер!</text>
+  </string>
+  <string id="st_gar_desertir_angry_actor_long_dist_3">
+    <text>Мужик, ну ты куда?</text>
+  </string>
+  <string id="st_gar_desertir_see_dogs">
+    <text>Собаки! Сейчас мы их...</text>
+  </string>
+  <string id="st_gar_desertir_see_stalkers">
+    <text>Смотри, там кто-то из твоих!</text>
+  </string>
+  <string id="st_gar_desertir_angry">
+    <text>Вот уроды, неужели нельзя было по-человечески договориться...</text>
+  </string>
+  <string id="st_gar_desertir_final_phrase">
+    <text>Пойдём, товарищ-проводник. И спасибо тебе, сталкер. Попутного ветра!</text>
+  </string>
+  <string id="st_gar_stalker_snake_angry">
+    <text>Ты чё, совсем охренел?! Я ж тебя завалю, ублюдок!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_hello_1">
+    <text>Здравствуй, сталкер!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_hello_2">
+    <text>Доброго здравия, сталкер!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_bye_1">
+    <text>Жду тебя снова!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_bye_2">
+    <text>Ты заходи ещё.</text>
+  </string>
+  <string id="st_gar_stalker_nimble_bad_select_1">
+    <text>Странный выбор. Ну да ладно.</text>
+  </string>
+  <string id="st_gar_stalker_nimble_bad_select_2">
+    <text>На любителя вещица.</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_outfit_1">
+    <text>Превосходный броник! Ты теперь как с иголочки!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_outfit_2">
+    <text>Парень, да тебя не узнать... прям спецназовец!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_outfit_3">
+    <text>Отличная броня, носи на здоровье!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_outfit_4">
+    <text>Ну всё, теперь свинец можешь ловить хоть зубами! Шутка.</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_select_1">
+    <text>Хороший выбор, сам бы не отказался!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_select_2">
+    <text>Превосходный выбор, теперь хоть на войну!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_select_3">
+    <text>Отличный вариант. Да ты, никак, разбираешься!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_select_4">
+    <text>Прекрасный агрегат. Завидую!</text>
+  </string>
 </string_table>

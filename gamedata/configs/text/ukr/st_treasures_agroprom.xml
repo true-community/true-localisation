@@ -1,244 +1,175 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="agr_treasure_1_name">
-		<text>Порохнявий пень</text>
+  <string id="agr_treasure_1_name">
+    <text>Порохнявий пень</text>
+  </string>
+  <string id="agr_treasure_1_descr">
+    <text>Знайшов місткий пеньок на пагорбі з аномаліями, нарешті можна скинути трохи хабара.</text>
+  </string>
+  <string id="agr_treasure_2_name">
+    <text>Казарма</text>
+  </string>
+  <string id="agr_treasure_2_descr">
+    <text>Бачив у казармі військових сталкерів ящик з різними припасами. Пхатися туди серед білого дня, думаю, не варто. А так хотілося б...</text>
+  </string>
+  <string id="agr_treasure_3_name">
+    <text>Ящик під ЛЕП</text>
+  </string>
+  <string id="agr_treasure_3_descr">
+    <text>Залізний ящик, навколо якого розташоване поле електричних аномалій  —  найкращий вибір для сховку.</text>
+  </string>
+  <string id="agr_treasure_4_name">
+    <text>Припаси</text>
+  </string>
+  <string id="agr_treasure_4_descr">
+    <text>В ящику з-під хімікатів знайшов ще чистий відсік для зайвого хабара. Залишу поки тут, а там, якщо не згниє нічого, заберу за нагоди.</text>
+  </string>
+  <string id="agr_treasure_5_name">
+    <text>Забута могила</text>
+  </string>
+  <string id="agr_treasure_5_descr">
+    <text>Біля старого виходу до Янтаря бачив сталкера, який запихав у покинуту могилу різні шмотки. Безбожник!</text>
+  </string>
+  <string id="agr_treasure_6_name">
+    <text>Хрест на відшибі</text>
+  </string>
+  <string id="agr_treasure_6_descr">
+    <text>Вирішив віднести на могилу коріша його старі шмотки, а то валяються у мене без діла. Нехай з ним лежать.</text>
+  </string>
+  <string id="agr_treasure_7_name">
+    <text>Пеньок при стежці</text>
+  </string>
+  <string id="agr_treasure_7_descr">
+    <text>Коли тікав від кабанів, довелося скинути найтяжче по дорозі коло воріт на Смітник. Сподіваюся, встигну повернутися, коли все стихне, доки сховок не обчистили.</text>
+  </string>
+  <string id="agr_treasure_8_name">
+    <text>Неприємний схрон</text>
+  </string>
+  <string id="agr_treasure_8_descr">
+    <text>За знятими дверима в будинку з вертолітним майданчиком бачив кейс, в якому один яйцеголовий, мабуть, щось тягає. Краде матеріали?</text>
+  </string>
+  <string id="agr_treasure_9_name">
+    <text>Армійський схрон</text>
+  </string>
+  <string id="agr_treasure_9_descr">
+    <text>Недавно чув розмову двох командирів, і один з них вихвалявся сховком з крутим хабаром. Хабар, як з'ясувалося, вони зірвали з трупів сталкерів.</text>
+  </string>
+  <string id="agr_treasure_10_name">
+    <text>Висотний схрон</text>
+  </string>
+  <string id="agr_treasure_10_descr">
+    <text>Коли залили по дахах, бачив чоловіка на вишці, копирсався він там хвилин десять. Значить, тепер я знаю, де він ховає щось цінне.</text>
+  </string>
+  <string id="agr_treasure_11_name">
+    <text>Пеньок за пагорком</text>
+  </string>
+  <string id="agr_treasure_11_descr">
+    <text>Товар сховаю в трухлявому пеньку дорогою до тунелю. Коли хвоста не буде, повернуся.</text>
+  </string>
+  <string id="agr_treasure_12_name">
+    <text>Службовий транспорт</text>
+  </string>
+  <string id="agr_treasure_12_descr">
+    <text>Залишу кейс з барахлом у старій зігнилій «Ниві», не можу постійно тягати цю важку хрінь.</text>
+  </string>
+  <string id="agr_treasure_13_name">
+    <text>Невеличкий кейс</text>
+  </string>
+  <string id="agr_treasure_13_descr">
+    <text>Коло тунелю заховав трохи хабара, який найближчим часом не знадобиться. Лиш би не заліз хто-небудь.</text>
+  </string>
+  <string id="agr_treasure_14_name">
+    <text>Труба в норі</text>
+  </string>
+  <string id="agr_treasure_14_descr">
+    <text>В одній з нір, яку колись викопали снорки, знайшов стару трубу. Думаю, тут поки й полежать мої речі.</text>
+  </string>
+  <string id="agr_treasure_15_name">
+    <text>Заначка в заростях</text>
+  </string>
+  <string id="agr_treasure_15_descr">
+    <text>В густих кущах під теплотрасою сховав частину хабара. Думаю, повернуся за ним, як будуть чорні дні.</text>
+  </string>
+  <string id="agr_treasure_16_name">
+    <text>Завал</text>
+  </string>
+  <string id="agr_treasure_16_descr">
+    <text>У завалах спуску в підземелля знайшов велику трубу, куди можна щось заховати. Варто цим скористатися.</text>
+  </string>
+  <string id="agr_treasure_17_name">
+    <text>Потертий рюкзак</text>
+  </string>
+  <string id="agr_treasure_17_descr">
+    <text>Знайшов біля згнилого тіла вояки якийсь рюкзак з усяким добром. Взяти не ризикнув — місцевість відкрита. Раптом вистежить мене хто?</text>
+  </string>
+  <string id="agr_treasure_18_name">
+    <text>На пагорбі</text>
+  </string>
+  <string id="agr_treasure_18_descr"><text>У наметі неподалік від табору дигерів знайшов рюкзак із хабаром. Повернуся сюди за кілька днів і заберу, якщо власник не з'явиться.</text>.
 	</string>
-
-	<string id="agr_treasure_1_descr">
-		<text>Знайшов місткий пеньок на пагорбі з аномаліями, нарешті можна скинути трохи хабара.</text>
+  <string id="agr_treasure_19_name"><text>У попелищі</text>.
 	</string>
-
-	<string id="agr_treasure_2_name">
-		<text>Казарма</text>
+  <string id="agr_treasure_19_descr">
+    <text>Спостерігав у бінокль, як сталкер закинув рюкзак на саму верхівку аномальних виступів. Спочатку не зрозумів, у чому річ, а потім його чомусь затримали вояки.</text>
+  </string>
+  <string id="agr_treasure_20_name"><text>Затонулий транспорт</text>.
 	</string>
-
-	<string id="agr_treasure_2_descr">
-		<text>Бачив у казармі військових сталкерів ящик з різними припасами. Пхатися туди серед білого дня, думаю, не варто. А так хотілося б...</text>
+  <string id="agr_treasure_20_descr">
+    <text>У затонулій буханці ще залишилася цілою верхівка кабіни, куди, мабуть, закину рюкзак, а то хто знає, чи буде мене притискати бандитське кодло на Смітнику.</text>
+  </string>
+  <string id="agr_treasure_21_name">
+    <text>Під вентиляцією</text>
+  </string>
+  <string id="agr_treasure_21_descr">
+    <text>Навряд чи хтось окрім полізе в епіцентр хімічної аномалії. Знайшов там шматок вентиляції. Туди і скину трохи хабара.</text>
+  </string>
+  <string id="agr_treasure_22_name"><text>Покров листя</text>.
 	</string>
-
-	<string id="agr_treasure_3_name">
-		<text>Ящик під ЛЕП</text>
+  <string id="agr_treasure_22_descr">
+    <text>На даху будівлі зробив ничку, прикриту листям дерева, що росте поруч. Повернуся по можливості через тиждень.</text>
+  </string>
+  <string id="agr_treasure_23_name"><text>Посеред лісу</text>.
 	</string>
-
-	<string id="agr_treasure_3_descr">
-		<text>Залізний ящик, навколо якого розташоване поле електричних аномалій  -  найкращий вибір для сховку.</text>
+  <string id="agr_treasure_23_descr">
+    <text>У лісочку на відшибі знайшов велику колоду. Залишу в ній надлишки спорядження, а то рюкзак ось-ось порветься.</text>
+  </string>
+  <string id="agr_treasure_24_name"><text>Прикопаний сейф</text>.
 	</string>
-
-	<string id="agr_treasure_4_name">
-		<text>Припаси</text>
+  <string id="agr_treasure_24_descr">
+    <text>За територією наукового комплексу застав вояку за копанням у якомусь сейфі. З бази тягнув щось, схоже. Або обчищу це барахло, або зіллю солдата командиру. Треба подумати.</text>
+  </string>
+  <string id="agr_treasure_25_name"><text>Сейф у засіках</text>.
 	</string>
-
-	<string id="agr_treasure_4_descr">
-		<text>В ящику з-під хімікатів знайшов ще чистий відсік для зайвого хабара. Залишу поки тут, а там, якщо не згниє нічого, заберу за нагоди.</text>
+  <string id="agr_treasure_25_descr">
+    <text>Заглядав до друга на територію дигерів, знайшов у контейнері сейф, який ніким не зайнятий. Дозволили залишити там свої речі за невелику плату.</text>
+  </string>
+  <string id="agr_quest_treasure_1_name">
+    <text>Бревно біля дороги</text>
+  </string>
+  <string id="agr_quest_treasure_1_descr">
+    <text>Є одне непримітне місце недалеко від виходу на Смітник з гарним хабаром.</text>
+  </string>
+  <string id="agr_quest_treasure_2_name">
+    <text>Недосяжний рюкзак</text>
+  </string>
+  <string id="agr_quest_treasure_2_descr"><text>На базі дигерів є одне містечко, куди один знайомий мужик скидав хабар. Із Зони він уже звалив, а хабар вирішив не забирати.</text>.
 	</string>
-
-	<string id="agr_treasure_5_name">
-		<text>Забута могила</text>
-	</string>
-
-	<string id="agr_treasure_5_descr">
-		<text>Біля старого виходу до Янтаря бачив сталкера, який запихав у покинуту могилу різні шмотки. Безбожник!</text>
-	</string>
-
-	<string id="agr_treasure_6_name">
-		<text>Хрест на відшибі</text>
-	</string>
-
-	<string id="agr_treasure_6_descr">
-		<text>Вирішив віднести на могилу коріша його старі шмотки, а то валяються у мене без діла. Нехай з ним лежать.</text>
-	</string>
-
-	<string id="agr_treasure_7_name">
-		<text>Пеньок при стежці</text>
-	</string>
-
-	<string id="agr_treasure_7_descr">
-		<text>Коли тікав від кабанів, довелося скинути найтяжче по дорозі коло воріт на Смітник. Сподіваюся, встигну повернутися, коли все стихне, доки сховок не обчистили.</text>
-	</string>
-
-	<string id="agr_treasure_8_name">
-		<text>Неприємний схрон</text>
-	</string>
-
-	<string id="agr_treasure_8_descr">
-		<text>За знятими дверима в будинку з вертолітним майданчиком бачив кейс, в якому один яйцеголовий, мабуть, щось тягає. Краде матеріали?</text>
-	</string>
-
-	<string id="agr_treasure_9_name">
-		<text>Армійський схрон</text>
-	</string>
-
-	<string id="agr_treasure_9_descr">
-		<text>Недавно чув розмову двох командирів, і один з них вихвалявся сховком з крутим хабаром. Хабар, як з'ясувалося, вони зірвали з трупів сталкерів.</text>
-	</string>
-
-	<string id="agr_treasure_10_name">
-		<text>Висотний схрон</text>
-	</string>
-
-	<string id="agr_treasure_10_descr">
-		<text>Коли залили по дахах, бачив чоловіка на вишці, копирсався він там хвилин десять. Значить, тепер я знаю, де він ховає щось цінне.</text>
-	</string>
-
-	<string id="agr_treasure_11_name">
-		<text>Пеньок за пагорком</text>
-	</string>
-
-	<string id="agr_treasure_11_descr">
-		<text>Товар сховаю в трухлявому пеньку дорогою до тунелю. Коли хвоста не буде, повернуся.</text>
-	</string>
-
-	<string id="agr_treasure_12_name">
-		<text>Службовий транспорт</text>
-	</string>
-
-	<string id="agr_treasure_12_descr">
-		<text>Залишу кейс з барахлом у старій зігнилій «Ниві», не можу постійно тягати цю важку хрінь.</text>
-	</string>
-
-	<string id="agr_treasure_13_name">
-		<text>Невеличкий кейс</text>
-	</string>
-
-	<string id="agr_treasure_13_descr">
-		<text>Коло тунелю заховав трохи хабара, який найближчим часом не знадобиться. Лиш би не заліз хто-небудь.</text>
-	</string>
-
-	<string id="agr_treasure_14_name">
-		<text>Труба в норі</text>
-	</string>
-
-	<string id="agr_treasure_14_descr">
-		<text>В одній з нір, яку колись викопали снорки, знайшов стару трубу. Думаю, тут поки й полежать мої речі.</text>
-	</string>
-
-	<string id="agr_treasure_15_name">
-		<text>Заначка в заростях</text>
-	</string>
-
-	<string id="agr_treasure_15_descr">
-		<text>В густих кущах під теплотрасою сховав частину хабара. Думаю, повернуся за ним, як будуть чорні дні.</text>
-	</string>
-
-	<string id="agr_treasure_16_name">
-		<text>Завал</text>
-	</string>
-
-	<string id="agr_treasure_16_descr">
-		<text>У завалах спуску в підземелля знайшов велику трубу, куди можна щось заховати. Варто цим скористатися.</text>
-	</string>
-
-	<string id="agr_treasure_17_name">
-		<text>Потертий рюкзак</text>
-	</string>
-
-	<string id="agr_treasure_17_descr">
-		<text>Знайшов біля згнилого тіла вояки якийсь рюкзак з усяким добром. Взяти не ризикнув - місцевість відкрита. Раптом вистежить мене хто?</text>
-	</string>
-
-	<string id="agr_treasure_18_name">
-		<text>На пагорбі</text>
-	</string>
-
-	<string id="agr_treasure_18_descr">
-		<text>У наметі неподалік від табору дигерів знайшов рюкзак із хабаром. Повернуся сюди за кілька днів і заберу, якщо власник не з'явиться.</text>.
-	</string>
-
-	<string id="agr_treasure_19_name">
-		<text>У попелищі</text>.
-	</string>
-
-	<string id="agr_treasure_19_descr">
-		<text>Спостерігав у бінокль, як сталкер закинув рюкзак на саму верхівку аномальних виступів. Спочатку не зрозумів, у чому річ, а потім його чомусь затримали вояки.</text>
-	</string>
-
-	<string id="agr_treasure_20_name">
-		<text>Затонулий транспорт</text>.
-	</string>
-
-	<string id="agr_treasure_20_descr">
-		<text>У затонулій буханці ще залишилася цілою верхівка кабіни, куди, мабуть, закину рюкзак, а то хто знає, чи буде мене притискати бандитське кодло на Смітнику.</text>
-	</string>
-
-	<string id="agr_treasure_21_name">
-		<text>Під вентиляцією</text>
-	</string>
-
-	<string id="agr_treasure_21_descr">
-		<text>Навряд чи хтось окрім полізе в епіцентр хімічної аномалії. Знайшов там шматок вентиляції. Туди і скину трохи хабара.</text>
-	</string>
-
-	<string id="agr_treasure_22_name">
-		<text>Покров листя</text>.
-	</string>
-
-	<string id="agr_treasure_22_descr">
-		<text>На даху будівлі зробив ничку, прикриту листям дерева, що росте поруч. Повернуся по можливості через тиждень.</text>
-	</string>
-
-	<string id="agr_treasure_23_name">
-		<text>Посеред лісу</text>.
-	</string>
-
-	<string id="agr_treasure_23_descr">
-		<text>У лісочку на відшибі знайшов велику колоду. Залишу в ній надлишки спорядження, а то рюкзак ось-ось порветься.</text>
-	</string>
-
-	<string id="agr_treasure_24_name">
-		<text>Прикопаний сейф</text>.
-	</string>
-
-	<string id="agr_treasure_24_descr">
-		<text>За територією наукового комплексу застав вояку за копанням у якомусь сейфі. З бази тягнув щось, схоже. Або обчищу це барахло, або зіллю солдата командиру. Треба подумати.</text>
-	</string>
-
-	<string id="agr_treasure_25_name">
-		<text>Сейф у засіках</text>.
-	</string>
-
-	<string id="agr_treasure_25_descr">
-		<text>Заглядав до друга на територію дигерів, знайшов у контейнері сейф, який ніким не зайнятий. Дозволили залишити там свої речі за невелику плату.</text>
-	</string>
-
-	<string id="agr_quest_treasure_1_name">
-		<text>Бревно біля дороги</text>
-	</string>
-
-	<string id="agr_quest_treasure_1_descr">
-		<text>Є одне непримітне місце недалеко від виходу на Смітник з гарним хабаром.</text>
-	</string>
-
-	<string id="agr_quest_treasure_2_name">
-		<text>Недосяжний рюкзак</text>
-	</string>
-
-	<string id="agr_quest_treasure_2_descr">
-		<text>На базі дигерів є одне містечко, куди один знайомий мужик скидав хабар. Із Зони він уже звалив, а хабар вирішив не забирати.</text>.
-	</string>
-
-	<string id="agr_quest_treasure_3_name">
-		<text>Під вагоном</text>
-	</string>
-
-	<string id="agr_quest_treasure_3_descr">
-		<text>Знаю місце розташування схованки багатенького сталкера. Випадково почув, коли той тріпався з кентом.</text>
-	</string>
-
-	<string id="agr_quest_treasure_4_name">
-		<text>На даху</text>
-	</string>
-
-	<string id="agr_quest_treasure_4_descr">
-		<text>Є тут одна схованка, яка знаходиться буквально під боком. Головне, щоб вояки тебе не помітили.</text>
-	</string>
-
-	<string id="agr_quest_treasure_5_name">
-		<text>Не влізай, уб'є</text>
-	</string>
-
-	<string id="agr_quest_treasure_5_descr">
-		<text>Ось тобі координати моєї схованки як нагорода за допомогу з собаками. Якби не ти, гризли б мій труп ці тварюки.</text>
-	</string>
-
+  <string id="agr_quest_treasure_3_name">
+    <text>Під вагоном</text>
+  </string>
+  <string id="agr_quest_treasure_3_descr">
+    <text>Знаю місце розташування схованки багатенького сталкера. Випадково почув, коли той тріпався з кентом.</text>
+  </string>
+  <string id="agr_quest_treasure_4_name">
+    <text>На даху</text>
+  </string>
+  <string id="agr_quest_treasure_4_descr">
+    <text>Є тут одна схованка, яка знаходиться буквально під боком. Головне, щоб вояки тебе не помітили.</text>
+  </string>
+  <string id="agr_quest_treasure_5_name">
+    <text>Не влізай, уб'є</text>
+  </string>
+  <string id="agr_quest_treasure_5_descr">
+    <text>Ось тобі координати моєї схованки як нагорода за допомогу з собаками. Якби не ти, гризли б мій труп ці тварюки.</text>
+  </string>
 </string_table>

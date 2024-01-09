@@ -1,133 +1,94 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1251"?>
 <string_table>
-
-	<string id="labx18_inspect_level">
-		<text>ПІДЗЕМНА РОЗВІДКА</text>
+  <string id="labx18_inspect_level">
+    <text>ПІДЗЕМНА РОЗВІДКА</text>
+  </string>
+  <string id="labx18_inspect_level_start_down_name">
+    <text>Спуститися з бандитами в лабораторію Х-18</text>
+  </string>
+  <string id="labx18_inspect_level_start_down_text">
+    <text>Потрібно розвідати обставини в підземній лабораторії Х-18 із загоном бандитів і доповісти Трухляю.</text>
+  </string>
+  <string id="labx18_map_treasure">
+    <text>ЗНИКНЕННЯ СТАЛКЕРА</text>
+  </string>
+  <string id="labx18_map_treasure_search_stalker_name">
+    <text>Знайти майстра живим або мертвим</text>
+  </string>
+  <string id="labx18_map_treasure_search_stalker_text">
+    <text>Трухляй казав, що один із досвідчених сталкерів зник десь у X-18. Може, у мене вийде наштовхнутися на нього. Або на його труп...</text>
+  </string>
+  <string id="labx18_map_treasure_check_new_location_name">
+    <text>Перевірити місце, відзначене на карті</text>
+  </string>
+  <string id="labx18_map_treasure_check_new_location_text">
+    <text>У трупі сталкера-мажора знайшов карту з позначкою. Імовірно, це місце якось пов'язане з угрупованням «Воля». Потрібно туди сходити. Ось тільки місце знаходиться на території бази бандитів...</text>
+  </string>
+  <string id="labx18_inspect_level_start_name"><text>Оглянути лабораторію з бандитами</text>.
 	</string>
-
-	<string id="labx18_inspect_level_start_down_name">
-		<text>Спуститися з бандитами в лабораторію Х-18</text>
+  <string id="labx18_inspect_level_start_text">
+    <text>Потрібно перевірити лабораторію разом з бандитами.</text>
+  </string>
+  <string id="labx18_inspect_level_kill_monsters_name">
+    <text> Розібратися з мутантами</text>
+  </string>
+  <string id="labx18_inspect_level_kill_monsters_text">
+    <text>Для подальшого просування по лабораторії необхідно позбутися мутантів.</text>
+  </string>
+  <string id="labx18_inspect_level_speak_bandit_name">
+    <text>Поговорити з бандитом</text>
+  </string>
+  <string id="labx18_inspect_level_speak_bandit_text">
+    <text>Масол чимось стривожений після атаки мутантів. Потрібно оговорити деталі для подальшого просування.</text>
+  </string>
+  <string id="labx18_inspect_level_alone_name"><text>Оглянути всі рівні Х-18 поодинці</text>.
 	</string>
-
-	<string id="labx18_inspect_level_start_down_text">
-		<text>Потрібно розвідати обставини в підземній лабораторії Х-18 із загоном бандитів і доповісти Трухляю.</text>
+  <string id="labx18_inspect_level_alone_one_text">
+    <text>Так і знав, що не можна з бандитами справ мати. Дурень, о дурень! А ці скоти ще отримають своє — я-то ж уже знайду спосіб їм насолити.</text>
+  </string>
+  <string id="labx18_inspect_level_alone_two_text">
+    <text>Потрібно було допомогти бандитам розібратися з мутантами, але та гаразд. Піду огляну лабораторію, вони повинні впоратися. Сумнівно, що вони б пішли зі мною.</text>
+  </string>
+  <string id="labx18_inspect_level_alone_three_text">
+    <text>Мутанти вбиті. Піду подивлюся, що коїться на нижніх поверхах. Гадаю, ця гопота навряд чи б зі мною пішла — підозрілі вони якісь.</text>
+  </string>
+  <string id="labx18_inspect_level_kill_monster_name">
+    <text>Знищити монстра</text>
+  </string>
+  <string id="labx18_inspect_level_kill_monster_text">
+    <text>Здається, це така сама тварюка, яку ми вбили на поверхні. Дай Бог мені одному з нею впоратися...</text>
+  </string>
+  <string id="labx18_inspect_level_go_back_name"><text>Повернутися на поверхню</text>.
 	</string>
-
-	<string id="labx18_map_treasure">
-		<text>ЗНИКНЕННЯ СТАЛКЕРА</text>
+  <string id="labx18_inspect_level_go_back_text">
+    <text>Тварюку знищено. Час повертатися нагору.</text>
+  </string>
+  <string id="labx18_inspect_level_go_back_two_text">
+    <text>Ще й Свободівець якийсь на мене напав! Пора нарешті валити звідси до бісової матері...</text>
+  </string>
+  <string id="labx18_inspect_level_search_corpse_name"><text>Ошукати труп невідомого</text>.
 	</string>
-
-	<string id="labx18_map_treasure_search_stalker_name">
-		<text>Знайти майстра живим або мертвим</text>
+  <string id="labx18_inspect_level_search_corpse_text">
+    <text>На мене напав сталкер. Схожий на... Свободівця? Потрібно його ошукати.</text>
+  </string>
+  <string id="labx18_inspect_level_speak_bandit_desertir_name">
+    <text>Розповісти Трухляю про те, що сталося</text>
+  </string>
+  <string id="labx18_inspect_level_speak_bandit_desertir_text">
+    <text>Нарешті я вибрався, настав час навідатися до Трухляя з новинами, нехай і не дуже добрими...</text>
+  </string>
+  <string id="labx18_task_code">
+    <text>КОДОВІ ДВЕРІ</text>
+  </string>
+  <string id="labx18_task_code_search_name">
+    <text>Знайти код від дверей</text>
+  </string>
+  <string id="labx18_task_code_search_text">
+    <text>Потрібно дізнатися, що знаходиться за зачиненими дверима. Може, вийде знайти код. Пройдуся ще трохи.</text>
+  </string>
+  <string id="labx18_task_code_open_door_name"><text>Потрапити в сусіднє приміщення</text>.
 	</string>
-
-	<string id="labx18_map_treasure_search_stalker_text">
-		<text>Трухляй казав, що один із досвідчених сталкерів зник десь у X-18. Може, у мене вийде наштовхнутися на нього. Або на його труп...</text>
-	</string>
-
-	<string id="labx18_map_treasure_check_new_location_name">
-		<text>Перевірити місце, відзначене на карті</text>
-	</string>
-
-	<string id="labx18_map_treasure_check_new_location_text">
-		<text>У трупі сталкера-мажора знайшов карту з позначкою. Імовірно, це місце якось пов'язане з угрупованням «Воля». Потрібно туди сходити. Ось тільки місце знаходиться на території бази бандитів...</text>
-	</string>
-
-	<string id="labx18_inspect_level_start_name">
-		<text>Оглянути лабораторію з бандитами</text>.
-	</string>
-
-	<string id="labx18_inspect_level_start_text">
-		<text>Потрібно перевірити лабораторію разом з бандитами.</text>
-	</string>
-
-	<string id="labx18_inspect_level_kill_monsters_name">
-		<text> Розібратися з мутантами</text>
-	</string>
-
-	<string id="labx18_inspect_level_kill_monsters_text">
-		<text>Для подальшого просування по лабораторії необхідно позбутися мутантів.</text>
-	</string>
-
-	<string id="labx18_inspect_level_speak_bandit_name">
-		<text>Поговорити з бандитом</text>
-	</string>
-
-	<string id="labx18_inspect_level_speak_bandit_text">
-		<text>Масол чимось стривожений після атаки мутантів. Потрібно оговорити деталі для подальшого просування.</text>
-	</string>
-
-	<string id="labx18_inspect_level_alone_name">
-		<text>Оглянути всі рівні Х-18 поодинці</text>.
-	</string>
-
-	<string id="labx18_inspect_level_alone_one_text">
-		<text>Так і знав, що не можна з бандитами справ мати. Дурень, о дурень! А ці скоти ще отримають своє - я-то ж уже знайду спосіб їм насолити.</text>
-	</string>
-
-	<string id="labx18_inspect_level_alone_two_text">
-		<text>Потрібно було допомогти бандитам розібратися з мутантами, але та гаразд. Піду огляну лабораторію, вони повинні впоратися. Сумнівно, що вони б пішли зі мною.</text>
-	</string>
-
-	<string id="labx18_inspect_level_alone_three_text">
-		<text>Мутанти вбиті. Піду подивлюся, що коїться на нижніх поверхах. Гадаю, ця гопота навряд чи б зі мною пішла - підозрілі вони якісь.</text>
-	</string>
-
-	<string id="labx18_inspect_level_kill_monster_name">
-		<text>Знищити монстра</text>
-	</string>
-
-	<string id="labx18_inspect_level_kill_monster_text">
-		<text>Здається, це така сама тварюка, яку ми вбили на поверхні. Дай Бог мені одному з нею впоратися...</text>
-	</string>
-
-	<string id="labx18_inspect_level_go_back_name">
-		<text>Повернутися на поверхню</text>.
-	</string>
-
-	<string id="labx18_inspect_level_go_back_text">
-		<text>Тварюку знищено. Час повертатися нагору.</text>
-	</string>
-
-	<string id="labx18_inspect_level_go_back_two_text">
-		<text>Ще й Свободівець якийсь на мене напав! Пора нарешті валити звідси до бісової матері...</text>
-	</string>
-
-	<string id="labx18_inspect_level_search_corpse_name">
-		<text>Ошукати труп невідомого</text>.
-	</string>
-
-	<string id="labx18_inspect_level_search_corpse_text">
-		<text>На мене напав сталкер. Схожий на... Свободівця? Потрібно його ошукати.</text>
-	</string>
-
-	<string id="labx18_inspect_level_speak_bandit_desertir_name">
-		<text>Розповісти Трухляю про те, що сталося</text>
-	</string>
-
-	<string id="labx18_inspect_level_speak_bandit_desertir_text">
-		<text>Нарешті я вибрався, настав час навідатися до Трухляя з новинами, нехай і не дуже добрими...</text>
-	</string>
-
-	<string id="labx18_task_code">
-		<text>КОДОВІ ДВЕРІ</text>
-	</string>
-
-	<string id="labx18_task_code_search_name">
-		<text>Знайти код від дверей</text>
-	</string>
-
-	<string id="labx18_task_code_search_text">
-		<text>Потрібно дізнатися, що знаходиться за зачиненими дверима. Може, вийде знайти код. Пройдуся ще трохи.</text>
-	</string>
-
-
-	<string id="labx18_task_code_open_door_name">
-		<text>Потрапити в сусіднє приміщення</text>.
-	</string>
-
-	<string id="labx18_task_code_open_door_text">
-		<text>Код у мене. Час перевірити, що ж знаходиться за тими дверима.</text>
-	</string>
-
+  <string id="labx18_task_code_open_door_text">
+    <text>Код у мене. Час перевірити, що ж знаходиться за тими дверима.</text>
+  </string>
 </string_table>
