@@ -130,6 +130,6 @@ Here are [the default values](./settings.default.json) that you can change to su
 
 ### Help me improve the CLI extractor tool
 
-Any [suggestion](https://github.com/lehrax-gaming/true-localisation/issues) is welcome, if you want to help me with the toolkit.
+Any [suggestion](https://github.com/true-community/true-localisation/issues) is welcome, if you want to help me with the toolkit.
 
 </details>
