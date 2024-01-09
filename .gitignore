@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 bin
 content
 userdata
@@ -25,3 +26,32 @@ node_modules
 ###
 
 gamedata/configs/localization.ltx
+=======
+bin
+content
+userdata
+fsgame.ltx
+PlayGame.exe
+unins000.dat
+unins000.exe
+
+!gamedata/.index.json
+
+pfx
+xrEngine.dxvk-cache
+
+.db
+!.db/.keep
+unpacked
+
+converter.exe
+db_converter
+settings.json
+
+bun.lockb
+node_modules
+
+###
+
+gamedata/configs/localization.ltx
+>>>>>>> main
