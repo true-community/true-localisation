@@ -1,3 +1,5 @@
+*.xml text encoding=Windows-1251 working-tree-encoding=Windows-1251 eol=crlf
+
 configs/text/eng/*.xml text encoding=Windows-1252 working-tree-encoding=Windows-1252 eol=crlf
 configs/text/fra/*.xml text encoding=Windows-1252 working-tree-encoding=Windows-1252 eol=crlf
 configs/text/ger/*.xml text encoding=Windows-1252 working-tree-encoding=Windows-1252 eol=crlf
