@@ -1,5 +1,4 @@
 {
-  "files.encoding": "windows1251",
   "[json]":{
     "files.encoding": "utf8"
   },
@@ -22,5 +21,6 @@
   "editor.detectIndentation": false,
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
-  "files.trimTrailingWhitespace": true
+  "files.trimTrailingWhitespace": true,
+  "files.encoding": "windows1251"
 }

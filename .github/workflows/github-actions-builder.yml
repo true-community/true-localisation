@@ -5,7 +5,8 @@ run-name: ${{ github.actor }} is compiling new content
 on:
   push:
     branches:
-      - staging  # when there is need to actually create artifact, it commit has to be pushed to "staging"
+      - staging  # when there is need to actually create artifact, its commit has to be pushed to "staging"
+      - ci-run  # or when we explicitly want to trigger ci run
 
 jobs:
   build-content:
@@ -17,31 +18,64 @@ jobs:
         env:
           CONVERTER_URL: ${{ secrets.CONVERTER_URL }}
         run: |
-          sudo apt-get install git tree -y
+          bash -c .ci/language_pack.sh
 
-          git clone https://github.com/Masterkatze/db_converter.git 2> /dev/null || true
-
-          mkdir -p ./content/resources ./content/languages ./content/patches
-          cp .run/linux_native_db_converter/settings.default.json ./settings.json
-
-          jq -c '.i_verified_settings = true' ./settings.json > ./settings.json.tmp && mv ./settings.json.tmp ./settings.json
-          jq -c '.converter = "./db_converter/build/src/db_converter"' ./settings.json > ./settings.json.tmp && mv ./settings.json.tmp ./settings.json
-
-          cat ./settings.json | jq
-
-          docker pull oven/bun:alpine
-          docker run --rm -v $(pwd):/app -v $(pwd)/content:/app/content oven/bun:alpine /bin/sh -c "apk add boost-dev build-base curl cmake gtest-dev spdlog-dev make && bun --version && cd /app && .run/linux_native_db_converter/install.sh && ls -l && bun install && bun ./run.ts validate && bun ./run.ts repack ''"
-
-          find ./content -type d -empty -delete
-          tree ./content
-          7z a ./content.7z ./content >/dev/null
-          stat -c %s ./content.7z | numfmt --to=iec-i --suffix=B --format="%.2f"
-
-      - name: Upload artifact
-        uses: actions/upload-artifact@v2
+      - name: Upload artifact "eng"
+        uses: actions/upload-artifact@v4
         with:
-          name: content
-          path: ./content.7z
+          name: English
+          path: ./output/English.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "fra"
+        uses: actions/upload-artifact@v4
+        with:
+          name: francés
+          path: ./output/francés.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "ger"
+        uses: actions/upload-artifact@v4
+        with:
+          name: Deutsch
+          path: ./output/Deutsch.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "ita"
+        uses: actions/upload-artifact@v4
+        with:
+          name: italiano
+          path: ./output/italiano.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "pol"
+        uses: actions/upload-artifact@v4
+        with:
+          name: polski
+          path: ./output/polski.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "rus"
+        uses: actions/upload-artifact@v4
+        with:
+          name: русский
+          path: ./output/русский.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "spa"
+        uses: actions/upload-artifact@v4
+        with:
+          name: español
+          path: ./output/español.7z
+          if-no-files-found: ignore
+          compression-level: 0
+      - name: Upload artifact "ukr"
+        uses: actions/upload-artifact@v4
+        with:
+          name: українська
+          path: ./output/українська.7z
+          if-no-files-found: ignore
+          compression-level: 0
 
       # - name: Pull request artifacts
       #   uses: gavv/pull-request-artifacts@v2
