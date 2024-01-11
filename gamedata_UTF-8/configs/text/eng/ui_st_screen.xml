@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<string_table>
+  <string id="cant_walk">
+    <text>You're too exhausted to move</text>
+  </string>
+  <string id="cant_walk_weight">
+    <text>You're too overloaded to move</text>
+  </string>
+  <string id="general_complete_task">
+    <text>Mission complete:</text>
+  </string>
+  <string id="general_fail_task">
+    <text>Mission failed:</text>
+  </string>
+  <string id="general_in_item">
+    <text>Item received:</text>
+  </string>
+  <string id="general_in_money">
+    <text>Money received:</text>
+  </string>
+  <string id="general_new_task">
+    <text>New mission:</text>
+  </string>
+  <string id="general_out_item">
+    <text>Item lost:</text>
+  </string>
+  <string id="general_out_money">
+    <text>Money lost:</text>
+  </string>
+  <string id="general_reverse_task">
+    <text>Mission cancelled:</text>
+  </string>
+  <string id="general_update_task">
+    <text>Mission updated:</text>
+  </string>
+  <string id="gun_jammed">
+    <text>YOUR WEAPON HAS JAMMED</text>
+  </string>
+  <string id="torch_battery_out">
+    <text>YOUR BATTERY HAS RUN OUT</text>
+  </string>
+  <string id="jup_b10_ufo_searching_tips">
+    <text>Search aircraft ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b1_bar_door">
+    <text>Door jammed</text>
+  </string>
+  <string id="jup_b1_door_is_closed">
+    <text>The door is locked from the inside</text>
+  </string>
+  <string id="jup_b202_treasures_closed">
+    <text>Safe locked</text>
+  </string>
+  <string id="jup_b205_tip_door_closed">
+    <text>Code needed</text>
+  </string>
+  <string id="jup_b205_tip_door_decode">
+    <text>Enter code ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b206_use_plant">
+    <text>Take plant ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b209_scanner_place_tips">
+    <text>Set up scanner ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b209_scanner_remove_tips">
+    <text>Take scanner ($$ACTION_USE$$)</text>
+  </string>
+  <string id="lx8_raduga">
+    <text>Rainbow aggression suppressor\nmodel of external emissions complex\nscale 1:20</text>
+  </string>
+  <string id="pas_b400_tip_switcher">
+    <text>Activate switch ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a18_use_idol">
+    <text>Examine device ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a25_blow_up_enter_door">
+    <text>Plant explosives ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a28_talk_with_stupid_medic">
+    <text>Recover ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_b306_elevator_door_locked_used">
+    <text>Elevator has no power</text>
+  </string>
+  <string id="pri_b306_generator_use">
+    <text>Activate generator ($$ACTION_USE$$)</text>
+  </string>
+  <string id="sleep_ok_button">
+    <text>Sleep</text>
+  </string>
+  <string id="st_ach_balance_advocate">
+    <text>You have attained the Man of Balance achievement.</text>
+  </string>
+  <string id="st_ach_battle_systems_master">
+    <text>You have attained the Weapon Systems Master achievement.</text>
+  </string>
+  <string id="st_ach_detective">
+    <text>You have attained the Detective achievement.</text>
+  </string>
+  <string id="st_ach_diplomat">
+    <text>You have attained the Diplomat achievement.</text>
+  </string>
+  <string id="st_ach_friend_of_duty">
+    <text>You have attained the Friend of Duty achievement.</text>
+  </string>
+  <string id="st_ach_friend_of_freedom">
+    <text>You have attained the Friend of Freedom achievement.</text>
+  </string>
+  <string id="st_ach_friend_of_stalkers">
+    <text>You have attained the Friend of Stalkers achievement.</text>
+  </string>
+  <string id="st_ach_herald_of_justice">
+    <text>You have attained the Courier of Justice achievement.</text>
+  </string>
+  <string id="st_ach_high_tech_master">
+    <text>You have attained the Hi-Tech Expert achievement.</text>
+  </string>
+  <string id="st_ach_information_dealer">
+    <text>You have attained the Trafficker of Information achievement.</text>
+  </string>
+  <string id="st_ach_keeper_of_secrets">
+    <text>You have attained the Keeper of Secrets achievement.</text>
+  </string>
+  <string id="st_ach_kingpin">
+    <text>You have attained the Boss achievement.</text>
+  </string>
+  <string id="st_ach_leader">
+    <text>You have attained the Leader achievement.</text>
+  </string>
+  <string id="st_ach_mutant_hunter">
+    <text>You have attained the Mutant Hunter achievement.</text>
+  </string>
+  <string id="st_ach_one_of_the_lads">
+    <text>You have attained the One of Ours achievement.</text>
+  </string>
+  <string id="st_ach_pioneer">
+    <text>You have attained the Pioneer achievement.</text>
+  </string>
+  <string id="st_ach_research_man">
+    <text>You have attained the Research Assistant achievement.</text>
+  </string>
+  <string id="st_ach_seeker">
+    <text>You have attained the Artifact Hunter achievement.</text>
+  </string>
+  <string id="st_ach_skilled_stalker">
+    <text>You have attained the Seasoned Stalker achievement.</text>
+  </string>
+  <string id="st_ach_wealthy">
+    <text>You have attained the Wealthy Client achievement.</text>
+  </string>
+  <string id="st_autosave">
+    <text>Autosaving...</text>
+  </string>
+  <string id="st_can_use_weapon_now">
+    <text>You can now take your weapon out.</text>
+  </string>
+  <string id="st_detective_news">
+    <text>Medical supplies have been placed in the personal box on the Skadovsk for solving the secret of the missing stalkers.</text>
+  </string>
+  <string id="st_duty_first_reward_news">
+    <text>A PS5-M Universal Protection suit has been placed in the personal box at Yanov for helping Duty.</text>
+  </string>
+  <string id="st_duty_second_reward_news">
+    <text>A PSZ-9d Duty Armor suit has been placed in the personal box at Yanov for helping Duty.</text>
+  </string>
+  <string id="st_freedom_first_reward_news">
+    <text>A Wind of Freedom suit has been placed in the personal box at Yanov for helping Freedom.</text>
+  </string>
+  <string id="st_freedom_second_reward_news">
+    <text>A Freedom Guard suit has been placed in the personal box at Yanov for helping Freedom.</text>
+  </string>
+  <string id="st_freeplay_text_ok">
+    <text>You didn't manage to reach the helicopters and the evacuation team left the Zone without you.</text>
+  </string>
+  <string id="st_freeplay_text_yes_no">
+    <text>Are you ready to leave the Zone? There's no way back.</text>
+  </string>
+  <string id="st_game_over">
+    <text>YOU ARE DEAD</text>
+  </string>
+  <string id="st_game_over_lol_1">
+    <text>YOU DIED</text>
+  </string>
+  <string id="st_game_over_lol_2">
+    <text>ARE YOU WINNING SON?</text>
+  </string>
+  <string id="st_game_over_lol_3">
+    <text>PRESS F TO PAY RESPECT</text>
+  </string>
+  <string id="st_game_over_advice_1">
+    <text>YOU NEED TO BE MORE CAREFUL IN THE ZONE</text>
+  </string>
+  <string id="st_game_over_load_save">
+    <text>%c[info_orange][$$ACTION_JUMP$$] %c[info_title]Load the last save</text>
+  </string>
+  <string id="st_game_over_exit_menu">
+    <text>%c[info_orange][$$ACTION_QUIT$$] %c[info_title]Exit to the main menu</text>
+  </string>
+  <string id="st_game_paused">
+    <text>PAUSE</text>
+  </string>
+  <string id="st_game_saved">
+    <text>SAVING GAME</text>
+  </string>
+  <string id="st_herald_of_justice_news">
+    <text>An artifact has been placed in the personal box on the Skadovsk for helping to expose Magpie.</text>
+  </string>
+  <string id="st_jup_b41_door_locked">
+    <text>You must wait for the dock to become airtight</text>
+  </string>
+  <string id="st_lx8_button_press_true">
+    <text>Access granted</text>
+  </string>
+  <string id="st_lx8_lift_button">
+    <text>Take the elevator up ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_pri_b306_go_down">
+    <text>Take the elevator down ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_attention">
+    <text>DANGER</text>
+  </string>
+  <string id="st_psy_danger">
+    <text>CRITICAL PSY-EMISSION LEVEL. LEAVE DANGER AREA IMMEDIATELY.</text>
+  </string>
+  <string id="st_radiation_danger">
+    <text>DANGEROUS RADIATION LEVELS. PROTECTION REQUIRED TO GO FURTER.</text>
+  </string>
+  <string id="st_search_helicopter">
+    <text>Examine helicopter ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_sleep_hours">
+    <text>h</text>
+  </string>
+  <string id="st_tip">
+    <text>Message</text>
+  </string>
+  <string id="tip_door_closed_base_alarm">
+    <text>Door locked - the camp is on alert</text>
+  </string>
+  <string id="tip_door_closed_hide_weapon">
+    <text>Door locked - you must holster your weapon</text>
+  </string>
+  <string id="tip_door_locked">
+    <text>%c[ts_ui_red] DOOR LOCKED</text>
+  </string>
+  <string id="tip_door_no_electricity">
+    <text>Door is not being powered</text>
+  </string>
+  <string id="tip_gate_locked">
+    <text>Gate blocked</text>
+  </string>
+  <string id="tip_need_access_card">
+    <text>Use the access card ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_no_access_card">
+    <text>Access card required</text>
+  </string>
+  <string id="tip_open_another_site">
+    <text>The door cannot be opened from this side</text>
+  </string>
+  <string id="ui_st_mp_experience_grow">
+    <text>-</text>
+  </string>
+  <string id="zat_b12_conteiner_full_locked">
+    <text>The container is locked. Two keys are needed to open it.</text>
+  </string>
+  <string id="zat_b12_conteiner_has_one_key">
+    <text>Use key ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b12_conteiner_has_two_key">
+    <text>Use keys ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b12_conteiner_locked">
+    <text>The container is locked. You need the second key to open it.</text>
+  </string>
+  <string id="zat_b12_conteiner_open">
+    <text>Open container ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b14_door_locked_hint">
+    <text>The door mechanism has been blocked from the inside.</text>
+  </string>
+  <string id="zat_b57_balon_use_hint">
+    <text>Connect gas tank ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b57_gas_warning">
+    <text>Warning! Chemical hazard!</text>
+  </string>
+  <string id="zat_b57_vintil_press">
+    <text>Turn valve ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b33_car_searching_tip">
+    <text>Search car ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_resupply_ready">
+    <text>You can restock on medical supplies and ammo by visiting Lieutenant Rogovets and Lieutenant Kirillov.</text>
+  </string>
+  <string id="st_surge_while_asleep">
+    <text>An emission has recently occurred in the Zone.</text>
+  </string>
+  <string id="st_ach_marked_by_zone">
+    <text>You have attained the Marked by the Zone achievement.</text>
+  </string>
+  <string id="st_mutant_hunter_news">
+    <text>Ammo has been placed in the personal box at Yanov for eliminating dangerous mutants.</text>
+  </string>
+  <string id="st_found_old_treasure">
+    <text>Received coordinates of a stash that has already been discovered.</text>
+  </string>
+  <string id="st_got_treasure">
+    <text>Stash found</text>
+  </string>
+  <string id="st_found_new_treasure">
+    <text>Stash coordinates received</text>
+  </string>
+  <string id="st_press_any_key">
+    <text>[SPACE] Continue</text>
+  </string>
+  <string id="st_game_complete">
+    <text>TO BE CONTINUED...</text>
+  </string>
+  <string id="st_playing_time">
+    <text>PLAYING TIME</text>
+  </string>
+</string_table>

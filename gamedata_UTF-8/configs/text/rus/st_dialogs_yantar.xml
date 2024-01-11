@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="yan_xottab_door_open_dialog_0">
+    <text>Я вскрыл дверь. Видимо, учёные пытались ее заблокировать, чтобы сдержать натиск монстров. Темень там, жуткая. Вонь ужасная стоит. Но вроде все тихо.</text>
+  </string>
+  <string id="yan_xottab_door_open_dialog_1">
+    <text>Я вижу. Значит, так: неразумно будет идти туда всем вместе. Я сам все разведаю, а вы оставайтесь здесь.</text>
+  </string>
+  <string id="yan_xottab_door_open_dialog_2">
+    <text>Как скажешь.</text>
+  </string>
+  <string id="yan_xottab_door_open_dialog_3">
+    <text>Все, я пошел. Будьте тут начеку.</text>
+  </string>
+  <string id="yan_xottab_after_check_bunker_dialog_0">
+    <text>Как все прошло? Мы слышали внутри выстрелы и какой-то вой.</text>
+  </string>
+  <string id="yan_xottab_after_check_bunker_dialog_1">
+    <text>Все сотрудники в бункере зомбированы. Пришлось их убрать. Я обыскал помещения, удалось найти некоторые данные. Я надеюсь, что в них мы и найдем все, что нам нужно, и уберемся отсюда. Неприятное место. Как у вас?</text>
+  </string>
+  <string id="yan_xottab_after_check_bunker_dialog_2">
+    <text>Все тихо. И это очень подозрительно. На бункере остались следы бойни. На лагерь явно напала целая свора мутантов. Живых никого.</text>
+  </string>
+  <string id="yan_xottab_after_check_bunker_dialog_3">
+    <text>Это к лучшему. Двигаем к лагерю, нужно разобраться, что за инфу накопали. Если нашли все, о чем нас просили, улетаем.</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_0_1">
+    <text>Есть новости?</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_0_2">
+    <text>Что там у тебя, как успехи с бункером?</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_0_3">
+    <text>Выкладывай, как успехи?</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_1_1">
+    <text>Мы ещё не закончили с бункером.</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_1_2">
+    <text>Работаем.</text>
+  </string>
+  <string id="yan_sky_wait_check_bunker_dialog_1_3">
+    <text>В процессе.</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_0">
+    <text>Как все прошло?</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_1">
+    <text>Там все мертвы. Выживших нет. Даже мутантов не видно. Что показывают данные с дрона?</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_2">
+    <text>Аналогично. Я не наблюдаю совершенно никакой активности. Даже движение мутантов отсутствует.</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_3">
+    <text>Это и пугает. Я принес данные, которые мне удалось найти в мобильном бункере. Если ты сможешь их расшифровать, мы поймем, как действовать дальше, что искать, и что вообще здесь произошло. Странно то, что меня такое спокойствие пугает больше, чем любая другая боевая операция.</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_4">
+    <text>Это точно. Я прямо сейчас займусь расшифровкой.</text>
+  </string>
+  <string id="yan_sky_after_check_bunker_dialog_5">
+    <text>Давай. Не теряй времени. Чем быстрее мы отсюда уберемся, тем лучше.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_0">
+    <text>Командир?</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_1">
+    <text>Ну, что тут у тебя?</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_2">
+    <text>Сам посмотри. Вон там, у болота за бункером, какой-то дым. Черный, будто шины жгут.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_3_1">
+    <text>Аномалия?</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_3_2">
+    <text>Я видел это за бункером, оно исчезло, когда я подошёл. Аномалия какая-то?</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_4">
+    <text>Не похоже это на аномалию, командир. Словно кто-то дымовую шашку за ниточку дергает.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_5">
+    <text>Занимательно, конечно... Новенький же у нас спец по аномалиям, как полковник мне наплел. Возьму его, осмотрим объект.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_6">
+    <text>Мы с вами?</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_7">
+    <text>Нет. Оставайтесь в лагере и дожидайтесь расшифровки данных, а я заодно проверю этого Коваля в деле. Если у нас начнется заварушка, я должен быть в нем уверен.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_8">
+    <text>Понял тебя.</text>
+  </string>
+  <string id="yan_vuslich_something_start_dialog_9">
+    <text>Увидимся.</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_0_1">
+    <text>Какие новости?</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_0_2">
+    <text>Что нового?</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_0_3">
+    <text>Есть что интересное, командир?</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_1_1">
+    <text>Новостей нет, работай.</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_1_2">
+    <text>Ничего интересного, продолжай наблюдение.</text>
+  </string>
+  <string id="yan_vuslich_something_idle_dialog_1_3">
+    <text>Займись своим делом.</text>
+  </string>
+  <string id="yan_koval_start_anomaly_dialog_0">
+    <text>Слушаю.</text>
+  </string>
+  <string id="yan_koval_start_anomaly_dialog_1">
+    <text>Собирайся. У нас есть дело как раз по твоей части. Собирай все свои сканеры, детекторы и отправимся осмотреть одну аномалию неподалеку.</text>
+  </string>
+  <string id="yan_koval_start_anomaly_dialog_2">
+    <text>Я понял. Идем.</text>
+  </string>
+  <string id="yan_koval_start_anomaly_dialog_3">
+    <text>Пошевеливайся.</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_0">
+    <text>Странная штука...</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_1">
+    <text>Что скажешь?</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_2">
+    <text>Многое повидал, во многое даже сам залазил, но такого никогда не видел. Слышал, как сталкеры на Свалке травили байки о каком-то черном дыме. Мол, после выбросов новая аномалия образовалась. Брешут или, правда, видели - я не знаю. Может, это оно и есть.</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_3">
+    <text>Оно пролетело мимо нас и потом сразу пропало. Такое вообще бывает с аномалиями?</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_4">
+    <text>Среди тех, с которыми я знаком, - точно нет. Сейчас я предлагаю расставить сканеры и хорошенько проверить местность.</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_5">
+    <text>Что от меня требуется?</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_6">
+    <text>Ничего, все сделаю сам. Но прикрытие не помешает, мало ли что.</text>
+  </string>
+  <string id="yan_koval_second_anomaly_dialog_7">
+    <text>Хорошо. Работай.</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_0">
+    <text>Помоги, помоги!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_1">
+    <text>Ты кто такой?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_2">
+    <text>Я? Я сталкер! Сталкер я! Там эта тварь, черная, она там! Видите ее?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_3">
+    <text>Тут никого нет!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_4">
+    <text>Она гналась за мной! Там, у завода!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_5">
+    <text>Спокойно. Кто гнался?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_6">
+    <text>Хорошо, что я вас встретил, господи! Вы можете меня отсюда вывести? Я заплачу! У меня есть деньги! Много денег! И артефакты! Все, что угодно, - только помогите, я умоляю вас!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_7">
+    <text>Успокойся! Сначала расскажи, кто ты, как сюда попал, и что с тобой случилось. Потом уже разберемся.</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_8">
+    <text>Я работал на ученых и потом на бункер напали мутанты. Я смог сбежать, но за мной увязалась это.... Я не знаю, что это! Что-то черное, как густой дым. Оно меня постоянно преследует и не выпускает отсюда! Куда бы я ни пошел, я всё равно возвращаюсь обратно! Помогите мне, пожалуйста! Умоляю Вас!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_9">
+    <text>Мы тебе поможем, если ты поможешь нам. Ты рассказываешь все, что знаешь, - спокойно, по порядку - и тогда мы заберем тебя с собой. Устраивает такой расклад?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_10">
+    <text>Да, устраивает! Я на все согласен!</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_11">
+    <text>Сколько ещё выживших?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_12">
+    <text>Никого. Я остался совсем один. Остальных убили мутанты.</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_13">
+    <text>Значит, так: сейчас мы идем к нам в лагерь, там безопасно. Потом ты нам расскажешь все в мельчайших подробностях.</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_14">
+    <text>Как скажете! А вы вообще кто? Военные?</text>
+  </string>
+  <string id="yan_aver_panic_start_dialog_15">
+    <text>Военные... Двигай за мной и не отставай, нам прямо по дороге, мы почти у нашей временной базы.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_0_1">
+    <text>Приветствую, командир.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_0_2">
+    <text>Слушаю тебя.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_0_3">
+    <text>Выкладывай, босс.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_1_1">
+    <text>Бывай.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_1_2">
+    <text>Увидимся.</text>
+  </string>
+  <string id="yan_sky_idle_dialog_1_3">
+    <text>Пока.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_0">
+    <text>Это тот самый выживший с тобой?</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_1">
+    <text>Да. Говорит, что обычный сталкер, работавший на ученых. Вскользь сказал, что на бункер напали мутанты, и поэтому там никто не выжил. Он весь грязный, обросший, - видимо, долго уже здесь. Говорит, не может отсюда выбраться. Пусть немного придет в себя, а после хорошенько его допросим.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_2">
+    <text>Понял. Кстати, по тем данным, которые я расшифровал в КПК зомбированных ученых, дело было далеко не в нападении мутантов.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_3">
+    <text>Что удалось узнать?</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_4">
+    <text>Я смог расшифровать и достать всю информацию только с КПК ассистентов Сахарова и с жесткого диска лабораторного компьютера. Если не загружать тебя лишней инфой, то скажу, что учёные активно занимались изучением лаборатории X-16. Не знаю, зачем она им понадобилась, но они регулярно, посменно, работали внутри. Месяц назад что-то спровоцировало мощный толчок. На мобильный бункер хлынули мутанты, поднялся уровень озера и затопил всю низину. Что это было - я пока не знаю. КПК профессора Сахарова пока не поддается взлому, а ведь там, по всей видимости, и таится все самое интересное. Но я ещё повожусь с ним.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_5">
+    <text>Сколько это займет?</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_6">
+    <text>Я делаю все возможное. Как только, так сразу. Впрочем, отряду будет, чем пока заняться. С лабораторного компьютера я смог достать расписание смен и выяснил, что на момент начала катаклизма некоторые сотрудники находились за пределами бункера. Некоторые были внутри X-16, некоторые на территории завода «Янтарь». Еще несколько сотрудников последний раз пеленговались на болотах со стороны Агропрома. Я составил карту с отметками последнего местонахождения всех ученых перед тем, как оффнулась связь со спутником. Думаю, есть смысл осмотреть их тела и забрать все возможные носители информации. А там, чем черт не шутит, может и встретить других выживших?</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_7">
+    <text>Понял тебя. Значит, ты остаешься с выжившим и пилотом в лагере и продолжаешь работу по расшифровке данных. Вуслыч и Хоттабыч пусть берут на себя местность за бункером и там собирают информацию.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_8">
+    <text>Понял, принял! А что с Ковалем? Есть соображения, куда он подевался?</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_9">
+    <text>Тут два варианта. Или он слинял, под впечатлением от увиденного здесь, или это как-то связано с тем черным дымом, который мы заметили, и от которого якобы бежал тот выживший сталкер. Я попытаюсь разузнать, что это за ерунда такая.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_10">
+    <text>Хорошо. Если мне удастся засечь сигнал Коваля, я сообщу.</text>
+  </string>
+  <string id="yan_sky_after_panic_stalker_dialog_11">
+    <text>Свяжемся, бывай.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_0">
+    <text>Когда мы сможем отсюда улететь?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_1">
+    <text>Как только, так сразу. Во многом, это будет зависеть и от тебя. Давай по порядку. Кто ты такой? Как тебя зовут?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_2">
+    <text>Меня все Авером кличут. Я пришел сюда три месяца назад, денег заработать. Ну и делал то, что говорят ученые.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_3">
+    <text>Ты сказал, что за тобой гналась черная тварь. Что это? От кого ты бежал?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_4">
+    <text>Я не знаю, что это. Но оно преследует меня уже давно! Как только я пытаюсь выбраться, иду, не сворачивая в какую-то сторону - оно снова меня находит и выбрасывает обратно. Я уже давно пытаюсь покинуть это место, но все тщетно.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_5">
+    <text>Наш человек пропал незадолго до твоего появления. Ты думаешь, оно к этому причастно?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_6">
+    <text>Может быть. Я не знаю.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_7">
+    <text>Ты пытался стрелять в это существо?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_8">
+    <text>О нет, этого уж точно лучше не делать. Стоит только направить ствол в его сторону - оно сразу выбивает оружие из рук.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_9">
+    <text>Ты сказал, что других выживших нет. Ты уверен? Никого больше не встречал?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_10">
+    <text>Уверен. Я тут уже давно, и все это время натыкался только на трупы.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_11">
+    <text>Как тебе удалось выжить? Где ты был на момент начала нападения мутантов?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_12">
+    <text>Я возвращался с завода, увидел волну мутантов и засел в коллекторах. Они промчались мимо, а я смог выжить.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_13">
+    <text>Ты в курсе, чем занимались учёные на заводе и в лаборатории? Что входило в твои обязанности?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_14">
+    <text>Не знаю. Я просто носил их приборы и стоял рядом. В само помещение завода и в лабораторию у меня допуска не было. Когда мы сможем отсюда улететь?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_15">
+    <text>Увы, информации ты дал слишком мало, чтобы это ускорить. Тебе точно больше нечего сказать?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_16">
+    <text>Э... Нет... Нечего, увы.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_17">
+    <text>Если ты что-то вспомнишь - это поможет и тебе и нам. Так что, хорошенько подумай, пока меня не будет.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_18">
+    <text>Куда вы?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_19">
+    <text>Узнать то, чего не рассказал ты. Сиди на месте, с лагеря никуда не подрывайся. Понял?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_20">
+    <text>Понял...</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_21">
+    <text>Еще поговорим.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_0_1">
+    <text>Ну, скоро улетаем?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_0_2">
+    <text>Когда мы отсюда свалим?</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_0_3">
+    <text>Выбраться бы отсюда поскорей...</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_1_1">
+    <text>Придётся подождать.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_1_2">
+    <text>Прекращай ныть, нам тоже тут не сладко.</text>
+  </string>
+  <string id="yan_aver_interrogation_dialog_1_3">
+    <text>Завязывай вопить, как только, так сразу.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_0">
+    <text>Фуф. Спасибо. Вроде всех положили!</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_1">
+    <text>Ты что тут делаешь? Почему бросил оборудование без присмотра?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_2">
+    <text>Я его не бросал. Решил оставить там для сбора детальной информации об аномалии. Блиц осмотр ничего не показал. Сейчас там нет следов аномальной активности.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_3">
+    <text>А здесь ты что делаешь? Почему без предупреждения ты меняешь дислокацию?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_4">
+    <text>Я приметил аномалию и решил ее хорошенько рассмотреть. Не исключено, что именно она является источником того черного дыма, который мы видели.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_5">
+    <text>Что ты мне втираешь? Рюкзак! Показывай!</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_6">
+    <text>С какой радости?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_7">
+    <text>С такой! Вытряхивай все из рюкзака! За дурака меня, что ли, держишь? Сначала я нахожу тебя на Агропроме около аномалии, теперь здесь. Ты же из бывших сталкеров... Ремесло свое вспоминал, так?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_8">
+    <text>Пошел в жопу! Тебя это не касается!</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_9">
+    <text>Слышишь, я не знаю, кто ты полковнику: зятек, сынок, кузина - мне похрен. То, что он отправил тебя с нами, не дает тебе никакого права игнорировать мои приказы.  Если я ещё раз замечу нечто подобное - прикладом зубы повыбиваю. Я не стану из-за такого, как ты, подвергать угрозе исход операции. Мне нужен отряд в полном составе тогда, когда я этого захочу, а не искать тебя по всей Зоне. Понял меня?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_10">
+    <text>Я все понял. Этого больше не повторится. Простите, босс.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_11">
+    <text>Рация, почему молчит?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_12">
+    <text>Выронил. Когда я подошел к этому месту, приметил трупы мутантов. Но это я так понял. Подошел ближе - а они спят. Все как один! Потом один из них шевельнулся, я и стрельнул. Они все очухались - и на меня.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_13">
+    <text>Странно. Слышал от знакомого майора про спящих Кровососов, но чтобы снорки и псы - это впервые на моей памяти. Ладно. Когда твое оборудование соберет всю информацию?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_14">
+    <text>Еще пару часов. Если там что-то есть, конечно.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_15">
+    <text>Хорошо. Тогда дожидайся, потом собирай оборудование и в лагерь.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_16">
+    <text>А вы? Моя помощь разве не требуется?</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_17">
+    <text>Твоя - не требуется. Лучшее, что ты можешь сделать - сидеть в лагере и никуда оттуда не подрываться.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_18">
+    <text>Понял.</text>
+  </string>
+  <string id="yan_koval_after_monsters_attack_dialog_19">
+    <text>Всё, двигай.</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_first_0">
+    <text>Ну что, нашёл что-нибудь?</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_first_1">
+    <text>Да, забирай это барахло. Мне кое-что удалось узнать сразу, с остальным разберись сам.</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_first_2">
+    <text>Хорошо. Давай сюда. Поковыряюсь с этим. Ты пока проверь, что там с Ковалем, я же дал тебе знать, что поймал его сигнал.</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_first_3">
+    <text>Сейчас займусь этим.</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_second_0">
+    <text>Ну что, как дела со сбором инфы? Что с Ковалем?</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_second_1">
+    <text>Забирай железки, собрал их с тел зомбированных учёных. Кое-что удалось узнать на месте, остальное разгребай сам. С Ковалем всё в порядке, подробности не сейчас.</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_second_2">
+    <text>Рад это слышать. Есть кое-что ещё: из найденных в бункере данных мне удалось кое-что узнать. Есть возможность добраться до тела одного сталкера. Это рядом с тем местом, где обвалился главный зал лаборатории Х-16. Для этого необходимо включить охладительную установку, которая находится в ангаре на территории завода. Тогда излучение возле пролома должно стабилизироваться, и мы сможем добраться до тела бедолаги. А ещё я не могу до конца понять, почему оно вообще присутствует, ведь главный источник излучения фактически уничтожен. Впрочем, всякое возможно, лови координаты. А, и ещё: настройкой системы охлаждения в своё время занимался некий сталкер Левша, так что надолго ты там не задержишься - тебе её нужно просто включить, там одна кнопка, как я узнал из схемы на ноуте Сахарова. Всё, удачи!</text>
+  </string>
+  <string id="yan_sky_collect_info_compl_dialog_second_3">
+    <text>Вот так задача, мать вашу. Ладно, погляжу, что можно сделать.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_0">
+    <text>Ну, здравствуй!</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_1">
+    <text>Вы кто? Как здесь оказались?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_2">
+    <text>Что, не узнал меня, Леша?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_3">
+    <text>Не понял?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_4">
+    <text>Василий Иванович Кондратюк, командир четвертого отряда военных сталкеров!</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_5">
+    <text>Да ладно? Василий Иванович, как? Как вы тут оказались?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_6">
+    <text>Ну как... Как свое отслужил, решил домой вернуться. Я же в этих краях вырос. На заводе «Янтарь» мой отец и мой дед работали. Вот теперь и я тут, уродцев всяких отстреливаю. Может, хоть немного эти места безопаснее станут. А там глядишь, и люди вернутся в свои дома. Ты садись, чаю выпьем. Поговорим.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_7">
+    <text>Я слышал, Вы из-за болезни покинули службу. Как здоровье?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_8">
+    <text>Нет его, здоровья. Слабо вижу, слабо слышу. Суставы, проклятые, ноги еле передвигаю. Реакция уже не та. Но, наверно, рановато мне ещё на тот свет. Хожу еще, топчу Зону. Ты сам то как?  Все служишь?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_9">
+    <text>Служу. И ребята наши тоже со мной. Скай, Вуслыч, Хоттаб. Меня после вас поставили командовать. Спасибо, что замолвили словечко!</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_10">
+    <text>Никто лучше тебя не справился бы. Полегли бы там все, у станции-то. Правильно сделал, что увел отряд. Человеческая жизнь гораздо важнее. Жаль, что никто из верхов этого не понимает. Им плевать на людей, главное до цели добраться. А что она им даст, цель-то? Зона никогда всех своих секретов не раскроет, как бы ты не старался.  Ее нужно понимать, не перечить. Знать, когда остановиться, а когда идти. Тогда, может, и протопчешь ее до моих лет.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_11">
+    <text>Вы и про это знаете? Про то, что наш отряд отказался прорываться к станции?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_12">
+    <text>Конечно! Об это же все потом ещё пару месяцев гудели. А ты все правильно сделал. Почти все отряды военных сталкеров там и полегли. Лежат их тела теперь там, некому даже похоронить. Так что, ты все сделал правильно!</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_13">
+    <text>Не страшно вам тут, одному?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_14">
+    <text>А чего мне бояться? Пусть они меня боятся! Я этих гадов уже столько пострелял за всю жизнь! А вот ты будь осторожен здесь...</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_15">
+    <text>А в чем дело?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_16">
+    <text>Есть тут один человек. Хотя и человеком я его не назову. Вон эти, зомбированные, и то больше люди, чем эта собака. Так что ты осторожнее с ним. Не доверяй ему. А когда придет время выбирать, прими правильное решение. Ты уже доказал, что умеешь это делать в нужный момент.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_17">
+    <text>О ком Вы говорите?</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_18">
+    <text>О том, кого ты здесь встретил. Ты сходи в его ночлежку. Там все и узнаешь. Она в коллекторах. Тебе нужно пройти через помещение за моей спиной и спуститься в коллекторы через дыру в полу, потом найти выход не составит труда, а то заплутал, поди. А я пойду. Пора мне.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_19">
+    <text>Постойте, как? Пойдёмте вместе. Наши ребята обрадуются, да и вам спокойнее будет, если мы будем держаться рядом.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_20">
+    <text>О себе беспокойся, Алёш. Ступай, ещё увидимся.</text>
+  </string>
+  <string id="yan_labx16_oldster_start_dialog_21">
+    <text>Постойте!</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_0">
+    <text>У меня что, галюны уже пошли? Ты кто, мужик?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_1">
+    <text>У меня такой же вопрос. Ты вообще как? Живой?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_2">
+    <text>Ну как сказать... Вроде дышу еще.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_3">
+    <text>Помощь нужна?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_4">
+    <text>Да чем ты тут поможешь? Меня этот осел вроде перевязал, да толку? Не сегодня, так завтра чую, подохну.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_5">
+    <text>Что с тобой произошло? И кого ты ослом назвал?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_6">
+    <text>Да есть тут один. Был, точнее. Уже несколько часов где-то пропадает. Пырнул меня ножом и бросил истекать кровью. А потом как понял, что без меня ему никак отсюда не выбраться, залечивать бросился.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_7">
+    <text>Так, давай по порядку, с самого начала. А я в ответ постараюсь помочь тебе.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_8">
+    <text>А вы вообще кто? Форма у вас знакомая какая-то... Из военных сталкеров, верно?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_9">
+    <text>Верно.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_10">
+    <text>Неужто на эвакуацию прибыли? Только некого спасать уже. Поздно!</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_11">
+    <text>Мы прибыли во всем разобраться и забрать отсюда всех выживших. Расскажи все, что знаешь, и мы тебе поможем. Кто ты такой?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_12">
+    <text>Матвей меня зовут. Вообще настоящее имя Серега, но прозвище такое в Зоне дали. Я тут работал по контракту на ученых. Охранял их экспедиции, таскал снаряжение, и так, по мелочи всякое. Уж куда лучше, чем на Костыля батрачить с его сомнительными связями.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_13">
+    <text>Так, ты тут работал. Что случилось потом?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_14">
+    <text>Да черт его знает. Я как раз возвращался с завода, надо было дотащить до бункера оборудование ученых. А потом что-то сильно рвануло. Я от страха юркнул в коллекторы -  а там целая стая снорков! Я рюкзак сбросил, и бежать! Потом вижу, дыра в трубе. Вот я туда и прыганул. Снорки сюда уже добраться не смогли.  Не знаю, сколько я тут сидел. Может, часов десять, пятнадцать. Но как все утихло, решил выбраться. Выхожу наружу, и словно в другой мир попал. Учёные мертвы, у бункера вообще мясо какое-то произошло. Зомбированных дохрена, мутанты везде бродят. Походил по округе, живых вообще никого не встретил. Решил перекантоваться в этих коллекторах ещё одну ночь, а поутру идти в сторону Агропрома.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_15">
+    <text>Но ты все ещё здесь...</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_16">
+    <text>Все ещё здесь... Утром собрал припасы и выдвинулся в сторону озера. Там по его руслу можно выйти к Агропрому, если знаешь обходные тропинки вокруг аномалий. Иду такой себе, тишина вокруг. И внезапно выбегает из кущерей долговец! Он меня как увидел, заорал, «помоги, стреляй в эту тварь!». Я оружие вскинул, по сторонам посмотрел - никого. А долговец дрожит весь, запыханный. Видно, несколько часов уже так бегал. От кого только, не понятно.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_17">
+    <text>Дальше что было?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_18">
+    <text>Я спросил: что случилось, откуда он тут взялся? В эти края долговцы давным-давно не захаживали, но он ничего толком он мне так и не сказал. Говорит, был на задании, потом внезапно переместился сюда. А здесь за ним какой-то черный дым гоняется. Ну я и подумал: может, крыша у него поехала? Тут кого только нет из мутантов, каких только аномалий не разрослось, но вот про черный дым услышал впервые.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_19">
+    <text>То есть сам ты его не видел?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_20">
+    <text>Кого? Дым? Не видел. Да и был ли он тут вообще?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_21">
+    <text>А потом что?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_22">
+    <text>Он чуть полежал, отдышался. Я ему дал фляжку, чтобы попить и умыться. А то как чухан - грязный, мокрый весь был. Он маску снимает, и тут-то я его и узнал! Этого кренделя долговцы пару недель назад по всей Свалке искали. Говорят, грохнул своего и свалил. Теперь в его фотку долгари дротики кидают на блокпосту. Поэтому его лицо трудно было не запомнить. Но я виду не подал, что узнал. Подумал, что как выберусь отсюда, тогда уже маякну Дятлову о том, где видел беглеца в последний раз.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_23">
+    <text>Ты можешь разговаривать? Все нормально?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_24">
+    <text>Терпимо.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_25">
+    <text>Тогда продолжай. Как только мы во всем разберемся, тебе помогут.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_26">
+    <text>Он полежал немного, и давай меня расспрашивать: как выбраться отсюда, куда идти и все в этом духе. Следопыт, тоже мне. Тут и на Агропром можно выйти и на Дикую территорию. Проблем нет, главное болтами дорогу прокладывай. Но, видимо, с концами заплутал долгарик. Предложил ему пойти со мной. Это показалось мне очень хорошим вариантом. Пустил бы его первым в аномальное поле, как отмычку. Сдох бы там - значит Зона ему судья за убийство. А если пройдет аномалии - сдам Дятлову. Но ходок из него никакой был. На ногах вообще не стоял. С таким я бы далеко не ушел. Решил отвести его в коллекторы, чтобы отдохнул и пожрал. А потом уже и в путь. Он потом сразу вырубился, а я глаз так и не сомкнул. Поутру следующего дня отправились в дорогу. Дал ему свою старую куртку, но ствол не рискнул. Сказал - один у меня только. Если что, сам прикрою. Аномальное поле прошли успешно. Он на удивление весьма ловко обходил аномалии, они даже не сработали ни разу, что нам на руку было - не распугали местную живность. Через часик вышли к окрестностям Агропрома. Оттуда уже виднелся научный комплекс. Буквально рукой подать до безопасного места. Долговец засиял даже от радости. Да я сам уже теплился мыслями, что сейчас выберемся, неделю гудеть в баре буду, не меньше, за то что удалось выжить после таких то событий. И тут прилетает неждан. В бочину. Кровь фонтаном, а я на землю рухнул.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_27">
+    <text>За что он тебя?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_28">
+    <text>А кто ж его знает? Может и он меня узнал тоже. Я же на свалке часто тусовался, поди запомнил мое лицо. Испугался, что сдам его. Или я все-таки подал вида, что узнал его. А он просто использовал меня как проводника, и бросил умирать, когда Агропром уже был на расстоянии вытянутой руки.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_29">
+    <text>Ну а потом?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_30">
+    <text>Долговец сразу рванул оттуда. Я же попытался закрыть рану, но кровь хлыстала слишком сильно. Пошевелиться даже не мог. Потом вырубился.  Очнулся уже в коллекторах. А первое, что увидел перед собой - бородатая рожа этого упыря. Видимо, несколько дней я так провалялся. Как выжил вообще, не понятно. Он опять засиял, когда я глаза открыл. Мне же ему в харю плюнуть хотелось!</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_31">
+    <text>И как он это все объяснил?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_32">
+    <text>Да все просто. Говорит, извини, там контролер, видимо был. Сам не помню, как так произошло. Ну и бред! Какой, нахрен, контролер? Я его спрашиваю, а почему ты меня сюда притащил? Там до научного комплекса уже рукой подать было. А там врачи есть. На что он ответил, что вокруг Янтаря образовалась какая-то аномалия, и он не может отсюда выбраться. Постоянно возвращается обратно. Ну, точно с катушек слетел паренек! Он с таким энтузиазмом говорил мне, что поставит меня на ноги, и тогда-то мы отсюда выберемся. И надо отдать ему должное, он старался. Постоянно бродил, медикаменты искал, ухаживал. Только толку? На поправку я не иду. С каждым днем все хуже и хуже. Боюсь, заражение уже пошло. Долговец как ушел, так и нет его что-то. Может, помер? Ну, туда ему и дорога.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_33">
+    <text>Да нет, не помер. У нас он. Только вот про тебя он ничего не говорил. Но бредил выбраться отсюда так же сильно.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_34">
+    <text>Вот сука! Опять решил списать меня. Не, ну не собака, а?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_35">
+    <text>Есть ещё что добавить?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_36">
+    <text>Я все что знал - рассказал.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_37">
+    <text>Хорошо. Тогда я тебя ненадолго покину. Потом обязательно вернусь, и мы заберем тебя с собой. Потерпишь?</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_38">
+    <text>Уже столько терпел, и ещё потерплю. Вы только не бросайте меня здесь! Снорки сюда хоть и не забредают, но от их рычания не по себе становится. А я и защитить себя не могу.</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_start_dialog_39">
+    <text>Жди. Я быстро!</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_0">
+    <text>Журавлев, ты?! Ты где пропадал? Мы уже битый час тебя тут ищем!</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_1">
+    <text>Разбил рацию, когда свалился в подземелья. На связь выйти не мог. Вы тут как? Удалось что-то найти?</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_2">
+    <text>По большому счету, только орды мутантов. Нашли ещё пару трупов ученых, но ничего полезного там Скай, вроде как, не нашел. А у тебя что?</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_3">
+    <text>Многое прояснилось. Надеюсь, скоро мы отсюда уберемся. Тот сталкер, которого я подобрал, он ещё в лагере? Под присмотром?</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_4">
+    <text>Да, сидит там. Достал галдеть и спрашивать, когда мы улетим отсюда. А что?</text>
+  </string>
+  <string id="yan_xottab_after_collectors_dialog_5">
+    <text>Все потом расскажу. Там в коллекторах раненный сталкер. Нужно дотащить его до лагеря, пока кони не двинул.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_0">
+    <text>Вы все закончили? Когда мы уже улетим?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_1">
+    <text>Мы скоро. А вот ты не факт, что с нами вообще куда-то полетишь.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_2">
+    <text>Что это значит?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_3">
+    <text>Я не шутил, когда говорил, что мы поможем тебе, если ты поможешь нам. Вместо помощи ты навешал нам лапши на уши.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_4">
+    <text>Я не понимаю...</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_5">
+    <text>Я все знаю. Про тебя, про твои бега от «Долга». Про сталкера, которого ты пырнул ножом. Так что теперь с тобой будет другой разговор. Что ты за человек-то такой? Одного убил, другого умирать оставил. Будь твоя воля, ты поди и вертолет наш угнал бы?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_6">
+    <text>Ты военный, ты должен меня понять. Человек, которого мы убили, он не заслуживал такой чести, которую ему оказал наш командир. Мы годами служили группировке, в таких передрягах побывали. А все лавры доставались почему-то тому мерзавцу. Я просто сделал то, что хотел сделать каждый из «Долга», будь в этом уверен. Просто духа не хватало.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_7">
+    <text>Ну, а сталкер? За что его?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_8">
+    <text>Больше всего на свете я хочу покинуть эту проклятую Зону и все это забыть. Начать все сначала. А он сдал бы меня, это точно. Сталкеры падкие на бабло. Стоило мне его отпустить, меня бы тут же поймали. Я не хотел его убивать, просто хотел взять себе небольшую фору и скрыться. А он бы выкарабкался. Чай не новичок.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_9">
+    <text>Не могу не спросить. Что это за черный дым такой?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_10">
+    <text>Вы же тут для сбора информации, верно? Тогда предлагаю сделку. Если отпускаете меня, я все расскажу.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_11">
+    <text>Ты считаешь, что это твой козырь? Мне плевать, что это такое, а руководство интересует совсем другое.</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_12">
+    <text>Пообещайте, что не оставите меня здесь. Можете делать все что угодно, только не оставляйте меня тут!</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_13">
+    <text>Я подумаю. Так что за дым? Аномалия?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_14">
+    <text>Не совсем. Эта штука переместила меня сюда, и никуда не выпускает. Как только я пытаюсь отсюда выбраться, оно настигает меня и возвращает обратно. Будто бы пытается свести меня с ума. Я понятия не имею, что это. Это словно месть за убийство. Но я в такое слабо верю. Вдруг оно не отпустит и вас?</text>
+  </string>
+  <string id="yan_stalker_aver_after_collectors_dialog_15">
+    <text>В таком случае, если это действительно месть, я тебя просто пристрелю. Ладно. Сиди здесь тихо. А я ещё подумаю, что с тобой делать. Рыпнешься - мои ребята тебя пристрелят.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_0">
+    <text>Неужели! Мы уже начали переживать. Ребята сказали, что ты разбил рацию?</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_1_1">
+    <text>Да. Вдребезги. Зато смог добыть несколько носителей информации. Некоторые оказались повреждены, но часть важной информации я таки нарыл. Держи. Кажется, картина начинает проясняться.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_1_2">
+    <text>Да. Вдребезги. И в самой лаборатории я особо ничего интересного не узнал. Важно, что мы выполнили поставленную задачу. Это главное.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_2_1">
+    <text>Так, так... Надо же. Значит, один из ученых хотел помочь, но, наоборот, подписал всем смертный приговор. Нелепо. Но он в любом случае был не прав. Головные боли, на которые жаловались некоторые сотрудники, были вовсе не от установки с мозгом. Из лабораторного компьютера я смог узнать, что учёные разместили небольшой излучатель, который должен был отпугивать мутантов от окрестностей Янтаря. Один из модулей вышел из строя, и это создало проблемы со связью в этой местности, а также вызвало головные боли у некоторых сотрудников. Руководство обещало отправить техника и устранить дефекты, но произвести ремонт не успели. До произошедшего в X-16 связь с Агропромом пусть и плохая, но была, но после взрыва она окончательно была нарушена.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_2_2">
+    <text>Ладно, пока ты был в подземельях, я кое-что узнал. Головные боли, на которые жаловались некоторые сотрудники, были вовсе не от установки с мозгом. Из лабораторного компьютера я смог узнать, что учёные разместили небольшой излучатель, который должен был отпугивать мутантов от окрестностей Янтаря. Один из модулей вышел из строя, и это создало проблемы со связью в этой местности, а также вызвало головные боли у некоторых сотрудников. Руководство обещало отправить техника и устранить дефекты, но произвести ремонт не успели. До произошедшего в X-16 связь с Агропромом пусть и плохая, но была, но после взрыва она окончательно была нарушена.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_3">
+    <text>Полагаю, излучатель нужно отключить.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_4">
+    <text>Обязательно. Вся техническая информация и сведения о местоположении хранились у профессора Сытянова. Но не ты, не ребята не смогли найти его, и соответственно носитель информации. Есть идеи? Может, он смог уцелеть?</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_5">
+    <text>Сомневаюсь. По крайней мере, на Янтаре его точно нет. Я там каждый миллиметр осмотрел. Разве что...</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_6">
+    <text>Что?</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_7">
+    <text>Около бункера есть закрытый ангар, откуда доносился рык зомбированных. Что если он среди них?</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_8">
+    <text>Не осмотрим, не узнаем. Мне пойти с вами?</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_9">
+    <text>Нет. Оставайся тут с Хоттабычем, присматривай за этим долговцем. Я возьму Вуслыча. Да и Коваля тоже, а то не хочется оставлять сразу двух упырей без моего присмотра.</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_10">
+    <text>Принял. Тогда удачи!</text>
+  </string>
+  <string id="yan_soldier_sky_after_collectors_dialog_11">
+    <text>Ты тоже тут не расслабляйся, бывай.</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_0">
+    <text>Командир!</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_1">
+    <text>Готов ещё разок прогуляться до мобильного бункера? Нам все-таки придется вскрыть тот ангар и поискать в нем нужную информацию.</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_2">
+    <text>Конечно, готов! Идем вдвоем?</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_3">
+    <text>Нет. Возьмем с собой ещё и Коваля. Не хочу его тут оставлять.</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_4">
+    <text>Понял. Тогда идем?</text>
+  </string>
+  <string id="yan_soldier_vuslich_interference_task_start_dialog_5">
+    <text>Идем!</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_0">
+    <text>Я... Я сейчас...</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_1">
+    <text>Ну и чего ты расселся!?</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_2">
+    <text>Не хорошо мне. Голова кружится.</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_3">
+    <text>Как же ты достал меня! Вот как знал, надо было тебя с вертолета скидывать, когда ещё сюда летели. У нас нет времени рассиживаться, сейчас мутанты опять набегут!</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_4">
+    <text>Мне уже получше, можем идти.</text>
+  </string>
+  <string id="yan_soldier_koval_go_factory_psy_dialog_5">
+    <text>Славно. Идем уже!</text>
+  </string>
+  <string id="yan_soldier_vuslich_factory_final_dialog_0">
+    <text>Не ранен, командир?</text>
+  </string>
+  <string id="yan_soldier_vuslich_factory_final_dialog_1">
+    <text>Все хорошо. Вы тут как?</text>
+  </string>
+  <string id="yan_soldier_vuslich_factory_final_dialog_2">
+    <text>Живы, здоровы! А Коваль-то неплох! Пострелял мутантов.</text>
+  </string>
+  <string id="yan_soldier_vuslich_factory_final_dialog_3">
+    <text>Ну, хоть в чем-то этот мешок полезным оказался. Давайте в лагерь. Больше тут торчать, смысла нет.</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_0">
+    <text>Быстро вы вернулись! Судя по уровню сигнала, все получилось?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_1">
+    <text>Да, все тип-топ. Думаю, наша задача выполнена!</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_2">
+    <text>Поздравляю!</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_3">
+    <text>Подожди ты, вот до базы доберемся, тогда поздравим друг друга. Как раненный?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_4">
+    <text>Бодрячком! Хоттабыч его осмотрел немного, жить будет. Но врачу надо показаться.</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_5">
+    <text>А беглец? Тихо себя вел?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_6">
+    <text>Прижух как ежик! Даже слова не сказал за время вашего отсутствия. Что ты с ним будешь делать?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_7">
+    <text>Поболтаю ещё с ним, а там уже решу. Кстати, забыл сразу спросить. Василия Ивановича помнишь?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_8">
+    <text>Иваныча? Конечно, помню, как его забыть-то. Царствия ему небесного.</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_9">
+    <text>В смысле?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_10">
+    <text>Так умер же он. Как Зону покинул, двух недель не протянул. Лучевая болезнь. Я думал, ты знаешь.</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_11">
+    <text>Надо же...</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_12">
+    <text>А что такое? Что вдруг вспомнил его?</text>
+  </string>
+  <string id="yan_soldier_sky_after_factory_final_dialog_13">
+    <text>Да так, решил поинтересоваться. Ладно. Готовься к отправке домой!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_0">
+    <text>Ну что вы решили? Вы заберете меня с собой? Пожалуйста!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_1">
+    <text>Почему нормальные люди, светила науки, или просто нормальные сталкеры-мужики, которые здесь погибли, так и останутся тут гнить, а ты должен лететь с нами? Назови хоть одну причину.</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_2">
+    <text>Но вы не можете меня тут просто так оставить! Пусть будет суд, пусть посадят, но только не оставляйте меня здесь! Это худшее, что только может быть. Прошу вас. Пожалуйста! Я же человек, в конце концов!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_3_1">
+    <text>Ладно. Но по возвращении я лично прослежу, чтобы тебя доставили к Долгу. Пусть они решают, что с тобой делать.</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_3_2">
+    <text>Какой ещё суд? Что ты несешь? Ты в Зоне, и она должна тебя судить. Вали отсюда! Ты с нами не летишь.</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_3_3">
+    <text>Ладно, летишь с нами. Но как только вернемся, сразу отправишься на большую землю. Надеюсь, за все свои делишки пожизненное охватишь!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_3_4">
+    <text>Паскуда ты последняя, а не человек. Руки за голову!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_4_1">
+    <text>Пусть будет так. Как скажете.</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_4_2">
+    <text>Нет, умоляю, нет!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_4_3">
+    <text>Как скажете, только не оставляйте меня тут!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_5_1">
+    <text>Собирайся. Долг зовет!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_5_2">
+    <text>Пошёл вон, иначе свинцом тебе сейчас нафарширую!</text>
+  </string>
+  <string id="yan_stalker_aver_final_dialog_5_3">
+    <text>Кончай ныть, собирайся давай.</text>
+  </string>
+</string_table>

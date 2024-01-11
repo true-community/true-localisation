@@ -1,0 +1,1761 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="agr_diggers_start_dialog_0">
+    <text>Так, ты чего тут забыл?</text>
+  </string>
+  <string id="agr_diggers_start_dialog_1">
+    <text>Я к вашему лидеру, у меня есть для него очень важная информация.</text>
+  </string>
+  <string id="agr_diggers_start_dialog_2">
+    <text>Ладно, сдавай оружие и проходи, пойдешь обратно - заберешь.</text>
+  </string>
+  <string id="agr_diggers_start_dialog_3">
+    <text>Годится.</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_0">
+    <text>Ну, здравствуй. Выкладывай, что там у тебя.</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_1">
+    <text>Приветствую. Я к вам с не самыми хорошими новостями. У вас большие проблемы, мужики. Сушите вёсла - скоро по вашу душу явятся наёмники и, боюсь, раскидают тут всех к чёртовой матери.</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_2">
+    <text>Что за ересь ты несешь? Какие наёмники, что им нужно? Ты сам кто вообще такой?!</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_3">
+    <text>Да я, собственно, обычный сталкер. Просто слышал, что где-то на Агропроме находится научный комплекс, и решил посмотреть, потому что там деньги хорошие платят, насколько мне известно, но сейчас не об этом. По дороге я услышал переговоры неизвестных мне лиц. Судя по цели их задания, это наёмники. А сама цель - штурмом взять кейс, который нашли вы, как я понял.</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_4">
+    <text>Вот тебе на... Сколько голов у наёмников? Что тебе ещё известно? И вообще, как ты мог поймать переговоры, если наемники действуют профессионально и обычно не оставляют никаких следов? А тут прокололись на незашифрованной частоте? Я вот тут думаю, что смешно это всё звучит, сталкер.</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_5">
+    <text>Мне незачем вам врать, пораскинь своими мозгами! Не знаю, как они могли проколоться. Скорее всего, просто торопились. Всего две группы, они и вели переговоры. Насчет количества мне ничего не известно, но, смею предположить, что не менее трёх-четырёх человек в группе. Через час, а то и раньше, они будут уже здесь.</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_6">
+    <text>Чёрт побери... В такой непростой ситуации я ещё не был... А кто заказчик? О нём что-то знаешь?</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_7">
+    <text>Нет, они говорили только о цели задания. Может, вы просто растрепали всем про этот кейс, отсюда и наёмники?</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_8">
+    <text>Нет уж, мои ребята не чешут языком налево и направо. Кажется, это те ублюдки, которые от нас отделились, мы ещё повздорили тогда неслабо. Интересно одно: личность заказчика. Возможно, наши бывшие «друзья» нас и заказали, а могли всем просто, по твоим словам, растрепать, поэтому и наёмники из ниоткуда появляются и заказчика тогда, ясное дело, не узнаем...</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_9">
+    <text>Мне неинтересно, кто заказчик. Я просто пришёл вас предупредить, за что хотел бы получить какое-то вознаграждение. Я собираюсь валить отсюда подальше, мне проблемы с наёмниками не нужны.</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_10">
+    <text>Да, вот, держи. Теперь иди, мне нужно обсудить детали с товарищем.</text>
+  </string>
+  <string id="agr_diggers_leader_dialog_11">
+    <text>Бывай.</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_0">
+    <text>О, снова ты. Забыл чего-то?</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_1">
+    <text>Здравствуй, а ты чего здесь? Там твоих людей сейчас раскидают к хренам!</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_2">
+    <text>Парни справятся! Они опытные бойцы.</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_3">
+    <text>Ага, как же! Наивно думать, что в десять рыл можно отбиться от организованной группы наемников.</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_4">
+    <text>Ну а что теперь делать? Покидать лагерь тоже нельзя. В спину пули пустят и все.</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_5">
+    <text>Пошли со мной, зайдем с фланга и поможем ребятам!</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_6">
+    <text>Не могу! У меня задание: быть здесь!</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_7">
+    <text>Ну и сиди, крыса тыловая! А я пойду и помогу твоим людям. Ненавижу таких, как ты!</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_8">
+    <text>Блин! Ну ладно, пошли... А то, честно говоря, стрёмно за них.</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_9">
+    <text>Погнали! План такой: ты спускаешься вниз, а я чешу наверх - на крышу. Устрою прикрытие оттуда, годится?</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_10">
+    <text>Хорошая идея, я побежал!</text>
+  </string>
+  <string id="agr_diggers_volodya_dialog_11">
+    <text>Давай-давай!</text>
+  </string>
+  <string id="agr_diggers_dialog_final_leader_0">
+    <text>Сталкер, нас очень мало осталось после развала, ты нам не поможешь? Награда будет достойная!</text>
+  </string>
+  <string id="agr_diggers_dialog_final_leader_1_1">
+    <text>Нет уж, я своей дорогой. Хотелось бы сохранить нейтралитет с обеими сторонами, не хочу иметь проблемы.</text>
+  </string>
+  <string id="agr_diggers_dialog_final_leader_1_2">
+    <text>Ерунда, помогу! [...]</text>
+  </string>
+  <string id="agr_diggers_dialog_final_leader_2">
+    <text>Ладно, мужик, дело твоё. Спасибо, что предупредил, этого достаточно. Удачи тебе.</text>
+  </string>
+  <string id="agr_diggers_dialog_final_leader_3">
+    <text>Всего хорошего.</text>
+  </string>
+  <string id="agr_diggers_dialog_final_volodya_0">
+    <text>Спасибо, что предупредил нас, сталкер. Было бы здорово, если бы ты ещё и помог нам с наёмниками!</text>
+  </string>
+  <string id="agr_diggers_dialog_final_volodya_1_1">
+    <text>Нет уж, я своей дорогой. Хотелось бы сохранить нейтралитет с обеими сторонами, мне проблемы не нужны.</text>
+  </string>
+  <string id="agr_diggers_dialog_final_volodya_1_2">
+    <text>Ладно, помогу вам. [...]</text>
+  </string>
+  <string id="agr_diggers_dialog_final_volodya_2">
+    <text>Ладно, мужик, дело твоё. Спасибо, что предупредил, этого достаточно. Удачи тебе.</text>
+  </string>
+  <string id="agr_diggers_dialog_final_volodya_3">
+    <text>Удачи вам.</text>
+  </string>
+  <string id="agr_diggers_weapons_dialog_0">
+    <text>Эй, ты оружие-то своё не забудь.</text>
+  </string>
+  <string id="agr_diggers_weapons_dialog_1">
+    <text>Спасибо.</text>
+  </string>
+  <string id="agr_diggers_start_robbery_dialog_0">
+    <text>Значит, так: мы тут недавно в подземке видели труп в «киселе». Даже трупом его не назвать - одни кости остались. А ствол рядом целёхонький лежит. Достанешь оружие - отпустим, и гуляй на все четыре стороны. Если попытаешься свинтить или вернуться без ствола - пришибем. Если сам сдохнешь в подземке, мы тоже возражать не будем. Все понял?</text>
+  </string>
+  <string id="agr_diggers_start_robbery_dialog_1">
+    <text>Может, хоть мое оружие отдадите?</text>
+  </string>
+  <string id="agr_diggers_start_robbery_dialog_2">
+    <text>Ага. Репа не треснет? Как спустишься, скинем тебе ружье и коробку патронов. Да ты не ссы, там безопасно.</text>
+  </string>
+  <string id="agr_diggers_start_robbery_dialog_3">
+    <text>Хрен с вами.</text>
+  </string>
+  <string id="agr_stalker_help_sos_dialog_0">
+    <text>Сюда!</text>
+  </string>
+  <string id="agr_stalker_help_sos_dialog_1">
+    <text>Что случилось? Я слышал сигнал о помощи.</text>
+  </string>
+  <string id="agr_stalker_help_sos_dialog_2">
+    <text>Привет, Сталкер. Моему, так сказать, приятелю нужна помощь. Он обжёг ноги в «киселе» в подземельях. Сам не может выбраться. Сможешь помочь? Я щедро отблагодарю. Меня зовут Рэд, обо мне все хорошо знают в Баре. Может, слышал?</text>
+  </string>
+  <string id="agr_stalker_help_sos_dialog_3">
+    <text>Рэд? Наслышан. Ты же один из тех немногих, кто был в центре Зоны?</text>
+  </string>
+  <string id="agr_stalker_help_sos_dialog_4">
+    <text>Был и был. И никому не советую. Сейчас речь не об этом. Счет идет на минуты, быть может, мы уже даже опоздали. Ты со мной?</text>
+  </string>
+  <string id="agr_stalker_help_sos_dialog_5_1">
+    <text>Помогу, конечно. Как будем действовать?</text>
+  </string>
+  <string id="agr_stalker_help_sos_dialog_5_2">
+    <text>Не моё это дело, извиняй.</text>
+  </string>
+  <string id="agr_stalker_help_sos_dialog_6">
+    <text>В подземельях, как обычно, полно всякой живности, так что аккуратненько пробираемся к месту и оказываем помощь. Потом будешь прикрывать нас, пока я тащу приятеля к лекарю.</text>
+  </string>
+  <string id="agr_stalker_help_sos_dialog_7">
+    <text>Понял. Идем.</text>
+  </string>
+  <string id="agr_diggers_final_robbery_dialog_0">
+    <text>Ну что, Олеша, принес?</text>
+  </string>
+  <string id="agr_diggers_final_robbery_dialog_1">
+    <text>Принес. Подавитесь.</text>
+  </string>
+  <string id="agr_diggers_final_robbery_dialog_2">
+    <text>Что, потрепала аномалия?</text>
+  </string>
+  <string id="agr_diggers_final_robbery_dialog_3">
+    <text>Мы в расчёте. Давайте мне мое снаряжение, и я пойду. Как и договаривались.</text>
+  </string>
+  <string id="agr_diggers_final_robbery_dialog_4">
+    <text>Вали, придурок. И чтобы на глаза нам больше не попадался.</text>
+  </string>
+  <string id="agr_diggers_final_robbery_dialog_5">
+    <text>Козлы.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_0">
+    <text>Стоять! Без пропуска проход закрыт!</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_1_1">
+    <text>Мне нужен Дубинин. Он обещал мне работу, когда я встретил его в Темной Долине.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_1_2">
+    <text>Мне нужен Дубинин. У меня для него важные сведения.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_2_1">
+    <text>А, ещё один новобранец. Понял-понял. Но без пропуска в комплекс нельзя. Я ему сообщу, что ты здесь. Если посчитает нужным, то выйдет. А пока вали отсюда, не мельтеши.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_2_2">
+    <text>И что? Я тебя теперь пропускать должен? Гони пропуск.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_3_1">
+    <text>Понял.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_3_2">
+    <text>Нет пропуска.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_4">
+    <text>Ну тогда пошел отсюда!</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_5">
+    <text>Как же мне быть? Как получить пропуск?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_6">
+    <text>Я такие вопросы не решаю. Не мои проблемы. Я бы, конечно, мог пойти сообщить Дубинину, что к нему пришли... Но это надо идти, подниматься по лестнице... Разговаривать с людьми, что ещё хуже. А сил вот вообще нет. Кормят так себе, не наедаемся. Зачем мне ради какого-то сталкерка тратить последнюю энергию?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_7_1">
+    <text>Намек понял. У меня есть еда.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_7_2">
+    <text>Я принесу тебе еды.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_8_1">
+    <text>Вот это другое дело. Ладно, жди. Если он, конечно, соизволит к тебе выйти. Только отойди отсюда подальше, не мельтеши.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_8_2">
+    <text>Давай-давай, после поговорим!</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_9_1">
+    <text>Хорошо.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_9_2">
+    <text>Договорились.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_10">
+    <text>Уже ухожу.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_two_2">
+    <text>Вот это другое дело. Ладно, жди. Если Дубинин, конечно, соизволит к тебе выйти. Только отойди отсюда подальше, не мельтеши.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_first_dialog_two_3">
+    <text>Ладно.</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_0">
+    <text>Что, не пускают?</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_1">
+    <text>Да, без пропуска сюда никак. А у тебя, вижу, он есть?</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_2">
+    <text>Имеется. Работаю с учеными, когда есть такое желание.</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_3">
+    <text>И как?</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_4">
+    <text>Да как-как. Нормально. Задания, конечно, не всегда адекватно оплачиваются, ну так и я не особо надрываюсь. То дешёвые арты таскаю, то копыта приношу. С пропуском и вояки не трогают особо, что тоже замечательно.</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_5">
+    <text>Как получить такой же пропуск?</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_6">
+    <text>Да уж, это вообще сложно. Сначала придётся тебе выкинуть детектор и болты, потом прошмыгнуть между парой «мясорубок», и тогда... Гы-гы, ты бы себя видел! Да шучу я. Я свой в Баре у пьяного научника выторговал. Навешал ему лапши, сказал, что видел на «Ростке» красный «Ломоть мяса». Но брать не стал, мол, аномалий там много. Он умолял меня к нему отвести. Обещал пропуск, научные аптечки, детекторы всякие. За пропуск согласился.</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_7">
+    <text>Отвёл?</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_8">
+    <text>Ну отвёл. Не было там никакого красного «Ломтя мяса», естественно. Сказал, ну извиняй. Наверно, бандиты уперли. Они как раз тут привал недалеко устраивали. Он расстроился, а я получил пропуск и теперь могу проходить в комплекс и таскать им побрекушки. В здание, конечно, не пускают, но к спецу по работе с вольными сталкерами захожу частенько. Так что ищи такого же знакомого. Кого попало сюда не пропускают.</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_9">
+    <text>Спасибо за информацию.</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_10">
+    <text>Ты, если что, заглядывай в Бар. Я вижу, ты сталкер при снаряге, можешь к нам в отряд примкнуть. Работаем на Бармена. Задания уже не такие простые, как у научников, но и плата достойная. Подумай.</text>
+  </string>
+  <string id="agr_stalker_perch_start_dialog_11">
+    <text>Хорошо, буду иметь в виду.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_0_1">
+    <text>О, старый знакомый! Здравствуйте! Какими судьбами тут? Решили-таки принять мое предложение о сотрудничестве?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_0_2">
+    <text>О, старый знакомый! Здравствуйте! Какими судьбами тут?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_1_1">
+    <text>Об этом потом. Я от Гамзата, со Свалки. Он просил передать эти бумаги.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_1_2">
+    <text>Об этом потом. Я от Гамзата, со Свалки. Он просил передать эти бумаги. И вот ещё, я в Тёмной Долине свинтил с вашим прибором, возвращаю. Не было времени.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_2_1">
+    <text>О, так быстро! Он хорошо справляется. Думаю, Вы уже осведомлены о нашем деле, раз он поручил доставить документы? И Вы же понимаете, что об этом лучше никому не трепаться?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_2_2">
+    <text>Спасибо за возвращённое оборудование. А Гамзатов хорошо справляется! Думаю, Вы уже осведомлены о нашем деле, раз он поручил доставить документы? И Вы же понимаете, что об этом лучше никому не трепаться?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_3">
+    <text>Да. Конечно, понимаю.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_4">
+    <text>Почему профессор Гамзатов не предупредил, что пошлет Вас отнести исследования?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_5">
+    <text>Боюсь, у меня плохие новости. Он мертв.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_6">
+    <text>Как? Что случилось?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_7">
+    <text>Мы проверяли его теорию об усыплении мутантов с помощью трансмутированного артефакта. И все работало, пока сам артефакт буквально не растворился в моих руках.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_8">
+    <text>Надо же. Это... Это очень плохая для всех нас новость. Он был действительно ценным сотрудником. И просто хорошим приятелем. Трудно поверить, что все так вышло. Теперь все исследования в этом направлении под большой угрозой. Никто так хорошо не разбирался в этом вопросе, как Гамзатов. Очень надеюсь, что в этих документах будут полезные сведения, и его смерть не окажется напрасной.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_9">
+    <text>Да, мне тоже его очень жаль. Хороший был мужик. И сталкерам помогал в лазарете на Свалке. Интересно, как они теперь без медика.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_10">
+    <text>Знаете, я могу вам с этим помочь. Думаю, Сталкеры будут вам благодарны, если вы приведете им нового медика.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_11">
+    <text>Каким образом?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_12">
+    <text>У нас недавно выгнали с комплекса одного работника. Он может и разгильдяй, но в медицине разбирается. По крайней мере, дырку от кабаньих клыков залатать сможет. Но есть одна проблема...</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_13">
+    <text>Какая?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_14">
+    <text>Да запил он. Как уволили, так он все свои расчётные спустил на выпивку. Спал под забором комплекса, клянчил взять его обратно, буянил, пока его наша охрана не вышвырнула подальше. Жаль его, печень же так откажет через неделю-другую. Поговорили бы Вы с ним. Нас, бывших коллег, он слушать не станет, а Вы вроде человек со стороны. Может, сможете убедить его взяться за ум и пойти к Сталкерам на базу, как в свое время Гамзат сделал.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_15">
+    <text>Да, медик - это дело нужное. Сам недавно плечо повредил, и если бы не врач, хана бы настала. Пожалуй, стоит попробовать. Как его зовут, и где мне его вообще искать?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_16">
+    <text>Александр Киреев. А где он, я не знаю. В последний раз видели где-то на юго-западе. Ищи там.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_17">
+    <text>Хорошо, попробую.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_18">
+    <text>Я пока попробую изучить записи Гамзатова. Вы один из немногих, кто знает про наши исследования, и надеюсь, мы сможем сотрудничать дальше по этому вопросу. Я могу на вас рассчитывать? Не бесплатно, разумеется.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_19">
+    <text>Думаю, да.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_20">
+    <text>Хорошо. Тогда я с вами свяжусь, как появятся результаты.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_dialog_21">
+    <text>До встречи.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_0">
+    <text>А?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_1">
+    <text>Саня, вставай! Санё-ё-ёк?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_2">
+    <text>Чё... ик! ты... ик! Ты кто такой вообще, а? Иди отсюдова.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_3">
+    <text>Хорошее место для сна ты выбрал...</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_4">
+    <text>Че те надо? Отвали!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_5">
+    <text>Ты так и собираешься тут валяться, пока печень не откажет?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_6">
+    <text>Я тебя пристрелю сейчас, ты чего прикопался? Какая тебе разница вообще?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_7">
+    <text>Я заинтересован в том, чтобы ты не хоронил свои драгоценные знания литрами водяры. Да, поперли тебя с комплекса. Но ты ещё нужен людям. Не науке, так обычным Сталкерам, нуждающимся в медицинской помощи. Пойдем в лагерь, отоспишься, будешь работать там.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_8">
+    <text>Делать мне больше нечего... Мне и тут хорошо. Иди отсюда, я сказал! Ща прикладом шлепну!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_9">
+    <text>Может, выпьем?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_10">
+    <text>Вот так бы сразу, а то пришел, докопался что-то. Ну-ка, наливай!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_11">
+    <text>Пошла, родная!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_12">
+    <text>Ну так... Как звать-то тебя?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_13">
+    <text>Топор!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_14">
+    <text>Имя твое как?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_15">
+    <text>Извини, жить ещё хочу, так что имя настоящее не скажу.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_16">
+    <text>Это ещё почему? Наливай!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_17">
+    <text>Дрогнули! Да потому что примета такая. Никаких настоящих имен в Зоне.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_18">
+    <text>А, это ваши сталкерские приметы. Я за пределы базы не особо-то часто выходил, так что не знал, извиняй. Я Саня! Санек!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_19">
+    <text>Санек, что ж ты спиваешься-то?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_20">
+    <text>А хер ли мне ещё делать? Поперли с научной базы ни за что. Не виноват я, если оборудование полетело. А им хрен что докажешь!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_21">
+    <text>Обратно не возьмут теперь?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_22">
+    <text>Я пробовал. Не возьмут.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_23">
+    <text>Как пробовал? Под забором сонный пикет с водкой под боком устраивал?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_24">
+    <text>Не умничай, а? Пробовал я, не берут обратно. Там серьезный был залет с этим оборудованием... \n \nНаливай! Накатим еще!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_25">
+    <text>Уфф... По шарам дало уже.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_26">
+    <text>Мне как неделю назад по шарам дало, так не отпускает. Хорошо-то как!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_27">
+    <text>И что, теперь так и хочешь жить? Пить под деревом, спать с дохлыми свиньями? Ради этого столько учился, вкладывал сил?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_28">
+    <text>А что мне остается-то? \n \nНаливай еще, какого фига стакан пустой?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_29">
+    <text>Я тебе предлагаю... ик... перебраться в лагерь Сталкеров. Там нужен медик. Будешь помогать людям.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_30">
+    <text>Стой, а как же Гамзат?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_31">
+    <text>Нет его больше...</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_32">
+    <text>Вот это да... Выпьем за упокой!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_33">
+    <text>Выпьем! Вот если не бросишь пить, за твой упокой пить будем!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_34">
+    <text>Уже все равно, честно говоря. Всегда мечтал в Зону, именно на этот комплекс, а не на тот старый, что на Янтаре. Попал, обрадовался. И вылетел через полгода. Вот же я мудак! \n \nНаливай, я говорю!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_35">
+    <text>Хорошо пошла! Фуф! Я тебе реальную тему предлагаю! Пошли к Сталкерам! Будешь приносить пользу людям, и может, ещё вернешься в комплекс, если покажешь, что бросил бухать и взялся за голову.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_36">
+    <text>Не знаю...</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_37">
+    <text>Да чего ты не знаешь? Я бы на твоем месте без раздумий пошел! Сиди себе в лагере, деньги зарабатывай. А мы, сталкеры, то по подземкам сырым лазим, то с мутантами этими, проклятыми! Я раньше на Кордоне отсиживался, зарабатывал чуть по чуть. Потом как решил ближе к Центру перебраться, так все изменилось. Вот все. Чего только не встречал за эти дни! Ты знал вообще, что за твари обитают в Темной долине? Псионики по голове долбят так, что потом перестаешь осознавать реальность. Знал про призраков? Они есть. Я хрен знаю, что это такое, но я все своим глазами видел! А это я даже ещё не в Центре Зоны... Ужасы самые настоящие тут творятся! \n \nНаливай!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_38">
+    <text>Да уж, хреново вам, Сталкерам!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_39">
+    <text>Ну а с другой стороны, другой жизни мне и не надо. Не хочу обратно. Тошнит уже от того общества вокруг. Лучше уж тут, с псиониками и призраками! \n \nЛивани еще!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_40">
+    <text>Вздрогнем!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_41">
+    <text>Я тебе даже завидую! Вот я. Кому я нужен? Где меня ждут? Да нигде! Торгашам я нужен только как посыльный, отмычка для их больших дел. Да, платят. Но копейки. А ты реально можешь пользу приносить! Помогать людям жить дальше. \n \nНаливай!</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_42">
+    <text>Может, ты и прав! Просплюсь, и утром двину к Сталкерам.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_43">
+    <text>Вот это правильно! Загляну потом к тебе, посмотрю, как устроился! Хороший ты мужик, Санек! Давай, за тебя.</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_44">
+    <text>Что-то ты, браток, вообще гашеный. Тебе нормально?</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_45">
+    <text>Норма-а-ально... пф... ик...</text>
+  </string>
+  <string id="agr_scientists_base_drunk_medic_start_dialog_46">
+    <text>Позже зайду, Саня!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_0">
+    <text>Доброе утро. Что-то Вы неважно выглядите...</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_1">
+    <text>Это все ваш Киреев. Для разговора на равных пришлось и выпивать соответственно...</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_2">
+    <text>Вам удалось его убедить?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_3">
+    <text>Надеюсь. Утром его уже не было на том месте. Или он в лагере сталкеров, или за очередной бутылкой пошел... надеюсь на первое. У вас ко мне есть разговор?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_4">
+    <text>Да. Я изучил записи Гамзатова и сделал определенные выводы. Поскольку о нашем эксперименте знают немногие, я бы сперва хотел Вас спросить: вы готовы дальше работать со мной по этому вопросу? Я обещаю вам пропуск в комплекс и достойную оплату, если согласитесь.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_5">
+    <text>Да, можно попробовать.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_6">
+    <text>Тогда я бы хотел, чтобы наши разговоры оставались строго конфиденциальными. Я могу на Вас положиться?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_7">
+    <text>Конечно, можете.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_8">
+    <text>Тогда слушайте. Я постараюсь не вдаваться в научные подробности и объясню все наиболее простым языком. Мы с Гамзатовым длительное время занимались экспериментами по трансмутации артефактов. В результате скрещивания они выдавали уникальные характеристики, если, конечно, все сделать правильно. Иногда нам удавалось улучшить характеристики какого-то артефакта, иногда даже добавить ему новые особенности. Гамзатов был убежден ещё и в том, что артефакты способны как-то влиять не только на людей, но и на мутантов. Уже после того, как наше направление закрыли, он начал проводить собственные исследования. Из тех записей, что Вы принесли, стало ясно, что он попытался произвести селекцию артефактов «Душа» и «Каменный цветок». Это дало определенные результаты, как вы могли заметить. Когда артефакт рядом - монстры спокойны. Представляете, какое это может быть открытие? Но почему-то подобные арт-образования действуют ограниченное время.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_9">
+    <text>И как же быть?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_10">
+    <text>Я покопался в записях, провел расчёты и выяснил, что это напрямую зависит от мощности аномалий, где проводится трансмутация. На Свалке они, видимо, не настолько сильны, поэтому селекция не увенчалась нужным результатом. Наша задача - найти настолько сильное и концентрированное аномальное поле, чтобы селекция прошла более успешно.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_11">
+    <text>Что для этого требуется?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_12">
+    <text>К сожалению, я не знаю, где именно есть такое аномальное поле, но знаю, откуда начать поиски. Военные сталкеры недавно вернулись с рейда с окрестностей Новошепеличей и сообщили о возросшей там аномальной активности после очередного выброса. Уверен, что в одном из этих полей, в самом мощном, можно провести трансмутацию. Готовы отправиться туда?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_13">
+    <text>Новошепеличи? Никогда там не был. Можете подробнее объяснить задачу?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_14">
+    <text>Задача добраться до места и расставить 5 сканеров по определенному периметру. С их помощью мы определим зону с самой большой аномальной активностью. После этого Вы произведете трансмутацию. Это делается очень просто, я дам вам небольшое техническое руководство.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_15">
+    <text>Вроде все ясно. Что-то еще?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_16">
+    <text>Да. Я провел селекцию артефактов «Душа» и «Каменный цветок» в аномальном поле на болоте, что неподалеку отсюда. К текущему моменту артефакт должен преобразоваться. Отправляйтесь к болоту вместе с моим ассистентом и попытайтесь выудить его.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_17">
+    <text>Я бы справился и один, не стоило.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_18">
+    <text>Аномальное поле на болоте очень опасное - вам будет проще вдвоем. Когда добудете артефакт, возвращайтесь в комплекс. Найдете меня во дворе. Ах, да. Вот ваш пропуск и подъемные. Удачи вам!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_second_dialog_19">
+    <text>Спасибо!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_start_dialog_0">
+    <text>Здравствуйте. Вы готовы отправиться за артефактом?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_start_dialog_1_1">
+    <text>Готов. Какой у нас план?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_start_dialog_1_2">
+    <text>Ещё не готов.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_start_dialog_2">
+    <text>Профессор Дубинин, думаю, вам уже рассказал про изобилие аномалий в том месте. С помощью устройства для обнаружения аномалий я смогу узнать безопасный маршрут до артефакта. А дальше уже дело за вами. Идет?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_start_dialog_3">
+    <text>Идёт.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_0">
+    <text>Уф!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_1">
+    <text>Ну, ты как? Живой?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_2">
+    <text>Живой. Черт... Что они... Зачем они так?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_3">
+    <text>Это Зона. Тут некоторые за обычную Медузу удавятся, а за этот артефакт хоть душу дьяволу.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_4">
+    <text>Они даже без предупреждения!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_5">
+    <text>Испугались, наверно. Да ты успокойся. Все позади.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_6">
+    <text>Не думал, что наличие пистолета, который мне выдали ещё черти знают, придаст мне хоть немного уверенности в подобной ситуации.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_7">
+    <text>С боевым крещением тебя!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_8">
+    <text>Угу. Спасибо, конечно.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_9">
+    <text>Как будем доставать артефакт? Одному бедолаге уже, видимо, не повезло.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_10">
+    <text>Поэтому я и отправился с Вами. Сейчас я попробую найти безопасную точку, откуда Вы начнете пробираться к аномалии.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_second_dialog_11">
+    <text>Хорошо.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_third_dialog_0">
+    <text>Черт!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_third_dialog_1">
+    <text>Что случилось?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_third_dialog_2">
+    <text>Вы посмотрите на это! Видите? Это пуля! Как же так...</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_third_dialog_3">
+    <text>Ничего себе. Да этот прибор Вам жизнь спас!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_third_dialog_4">
+    <text>Да уж. Повезло так повезло. Только теперь это добавит сложности добраться до артефакта. Второго такого прибора у нас сейчас нет.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_third_dialog_5">
+    <text>Ничего не обещаю, но попробую забраться в аномалию. Опыт уже есть, и слава черному сталкеру, что удачный.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_third_dialog_6">
+    <text>Могу только держать за Вас кулачки отсюда, с берега.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_third_dialog_7">
+    <text>Ну, я попёр.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_reversed_dialog_0">
+    <text>Я Вами поражён! Вы вслепую без всяких приборов достали артефакт!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_reversed_dialog_1">
+    <text>Признаться, я и сам удивлён.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_reversed_dialog_2">
+    <text>В любом случае, Вам пришлось бы действовать самому, моё оборудование получило пулю в бою.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_reversed_dialog_3">
+    <text>Случается же такое! Ладно, двинули на базу?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_reversed_dialog_4">
+    <text>Вы идите, я догоню, не такой шустрый, как Вы.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_reversed_dialog_5">
+    <text>До встречи.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_wait_artefact_dialog_0">
+    <text>Попробуйте достать артефакт!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_wait_artefact_dialog_1">
+    <text>Я что-нибудь придумаю.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_four_dialog_0">
+    <text>Вы были на волоске! Несколько раз аномалия сдетонировала, и у меня сердце в пятки ушло!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_four_dialog_1">
+    <text>Спокойно. И не такие артефакты вытаскивал.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_four_dialog_2">
+    <text>Тогда можно возвращаться в комплекс. Идём?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_assistant_four_dialog_3">
+    <text>Идём.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_0">
+    <text>О, уже вернулись! Как все прошло?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_1_1">
+    <text>Пришлось действовать вслепую. Ваше оборудование получило пулевое ранение.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_1_2">
+    <text>Пришлось действовать вслепую.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_2">
+    <text>Что случилось? Караваев жив?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_3_1">
+    <text>Жив. Повезло, что пуля прилетела прямо в прибор. А так бы... Сами его спросите, как угораздило.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_3_2">
+    <text>Жив. Повезло, что пуля в лоб не прилетела. А так... Сами его спросите, как всё было.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_4">
+    <text>Удалось вытащить артефакт?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_5">
+    <text>Да. Он при мне.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_6">
+    <text>Хорошо. Тогда у нас почти все готово. Осталось найти ещё один артефакт, и тогда можно будет уже приступить к поиску аномальной зоны.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_7">
+    <text>Что за артефакт?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_8">
+    <text>«Обломок». Да. Экземпляр очень редкий, но я знаю, где видели такой в последний раз. Это как раз в Новошепеличах, на заброшенной военной базе. Если его ещё никто не умыкнул, то должен быть там. Как найдете «Обломок», Вам нужно будет установить пять сканеров в тех местах, которые я отмечу на карте. После этого я сообщу Вам местоположение самой аномальной зоны, где и проведете трансмутацию «Обломка» и «Болотника».</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_9">
+    <text>«Болотник»?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_10">
+    <text>Это я так назвал артефакт, который вы достали в болоте. Рабочее название, не обращайте внимания.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_11">
+    <text>Задача вроде ясна. Сканеры, надеюсь, не тяжелые?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_12">
+    <text>Нет, что Вы? Не тяжелее мобильного телефона. Думаю, не надорветесь... хе-хе.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_13">
+    <text>Тогда все ясно. Я могу идти?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_14">
+    <text>Да. Вот возьмите сканеры и немного подъемных. И самое главное помните - никому не рассказывайте о цели своего пребывания в Новошепеличах. Мы знаем о нескольких отрядах сталкеров в окрестностях деревни, и им лучше ничего не знать. По официальной версии, Вы отправились искать артефакты по моему списку. Вы это поняли?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_15">
+    <text>Да, конечно!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_16">
+    <text>Тогда жду от вас скорейших вестей! Удачи!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_task_third_dialog_17">
+    <text>Надеюсь, скоро свидимся!</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_0">
+    <text>У меня есть несколько вопросов.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_1">
+    <text>Конечно, спрашивайте.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_2_1">
+    <text>Почему ваши исследования закрыли?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_2_2">
+    <text>Расскажете мне подробнее о научном комплексе?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_2_3">
+    <text>Что случилось с сотрудниками на Янтаре?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_2_4">
+    <text>Почему никого из сталкеров не пускают в главное здание?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_2_5">
+    <text>На Кордоне я и сталкеры повстречали странных Плотей. Они заманивают жертву, имитируют голоса сталкеров. Вы слышали что-то об этом?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_2_6">
+    <text>Почему вы продавали психотропные вещества бандитам?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_2_7">
+    <text>Расскажите об этом месте.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_2_8">
+    <text>Я бы хотел узнать о подземельях Агропрома.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_3_1">
+    <text>К сожалению, у нас непостоянное финансирование, а руководство желает моментального результата. Наши исследования располагали большим потенциалом, но работы было ещё очень много. Но дело было даже не в этом. Наука - это не только формулы. Это ещё и эксперименты методом проб и ошибок. Грубо говоря, у нас не хватало расходного материала. Артефактов. Руководитель научного отдела отметил, что мы тратим драгоценные ресурсы, без видимого результата, и прикрыл нашу работу. Впрочем, мы, и ещё несколько сотрудников, включая Гамзатова, упокой господь его душу, горели этим проектом, и так просто его не бросили.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_3_2">
+    <text>Комплекс образовался ещё год назад, и я считаю, что такое решение назревало уже давно. В Зоне, конечно, достаточно мобильных станций, но все они находятся в очень суровых местах. Обычный учёный туда ни за какие гранты не поедет работать. Там трудятся разве что рьяные фанаты своего дела, люди, которые пойдут на всё ради научных открытий — даже на соседство с вонючими болотами, кишащими снорками. Науке же нужны и обычные учёные, привыкшие работать в спокойных и комфортных условиях, и данный комплекс — лучшее место для этого: это уже Зона, но ещё не её центр, поэтому можно более безопасно заниматься исследованиями. Дополнительное финансирование позволило набрать новый штат сотрудников и открыть новые направления в исследованиях. Как раз с новым штатом сюда и попал Гамзатов, я и многие остальные. К тому же недавно на Янтаре существенно осложнилась ситуация: озеро вышло из берегов, бункер затопило, хлынули мутанты. Местность в одночасье превратилась в мёртвую зону, так что это место сейчас — научный центр Зоны, не иначе.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_3_3">
+    <text>Они погибли. Честно говоря, я не располагаю подробными сведениями. Но больше я никого из них не встречал. Информация засекречена. Сталкеры и вовсе теперь обходят Янтарь стороной. Там только смерть, и больше ничего.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_3_4">
+    <text>Ну а Вы как думаете? Там проходят исследования. Секретные. Об этом должно знать как можно меньше людей. Поэтому пропуск в главный корпус только по спецпропускам. У наемных сталкеров таких, естественно, нет.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_3_5">
+    <text>Наслышан, но мы, к сожалению, не располагаем подробными сведениями. Многие и вовсе считают это одной из многочисленных баек Зоны. Думаю, вам стоит спрашивать об этом не меня. Говорят, на Болотах живет Болотный Доктор. Он лечит Сталкеров и даже мутантов. Может, он сможет пролить свет на Ваш вопрос?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_3_6">
+    <text>Знаете, я хоть и недолюбливаю подобных личностей, если их можно так назвать, но исследования важнее принципов. Мне банально нужны деньги, чтобы наша работа процветала и дальше.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_3_7">
+    <text>Сейчас, как видите, это полноценный научный комплекс, имеющий всё необходимое для изучения столь интересного, так сказать, места. По крайней мере, насколько это позволяет наш бюджет и текущие географические условия. А вот Вы знали, что здесь было раньше, ещё при Советском Союзе? Так вот, слушайте, раз уж спросили. Проведу для Вас, так сказать, урок истории. Центральное здание института построили в семидесятых годах, когда ещё Припять строилась. Это был большой медицинский комплекс, известный под названием НИИ Медприбор. По официальной, так сказать, версии, здесь должны были лечить людей, изучать болезни, проводить особо сложные операции и вести прочие медицинские исследования. Денег на это дело явно не жалели, поскольку было завезено много дорогущего оборудования и привлечено большое число светлых умов. Но вы же знаете, что от людей при союзе скрывали много правды... Поэтому я убежден, что комплекс явно был военно-ориентированным, о чем можно судить по сохранившимся документам и остаткам инфраструктуры. Впрочем, после аварии на ЧАЭС в 1986 году, это место поменяло свое изначальное предназначение. Людей эвакуировали, лечить стало некого. Так что далее в этом НИИ стали изучать и анализировать влияние радиоактивного излучения на растения и почву. Так сказать, хотели проверить, как радиация влияет на рост и развитие сельскохозяйственных культур. В центральном комплексе находились административные объекты, испытательные площадки и даже плантации для выращивания растений. У нас сейчас, кстати, тоже такие есть, если вы заметили. Дань традициям советской науке, так сказать. А вот другое здание, расположенное в нескольких километрах дальше по дороге, раньше было центральным комплексом погрузки. Там хранили, а в дальнейшем и перевозили по железнодорожным путям разные грузы и удобрения. Какие-то составы на большую землю гнали, а какие-то отправлялись по тоннелям в сторону подземелий Припяти. Что уж там с ними делали, я и сам не знаю.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_3_8">
+    <text>До того, как это место стало Зоной отчуждения, данные подземелья исполняли роль коммуникационных коллекторов. По ним на объекты поступало тепло, электричество и прочие коммуникации, а также производился отвод канализации института в ближайший водоём. А сейчас это место заброшено, заполонено аномалиями и мутантами. А что, очень даже приемлемая среда для обитания всякой здешней гадости. Если честно, у нас в комплексе нарадоваться не могут тому факту, что прямо под боком располагается столь богатый источник различного биоматериала и аномальных образований для исследований. Вот только не каждый туда спускаться решается. Причем мутанты и аномалии - не самая главная угроза. Как я считаю, коллекторы могут обвалиться практически в любой момент! В советские времена хоть и строили все на века, но данное подземелье судьба изрядно потрепала! Когда на этой базе ещё обитали представители группировки «Долг», то они вместе с каким-то наёмником затопили большую часть коллекторов, чтобы остановить нападения мутантов. Некоторые помещения даже по сей день остаются затопленными. А через несколько лет после потопа тут ещё войнушка была! Чёрт его знает, сколько внутри гранат взорвалось, и какие повреждения могли получить конструкции подземелий. Поэтому мой прогноз такой - ещё пару лет, и не будет больше на карте Зоны такого места, как Подземелья Агропрома.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_4_1">
+    <text>Что будет, если вас раскроют?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_5_1">
+    <text>Увольнение, в лучшем случае. В худшем - засудят.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_6_1">
+    <text>И вы готовы пойти на такие риски?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_7_1">
+    <text>В последнее время научный комплекс стоит на месте. Мы больше не делаем открытий, мы изучаем совсем не то, что надо. И только наш проект способен все переломить. Я готов рискнуть всем, в первую очередь своей жизнью, чтобы достигнуть результата.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_8_1">
+    <text>Но вы же работаете втайне от руководства. Куда пойдут ваши разработки?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_9_1">
+    <text>Как я и говорил, они хотят моментального результата. Поэтому закроют глаза, что мы работали в подполье. По крайней мере, подобные случаи уже бывали.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_10">
+    <text>Спасибо. Это всё.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_secondary_dialogs_11">
+    <text>Поговорим в другой раз.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_idle_dialog_0">
+    <text>Здравствуйте.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_idle_dialog_1">
+    <text>Приветствую вас.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_idle_dialog_2">
+    <text>С чем пожаловали?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_idle_dialog_3">
+    <text>Рад Вас видеть.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_idle_dialog_4">
+    <text>Добрый день.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_close_post_dialog_0">
+    <text>Стой, это служебный вход! Если хочешь попасть на территорию, иди через главный вход. Если нет пропуска, тебе ничего не светит.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_close_post_dialog_1">
+    <text>Понятно.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_second_dialog_0">
+    <text>Я, кажется, сказал, что тебе нечего тут делать без пропуска.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_second_dialog_1_1">
+    <text>Ухожу.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_second_dialog_1_2">
+    <text>У меня есть пропуск.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_second_dialog_2">
+    <text>Проходи. Оружие спрячь. Всё, мигом.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_second_dialog_3">
+    <text>Угу.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_wait_supplies_dialog_0">
+    <text>Принёс еду?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_wait_supplies_dialog_1_1">
+    <text>Приятного аппетита.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_wait_supplies_dialog_1_2">
+    <text>Скоро вернусь.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_idle_actor_dialog_0">
+    <text>До встречи, профессор.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_idle_actor_dialog_1">
+    <text>Всего доброго.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_idle_actor_dialog_2">
+    <text>Пока, профессор.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_idle_actor_dialog_3">
+    <text>Пойду я.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_idle_actor_dialog_4">
+    <text>Увидимся.</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_idle_dialog_0_1">
+    <text>Что тебе нужно?</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_idle_dialog_0_2">
+    <text>Ну привет, сталкер.</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_idle_dialog_0_3">
+    <text>Чего тебе, сталкер?</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_idle_dialog_0_4">
+    <text>Подходи, тут есть на что посмотреть.</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_idle_dialog_0_5">
+    <text>Поторгуем?</text>
+  </string>
+  <string id="agr_scientists_base_stalker_technic_idle_dialog_0_1">
+    <text>Сломалось что-то? Выкладывай.</text>
+  </string>
+  <string id="agr_scientists_base_stalker_technic_idle_dialog_0_2">
+    <text>Чего там у тебя, сталкер?</text>
+  </string>
+  <string id="agr_scientists_base_stalker_technic_idle_dialog_0_3">
+    <text>Приветствую, броник залатать пришел?</text>
+  </string>
+  <string id="agr_scientists_base_stalker_technic_idle_dialog_0_4">
+    <text>Здоров, мужик.</text>
+  </string>
+  <string id="agr_scientists_base_stalker_technic_idle_dialog_0_5">
+    <text>Рад тебя видеть. Показывай, что там починить нужно.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_idle_dialog_0_1">
+    <text>Слушаю.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_idle_dialog_0_2">
+    <text>Говори.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_idle_dialog_0_3">
+    <text>Ну, выкладывай.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_idle_dialog_0_4">
+    <text>Ты по делу?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_idle_dialog_0_5">
+    <text>Что там у тебя?</text>
+  </string>
+  <string id="agr_scientists_base_actor_with_colonel_idle_dialog_0_1">
+    <text>Пойду я, товарищ полковник.</text>
+  </string>
+  <string id="agr_scientists_base_actor_with_colonel_idle_dialog_0_2">
+    <text>Разрешите идти?</text>
+  </string>
+  <string id="agr_scientists_base_actor_with_colonel_idle_dialog_0_3">
+    <text>Позвольте, я пойду.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_yantar_dialog_0">
+    <text>Приветствую.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_yantar_dialog_1">
+    <text>Вызывали?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_yantar_dialog_2">
+    <text>Вызывал. Ну как оно, в комплексе? Хорошо служится?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_yantar_dialog_3">
+    <text>Нет. Плохо! Вы об этом хотели со мной поговорить?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_yantar_dialog_4">
+    <text>Смени тон! А то до конца контракта будешь здесь кукурузу охранять. Хотел вылазку - будет тебе вылазка. Готов взяться?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_yantar_dialog_5">
+    <text>Всегда готов!</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_yantar_dialog_6">
+    <text>И что, даже не спросишь, за что берешься?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_yantar_dialog_7">
+    <text>Тошнит уже от одних и тех же лиц. Я подписывал контракт, чтобы работать в Зоне, а не на Агропроме тропинки протаптывать.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_yantar_dialog_8">
+    <text>В очередной раз тебе говорить, что ты сам до этого довел, я не буду. Сам все прекрасно знаешь. Лучше, ближе к делу. Профессор Волков все расскажет.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_yantar_dialog_9">
+    <text>Слушаю.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_yantar_dialog_0">
+    <text>Вы же в курсе, что случилось месяц назад на Янтаре?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_yantar_dialog_1">
+    <text>Все уже в курсе. Затоплен, учёные мертвы.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_yantar_dialog_2">
+    <text>Нам бы хотелось верить, что кто-то ещё остался жив. А если нет, не дай боже, то их исследования нам крайне важны. Мы должны вынести с научного бункера все, что представляет наш интерес. В последнее время Профессор Сахаров занимался крайне интересным изучением, и очень бы не хотелось, чтобы их результат просто так остался там лежать, а что ещё хуже, попал в руки сталкеров.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_yantar_dialog_3">
+    <text>Какова полная задача?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_yantar_dialog_4">
+    <text>Разведать обстановку, спасти выживших и забрать результаты исследований. Крайне важно ещё и понять полную картину произошедшего на Янтаре. Мы ни черта не знаем, что там случилось.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_yantar_dialog_5">
+    <text>Я вас понял. Дополнительные указания будут?</text>
+  </string>
+  <string id="agr_scientists_base_scientist_yantar_dialog_6">
+    <text>В процессе. Мы постараемся держать с вами связь. А для начала это все.</text>
+  </string>
+  <string id="agr_scientists_base_scientist_yantar_dialog_7">
+    <text>Принял!</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_second_dialog_0">
+    <text>Все понял? Отправляетесь на место завтра рано утром. Свой отряд берешь в полном составе, и ещё одного бойца выделяем дополнительно. Обмундирование предоставим соответствующее сложности операции.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_second_dialog_1">
+    <text>Зачем ещё одного? Мы справимся и вчетвером. Это мои люди, я в них уверен. А этот боец, кто он?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_second_dialog_2">
+    <text>Дмитрий Коваль. Он из бывших сталкеров, хорошо разбирается в аномальных образованиях, поэтому такой специалист вам не помешает.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_second_dialog_3">
+    <text>Коваль? Сомнительная личность. Готов поручиться, что выполним поставленную задачу и без него.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_second_dialog_4">
+    <text>Отказано! Я сказал, что он отправится с вами - значит, так и будет! И еще: я думаю, ты понимаешь, что никаких выживших вы там не встретите. Поэтому сконцентрируйтесь на поиске данных от ученых и убирайтесь оттуда.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_second_dialog_5">
+    <text>Откуда информация, что выживших там нет?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_second_dialog_6">
+    <text>Мы получили сигнал SOS, как только там началась вся эта чертовщина. Потом тишина, и никто даже не пытался выйти на связь. Не думаю, что кто-то уцелел.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_second_dialog_7">
+    <text>Я Вас услышал. Разрешите идти?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_second_dialog_8">
+    <text>Разрешаю.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_start_second_dialog_9">
+    <text>Тогда отправляюсь.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_0">
+    <text>Привет, босс!</text>
+  </string>
+  <string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_1">
+    <text>Приветствую. Что вы тут, тренируетесь, смотрю? Молодцы. Время даром не теряете.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_2">
+    <text>А что ещё нам делать? Как в моей землице говорится, мы просто крадём богу дни... В общем, я слышал, тебя к себе полковник позвал? Неужели нам доверили что-то лучше, чем охрана экспедиций?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_3">
+    <text>Доверили. Завтра утром вылетаем на Янтарное озеро. Там затопило мобильный бункер, учёные не выходят на связь. Мне намекнули, что живых мы там уже никого не встретим, поэтому нужно будет сконцентрироваться на поиске исследовательских данных. Так что, будите Ская, заканчивайте тренировки и собирайте снаряжение.  А я пойду пока ещё с одним нашим пассажиром поболтаю.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_4">
+    <text>С кем это?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_5_1">
+    <text>Коваль. Полковник настоял, чтобы он полетел с нами. Хотя, нахрен он нам сдался, я не понимаю. Пойду, пообщаюсь, разузнаю, что за тип такой. Каким-то скользким мне вечно казался.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_5_2">
+    <text>Коваль. Полковник настоял, чтобы он полетел с нами. Хотя, нахрен он нам сдался, я не понимаю. Пообщался с ним. Мутный такой тип...</text>
+  </string>
+  <string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_6">
+    <text>Ну ладно. Пойдем собираться.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_vuslich_before_sending_dialog_7">
+    <text>До встречи.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_0">
+    <text>О, а ты тут как?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_1">
+    <text>Полковник тебя не предупредил? Завтра утром ты в составе нашего отряда выдвигаешься на Янтарь.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_2">
+    <text>Предупредил.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_3">
+    <text>Так что ты тут вообще тогда делаешь?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_4">
+    <text>У меня уже все подготовлено к вылету, не кипятись.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_5">
+    <text>Вопрос не снят. Что ты тут делаешь?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_6">
+    <text>Какое это имеет значение?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_7">
+    <text>С этой минуты я твой командир. Поэтому если я тебя спрашиваю о чем-то - отвечай. Даю указание - выполняй. Это понятно?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_8">
+    <text>Понятно, понятно. Спокойно, я просто решил прогуляться. Времени до отправки ещё достаточно, разминал ноги.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_9">
+    <text>Ты в курсе задачи операции?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_10">
+    <text>Полковник вкратце просветил меня.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_11">
+    <text>Хорошо. Подробности обсудим по пути на Янтарь. А теперь иди и готовься. И просьба отныне сообщать мне обо всех своих перемещениях: хочешь ли ты ноги размять, поссать сходить - докладывать мне. Это ясно?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_12">
+    <text>Ясно, ясно, командир.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_koval_before_sending_dialog_13">
+    <text>Тогда до рассвета.</text>
+  </string>
+  <string id="agr_soldier_xottab_after_yantar_start_dialog_0">
+    <text>Доброе утро! Ну что, проспался?</text>
+  </string>
+  <string id="agr_soldier_xottab_after_yantar_start_dialog_1">
+    <text>Доброе. Проспался, вроде. Голова трещит только. Хорошо мы вчера, видимо, посидели.</text>
+  </string>
+  <string id="agr_soldier_xottab_after_yantar_start_dialog_2">
+    <text>Это вы хорошо посидели, а мне пришлось вас контролировать, чтобы всю казарму тут не разнесли. Мужики по соседству даже заходили к нам несколько раз, просили потише себя вести.</text>
+  </string>
+  <string id="agr_soldier_xottab_after_yantar_start_dialog_3">
+    <text>Надеюсь, полковник про это не узнает.</text>
+  </string>
+  <string id="agr_soldier_xottab_after_yantar_start_dialog_4">
+    <text>Он заходил утром. Просил тебя заглянуть к нему в кабинет, когда проснешься. Мы же ему весь отчет по операции предоставили, а отгул ещё не закончился. Интересно, чего хочет?</text>
+  </string>
+  <string id="agr_soldier_xottab_after_yantar_start_dialog_5">
+    <text>Лишь бы не предъявить за пьянку.</text>
+  </string>
+  <string id="agr_soldier_xottab_after_yantar_start_dialog_6">
+    <text>Не, он добрый, вроде, был. Явно не скандалить тебя звал.</text>
+  </string>
+  <string id="agr_soldier_xottab_after_yantar_start_dialog_7">
+    <text>Ну, посмотрим. Может, работу какую-то подкинет. Пойду, умоюсь и схожу.</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_0">
+    <text>Журавлев! Приветствую! Ну что вы, оклемались после вылазки? А то такие замудоханные вернулись.</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_1">
+    <text>Как видишь. Живы, здоровы.</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_2">
+    <text>Что там на Янтаре? Жопа, наверняка, какая-то, раз туда даже сталкеры не суются?</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_3">
+    <text>Ты с этими вопросами к полковнику. Он просил пока особо не распространяться об этом, уж извиняй. Скажу лишь то, что тут у нас курорт, по сравнению с теми местами. Сами-то как? Что тут нового?</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_4">
+    <text>У нас тут ученый пропал один. Как его там звали-то... А! Дубинин фамилия у него. Весь личный состав позавчера подняли, прочесали весь Агропром - ни следа. Наткнулись только на лагерь сталкеров, спросили с них, мол, никого тут не видели? Они про наемников каких-то сказали, что крутились недалеко от туннеля. Связано ли это, не знаю. Но больше зацепок нет. Вот такие новости.</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_5">
+    <text>А поиски всё, свернули?</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_6">
+    <text>Ага, если бы. Дубинин не какой-то там лаборант. У него и охрана всегда по высшему разряду, и полевых сотрудников в распоряжении куча. Пока не найдут его либо живым, либо скелетом в канаве - полковник вряд ли это дело так оставит. Закуришь?</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_7">
+    <text>Не, спасибо.</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_8">
+    <text>А этот что, как его там... А! Коваль! Говорят, с вами был на операции?</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_9">
+    <text>Да не знаю. Мутный он тип, конечно. Но благо, что задание нам не запорол, уже хорошо. Главное, чтобы полковник не записал его в наш отряд на постоянной основе. Все-таки доверия к бывшим сталкерам у меня куда меньше, чем к любому из наших. Может, ты к нам пойдешь?</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_10">
+    <text>Хах! Спасибо, конечно, за предложение. Но куда я своих ребят-то брошу?</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_11">
+    <text>Ладно, я пойду. Полковник меня искал.</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_12">
+    <text>Поди, насчет Дубинина что-то.</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_start_dialog_13">
+    <text>Посмотрим.</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_idle_dialog_0_1">
+    <text>Журавлёв? Слушаю.</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_idle_dialog_0_2">
+    <text>Выкладывай.</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_idle_dialog_0_3">
+    <text>Говори, что там у тебя.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_0">
+    <text>Наконец-то!</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_1">
+    <text>Здравия желаю!</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_2">
+    <text>Проснулся, наконец. Голова не бо-бо? Коваль мне тут как раз докладывал подробности об увиденной субстанции в форме черного дыма. Возможно, придется отправлять на Янтарь ещё одну экспедицию, но уже с научными сотрудниками. Подобные явления требуют своевременного изучения.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_3">
+    <text>Значит, нам снова собираться на Янтарь?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_4">
+    <text>Нет. Этим займутся другие люди. Для тебя будет другая работа.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_5">
+    <text>Готов выслушать.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_6">
+    <text>Пока вас не было, у нас произошло небольшое ЧП. Хотя, как небольшое... Ученый у нас пропал. Дубинин. Один из передовых сотрудников нашего комплекса. На нем был ряд научных проектов, поэтому дело на особом контроле руководства. Твоя задача - его найти. Лучше всего, живым. Если погиб - хотя бы будем знать, что искать его больше не стоит.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_7">
+    <text>Есть ли какая-то конкретная информация, которая поможет в поисках?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_8">
+    <text>Конкретной мало. После пропажи мы организовали группу поисковиков. Они облазили каждый сантиметр Агропрома - зацепок нет. Какие-то нелегалы сталкеры лишь рассказали про экипированный отряд наемников, которых они заметили неподалеку от железнодорожного тоннеля. Что это были за люди - неизвестно.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_9">
+    <text>А дальше Агропрома поиски не велись?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_10">
+    <text>А вот это уже твоя работа. Не хотелось бы поднимать лишнего шума и отправлять целые отряды. Нужен один, надежный человек, который все сделает аккуратно. И я уверен, ты на это способен. Если, конечно, опять какая-то моча в твоей голове не разольется.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_11">
+    <text>Задача ясна. Но опять же, мне нужно знать, с чего начать поиск.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_12">
+    <text>Значит, так: Дубинин вел работу по изучению артефактов и аномалий. Часто совершал исследования за пределами комплекса лично, в сопровождении военсталкеров. Он с ними провел много времени. Кто-то из них что-то может знать. Или подсказать, куда копать. А копать-то как раз можно в разных направлениях...</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_13">
+    <text>Что вы имеете в виду?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_14">
+    <text>Дубинин просто взял и испарился из комплекса. Один. И тут можно только гадать, куда он запропастился. Вариантов много. Нарушил контракт и подался в самоволку? Или его те самые, загадочные наемники похитили? А может, он что-то такое узнал в ходе своих исследований, что более находиться здесь не захотел? Теорий и догадок очень много. И ещё одна деталь. Говорят, что тут крутился какой-то сталкер с ним. Но в отчетах про это ни слова. Надо бы узнать, кто это был.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_15">
+    <text>Принял. Тогда с этой минуты приступаю к выполнению. Своих ребят я могу подключить?</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_16">
+    <text>На свое усмотрение. Просто имей в виду, что нужно все сделать тихо. А если вы всем отрядом на хвост Дубинина сядете, это может все испортить. Еще можешь рассчитывать на Коваля. Он теперь будет записан в ваш отряд.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_17">
+    <text>Он не нужен нам! Мы и без него прекрасно справимся с любой задачей.</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_18">
+    <text>Мы уже это обсуждали! Будет с вами. Присмотрись к нему, он же мужик нормальный. И знания его могут пригодиться. Все! Иди! Докладывай обо всем мне лично!</text>
+  </string>
+  <string id="agr_scientists_base_colonel_after_yantar_dialog_19">
+    <text>Есть!..</text>
+  </string>
+  <string id="agr_soldier_sky_after_yantar_dialog_0">
+    <text>О, доброе утро!</text>
+  </string>
+  <string id="agr_soldier_sky_after_yantar_dialog_1">
+    <text>Добрый день, тогда уже! Ну и спите вы! Я тут уже у полковника был. У него новое задание.</text>
+  </string>
+  <string id="agr_soldier_sky_after_yantar_dialog_2">
+    <text>Ого! Когда выдвигаемся? Куда?</text>
+  </string>
+  <string id="agr_soldier_sky_after_yantar_dialog_3">
+    <text>Не гони лошадей. Пока я буду действовать один, но вы должны быть на связи. Помощь может пригодиться в любой момент.</text>
+  </string>
+  <string id="agr_soldier_sky_after_yantar_dialog_4">
+    <text>Без проблем. А в чем задача?</text>
+  </string>
+  <string id="agr_soldier_sky_after_yantar_dialog_5">
+    <text>Пропал один ученый. Просто взял и испарился с комплекса. То ли его убили его, то ли сам сбежал. Может, в аномалии сгинул где-то. Надо все про него выяснить. Я этим займусь, поспрашиваю нужных людей. А ты пока постарайся прошерстить сталкерскую сеть. Нас интересуют любые упоминания про ученых, наемников и, в общем, все, что может указать нам путь. Так что давай, просыпайся, и за работу! Если что нароешь, докладывай.</text>
+  </string>
+  <string id="agr_soldier_sky_after_yantar_dialog_6">
+    <text>Понял! Немедленно займусь.</text>
+  </string>
+  <string id="agr_soldier_sky_after_yantar_dialog_7">
+    <text>Буду ждать информации.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_dialog_0">
+    <text>Что надо?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_dialog_1">
+    <text>Извини за беспокойство, вопрос к тебе имеется.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_dialog_2">
+    <text>Не в том ты звании, чтобы мне вопросы задавать. Я сплю, потом приходи.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_dialog_3">
+    <text>Эй, вопрос есть!</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_0">
+    <text>Сказал же - сплю я! Что тебе надо?!</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_1">
+    <text>Говорю, вопрос у меня к тебе есть! Так что давай, вставай и не выпендривайся.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_2">
+    <text>От-ва-ли.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_3">
+    <text>Так, ладно. Значит, записываем в рапорт, что Шнур отказался давать показания о пропаже профессора Дубинина, а соответственно, подозреваемый номер один в его пропаже. Спи дальше.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_4">
+    <text>Стой, стой! Я что-то сразу не сообразил, о чем ты мне втираешь. Какой ко мне вопрос?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_5">
+    <text>Ты был одним из сопровождающих профессора при его полевых вылазках в Зону. Расскажи мне, где вы были, с кем встречались, что заметил странного?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_6">
+    <text>Да все как обычно. То у одной аномалии покрутимся, то у другой. Одно и то же.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_7">
+    <text>Ничего странного в его поведении не было?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_8">
+    <text>Эти учёные всегда себя странно ведут. Что-то бубнят под нос, суетятся, радуются и расстраиваются, когда какие-то циферки у них на приборах не сходятся. Хотя Дубинин спокойным всегда был. Ничего странного с его стороны не замечал.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_9">
+    <text>Он с вами делился какими-то планами? Может, болтал о чем-то?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_10">
+    <text>В отличие от многих других, он проповедовал полную тишину во время вылазок.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_11">
+    <text>Когда ты в последний раз его видел?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_12">
+    <text>Пять дней назад, где-то. Водили его в сторону Болот. Высматривал в бинокль что-то, потом вернулись на базу.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_13">
+    <text>А сам что думаешь насчет его пропажи?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_14">
+    <text>Да вообще без понятий. Может, в одиночку пошел да в аномалию попал. У нас каждый второй очкарик так и пропадает здесь, разве нет?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_15">
+    <text>Вы всегда одним составом его сопровождали?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_16">
+    <text>Да мы с пацанами последний год только за него и отвечаем.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_17">
+    <text>Где сейчас твои коллеги?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_18">
+    <text>Кридов на задании. Баркас жрать пошел, вроде.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_1_task_second_dialog_19">
+    <text>Ладно. Если что-то вспомнишь - пиши на КПК.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_0">
+    <text>М?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_1">
+    <text>Приятного аппетита. Извини, что отвлекаю, но есть неотложный вопрос по поводу Дубинина. Ты же в курсе, что с ним.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_2">
+    <text>То, что пропал? Ну да. Все уже в курсе.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_3">
+    <text>Что думаешь насчет этого?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_4">
+    <text>Ноль предположений.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_5">
+    <text>Вы же его охраняли. С вас первый спрос.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_6">
+    <text>Мы его охраняли тогда, когда нам давали распоряжение на сопровождение научного сотрудника. А он исчез в тот момент, когда это в наши обязанности не входило. Мы что, должны каждый его шаг контролировать? Этого в контракте нет, извиняй.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_7">
+    <text>А во время сопровождения было что-то такое, на что вы обращали внимание? Может, встречался с кем-то за пределами комплекса, говорил с вами о чем-то, волновался.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_8">
+    <text>Всегда был абсолютно спокоен. Все в рабочем ритме. Дошли до цели - он свои замеры или записи сделал - и мы ушли. Никаких примечательных ситуаций, никаких разговоров. Все как обычно.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_9">
+    <text>Сам как думаешь? Куда он мог подеваться?</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_10">
+    <text>Хрен знает. Он с нами никогда ни о чем не делился. Сам по себе. Думаю, не стал нас ждать - сам попёрся к очередной аномалии. А без навыков в Зоне делать нечего, сам знаешь. Думаю, в эту сторону копать надо.</text>
+  </string>
+  <string id="agr_scientists_base_soldier_sec_scientist_2_task_dialog_11">
+    <text>Ладно, кушай, не отвлекаю. Если что - пиши на КПК. Тебе за помощь зачтется.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_0">
+    <text>О, какие люди на нашем болоте! Ты что тут забыл?</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_1">
+    <text>Несколько вопросов у меня к тебе имеется. По поводу профессора Дубинина.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_2">
+    <text>Не удивлен. Задолбали нас уже с этими вопросами!</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_3">
+    <text>Кто бы вас ими не задолбал, мне на них лучше ответить. И чем подробнее, тем лучше.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_4">
+    <text>Спрашивай. Чем смогу, помогу.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_5">
+    <text>Ты и твои люди сопровождали Дубинина при полевых работах. За все это время ты замечал что-то странное в его поведении? Встречался ли он с кем-то за пределами комплекса? Говорил ли он вам что-то, что может указать на разгадку его исчезновения?</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_6">
+    <text>Из всех яйцеголовых, с которыми мне довелось поработать, он самый необщительный был. У него хоть что спроси - отвечает строго по протоколу. Мол, служивый, твоя работа - оружие держать и по сторонам смотреть. Я у него все хотел разузнать про свойства некоторых артефактов, но так ничего и не узнал.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_7">
+    <text>А зачем это тебе?</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_8">
+    <text>Я когда ещё обычным сталкером по Зоне бегал, друга чуть не потерял. Хотя, можно сказать, потерял. Он сейчас на Большую землю вернулся с изувеченным телом. Хочу ему хоть как-то помочь. Слышал байки, что есть артефакты, что благотворно влияют на здоровье человека. Может, ему бы это помогло. Но профессор ничего мне не рассказал. И сам я ничего путевого за все время узнать не смог.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_9">
+    <text>У него контракт, сам понимаешь. Рассказывать подобную информацию кому-то - подсудное дело.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_10">
+    <text>Да я все понимаю. Хрен с ним.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_11">
+    <text>Говорят, что с Дубининым в последнее время крутился какой-то сталкер. Ничего про это не в курсе?</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_12">
+    <text>При нас никого точно не было, так что ничего не могу сказать.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_13">
+    <text>Ну, хоть на какие-то зацепки можешь указать? Не мог же он просто так взять и испариться?</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_14">
+    <text>Не там ты ищешь, Журавлев. Ты поищи в таких местах, которые могли заинтересовать ученого настолько, что он не стал дожидаться сопровождения и отправился в одиночку. А раз ещё не вернулся, значит, места эти весьма скверные и опасные. Если бы меня уполномочили его искать - я бы осмотрел все аномальные зоны в округе. Вот что я могу тебе сказать, не больше.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_start_dialog_15">
+    <text>Ладно, будь на связи, если у меня вдруг возникнут ещё вопросы. И если сам вспомнишь что-то или узнаешь - не стесняйся, сообщай.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_second_dialog_0">
+    <text>Не, ну ты видел? Никакой поддержки от этих ботаников!</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_second_dialog_1">
+    <text>За ними как за детьми следить нужно, это точно...</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_second_dialog_2">
+    <text>Я им на обратной дороге такой инструктаж проведу, что в следующий раз они у меня первыми в атаку пойдут! А тебе спасибо за помощь! В два ствола нам бы было трудно эту стаю уработать. Спасибо!</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_second_dialog_3">
+    <text>Звуки выстрелов, случайно, не помогли вспомнить что-то насчет Дубинина?</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_second_dialog_4">
+    <text>Дубинин... Знаешь, он... Забудь!</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_second_dialog_5">
+    <text>В смысле? Что ты хотел сказать?</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_second_dialog_6">
+    <text>Ничего! Просто он не такой уж святой профессор, чтобы за ним так бегали. Удачи тебе в поисках, Журавлев. Мне тебе, к сожалению, нечего добавить. Пока.</text>
+  </string>
+  <string id="agr_soldier_tonnel_boss_second_dialog_7">
+    <text>Ну, бывай.</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_0">
+    <text>Привет сыщикам!</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_1">
+    <text>Не особо-то пока я сыщик, судя по всему.</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_2">
+    <text>А как же тело около аномалии? Не Дубинин ли это часом?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_3">
+    <text>А вот это нам ещё предстоит узнать. Вот, держи.</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_4">
+    <text>Фу, ты зачем это сюда припер?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_5">
+    <text>Надо довести дело до конца и убедиться, что эти останки действительно принадлежат Дубинину. А то все как-то очень просто и складно получается, не находишь?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_6">
+    <text>О чём ты?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_7">
+    <text>Наши так называемые коллеги военсталкеры все как один твердят, что Дубинин мог сгинуть в аномалии. Около аномалии действительно найдены останки человека в научном комбинезоне, но... черт, ты бы видел эту аномалию! Ее за сто метров можно заметить! Чтобы Дубинин в нее просто так угодил, да ещё и с таким опытом? Не верю! Поверю, если получим положительные результаты экспертизы. Так что держи этот вонючий пакет, и отдай кому нужно.</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_8">
+    <text>Ты прав, проверка лишней не будет. Передам останки на экспертизу Хоттабу, всё-таки он у нас по этой части. А что, наши коллеги могли сговориться насчет пропажи профессора?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_9">
+    <text>Есть такая вероятность. Кридов у меня вызывает наибольшие подозрения.</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_10">
+    <text>Думаешь, он причастен к исчезновению?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_11">
+    <text>Скорее он что-то знает, но не говорит. Мужик то он хороший, вряд ли пошел бы на мокруху или на что-то подобное. А поскольку он хороший мужик, то явно не хочет никого подставлять и рассказывать мне правду. Так что, ждем результаты экспертизы. Ты что-нибудь смог нарыть еще?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_12">
+    <text>Я пытался разузнать про сталкера, который в последнее время крутился около Дубинина. Он не упоминается в рапортах, что уже является грубым нарушением контракта со стороны профессора. Работаешь со сталкером - запиши его имя в рапорты и поясни, какую помощь он оказывает. Но он этого не сделал. Проверил все записи с камер, и вот этого персонажа здесь видел неоднократно, хотя в базу он не занесён.</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_13">
+    <text>Я его не знаю. А ты?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_14">
+    <text>Тоже в первый раз вижу.</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_15">
+    <text>Так... ну, судя по внешнему виду - он из обычных сталкеров. А кто каждого второго в Зоне знает в лицо?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_16">
+    <text>Кто?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_17">
+    <text>Кто, кто... Сидорович!</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_18">
+    <text>Думаешь наведаться?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_19">
+    <text>Обязательно. Выйдем на Сталкера - узнаем, что за игру вел Дубинин втайне от руководства.</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_20">
+    <text>Нам составить тебе компанию?</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_21">
+    <text>Ты продолжай копать. Почитай сталкерскую сеть, поспрашивай у знакомых сталкеров. Может, что-то да всплывет. А ребята пусть будут наготове. Если потребуется их помощь — я вызову.</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_22">
+    <text>Принял! Там вертолет с экспедицией как раз собирался на Дитятки. Может, подкинут тебя. Всяко лучше, чем пешком.</text>
+  </string>
+  <string id="agr_soldier_sky_after_search_info_dialog_23">
+    <text>А вот это будет кстати. Все, я погнал.</text>
+  </string>
+  <string id="agr_scientists_base_pilot_leader_task_escape_dialog_0">
+    <text>Здравия желаю!</text>
+  </string>
+  <string id="agr_scientists_base_pilot_leader_task_escape_dialog_1">
+    <text>Здарова, Иваныч! На Дитятки?</text>
+  </string>
+  <string id="agr_scientists_base_pilot_leader_task_escape_dialog_2">
+    <text>И тебе не хворать, Журавлев! Ага, на юга летим!</text>
+  </string>
+  <string id="agr_scientists_base_pilot_leader_task_escape_dialog_3">
+    <text>Меня возьмёте с собой?</text>
+  </string>
+  <string id="agr_scientists_base_pilot_leader_task_escape_dialog_4">
+    <text>Если подождешь часик, то возьмем. Эти черепахи как бабы долго собираются!</text>
+  </string>
+  <string id="agr_scientists_base_pilot_leader_task_escape_dialog_5">
+    <text>Не вопрос! Спасибо!</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_0">
+    <text>Вы ещё кто, чего надо?</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_1">
+    <text>Здарова, мы за своими пришли, вон они, кверху пузом лежат... это ты их прикончил?</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_2">
+    <text>Нет, я мимоходом. Шёл по своим делам. Потом ко мне обратился какой-то хрен: «нужно ребятам моим помочь», говорит.</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_3">
+    <text>Что за хрен такой? Имя-то у него есть?</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_4">
+    <text>Да не знаю я, он на меня через КПК вышел. Вроде как целый профессор Смышлов - голос старый...</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_5">
+    <text>Ну и что он от тебя хотел?</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_6">
+    <text>Нужно, говорит, встретить его подопечных по этим координатам, отвести куда попросят. Двойная оплата и пару артефактов в нагрузку. Ну вот я и пришёл.</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_7">
+    <text>Что-то медленно ты шёл... пока шёл, их кто-то пристрелил...</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_8">
+    <text>А Зона шустрых не любит! К тому же я успел подойти вовремя - получилось с холма посмотреть, как эти гаврики друг друга постреляли. И что-то я разнервничался так, что вот-вот кого нибудь да пристрелю, так что не надо меня подзюзивать!</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_9">
+    <text>В смысле друг-друга?!</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_10">
+    <text>В прямом: встали синхронно так и постреляли друг-друга так же синхронно, будто приказ им кто-то дал.</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_11">
+    <text>Контролёр?</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_12">
+    <text>Да чёрт бы его знал! Не видать тут никого...</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_13">
+    <text>А что там старикан твой? Ты с ним говорил?</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_14">
+    <text>Да не успел ещё, вы вот подошли. Послушайте хлопцы, валить отсюда надо! Чую я, фигня какая-то творится.</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_start_dialog_15">
+    <text>Погоди, я с напарником посоветуюсь.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_start_dialog_0">
+    <text>Интересная картина получается.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_start_dialog_1">
+    <text>Что думаешь, Куча?</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_start_dialog_2">
+    <text>Не, ну а чё тут думать - тут надо вожжи в свои руки брать. Знать бы, где маза лучше будет. Если связываться с Туровым, кто коробку изначально заказал, то как-то надо лечить его, чтобы Визирь отстал от нас, да ещё и привалил чутка бабла сверху за беспокойство. Если так, то надо будет Птаху этого... не знаю... отправить куда подальше. Не нужен нам левый чел, да и мутный он какой-то, небылицы тут лепит. Я думаю, он пострелял выживших из группы.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_start_dialog_3">
+    <text>Ну допустим, а что насчёт Смышлова думаешь?</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_start_dialog_4">
+    <text>Да как-то сложно думать. Надо узнать чё за тип. Перетереть с профессорюгой никто не мешает, но Птаха этот не нравится мне! И вообще, Куча на измене! А когда Куча на измене, значит, чё-то левое творится... Решай сам, короче, а там посмотрим.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_start_dialog_5">
+    <text>Ты знаешь, может Птаха тебе и не приглянулся, но лучше его к себе переманить - так больше шансов, что он нам поможет, чем навредит.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_start_dialog_6">
+    <text>Ну так-то да. Пни этого Птаху, чтобы связался с профессором.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_start_dialog_7">
+    <text>Минуту.</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_second_dialog_0">
+    <text>Ну что вы там?</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_second_dialog_1">
+    <text>Птаха, давай-ка с учёным поговорим.</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_second_dialog_2">
+    <text>Ага, давно пора.</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_second_dialog_3">
+    <text>Давай, заводи рацию.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_after_attack_dialog_0">
+    <text>Слышь, братан, мутно всё это! Надо решать, кому коробки отдать - возни много, а толку ноль. Ни хабара, ни прибытка какого... не нравятся мне ни Туров, ни Смышлов тухлый. А Птаха наш вообще подставной какой-то, чуйка у меня на него.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_after_attack_dialog_1">
+    <text>Вдвоём не справимся ведь! Надо хотя бы до Свалки дойти, а там уже решать куда повернуть - к Турову или к Смышлову.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_after_attack_dialog_2">
+    <text>Тогда пошли!</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_after_attack_dialog_3">
+    <text>Куча, мне вот интересно, а почему тебе Кучей прозвали?</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_after_attack_dialog_4">
+    <text>Ну ты, конечно, нашёл время! Да как-то шли мы с пацанами по Зоне, и на нас бежала стая голодных крыс, или тушканы они там, в общем хрен разберешь. Ну я и начал шмалять по грызунам этим! Они хоть и мелкие, но покоцать могут. В общем, короче, когда волна прошла, тушек этих крысиных осталась ну чисто куча такая конкретная. Ну чёт так и прилипло...</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_after_attack_dialog_5">
+    <text>Хех, теперь понятно. Ладно, пошли на Свалку. Как до поворота доберёмся, решим, кому груз нести. Птахе пока не говорим - пусть думает, что идём через Свалку на Кордон.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_wait_garbage_dialog_0">
+    <text>Ну чё, как дальше поступим?</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_wait_garbage_dialog_1">
+    <text>Я уже пожалел, что ввязался в это дело. Сам что думаешь?</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_wait_garbage_dialog_2">
+    <text>Да чёрт его знает. Птаха ещё этот увязался...</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_wait_garbage_dialog_3">
+    <text>Я бы свалил отсюда поскорее. Пошли на Кордон.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_wait_garbage_dialog_4">
+    <text>Да, делать тут больше нехер. Знакомиться с Туровым и его шавками желанием не горю.</text>
+  </string>
+  <string id="agr_composer_task_bandit_savior_wait_garbage_dialog_5">
+    <text>Тогда двинули.</text>
+  </string>
+  <string id="agr_composer_task_scientist_boss_final_dialog_0">
+    <text>Ну вот, вернулись все живыми и почти здоровыми. А теперь за документами к Смышлову.</text>
+  </string>
+  <string id="agr_composer_task_scientist_boss_final_dialog_1">
+    <text>Сдается мне, он их добровольно не отдаст!</text>
+  </string>
+  <string id="agr_composer_task_scientist_boss_final_dialog_2">
+    <text>Мне тоже так кажется. Но это уже не моя проблема, решайте как хотите. Но я бы предпочел, чтобы Смышлов остался в живых! С вами мы уже пообщались вдоволь, идите за документами. Главное, с пути не сбейтесь, чтобы господину Визирю не пришлось вам напоминать ориентиры и приоритеты.</text>
+  </string>
+  <string id="agr_composer_task_scientist_boss_final_dialog_3">
+    <text>Постараемся.</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_0_1">
+    <text>Здоров, командир!</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_0_2">
+    <text>Приветствую.</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_0_3">
+    <text>Выкладывай, командир.</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_1_1">
+    <text>Подлатаешь меня, мужик?</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_1_2">
+    <text>Бывай.</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_2">
+    <text>Сейчас подлатаем, командир, всё будет в лучшем виде!</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_3">
+    <text>Командир, да у тебя в норме всё!</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_4">
+    <text>[далее...]</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_5">
+    <text>Готово, не болей!</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_6_1">
+    <text>Благодарю.</text>
+  </string>
+  <string id="agr_soldier_xottab_need_health_care_6_2">
+    <text>Не очень-то и хотелось.</text>
+  </string>
+  <string id="agr_composer_task_scientist_final_dialog_0">
+    <text>О-ох...</text>
+  </string>
+  <string id="agr_composer_task_scientist_final_dialog_1">
+    <text>Смышлов, ты как?</text>
+  </string>
+  <string id="agr_composer_task_scientist_final_dialog_2">
+    <text>Я в порядке! Голова немного кружится, но чувствую себя значительно лучше. А вы как, молодые люди?</text>
+  </string>
+  <string id="agr_composer_task_scientist_final_dialog_3">
+    <text>Бывало и лучше.</text>
+  </string>
+  <string id="agr_composer_task_scientist_final_dialog_4">
+    <text>Приходите в себя. Надо уходить отсюда.</text>
+  </string>
+  <string id="agr_composer_task_scientist_final_dialog_5">
+    <text>Да, только ваш подопытный, кажется, что-то задумал...</text>
+  </string>
+  <string id="agr_composer_task_final_bandit_savior_final_dialog_0">
+    <text>Вот тебе и наука, вот тебе и движители прогресса. Чуть все не померли.</text>
+  </string>
+  <string id="agr_composer_task_final_bandit_savior_final_dialog_1">
+    <text>Надо идти за ним сейчас!</text>
+  </string>
+  <string id="agr_composer_task_final_bandit_savior_final_dialog_2">
+    <text>Нет, ты как хочешь, а я за это время свой организм изрядно ухайдокал. Мне бы отлежаться для начала несколько дней, а там сообразить план действий.</text>
+  </string>
+  <string id="agr_composer_task_final_bandit_savior_final_dialog_3">
+    <text>Так вызови подмогу, пусть идут в погоню!</text>
+  </string>
+  <string id="agr_composer_task_final_bandit_savior_final_dialog_4">
+    <text>И что я им скажу? Осознавший себя ящик взял под контроль зомби и представляет опасность для государства? Да меня сразу спишут, тем более после пси-воздействия такое говорить себе дороже. Нет, Топор, ты как хочешь, а пока наши дороги расходятся!</text>
+  </string>
+  <string id="agr_composer_task_final_bandit_savior_final_dialog_5">
+    <text>А как же...</text>
+  </string>
+  <string id="agr_composer_task_final_bandit_savior_final_dialog_6">
+    <text>Да никак, уймись уже. Эта операция не твоего уровня, и в одного с этим «ящиком-хозяином» связываться тоже не рекомендую. И ещё, я пущу слух, что чёткий пацан Куча сгинул в Зоне - ни то в аномалии, ни то контролёр его сгубил. Так что, вот так. Может, свидимся ещё, если Зона, конечно, захочет. Единственное, жаль я на Птаху гнал, хорошим мужиком оказался.</text>
+  </string>
+  <string id="agr_composer_task_final_bandit_savior_final_dialog_7">
+    <text>И тебе, и ему спасибо, что прикрыли. И, возможно, Зона действительно захочет, чтобы наши пути пересеклись...</text>
+  </string>
+  <string id="agr_composer_task_final_bandit_savior_final_dialog_8">
+    <text>Бывай, сталкер. Не хворай.</text>
+  </string>
+  <string id="agr_composer_task_final_bandit_savior_final_dialog_9">
+    <text>До встречи, Кучеренко...</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_hello_dialog_0">
+    <text>Приветствую! Ты тут типа торговца?</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_hello_dialog_1">
+    <text>Привет, сталкер! Я бы сказал - снабженец здешний! Надо чего? Или так, побалакать просто забежал?</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_hello_dialog_2">
+    <text>Товары ещё успею твои посмотреть, а пока - просто осматриваюсь, знакомлюсь с местными.</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_hello_dialog_3">
+    <text>Это правильно! Связи в Зоне Отчуждения – очень ценная валюта! Я Дрозд, будем знакомы!</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_hello_dialog_4">
+    <text>Топором кличут! Поведаешь, кто таков, что здесь делаешь?</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_hello_dialog_5">
+    <text>Ты, в общем-то, правильно все понял. Торговец я здешний. А территория Агропрома - уже как дом родной для меня! Несколько лет назад у нас тут база своя была, на заводе, что неподалёку. Руководил ей сталкер по прозвищу Орест. Я на ней в качестве торговца числился. Торговали припасами, артефактами, оружием. Своим хорошим знакомым мог даже экзач намутить! Хорошо на базе было, хоть и времена тогда были неспокойные. 2011 год - группировки грызлись, чуть ли не за каждую заброшку в Зоне! Мне порой казалось, что это и не аномальная Зона вовсе, а горячая точка какая-то! Танков только с авиацией не хватало, ей богу! Много людей тогда полегло. Удивляюсь, как сам жив остался. А потом, я думаю, ты знаешь, что произошло. Выброс шандарахнул, мама не горюй! Разозлили мы Зону. Нельзя в ней вот так просто взять и войнушку устроить. Она всегда даст отпор!</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_hello_dialog_6">
+    <text>А что стало с вашей базой после выброса?</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_hello_dialog_7">
+    <text>Плохо дела пошли после большого выброса. Орест куда-то пропал. Говорят, денег скопил, плюнул на Зону и свалил на Большую землю. А без грамотного лидера вся организация базы пошла по одного известному месту. Разбрелись сталкеры кто куда. Я на время тоже бизнес свой прикрыл. Так, время от времени, продавал свои остатки вольным сталкерам, кантовался то тут, то там. Успел и на бункере учёных поработать, принеси-подай у Сидора, у Беса на Свалке. Короче, куда меня только не заносило в эти годы. Но не моё это, по Зоне бродить. Я всё-таки больше коммерсант, чем сталкер. И вот, судьба мне улыбнулась, узнал, что учёные организовали базу на месте бывшего НИИ, да ещё и не прочь сотрудничать со сталкерами. Вот я сюда и подался. Торгую теперь тут, под хорошей охраной и в хороших условиях. Грех жаловаться, тем более после всего того, что пережить пришлось.</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_idle_dialog_0_1">
+    <text>Не отвлекай от службы, салага.</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_idle_dialog_0_2">
+    <text>Ну, чего тебе? Мы, понимаешь, базу охраняем, а тут ты со своими расспросами.</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_idle_dialog_0_3">
+    <text>Что надо?</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_idle_dialog_0_4">
+    <text>Свинчивай отсюда, сталкер, не мешайся под ногами.</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_idle_dialog_0_5">
+    <text>Ну не свети ты перед глазами, иди куда шёл.</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_idle_dialog_1_1">
+    <text>Приветствую, Журавлёв!</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_idle_dialog_1_2">
+    <text>Здравия желаю!</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_idle_dialog_1_3">
+    <text>Доброго дня!</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_idle_dialog_1_4">
+    <text>Как оно, служивый?</text>
+  </string>
+  <string id="agr_scientists_base_soldiers_idle_dialog_1_5">
+    <text>И тебе не хворать.</text>
+  </string>
+</string_table>

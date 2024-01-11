@@ -7,6 +7,7 @@ on:
     branches:
       - staging  # when there is need to actually create artifact, its commit has to be pushed to "staging"
       - ci-run  # or when we explicitly want to trigger ci run
+      - main  # additionally create artifacts for stable releases
 
 jobs:
   build-content:
