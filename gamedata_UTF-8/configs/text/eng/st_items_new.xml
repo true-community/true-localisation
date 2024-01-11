@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<string_table>
+  <string id="st_pda_name_kutek">
+    <text>Kutyok's PDA</text>
+  </string>
+  <string id="st_pda_descr_kutek">
+    <text>A PDA belonging to a stalker named Kutyok. The last entry reads: "Find the artifact in the tunnel."</text>
+  </string>
+  <string id="st_corpse_racia_name">
+    <text>Transceiver</text>
+  </string>
+  <string id="st_corpse_racia_descr">
+    <text>A fine military transceiver. Capable of picking up radio chatter within 30 kilometers.</text>
+  </string>
+  <string id="st_dynamite">
+    <text>Dynamite</text>
+  </string>
+  <string id="st_fanat_dinamit_desc">
+    <text>Eight kilograms of dynamite. Enough to blow any lair to smithereens.</text>
+  </string>
+  <string id="st_pda_name_elevator_corpse">
+    <text>Styopa Brigand's PDA</text>
+  </string>
+  <string id="st_pda_desc_elevator_corpse">
+    <text>An empty PDA.</text>
+  </string>
+  <string id="st_esc_scientists_task_device_name">
+    <text>Scientist device</text>
+  </string>
+  <string id="st_esc_scientists_task_device_text">
+    <text>A strange device. Appears to belong to the scientists who have come to the Cordon for the purposes of field research.</text>
+  </string>
+  <string id="trader_notebook_name">
+    <text>Trader's laptop</text>
+  </string>
+  <string id="trader_notebook_text">
+    <text>Sidorovich's laptop, brought into working condition by Mikhalych.</text>
+  </string>
+  <string id="car_benz_name">
+    <text>Canister</text>
+  </string>
+  <string id="car_benz_text">
+    <text>A canister. Approximately halfway filled with gasoline.</text>
+  </string>
+  <string id="st_pda_name_mishgan">
+    <text>Mishgan's PDA</text>
+  </string>
+  <string id="st_pda_descr_mishgan">
+    <text>A PDA belonging to the stalker Mishgan. A recent entry reads that the finder of the device should take it the rookie village.</text>
+  </string>
+  <string id="st_dictophone">
+    <text>Voice recorder</text>
+  </string>
+  <string id="st_dictophone_descr">
+    <text>A voice recorder.</text>
+  </string>
+  <string id="st_diggers_case_name">
+    <text>Document case</text>
+  </string>
+  <string id="st_diggers_case_descr">
+    <text>This case, judging by its durability, contains some important documents.</text>
+  </string>
+  <string id="st_diggers_box_key">
+    <text>Key</text>
+  </string>
+  <string id="st_diggers_box_key_descr">
+    <text>A key that opens a box and panel in the digger base.</text>
+  </string>
+  <string id="st_bandits_case_name">
+    <text>Trader's case</text>
+  </string>
+  <string id="st_bandits_case_descr">
+    <text>A case with artifacts for the trader Crutch.</text>
+  </string>
+  <string id="st_bandits_case_new_descr">
+    <text>A case with artifacts for the trader Crutch, this time with the right goods.</text>
+  </string>
+  <string id="st_freedom_map_treasure_name">
+    <text>Map from PDA</text>
+  </string>
+  <string id="st_freedom_map_treasure_descr">
+    <text>A map showing the location of a Freedom stash and some PDA with entries.</text>
+  </string>
+  <string id="st_labx18_freedom_stalker_pda_name">
+    <text>Freedomer's PDA</text>
+  </string>
+  <string id="st_labx18_freedom_stalker_pda_descr">
+    <text>Hey, Alex. I heard you're not far from the Dark Valley right now. We've got a special task for you: find a map holding the position of a supply cache in our former base. It's likely located in a stash in X18. Use the extra entrance - you know which one. The main entrance is held by bandits, and you're better off staying under their radar. I know I'm asking you a lot and that I'm sending you into this alone, but that equipment will do us a lot of good; all you have to do is find it. Good luck!</text>
+  </string>
+  <string id="mutant_chimera_clow">
+    <text>Chimera claw</text>
+  </string>
+  <string id="mutant_chimera_clow_description">
+    <text>A seemingly ordinary chimera claw. Covering it, however, is a suspicious yellow substance.</text>
+  </string>
+  <string id="mutant_burer_hand">
+    <text>Burer hand</text>
+  </string>
+  <string id="mutant_burer_hand_description">
+    <text>This burer hand has acquired a number of strange characteristics, the most useful of which being a heavy resistance to radiation. The specifics of this resistance are hitherto unknown. You can play your part in scientific development by selling the burer hand to scientists for their experiments.</text>
+  </string>
+  <string id="mutant_zombie_hand">
+    <text>Zombie hand</text>
+  </string>
+  <string id="mutant_zombie_hand_description">
+    <text>The hand of a zombie infected with insects. In a strange symbiosis with the latter, the zombie genome has changed. Of particular interest to scientists.</text>
+  </string>
+  <string id="mutant_tushkano_head">
+    <text>Tushkan head</text>
+  </string>
+  <string id="mutant_tushkano_head_description">
+    <text>Tushkan rats have undergone serious developments in intelligence; scientists try to understand how so much information can be stored in such a tiny brain. The brains of these rodents are used in medicines that are exported out of the Zone; as such, stalkers do not know their exact effects.</text>
+  </string>
+  <string id="mutant_poltergeist_eye">
+    <text>Poltergeist eye</text>
+  </string>
+  <string id="mutant_poltergeist_eye_description">
+    <text>The exact reason why scientists are interested in poltergeist eyes is unknown, but a good sum is given for them.</text>
+  </string>
+  <string id="mutant_controller_hand">
+    <text>Controller hand</text>
+  </string>
+  <string id="mutant_controller_hand_description">
+    <text>Controllers possess psy-abilities, which, at a distance, allow them to confuse their target and create various hallucinations. As one gets closer, they can also inflict serious damage. Scientists believe that the power of controllers lies in their hands, which, on the other hand, have not yet been fully researched.</text>
+  </string>
+  <string id="mutant_giant_hand">
+    <text>Pseudogiant hand</text>
+  </string>
+  <string id="mutant_giant_hand_description">
+    <text>The hands of pseudogiants possess properties not yet explained by scientists, but they pay well for them.</text>
+  </string>
+  <string id="st_wpn_groza_nimble_broken_descr">
+    <text>A unique sample of the OTs-14 Groza assault rifle equipped with extended ammo capacity and readapted for the 5.45x39mm caliber. In need of serious repairs.</text>
+  </string>
+  <string id="st_box_money">
+    <text>Bundle of money</text>
+  </string>
+  <string id="st_gar_trader_money_descr">
+    <text>Money given by the trader Crutch. Meant for the bandits in the Dark Valley.</text>
+  </string>
+  <string id="st_wpn_ak74u_fanat_broken_descr">
+    <text>AKS-74UM is a modernised AKS-74U. Equipped with an enlarged magazine for 45 rounds and a mount for telescopic sights. The gun is in need of serious repairs.</text>
+  </string>
+  <string id="st_af_ice_task_name">
+    <text>Unknown artifact</text>
+  </string>
+  <string id="st_af_ice_task_descr">
+    <text>Artifact of unknown origin. Its properties have not been studied. Radioactive.</text>
+  </string>
+  <string id="st_af_soul_task_name">
+    <text>Unknown artifact</text>
+  </string>
+  <string id="st_af_soul_task_two_name">
+    <text>Starwort</text>
+  </string>
+  <string id="st_af_soul_task_descr">
+    <text>An artificial artifact created by professor Dubinin in an anomaly through the transmutation of other artifacts.</text>
+  </string>
+  <string id="st_val_bandit_desertir_money_descr">
+    <text>Money intended for the scientist Dubinin.</text>
+  </string>
+  <string id="st_val_scientist_package">
+    <text>Package of dope</text>
+  </string>
+  <string id="st_val_scientist_package_descr">
+    <text>A package from professor Dubinin containing some kind of hypnotic substance.</text>
+  </string>
+  <string id="st_val_scientist_scaner">
+    <text>Anomaly scanner</text>
+  </string>
+  <string id="st_val_scientist_scaner_descr">
+    <text>A device from professor Dubinin. Set up in an anomaly.</text>
+  </string>
+  <string id="st_val_bandits_explosive">
+    <text>Explosives</text>
+  </string>
+  <string id="st_val_bandits_explosive_descr">
+    <text>Explosive charges from the bandits. Use to seal the second entrance to laboratory X18.</text>
+  </string>
+  <string id="st_kat_boss_notes">
+    <text>Note from the Master</text>
+  </string>
+  <string id="st_kat_boss_notes_descr">
+    <text>A note written by the Master of the Underground, apparently left by him for his daughter.</text>
+  </string>
+  <string id="st_gar_stalker_medic_docs">
+    <text>Gamzat's records</text>
+  </string>
+  <string id="st_gar_stalker_medic_docs_descr">
+    <text>A folder with Professor Gamzatov's notes. It contains solid formulas, sketches of chains of chemical transformations, concepts of various technical devices and many other things that an ordinary person cannot understand. Judging by the thickness of the folder, Gamzatov spent a lot of time and effort on his work.</text>
+  </string>
+  <string id="st_agru_corpse_pda">
+    <text>Buzzard's PDA</text>
+  </string>
+  <string id="st_agru_corpse_pda_descr">
+    <text>A PDA belonging to a stalker named Buzzard. May contain information.</text>
+  </string>
+  <string id="st_agr_scientists_base_pass">
+    <text>Pass</text>
+  </string>
+  <string id="st_agr_scientists_base_pass_descr">
+    <text>A pass for entering the scientist base at Agroprom. Issued by professor Dubinin.</text>
+  </string>
+  <string id="st_agr_scientists_base_scanner">
+    <text>Scanner</text>
+  </string>
+  <string id="st_agr_scientists_base_scanner_descr">
+    <text>A scientific scanner given by professor Dubinin. Should be placed in the vicinity of Novoshepelychi.</text>
+  </string>
+  <string id="st_gar_duty_supplies">
+    <text>Medical products</text>
+  </string>
+  <string id="st_gar_duty_supplies_descr">
+    <text>Medical products from the commander of the Duty outpost at the Garbage.</text>
+  </string>
+  <string id="nsp_half_artefact">
+    <text>?«Concrete Chip?»</text>
+  </string>
+  <string id="nsp_half_artefact_descr">
+    <text>It used to be a piece of wall. It has now almost turned into an unstable artifact. It is probably the source of intermittent psy-emissions.</text>
+  </string>
+  <string id="st_nsp_suicide_stalker_notes">
+    <text>Note from Kite</text>
+  </string>
+  <string id="st_nsp_suicide_stalker_notes_descr">
+    <text>"I just can't take this anymore. I JUST CAN'T! They're following me. It's as if they're already inside me! Life here has become unbearable; they're not letting me out of this place. I suppose there's only way out... Let them die with me!"</text>
+  </string>
+  <string id="st_nsp_village_letter">
+    <text>Note from Ferret</text>
+  </string>
+  <string id="st_nsp_village_letter_descr">
+    <text>"Five shadows. They come for everyone."</text>
+  </string>
+  <string id="st_nsp_village_suicide_leader_letter">
+    <text>Note from Eustace</text>
+  </string>
+  <string id="st_nsp_village_suicide_leader_letter_descr">
+    <text>"Save yourselves while you still can!"</text>
+  </string>
+  <string id="st_nsp_masters_flashback_ruck_item">
+    <text>Backpack with items</text>
+  </string>
+  <string id="st_nsp_masters_flashback_ruck_item_descr">
+    <text>A backpack with items from the master stalkers from the vicinity of Novoshepelychi. Very solid loot.</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_key">
+    <text>Key to safe</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_key_descr">
+    <text>A key. Likely to open the safe by which it was located.</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_compass">
+    <text>Compass</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_compass_descr">
+    <text>An unusual compass. Appears to be a rare item; it is definitely not from the 21st century.</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_notes">
+    <text>Soldier's records</text>
+  </string>
+  <string id="st_nsp_soldier_polter_treasure_notes_descr">
+    <text>Records from the soldier that give answers to questions after the events at the bus stop.</text>
+  </string>
+  <string id="nsp_final_scientific_task_artefact">
+    <text>Transmuted artifact</text>
+  </string>
+  <string id="nsp_final_scientific_task_artefact_descr">
+    <text>A transmuted artifact obtained through hybridizing two artifacts: the ?«Concrete Chip?» and the ?«Starwort?».</text>
+  </string>
+  <string id="st_nsp_artefact_container">
+    <text>Container</text>
+  </string>
+  <string id="st_nsp_artefact_container_descr">
+    <text>An ordinary container. Place transmuted artifact inside and dig somewhere.</text>
+  </string>
+  <string id="st_nsp_hunters_hunter_corp_device_pda">
+    <text>Greek's PDA</text>
+  </string>
+  <string id="st_nsp_hunters_hunter_corp_device_pda_descr">
+    <text>A PDA belonging to a hunter named Greek, found dead in the lair of an enormous boar.</text>
+  </string>
+  <string id="st_nsp_musician_stalker_guitar">
+    <text>Guitar</text>
+  </string>
+  <string id="st_nsp_musician_stalker_guitar_descr">
+    <text>A classic six-string guitar, widely seeneven in the premises of the Zone. A possession of many stalkers.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pda">
+    <text>PDA</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pda_descr">
+    <text>A PDA found in the mobile science lab. Data is inaccessible without decryption.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pc_hard_1">
+    <text>Hard drive</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pc_hard_1_descr">
+    <text>A hard drive pulled out from a computer in the science bunker at Yantar. Without extra handiwork, the data appears unreadable.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pc_hard_2">
+    <text>Hard drive</text>
+  </string>
+  <string id="st_yan_bunker_info_item_pc_hard_2_descr">
+    <text>A hard drive that has fallen victim to time. As it has been obtained from a computer in the Yantar science bunker, the information is likely encrypted.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_notebook">
+    <text>Laptop</text>
+  </string>
+  <string id="st_yan_bunker_info_item_notebook_descr">
+    <text>A laptop obtained in the science bunker. Will require charging before any data can be extracted.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_flash">
+    <text>Flash drive</text>
+  </string>
+  <string id="st_yan_bunker_info_item_flash_descr">
+    <text>An ordinary flash drive. Can likely be read if inserted into a computer.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_1">
+    <text>Notes by Sakharov</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_1_descr">
+    <text>A thick book with notes by professor Sakharov during his work in the Yantar mobile bunker.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_2">
+    <text>Shipment log</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_2_descr">
+    <text>Documents containing information about provision and ammunition shipments to the Yantar science bunker.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_3">
+    <text>Folder with notes</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_3_descr">
+    <text>A folder containing notes about research on the latest anomalous formations around lake Yantar.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_4">
+    <text>List of orders</text>
+  </string>
+  <string id="st_yan_bunker_info_item_docs_4_descr">
+    <text>Papers containing a list of artifacts needed for research by the scientists. Also mentioned are their possible deposits.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_scientist_boss_notes">
+    <text>Notes from Sakharov</text>
+  </string>
+  <string id="st_yan_bunker_info_item_scientist_boss_notes_descr">
+    <text>These notes seem to contain the last of Sakharov's thoughts on the proceedings around the bunker.</text>
+  </string>
+  <string id="st_yan_bunker_info_item_scientist_notes">
+    <text>Notes from Kruglov</text>
+  </string>
+  <string id="st_yan_bunker_info_item_scientist_notes_descr">
+    <text>Various records that belonged to professor Kruglov.</text>
+  </string>
+  <string id="st_yan_collect_info_angar_scientist_pda">
+    <text>Shumikhin's PDA</text>
+  </string>
+  <string id="st_yan_collect_info_solo_zombie_pda">
+    <text>Goncharov's PDA</text>
+  </string>
+  <string id="st_yan_collect_info_lab_zombie_scientist_pda">
+    <text>Shishin's PDA</text>
+  </string>
+  <string id="st_yan_collect_info_scientists_pda_descr">
+    <text>The PDA of one of the scientists working at lake Yantar. Data encrypted.</text>
+  </string>
+  <string id="st_yan_labx16_fly_stalker_corp_pda">
+    <text>Yurin's PDA</text>
+  </string>
+  <string id="st_yan_labx16_fly_stalker_corp_pda_descr">
+    <text>The PDA of one of the stalkers working at lake Yantar.</text>
+  </string>
+  <string id="st_yan_labx16_second_task_scientist_corp_1_pda">
+    <text>Bloshkin's PDA</text>
+  </string>
+  <string id="st_yan_labx16_second_task_scientist_corp_2_pda">
+    <text>Prokhorov's PDA</text>
+  </string>
+  <string id="st_yan_labx16_second_task_soldier_corp_pda">
+    <text>Ostapenko's PDA</text>
+  </string>
+  <string id="st_yan_labx16_second_task_soldier_corp_pda_descr">
+    <text>The PDA of one of the X-16 complex guards.</text>
+  </string>
+  <string id="st_yan_labx16_brainlab_key">
+    <text>Key to control room</text>
+  </string>
+  <string id="st_yan_labx16_brainlab_key_descr">
+    <text>A key obtained from the body of a soldier guarding the X-16 complex.</text>
+  </string>
+  <string id="st_yan_bunker_zombie_scientist_pda">
+    <text>Sytyanov's PDA</text>
+  </string>
+  <string id="st_gar_corvalol_duty_friend_token">
+    <text>Dog tags</text>
+  </string>
+  <string id="st_gar_corvalol_duty_friend_token_descr">
+    <text>A Duty soldier's dog tags. These apparently belong to Sergeant Lyubeznov.</text>
+  </string>
+  <string id="st_bar_help_duty_treasure_key">
+    <text>Key</text>
+  </string>
+  <string id="st_bar_help_duty_treasure_key_descr">
+    <text>A key found by Sergeant Lyubeznov while searching the bandits at the Bar. This key should open the bandits' stash.</text>
+  </string>
+  <string id="st_agr_tonnel_scientist_remains_item">
+    <text>Scientist's remains</text>
+  </string>
+  <string id="st_agr_tonnel_scientist_remains_item_descr">
+    <text>The remains of a scientist found in a tunnel at Agroprom. Must be examined in the scientific complex for identification.</text>
+  </string>
+  <string id="st_mil_army_base_sky_device">
+    <text>Radio receiver</text>
+  </string>
+  <string id="st_mil_army_base_sky_device_descr">
+    <text>A device for picking up and decrypting various types of signals within a several kilometer radius.</text>
+  </string>
+  <string id="st_mil_actor_psy_helm">
+    <text>Psy-helm</text>
+  </string>
+  <string id="st_mil_actor_psy_helm_descr">
+    <text>A calibrated prototype for protection against psy-emissions. Recreated by a stalker craftsman based on a scheme from professor Sakharov.</text>
+  </string>
+  <string id="st_mlab_door_pass_card">
+    <text>Access card</text>
+  </string>
+  <string id="st_mlab_door_pass_card_descr">
+    <text>A card for entering the lower level of the laboratory.</text>
+  </string>
+  <string id="st_mlab_door_pass_elite_card">
+    <text>Access card</text>
+  </string>
+  <string id="st_mlab_door_pass_elite_card_descr">
+    <text>A card for rooms restricted to authorized laboratory staff.</text>
+  </string>
+  <string id="st_water_bottle">
+    <text>Mineral water</text>
+  </string>
+  <string id="st_water_bottle_descr">
+    <text>A bottle of clean mineral water. Due to the lack of clean sources in the Zone, imported water becomes a necessity.</text>
+  </string>
+  <string id="st_batteries">
+    <text>Batteries</text>
+  </string>
+  <string id="st_batteries_descr">
+    <text>Ordinary AA batteries. Suitable for powering headlamps.</text>
+  </string>
+  <string id="st_gar_composer_task_merc_pda">
+    <text>Mercenary PDA</text>
+  </string>
+  <string id="st_gar_composer_task_merc_pda_descr">
+    <text>The PDA of one of the mercenaries found next to a fallen stalker group.</text>
+  </string>
+  <string id="st_gar_composer_task_stalker_pda">
+    <text>Stalker PDA</text>
+  </string>
+  <string id="st_gar_composer_task_stalker_pda_descr">
+    <text>A PDA found by Cluster on the site of the dead stalkers at the Garbage.</text>
+  </string>
+  <string id="st_labx18_rakoffka_stalker_pda">
+    <text>Lemur's old PDA</text>
+  </string>
+  <string id="st_labx18_rakoffka_stalker_pda_descr">
+    <text>A PDA found inside laboratory X18 on a stalker named Lemur. A single entry is available.</text>
+  </string>
+  <string id="st_nuts">
+    <text>"Grigoreshek" Nuts</text>
+  </string>
+  <string id="st_nuts_descr">
+    <text>Peanuts with salt are a favorite delicacy of gourmets, popular not only in the Zone, but also on the mainland. It is convenient to take a sealed jar with you on the road, as well as store nuts after opening, for this there is a convenient plastic lid. The product is ready to use. Note: If you are allergic to any of the ingredients in this product, use with caution.</text>
+  </string>
+  <string id="st_olives">
+    <text>"PatronoV" Olives</text>
+  </string>
+  <string id="st_olives_descr">
+    <text>Olives have a rich bright taste, which reveals itself in a special way, thanks to the sea salt brine that soaks each berry from the inside and out. Olives are an indispensable ingredient in the diet of every stalker, the large size and soft oily structure of the fruit itself will please even those who do not really like pickles.</text>
+  </string>
+  <string id="st_vegetables">
+    <text>"Ap-Prondulle" vegetable mix</text>
+  </string>
+  <string id="st_vegetables_descr">
+    <text>Mix of vegetables is light and playful, with an absolutely Italian character! To feel the taste of the Mediterranean, it is now enough just to open a jar. It is recommended to use with a long loaf, washed down with a energy drink.</text>
+  </string>
+  <string id="st_sardines">
+    <text>Sardines in oil</text>
+  </string>
+  <string id="st_sardines_descr">
+    <text>This small fish is not only tasty and fragrant, but also has many useful properties. Delicious sardine carcasses in a special spicy marinade with a pronounced sourness is a combination that fans of bright unusual sensations will appreciate. Only the highest quality fish raw materials and natural ingredients are used in the production process.</text>
+  </string>
+  <string id="st_cheese">
+    <text>"Skuratov's Yard" processed cheese</text>
+  </string>
+  <string id="st_cheese_descr">
+    <text>Legendary processed cheese from a legendary company! Made from high quality hard cheeses with the addition of fresh pasteurized cream. For 15 years, it has been the hallmark of the Skuratov Dvorik plant: the same taste and high-quality composition, familiar from the early years of the Zone!</text>
+  </string>
+  <string id="st_cringe_bread">
+    <text>Bun for Klim Bodyanovich</text>
+  </string>
+  <string id="st_cringe_bread_descr">
+    <text>A loaf of bread. Smells like rum baba, probably tastes like cigarette ash. Only pizza with pineapples could top this in level of disgustingness.</text>
+  </string>
+  <string id="st_val_stalker_technic_radio">
+    <text>Radio receiver</text>
+  </string>
+  <string id="st_val_stalker_technic_radio_descr">
+    <text>A regular radio receiver found in the vastness of the Zone. Whether it works or not remains to be seen.</text>
+  </string>
+  <string id="st_val_stalker_technic_light">
+    <text>Lamp</text>
+  </string>
+  <string id="st_val_stalker_technic_light_descr">
+    <text>A barely functional electric lamp. Needs to be powered up in order to work properly.</text>
+  </string>
+  <string id="st_val_stalker_technic_task_merc_pda">
+    <text>Puma's PDA</text>
+  </string>
+  <string id="st_val_stalker_technic_task_merc_pda_descr">
+    <text>A PDA found on the body of a mercenary. A single message reads: "From customer."</text>
+  </string>
+  <string id="st_val_stalker_technic_psy_helm">
+    <text>Psy-helm</text>
+  </string>
+  <string id="st_val_stalker_technic_psy_helm_descr">
+    <text>This helm seems to be able to protect the wearer from psy-emissions. However, it should not be overly relied on, as it was clearly assembled in a hurry with any available materials.</text>
+  </string>
+  <string id="st_bar_stalker_goose_note">
+    <text>Note from Goose</text>
+  </string>
+  <string id="st_bar_stalker_goose_note_descr">
+    <text>A note from the stalker Goose, given by Arnie after his death.</text>
+  </string>
+  <string id="st_kat_duty_squad_soldier_leader_pda">
+    <text>General Tachenko's PDA</text>
+  </string>
+  <string id="st_kat_duty_squad_soldier_leader_pda_descr">
+    <text>A PDA belonging to general Tachenko, the founder and first leader of Duty. A single recording is available.</text>
+  </string>
+  <string id="st_esc_actor_stalker_sos_task_pda">
+    <text>Axe's PDA</text>
+  </string>
+  <string id="st_esc_actor_stalker_sos_task_pda_descr">
+    <text>PDA of stalker nicknamed Axe with a continuously sent SOS signal. From the last in the records - some note about his attempts to hide from the mercenaries.</text>
+  </string>
+  <string id="st_esc_actor_stalker_sos_task_key">
+    <text>Personal box key</text>
+  </string>
+  <string id="st_esc_actor_stalker_sos_task_key_descr">
+    <text>A key that opens access to the items in the personal stash of stalker nicknamed Axe.</text>
+  </string>
+</string_table>

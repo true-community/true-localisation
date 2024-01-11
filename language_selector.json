@@ -2,35 +2,43 @@
   "locales": {
     "eng": {
       "name": "English",
-      "prefix": "_west"
+      "prefix": "_west",
+      "encoding": "windows-1252"
     },
     "fra": {
       "name": "francés",
-      "prefix": "_west"
+      "prefix": "_west",
+      "encoding": "windows-1252"
     },
     "ger": {
       "name": "Deutsch",
-      "prefix": "_west"
+      "prefix": "_west",
+      "encoding": "windows-1252"
     },
     "ita": {
       "name": "italiano",
-      "prefix": "_west"
+      "prefix": "_west",
+      "encoding": "windows-1252"
     },
     "pol": {
       "name": "polski",
-      "prefix": "_cent"
+      "prefix": "_cent",
+      "encoding": "windows-1250"
     },
     "rus": {
       "name": "русский",
-      "prefix": ""
+      "prefix": "",
+      "encoding": "windows-1251"
     },
     "spa": {
       "name": "español",
-      "prefix": "_west"
+      "prefix": "_west",
+      "encoding": "windows-1252"
     },
     "ukr": {
       "name": "українська",
-      "prefix": ""
+      "prefix": "",
+      "encoding": "windows-1251"
     }
   }
 }

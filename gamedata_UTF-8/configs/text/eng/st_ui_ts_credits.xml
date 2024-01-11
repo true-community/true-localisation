@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="st_credits_ap_pro">
+    <text>AP-PRO TEAM</text>
+  </string>
+  <string id="st_credits_voices">
+    <text>VOICE ACTORS</text>
+  </string>
+  <string id="st_credits_testers">
+    <text>TESTERS</text>
+  </string>
+  <string id="st_credits_superthanks">
+    <text>SPECIAL THANKS FOR PARTICIPATION</text>
+  </string>
+  <string id="st_credits_thanks">
+    <text>SPECIAL THANKS</text>
+  </string>
+  <string id="st_credits_superthanks_engine">
+    <text>SPECIAL THANKS FOR THE PLATFORM</text>
+  </string>
+  <string id="st_credits_superthanks_companies">
+    <text>SPECIAL THANKS TO THE COMPANIES</text>
+  </string>
+  <string id="st_credits_donations_group">
+    <text>THANKS FOR SUPPORTING AP-PRO.RU!</text>
+  </string>
+  <string id="st_credits_openxray_team">
+    <text>SPECIAL THANKS FOR OPENXRAY ENGINE</text>
+  </string>
+  <string id="st_credits_gunslinger_team">
+    <text>THANKS FOR GUNSLINGER MOD</text>
+  </string>
+  <string id="st_credits_scenario">
+    <text>Written by</text>
+  </string>
+  <string id="st_credits_leveldesign">
+    <text>Level design</text>
+  </string>
+  <string id="st_credits_gamedesign">
+    <text>Game design</text>
+  </string>
+  <string id="st_credits_graphics">
+    <text>Game graphic</text>
+  </string>
+  <string id="st_credits_scenario_realisation">
+    <text>Implementation of scenarios by</text>
+  </string>
+  <string id="st_credits_programming_gameplay">
+    <text>Gameplay programmers</text>
+  </string>
+  <string id="st_credits_programming_engine">
+    <text>Engine programmers</text>
+  </string>
+  <string id="st_credits_actor_models">
+    <text>Character models by</text>
+  </string>
+  <string id="st_credits_level_models">
+    <text>Environment models by</text>
+  </string>
+  <string id="st_credits_engine_help">
+    <text>Help with the engine</text>
+  </string>
+  <string id="st_credits_models">
+    <text>Models</text>
+  </string>
+  <string id="st_credits_for_game">
+    <text>For the S.T.A.L.K.E.R. game series</text>
+  </string>
+  <string id="st_credits_models_and_textures">
+    <text>Models and textures</text>
+  </string>
+  <string id="st_shaders_puddles_and_reflections">
+    <text>Reflection shaders</text>
+  </string>
+  <string id="st_credits_logo">
+    <text>Project logo</text>
+  </string>
+  <string id="st_credits_intro">
+    <text>Intro video</text>
+  </string>
+  <string id="st_credits_arts">
+    <text>Arts</text>
+  </string>
+  <string id="st_credits_animations">
+    <text>Animations</text>
+  </string>
+  <string id="st_credits_trailer_music_cover">
+    <text>Music for the last trailer</text>
+  </string>
+  <string id="st_credits_side_quests">
+    <text>Side quest scenarios by</text>
+  </string>
+  <string id="st_credits_textures">
+    <text>Textures</text>
+  </string>
+  <string id="st_credits_music">
+    <text>Music</text>
+  </string>
+  <string id="st_credits_artist">
+    <text>Artist</text>
+  </string>
+  <string id="st_credits_ui_design">
+    <text>Interface design</text>
+  </string>
+  <string id="st_credits_weather">
+    <text>Weather</text>
+  </string>
+  <string id="st_credits_translator_eng">
+    <text>English localization</text>
+  </string>
+  <string id="st_credits_translator_ukr">
+    <text>Ukrainian localization</text>
+  </string>
+  <string id="st_credits_sound_engineers">
+    <text>Sound engineers</text>
+  </string>
+  <string id="st_credits_sound_designers">
+    <text>Sound design</text>
+  </string>
+  <string id="st_credits_voice_actors">
+    <text>Voice Actors</text>
+  </string>
+  <string id="st_credits_create_faces_addon">
+    <text>Face-creation addon</text>
+  </string>
+  <string id="st_credits_ts_up_sssa">
+    <text>For Screen Space Shaders addon</text>
+  </string>
+  <string id="st_credits_ts_up">
+    <text>Contributed to improving the project</text>
+  </string>
+  <string id="st_credits_donations">
+    <text>Thanks to</text>
+  </string>
+  <string id="st_credits_developers">
+    <text>Developers</text>
+  </string>
+  <string id="st_credits_help">
+    <text>Help</text>
+  </string>
+  <string id="st_credits_testers_title">
+    <text>Project testers</text>
+  </string>
+  <string id="st_credits_wolfstalker">
+    <text>Alexey "Wolfstalker" Prosandeev</text>
+  </string>
+  <string id="st_credits_chriotmao">
+    <text>Alexey "Chriotmao" Rakov</text>
+  </string>
+  <string id="st_credits_skyloader">
+    <text>Vladislav "SkyLoader" Skuratov</text>
+  </string>
+  <string id="st_credits_overf1rst">
+    <text>Vladimir "Overf1rst" Klekov</text>
+  </string>
+  <string id="st_credits_samart">
+    <text>Artem "SamArt" Samoilenko</text>
+  </string>
+  <string id="st_credits_anger_of_darkness">
+    <text>Yuri Yudin, "Anger of Darkness" project</text>
+  </string>
+  <string id="st_credits_yuri_yudin">
+    <text>Yuri Yudin</text>
+  </string>
+  <string id="st_credits_exdemoder">
+    <text>Alexander "exDeMODER" Kilyushik</text>
+  </string>
+  <string id="st_credits_danka_laning">
+    <text>Daniil "DankaLaning" Rogachev</text>
+  </string>
+  <string id="st_credits_kostov">
+    <text>Simon "Kostov" Kostovski</text>
+  </string>
+  <string id="st_credits_corryzeron">
+    <text>Rodion "CorryZeron" Lovchev</text>
+  </string>
+  <string id="st_credits_yung_pr1nce">
+    <text>Stepan "YungPr1nce" Ustinov</text>
+  </string>
+  <string id="st_credits_navaro">
+    <text>Navaro</text>
+  </string>
+  <string id="st_credits_revo794">
+    <text>revo794</text>
+  </string>
+  <string id="st_credits_gsc">
+    <text>GSC Game World</text>
+  </string>
+  <string id="st_credits_the_farm51">
+    <text>The Farm51</text>
+  </string>
+  <string id="st_credits_4a_games">
+    <text>4A Games</text>
+  </string>
+  <string id="st_credits_cd_project_red">
+    <text>CD Projekt Red</text>
+  </string>
+  <string id="st_credits_valve">
+    <text>Valve</text>
+  </string>
+  <string id="st_credits_battlestate_games">
+    <text>Battlestate Games</text>
+  </string>
+  <string id="st_credits_avalon_style_ent">
+    <text>Avalon Style Ent.</text>
+  </string>
+  <string id="st_credits_bohemia_int">
+    <text>Bohemia Int.</text>
+  </string>
+  <string id="st_credits_valhalla_gs">
+    <text>Valhalla GS</text>
+  </string>
+  <string id="st_credits_codemasters">
+    <text>Codemasters</text>
+  </string>
+  <string id="st_credits_treyarch">
+    <text>Treyarch</text>
+  </string>
+  <string id="st_credits_infinity_ward">
+    <text>Infinity Ward</text>
+  </string>
+  <string id="st_credits_atom_team">
+    <text>Atom Team</text>
+  </string>
+  <string id="st_credits_keen_tools">
+    <text>KeenTools</text>
+  </string>
+  <string id="st_credits_raven_software">
+    <text>Raven Software</text>
+  </string>
+  <string id="st_credits_rockstar_games">
+    <text>Rockstar Games</text>
+  </string>
+  <string id="st_credits_3d_sk">
+    <text>3D.sk</text>
+  </string>
+  <string id="st_credits_aziatka_victor">
+    <text>AziatkaVictor</text>
+  </string>
+  <string id="st_credits_malik">
+    <text>Sergey "Malik" Malikov</text>
+  </string>
+  <string id="st_credits_narine_fox">
+    <text>Narine "Narine_Fox" Avetyan</text>
+  </string>
+  <string id="st_credits_last_light">
+    <text>Last_Light</text>
+  </string>
+  <string id="st_credits_xottab_duty">
+    <text>Sultan "Xottab_DUTY" Uramaev</text>
+  </string>
+  <string id="st_credits_policai">
+    <text>Yuri "Policai" Poletavkin</text>
+  </string>
+  <string id="st_credits_after_glow">
+    <text>Andrey "AfterGlow" Kalinin</text>
+  </string>
+  <string id="st_credits_nazar">
+    <text>Nazar "Nazerttop" Pristupa</text>
+  </string>
+  <string id="st_credits_vodila">
+    <text>Yaroslav "Vodila" Svintsitsky</text>
+  </string>
+  <string id="st_credits_hozar">
+    <text>Anton "Hozar_2002" Khozarov</text>
+  </string>
+  <string id="st_credits_deinvure_wav">
+    <text>Deinvure.wav</text>
+  </string>
+  <string id="st_credits_kreazot_maks">
+    <text>Kreazot-Maks</text>
+  </string>
+  <string id="st_credits_scava">
+    <text>Scava</text>
+  </string>
+  <string id="st_credits_moloto4ek">
+    <text>Vladimir "Molot04ek" Abramov</text>
+  </string>
+  <string id="st_credits_jekan">
+    <text>Jek@n-Lim0n</text>
+  </string>
+  <string id="st_credits_muraxez">
+    <text>Pavel "Muraxez" Molin</text>
+  </string>
+  <string id="st_credits_leon">
+    <text>Leon</text>
+  </string>
+  <string id="st_credits_molder_plv">
+    <text>MolderPLV</text>
+  </string>
+  <string id="st_credits_oswald">
+    <text>Oswald</text>
+  </string>
+  <string id="st_credits_others">
+    <text>and others</text>
+  </string>
+  <string id="st_credits_openxray_team_1">
+    <text>Xottab_DUTY</text>
+  </string>
+  <string id="st_credits_openxray_team_2">
+    <text>nitrocaster</text>
+  </string>
+  <string id="st_credits_openxray_team_3">
+    <text>Kaffeine</text>
+  </string>
+  <string id="st_credits_openxray_team_4">
+    <text>Armada651</text>
+  </string>
+  <string id="st_credits_openxray_team_5">
+    <text>andrew-boyarshin</text>
+  </string>
+  <string id="st_credits_openxray_team_6">
+    <text>Swartz27</text>
+  </string>
+  <string id="st_credits_openxray_team_7">
+    <text>awdavies</text>
+  </string>
+  <string id="st_credits_openxray_team_8">
+    <text>intorr</text>
+  </string>
+  <string id="st_credits_openxray_team_9">
+    <text>SkyLoader</text>
+  </string>
+  <string id="st_credits_openxray_team_10">
+    <text>qweasdd136963</text>
+  </string>
+  <string id="st_credits_openxray_team_11">
+    <text>JohnDoe_71Rus</text>
+  </string>
+  <string id="st_credits_openxray_team_12">
+    <text>vTurbine</text>
+  </string>
+  <string id="st_credits_openxray_team_13">
+    <text>The Sin!</text>
+  </string>
+  <string id="st_credits_openxray_team_14">
+    <text>Masterkatze</text>
+  </string>
+  <string id="st_credits_openxray_team_15">
+    <text>yohjimane</text>
+  </string>
+  <string id="st_credits_gunslinger_team_1">
+    <text>STRIFER</text>
+  </string>
+  <string id="st_credits_gunslinger_team_2">
+    <text>Sin!</text>
+  </string>
+  <string id="st_credits_gunslinger_team_3">
+    <text>SAM61 (Sam Fisher)</text>
+  </string>
+  <string id="st_credits_gunslinger_team_4">
+    <text>Mr. Rifleman</text>
+  </string>
+  <string id="st_credits_gunslinger_team_5">
+    <text>Iavayao</text>
+  </string>
+  <string id="st_credits_gunslinger_team_help_1">
+    <text>1ns1debeast</text>
+  </string>
+  <string id="st_credits_gunslinger_team_help_2">
+    <text>Synap</text>
+  </string>
+  <string id="st_credits_gunslinger_team_help_3">
+    <text>Survoks</text>
+  </string>
+  <string id="st_credits_gunslinger_team_help_4">
+    <text>KiT</text>
+  </string>
+  <string id="st_credits_voice_actor_1">
+    <text>Peter Glanz</text>
+  </string>
+  <string id="st_credits_voice_actor_2">
+    <text>Stanislav Cherskov</text>
+  </string>
+  <string id="st_credits_voice_actor_3">
+    <text>Konstantin Pogodaev</text>
+  </string>
+  <string id="st_credits_voice_actor_4">
+    <text>Maxim Chernyshev</text>
+  </string>
+  <string id="st_credits_voice_actor_5">
+    <text>Danila Glukhov</text>
+  </string>
+  <string id="st_credits_voice_actor_6">
+    <text>Alexander Chistyakov</text>
+  </string>
+  <string id="st_credits_voice_actor_7">
+    <text>Gleb Orlov</text>
+  </string>
+  <string id="st_credits_voice_actor_8">
+    <text>Nikolay Zozulin</text>
+  </string>
+  <string id="st_credits_voice_actor_9">
+    <text>Andrey Briginevich</text>
+  </string>
+  <string id="st_credits_voice_actor_10">
+    <text>Vladislav Gavrilov</text>
+  </string>
+  <string id="st_credits_voice_actor_11">
+    <text>Pavel Lomakin</text>
+  </string>
+  <string id="st_credits_voice_actor_12_1">
+    <text>Suren Rakutagin</text>
+  </string>
+  <string id="st_credits_voice_actor_12_2">
+    <text>Mrs. Obvious</text>
+  </string>
+  <string id="st_credits_voice_actor_13">
+    <text>Daelit</text>
+  </string>
+  <string id="st_credits_voice_actor_14">
+    <text>Sergey Resnyansky</text>
+  </string>
+  <string id="st_credits_voice_actor_15">
+    <text>Simon Kostovski</text>
+  </string>
+  <string id="st_credits_voice_actor_16">
+    <text>Rainhard A.D</text>
+  </string>
+  <string id="st_credits_voice_actor_17">
+    <text>Evgeniy Bezzubov</text>
+  </string>
+  <string id="st_credits_voice_actor_18">
+    <text>Fedor Postolov</text>
+  </string>
+  <string id="st_credits_voice_actor_19">
+    <text>Alexander Ivanov</text>
+  </string>
+  <string id="st_credits_voice_actor_20">
+    <text>Anton Vorobey</text>
+  </string>
+  <string id="st_credits_voice_actor_21">
+    <text>Yuri Kokorev</text>
+  </string>
+  <string id="st_credits_voice_actor_22">
+    <text>Tikhon Eshanu</text>
+  </string>
+  <string id="st_credits_voice_actor_23">
+    <text>Victor Stepakov</text>
+  </string>
+  <string id="st_credits_voice_actor_24">
+    <text>Stanislav Starkov</text>
+  </string>
+  <string id="st_credits_voice_actor_25">
+    <text>Alexey Nikitin</text>
+  </string>
+  <string id="st_credits_voice_actor_26">
+    <text>Dmitry Ermakov</text>
+  </string>
+  <string id="st_credits_voice_actor_27">
+    <text>Edward Briony</text>
+  </string>
+  <string id="st_credits_voice_actor_28">
+    <text>VANDELEY</text>
+  </string>
+  <string id="st_credits_voice_actor_29">
+    <text>MOP030B</text>
+  </string>
+  <string id="st_credits_tester_1">
+    <text>Dmitry "Diman_GTX" Volkov</text>
+  </string>
+  <string id="st_credits_tester_2">
+    <text>Evgeny "PiMoN" Sidorenko</text>
+  </string>
+  <string id="st_credits_tester_3">
+    <text>Roma "FENIX" Korotkov</text>
+  </string>
+  <string id="st_credits_tester_4">
+    <text>AfterGlow</text>
+  </string>
+  <string id="st_credits_tester_5">
+    <text>Rodion "CorryZeron" Lovchev</text>
+  </string>
+  <string id="st_credits_tester_6">
+    <text>Anton Vorobey</text>
+  </string>
+  <string id="st_credits_tester_7">
+    <text>Anastasia "Belka" Goncharova</text>
+  </string>
+  <string id="st_credits_tester_8">
+    <text>Yuri Yudin</text>
+  </string>
+  <string id="st_credits_tester_9">
+    <text>Dmitry Yurin</text>
+  </string>
+  <string id="st_credits_tester_10">
+    <text>Timofey</text>
+  </string>
+  <string id="st_credits_thanks_sssa">
+    <text>Ascii1457</text>
+  </string>
+  <string id="st_credits_thanks_1">
+    <text>FantomICW</text>
+  </string>
+  <string id="st_credits_thanks_2">
+    <text>Charsi</text>
+  </string>
+  <string id="st_credits_thanks_3">
+    <text>macron</text>
+  </string>
+  <string id="st_credits_thanks_4">
+    <text>Stalker Lom</text>
+  </string>
+  <string id="st_credits_thanks_5">
+    <text>Ricochet</text>
+  </string>
+  <string id="st_credits_thanks_6">
+    <text>Darklocq</text>
+  </string>
+  <string id="st_credits_thanks_7">
+    <text>RonicTH</text>
+  </string>
+  <string id="st_credits_thanks_8">
+    <text>Cromm Cruac</text>
+  </string>
+  <string id="st_credits_thanks_9">
+    <text>Akinaro</text>
+  </string>
+  <string id="st_credits_thanks_10">
+    <text>monk</text>
+  </string>
+  <string id="st_credits_thanks_11">
+    <text>Expropriator</text>
+  </string>
+  <string id="st_credits_thanks_12">
+    <text>ed_rez</text>
+  </string>
+  <string id="st_credits_thanks_13">
+    <text>Scozzone</text>
+  </string>
+  <string id="st_credits_thanks_14">
+    <text>FL!NT</text>
+  </string>
+  <string id="st_credits_thanks_15">
+    <text>Asterix aka Ray</text>
+  </string>
+  <string id="st_credits_thanks_16">
+    <text>abramcumner</text>
+  </string>
+  <string id="st_credits_thanks_17">
+    <text>BAC9-FLCL</text>
+  </string>
+  <string id="st_credits_thanks_18">
+    <text>CprHicks Team</text>
+  </string>
+  <string id="st_credits_thanks_19">
+    <text>Sin!</text>
+  </string>
+  <string id="st_credits_thanks_20">
+    <text>Den-Stash</text>
+  </string>
+  <string id="st_credits_thanks_21">
+    <text>RedPython</text>
+  </string>
+  <string id="st_credits_thanks_22">
+    <text>M.F.S. Team</text>
+  </string>
+  <string id="st_credits_thanks_23">
+    <text>NeilMc</text>
+  </string>
+  <string id="st_credits_thanks_24">
+    <text>StalkerSnowy</text>
+  </string>
+  <string id="st_credits_thanks_25">
+    <text>Pirat</text>
+  </string>
+  <string id="st_credits_thanks_26">
+    <text>Dynamic_</text>
+  </string>
+  <string id="st_credits_thanks_27">
+    <text>Domestos</text>
+  </string>
+  <string id="st_credits_thanks_28">
+    <text>Yuri "Ultor" Artemenko</text>
+  </string>
+  <string id="st_credits_thanks_29">
+    <text>RonicTH</text>
+  </string>
+  <string id="st_credits_thanks_30">
+    <text>AngryWolf</text>
+  </string>
+  <string id="st_credits_thanks_31">
+    <text>Pavel_Blend</text>
+  </string>
+  <string id="st_credits_thanks_32">
+    <text>ValeroK</text>
+  </string>
+  <string id="st_credits_thanks_33">
+    <text>Cylentnyte</text>
+  </string>
+  <string id="st_credits_thanks_34">
+    <text>Oswald</text>
+  </string>
+  <string id="st_credits_thanks_35">
+    <text>pan_panzerschreck</text>
+  </string>
+  <string id="st_credits_thanks_36">
+    <text>FrostyTech</text>
+  </string>
+  <string id="st_credits_thanks_37">
+    <text>Jaba</text>
+  </string>
+  <string id="st_credits_thanks_38">
+    <text>YoungPr1nce</text>
+  </string>
+  <string id="st_credits_thanks_39">
+    <text>Valery Maslina</text>
+  </string>
+  <string id="st_credits_thanks_40">
+    <text>pipotheartist</text>
+  </string>
+  <string id="st_credits_thanks_41">
+    <text>Red Fox (nokillnando)</text>
+  </string>
+  <string id="st_credits_thanks_42">
+    <text>Samber 13</text>
+  </string>
+  <string id="st_credits_donation_1">
+    <text>CHUCK NORRIS</text>
+  </string>
+  <string id="st_credits_donation_2">
+    <text>r1pecl1ps3</text>
+  </string>
+  <string id="st_credits_donation_3">
+    <text>Bell</text>
+  </string>
+  <string id="st_credits_donation_4">
+    <text>Witness of Highlord</text>
+  </string>
+  <string id="st_credits_donation_5">
+    <text>Z3SA</text>
+  </string>
+  <string id="st_credits_donation_6">
+    <text>Nazgul</text>
+  </string>
+  <string id="st_credits_donation_7">
+    <text>Collector</text>
+  </string>
+  <string id="st_credits_donation_8">
+    <text>AfterGlow</text>
+  </string>
+  <string id="st_credits_donation_9">
+    <text>Sidorovich 2</text>
+  </string>
+  <string id="st_credits_donation_10">
+    <text>stalkerShepard</text>
+  </string>
+  <string id="st_credits_donation_11">
+    <text>LinkinPunk</text>
+  </string>
+  <string id="st_credits_donation_12">
+    <text>Vladivostok</text>
+  </string>
+  <string id="st_credits_donation_13">
+    <text>The 13th</text>
+  </string>
+  <string id="st_credits_donation_14">
+    <text>Max from chat</text>
+  </string>
+  <string id="st_credits_donation_15">
+    <text>no name</text>
+  </string>
+  <string id="st_credits_donation_16">
+    <text>Kuznetsov</text>
+  </string>
+  <string id="st_credits_donation_17">
+    <text>Cocucbka</text>
+  </string>
+  <string id="st_credits_donation_18">
+    <text>Yazilo</text>
+  </string>
+  <string id="st_credits_donation_19">
+    <text>Artyom from Metro 2033</text>
+  </string>
+  <string id="st_credits_donation_20">
+    <text>Desssolate</text>
+  </string>
+  <string id="st_credits_donation_21">
+    <text>Shadow_Lynx</text>
+  </string>
+  <string id="st_credits_donation_22">
+    <text>Erman</text>
+  </string>
+  <string id="st_credits_donation_23">
+    <text>BFG (Petrovich)</text>
+  </string>
+  <string id="st_credits_donation_24">
+    <text>Alexey</text>
+  </string>
+  <string id="st_credits_donation_25">
+    <text>Anecdote</text>
+  </string>
+  <string id="st_credits_donation_26">
+    <text>KANNESTEINEN</text>
+  </string>
+  <string id="st_credits_donation_27">
+    <text>Sibirsky Neftyanik</text>
+  </string>
+  <string id="st_credits_donation_28">
+    <text>Leo Latis</text>
+  </string>
+  <string id="st_credits_donation_29">
+    <text>VeRtex</text>
+  </string>
+  <string id="st_credits_donation_30">
+    <text>Detector Govnov</text>
+  </string>
+  <string id="st_credits_donation_31">
+    <text>Serjan Fear</text>
+  </string>
+  <string id="st_credits_donation_32">
+    <text>Litchi Laitchi (Nazgul)</text>
+  </string>
+  <string id="st_credits_donation_33">
+    <text>Sk1F</text>
+  </string>
+  <string id="st_credits_donation_34">
+    <text>che guevara</text>
+  </string>
+  <string id="st_credits_donation_35">
+    <text>Shake</text>
+  </string>
+  <string id="st_credits_donation_36">
+    <text>George Nikolaev</text>
+  </string>
+  <string id="st_credits_donation_37">
+    <text>Gazirovanniy</text>
+  </string>
+  <string id="st_credits_donation_38">
+    <text>[CFF] FIDANzza</text>
+  </string>
+  <string id="st_credits_donation_39">
+    <text>The Help</text>
+  </string>
+  <string id="st_credits_donation_40">
+    <text>Mawrak</text>
+  </string>
+  <string id="st_credits_donation_41">
+    <text>Nikaveli</text>
+  </string>
+  <string id="st_credits_donation_42">
+    <text>Krovaviy</text>
+  </string>
+  <string id="st_credits_donation_43">
+    <text>Nikita</text>
+  </string>
+  <string id="st_credits_donation_44">
+    <text>Славян</text>
+  </string>
+  <string id="st_credits_donation_45">
+    <text>Etain</text>
+  </string>
+  <string id="st_credits_donation_46">
+    <text>ukr-apelsin</text>
+  </string>
+  <string id="st_credits_donation_47">
+    <text>v2v3v4</text>
+  </string>
+  <string id="st_credits_donation_48">
+    <text>Nikolai Makeev</text>
+  </string>
+  <string id="st_credits_donation_49">
+    <text>Charon</text>
+  </string>
+  <string id="st_credits_donation_50">
+    <text>Korff</text>
+  </string>
+  <string id="st_credits_donation_51">
+    <text>MARAUDER</text>
+  </string>
+  <string id="st_credits_donation_52">
+    <text>Vladislav</text>
+  </string>
+  <string id="st_credits_donation_53">
+    <text>Nicoon01</text>
+  </string>
+  <string id="st_credits_donation_54">
+    <text>SNVKE</text>
+  </string>
+  <string id="st_credits_donation_55">
+    <text>Ivan</text>
+  </string>
+  <string id="st_credits_donation_56">
+    <text>Alexey and Svetlana</text>
+  </string>
+  <string id="st_credits_donation_57">
+    <text>Andreya</text>
+  </string>
+  <string id="st_credits_donation_58">
+    <text>Pavel</text>
+  </string>
+  <string id="st_credits_donation_59">
+    <text>Ivan Pakhomov</text>
+  </string>
+  <string id="st_credits_donation_60">
+    <text>Prima</text>
+  </string>
+  <string id="st_credits_donation_61">
+    <text>Oleg</text>
+  </string>
+  <string id="st_credits_donation_62">
+    <text>Overf1rst</text>
+  </string>
+  <string id="st_credits_donation_63">
+    <text>Some guy from Siberia</text>
+  </string>
+  <string id="st_credits_donation_64">
+    <text>Marazm Krepchayushchiy</text>
+  </string>
+  <string id="st_credits_donation_65">
+    <text>AziatkaVictor</text>
+  </string>
+  <string id="st_credits_donation_66">
+    <text>EVG600HL</text>
+  </string>
+  <string id="st_credits_donation_67">
+    <text>Hardtmuth</text>
+  </string>
+  <string id="st_credits_donation_68">
+    <text>Croaker</text>
+  </string>
+  <string id="st_credits_donation_69">
+    <text>Barabakus</text>
+  </string>
+  <string id="st_credits_donation_70">
+    <text>Vasily Rudakov</text>
+  </string>
+  <string id="st_credits_donation_71">
+    <text>Koban aka Diman</text>
+  </string>
+  <string id="st_credits_donation_72">
+    <text>Грешник</text>
+  </string>
+  <string id="st_credits_donation_73">
+    <text>Mass effect</text>
+  </string>
+  <string id="st_credits_donation_74">
+    <text>exDeMODER</text>
+  </string>
+  <string id="st_credits_donation_75">
+    <text>Haron</text>
+  </string>
+  <string id="st_credits_donation_76">
+    <text>Nishi</text>
+  </string>
+  <string id="st_credits_donation_77">
+    <text>Don Badon</text>
+  </string>
+  <string id="st_credits_donation_78">
+    <text>vadim sidorov</text>
+  </string>
+  <string id="st_credits_donation_79">
+    <text>ЭНЕРГО МУЖИК</text>
+  </string>
+  <string id="st_credits_donation_80">
+    <text>Vadyusha</text>
+  </string>
+  <string id="st_credits_donation_81">
+    <text>Artyom</text>
+  </string>
+  <string id="st_credits_donation_82">
+    <text>Loner</text>
+  </string>
+  <string id="st_credits_donation_83">
+    <text>Nastya Komsomolka</text>
+  </string>
+  <string id="st_credits_donation_84">
+    <text>player_h</text>
+  </string>
+  <string id="st_credits_donation_85">
+    <text>Pavel Anisimov</text>
+  </string>
+  <string id="st_credits_donation_86">
+    <text>Sergey Shamal</text>
+  </string>
+  <string id="st_credits_donation_87">
+    <text>Yulka</text>
+  </string>
+  <string id="st_credits_donation_88">
+    <text>Inc</text>
+  </string>
+  <string id="st_credits_donation_89">
+    <text>Shepard</text>
+  </string>
+  <string id="st_credits_donation_90">
+    <text>Problem</text>
+  </string>
+  <string id="st_credits_donation_91">
+    <text>Dmitry Bessmertny</text>
+  </string>
+  <string id="st_credits_donation_92">
+    <text>Grafton</text>
+  </string>
+</string_table>

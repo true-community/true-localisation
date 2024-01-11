@@ -19,7 +19,7 @@ To suggest your own changes you can do one of the following:
 
 [!] The game engine is hardcoded to work with single-byte character sets (= does not support UTF-8 encoding)!<br/>Although, basic latin letters are displayed identically for either one, accents and other non-[ASCII](https://en.wikipedia.org/wiki/ASCII) characters are not.
 
-Every XML file must start with `<?xml version="1.0" encoding="windows-1251"/>` (make sure to replace 1251 with appropriate
+Every XML file must start with declaration tag `<?xml version="1.0" encoding="windows-125...` in this repo, however, every file is encoded UTF-8, because Github (as well as Gitlab) screws with non-unicode encodings and will ruin your day if you edit something in Web IDE. Exactly for that reason CI pipeline is created: it converts XMLs into appropriate encodings. Read about them below.
 
 - [`windows-1250`](https://en.wikipedia.org/wiki/Windows-1250) (`font_prefix = _cent`):
   - [ ] [Polish](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/pol) (WIP, contribution required)

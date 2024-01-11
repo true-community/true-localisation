@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="st_val_bandit_bookmaker_meet_bye_1">
+    <text>Люблю, коли пір'я\nу повітрі кружляють!</text>
+  </string>
+  <string id="st_val_bandit_bookmaker_meet_bye_2">
+    <text>В шматки їх, в шматки! </text>
+  </string>
+  <string id="st_val_bandit_bookmaker_meet_bye_3">
+    <text>Вас завжди круто,\nпадальщиків чорнокрилих пошматувати!</text>
+  </string>
+  <string id="st_val_bandit_bookmaker_meet_greet_1">
+    <text>Ну чо, підірявимо пташок?</text>
+  </string>
+  <string id="st_val_bandit_bookmaker_meet_greet_2">
+    <text>Так, буде сьогодні\nна пару ворон менше!</text>
+  </string>
+  <string id="st_val_bandit_bookmaker_meet_greet_3">
+    <text>Заходь пошмаляти, браток!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_lose_1">
+    <text>Ні, ну з цього ваще\nстрілок ніякий. Ні, ніякий, ваще...</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_lose_2">
+    <text>Фігня-фігньою!\nШо грав, шо радіо слухав!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_lose_3">
+    <text>Не, ну, може,\nу нього руки з похмілля тремтять.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_1">
+    <text>Ну чо, ризикну.\nПоставлю на мужика півсотні! </text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_2">
+    <text>Та ну його нах.\nЯ на цього лоха ставити не буду!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_3">
+    <text>О, пальба намічається. Ща позиримо!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_response_1">
+    <text>Ща глянемо, як воно стріляти буде.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_response_2">
+    <text>А ні фіга він не настріляє!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_response_3">
+    <text>Та начебто\nна нормального мужика тягне.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_shooting_1">
+    <text>Та он вона полетіла!\nТи чо тупиш?</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_shooting_2">
+    <text>Давай, гаси! </text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_shooting_3">
+    <text>Ти що,\nваще стріляти не вмієш? </text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_shooting_4">
+    <text>Давай, мужик. Я в тебе вірю!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_shooting_5">
+    <text>По крилах, по крилах бий!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_win_1">
+    <text>Ось це пацан. Ось це видав! </text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_win_2">
+    <text>Ну, мужик... В натурі снайпер.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_win_3">
+    <text>Ти бачив, як він їх знімав?\nОсь це круть!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_gone_1">
+    <text>Мужик, ти куди?\nТи що, більше грати не будеш? </text>
+  </string>
+  <string id="st_val_bandit_minigame_man_gone_2">
+    <text> Гей, мужик, повертайся. Ти ж нормально грав!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_gone_3">
+    <text>Мужик, не звалюй. Тобі ж уже поперло!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_lose_1">
+    <text>Ну, не фарт поки що. Спробуй ще.</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_lose_2">
+    <text>Давай ще, мужик.\пЩас точно виграєш!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_lose_3">
+    <text>Ну, типу, буває. Давай ще спробуй?</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_first_1">
+    <text>Ну ти даєш!\nВважай, мій рекорд похерив. </text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_first_2">
+    <text>На ось, тримай.</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_npc_1">
+    <text>Опа, та ти по новій чемпіон!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_npc_2">
+    <text>Ну, за мною не заіржавіє!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_player_1">
+    <text>Мужик, ну ти даєш.\nСвій рекорд побив!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_player_2">
+    <text>Ну, все. Нагорода твоя!</text>
+  </string>
+  <string id="st_val_bandit_desertir_actor_angry">
+    <text>Ну де тебе носить, мля? </text>
+  </string>
+  <string id="st_val_bandit_desertir_bandit_alarm_message_1">
+    <text> Гей, сталкере, ти тут?</text>
+  </string>
+  <string id="st_val_bandit_desertir_bandit_alarm_message_2">
+    <text>Кидай усе й терміново повертайся. Є невідкладна справа! </text>
+  </string>
+  <string id="st_val_bandit_leader_katakomb_message_1">
+    <text>Ти даремно так вчинив, сталкере.</text>
+  </string>
+  <string id="st_val_bandit_leader_katakomb_message_2">
+    <text>Живим тепер ти звідси не підеш.</text>
+  </string>
+  <string id="st_val_bandit_desertir_blood">
+    <text>Ну й кровіща ж тут!</text>
+  </string>
+  <string id="st_val_bandit_desertir_bye_1">
+    <text>Ну, ти, це...\nзаходь, якщо що.</text>
+  </string>
+  <string id="st_val_bandit_desertir_bye_2">
+    <text>Не пропадеш — побачимося.</text>
+  </string>
+  <string id="st_val_bandit_desertir_catch_up">
+    <text>Начебто тихо.\nДавайте за ним, хлопці.</text>
+  </string>
+  <string id="st_val_bandit_desertir_check_all_1">
+    <text>Оглянемо решту жмурів.</text>
+  </string>
+  <string id="st_val_bandit_desertir_check_all_2">
+    <text>Що ж це за містика така?</text>
+  </string>
+  <string id="st_val_bandit_desertir_cold">
+    <text>Холодом віє...</text>
+  </string>
+  <string id="st_val_bandit_desertir_danger">
+    <text>Обережно!</text>
+  </string>
+  <string id="st_val_bandit_desertir_death_treasure_1">
+    <text>[крик від болю]</text>
+  </string>
+  <string id="st_val_bandit_desertir_death_treasure_2">
+    <text>[крик від болю]</text>
+  </string>
+  <string id="st_val_bandit_desertir_disappointment">
+    <text>Твою ж матір! </text>
+  </string>
+  <string id="st_val_bandit_desertir_dont_steps">
+    <text>Тихо! На цирлах! </text>
+  </string>
+  <string id="st_val_bandit_desertir_final_relax_1">
+    <text>Ну ні хера собі тут звірино, сука!</text>
+  </string>
+  <string id="st_val_bandit_desertir_final_relax_2">
+    <text>Але нас так просто не візьмеш!</text>
+  </string>
+  <string id="st_val_bandit_desertir_go_boom_lab_1">
+    <text>Іди,\nпідривай вхід до лаби і наздоганяй.</text>
+  </string>
+  <string id="st_val_bandit_desertir_go_boom_lab_2">
+    <text>Давай, іди підривай вже\nвхід у лабораторію і підтягуйся.</text>
+  </string>
+  <string id="st_val_bandit_desertir_go_boom_lab_3">
+    <text>Підірви вже\nчортів вхід, потім наздоженеш!</text>
+  </string>
+  <string id="st_val_bandit_desertir_go_check_corpse_1">
+    <text>Гей! </text>
+  </string>
+  <string id="st_val_bandit_desertir_go_check_corpse_2">
+    <text>Іди подивися дальнього жмура.\nТобі ближче!</text>
+  </string>
+  <string id="st_val_bandit_desertir_hello_1">
+    <text>Ну, чудово! </text>
+  </string>
+  <string id="st_val_bandit_desertir_hello_2">
+    <text>Приветос-амігос!</text>
+  </string>
+  <string id="st_val_bandit_desertir_hide_weapon_1">
+    <text>Чо ти гониш?</text>
+  </string>
+  <string id="st_val_bandit_desertir_hide_weapon_2">
+    <text>Нема там нікого. Прибери волину!</text>
+  </string>
+  <string id="st_val_bandit_desertir_is_not_polter_1">
+    <text> Навряд чи це полтергейст.</text>
+  </string>
+  <string id="st_val_bandit_desertir_is_not_polter_2">
+    <text>Треба б для початку все оглянути.</text>
+  </string>
+  <string id="st_val_bandit_desertir_is_not_polter_3">
+    <text>Масол, іди подивися жмура.</text>
+  </string>
+  <string id="st_val_bandit_desertir_is_not_polter_4">
+    <text>Треба зрозуміти, як їх замочили всіх.</text>
+  </string>
+  <string id="st_val_bandit_desertir_is_not_polter_5">
+    <text>Тільки... акуратніше...</text>.
+  </string>
+  <string id="st_val_bandit_desertir_little_space">
+    <text>Давайте по одному.\nТут не розвернутися, блін.\nТут не розвернутися, блін.</text>
+  </string>
+  <string id="st_val_bandit_desertir_monster_death">
+    <text>Давайте наружу.\nТам уже й поговоримо!</text>
+  </string>
+  <string id="st_val_bandit_desertir_move_forward">
+    <text>Та не сси ти.\nРухай далі!</text>
+  </string>
+  <string id="st_val_bandit_desertir_near">
+    <text>Майже прийшли.</text>
+  </string>
+  <string id="st_val_bandit_desertir_present_actor_1">
+    <text>Я знайшов ще одного добровольця.</text>
+  </string>
+  <string id="st_val_bandit_desertir_present_actor_2">
+    <text>Він з досвідчених сталкерів,</text>
+  </string>
+  <string id="st_val_bandit_desertir_present_actor_3">
+    <text>так що його допомога\nнам не завадить.</text>
+  </string>
+  <string id="st_val_bandit_desertir_present_actor_4">
+    <text>Ну чо, підемо?</text>
+  </string>
+  <string id="st_val_bandit_desertir_psy_pain">
+    <text>А-а, сука! Голова! </text>
+  </string>
+  <string id="st_val_bandit_desertir_robbery_1">
+    <text>Давайте, пацани!</text>
+  </string>
+  <string id="st_val_bandit_desertir_robbery_2">
+    <text>По-швидкому згрібаємо\nвсе найцінніше і линяємо,</text>
+  </string>
+  <string id="st_val_bandit_desertir_robbery_3">
+    <text>а то ще ці чубріки прокинуться!</text>
+  </string>
+  <string id="st_val_bandit_desertir_search_monster_1">
+    <text>Гаразд, будьте акуратніше.</text>
+  </string>
+  <string id="st_val_bandit_desertir_search_monster_2">
+    <text>Оглянемо кожен кут.</text>
+  </string>
+  <string id="st_val_bandit_desertir_search_monster_3">
+    <text>Якщо хтось із мутантів\nтут і мешкає, треба його завалити.</text>
+  </string>
+  <string id="st_val_bandit_desertir_see_monster">
+    <text>Бачу її! Вогонь, вогонь!</text>
+  </string>
+  <string id="st_val_bandit_desertir_silent_treasure">
+    <text>Тихо! Я щось чув.</text>
+  </string>
+  <string id="st_val_bandit_desertir_start_attack_treasure">
+    <text>Хєрач їх, хлопці!</text>
+  </string>
+  <string id="st_val_bandit_desertir_start_squad">
+    <text>Ну чо, як у вас тут?</text>
+  </string>
+  <string id="st_val_bandit_desertir_surprised_treasure">
+    <text>Твою мати! </text>
+  </string>
+  <string id="st_val_bandit_desertir_teeth">
+    <text>Сука, що ж так зуби зводить?..</text>
+  </string>
+  <string id="st_val_bandit_desertir_wait_actor">
+    <text>Сказав, скоро прийде.\nЯ вже домовився — поки почекаємо.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_check_corpse_1">
+    <text>Йому походу шию згорнули!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_check_corpse_2">
+    <text>Вогнепалу я не бачу.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_come_go">
+    <text>Підтягуйтеся!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_dread">
+    <text>Мля. Навіщо ми\nвзагалі сюди сунулися?</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_fear">
+    <text>Стремно.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_friend_1">
+    <text>Боже! Толян!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_friend_2">
+    <text>Ех...</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_friend_treasure_reaction">
+    <text>Ну ні хрена собі тут добра!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_go">
+    <text>А чого яйця перекладати?\nПігнали!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_lab_want_eat_1">
+    <text>Їоханий бабай,\nзаманало вже голодним бігати.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_lab_want_eat_2">
+    <text>Хавати охота...</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_relax">
+    <text>Та там вона, мля буду!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_see_monster_1">
+    <text>А-а-а-а, тварюка!\nОн вона, у кутку! </text>
+  </string>
+  <string id="st_val_desertir_team_bandit_see_monster_2">
+    <text>Зараз я тебе, гнида!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_situation_1">
+    <text>Та нічо, все тихо.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_situation_2">
+    <text>Ніхто не виходив,\nніхто не заходив.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_situation_3">
+    <text>Заманалися вже\nсидіти тут, їли-пали!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_wait_actor">
+    <text>Ну чо, де там п'ятий?!</text>
+  </string>
+  <string id="st_val_bandit_leader_bye_1">
+    <text>Все, чеши давай.</text>
+  </string>
+  <string id="st_val_bandit_leader_bye_2">
+    <text>Можеш провалювати.</text>
+  </string>
+  <string id="st_val_bandit_leader_bye_3">
+    <text>Гаразд, вимітайся давай.</text>
+  </string>
+  <string id="st_val_bandit_leader_hello_1">
+    <text>Ти що забув тут, сталкерок?</text>
+  </string>
+  <string id="st_val_bandit_leader_hello_2">
+    <text>Балабонь швидше, що треба?</text>
+  </string>
+  <string id="st_val_bandit_leader_hello_3">
+    <text>Ну, чо тобі?</text>
+  </string>
+  <string id="st_val_bandit_leader_threat_1">
+    <text>Ще раз\nз такими наїздами тут з'явишся —</text>
+  </string>
+  <string id="st_val_bandit_leader_threat_2">
+    <text>Голову тобі розіб'ю, фраєр!</text>
+  </string>
+  <string id="st_val_bandit_leader_treasure_angry_1">
+    <text>Коротше, щас підемо\nі покажемо цим щурам,</text>
+  </string>
+  <string id="st_val_bandit_leader_treasure_angry_2">
+    <text>як чуже хапати. Уроємо виродків!</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_bye_1">
+    <text>Нема хабару - нема базару.</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_bye_2">
+    <text>Звідки ось ти\nтаке бадилля таскаєш?</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_bye_3">
+    <text>Ну ось. Нехило побарижив.</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_greet_1">
+    <text>Заходь — не бійся, виходь — не плач.</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_greet_2">
+    <text>Ну, що ж ти знову\nприволок, касатику? Показуй.</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_greet_3">
+    <text>Є хабар — піде базар.</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_actor_fear">
+    <text>Хлопчак, ти чо, перестремався?</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_come_go">
+    <text>Ну що ти морозишся? Підходь давай!</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_complete_stop">
+    <text>Молодця, і не смикайся!</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_relax">
+    <text>Все, проходь, не затримуйся.</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_wait_stay_1">
+    <text>А ну почекай тут, братко!</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_wait_stay_2">
+    <text>Тільки так, щоб я\nтвої граблі бачив!</text>
+  </string>
+  <string id="st_val_stalker_base_gauss">
+    <text>Чуєш, брателло, підійди-но. У мене ділова пропозиція! </text>
+  </string>
+  <string id="st_val_monster_labx18_danger">
+    <text>Краще не роби цього...</text>
+  </string>
+  <string id="st_val_stalker_prisoner_need_help_see_actor">
+    <text>Сталкер, допоможи! Мене порішать скоро!</text>
+  </string>
+  <string id="st_val_stalker_prisoner_need_help_pult_info_1">
+    <text>Мужик, допоможи мені! </text>
+  </string>
+  <string id="st_val_stalker_prisoner_need_help_pult_info_2">
+    <text>Витягни мене звідси!</text>
+  </string>
+  <string id="st_val_stalker_prisoner_need_help_pult_info_3">
+    <text>Пульт управління\nзнаходиться на стіні.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_help_thanx">
+    <text> Дякую, мужик. Я твій боржник.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_help_final">
+    <text>Друзяка, будеш у Барі — \nзнайди мене. Обов'язково!</text>
+  </string>
+  <string id="st_val_stalker_prisoner_hello_1">
+    <text>Вітаю.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_hello_2">
+    <text>Радий тебе бачити.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_hello_3">
+    <text>Ну, викладай.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_bye_1">
+    <text>Удачі тобі, сталкере.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_bye_2">
+    <text>Бувай, мужик.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_bye_3">
+    <text>До зустрічі.</text>
+  </string>
+  <string id="st_val_bandits_base_passage_1_treasure_scene_attack">
+    <text>Амбець вам, падли!</text>
+  </string>
+  <string id="st_val_bandits_base_passage_2_treasure_scene_attack">
+    <text>Вали півнів! </text>
+  </string>
+  <string id="st_val_bandit_desertir_dynamite_compl_1">
+    <text>Ти там закінчив з підривом?</text>
+  </string>
+  <string id="st_val_bandit_desertir_dynamite_compl_2">
+    <text>Чеши на місце збору, я тобі позначив на карті.</text>
+  </string>
+  <string id="st_val_scientist_good_message_1">
+    <text>Сталкер, дякую за працю.</text>
+  </string>
+  <string id="st_val_scientist_good_message_2">
+    <text>Якщо що, зможете знайти мене на нашій базі на «Агропромі».</text>
+  </string>
+  <string id="st_val_scientist_bad_message_1">
+    <text>Молодий людина, я бачу, вам не до мого завдання.</text>
+  </string>
+  <string id="st_val_scientist_bad_message_2">
+    <text>Прилад, який ви забрали, коштує великих грошей.</text>
+  </string>
+  <string id="st_val_scientist_bad_message_3">
+    <text>При можливості вам доведеться принести його на нашу базу на «Агропромі».</text>
+  </string>
+  <string id="st_val_scientist_bad_message_4">
+    <text>В іншому випадку ваша репутація постраждає.</text>
+  </string>
+  <string id="st_val_scientist_bad_message_5">
+    <text>Успіхів!</text>
+  </string>
+  <string id="st_val_actor_case_with_stones_reaction">
+    <text>Блін... От же суки!!!</text>
+  </string>
+  <string id="st_val_composer_task_stalker_leader_see_actor">
+    <text> Гей, сталкере, не рипайся, ти на мушці. Підходь, поспілкуємося.</text>
+  </string>
+  <string id="st_val_composer_task_stalker_follower_kill_actor">
+    <text>Ну, прощавай, сталкере!</text>
+  </string>
+  <string id="st_val_composer_task_bandit_savior_hello_1">
+    <text>Чуєш, це саме, спляча красуня.</text>
+  </string>
+  <string id="st_val_composer_task_bandit_savior_hello_2">
+    <text>Оченята-то відкрий, цілувати все одно не буду.</text>
+  </string>
+  <string id="st_val_stalker_technic_friend_sos">
+    <text>Чорт, зомбі пруть з усіх боків!</text>
+  </string>
+</string_table>

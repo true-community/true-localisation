@@ -10,13 +10,21 @@ mkdir ./tmp
 mkdir ./output
 
 for locale_code in $(jq -r  '.[] | keys[]' $LANG_FILE); do
-  mkdir -p ./tmp/$locale_code/gamedata/configs/text 2> /dev/null || true
+  echo "Working with '$locale_code'"
+
+  mkdir -p ./tmp/$locale_code/gamedata/configs/text/$locale_code 2> /dev/null || true
 
   printf "[string_table]\nlanguage        = ${locale_code}\nfont_prefix     = $(jq -r ".locales.${locale_code}.prefix" $LANG_FILE)" > ./tmp/$locale_code/gamedata/configs/localization.ltx
 
-  cp -r ./gamedata/configs/ui ./tmp/$locale_code/gamedata/configs/ui
-  cp -r ./gamedata/configs/text/$locale_code ./tmp/$locale_code/gamedata/configs/text/$locale_code
-  rm ./tmp/$locale_code/gamedata/configs/text/$locale_code/.editorconfig
+  cp -r ./gamedata_UTF-8/configs/ui ./tmp/$locale_code/gamedata/configs/ui
+
+  find ./gamedata_UTF-8/configs/text/$locale_code -name "*.xml" -type f | while read file; do
+
+    iconv -f utf-8 -t $(jq -r ".locales.${locale_code}.encoding" $LANG_FILE)//IGNORE $file > ./tmp/$locale_code/gamedata/configs/text/$locale_code/$(basename $file) 2> /dev/null || echo " $file"
+  done
+
+  # True Stalker credits file has cyrillic characters...
+  iconv -f utf-8 -t windows-1251 ./gamedata_UTF-8/configs/text/$locale_code/st_ui_ts_credits.xml > ./tmp/$locale_code/gamedata/configs/text/$locale_code/st_ui_ts_credits.xml 2> /dev/null
 
   # package dir into archive
   [ ! -z "${locale_code}" ] && 7z a ./output/${ARCHIVE_NAME_PREFIX}$(jq -r ".locales.${locale_code}.name" $LANG_FILE)${ARCHIVE_NAME_POSTFIX}.7z ./tmp/$locale_code/gamedata >/dev/null

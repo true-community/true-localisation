@@ -1,0 +1,2933 @@
+<w>
+  <window_parameters base_width="2560" base_height="1440"/>
+  <main_dialog>
+    <background x="0" y="0" width="2560" height="1440" stretch="1">
+      <texture a="180">$black</texture>
+    </background>
+    <dialog x="800" y="264" width="1500" height="1125" stretch="1">
+      <auto_static x="149" y="1040" width="1285" height="10" stretch="1">
+        <texture>ui_inGame2_TS_MENU_OPT_line</texture>
+      </auto_static>
+    </dialog>
+    <btn_accept x="490" y="1049" width="270" height="49" stretch="1">
+      <text font="roboto17" align="c" text_shadow="1">ui_mm_apply</text>
+      <text_color>
+        <e color="info_text"/>
+        <t color="info_orange"/>
+        <d color="info_title"/>
+        <h color="info_orange"/>
+      </text_color>
+      <sound_h>interface\ts_menu_aim</sound_h>
+      <sound_t>interface\ts_menu_section_select</sound_t>
+    </btn_accept>
+    <btn_cancel x="835" y="1049" width="270" height="49" stretch="1">
+      <text font="roboto17" align="c" text_shadow="1">ui_mm_cancel</text>
+      <text_color>
+        <e color="info_text"/>
+        <t color="info_orange"/>
+        <d color="info_title"/>
+        <h color="info_orange"/>
+      </text_color>
+      <sound_h>interface\ts_menu_aim</sound_h>
+      <sound_t>interface\ts_menu_section_select</sound_t>
+    </btn_cancel>
+    <tab x="102" y="88" width="1375" height="71">
+      <button x="71" y="20" width="262" height="47" id="video" stretch="1" text_shadow="1">
+        <text font="roboto14" align="c">ui_mm_video</text>
+        <text_color>
+          <e color="info_title"/>
+          <t color="info_orange"/>
+          <d color="info_title"/>
+          <h color="info_orange"/>
+        </text_color>
+        <font>
+          <e font="roboto14" />
+          <t font="roboto22" />
+          <d font="roboto14" />
+          <h font="roboto14" />
+        </font>
+        <sound_h>interface\ts_menu_aim</sound_h>
+        <sound_t>interface\ts_menu_tab_select</sound_t>
+      </button>
+      <button x="397" y="20" width="260" height="47" id="sound" stretch="1" text_shadow="1">
+        <text font="roboto14" align="c">ui_mm_sound</text>
+        <text_color>
+          <e color="info_title"/>
+          <t color="info_orange"/>
+          <d color="info_title"/>
+          <h color="info_orange"/>
+        </text_color>
+        <font>
+          <e font="roboto14" />
+          <t font="roboto22" />
+          <d font="roboto14" />
+          <h font="roboto14" />
+        </font>
+        <sound_h>interface\ts_menu_aim</sound_h>
+        <sound_t>interface\ts_menu_tab_select</sound_t>
+      </button>
+      <button x="724" y="20" width="262" height="47" id="gameplay" stretch="1" text_shadow="1">
+        <text font="roboto14" align="c" >ui_mm_gameplay</text>
+        <text_color>
+          <e color="info_title"/>
+          <t color="info_orange"/>
+          <d color="info_title"/>
+          <h color="info_orange"/>
+        </text_color>
+        <font>
+          <e font="roboto14" />
+          <t font="roboto22" />
+          <d font="roboto14" />
+          <h font="roboto14" />
+        </font>
+        <sound_h>interface\ts_menu_aim</sound_h>
+        <sound_t>interface\ts_menu_tab_select</sound_t>
+      </button>
+      <button x="1050" y="20" width="257" height="47" id="controls" stretch="1" text_shadow="1">
+        <text font="roboto14" align="c">ui_mm_controls</text>
+        <text_color>
+          <e color="info_title"/>
+          <t color="info_orange"/>
+          <d color="info_title"/>
+          <h color="info_orange"/>
+        </text_color>
+        <font>
+          <e font="roboto14" />
+          <t font="roboto22" />
+          <d font="roboto14" />
+          <h font="roboto14" />
+        </font>
+        <sound_h>interface\ts_menu_aim</sound_h>
+        <sound_t>interface\ts_menu_tab_select</sound_t>
+      </button>
+    </tab>
+  </main_dialog>
+  <tab_size x="112" y="156" width="1355" height="844"/>
+  <tab_video>
+    <video_line x="32" y="0" width="1290" height="10" stretch="1">
+      <texture>ui_inGame2_TS_MENU_OPT_tab_1_line</texture>
+    </video_line>
+    <scroll_v x="177" y="63" width="1065" height="745" scroll_profile="ts_scroll_bar" right_ident="0" left_ident="0" top_indent="0" bottom_indent="0" vert_interval="0" step_size="4" always_show_scroll="0"/>
+    <templ_item width="1008" height="70"/>
+    <line x="0" y="0" width="1000" height="22">
+      <auto_static x="8" y="0" width="1000" height="4" stretch="1">
+        <texture>ui_inGame2_TS_MENU_OPT_controls_line</texture>
+      </auto_static>
+    </line>
+    <cap_renderer x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_renderer</text>
+    </cap_renderer>
+    <track_renderer x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="renderer" group="mm_opt_video" depend="restart"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_renderer>
+    <cap_preset x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_quality_presets</text>
+    </cap_preset>
+    <track_presets x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="_preset" group="mm_opt_video_preset" depend="restart"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_presets>
+    <cap_resolution x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_resolution</text>
+    </cap_resolution>
+    <track_resolution x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="vid_mode" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_resolution>
+    <cap_gamma x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_gamma</text>
+    </cap_gamma>
+    <track_gamma x="629" y="15" width="378" height="36" step="0.01">
+      <options_item entry="rs_c_gamma" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_gamma>
+    <cap_contrast x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_contrast</text>
+    </cap_contrast>
+    <track_contrast x="629" y="15" width="378" height="36" step="0.01">
+      <options_item entry="rs_c_contrast" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_contrast>
+    <cap_brightness x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_brightness</text>
+    </cap_brightness>
+    <track_brightness x="629" y="15" width="378" height="36" step="0.01">
+      <options_item entry="rs_c_brightness" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_brightness>
+    <cap_monitor x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_monitor</text>
+    </cap_monitor>
+    <track_monitor x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="vid_monitor" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_monitor>
+    <cap_screenmode x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_screenmode</text>
+    </cap_screenmode>
+    <track_screenmode x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="vid_screenmode" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_screenmode>
+    <cap_vis_dist x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_vis_distance</text>
+    </cap_vis_dist>
+    <track_vis_dist x="629" y="15" width="378" height="36" step="0.01">
+      <options_item entry="rs_vis_distance" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_vis_dist>
+    <cap_geometry_lod x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_geometry_lod</text>
+    </cap_geometry_lod>
+    <track_geometry_lod x="629" y="15" width="378" height="36" step="0.01" min="0.5" max="1.0">
+      <options_item entry="r__geometry_lod" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_geometry_lod>
+    <cap_texture_lod x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_texture_quality</text>
+    </cap_texture_lod>
+    <track_texture_lod x="629" y="15" width="378" height="36" is_integer="1" invert="1" min="0" max="3">
+      <options_item entry="texture_lod" group="mm_opt_video" depend="restart"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_texture_lod>
+    <cap_aniso x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_anisotropic</text>
+    </cap_aniso>
+    <track_aniso x="629" y="15" width="378" height="36" is_integer="1" min="4" max="16">
+      <options_item entry="r__tf_aniso" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_aniso>
+    <cap_msaa x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r3_msaa</text>
+    </cap_msaa>
+    <track_msaa x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="r3_msaa" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_msaa>
+    <cap_detail_density x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_detail_density</text>
+    </cap_detail_density>
+    <track_detail_density x="629" y="15" width="378" height="36" step="0.02" invert="1">
+      <options_item entry="r__detail_density" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_detail_density>
+    <cap_detail_radius x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_detail_radius</text>
+    </cap_detail_radius>
+    <track_detail_radius x="629" y="15" width="378" height="36" step="2" is_integer="1">
+      <options_item entry="r__detail_radius" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_detail_radius>
+    <cap_r2_sun_details x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_sun_details</text>
+    </cap_r2_sun_details>
+    <track_r2_sun_details x="629" y="15" width="378" height="36" step="1" is_integer="1">
+      <options_item entry="r2_sun_details" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r2_sun_details>
+    <cap_r__actor_shadow x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_actor_shadow</text>
+    </cap_r__actor_shadow>
+    <track_r__actor_shadow x="629" y="15" width="378" height="36" step="1" is_integer="1">
+      <options_item entry="r__actor_shadow" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r__actor_shadow>
+    <cap_r2_sun x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r2_sun</text>
+    </cap_r2_sun>
+    <track_r2_sun x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r2_sun" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r2_sun>
+    <cap_light_distance x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_light_distance</text>
+    </cap_light_distance>
+    <track_light_distance x="629" y="15" width="378" height="36" step="0.05" min="0.2" max="0.5">
+      <options_item entry="r2_slight_fade" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_light_distance>
+    <cap_particles_opt x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_particles_opt</text>
+    </cap_particles_opt>
+    <track_particles_opt  x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r__particle_opt" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_particles_opt>
+    <cap_particles_distance x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_particles_distance</text>
+    </cap_particles_distance>
+    <track_particles_distance x="629" y="15" width="378" height="36" min="100" max="300">
+      <options_item entry="r__particle_distance" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_particles_distance>
+    <cap_sun_quality x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_sun_quality</text>
+    </cap_sun_quality>
+    <track_sun_quality x="629" y="15" width="378" height="36" step="0.005">
+      <options_item entry="r2_ls_squality" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_sun_quality>
+    <cap_r2_smap_size x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r2_smap_size</text>
+    </cap_r2_smap_size>
+    <track_r2_smap_size x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="r2_smap_size" group="mm_opt_video" depend="restart"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r2_smap_size>
+    <cap_npc_torch x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_npc_torch</text>
+    </cap_npc_torch>
+    <track_npc_torch x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="ai_use_torch_dynamic_lights" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_npc_torch>
+    <cap_r1_detail_textures x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r1_detail_textures</text>
+    </cap_r1_detail_textures>
+    <track_r1_detail_textures x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r1_detail_textures" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r1_detail_textures>
+    <cap_r2_detail_bump x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r2_detail_bump</text>
+    </cap_r2_detail_bump>
+    <track_r2_detail_bump x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r2_detail_bump" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r2_detail_bump>
+    <cap_r2_steep_parallax x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r2_steep_parallax</text>
+    </cap_r2_steep_parallax>
+    <track_r2_steep_parallax x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r2_steep_parallax" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r2_steep_parallax>
+    <cap_r2_sun_quality x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r2_sun_quality</text>
+    </cap_r2_sun_quality>
+    <track_r2_sun_quality x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="r2_sun_quality" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r2_sun_quality>
+    <cap_sun_shafts x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_sun_shafts</text>
+    </cap_sun_shafts>
+    <track_sun_shafts x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="r2_sun_shafts" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_sun_shafts>
+    <cap_ao x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_ssao_text</text>
+    </cap_ao>
+    <track_ao_options x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="r2_ssao_mode" group="mm_opt_video" depend="restart"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_ao_options>
+    <cap_ssao x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_ssao_quality</text>
+    </cap_ssao>
+    <track_ssao x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="r2_ssao" group="mm_opt_video" depend="restart"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_ssao>
+    <cap_vignette x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_vignette</text>
+    </cap_vignette>
+    <track_vignette x="629" y="15" width="378" height="36" step="0.1">
+      <options_item entry="r2_vignette_intensity" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%.1f">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_vignette>
+    <cap_vibrance x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_vibrance</text>
+    </cap_vibrance>
+    <track_vibrance x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r2_vibrance_enable" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_vibrance>
+    <cap_vibrance_intensity x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_vibrance_intensity</text>
+    </cap_vibrance_intensity>
+    <track_vibrance_intensity x="629" y="15" width="378" height="36" step="0.02" min="0.0" max="0.4">
+      <options_item entry="r2_vibrance_intensity" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_vibrance_intensity>
+    <cap_r2_reflections x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r2_reflections</text>
+    </cap_r2_reflections>
+    <track_r2_reflections x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="r2_reflections" group="mm_opt_video" depend="restart"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r2_reflections>
+    <cap_r2_wet_surface x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r2_wet_surface</text>
+    </cap_r2_wet_surface>
+    <track_r2_wet_surface x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r2_wet_surface" group="mm_opt_video" depend="restart"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r2_wet_surface>
+    <cap_r3_grass_interactive x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r3_grass_interactive</text>
+    </cap_r3_grass_interactive>
+    <track_r3_grass_interactive x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r3_inter_grass_enable" group="mm_opt_video" depend="restart"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r3_grass_interactive>
+    <cap_r3_new_rain_drops x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r3_new_rain_drops</text>
+    </cap_r3_new_rain_drops>
+    <track_r3_new_rain_drops x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r3_new_rain_drops" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r3_new_rain_drops>
+    <cap_bloodmarks x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_bloodmarks</text>
+    </cap_bloodmarks>
+    <track_bloodmarks x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r__wallmarks_on_skeleton" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_bloodmarks>
+    <cap_soft_water x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_soft_water</text>
+    </cap_soft_water>
+    <track_soft_water x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r2_soft_water" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_soft_water>
+    <cap_soft_particles x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_soft_particles</text>
+    </cap_soft_particles>
+    <track_soft_particles x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r2_soft_particles" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_soft_particles>
+    <cap_dof x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_dof</text>
+    </cap_dof>
+    <track_dof x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r2_dof_enable" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_dof>
+    <cap_reload_dof x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_reload_dof</text>
+    </cap_reload_dof>
+    <track_reload_dof x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="wpn_reload_dof" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_reload_dof>
+    <cap_volumetric_light x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_volumetric_light</text>
+    </cap_volumetric_light>
+    <track_volumetric_light x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r2_volumetric_lights" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_volumetric_light>
+    <cap_r3_dynamic_wet_surfaces x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r3_dynamic_wet_surfaces</text>
+    </cap_r3_dynamic_wet_surfaces>
+    <track_r3_dynamic_wet_surfaces x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r3_dynamic_wet_surfaces" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r3_dynamic_wet_surfaces>
+    <cap_r3_dynamic_wet_surfaces_opt x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r3_dynamic_wet_surfaces_opt</text>
+    </cap_r3_dynamic_wet_surfaces_opt>
+    <track_r3_dynamic_wet_surfaces_opt x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r3_dynamic_wet_surfaces_opt" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r3_dynamic_wet_surfaces_opt>
+    <cap_r3_dynamic_wet_surfaces_near x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r3_dynamic_wet_surfaces_near</text>
+    </cap_r3_dynamic_wet_surfaces_near>
+    <track_r3_dynamic_wet_surfaces_near x="629" y="22" width="372" height="30">
+      <options_item entry="r3_dynamic_wet_surfaces_near" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_r3_dynamic_wet_surfaces_near>
+    <cap_r3_dynamic_wet_surfaces_far x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r3_dynamic_wet_surfaces_far</text>
+    </cap_r3_dynamic_wet_surfaces_far>
+    <track_r3_dynamic_wet_surfaces_far x="629" y="22" width="372" height="30">
+      <options_item entry="r3_dynamic_wet_surfaces_far" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_r3_dynamic_wet_surfaces_far>
+    <cap_r3_dynamic_wet_surfaces_sm_res x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r3_dynamic_wet_surfaces_sm_res</text>
+    </cap_r3_dynamic_wet_surfaces_sm_res>
+    <track_r3_dynamic_wet_surfaces_sm_res x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r3_dynamic_wet_surfaces_sm_res" group="mm_opt_video" depend="runtime"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_r3_dynamic_wet_surfaces_sm_res>
+    <cap_r3_volumetric_smoke x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r3_volumetric_smoke</text>
+    </cap_r3_volumetric_smoke>
+    <track_r3_volumetric_smoke x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r3_volumetric_smoke" group="mm_opt_video"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r3_volumetric_smoke>
+    <cap_r3_msaa_opt x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r3_DX10_1</text>
+    </cap_r3_msaa_opt>
+    <track_r3_msaa_opt x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r3_use_dx10_1" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r3_msaa_opt>
+    <cap_fxaa x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r2_fxaa</text>
+    </cap_fxaa>
+    <track_fxaa x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r2_fxaa" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_fxaa>
+    <cap_r4_tessellation x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_r4_enable_tessellation</text>
+    </cap_r4_tessellation>
+    <track_r4_tessellation x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="r4_enable_tessellation" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_r4_tessellation>
+    <cap_vsync x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_vsync</text>
+    </cap_vsync>
+    <track_vsync x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="rs_v_sync" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_vsync>
+    <cap_60hz x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_60_hz</text>
+    </cap_60hz>
+    <track_60hz x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="rs_refresh_60hz" group="mm_opt_video" depend="vid"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_60hz>
+  </tab_video>
+  <video_adv>
+    <scroll_v x="-10" y="0" width="900" height="600" right_ident="0" left_ident="0" top_indent="0" bottom_indent="0" vert_interval="0" step_size="4" always_show_scroll="0"/>
+    <templ_item width="900" height="56"/>
+    <cap_r3_msaa_alphatest x="40" y="6" width="270" height="45">
+      <text r="170" g="170" b="170" font="roboto16" align="r" vert_align="c">ui_mm_msaa_alphatest</text>
+    </cap_r3_msaa_alphatest>
+    <combo_r3_msaa_alphatest x="360" y="0" width="470" height="37" always_show_scroll="1">
+      <options_item entry="r3_msaa_alphatest" group="mm_opt_video" depend="restart"/>
+      <list_font r="170" g="170" b="170" font="roboto16"/>
+      <text_color>
+        <e r="170" g="170" b="170"/>
+        <d r="70" g="70" b="70"/>
+      </text_color>
+    </combo_r3_msaa_alphatest>
+    <cap_r3_gbuffer_opt x="40" y="6" width="270" height="45">
+      <text r="170" g="170" b="170" font="roboto16" align="r" vert_align="c">ui_mm_r3_gbuffer_opt</text>
+    </cap_r3_gbuffer_opt>
+    <check_r3_gbuffer_opt x="332" y="0" width="87" stretch="1" height="54">
+      <texture>ui_inGame2_checkbox</texture>
+      <options_item entry="r3_msaa_opt" group="mm_opt_video_adv"/>
+    </check_r3_gbuffer_opt>
+  </video_adv>
+  <tab_sound>
+    <sound_line x="36" y="0" width="1286" height="10" stretch="1">
+      <texture>ui_inGame2_TS_MENU_OPT_tab_2_line</texture>
+    </sound_line>
+    <scroll_v x="177" y="63" width="1065" height="745" scroll_profile="ts_scroll_bar" right_ident="0" left_ident="0" top_indent="0" bottom_indent="0" vert_interval="0" step_size="4" always_show_scroll="0"/>
+    <templ_item width="1008" height="70"/>
+    <cap_mastervolume x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_master_volume</text>
+    </cap_mastervolume>
+    <track_mastervolume x="629" y="15" width="378" height="36" step="0.01">
+      <options_item entry="snd_volume_eff" group="mm_opt_sound"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-20" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_mastervolume>
+    <cap_weaponvolume x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_hud_weapon_volume</text>
+    </cap_weaponvolume>
+    <track_weaponvolume x="629" y="15" width="378" height="36" step="0.01">
+      <options_item entry="snd_volume_hud_weapon" group="mm_opt_sound"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-20" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_weaponvolume>
+    <cap_musicvolume x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_music_volume</text>
+    </cap_musicvolume>
+    <track_musicvolume x="629" y="15" width="378" height="36" step="0.01">
+      <options_item entry="snd_volume_music" group="mm_opt_sound"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_musicvolume>
+    <!--	<cap_snd_device x="30" y="118125" width="270" height="45">
+			<text r="170" g="170" b="170" font="roboto16" align="r" vert_align="c">ui_mm_snd_device</text>
+		</cap_snd_device>
+		<list_snd_device x="350" y="121875" width="470" height="37" always_show_scroll="1">
+			<options_item entry="snd_device" group="mm_opt_sound" depend="restart"/>
+			<list_font r="170" g="170" b="170" font="roboto16"/>
+			<text_color>
+				<e r="170" g="170" b="170"/>
+				<d r="70" g="70" b="70"/>
+			</text_color>
+		</list_snd_device> -->
+    <cap_check_eax x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_eax</text>
+    </cap_check_eax>
+    <check_eax x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="snd_efx" group="mm_opt_sound" depend="snd"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </check_eax>
+    <cap_streamer_mode x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_streamer_mode</text>
+    </cap_streamer_mode>
+    <check_streamer_mode x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_streamer_mode" group="mm_opt_sound"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </check_streamer_mode>
+    <!--   <cap_check_dynamic_music x="30" y="230625" width="270" height="45">
+			<text r="170" g="170" b="170" font="roboto16" align="r" vert_align="c">ui_mm_dynamic_music</text>
+		</cap_check_dynamic_music>
+		<check_dynamic_music x="322" y="225000" width="87" stretch="1" height="54">
+			<texture>ui_inGame2_checkbox</texture>
+			<options_item entry="g_dynamic_music" group="mm_opt_sound" depend="snd"/>
+		</check_dynamic_music> -->
+    <cap_subtitles x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_subtitles</text>
+    </cap_subtitles>
+    <track_subtitles x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_subtitles_enabled" group="mm_opt_sound"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_subtitles>
+    <cap_subtitles_slow x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_subtitles_slow</text>
+    </cap_subtitles_slow>
+    <track_subtitles_slow x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_subtitles_slow" group="mm_opt_sound"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_subtitles_slow>
+    <cap_subtitles_font_size x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_subtitles_font</text>
+    </cap_subtitles_font_size>
+    <track_subtitles_font_size x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="g_subtitles_font_size" group="mm_opt_sound"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_subtitles_font_size>
+  </tab_sound>
+  <tab_gameplay>
+    <gameplay_line x="40" y="0" width="1289" height="10" stretch="1">
+      <texture>ui_inGame2_TS_MENU_OPT_tab_3_line</texture>
+    </gameplay_line>
+    <scroll_v x="177" y="63" width="1065" height="745" scroll_profile="ts_scroll_bar" right_ident="0" left_ident="0" top_indent="0" bottom_indent="0" vert_interval="0" step_size="4" always_show_scroll="0"/>
+    <templ_item width="1008" height="70"/>
+    <line x="0" y="0" width="1000" height="22">
+      <auto_static x="8" y="0" width="1000" height="4" stretch="1">
+        <texture>ui_inGame2_TS_MENU_OPT_controls_line</texture>
+      </auto_static>
+    </line>
+    <cap_difficulty x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_difficulty</text>
+    </cap_difficulty>
+    <track_difficulty x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="g_game_difficulty" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_difficulty>
+    <cap_localization x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_localization</text>
+    </cap_localization>
+    <track_localization x="629" y="15" width="378" height="36" is_token="1">
+      <options_item entry="g_language" group="mm_opt_gameplay"/>
+      <!--<background x="29" y="14" width="321" height="22" stretch="1"/>
+			<left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+				<texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+				<texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+				<texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+			</left_arrow>
+			<right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+				<texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+				<texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+				<texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+			</right_arrow>-->
+      <output_wnd x="61" y="-15" width="250" height="37">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <!--<cells interval="2.5" current_only="1">
+				<background x="0" y="0" width="25" height="22" stretch="1">
+					<texture>ui_inGame2_TS_TRACKBAR_background</texture>
+				</background>
+				<active x="0" y="0" width="25" height="22" stretch="1">
+					<texture>ui_inGame2_TS_TRACKBAR</texture>
+				</active>
+			</cells>
+			<snd_capture>interface\ts_menu_point_select</snd_capture>
+			<snd_uncapture>$silent</snd_uncapture>
+			<snd_change>interface\ts_trackbar_1</snd_change>-->
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_localization>
+    <cap_fov x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_fov</text>
+    </cap_fov>
+    <track_fov x="629" y="15" width="378" height="36" step="1">
+      <options_item entry="fov" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="%.0f">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_fov>
+    <cap_tips x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_tips</text>
+    </cap_tips>
+    <track_tips x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="hud_info" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_tips>
+    <cap_wpn_auto_reload x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_wpn_auto_reload</text>
+    </cap_wpn_auto_reload>
+    <track_wpn_auto_reload x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="wpn_auto_reload" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_wpn_auto_reload>
+    <cap_crosshair x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_show_crosshair</text>
+    </cap_crosshair>
+    <track_crosshair x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="hud_crosshair" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_crosshair>
+    <cap_dyn_crosshair x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_dyn_crosshair</text>
+    </cap_dyn_crosshair>
+    <track_dyn_crosshair x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="cl_dynamiccrosshair" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_dyn_crosshair>
+    <cap_build_crosshair x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_crosshair_build</text>
+    </cap_build_crosshair>
+    <track_build_crosshair x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="hud_crosshair_build" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_build_crosshair>
+    <cap_show_actor_helmet x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_show_actor_helmet</text>
+    </cap_show_actor_helmet>
+    <track_show_actor_helmet x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_show_actor_helmet" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_show_actor_helmet>
+    <cap_show_weapon x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_show_weapon</text>
+    </cap_show_weapon>
+    <track_show_weapon x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="hud_weapon" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_show_weapon>
+    <cap_important_save x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_important_save</text>
+    </cap_important_save>
+    <track_important_save x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_important_save" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_important_save>
+    <cap_slow_crouch x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_slow_crouch</text>
+    </cap_slow_crouch>
+    <track_slow_crouch x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_slow_crouch" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_slow_crouch>
+    <cap_hud_draw x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_st_disable_hud</text>
+    </cap_hud_draw>
+    <track_hud_draw x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="hud_draw" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_hud_draw>
+    <cap_hud_strafes x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_hud_strafes</text>
+    </cap_hud_strafes>
+    <track_hud_strafes x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_hud_strafes" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_hud_strafes>
+    <cap_hud_bobbing x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_hud_bobbing</text>
+    </cap_hud_bobbing>
+    <track_hud_bobbing x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_hud_bobbing" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_hud_bobbing>
+    <cap_hud_collision x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_hud_collision</text>
+    </cap_hud_collision>
+    <track_hud_collision x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_hud_collision" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_hud_collision>
+    <!--
+		<cap_check_loadingstages x="40" y="5625" width="270" height="45">
+			<text r="170" g="170" b="170" font="roboto16" align="r" vert_align="c">ui_mm_loadingstages</text>
+		</cap_check_loadingstages>
+
+		<check_loadingstages x="332" y="5625" width="87" stretch="1" height="54">
+			<texture>ui_inGame2_checkbox</texture>
+			<options_item entry="rs_loadingstages" group="mm_opt_gameplay" is_integer="1"/>
+		</check_loadingstages> -->
+    <cap_multi_item_pickup x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_multi_item_pickup</text>
+    </cap_multi_item_pickup>
+    <track_multi_item_pickup x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_multi_item_pickup" group="mm_opt_gameplay"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_multi_item_pickup>
+  </tab_gameplay>
+  <tab_controls>
+    <controls_line x="46" y="0" width="1287" height="10" stretch="1">
+      <texture>ui_inGame2_TS_MENU_OPT_tab_4_line</texture>
+    </controls_line>
+    <scroll_v x="177" y="63" width="1065" height="745" scroll_profile="ts_scroll_bar" right_ident="0" left_ident="0" top_indent="0" bottom_indent="0" vert_interval="0" step_size="4" always_show_scroll="0"/>
+    <templ_item width="1008" height="70"/>
+    <cap_mousesens x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_mouse_sense</text>
+    </cap_mousesens>
+    <track_mousesens x="629" y="15" width="378" height="36" step="0.01">
+      <options_item entry="mouse_sens" group="mm_opt_controls"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <slider x="0" y="18" width="2" height="6" stretch="1">
+        <texture>ui_inGame2_TS_EMPTY</texture>
+      </slider>
+      <slider_background x="29" y="18" width="312" height="6" stretch="1">
+        <texture>ui_inGame2_TS_SELECT_LINE</texture>
+      </slider_background>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-20" width="250" height="37" format="%.2f">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_SELECT_LINE_background</texture>
+    </track_mousesens>
+    <cap_mouseinvert x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_invert_mouse</text>
+    </cap_mouseinvert>
+    <track_mouseinvert x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="mouse_invert" group="mm_opt_controls"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off" text_on="st_btn_yes" text_off="st_btn_not">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_mouseinvert>
+    <cap_crouch_toggle x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_crouch_toggle</text>
+    </cap_crouch_toggle>
+    <track_crouch_toggle x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_crouch_toggle" group="mm_opt_controls"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off" text_on="ui_st_press" text_off="ui_st_hold">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_crouch_toggle>
+    <cap_sprint_toggle x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_sprint_toggle</text>
+    </cap_sprint_toggle>
+    <track_sprint_toggle x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_sprint_toggle" group="mm_opt_controls"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off" text_on="ui_st_press" text_off="ui_st_hold">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_sprint_toggle>
+    <cap_aim_toggle x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_aim_toggle</text>
+    </cap_aim_toggle>
+    <track_aim_toggle x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="wpn_aim_toggle" group="mm_opt_controls"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off" text_on="ui_st_press" text_off="ui_st_hold">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_aim_toggle>
+    <cap_active_task_toggle x="0" y="0" width="270" height="45">
+      <text color="info_title" font="roboto17" align="l" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2">ui_mm_active_task_toggle</text>
+    </cap_active_task_toggle>
+    <track_active_task_toggle x="629" y="15" width="378" height="36" is_integer="1">
+      <options_item entry="g_main_task_toggle" group="mm_opt_controls"/>
+      <background x="29" y="14" width="321" height="22" stretch="1"/>
+      <left_arrow x="0" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_left_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_left_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_left_focus</texture_h>
+      </left_arrow>
+      <right_arrow x="352" y="-3" width="25" height="30" stretch="1">
+        <texture_e>ui_inGame2_TS_SCROLL_arrow_right_avail</texture_e>
+        <texture_t>ui_inGame2_TS_SCROLL_arrow_right_lock</texture_t>
+        <texture_h>ui_inGame2_TS_SCROLL_arrow_right_focus</texture_h>
+      </right_arrow>
+      <output_wnd x="61" y="-15" width="250" height="37" format="on_off" text_on="ui_st_press" text_off="ui_st_hold">
+        <text color="info_title" font="roboto17" align="c" vert_align="t" text_shadow="1" shadow_offset_x="0" shadow_offset_y="2"/>
+      </output_wnd>
+      <cells interval="2.5" current_only="1">
+        <background x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR_background</texture>
+        </background>
+        <active x="0" y="0" width="25" height="22" stretch="1">
+          <texture>ui_inGame2_TS_TRACKBAR</texture>
+        </active>
+      </cells>
+      <snd_capture>interface\ts_menu_point_select</snd_capture>
+      <snd_uncapture>$silent</snd_uncapture>
+      <snd_change>interface\ts_trackbar_1</snd_change>
+      <texture>ui_inGame2_TS_EMPTY</texture>
+    </track_active_task_toggle>
+    <line x="0" y="0" width="1000" height="4" stretch="1">
+      <texture>ui_inGame2_TS_MENU_OPT_controls_line</texture>
+    </line>
+    <key_binding x="179" y="423" width="1061" height="3712">
+      <header x="717" y="0" width="200" height="2"/>
+      <scroll_view x="0" y="19" width="1036" height="3738" scroll_profile="ts_scroll_bar" right_ident="0" left_ident="0" top_indent="-7" bottom_indent="9" vert_interval="0" step_size="4" always_show_scroll="0" allow_mouse_wheel="0">
+        <item_key x="0" y="0" width="917" height="69">
+          <text color="info_title" font="roboto17" align="l" vert_align="c" text_shadow="1"/>
+        </item_key>
+      </scroll_view>
+      <text_color>
+        <action_e color="info_title"/>
+        <action_h color="info_orange"/>
+        <key_e color="info_title"/>
+        <key_h color="info_orange"/>
+        <key_t color="info_orange"/>
+      </text_color>
+      <font>
+        <key_e font="roboto17"/>
+        <key_t font="roboto22"/>
+      </font>
+      <action_sounds>
+        <snd_highlight>interface\ts_menu_aim</snd_highlight>
+        <snd_select>interface\ts_menu_point_select</snd_select>
+        <snd_apply>interface\ts_menu_point_select</snd_apply>
+      </action_sounds>
+    </key_binding>
+    <!--	<btn_default x="675" y="604" width="215" height="45" stretch="1">
+			<text align="c" font="roboto17">ui_mm_default</text>
+			<texture>ui_inGame2_button</texture>
+			<text_color>
+				<e r="210" g="210" b="210"/>
+			</text_color>
+		</btn_default> -->
+  </tab_controls>
+</w>

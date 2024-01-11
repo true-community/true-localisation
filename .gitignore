@@ -1,12 +1,11 @@
 bin
 content
+gamedata
 userdata
 fsgame.ltx
 PlayGame.exe
 unins000.dat
 unins000.exe
-
-!gamedata/.index.json
 
 pfx
 xrEngine.dxvk-cache
@@ -23,8 +22,3 @@ settings.json
 
 bun.lockb
 node_modules
-
-###
-
-gamedata/configs/localization.ltx
-!**/.vscode/settings.json
