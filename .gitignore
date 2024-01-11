@@ -14,6 +14,8 @@ xrEngine.dxvk-cache
 .db
 !.db/.keep
 unpacked
+output
+tmp
 
 converter.exe
 db_converter
@@ -25,3 +27,4 @@ node_modules
 ###
 
 gamedata/configs/localization.ltx
+!**/.vscode/settings.json
