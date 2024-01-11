@@ -1,0 +1,1725 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<string_table>
+  <string id="nsp_village_leader_start_dialog_0_0">
+    <text>Hello. Haven't seen you around here before. Where'd you come from to our midst?</text>
+  </string>
+  <string id="nsp_village_leader_idle_dialog_0_1_1">
+    <text>I'm listening.</text>
+  </string>
+  <string id="nsp_village_leader_idle_dialog_0_1_2">
+    <text>Hello.</text>
+  </string>
+  <string id="nsp_village_leader_idle_dialog_0_1_3">
+    <text>Hey there, stalker.</text>
+  </string>
+  <string id="nsp_village_leader_start_actor_dialog_0">
+    <text>Same as everyone else: from the Cordon.</text>
+  </string>
+  <string id="nsp_village_leader_start_actor_dialog_1">
+    <text>And what brought you here, if I might ask?</text>
+  </string>
+  <string id="nsp_village_leader_start_actor_dialog_2">
+    <text>Same as everyone else too: artifacts. Aren't you here for that too?</text>
+  </string>
+  <string id="nsp_village_leader_start_actor_dialog_3">
+    <text>We are, fella. It wouldn't hurt for you to first look into the state of things and *then* set foot here. There are artifacts here, but not many, and stalkers pick the ones they can find in an instant - you can bet your bottom ruble that they have an eagle eye for it! I'm afraid you'll be leaving here empty-handed.</text>
+  </string>
+  <string id="nsp_village_leader_start_actor_dialog_4">
+    <text>Yeah, that sucks...</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_0">
+    <text>I wanted to ask: have you heard about a stalker named Kite?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_1">
+    <text>What's your interest in him?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_2">
+    <text>He died. I'd like to find out how.</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_3">
+    <text>How? What happened?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_4">
+    <text>He jumped from the tunnel. He had this note on him.</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_5">
+    <text>Not this again!</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_6">
+    <text>What do you mean?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_7">
+    <text>Unfortunately, Kite's not the first one to do away with himself...</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_8">
+    <text>What might've prompted him to do it?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_9">
+    <text>Who knows? Something serious was on his mind recently, as if it was torturing him. You could tell this whole Zone got under his skin. He wanted to leave. We didn't see him for a couple of days - thought he might've actually gone on out of here, but no... Shame.</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_10">
+    <text>His note mentioned something about a manhunt. Who's he talking about?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_11">
+    <text>Really? Could I see it?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_12">
+    <text>Of course.</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_13">
+    <text>Hm. I don't know, really - this place is full of creatures and anomalies, but I can't imagine who the note is about.</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_14">
+    <text>You said he wasn't the only one. Did anyone else decide to commit suicide?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_15">
+    <text>Yes, but that was half a year ago. Right here in one of these village houses, Ferret shot himself. But he had his reasons - at any rate, his death wasn't as sudden as Kite's.</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_16">
+    <text>What might've been the reason?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_17">
+    <text>He was in debt. Came here from the Garbage, where he owed a lot of money to the stalkers and trader. But was that any reason to shoot himself? That's my big question mark.</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_18">
+    <text>Did he happen to carry any note?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_19">
+    <text>As far as I know, no.</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_20">
+    <text>Could I try examining the house where it happened?</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_21">
+    <text>No problem. If you're curious, you can go examine it, and if you get wind of anything, let me know. I'm also interested in what the hell's happening. I hope it's just a series of dumb coincidences. The house is on the outskirts of the village - we had it boarded up, 'cause going in there after what happened... no. No one's been there since what happened with Ferret.</text>
+  </string>
+  <string id="nsp_village_leader_suicide_stalker_dialog_22">
+    <text>Until next time.</text>
+  </string>
+  <string id="nsp_village_leader_mysterious_home_end_dialog_0">
+    <text>I found a note where Ferret died. The wind must've blown it behind the closet, which is why you didn't find anything. Here.</text>
+  </string>
+  <string id="nsp_village_leader_mysterious_home_end_dialog_1">
+    <text>God damn. What are these "five shadows"? I'm liking this less and less by the minute.</text>
+  </string>
+  <string id="nsp_village_leader_mysterious_home_end_dialog_2">
+    <text>What are your thoughts on this?</text>
+  </string>
+  <string id="nsp_village_leader_mysterious_home_end_dialog_3">
+    <text>Nothing. Yes, the guys had their demons, but to end their lives... it's too much. And the reason they both did it is similar. Something really must've happened to them. We need to get to the bottom of this as soon as possible.</text>
+  </string>
+  <string id="nsp_village_leader_mysterious_home_end_dialog_4">
+    <text>What will we do?</text>
+  </string>
+  <string id="nsp_village_leader_mysterious_home_end_dialog_5">
+    <text>We need to gather more information. Make your way to the camp and ask the stalkers thoroughly about their dead men. Maybe they'll help us with clues: where they were before their death, the places they went, and what artifacts they might've picked up - any details will help. Maybe they got caught by psy-emissions, or there's some psychic creature in the bushes that we have no idea about? We need to get to the bottom of this.\n \nIf you could help us, I'd really appreciate it. I'm not going to sit idly by either - I'll go talk to a squad of master stalkers that spend their evenings in the camp on the river bank. I'm told Kite worked for them for a while. I don't know them myself, but I hope they have some information to spare.</text>
+  </string>
+  <string id="nsp_village_leader_mysterious_home_end_dialog_6">
+    <text>I understand. Let's get going, then!</text>
+  </string>
+  <string id="nsp_village_leader_break_dialog_0_1">
+    <text>Take care.</text>
+  </string>
+  <string id="nsp_village_leader_break_dialog_0_2">
+    <text>Bye.</text>
+  </string>
+  <string id="nsp_village_leader_break_dialog_0_3">
+    <text>Until next time.</text>
+  </string>
+  <string id="nsp_village_leader_break_dialog_0_4">
+    <text>See you.</text>
+  </string>
+  <string id="nsp_village_barmen_idle_dialog_0">
+    <text>Welcome to my humble establishment.</text>
+  </string>
+  <string id="nsp_village_barmen_mysterious_death_dialog_0">
+    <text>Hello! Could you tell me about something?</text>
+  </string>
+  <string id="nsp_village_barmen_mysterious_death_dialog_1">
+    <text>Is it those sudden deaths you're wondering about?</text>
+  </string>
+  <string id="nsp_village_barmen_mysterious_death_dialog_2">
+    <text>How do you know?</text>
+  </string>
+  <string id="nsp_village_barmen_mysterious_death_dialog_3">
+    <text>I'm a barman, and a good barman always knows his clients. No information from these parts has ever escaped me.</text>
+  </string>
+  <string id="nsp_village_barmen_mysterious_death_dialog_4">
+    <text>That's very good. That means you certainly ought to be able to help me.</text>
+  </string>
+  <string id="nsp_village_barmen_mysterious_death_dialog_5">
+    <text>I doubt I can. I want to, but I can't. I knew about those stalkers quite well: where they were going, what loot they got - but to talk about death... Never happened before - and when a man gets drunk, they spill their secrets faster than an emission coming at you... but not this time. So my thought is that they it wasn't entirely their doing. Someone obviously had their hand in this.</text>
+  </string>
+  <string id="nsp_village_barmen_mysterious_death_dialog_6">
+    <text>Interesting. Who, I might ask?</text>
+  </string>
+  <string id="nsp_village_barmen_mysterious_death_dialog_7">
+    <text>How am I supposed to know? If I knew, I would've helped out long ago. So you need to think - get to the bottom of this. I hope you'll manage!</text>
+  </string>
+  <string id="nsp_village_kutek_start_dialog_0_1_1">
+    <text>Woah! My old friend! Hey there!</text>
+  </string>
+  <string id="nsp_village_kutek_start_dialog_0_1_2">
+    <text>Opa! My old pal!</text>
+  </string>
+  <string id="nsp_village_kutek_start_dialog_0_2_1">
+    <text>What do you want, stalker?</text>
+  </string>
+  <string id="nsp_village_kutek_start_dialog_0_2_2">
+    <text>Speak.</text>
+  </string>
+  <string id="nsp_village_kutek_start_dialog_0_2_3">
+    <text>I'm listening.</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_0">
+    <text>Why, hello, Sidorovich's lackey!</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_1">
+    <text>Not anymore. I'm finally done with that old man. Thanks for not ratting me out!</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_2">
+    <text>Anyone would've done the same. How are you doing here? Better than at the Cordon?</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_3">
+    <text>I'm mostly doing the same things as I did back there: going after artifacts, shooting down mutants... but at least I'm not giving anything away to Sidorovich.</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_4">
+    <text>How is it that you owe him?</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_5">
+    <text>I was bringing him some goods when the jarheads got me. Had to give those bastards everything to walk away in one piece. Then the old man says I'm not going anywhere until I work it off. Had to come up with a little plan.</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_6">
+    <text>And it worked! Good going.</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_7">
+    <text>Yeah, I got lucky there...</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_bad_0">
+    <text>Hey. How are you doing?</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_bad_1">
+    <text>Well, you know, had my plan to trick Sidorovich worked out, I would've been better. Maybe you know who gave me away?</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_bad_2">
+    <text>No.</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_bad_3">
+    <text>You asshole! Stalkers don't do that to each other. Hope you run into a boar or something.</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_bad_4">
+    <text>Easy. Why are you getting mad? I just didn't want to spoil relations with Sid.</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_bad_5">
+    <text>"Didn't want to spoil my relations"! Go shove your relations up your ass!</text>
+  </string>
+  <string id="nsp_village_kutek_start_actor_dialog_bad_6">
+    <text>...</text>
+  </string>
+  <string id="nsp_village_kutek_mysterious_dialog_0">
+    <text>Listen, you been here for long? Do you know anything about the deaths of Kite and Ferret?</text>
+  </string>
+  <string id="nsp_village_kutek_mysterious_dialog_1">
+    <text>Of course I know. It's been bad news for all of us.</text>
+  </string>
+  <string id="nsp_village_kutek_mysterious_dialog_2">
+    <text>What do you think about it?</text>
+  </string>
+  <string id="nsp_village_kutek_mysterious_dialog_3">
+    <text>To be honest? All I'm thinking about is getting out of here. When you're out walking one day like always and you blow your brains out the next, that's not normal. I plan on leaving, and you better do the same.</text>
+  </string>
+  <string id="nsp_village_kutek_mysterious_dialog_4">
+    <text>I still have business here, so I can't. I'd also like to find out what's happening. Any idea where I should start?</text>
+  </string>
+  <string id="nsp_village_kutek_mysterious_dialog_5">
+    <text>I didn't know those stalkers really well, but I did hear where Kite kept some loot. Sure, it's wrong to take other people's stuff, but what good is it to them now? I was just thinking I'd grab my supplies and run away.</text>
+  </string>
+  <string id="nsp_village_kutek_mysterious_dialog_6">
+    <text>Where's the loot? I don't need it, but there could be useful information.</text>
+  </string>
+  <string id="nsp_village_kutek_mysterious_dialog_7">
+    <text>I'll mark it on your map.</text>
+  </string>
+  <string id="nsp_village_kutek_mysterious_dialog_8_1">
+    <text>Thanks. Good luck to you, and I hope we see each other again!</text>
+  </string>
+  <string id="nsp_village_kutek_mysterious_dialog_8_2">
+    <text>That's the same spot by the bridge where I visited. There's nothing there to help the investigation, but thanks anyway!</text>
+  </string>
+  <string id="nsp_village_stalker_car_start_dialog_0_1">
+    <text>What do you want, stalker?</text>
+  </string>
+  <string id="nsp_village_stalker_car_start_dialog_0_2">
+    <text>What do you need?</text>
+  </string>
+  <string id="nsp_village_stalker_car_start_dialog_0_3">
+    <text>What is it?</text>
+  </string>
+  <string id="nsp_village_stalker_car_start_actor_dialog_0">
+    <text>So you're what, building a car?</text>
+  </string>
+  <string id="nsp_village_stalker_car_start_actor_dialog_1">
+    <text>Yeah, and? Gotta do something in my free time! No use going after artifacts until the next emission, and I can't just sit on my ass by the fire like those slackers, can I?</text>
+  </string>
+  <string id="nsp_village_stalker_car_start_actor_dialog_2">
+    <text>True. So where'd you get this piece of junk?</text>
+  </string>
+  <string id="nsp_village_stalker_car_start_actor_dialog_3">
+    <text>Found it here in the village, almost intact. Once I find the right parts, it won't just roll around the Zone - it'll fly!</text>
+  </string>
+  <string id="nsp_village_stalker_car_start_actor_dialog_4">
+    <text>Gonna be nice being able to haul loot, huh?</text>
+  </string>
+  <string id="nsp_village_stalker_car_start_actor_dialog_5">
+    <text>Damn right! Hah, gonna roll my way to Sidorovich with a trunk full of artifacts!</text>
+  </string>
+  <string id="nsp_village_stalker_car_mysterious_death_dialog_0">
+    <text>I've got a question for you: have you heard anything about the recent deaths of two stalkers?</text>
+  </string>
+  <string id="nsp_village_stalker_car_mysterious_death_dialog_1">
+    <text>Of course I've heard about it. Poor bastards, doing away with themselves like that.</text>
+  </string>
+  <string id="nsp_village_stalker_car_mysterious_death_dialog_2">
+    <text>You don't think there's a criminal element at play here?</text>
+  </string>
+  <string id="nsp_village_stalker_car_mysterious_death_dialog_3">
+    <text>Buddy, what "criminal element"? Ferret was deep in debt. If he hadn't done it himself, he'd be getting his due "assistance" from the mob. Kite wasn't exactly stable either, so the way I see it, it's just a coincidence. Nothing else.</text>
+  </string>
+  <string id="nsp_village_stalker_car_mysterious_death_dialog_4">
+    <text>Do you know who they might've hung out with before dying?</text>
+  </string>
+  <string id="nsp_village_stalker_car_mysterious_death_dialog_5">
+    <text>Not with me, that's for sure. Otherwise, I don't know.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_1_mysterious_death_dialog_0">
+    <text>Hi! Could you help me with something? Do you know anything about Kite and Ferret?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_1_mysterious_death_dialog_1">
+    <text>Nah. I didn't hang around with them, so I don't know.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_1_mysterious_death_dialog_2">
+    <text>I see. Bye.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_2_mysterious_death_dialog_0">
+    <text>Hey, man. Help me understand what's going on here. You know anything about the mysterious deaths of the locals?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_2_mysterious_death_dialog_1">
+    <text>Hey, bro. Yeah, it's a real shame about them, they were good friends to me... What's there to say, though? Ferret was all spaced-out, got into fights with him over nothing... God knows what's behind all of it. I can't tell you anything.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_2_mysterious_death_dialog_2">
+    <text>Thanks, stalker.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_3_mysterious_death_dialog_0">
+    <text>Hello. Do you know anything about the mysterious stalker deaths in the area around Novoshepelychi?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_3_mysterious_death_dialog_1">
+    <text>Man, I don't know anyone here. I came to the camp recently, so you're asking the wrong guy.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_3_mysterious_death_dialog_2">
+    <text>I understand. Bye.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_4_mysterious_death_dialog_0">
+    <text>What can you tell me about the deaths of the stalkers from your camp?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_4_mysterious_death_dialog_1">
+    <text>Leave me alone with your investigating. Go ask someone else.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_4_mysterious_death_dialog_2">
+    <text>Alright. Bye.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_5_mysterious_death_dialog_0">
+    <text>Buddy, help me. I'm trying to find out what made the stalkers from your camp take their own lives. Is there anyone who could help me?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_5_mysterious_death_dialog_1">
+    <text>Piss off with your questions, stalker. Not in the mood right now...</text>
+  </string>
+  <string id="nsp_village_bar_stalker_5_mysterious_death_dialog_2">
+    <text>I won't bother you, then.</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_start_dialog_0_1">
+    <text>Hey. Who the hell are you?</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_start_dialog_0_2_1">
+    <text>What else do you want?</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_start_dialog_0_2_2">
+    <text>What is it?</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_start_dialog_0_2_3">
+    <text>I'm listening.</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_start_actor_dialog_0">
+    <text>Hi! I'm a stalker. Just a stalker.</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_start_actor_dialog_1">
+    <text>And what do you want, Mr. Stalker?</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_start_actor_dialog_2_1">
+    <text>Ah, nothing, really.</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_start_actor_dialog_2_2">
+    <text>I want to talk to you about something.</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_start_actor_dialog_3">
+    <text>Say it.</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_0">
+    <text>Have you heard about a stalker named Kite?</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_1">
+    <text>Of course. What happened?</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_2">
+    <text>He's dead, and he died under the same circumstances as Ferret: of his own accord. I'm trying to figure out how they're connected and what possessed them to make that decision.</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_3">
+    <text>Well, that's new... I'm also interested in knowing. I understand Ferret: he was knee-deep in dept, and the bandits picked him clean too, but who knows whether that's the truth? Probably just a convenient story to cry crocodile tears to loan sharks. Kite, on the other hand... He was a decent stalker, not the reckless type. I don't believe he would've just done that...</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_4">
+    <text>Maybe they had some close friends that I could ask for more details?</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_5">
+    <text>I myself headed out with Kite a few times. Like I said, he's a reliable fellow. Not even back then did I think he'd take his life, but he started feeling miserable and I had to go after artifacts with other people.</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_6">
+    <text>And Ferret?</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_7">
+    <text>Well, that one must've always been on his own. Actually, wait... This one rookie hung around with him. What was his name?... Ah, yeah, Zarmut!</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_8">
+    <text>Where can I find him?</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_9">
+    <text>I don't know. Look in the camp. He and Ferret always used to hang out in some old shack.</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_mysterious_death_dialog_10">
+    <text>Thanks. I'll ask him.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_start_dialog_0_0">
+    <text>'Ey. Sit down and let's smoke, eh?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_start_dialog_0_1_1">
+    <text>Hey, stalker.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_start_dialog_0_1_2">
+    <text>Hello.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_start_dialog_0_1_3">
+    <text>Hi.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_start_actor_dialog_0">
+    <text>I don't smoke.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_start_actor_dialog_1">
+    <text>So what do ya want?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_start_actor_dialog_2_1">
+    <text>Nothing, really.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_start_actor_dialog_2_2">
+    <text>I wanted to ask you something.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_start_actor_dialog_3">
+    <text>I'm all ears.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_mysterious_death_dialog_0">
+    <text>Say, did you know Kite and Ferret?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_mysterious_death_dialog_1">
+    <text>Our camp ain't that big - everyone knows each other. What is it you wanna know? Why they did away with themselves? I ain't got a clue.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_mysterious_death_dialog_2">
+    <text>Maybe you know where they might've been before their deaths? What they were up to?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_mysterious_death_dialog_3">
+    <text>They went after artifacts and hit the bottle in the evenings - same old, same old. Otherwise, I wasn't keeping track of their every step, so I dunno.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_mysterious_death_dialog_4">
+    <text>Did they have any close friends? Perhaps they know something?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_mysterious_death_dialog_5">
+    <text>Yeah, I don't know. One day they went with this group, next day with another. I can't point you at anyone specific.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_mysterious_death_dialog_6">
+    <text>Alright. Thanks.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_2_mysterious_death_dialog_0">
+    <text>Hi. Do you know anything about the recent deaths of the stalkers from your camp?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_2_mysterious_death_dialog_1">
+    <text>It's a shame about them... I don't know any details, though. I pretty much never left the camp back then, and right now I don't leave it at all - the things happening around here give me the creeps.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_2_mysterious_death_dialog_2">
+    <text>I understand. Good luck to you.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_3_mysterious_death_dialog_0">
+    <text>Hello. Do you know anything about the mysterious deaths of the locals?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_3_mysterious_death_dialog_1">
+    <text>I haven't been here for long, so I never knew the stalkers well. Sorry, not much I could tell you.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_3_mysterious_death_dialog_2">
+    <text>Stay safe, then.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_4_mysterious_death_dialog_0">
+    <text>Hey. Could you help me? I'm looking for information about the mysterious deaths of the stalkers from your camp.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_4_mysterious_death_dialog_1">
+    <text>Hi, stalker. No, I can't tell you anything. Only thing I know for sure is that's something's very wrong here. Don't get too involved in anything - you'll regret it!</text>
+  </string>
+  <string id="nsp_village_camp_stalker_4_mysterious_death_dialog_2">
+    <text>Bye, man.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_mysterious_death_dialog_0">
+    <text>Hey. Aren't you getting tired of wandering around the camp? I have a question for you.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_mysterious_death_dialog_1">
+    <text>Hey, man. I feel better walking than sitting around chugging bottles. What is it you want to know?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_mysterious_death_dialog_2">
+    <text>Do you know anything about the deaths of the stalkers from those camps?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_mysterious_death_dialog_3">
+    <text>Oh, jeez... I'm not the guy for that freaky stuff - I know nothing. It's obvious things aren't that simple...</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_mysterious_death_dialog_4">
+    <text>I gathered that much. Bye, then.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_2_mysterious_death_dialog_0">
+    <text>Hey. Patrolling the camp, are you? I wanted to ask you about the strange deaths of your friends from the camp.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_2_mysterious_death_dialog_1">
+    <text>My gut tells me you'd better not delve too deep. You'll throw yourself away like those poor bastards. I don't know anything.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_2_mysterious_death_dialog_2">
+    <text>Okay. Good luck, then.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_3_mysterious_death_dialog_0">
+    <text>Hey, man. Maybe you know something about the suicidal stalkers from your camp? What might've been wrong with them?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_3_mysterious_death_dialog_1">
+    <text>Hello, stalker. No, I stayed away from that mystical crap - something real spooky is going on. Leave me out of your investigation.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_3_mysterious_death_dialog_2">
+    <text>Good luck, then.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_0_1">
+    <text>Hi! Zarmut, right?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_0_2">
+    <text>Hi! What are you doing here all alone?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_1_1">
+    <text>Yeah, that's me. Who are you?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_1_2">
+    <text>I'm resting up here. What about you, what's your name?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_2">
+    <text>I'm Axe. I wanted to ask you about your friend, named Ferret. You remember him?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_3">
+    <text>Of course I remember him. But calling him my "friend"?... We were closer to being partners with a similar interest. What's your interest in it?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_4">
+    <text>I want to find out what happened to him and to Kite. Will you tell me what happened to Ferret on the days leading up to his death?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_5">
+    <text>Usual stuff. We'd wake up in the morning and go after loot. He was like a mentor to me - taught me everything. I'm of the sort that's never even been to the Cordon - came here immediately. I had no clue about to survive here and the laws that reign here. He told me everything, showed me everything. I paid him by being like, uh... cannon fodder for him. Brought him grub and went first into anomalies. That's how we did things for a few months.\n \nAfter that, he fell into a depression, out of nowhere. I'd wake him up at sunrise and say, "Let's go find some loot." He'd tell me, "No, I'm not going. Let me have some sleep." I was thinking, is this Ferret I'm talking to? He'd do anything for money - doesn't let a single artifact out of his sight - and now he's refusing to go find loot. That was my second day sitting in the camp like that, and there he was: moping, not talking to anyone, all shaken-up, hood over his head. Locked himself in the house and sat there. To my knowledge, he didn't even drink.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_6">
+    <text>What happened next?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_7">
+    <text>I freaked out on him and went on a trip with other stalkers. ??? Went back to visit the guy, and then I saw his brains splattered on the wall. That's what happened.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_8">
+    <text>Do you remember what happened the day before?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_9">
+    <text>Nothing out of the ordinary. I remember they brought two Jellyfish near the bridge. Spent the whole evening there and came back at dusk.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_10">
+    <text>Did they come across any mutants?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_11">
+    <text>A couple of boars and dogs. How so?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_12">
+    <text>Nothing. I just wanted to ask in case they met a controller or a poltergeist or something. He couldn't have fallen into that state without a reason...</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_13">
+    <text>No, they didn't come across anything like that. They don't inhabit these parts anyway.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_14">
+    <text>Alright, thanks for the info, even if I didn't find out anything new.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_15">
+    <text>If you do learn anything, be sure to let me know. I'm also interested.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_16">
+    <text>Alright.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_17">
+    <text>Hey, wait, listen: I told you everything. While you're still here, would you mind joining me for a drink? A drink to our boys' memory. What do you say?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_18">
+    <text>I've got nowhere else to go. Pour it.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_19">
+    <text>Not bad, huh?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_20">
+    <text>Not at all! Gimme just a little bit more. No, wait... Damn, this vodka of yours got me hammered again... Shi-i-i...</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_21">
+    <text>You alright? Want another one?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_mysterious_death_dialog_22">
+    <text>Yeah. Cheers!</text>
+  </string>
+  <string id="nsp_village_suicide_informator_idle_dialog_0_1">
+    <text>What brings you here?</text>
+  </string>
+  <string id="nsp_village_suicide_informator_idle_dialog_0_2">
+    <text>Hello, stalker.</text>
+  </string>
+  <string id="nsp_village_suicide_informator_idle_dialog_0_3">
+    <text>What are you after?</text>
+  </string>
+  <string id="nsp_village_suicide_informator_idle_dialog_0_4">
+    <text>What do you want?</text>
+  </string>
+  <string id="nsp_village_suicide_informator_idle_dialog_0_5">
+    <text>Spill it.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_dialog_0">
+    <text>Another one here for the party.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_dialog_1">
+    <text>What happened? Why's everyone gathered here?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_dialog_2">
+    <text>Come in, see for yourself.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_dialog_3">
+    <text>...</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_letter_take_dialog_0">
+    <text>So, what do you think?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_letter_take_dialog_1">
+    <text>You sure you're asking the right guy? I really don't know anything anymore.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_letter_take_dialog_2">
+    <text>Exactly. I get those two... but Eustace? No way he could've done it on his own. I'm sure - everyone's sure - that there's something damn wrong here. Screw this place: we're getting out of here tomorrow, or even today! Did you find anything out? Eustace told us you took up investigating all that's happening.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_letter_take_dialog_3">
+    <text>Practically nothing... except... Listen, what do you know about the stalkers by the bridge? They camp there during the evenings, on the river bank.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_letter_take_dialog_4">
+    <text>What stalkers? Everyone who's here is in this camp. There are the hunters too, but they have their base in the woods.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_letter_take_dialog_5">
+    <text>Kite worked for them shortly before his death, and Ferret passed that place with his partner. Eustace visited them too - tried to get information. See a connection?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_letter_take_dialog_6">
+    <text>I don't know. I haven't heard anything about that stalker squad. We've been here for some time, so we'd know about them for sure.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_letter_take_dialog_7">
+    <text>We'll look into it. I'll go scout that territory at sunset. Will you back me up if worst comes to worst?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_letter_take_dialog_8">
+    <text>Of course! Just give us a call and we'll rush over.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_leader_suicide_letter_take_dialog_9">
+    <text>Great. I'll be in touch.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_first_dialog_0">
+    <text>Hey, what do you think you're doing?!</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_first_dialog_1">
+    <text>I... I... I don't know. What's happening? What am I doing?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_first_dialog_2">
+    <text>That's what I'm asking you! What are you doing on top of the bridge? Don't tell me you were thinking of jumping, buddy... This is the Zone: there are enough folks dying here as it is, so trust me when I say you don't want to join their ranks.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_first_dialog_3">
+    <text>I didn't mean to do it! My head's not feeling right. I don't get anything.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_first_dialog_4">
+    <text>Just climb down from there, nice and easy.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_first_dialog_5">
+    <text>Okay...</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_break_dialog_0_1">
+    <text>Until next time.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_break_dialog_0_2">
+    <text>See you.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_break_dialog_0_3">
+    <text>I'll be going.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_start_dialog_0_1">
+    <text>Hello.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_start_dialog_0_2_1">
+    <text>Hi, stalker.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_start_dialog_0_2_2">
+    <text>Hello there.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_start_dialog_0_2_3">
+    <text>Can we talk now?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_0">
+    <text>Yeah, I'm fine. I have no idea how I got up there. Thank you... If it wasn't for you, I'd be in pieces from the anomaly under the bridge.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_1">
+    <text>We'll even up, stalker. I'd rather you tell me what made you do it?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_2">
+    <text>I came to these parts on a job, and I chose to help the stalkers find out why their people are dying... by their own hand, it seems. Something's very much not right, so an interest grew in me - not just an interest, of course, but I digress. I thought it had something to do with the stalkers that make camp by the fire. I went to talk to them, and then... they disappeared out of nowhere. Then some crazy stuff happened: I heard whispers and saw silhouettes on the river...</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_3">
+    <text>You sure you haven't had too much to drink?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_4">
+    <text>I saw it with my own eyes - cross my heart!</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_5">
+    <text>Alright. I do believe you... because I've seen it myself.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_6">
+    <text>Seriously? Just what is that crap?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_7">
+    <text>I'll be honest with you: I've been trying to get to the bottom of it myself for quite some time. I found something out, and I believe we can shed some light on this if we do it together. How's that sound?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_8">
+    <text>I owe you my life... in a good sense of the word, of course.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_9">
+    <text>Oh, please. Now, here's what I've gathered: those five stalkers have actually been dead for a long time. Their spirits, however, are uneasy, and they still inhabit these parts. If we give them what they want, they'll leave the local stalkers in peace.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_10">
+    <text>So what is it that they want?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_11">
+    <text>Justice. They were killed - killed for profit. The man behind it all is currently in the camp in the abandoned village.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_12">
+    <text>Is that why stalkers are dying there?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_13">
+    <text>It would seem so. The village is cursed, and anyone who occupies it is cursed along with it, hence why I don't even go there. As you can see, I'm still alive.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_14">
+    <text>So we need to give the spirits what they want: the perpetrator!</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_15">
+    <text>Correct.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_16">
+    <text>How do we find him?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_17">
+    <text>If only I knew...</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_18">
+    <text>There are about ten of them there. Might be hard to sniff him out.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_19">
+    <text>One of the deceased was my friend. Shortly before his death, he sent me a distress signal. As I was rushing to help him, he said he didn't know who attacked them... only that the attacker reeked of motor oil.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_20">
+    <text>Huh. I'll make my way to the camp and try to find out about that. Where do I find you later?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_21">
+    <text>We'll keep in touch. If needed, I'll find you myself.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_second_dialog_22">
+    <text>Okay.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_answer_dialog_0">
+    <text>Mind if I ask you some more questions?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_answer_dialog_1">
+    <text>Sure. I'll tell you what I know.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_answer_dialog_2">
+    <text>Why did stalkers appear the above water? That gave me the chills...</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_answer_dialog_3">
+    <text>As far as I can tell, the blood of the stalkers became one with the river. In the end, it helped them find peace and punish those responsible for everything. Could it be an anomaly, or something else?... I don't know. The Zone's not just a contaminated area but, seemingly, an organism living its own life. Understanding it is a difficult thing to do. I'm afraid no one can give you a certain answer to your question...</text>
+  </string>
+  <string id="nsp_village_stalker_car_deception_dialog_0_1">
+    <text>How's your car repair going?</text>
+  </string>
+  <string id="nsp_village_stalker_car_deception_dialog_0_2">
+    <text>Hey. Fixing the car, are you? Any luck with it?</text>
+  </string>
+  <string id="nsp_village_stalker_car_deception_dialog_1">
+    <text>Not really. If it'll roll anywhere, it's to the nearest landfill with a kick.</text>
+  </string>
+  <string id="nsp_village_stalker_car_deception_dialog_2">
+    <text>Cheer up. I've got some good news for you.</text>
+  </string>
+  <string id="nsp_village_stalker_car_deception_dialog_3">
+    <text>What news?</text>
+  </string>
+  <string id="nsp_village_stalker_car_deception_dialog_4">
+    <text>There's a scientist group nearby that bit the dust. They've already been looted by some stalkers, but there's a car that's almost fully intact. I thought I'd tell you so you could scrounge it for parts.</text>
+  </string>
+  <string id="nsp_village_stalker_car_deception_dialog_5">
+    <text>You for real? Could you show me where? I'll let you be the first to drive this baby in return.</text>
+  </string>
+  <string id="nsp_village_stalker_car_deception_dialog_6">
+    <text>Yeah, no problem. Got nothing to do anyway.</text>
+  </string>
+  <string id="nsp_masters_stalker_car_final_dialog_0">
+    <text>What's going on here? Where's the ride?</text>
+  </string>
+  <string id="nsp_masters_stalker_car_final_dialog_1">
+    <text>Don't know. Maybe it got stolen?</text>
+  </string>
+  <string id="nsp_masters_stalker_car_final_dialog_2">
+    <text>What are you talking about, god dammit? Who'd steal it around here?</text>
+  </string>
+  <string id="nsp_masters_stalker_car_final_dialog_3">
+    <text>Burers, maybe...</text>
+  </string>
+  <string id="nsp_masters_stalker_car_helper_dialog_0">
+    <text>Is that it?</text>
+  </string>
+  <string id="nsp_masters_stalker_car_helper_dialog_1">
+    <text>That's that. You wimp - you didn't even have to do anything! I did all the work myself!</text>
+  </string>
+  <string id="nsp_masters_stalker_car_helper_dialog_2">
+    <text>I don't have a good feeling about it. What if someone finds out? We probably shouldn't have done that.</text>
+  </string>
+  <string id="nsp_masters_stalker_car_helper_dialog_3">
+    <text>Who's gonna find out? Those were just a few random drifters - they weren't from our camp. Now, thanks to them, you and I are packed with loot.</text>
+  </string>
+  <string id="nsp_masters_stalker_car_helper_dialog_4">
+    <text>Shall we get out of here, then? I don't like this place one bit!</text>
+  </string>
+  <string id="nsp_masters_stalker_car_helper_dialog_5">
+    <text>Uhuh. Let's go - you first.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_0">
+    <text>Hi there.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_1">
+    <text>Was that it?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_2">
+    <text>Yep. Thanks, stalker! You did a good thing.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_3">
+    <text>I hope there won't be a threat to anyone anymore?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_4">
+    <text>No, everything will be fine now - I'm sure. There is, however, one more thing that needs to be done.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_5">
+    <text>What is it?</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_6">
+    <text>Those poor stalkers deserve a burial. Better late than never.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_7">
+    <text>Yeah. I suppose that'll be the right thing. It's a shame about them... people will do anything for a slice of the cake these days.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_8">
+    <text>You're right. We're so set on money that we stop thinking about life itself, and all the choices in life we've made dawn on us in the end, seconds before death. That's the saddest part... Now, let's give those stalkers a proper burial. There's an old shovel lying over there.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_9">
+    <text>Yeah, alright.</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_10">
+    <text>Don't forget me too...</text>
+  </string>
+  <string id="nsp_masters_stalker_wanderer_final_dialog_11">
+    <text>What?</text>
+  </string>
+  <string id="nsp_hunters_hunter_king_scanner_start_dialog_0">
+    <text>Hey, stalker! What's that thing you're playing with in the bushes? C'mon, give it here.</text>
+  </string>
+  <string id="nsp_hunters_hunter_king_scanner_start_dialog_1">
+    <text>Hey, guys, what do you want with it? Don't touch it!</text>
+  </string>
+  <string id="nsp_hunters_hunter_king_scanner_start_dialog_2">
+    <text>How do we know what it is? What if it's some expensive machinery, or even a bomb? We've been in these woods a long time, and we want to keep things nice and quiet.</text>
+  </string>
+  <string id="nsp_hunters_hunter_king_scanner_start_dialog_3">
+    <text>Who are you?</text>
+  </string>
+  <string id="nsp_hunters_hunter_king_scanner_start_dialog_4">
+    <text>Hunters. Ever heard of 'em?</text>
+  </string>
+  <string id="nsp_hunters_hunter_king_scanner_start_dialog_5_1">
+    <text>No.</text>
+  </string>
+  <string id="nsp_hunters_hunter_king_scanner_start_dialog_5_2">
+    <text>Yeah, I've heard something...</text>
+  </string>
+  <string id="nsp_hunters_hunter_king_scanner_start_dialog_6">
+    <text>Well, that's us. We hunt here and make a living, and we don't need no strangers with their knickknacks here. So, if you want your little device back, talk to the man in charge, Jug. He'll decide what to do with it. Let's go - I'll lead you there.</text>
+  </string>
+  <string id="nsp_hunters_hunter_king_scanner_start_dialog_7">
+    <text>Got nowhere else to go anyway...</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_0">
+    <text>Welcome. Who might you be?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_1">
+    <text>Just a regular stalker. I go by Axe.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_2">
+    <text>A regular stalker wouldn't run around the woods with a bunch of devices.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_3">
+    <text>I'm just a stalker doing some work for the scientists. They asked me to set up scanners to research the anomalous behavior in this area.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_4">
+    <text>A scanner, huh? We'll see, we'll see. Our technician will take a look at it, and if what you're saying is true, don't worry: we'll give it back. And don't you be afraid of us - you're no mutant, are you? If you were, you'd be hanging on my wall and I'd have sold your mane.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_5">
+    <text>I see there's not much room left on the wall... So you hunt down mutants in these woods?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_6">
+    <text>You could say that. As soon as all this stuff started popping up in the Zone - anomalies, artifacts, mutants - the boys and I made a move to this place. But we didn't care about any of that. No, we were interested in the local wildlife. On the outside, there's no way you can go hunting like here: kill the wrong animal and bam, you're a poacher. Here, the amount of wild animals is by no means smaller, and what you get for shooting them down aren't handcuffs around your wrists but gratitude and even some payment.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_7">
+    <text>There are quite a lot of you here.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_8">
+    <text>Many of these people came here only after we set up camp in these woods. Just like you, they wandered around in search of artifacts, but then stayed behind. Stalkers have a greedy nature, and stuffed animals can get you a lot of money - no less than those artifacts of yours. Want to try? We could always use an extra pair of hands.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_9">
+    <text>Me? My last hunt didn't go so well. Could say I was the one being hunted...</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_10">
+    <text>Don't you worry your head about it - the boys will cover you if anything happens. Zakhar - one of us who's been here since day one - is going out to shoot some boars.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_11">
+    <text>Why not?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_12">
+    <text>Great. Go talk to him - he's outside by the fire.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_start_dialog_13">
+    <text>Alright.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_wait_hunt_dialog_0_1">
+    <text>Talk to Zakhar. You'll get the scanner after the hunt.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_wait_hunt_dialog_0_2">
+    <text>Go see Zakhar. I'll see what's what with your device.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_scanner_wait_hunt_dialog_0_3">
+    <text>Go out hunting with Zakhar. I'll see what kind of device you tried to plant here.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_0">
+    <text>Are you Zakhar? I was told I could go hunting with you.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_1">
+    <text>Feeling nervous? Ease up, it'll be fine. Yeah, I wouldn't mind a helper - my boys are out doing other stuff, so it's just me and Amur here.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_2">
+    <text>Amur?</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_3">
+    <text>Amur's my dog! Don't worry - he doesn't bite. He's not from Chornobyl or anywhere nearby.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_4">
+    <text>What do we need to do?</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_5">
+    <text>What we always do: we go deep inside the woods, track and shoot down boars. Then you cover me while I cut off their hooves.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_6">
+    <text>Who needs those hooves anyway?</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_7">
+    <text>What a question! The scientists pay handsomely for them. Don't know what they do with them afterwards, though... You work with the scientists - you must've seen how many soldiers there are in that facility. Gotta feed them somehow.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_8">
+    <text>Ew.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_9_1">
+    <text>I'm only joking. Sometimes, though, it's to drool for... Okay, time's a-wastin'. Let's go.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_9_2">
+    <text>I'm only joking. Sometimes, though, it's to drool for... Just one thing: it's getting dark, and going into the woods at night is quite dangerous. Go rest up in our camp if you want, and then in the morning we can head off. Your shotgun will useful in the hunt, so don't put it away anywhere.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_9_3">
+    <text>I'm only joking. Sometimes, though, it's to drool for... Just one thing: you should get a hold of a shotgun. Your stalker peashooters have no place in the woods. You might be able to find something in the military base, so check there. If you find anything, come back at daytime - hunting in the dark is a surefire way to get killed.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_9_4">
+    <text>I'm only joking. Sometimes, though, it's to drool for... Just one thing: it's getting dark, and going into the woods at night is quite dangerous. Go rest up in our camp if you want, and then in the morning we can head off.\n \nAnd get yourself a shotgun of some sort - your stalker peashooters have no place in the woods. You might be able to find something in the military base, so check there.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_10_1">
+    <text>Let's move.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_10_2">
+    <text>Agreed.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_0_1_1">
+    <text>So, ready to hunt?</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_0_1_2">
+    <text>You ready to kick some mutant ass?</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_0_2_1">
+    <text>Come by at sunrise.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_0_2_2">
+    <text>Drop by at morning and we'll start the hunt.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_0_3_1">
+    <text>What are you going to shoot with? Get a decent shotgun!</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_0_3_2">
+    <text>You should start with the tools of the trade. Find yourself a shotgun!</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_0_4_1">
+    <text>Come by when it's bright, and don't forget a shotgun!</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_0_4_2">
+    <text>We're not going anywhere at nighttime - come back in the morning. And don't forget a shotgun. It'll be tough without it.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_1_1_1_agree">
+    <text>Let's get 'em!</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_1_1_2_agree">
+    <text>Let's blast those things!</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_1_1_1_wait">
+    <text>I'll come by another time.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_1_1_2_wait">
+    <text>I'll come back later.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_1_234_1">
+    <text>Alright.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_scanner_start_dialog_two_1_234_2">
+    <text>Sure.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_0">
+    <text>Finally! It wasn't easy finding you!</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_1">
+    <text>What are *you* doing here?</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_2">
+    <text>I came here to warn you. You shouldn't trust Dubinin! Do not give the transmuted artifact to him or to his cutthroats! And you should get as far away from here as possible.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_3">
+    <text>I don't understand. Why did the scientist expedition sent by Dubinin start opening fire without warning?</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_4">
+    <text>Those are no scientists - have you not understood yet? I don't know who they are, but I know for a fact that you were used by them for nothing. They needed an experience stalker - such as you - who would carry through their artifact selection plan. You did your job, and now they're attempting to get rid of any witnesses.\n \nAs soon as I found out, I hurried here to find and warn you. I owe you after what happened in the swamp, and if it weren't for you, I'd be rotting in the reeds with those stalkers.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_5">
+    <text>You're a bit late on that...</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_6">
+    <text>I didn't know how to contact you remotely. The only way for me was to find you in person.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_7">
+    <text>So why should I trust you? You work with Dubinin.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_8">
+    <text>I worked with him... but I had no idea I wasn't working for science. By pure chance, I overheard him speaking - I don't know who Dubinin contacted, but they had the goal of retrieving the artifact and eliminating all witnesses. I believe that would've included me. As soon as I learned everything, I made my way here.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_9">
+    <text>What do I do now?</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_10">
+    <text>You need to hide for some time. As for the artifact... hide it somewhere else. I will give you a shielded container - the safest option would be to place the artifact inside and bury it somewhere. I do hope that my superiors in the scientific institute will receive my message and arrest Dubinin, but in the meantime, you must leave.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_11">
+    <text>I appreciate it. I don't know how to thank you enough.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_12">
+    <text>I hope all of this will end and you will have the opportunity of doing that.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_13">
+    <text>I'll be seeing you, then!</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_0_1">
+    <text>Hurry!</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_0_2">
+    <text>It's dangerous here. Leave now!</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_0_3">
+    <text>You shouldn't idle here. Leave!</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_1_1">
+    <text>Take care.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_1_2">
+    <text>I'll be gone in a moment.</text>
+  </string>
+  <string id="nsp_village_scientist_assistant_start_dialog_1_3">
+    <text>Until next time.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_wounded_dialog_0">
+    <text>God damn!</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_wounded_dialog_1">
+    <text>You're bleeding!</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_wounded_dialog_2">
+    <text>I ain't got time to bleed. That thing is here again! Did you see him?</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_wounded_dialog_3">
+    <text>Who? You mean the boar? Of course I saw it!</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_wounded_dialog_4">
+    <text>"The boar"... Not just any boar, but General Shtok! We've given that bastard a whole identity after trying to hunt him down for half a year.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_wounded_dialog_5">
+    <text>General Shtok?</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_wounded_dialog_6">
+    <text>Did you see him? Built like a tank and weighing in at least six hundred pounds. You can't track him down either - he's the one who finds us when we least want it. Kolyan, one of us, is still lying with a broken leg - lucky he wasn't bitten to death - whereas others have gone missing. Must be the work of that prick boar!</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_wounded_dialog_7">
+    <text>We need to go back to the camp. You're gushing blood.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_wounded_dialog_8">
+    <text>Telling you, it's just a scratch... Let's go.</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_wounded_dialog_9">
+    <text>Get up.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_after_hunt_dialog_0">
+    <text>Aren't *you* hurt?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_after_hunt_dialog_1">
+    <text>No, I'm fine. How's Zakhar?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_after_hunt_dialog_2">
+    <text>He'll live - it's not his first time. Thank you for covering him. By the way, I looked at your scanner, and it seems it really does scan anomaly zones. You can have it back.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_after_hunt_dialog_3">
+    <text>Great.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_after_hunt_dialog_4">
+    <text>So, stalker, I can see you're no slouch. I asked my friends from the Cordon, and they've only had good things to say about you. If you need work or you have hooves and tails you wanna spare, bring it to us and we'll hand you some supplies.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_after_hunt_dialog_5">
+    <text>I'll keep that in mind. Good luck to you!</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_0">
+    <text>We ran into this huge boar in th woods...</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_1">
+    <text>General Shtok. Yeah, he's even got a name. Elusive bastard! You think you know every little shrub in these woods, but you can never find where he's hiding. Our entire group tried tracking him down for two months when Kolyan almost got eaten alive by him. We followed the trail, but it's like he vanished into thin air. That's how he got his name, for his size and his mind. My dream is for his ugly face to hang on my wall.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_2">
+    <text>Zakhar wounded him, and he might've left traces. Maybe we should do another search?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_3">
+    <text>Two of us are lying in the infirmary and several others have gone missing. I can't afford sending anyone else to catch him. Once our boys get back from Agroprom, I'll gather a new team, but until then, we'll be extra careful in these woods. And you too - keep your eyes peeled.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_4_1">
+    <text>What if I try tracking him down? I've dealt with unusual mutants before, and I'm dying to find out what kind of predator that is.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_4_2">
+    <text>I see... Alright, man, bye.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_5">
+    <text>You serious?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_6_1">
+    <text>I'll try and see what happens.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_6_2">
+    <text>Actually, I'd rather not...</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_7">
+    <text>If you really want to, I'm not gonna hold you back. Your reward will be handsome if it works out.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_8">
+    <text>I'm off, then.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_two_0">
+    <text>Hey, about your Shtok: what if I try to trace him and bring him down?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_two_1">
+    <text>We'd very much appreciate it, stalker. Are you sure?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_two_2_1">
+    <text>Yes. I'll try.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_two_2_2">
+    <text>I'll give it some thought.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_two_3">
+    <text>Then good luck to you. I suggest you examine the area where he toppled Zakhar - he told me the two of you wounded that boar. Look for any trails of blood and something might come out of it.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_start_dialog_two_4">
+    <text>I'll try.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_0">
+    <text>I have some good news and bad news.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_1">
+    <text>Really, now? Spit it!</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_2">
+    <text>I found the partially eaten corpse of one of your missing men, Grek. Here's his PDA and his last entries.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_3">
+    <text>Grek... Shit. He was always the first to rush into hunts, and really helped us with getting settled here. Where'd you find him?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_4">
+    <text>Here's where the good news come in: I found him in Shtok's lair. It's in a hidden hole in the woods.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_5">
+    <text>You saw him?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_6">
+    <text>I killed him. The carcass is in a small cave behind the swamp. You can go have his head... or anything else.</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_7">
+    <text>Woah, that's great news! I won't let you down on the reward either! Look here: this gun is the best you could have for shooting down the local vermin! It's all upgraded - I'm sure you'll like it. I'll also give you a couple of ammo boxes. Will that do?</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_8">
+    <text>This'll be mighty useful. Thanks!</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_9">
+    <text>If you want more work, come by. We'll always have it for you!</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_general_boar_king_reward_dialog_10">
+    <text>I might come visit your woods again, as long as you don't take my stuff. Good luck!</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_0">
+    <text>Stop tormenting that guitar, will you?</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_1">
+    <text>Mind your own business! I'll have you know you're talking to an educated musician.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_2">
+    <text>Educated? How many bricks did your neighbors throw in your window to get you to stop? That must be why you're in the Zone in the first place!</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_3">
+    <text>Look at the joker! What are you getting under my skin for? My guitar was broken, you understand? That's why it sounds like that. It died in battle...</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_4">
+    <text>What happened?</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_5">
+    <text>Me and my pal were heading back to camp when those lowlives decided to gang up on us and grab our loot. We flatly refused - what, was I poking around in anomalies all day for nothing? "Up yours," I told 'em. And then it started. Didn't hesitate a moment to show them their place - shot one in the shoulder, and they all ran away. Then I look and see a hole in my guitar, and the tuning pegs were hit too! Couldn't believe it: I was inches away from taking a bullet myself! *I* made it out in one piece, but my guitar's dead and done... What am I gonna do without it?</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_6_1">
+    <text>That's sad. I think I'll be spending more time in the local village, so I'll ask the locals if they have any guitar. Can't promise anything, though.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_6_2">
+    <text>A sad story. I can only wish you good luck in finding a new guitar.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_6_3">
+    <text>I've got some good news for you: I was in the local village and found this new guitar. I've no use for it, so take it. Is it playable?</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_7_1">
+    <text>Seriously? Thanks, bud!</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_7_2">
+    <text>Yeah, thanks for nothing. Bye.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_7_3">
+    <text>Wow, thanks a whole lot, man! Couldn't have come here at a better time! I'll try it out - doesn't even look like it's seen any use!</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_8_1">
+    <text>Don't thank me just yet. If I find it, you'll play me something!</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_8_2">
+    <text>Good luck to you.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_dialog_8_3">
+    <text>Don't thank me yet. Try playing something.</text>
+  </string>
+  <string id="nsp_musician_stalker_sad_idle_dialog_0_1">
+    <text>God damn... What is it stalker? Got something?</text>
+  </string>
+  <string id="nsp_musician_stalker_sad_idle_dialog_0_2">
+    <text>What is it?</text>
+  </string>
+  <string id="nsp_musician_stalker_sad_idle_dialog_0_3">
+    <text>What do ya want?</text>
+  </string>
+  <string id="nsp_musician_stalker_sad_idle_dialog_0_4">
+    <text>What a life... Oh, hey, man. What do you want?</text>
+  </string>
+  <string id="nsp_musician_stalker_sad_idle_dialog_0_5">
+    <text>I'm just dying to play something...</text>
+  </string>
+  <string id="nsp_musician_stalker_idle_dialog_0_1">
+    <text>Glad to see you!</text>
+  </string>
+  <string id="nsp_musician_stalker_idle_dialog_0_2">
+    <text>Want to hear anything, stalker?</text>
+  </string>
+  <string id="nsp_musician_stalker_idle_dialog_0_3">
+    <text>Hey there!</text>
+  </string>
+  <string id="nsp_musician_stalker_idle_dialog_0_4">
+    <text>Hi, stalker.</text>
+  </string>
+  <string id="nsp_musician_stalker_idle_dialog_0_5">
+    <text>Hey, stalker. Want me to play?</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_second_dialog_0">
+    <text>So, you still remember how to play the guitar? Here!</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_second_dialog_1">
+    <text>For real? Thanks a ton!</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_second_dialog_2">
+    <text>Put it to the test!</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_third_dialog_0">
+    <text>By some miracle, I found this guitar in the village nearby. Go ahead, give it a try.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_third_dialog_1">
+    <text>Really? Wow, thanks a ton, pal!</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_third_dialog_2">
+    <text>Try it out first!</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_0">
+    <text>Hey, bro! Got a little favor to ask. Could you help?</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_1">
+    <text>Hey, boys. You're from Freedom, right? What a surprise. I hope you're friendlier than the last bunch I met. What can I help you with?</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_2">
+    <text>Our squad is one of the last in Freedom. Clan's dying out... Basically, we need a long-term shelter that won't stick out. The nearby oil depot seems like just the right place, but there are at least a dozen bandies there. We can't risk taking them on by ourselves, but with your help, it'll be a different story.</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_3">
+    <text>What's in it for me? In fact, why me at all?</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_4">
+    <text>Don't worry about that, bro; we'll make it up to you. Besides, you're not the only one we've asked - there's a stalker sitting at the crossing with a broken guitar, and he's having a hell of a hard time playing it. Says the bandits beat it up, but he doesn't have the guts to get payback. Can't ask anyone else around here - they like just sitting in their camps. Are you up for it?</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_5_1">
+    <text>When are we moving?</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_5_2">
+    <text>You'll do just fine without me. Find somebody else if you need to.</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_6_1">
+    <text>We'll wait until night. Me and the boys already have info on the sentries' positions. First we take out the scum at the entrance, and after that, it shouldn't be hard to take down the rest.</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_6_2">
+    <text>I thought better of you. Well, safe travels.</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_7_1">
+    <text>Deal.</text>
+  </string>
+  <string id="nsp_freedom_leader_start_first_dialog_7_2">
+    <text>Bye.</text>
+  </string>
+  <string id="nsp_freedom_leader_start_second_dialog_0">
+    <text>Yeah? What is it?</text>
+  </string>
+  <string id="nsp_freedom_leader_start_second_dialog_1_1">
+    <text>I'll help you with the bandits. Still set on the oil depot?</text>
+  </string>
+  <string id="nsp_freedom_leader_start_second_dialog_1_2">
+    <text>Nothing.</text>
+  </string>
+  <string id="nsp_freedom_leader_start_second_dialog_2">
+    <text>I knew you were a real dog! Alright, we'll wait until night. Me and the boys already have info on how the sentries are positioned. First, we'll take out the scum at the entrance, and after that, it shouldn't be hard to take down the rest.</text>
+  </string>
+  <string id="nsp_freedom_leader_start_second_dialog_3">
+    <text>Sounds good to me.</text>
+  </string>
+  <string id="nsp_freedom_leader_bandits_task_reward_dialog_0">
+    <text>We sure showed them! I've had more interesting gunfights, but that one'll do. Why are you giving me that look?</text>
+  </string>
+  <string id="nsp_freedom_leader_bandits_task_reward_dialog_1">
+    <text>Come on... You know what I want.</text>
+  </string>
+  <string id="nsp_freedom_leader_bandits_task_reward_dialog_2">
+    <text>Okay, sure, sure. You can have my gun. I got it not long ago, so it's almost like new - I'll stick to a simpler piece myself. Here's some money on top of that. Go to the village, have a drink with the stalkers.</text>
+  </string>
+  <string id="nsp_freedom_leader_bandits_task_reward_dialog_3">
+    <text>Now we're talking. What's your next step?</text>
+  </string>
+  <string id="nsp_freedom_leader_bandits_task_reward_dialog_4">
+    <text>We'll start settling down. There's not much behind these walls, but at least we feel safe. We'll reach out to you if we need any more help, man... In the meantime, lemme rest for a while.</text>
+  </string>
+  <string id="nsp_freedom_leader_bandits_task_reward_dialog_5">
+    <text>Bye.</text>
+  </string>
+  <string id="nsp_freedom_leader_idle_dialog_0_1">
+    <text>What's up, stalker?</text>
+  </string>
+  <string id="nsp_freedom_leader_idle_dialog_0_2">
+    <text>Ey, bro.</text>
+  </string>
+  <string id="nsp_freedom_leader_idle_dialog_0_3">
+    <text>What's new?</text>
+  </string>
+  <string id="nsp_freedom_leader_fail_idle_dialog_0_1">
+    <text>What do you need, fresh meat?</text>
+  </string>
+  <string id="nsp_freedom_leader_fail_idle_dialog_0_2">
+    <text>What?</text>
+  </string>
+  <string id="nsp_freedom_leader_fail_idle_dialog_0_3">
+    <text>Looking for something here?</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_first_dialog_0">
+    <text>Bro, got a little job for you. Since you helped us with the bandits, help us with another problem.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_first_dialog_1">
+    <text>Tell me what's up.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_first_dialog_2">
+    <text>Holy...! Listen, I've never even dealt with a chimera. What am I risking my life for?</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_first_dialog_3">
+    <text>You weren't disappointed with the reward last time, were you? This one is even better.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_second_dialog_0">
+    <text>Bro, you the one who did the bandits in? We get here and their bodies are all laid out!</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_second_dialog_1">
+    <text>Ran into those parasites while I was in the area, so I did some cleaning.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_second_dialog_2">
+    <text>Okay, okay, hotshot. Either way, you deserve a reward for that!</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_second_dialog_3">
+    <text>Thanks for that. What did you want to tell me?</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_second_dialog_4">
+    <text>Holy...! Listen, I've never even dealt with a chimera. Why would I get myself into that?</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_second_dialog_5">
+    <text>The reward's worth it, stalker. You have Freedom's word.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_third_dialog_0">
+    <text>Bro, got a little job for you. We dealt with the bandits ourselves, but this thing? Can't do it without a stalker.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_third_dialog_1">
+    <text>What is it?</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_third_dialog_2">
+    <text>Things just got real! Never dealt with a chimera before. Why should I sign up for this?</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_third_dialog_3">
+    <text>You'll like the reward, stalker. Just help us deal with the mutant - we won't be sleeping the nights while it's still around.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_dialog_monster_info">
+    <text>There's a chimera not far from here: one of the scariest things you'll see in the Zone. Even the local hunters won't make a move on it. They themselves live far enough away, so it's no concern of theirs... but that thing is right at our doorstep, so we thought we'd ask you help deal with it. For things like this, you need every man you can get.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_dialog_actor_need_to_think_1">
+    <text>I need to give it some thought and prepare. I'll let you know if I'll join the hunt.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_dialog_actor_need_to_think_2">
+    <text>Alright. Just don't keep us waiting.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_start_dialog_actor_need_to_think_3">
+    <text>See you.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_wait_dialog_0">
+    <text>Bro, decide already. Ready to go hunt the chimera?</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_wait_dialog_1_1">
+    <text>Ready. When are we moving?</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_wait_dialog_1_2">
+    <text>Not ready yet.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_wait_dialog_2">
+    <text>In the dark. Chimera only hunts at at night; at daytime, it hides somewhere, apparently.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_wait_dialog_3">
+    <text>Let's do this.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_reward_dialog_0">
+    <text>How you holding up? Seems to me your legs are shaking!</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_reward_dialog_1">
+    <text>Scary thing. Not everyone could take it on one-on-one.</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_reward_dialog_2">
+    <text>Whatever, it's all behind us. Here's for the help, like I promised. We're heading back, so stop by if you get the chance. Just so you know, I can repair your stuff if need be, and not for the insane local prices either!</text>
+  </string>
+  <string id="nsp_freedom_leader_monster_task_reward_dialog_3">
+    <text>I'll keep that in mind. Thanks! Later, boys.</text>
+  </string>
+  <string id="nsp_village_barmen_guitar_dialog_0">
+    <text>Bartender, do you know where I could find a guitar around here?</text>
+  </string>
+  <string id="nsp_village_barmen_guitar_dialog_1">
+    <text>One of our boys likes to play at times. Can hear him from here - not sure who it is. A terrible player, to be honest, but let's keep that between us.</text>
+  </string>
+  <string id="nsp_village_barmen_guitar_dialog_2">
+    <text>Thanks.</text>
+  </string>
+  <string id="nsp_village_stalker_car_guitar_dialog_0">
+    <text>Sorry to interrupt, but do you know where I'd find a guitar around here?</text>
+  </string>
+  <string id="nsp_village_stalker_car_guitar_dialog_1">
+    <text>Huh? A guitar? Not my concern. Go ask the others.</text>
+  </string>
+  <string id="nsp_village_stalker_car_guitar_dialog_2">
+    <text>I mean, maybe someone likes playing around here. Know anything?</text>
+  </string>
+  <string id="nsp_village_stalker_car_guitar_dialog_3">
+    <text>Don't know, so I can't tell you. Don't waste my time.</text>
+  </string>
+  <string id="nsp_village_stalker_car_guitar_dialog_4">
+    <text>Bye.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_guitar_dialog_0">
+    <text>Stalker, you know if there's an extra guitar around here?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_guitar_dialog_1">
+    <text>Couldn't have asked at a better time! I just took it away from our local drunkard - guy was making a ruckus with his friend, and he doesn't even know how to play.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_guitar_dialog_2">
+    <text>Can I take it?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_guitar_dialog_3">
+    <text>Be my guest!</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_guitar_dialog_4">
+    <text>You don't have it with you? Where'd you put it?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_guitar_dialog_5">
+    <text>Easier if I mark it on your map. Here are your coordinates. Off you go.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_guitar_dialog_6">
+    <text>Thanks, man!</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_guitar_dialog_7">
+    <text>Save your thanks. I hope the instrument finds good hands now.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_guitar_dialog_8">
+    <text>Bye!</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_2_guitar_dialog_0">
+    <text>Someone play the guitar here? I need an instrument bad.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_2_guitar_dialog_1">
+    <text>Yeah, people play sometimes. Some people come, some people go, so I don't really know. Go see the people at our bar and maybe you'll find something.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_2_guitar_dialog_2">
+    <text>Thank you.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_3_guitar_dialog_0">
+    <text>Stalker, got an extra guitar laying around in the village?</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_3_guitar_dialog_1">
+    <text>We have one; our stalkers like playing it. I think we have several of them, even, so your chances aren't low. Can't tell you anything else.</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_3_guitar_dialog_2">
+    <text>That's good. I'll keep looking.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_village_dialog_2_phrase_0">
+    <text>Listen, don't suppose you have an extra guitar in the village?</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_village_dialog_2_phrase_1">
+    <text>Best you ask the folks at the bar about that.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_village_dialog_2_phrase_2">
+    <text>Got it. Thanks.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_1_guitar_dialog_0">
+    <text>Hey! Can I find a guitar anywhere around here?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_1_guitar_dialog_1">
+    <text>Hey, man. No, I haven't been here for long and don't plan to, so I'm not your guy.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_1_guitar_dialog_2">
+    <text>Okay. I'll ask the others.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_2_guitar_dialog_0">
+    <text>Stalker, know where I could find an extra guitar in the village?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_2_guitar_dialog_1">
+    <text>For sure! Someone was even talking recently that he found a guitar and planned on playing it. If he hasn't done it yet, you could try finding the instrument.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_2_guitar_dialog_2">
+    <text>I see. Well, thanks.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_3_guitar_dialog_0">
+    <text>Hey, any chance I could find a guitar in the village? Know if anyone here plays it?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_3_guitar_dialog_1">
+    <text>Well, I play it myself sometimes when my buddy gets here from the Cordon. He took it last time, though.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_3_guitar_dialog_2">
+    <text>Know if any of the locals play?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_3_guitar_dialog_3">
+    <text>One of them was playing it. Don't remember who - not a local myself. Go and ask around.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_3_guitar_dialog_4">
+    <text>Thanks.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_4_guitar_dialog_0">
+    <text>Got an extra guitar in the village, stalker?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_4_guitar_dialog_1">
+    <text>Off with you, fresh meat. I'm relaxing.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_4_guitar_dialog_2">
+    <text>Sure thing.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_5_guitar_dialog_0">
+    <text>Stalker, can I get my hands on a guitar here?</text>
+  </string>
+  <string id="nsp_village_bar_stalker_5_guitar_dialog_1">
+    <text>No idea. Go ask around on the street.</text>
+  </string>
+  <string id="nsp_village_bar_stalker_5_guitar_dialog_2">
+    <text>Bye.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_guitar_dialog_0">
+    <text>Hey, man. Know if anyone here has a guitar they don't need?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_guitar_dialog_1">
+    <text>Why would anyone give their guitar to you? Good luck finding a patron, hah!</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_guitar_dialog_2">
+    <text>Bye.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_2_guitar_dialog_0">
+    <text>Hey! Anywhere I can find a guitar in the vilage?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_2_guitar_dialog_1">
+    <text>What are you asking me for? Go ask the others.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_2_guitar_dialog_2">
+    <text>You're a tight-lipped one. Bye.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_3_guitar_dialog_0">
+    <text>Hey, stalker. Don't happen to know where there's a guitar around here?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_3_guitar_dialog_1">
+    <text>A guitar, huh? Go shove it up somewhere if you find it. I'm busy.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_3_guitar_dialog_2">
+    <text>Easy, easy. Won't bother you.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_4_guitar_dialog_0">
+    <text>Hey, can I find a guitar around here?</text>
+  </string>
+  <string id="nsp_village_camp_stalker_4_guitar_dialog_1">
+    <text>No, you can't. Go away.</text>
+  </string>
+  <string id="nsp_village_camp_stalker_4_guitar_dialog_2">
+    <text>Noted...</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_guitar_dialog_0">
+    <text>Man, you watch over the village like a bird. Help me out: where can I get a guitar here?</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_guitar_dialog_1">
+    <text>Hm, well... we do have a "musician" nearby. His name's Dimka Gozinak. He and his friend had a bit too much liquor and played so the whole village heard. There's a small-time trader close to them; try asking him. It ended when he took away the guitar from those drunk bastards.</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_guitar_dialog_2">
+    <text>Thanks for the tip.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_guitar_dialog_0">
+    <text>Hey, where can I find a guitar around here?</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_guitar_dialog_1">
+    <text>Ask the boys in the village. I don't know anything about that.</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_guitar_dialog_2">
+    <text>Got it.</text>
+  </string>
+  <string id="nsp_hunter_pot_monsters_dialog_0">
+    <text>Is anyone but you interested in stuffed monsters?</text>
+  </string>
+  <string id="nsp_hunter_pot_monsters_dialog_1">
+    <text>Some rich people like to put them in their mansion, and then boast to the same pompous guests that he himself was in the Chernobyl Zone, and with his own hands killed this dangerous beast! In short, for show. Well, this is just one example, of course. In fact, people buy them for different purposes. Some for aesthetics, some even for scientific purposes.</text>
+  </string>
+  <string id="nsp_hunter_pot_character_dialog_0">
+    <text>Tell us more about your group.</text>
+  </string>
+  <string id="nsp_hunter_pot_character_dialog_1">
+    <text>As you've probably realised by now, our main trade is hunting. From those monster carcasses that were not particularly damaged during the killing, we make stuffed animals. Sometimes we get orders for biological material from scientists. Meat to eat.</text>
+  </string>
+  <string id="nsp_hunter_pot_character_dialog_2">
+    <text>What, do you eat monster meat straight?</text>
+  </string>
+  <string id="nsp_hunter_pot_character_dialog_3">
+    <text>The boar meat here tastes just as good as the one on the Big Land. No one's died yet, at least. But we're not going to eat Burers, Cats, Isloms, and other things that have mutated inexplicably where and how, of course.</text>
+  </string>
+  <string id="nsp_hunter_pot_character_dialog_4">
+    <text>And the guys with you, who are they?</text>
+  </string>
+  <string id="nsp_hunter_pot_character_dialog_5">
+    <text>We met many of them back on the Big Land. We went hunting together, even though we lived in different regions. We gathered every summer in the taiga and allowed ourselves a whole month of free life in nature. And as soon as they learned about the Zone, their eyes lit up to try their hand in these parts. That's how we settled here. And Knyaz, who brought you here to me, is my oldest bro. We've known each other since we were students. We went to restoration college together. That's where the skills of making stuffed animals come from.</text>
+  </string>
+  <string id="nsp_hunter_opex_trade_dialog_0">
+    <text>I take it I can trade with you?</text>
+  </string>
+  <string id="nsp_hunter_opex_trade_dialog_1">
+    <text>You got that right. If you've got any monster parts, dump them out, I'll buy them. No one in the Zone will pay you more than us for it. But I'm telling you straight away: don't bring me any rotten stuff, guts and arseholes! But I see you're not a stupid guy, and you won't cut such things yourself.</text>
+  </string>
+  <string id="nsp_hunter_opex_character_dialog_0">
+    <text>Tell me about yourself.</text>
+  </string>
+  <string id="nsp_hunter_opex_character_dialog_1">
+    <text>Before the Zone, I lived in Astrakhan. He fished, salted fish, sold watermelons. Like a stereotypical, typical Astrakhan resident! And then when he learnt about the Zone, he immediately got the idea to visit it. My wife refused to understand it, so we had a fight with her... And fuck her, I'm happy here and I don't regret anything! I've got something better than my wife here, hah! Understand? You don't get it? All right, well.</text>
+  </string>
+  <string id="nsp_hunter_boss_character_dialog_0">
+    <text>Tell me about yourself.</text>
+  </string>
+  <string id="nsp_hunter_boss_character_dialog_1">
+    <text>If you're really that interested, sit down, I'll tell you. So, before I was in the Zone, I lived in Yelan City. You probably don't even know where that is, but fuck it. That's not the point. I loved hunting and fishing very much, but because of our modern laws, you can't do it to the fullest. All these licences, permits, commissions, inspections... Bureaucracy, in short! And when rumours about the Zone started spreading, I jumped into an UAZ truck with my men and came here! It's a hunter's paradise! So many wild places, lawlessness, complete freedom of choice, how and what to kill animals with! Don't look at me like that, I'm not a killer. They are monsters that must be exterminated to secure the outside world and at the same time, to enrich our pockets. So here we are: we arrived in the Zone, we decided not to linger on Cordon. We immediately set off to this area, because we knew that it was the most remote. The wild Chernobyl nature in its purest form! And, indeed, when we reached the place and set up camp, there was not a soul around! Stalker's foot had not yet set foot here. It was later that all sorts of artefact seekers, loners, bandits came here. That's how it is.</text>
+  </string>
+  <string id="nsp_hunter_chupa_character_dialog_0">
+    <text>What's wrong with you? You look worried!</text>
+  </string>
+  <string id="nsp_hunter_chupa_character_dialog_1">
+    <text>Look at them! Look at those faces! They may be dead, but they scare the hell out of me!</text>
+  </string>
+  <string id="nsp_hunter_chupa_character_dialog_2">
+    <text>Who?</text>
+  </string>
+  <string id="nsp_hunter_chupa_character_dialog_3">
+    <text>Who, who? Are you blind? There, the scarecrows in front of me!</text>
+  </string>
+  <string id="nsp_hunter_chupa_character_dialog_4">
+    <text>Stuffed animals, to hell with them...</text>
+  </string>
+  <string id="nsp_hunter_chupa_character_dialog_5">
+    <text>It's like they're alive. At night I've noticed them moving, even making sounds. It's like they're coming to life! There's something unclean going on here...</text>
+  </string>
+  <string id="nsp_hunter_chupa_character_dialog_6">
+    <text>I think you're just tired of living here. Why don't you go to the local bar in Novoshepelichi, take your mind off it for a day? You'll go wild in the woods thinking like that.</text>
+  </string>
+  <string id="nsp_hunter_chupa_character_dialog_7">
+    <text>I can't get out of here. I've got to keep an eye on these scarecrows and be on the lookout! They could come back to life at any moment!</text>
+  </string>
+  <string id="nsp_hunter_king_character_dialog_0">
+    <text>Tell me about yourself.</text>
+  </string>
+  <string id="nsp_hunter_king_character_dialog_1">
+    <text>This hunting camp you're in now is my and Gorshok's brainchild! But I didn't like hunting at all before... When I was still at school, I crossed paths with Gorshok, and he got me thoroughly hooked on it! At first we just went duck hunting as amateurs. Then we organised a local club. They called it the Office. And then almost the whole bunch came here. The men, though, got too involved. You can't do that. They sold their flats on the Big Land, divorced their wives. Some of them even forgot that they actually have children, parents... I try to go home once every two or three months. To see my family, to give them some money. But everyone has his own life. Whoever wants to do what he wants, let him do what he wants to do.</text>
+  </string>
+  <string id="nsp_hunter_slim_character_dialog_0">
+    <text>Tell me a little about yourself.</text>
+  </string>
+  <string id="nsp_hunter_slim_character_dialog_1">
+    <text>Go ask the guys. I'm not in the mood to talk today.</text>
+  </string>
+</string_table>

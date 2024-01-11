@@ -1,0 +1,594 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="Clear">
+    <text>Ясна</text>
+  </string>
+  <string id="Cloudy">
+    <text>Хмарна</text>
+  </string>
+  <string id="Default">
+    <text>СЕРЕДНІ</text>
+  </string>
+  <string id="Extreme">
+    <text>МАКСИМАЛЬНІ</text>
+  </string>
+  <string id="High">
+    <text>ВИСОКІ</text>
+  </string>
+  <string id="Low">
+    <text>НИЗЬКІ</text>
+  </string>
+  <string id="Minimum">
+    <text>МІНІМАЛЬНІ</text>
+  </string>
+  <string id="Night">
+    <text>Ніч</text>
+  </string>
+  <string id="Rain">
+    <text>Дощ</text>
+  </string>
+  <string id="game type">
+    <text>ТИП ГРИ</text>
+  </string>
+  <string id="gd_master">
+    <text>МАЙСТЕР</text>
+  </string>
+  <string id="gd_novice">
+    <text>НОВАЧОК</text>
+  </string>
+  <string id="gd_veteran">
+    <text>ВЕТЕРАН</text>
+  </string>
+  <string id="renderer_r1">
+    <text>DIRECTX 8</text>
+  </string>
+  <string id="renderer_r2">
+    <text>DIRECTX 9</text>
+  </string>
+  <string id="renderer_r2.5">
+    <text>DIRECTX 9+</text>
+  </string>
+  <string id="renderer_r3">
+    <text>DIRECTX 10</text>
+  </string>
+  <string id="st_opt_high">
+    <text>ВИСОКО</text>
+  </string>
+  <string id="st_opt_low">
+    <text>НИЗЬКО</text>
+  </string>
+  <string id="st_opt_medium">
+    <text>СЕРЕДНЬО</text>
+  </string>
+  <string id="st_opt_off">
+    <text>ВИМКНЕНО</text>
+  </string>
+  <string id="st_opt_windowed">
+    <text>У ВІКНІ</text>
+  </string>
+  <string id="st_opt_borderless">
+    <text>БЕЗ РАМКИ</text>
+  </string>
+  <string id="st_opt_fullscreen">
+    <text>ПОВНИЙ ЕКРАН</text>
+  </string>
+  <string id="ui_mm_60_hz">
+    <text>ЧАСТОТА 60 ГЦ</text>
+  </string>
+  <string id="ui_mm_r2_reflections">
+    <text>ВІДБИТТЯ У ВОДІ</text>
+  </string>
+  <string id="ui_mm_r2_wet_surface">
+    <text>КАЛЮЖІ</text>
+  </string>
+  <string id="ui_mm_r3_grass_interactive">
+    <text>ІНТЕРАКТИВНА РОСЛИННІСТЬ</text>
+  </string>
+  <string id="ui_mm_r3_new_rain_drops">
+    <text>НОВІ КРАПЛІ ДОЩУ</text>
+  </string>
+  <string id="ui_mm_action">
+    <text>ДІЯ</text>
+  </string>
+  <string id="ui_mm_advanced">
+    <text>РОЗШИРЕНІ</text>
+  </string>
+  <string id="ui_mm_alternative">
+    <text>АЛЬТЕРНАТИВНА</text>
+  </string>
+  <string id="ui_mm_anisotropic">
+    <text>ФІЛЬТРАЦІЯ ТЕКСТУР</text>
+  </string>
+  <string id="ui_mm_apply">
+    <text>ЗАСТОСУВАТИ</text>
+  </string>
+  <string id="ui_mm_back">
+    <text>НАЗАД</text>
+  </string>
+  <string id="ui_mm_blood">
+    <text>КРОВ</text>
+  </string>
+  <string id="ui_mm_brightness">
+    <text>ЯСКРАВІСТЬ</text>
+  </string>
+  <string id="ui_mm_cancel">
+    <text>СКАСУВАТИ</text>
+  </string>
+  <string id="ui_mm_contrast">
+    <text>КОНТРАСТ</text>
+  </string>
+  <string id="ui_mm_controls">
+    <text>КЕРУВАННЯ</text>
+  </string>
+  <string id="ui_mm_credits">
+    <text>ТВОРЦІ</text>
+  </string>
+  <string id="ui_mm_crosshair_distance">
+    <text>ВІДСТАНЬ ДО ЦІЛІ</text>
+  </string>
+  <string id="ui_mm_default">
+    <text>СТАНДАРТНО</text>
+  </string>
+  <string id="ui_mm_delete">
+    <text>ВИДАЛИТИ</text>
+  </string>
+  <string id="ui_mm_delete_existing_file_q">
+    <text>ВИДАЛИТИ ЗБЕРЕЖЕННЯ</text>
+  </string>
+  <string id="ui_mm_filling_save_list">
+    <text>ЗАВАНТАЖУЄТЬСЯ СПИСОК ЗБЕРЕЖЕНЬ...</text>
+  </string>
+  <string id="ui_mm_detail_density">
+    <text>ЩІЛЬНІСТЬ ТРАВИ</text>
+  </string>
+  <string id="ui_mm_difficulty">
+    <text>СКЛАДНІСТЬ</text>
+  </string>
+  <string id="ui_mm_dof">
+    <text>ГЛИБИНА РІЗКОСТІ</text>
+  </string>
+  <string id="ui_mm_vignette">
+    <text>ВІН'ЄТУВАННЯ</text>
+  </string>
+  <string id="ui_mm_vibrance">
+    <text>НАСИЧЕНІСТЬ</text>
+  </string>
+  <string id="ui_mm_vibrance_intensity">
+    <text>ІНТЕНСИВНІСТЬ НАСИЧЕННОСТІ</text>
+  </string>
+  <string id="ui_mm_dyn_crosshair">
+    <text>ДИНАМІЧНИЙ ПРИЦІЛ</text>
+  </string>
+  <string id="ui_mm_dynamic_music">
+    <text>ДИНАМІЧНА МУЗИКА</text>
+  </string>
+  <string id="ui_mm_eax">
+    <text>EAX</text>
+  </string>
+  <string id="ui_mm_streamer_mode">
+    <text>РЕЖИМ СТРIМЕРА</text>
+  </string>
+  <string id="ui_mm_monitor">
+    <text>МОНІТОР</text>
+  </string>
+  <string id="ui_mm_screenmode">
+    <text>ПОВНОЕКРАННИЙ РЕЖИМ</text>
+  </string>
+  <string id="ui_mm_gameplay">
+    <text>ГРА</text>
+  </string>
+  <string id="ui_mm_gamma">
+    <text>ГАМА</text>
+  </string>
+  <string id="ui_mm_geometry_lod">
+    <text>ДЕТАЛІЗАЦІЯ ОБ'ЄКТІВ</text>
+  </string>
+  <string id="ui_mm_invert_mouse">
+    <text>ІНВЕРТУВАТИ МИШУ</text>
+  </string>
+  <string id="ui_mm_key">
+    <text>КНОПКА</text>
+  </string>
+  <string id="ui_mm_keyboard_setup">
+    <text>НАЛАШТУВАННЯ КЛАВІАТУРИ</text>
+  </string>
+  <string id="ui_mm_last_save">
+    <text>ПРОДОВЖИТИ</text>
+  </string>
+  <string id="ui_mm_light_distance">
+    <text>ДАЛЬНІСТЬ ОСВІТЛЕННЯ</text>
+  </string>
+  <string id="ui_mm_load">
+    <text>ЗАВАНТАЖИТИ</text>
+  </string>
+  <string id="ui_mm_load_game_menu">
+    <text>ЗАВАНТАЖИТИ</text>
+  </string>
+  <string id="ui_mm_load_game_menu_caption">
+    <text>ЗАВАНТАЖИТИ ГРУ</text>
+  </string>
+  <string id="ui_mm_save_game_menu_caption">
+    <text>ЗБЕРЕГТИ ГРУ</text>
+  </string>
+  <string id="ui_mm_load_game">
+    <text>ЗАВАНТАЖИТИ</text>
+  </string>
+  <string id="ui_mm_master">
+    <text>МАЙСТЕР</text>
+  </string>
+  <string id="ui_mm_master_volume">
+    <text>ГУЧНІСТЬ ЕФЕКТІВ</text>
+  </string>
+  <string id="ui_mm_hud_weapon_volume">
+    <text>ГУЧНІСТЬ ЗБРОЇ ГОЛОВНОГО ГЕРОЯ</text>
+  </string>
+  <string id="ui_mm_mouse_sense">
+    <text>ЧУТЛИВІСТЬ МИШІ</text>
+  </string>
+  <string id="ui_mm_msaa_alphatest">
+    <text>ЗГЛАДЖУВАТИ А-ТЕСТОВІ ОБ'ЄКТИ</text>
+  </string>
+  <string id="ui_mm_msaa_opt">
+    <text>ОПТИМІЗУВАТИ ЗГЛАДЖУВАННЯ</text>
+  </string>
+  <string id="ui_mm_multiplayer">
+    <text>ГРА В МЕРЕЖІ</text>
+  </string>
+  <string id="ui_mm_music_volume">
+    <text>ГУЧНІСТЬ ФОНОВОЇ МУЗИКИ</text>
+  </string>
+  <string id="ui_mm_need_restart">
+    <text>ПОТРІБЕН ПЕРЕЗАПУСК ГРИ</text>
+  </string>
+  <string id="ui_mm_network_game">
+    <text>ГРА В МЕРЕЖІ</text>
+  </string>
+  <string id="ui_mm_play">
+    <text>ГРАТИ</text>
+  </string>
+  <string id="ui_mm_newgame">
+    <text>НОВА ГРА</text>
+  </string>
+  <string id="ui_mm_novice">
+    <text>НОВАЧОК</text>
+  </string>
+  <string id="ui_mm_npc_torch">
+    <text>СВІТЛО ЛІХТАРИКІВ НІП</text>
+  </string>
+  <string id="ui_mm_options">
+    <text>НАЛАШТУВАННЯ</text>
+  </string>
+  <string id="ui_mm_options_n">
+    <text>НАЛАШТУВАННЯ</text>
+  </string>
+  <string id="ui_mm_particles_distance">
+    <text>ДАЛЬНІСТЬ ЧАСТОЧОК</text>
+  </string>
+  <string id="ui_mm_quality_presets">
+    <text>ЗАГОТОВКИ ЯКОСТІ</text>
+  </string>
+  <string id="ui_mm_quit2windows">
+    <text>ВИХІД</text>
+  </string>
+  <string id="ui_mm_quit_game">
+    <text>У МЕНЮ</text>
+  </string>
+  <string id="ui_mm_quit_game_message">
+    <text>ВИЙТИ В МЕНЮ</text>
+  </string>
+  <string id="ui_mm_quit_windows_message">
+    <text>ВИЙТИ З ГРИ</text>
+  </string>
+  <string id="ui_mm_r2_detail_bump">
+    <text>ДЕТАЛЬНИЙ РЕЛЬЄФ</text>
+  </string>
+  <string id="ui_mm_r2_steep_parallax">
+    <text>ПАРАЛАКС-НАКЛАДАННЯ</text>
+  </string>
+  <string id="ui_mm_r2_sun">
+    <text>ТІНЬ ВІД СОНЦЯ</text>
+  </string>
+  <string id="ui_mm_r2_sun_details">
+    <text>ТІНЬ ТРАВИ</text>
+  </string>
+  <string id="ui_mm_r2_sun_quality">
+    <text>ЯКІСТЬ ТІНЕЙ ВІД СОНЦЯ</text>
+  </string>
+  <string id="ui_mm_r3_DX10_1">
+    <text>ВИКОРИСТОВУВАТИ DIRECTX 10.1</text>
+  </string>
+  <string id="ui_mm_r3_MSAA">
+    <text>ПОВНОЕКРАННЕ ЗГЛАДЖУВАННЯ</text>
+  </string>
+  <string id="ui_mm_r3_dynamic_wet_surfaces">
+    <text>НАМОКАННЯ ПОВЕРХНІ</text>
+  </string>
+  <string id="ui_mm_r3_gbuffer_opt">
+    <text>ОПТИМІЗУВАТИ БУФЕР ГЕОМЕТРІЇ</text>
+  </string>
+  <string id="ui_mm_r3_volumetric_smoke">
+    <text>ОБ'ЄМНИЙ ДИМ</text>
+  </string>
+  <string id="ui_mm_render_2">
+    <text>РЕНДЕРЕР-2</text>
+  </string>
+  <string id="ui_mm_renderer">
+    <text>ТИП РЕНДЕРЕРА</text>
+  </string>
+  <string id="ui_mm_resolution">
+    <text>РОЗДІЛЬНА ЗДАТНІСТЬ</text>
+  </string>
+  <string id="ui_mm_return_game">
+    <text>ПРОДОВЖИТИ</text>
+  </string>
+  <string id="ui_mm_save">
+    <text>ЗБЕРЕГТИ</text>
+  </string>
+  <string id="ui_mm_save_game">
+    <text>ЗБЕРЕГТИ</text>
+  </string>
+  <string id="ui_mm_save_game_menu">
+    <text>ЗБЕРЕГТИ</text>
+  </string>
+  <string id="ui_mm_show_crosshair">
+    <text>ПОКАЗУВАТИ ПРИЦІЛ</text>
+  </string>
+  <string id="ui_mm_crosshair_build">
+    <text>ПРИЦІЛ-КРАПКА</text>
+  </string>
+  <string id="ui_mm_fov_val">
+    <text>КУТ ОГЛЯДУ</text>
+  </string>
+  <string id="ui_mm_show_weapon">
+    <text>ПОКАЗУВАТИ ЗБРОЮ</text>
+  </string>
+  <string id="ui_mm_simply">
+    <text>БАЗОВІ</text>
+  </string>
+  <string id="ui_mm_snd_device">
+    <text>ЗВУКОВИЙ ПРИСТРІЙ</text>
+  </string>
+  <string id="ui_mm_soft_particles">
+    <text>М'ЯКІ ЧАСТОЧКИ</text>
+  </string>
+  <string id="ui_mm_soft_water">
+    <text>М'ЯКА ВОДА</text>
+  </string>
+  <string id="ui_mm_sound">
+    <text>ЗВУК</text>
+  </string>
+  <string id="ui_mm_sound_quality">
+    <text>ЯКІСТЬ ЗВУКУ</text>
+  </string>
+  <string id="ui_mm_stalker">
+    <text>СТАЛКЕР</text>
+  </string>
+  <string id="ui_mm_sun_quality">
+    <text>ЯКІСТЬ ТІНЕЙ</text>
+  </string>
+  <string id="ui_mm_particles_opt">
+    <text>ОПТИМІЗАЦІЯ ЧАСТОЧОК</text>
+  </string>
+  <string id="ui_mm_particles_distance">
+    <text>ДАЛЬНІСТЬ ПОКАЗУ ЧАСТОЧОК</text>
+  </string>
+  <string id="ui_mm_sun_shafts">
+    <text>СОНЯЧНІ ПРОМЕНІ</text>
+  </string>
+  <string id="ui_mm_r3_msaa">
+    <text>ЗГЛАДЖУВАННЯ MSAA</text>
+  </string>
+  <string id="ui_mm_supersample">
+    <text>ЗГЛАДЖУВАННЯ</text>
+  </string>
+  <string id="ui_mm_switch_torch">
+    <text>ВИКОРИСТАННЯ ЛІХТАРИКІВ ШІ</text>
+  </string>
+  <string id="ui_mm_texture_quality">
+    <text>ЯКІСТЬ ТЕКСТУР</text>
+  </string>
+  <string id="ui_mm_tips">
+    <text>РОЗПІЗНАВАННЯ НІП</text>
+  </string>
+  <string id="ui_mm_wpn_auto_reload">
+    <text>АВТОМАТИЧНЕ ПЕРЕЗАРЯДЖЕННЯ</text>
+  </string>
+  <string id="ui_mm_veteran">
+    <text>ВЕТЕРАН</text>
+  </string>
+  <string id="ui_mm_video">
+    <text>ВІДЕО</text>
+  </string>
+  <string id="ui_mm_vis_distance">
+    <text>ДАЛЬНІСТЬ ВИДИМОСТІ</text>
+  </string>
+  <string id="ui_mm_volumetric_light">
+    <text>ОБ'ЄМНЕ СВІТЛО</text>
+  </string>
+  <string id="ui_mm_vsync">
+    <text>ВЕРТИКАЛЬНА СИНХРОНІЗАЦІЯ</text>
+  </string>
+  <string id="ui_st_invalid_saved_game">
+    <text>НЕВІДПОВІДНІСТЬ ВЕРСІЙ</text>
+  </string>
+  <string id="ui_st_invalid_saved_file_name">
+    <text>НЕПРИПУСТИМІ СИМВОЛИ В НАЗВІ ФАЙЛУ</text>
+  </string>
+  <string id="ui_st_reset">
+    <text>Типово</text>
+  </string>
+  <string id="ui_st_sell_all">
+    <text>Продати все</text>
+  </string>
+  <string id="version">
+    <text>Версія</text>
+  </string>
+  <string id="ui_mm_crouch_toggle">
+    <text>ПЕРЕМИКАЧ ПРИСІДАННЯ</text>
+  </string>
+  <string id="ui_mm_sprint_toggle">
+    <text>ПЕРЕМИКАЧ БІГУ</text>
+  </string>
+  <string id="ui_mm_aim_toggle">
+    <text>ПЕРЕМИКАЧ ПРИЦІЛЮВАННЯ</text>
+  </string>
+  <string id="ui_mm_active_task_toggle">
+    <text>ПЕРЕМИКАЧ АКТИВНОГО ЗАВДАННЯ</text>
+  </string>
+  <string id="ui_mm_important_save">
+    <text>АВТОЗБЕРЕЖЕННЯ</text>
+  </string>
+  <string id="ui_mm_r1_detail_textures">
+    <text>ДЕТАЛЬНІ ТЕКСТУРИ</text>
+  </string>
+  <string id="ui_mm_ssao_quality">
+    <text>ЯКІСТЬ ЗАТІНЕННЯ ОТОЧЕННЯ</text>
+  </string>
+  <string id="ui_mm_ssao_text">
+    <text>РЕЖИМ ЗАТІНЕННЯ ОТОЧЕННЯ</text>
+  </string>
+  <string id="st_opt_default">
+    <text>SSAO (ТИПОВО)</text>
+  </string>
+  <string id="st_opt_hdao">
+    <text>HDAO (AMD)</text>
+  </string>
+  <string id="st_opt_hbao">
+    <text>HBAO (NVIDIA)</text>
+  </string>
+  <string id="ui_st_disable_hud">
+    <text>ПОКАЗУВАТИ ІНТЕРФЕЙС</text>
+  </string>
+  <string id="gd_stalker">
+    <text>СТАЛКЕР</text>
+  </string>
+  <string id="st_opt_extreme">
+    <text>МАКСИМАЛЬНІ</text>
+  </string>
+  <string id="renderer_r4">
+    <text>DIRECTX 11</text>
+  </string>
+  <string id="st_opt_ultra">
+    <text>ДУЖЕ ВИСОКІ</text>
+  </string>
+  <string id="ui_mm_r4_enable_tessellation">
+    <text>ТЕСЕЛЯЦІЯ</text>
+  </string>
+  <string id="ui_mm_confirm_changes">
+    <text>ЗАСТОСУВАТИ ЗМІНИ</text>
+  </string>
+  <string id="ui_mm_actor_shadow">
+    <text>ТІНЬ ГРАВЦЯ</text>
+  </string>
+  <string id="ui_mm_bloodmarks">
+    <text>СЛІДИ КРОВІ НА ОБ'ЄКТАХ</text>
+  </string>
+  <string id="ui_mm_sun_details">
+    <text>ТІНЬ ТРАВИ</text>
+  </string>
+  <string id="ui_mm_keypress_on_start">
+    <text>ПАУЗА ПІСЛЯ ЗАВАНТАЖЕННЯ</text>
+  </string>
+  <string id="ui_mm_subtitles">
+    <text>СУБТИТРИ</text>
+  </string>
+  <string id="ui_mm_subtitles_slow">
+    <text>ПЛАВНІ СУБТИТРИ</text>
+  </string>
+  <string id="ui_mm_subtitles_font">
+    <text>РОЗМІР СУБТИТРІВ</text>
+  </string>
+  <string id="ui_mm_talk_font">
+    <text>РОЗМІР ТЕКСТА ДІАЛОГІВ</text>
+  </string>
+  <string id="st_opt_subtitles_font_small">
+    <text>ДРІБНИЙ</text>
+  </string>
+  <string id="st_opt_subtitles_font_medium">
+    <text>СЕРЕДНІЙ</text>
+  </string>
+  <string id="st_opt_subtitles_font_large">
+    <text>ВЕЛИКИЙ</text>
+  </string>
+  <string id="ui_st_want_to_leave_game">
+    <text>ВИЙТИ В МЕНЮ</text>
+  </string>
+  <string id="st_btn_yes">
+    <text>ТАК</text>
+  </string>
+  <string id="st_btn_not">
+    <text>НІ</text>
+  </string>
+  <string id="st_btn_ok">
+    <text>ОК</text>
+  </string>
+  <string id="st_btn_return">
+    <text>ПОВЕРНУТИСЯ</text>
+  </string>
+  <string id="ui_st_load_game_warning">
+    <text>ВИ ВТРАТИТЕ НЕЗБЕРЕЖЕНІ ДАНІ</text>
+  </string>
+  <string id="ui_st_save_file_name_is_empty">
+    <text>ВИ НЕ ВКАЗАЛИ НАЗВУ</text>
+  </string>
+  <string id="ui_st_save_file_exist_owerwrite">
+    <text>ТАКА НАЗВА ВЖЕ ІСНУЄ</text>
+  </string>
+  <string id="st_btn_overwrite">
+    <text>ПЕРЕЗАПИСАТИ</text>
+  </string>
+  <string id="ui_st_save_save_name_exist">
+    <text>ЦЕ ІМ'Я ВЖЕ ВИКОРИСТОВУЄТЬСЯ</text>
+  </string>
+  <string id="st_btn_save_more">
+    <text>ЗРОБИТИ ЩЕ</text>
+  </string>
+  <string id="ui_st_mm_error">
+    <text>ПОМИЛКА</text>
+  </string>
+  <string id="st_mm_lock_save">
+    <text>ЗАРАЗ НЕМОЖЛИВО ЗБЕРЕГТИ ГРУ</text>
+  </string>
+  <string id="ui_st_off">
+    <text>ВИМК</text>
+  </string>
+  <string id="ui_st_on">
+    <text>УВІМК</text>
+  </string>
+  <string id="ui_st_press">
+    <text>НАТИСНУТИ</text>
+  </string>
+  <string id="ui_st_hold">
+    <text>ТРИМАТИ</text>
+  </string>
+  <string id="mouse1">
+    <text>ЛКМ</text>
+  </string>
+  <string id="mouse2">
+    <text>ПКМ</text>
+  </string>
+  <string id="ui_mm_hud_strafes">
+    <text>ІНЕРЦІЯ ЗБРОЇ</text>
+  </string>
+  <string id="ui_mm_hud_bobbing">
+    <text>РОЗХИТУВАННЯ ЗБРОЇ</text>
+  </string>
+  <string id="ui_mm_hud_collision">
+    <text>ЗМІЩЕННЯ ІНТЕРФЕЙСУ</text>
+  </string>
+  <string id="ui_mm_multi_item_pickup">
+    <text>МУЛЬТИПІДБИРАННЯ РЕЧЕЙ</text>
+  </string>
+  <string id="ui_mm_slow_crouch">
+    <text>ПЛАВНЕ ПРИСІДАННЯ</text>
+  </string>
+  <string id="ui_mm_reload_dof">
+    <text>РОЗМИТТЯ ПІД ЧАС ПЕРЕЗАРЯДКИ</text>
+  </string>
+  <string id="ui_mm_show_actor_helmet">
+    <text>ВІДОБРАЖЕННЯ ШОЛОМА НА ГОЛОВНОМУ ГЕРОЇ</text>
+  </string>
+  <string id="st_mm_cant_find_saves">
+    <text>ЗБЕРЕЖЕНЬ НЕ ЗНАЙДЕНО</text>
+  </string>
+</string_table>

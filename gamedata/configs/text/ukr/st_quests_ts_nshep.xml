@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="nsp_scientific_job_place_scanners">
+    <text>АНОМАЛЬНА АКТИВНІСТЬ</text>
+  </string>
+  <string id="nsp_scientific_job_place_scanners_name">
+    <text>Встановити п'ять сканерів у вказаних місцях</text>
+  </string>
+  <string id="nsp_scientific_job_place_scanners_text">
+    <text>Перш ніж я розпочну трансмутацію, потрібно знайти найпотужнішу аномальну зону. Для цього треба встановити сканери у вказаних точках.</text>
+  </string>
+  <string id="nsp_scientific_job_full">
+    <text>ТРАНСМУТАЦІЯ</text>
+  </string>
+  <string id="nsp_scientific_job_full_place_artefacts_name">
+    <text>Виконати трансмутацію</text>
+  </string>
+  <string id="nsp_scientific_job_full_place_artefacts_text">
+    <text>Все необхідне для трансмутації артефакту я маю. Час варити!</text>
+  </string>
+  <string id="nsp_scientific_job_full_wait_process_name">
+    <text>Дочекатися закінчення процесу</text>
+  </string>
+  <string id="nsp_scientific_job_full_wait_process_text">
+    <text>Здається, трансмутація почалась. Тепер треба трохи зачекати.</text>
+  </string>
+  <string id="nsp_scientific_job_full_take_artefact_name">
+    <text>Забирати артефакт</text>
+  </string>
+  <string id="nsp_scientific_job_full_take_artefact_text">
+    <text>Там щось з'явилось. Схоже, трансмутація вдалась.</text>
+  </string>
+  <string id="nsp_scientific_job_full_go_agroprom_name">
+    <text>Віддати трансмутат Дубініну</text>
+  </string>
+  <string id="nsp_scientific_job_full_go_agroprom_text">
+    <text>Схоже, вдалося. Час повернутись на «Агропром» і отримати заслужену винагороду.</text>
+  </string>
+  <string id="nsp_scientific_job_find_artefact">
+    <text>НЕЗВИЧАЙНИЙ АРТЕФАКТ</text>
+  </string>
+  <string id="nsp_scientific_job_find_artefact_name">
+    <text>Знайти «Змінений ізолятор» на воєнній базі</text>
+  </string>
+  <string id="nsp_scientific_job_find_artefact_text">
+    <text>Для успішної трансмутації потрібно відшукати унікальний артефакт «Змінений ізолятор». Він має бути десь в районі закинутої воєнної бази.</text>
+  </string>
+  <string id="nsp_scientific_job_generators">
+    <text>ГЕНЕРАТОРИ</text>
+  </string>
+  <string id="nsp_scientific_job_generators_start_name">
+    <text>Знайти спосіб вимкнути струм</text>
+  </string>
+  <string id="nsp_scientific_job_generators_start_text">
+    <text>Генератори виявились робочими. Що підтримує їхню роботу  -  незрозуміло. Потрібно знайти спосіб потрапити до кімнати керування, де й має бути артефакт, але як вимкнути струм? Варто все уважно оглянути. Йти напролом  -  не варіант.</text>
+  </string>
+  <string id="nsp_mysterious_death">
+    <text>ТАЄМНИЧА СМЕРТЬ</text>
+  </string>
+  <string id="nsp_mysterious_death_check_corpse_name">
+    <text>Оглянути труп сталкера</text>
+  </string>
+  <string id="nsp_mysterious_death_check_corpse_text">
+    <text>Прямо перед моїми очима згори впав мертвий невідомий сталкер. Огляну тіло. Може, вдасться щось знайти.</text>
+  </string>
+  <string id="nsp_mysterious_death_go_village_name">
+    <text>Опитати місцевих про мертвого сталкера</text>
+  </string>
+  <string id="nsp_mysterious_death_go_village_text">
+    <text>Перед смертю сталкер на прізвисько Шуліка залишив записку, у якій розказав про якесь переслідування. Варто розпитати місцевих, що працюють у селі, про цього сталкера. Завітаю до їхнього лідера.</text>
+  </string>
+  <string id="nsp_mysterious_death_check_home_name">
+    <text>Оглянути місце самогубства Тхора</text>
+  </string>
+  <string id="nsp_mysterious_death_check_home_text">
+    <text>Юстас розказав, що Шуліка був не єдиним, хто вирішив звести рахунки з життям. Такий собі сталкер з кличкою Тхір застрелився в одному з будинків пів року тому. Треба оглянути місце смерті, раптом вдасться щось відшукати.</text>
+  </string>
+  <string id="nsp_mysterious_death_check_home_letter_end_name">
+    <text>Показати записку Юстасу</text>
+  </string>
+  <string id="nsp_mysterious_death_check_home_letter_end_text">
+    <text>У будинку, де застрелився Тхір, вдалось знайти його записку. Варто показати її Юстасу.</text>
+  </string>
+  <string id="nsp_mysterious_death_speak_with_stalkers_name">
+    <text>Опитати місцевих сталкерів</text>
+  </string>
+  <string id="nsp_mysterious_death_speak_with_stalkers_text">
+    <text>На місці самогубства Тхора я знайшов записку, але питань стало ще більше. Хто переслідує сталкерів перед смертю? Спробую розпитати місцевих, може, вдасться щось дізнатись. Тим часом Юстас вирушив до майстрів, на яких працював загиблий Шуліка. Вони можуть надати інформацію.</text>
+  </string>
+  <string id="nsp_mysterious_death_speak_suicide_stalker_informator_name">
+    <text>Знайти Зармута і поговорити про Тхора</text>
+  </string>
+  <string id="nsp_mysterious_death_speak_suicide_stalker_informator_text">
+    <text>Молодий сталкер на прізвисько Зармут може щось знати про смерть Тхора. Треба відшукати його неподалік від табору біля якоїсь закинутої халупи.</text>
+  </string>
+  <string id="nsp_mysterious_death_speak_leader_suicide_name">
+    <text>Повернутися до Юстаса</text>
+  </string>
+  <string id="nsp_mysterious_death_speak_leader_suicide_text">
+    <text>Здається, це глухий кут. Я не дізнався практично нічого нового. Треба поговорити з Юстасом. Він вже, мабуть, повернувся від майстрів і міг щось в них дізнатись.</text>
+  </string>
+  <string id="nsp_mysterious_death_take_leader_letter_name">
+    <text>Прочитати передсмертну записку Юстаса</text>
+  </string>
+  <string id="nsp_mysterious_death_take_leader_letter_text">
+    <text>Юстас мертвий. Поруч з тілом є записка.</text>
+  </string>
+  <string id="nsp_mysterious_death_relax_leader_suicide_name">
+    <text>Обговорити те, що сталося</text>
+  </string>
+  <string id="nsp_mysterious_death_relax_leader_suicide_text">
+    <text>Оце ж чортівня! Як це взагалі відбувається? Треба обговорити зі сталкерами, що робити далі.</text>
+  </string>
+  <string id="nsp_mysterious_death_speak_masters_name">
+    <text>Запитати у сталкерів-майстрів про Юстаса</text>
+  </string>
+  <string id="nsp_mysterious_death_speak_masters_text">
+    <text>Одним з останніх, хто бачив загиблих сталкерів живими, були досвідчені сталкери біля мосту. Увечері треба сходити на розвідку і розібратися, що робити далі.</text>
+  </string>
+  <string id="nsp_mysterious_death_run_away_name">
+    <text>Втекти</text>
+  </string>
+  <string id="nsp_mysterious_death_run_away_text">
+    <text>...</text>
+  </string>
+  <string id="nsp_mysterious_death_suicide_actor_name">
+    <text>Зістрибнути з мосту</text>
+  </string>
+  <string id="nsp_mysterious_death_suicide_actor_text">
+    <text>Я більше не бачу іншого виходу. Це чорні тіні. Вони в мені. Якщо я не вб'ю себе, то не вб'ю їх.</text>
+  </string>
+  <string id="nsp_mysterious_death_search_killer_name">
+    <text>Знайти вбивцю сталкерів</text>
+  </string>
+  <string id="nsp_mysterious_death_search_killer_text">
+    <text>Той, хто вбив сталкерів і навів прокляття на все село, пропах машинним мастилом. Що це могло б бути? Відправлюсь до села, розвідаю.</text>
+  </string>
+  <string id="nsp_mysterious_death_deliver_killer_name">
+    <text>Привести Панкрата до берега</text>
+  </string>
+  <string id="nsp_mysterious_death_deliver_killer_text">
+    <text>Панкрат клюнув на мою приманку. Лишилось тільки довести його до мосту, де, сподіваюсь, все й завершиться.</text>
+  </string>
+  <string id="nsp_mysterious_death_final_name">
+    <text>Поховати п'ятьох сталкерів</text>
+  </string>
+  <string id="nsp_mysterious_death_final_text">
+    <text>П'ятеро сталкерів загинули заради чиєїсь наживи. Один з них був Назгул, який якимось чином зміг допомогти мені розплутати цю справу. Тепер, сподіваюсь, на них чекає вічний спокій, а табір сталкерів більше не буде переслідувати прокляття.</text>
+  </string>
+  <string id="nsp_masters_flashback_task">
+    <text>ЛЕГКА НАЖИВА</text>
+  </string>
+  <string id="nsp_masters_flashback_task_task_kill_stalkers_name">
+    <text>Позбутися сплячих сталкерів</text>
+  </string>
+  <string id="nsp_masters_flashback_task_task_kill_stalkers_text">
+    <text>Про всяк випадок треба позбутися цих сталкерів.</text>
+  </string>
+  <string id="nsp_masters_flashback_task_task_take_items_name">
+    <text>Забрати хабар</text>
+  </string>
+  <string id="nsp_masters_flashback_task_task_take_items_text">
+    <text>А от і рюкзачок з припасами...</text>
+  </string>
+  <string id="nsp_masters_flashback_task_task_speak_stalker_car_help_name">
+    <text>Поговорити з відмичкою</text>
+  </string>
+  <string id="nsp_masters_flashback_task_task_speak_stalker_car_help_text">
+    <text>Час розв'язувати питання з відмичкою.</text>
+  </string>
+  <string id="nsp_village_gain_confidence">
+    <text>СКАНЕР У СЕЛІ</text>
+  </string>
+  <string id="nsp_village_gain_confidence_start_name">
+    <text>Отримати довіру сталкерів</text>
+  </string>
+  <string id="nsp_village_gain_confidence_start_text">
+    <text>Місцеві сталкери не радіють, що незнайомець ставить у їхньому таборі невідоме обладнання. Спершу треба заручитися їхньою довірою. Можливо, розв'язавши їхні проблеми, я зможу цього досягнути.</text>
+  </string>
+  <string id="nsp_village_gain_confidence_place_scaner_name">
+    <text>Спробувати встановити сканер</text>
+  </string>
+  <string id="nsp_village_gain_confidence_place_scaner_text">
+    <text>Здається, я зробив все, щоб сталкери ставилися до мене як до свого. Сподіваюсь, тепер вдасться встановити сканер у селі.</text>
+  </string>
+  <string id="nsp_suicide_stalker_treasure_task">
+    <text>ХАБАР ШУЛІКИ</text>
+  </string>
+  <string id="nsp_suicide_stalker_treasure_task_start_name">
+    <text>Оглянути місце</text>
+  </string>
+  <string id="nsp_suicide_stalker_treasure_task_start_text">
+    <text>Мені стало відомо, де Шуліка зберігав хабар. Можливо, там я зможу знайти щось цікаве.</text>
+  </string>
+  <string id="nsp_polter_scaner_task">
+    <text>ПОЛТЕРГЕЙСТ</text>
+  </string>
+  <string id="nsp_polter_scaner_task_start_name">
+    <text>Зрозуміти, що пов'язує незвичайного мутанта із зупинкою</text>
+  </string>
+  <string id="nsp_polter_scaner_task_start_text">
+    <text>Незвичайний полтергейст літає біля зупинки й не збирається йти. Може, це його лігво? Тоді чому він не атакує? Дивно це все... Треба все оглянути. Встановлювати сканер у лігві, мабуть, не найкраща ідея. Треба якось позбутися цієї нечисті.</text>
+  </string>
+  <string id="nsp_polter_scaner_task_search_items_name">
+    <text>Знайти речі воєнного</text>
+  </string>
+  <string id="nsp_polter_scaner_task_search_items_text">
+    <text>Судячи з усього, летюча сутність на зупинці  -  полтергейст, на якого перетворився один військовий з бази неподалік. У його записах відзначене місце, де він зберігав свої речі. Варто сходити туди й спробувати щось дізнатись.</text>
+  </string>
+  <string id="nsp_polter_scaner_task_follow_polter_name">
+    <text>Слідувати за істотою</text>
+  </string>
+  <string id="nsp_polter_scaner_task_follow_polter_text">
+    <text>Цей дивний полтергейст вирішив перебратися сюди. Як на мене, він явно не налаштований вороже і намагається щось мені сказати. Може, варто за ним піти?</text>
+  </string>
+  <string id="nsp_polter_scaner_task_take_reward_name">
+    <text>Взяти винагороду</text>
+  </string>
+  <string id="nsp_polter_scaner_task_take_reward_text">
+    <text>Це що, нагорода за речі військового? Як же це все моторошно й незрозуміло...</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner">
+    <text>ПОЛЮВАННЯ</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_start_speak_name">
+    <text>Поговорити із Захаром</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_start_speak_text">
+    <text>Лідер місцевих мисливців забрав перевірити мій сканер. Доки я чекаю, згодився вирушити на полювання. Горщик сказав, що на цьому можна заробити добрі гроші. Чом би й не спробувати?</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_wait_night_name">
+    <text>Перечекати ніч</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_wait_night_text">
+    <text>Захар говорить, вночі у лісі небезпечно. Варто перечекати, а вже після рушати на полювання.</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_search_shotgun_name">
+    <text>Роздобути дробовик</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_search_shotgun_text">
+    <text>Захар вимагає, щоб у мене був дробовик. З його слів, на воєнній базі могли лишитися якісь зразки зброї. Варто покопатись там. Напевне, щось знайду.</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_start_hunt_name">
+    <text>Вирушити з Захаром на полювання</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_start_hunt_text">
+    <text>Вирушаю разом з Захаром на полювання. Справа нескладна: постріляти й прикрити раптом що.</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_kill_monsters_name">
+    <text>Знищити чудовиськ</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_kill_monsters_text">
+    <text>Потрібно допомогти Захару перестріляти мутантів.</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_help_boss_name">
+    <text>Допомогти Захару</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_help_boss_text">
+    <text>...</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_take_scanner_name">
+    <text>Забрати сканер</text>
+  </string>
+  <string id="nsp_hunter_retrieve_scanner_take_scanner_text">
+    <text>...</text>
+  </string>
+  <string id="nsp_brawl_task">
+    <text>БІЙКА</text>
+  </string>
+  <string id="nsp_brawl_task_start_name">
+    <text>Сховатись від невідомих</text>
+  </string>
+  <string id="nsp_brawl_task_start_text">
+    <text>На місці зустрічі з експедицією вчених на мене чекала засідка. Що це все означає?</text>
+  </string>
+  <string id="nsp_brawl_task_hide_in_village_name">
+    <text>Сховатись в селі</text>
+  </string>
+  <string id="nsp_brawl_task_hide_in_village_text">
+    <text>Не думаю, що варто довіряти невідомим, адже ще кілька хвилин тому вони відкрили по мені вогонь. Єдине безпечне місце в околиці  -  табір сталкерів у закинутому селі. Якими б крутими ці хлопці не були, туди вони не ризикнуть сунутись.</text>
+  </string>
+  <string id="nsp_brawl_task_hide_artefact_name">
+    <text>Закопати трансмутат</text>
+  </string>
+  <string id="nsp_brawl_task_hide_artefact_text">
+    <text>Коїться щось дивне. Мені потрібно позбутися артефакту. Думаю, варто закопати його у руїнах тунелю: там є де розгулятись. Звідти ж й посуну на Кордон.</text>
+  </string>
+  <string id="nsp_brawl_task_leave_the_territory_name">
+    <text>Покинути Новошепеличі</text>
+  </string>
+  <string id="nsp_brawl_task_leave_the_territory_text">
+    <text>Тепер мені час йти. Ще треба зв'язатись з Юрком. Потрібно покинути Зону.</text>
+  </string>
+  <string id="nsp_brawl_task_speak_jurok_name">
+    <text>Поговорити з Юрком</text>
+  </string>
+  <string id="nsp_brawl_task_speak_jurok_text">
+    <text>Я збираюсь покинути Зону. Потрібно наостанок побачитись з Юрком і розповісти йому про все.</text>
+  </string>
+  <string id="nsp_general_boar_task">
+    <text>ГЕНЕРАЛ ШТОК</text>
+  </string>
+  <string id="nsp_general_boar_task_go_last_meeting_place_name">
+    <text>Повернутись на галявину</text>
+  </string>
+  <string id="nsp_general_boar_task_go_last_meeting_place_text">
+    <text>Потрібно повернутись на галявину, де ми останнього разу зустріли Генерала. Ми з Захаром його непогано поранили. Може, вдасться знайти якісь сліди.</text>
+  </string>
+  <string id="nsp_general_boar_task_following_bloody_drops_name">
+    <text>Пройти за кривавими слідами</text>
+  </string>
+  <string id="nsp_general_boar_task_following_bloody_drops_text">
+    <text>Захар поранив кабана. Треба спробувати пройти за кривавими слідами, які виведуть мене до його лігва.</text>
+  </string>
+  <string id="nsp_general_boar_task_check_boar_home_name">
+    <text>Оглянути нору</text>
+  </string>
+  <string id="nsp_general_boar_task_check_boar_home_text">
+    <text>Здається, тут і живе генерал Шток. Треба дослідити лігво й завершити з мутантом, доки він поранений.</text>
+  </string>
+  <string id="nsp_general_boar_task_kill_boar_name">
+    <text>Вбити чудовисько</text>
+  </string>
+  <string id="nsp_general_boar_task_kill_boar_text">
+    <text>Я знайшов велетенського кабана. Залишилось лише з ним покінчити.</text>
+  </string>
+  <string id="nsp_general_boar_task_search_corp_name">
+    <text>Обшукати труп мисливця</text>
+  </string>
+  <string id="nsp_general_boar_task_search_corp_text">
+    <text>Я знайшов у печері тіло одного зі зниклих мисливців. Треба його оглянути.</text>
+  </string>
+  <string id="nsp_general_boar_task_hunter_pot_go_reward_name">
+    <text>Доповісти Горщику про події</text>
+  </string>
+  <string id="nsp_general_boar_task_hunter_pot_go_reward_text">
+    <text>Мені вдалось вбити Генерала Штока. Розкажу про все Горщику.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task">
+    <text>МУЗИКАНТ З НОВОШИПІЛИЧІВ</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_start_talk_name">
+    <text>Дізнатись у сталкера, чому йому не вдається грати</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_start_talk_text">
+    <text>Набрів на невеличкий привал сталкерів. Один з них жахливо грає на гітарі. Гріх не пожартувати щодо цього.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_find_item_name">
+    <text>Роздобути гітару для Юрця</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_find_item_text">
+    <text>Пообіцяв сталкеру відшукати нову гітару. Ймовірно, у селі Новошипіличі буде щось підхоже. Варто розпитати мешканців села про це.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_take_reward_name">
+    <text>Віддати гітару Юрчику</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_take_reward_text">
+    <text>Вдалось роздобути принаймні цілий інструмент. Сподіваюсь, це те, що треба сталкеру.</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_search_stalker_name">
+    <text>Віднести знайдену гітару Юрчику</text>
+  </string>
+  <string id="nsp_musician_stalker_guitar_task_search_stalker_text">
+    <text>Не так давно зустрів бідолаху-музиканта з розбитою гітарою. Гадаю, моя знахідка буде дуже доречною для нього. Не пропадати ж добру.</text>
+  </string>
+  <string id="nsp_freedom_meet_task">
+    <text>ЗАГІН «СВОБОДИ»</text>
+  </string>
+  <string id="nsp_freedom_meet_task_name">
+    <text>Поговорити з лідером</text>
+  </string>
+  <string id="nsp_freedom_meet_task_text">
+    <text>Такий собі Рак з угрупування «Свобода» попросив підійти з натяком на якусь справу. Чому б і ні? Корона не впаде, якщо поспілкуємось.</text>
+  </string>
+  <string id="nsp_freedom_bandits_task">
+    <text>НАФТОБАЗА</text>
+  </string>
+  <string id="nsp_freedom_bandits_task_start_name">
+    <text>Допомогти Раку розібратись з бандитами</text>
+  </string>
+  <string id="nsp_freedom_bandits_task_start_text">
+    <text>Рак і його група  -  одні з останніх свободівців, що лишились у Зоні. Він попросив допомогти йому і його товаришам вибити бандитів з нафтобази, щоб на якийсь час там облаштуватись.</text>
+  </string>
+  <string id="nsp_freedom_bandits_task_take_reward_name">
+    <text>Поговорити з Раком</text>
+  </string>
+  <string id="nsp_freedom_bandits_task_take_reward_text">
+    <text>Бандитів знешкоджено. Тепер поговорю з лідером загону «Свободи» щодо нагороди.</text>
+  </string>
+  <string id="nsp_freedom_monster_task">
+    <text>ВЕЛИКА ПРОБЛЕМА</text>
+  </string>
+  <string id="nsp_freedom_monster_task_start_talk_name">
+    <text>Поговорити з Раком</text>
+  </string>
+  <string id="nsp_freedom_monster_task_start_talk_text">
+    <text>Свободівцям знову щось від мене потрібно. Можливо, щось цікаве. Якщо буду у тих краях, можна буде й зазирнути.</text>
+  </string>
+  <string id="nsp_freedom_monster_task_need_to_think_name">
+    <text>Підготуватись до полювання на химеру</text>
+  </string>
+  <string id="nsp_freedom_monster_task_need_to_think_text">
+    <text>Загін «Свободи» потребує допомоги. Рак попрохав взяти участь у полюванні на химеру, яка тиняється неподалік від їхнього табору. Ніколи до цього не доводилось зустрічатись з такими мутантами, тож варто дуже добре підготуватись до цієї вилазки.</text>
+  </string>
+  <string id="nsp_freedom_monster_task_follow_leader_name">
+    <text>Йти слідом за Раком</text>
+  </string>
+  <string id="nsp_freedom_monster_task_follow_leader_text">
+    <text>Майже добрались до місця. Тепер треба акуратно підібратись до химери й влаштувати їх гарматний залп з чотирьох стволів.</text>
+  </string>
+  <string id="nsp_freedom_monster_task_kill_monster_name">
+    <text>Вбити химеру</text>
+  </string>
+  <string id="nsp_freedom_monster_task_kill_monster_text">
+    <text>Тепер найскладніше  -  розібратись з химерою. Хай нам бог допомагає.</text>
+  </string>
+  <string id="nsp_freedom_monster_task_final_talk_name">
+    <text>Поговорити з Раком</text>
+  </string>
+  <string id="nsp_freedom_monster_task_final_talk_text">
+    <text>Химера мертва, і тепер в околицях стало безпечніше. Час поговорити про нагороду з лідером загону «Свобода».</text>
+  </string>
+</string_table>

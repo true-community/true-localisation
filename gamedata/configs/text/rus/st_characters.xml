@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="st_actor_name">
+    <text>Топор</text>
+  </string>
+  <string id="st_actor_flashback_name">
+    <text>Панкрат</text>
+  </string>
+  <string id="st_actor_soldier_name">
+    <text>Журавлёв</text>
+  </string>
+  <string id="st_actor_soldier_sky_name">
+    <text>Скай</text>
+  </string>
+  <string id="st_actor_scientist_name">
+    <text>Дубинин</text>
+  </string>
+  <string id="esc_fanat_name">
+    <text>Фанат</text>
+  </string>
+  <string id="esc_jurok_name">
+    <text>Юрок</text>
+  </string>
+  <string id="esc_kutek_name">
+    <text>Кутёк</text>
+  </string>
+  <string id="esc_scientist_1_name">
+    <text>Ассистент Котов</text>
+  </string>
+  <string id="esc_scientist_2_name">
+    <text>Ассистент Зайцев</text>
+  </string>
+  <string id="esc_bandit_cutscene_name">
+    <text>Шныра</text>
+  </string>
+  <string id="esc_army_corpse_task_name">
+    <text>Сержант Дьяченко</text>
+  </string>
+  <string id="esc_army_corpse_1_name">
+    <text>Рядовой Кипренко</text>
+  </string>
+  <string id="esc_army_corpse_2_name">
+    <text>Рядовой Тарасюк</text>
+  </string>
+  <string id="esc_village_technic_name">
+    <text>Михалыч</text>
+  </string>
+  <string id="esc_fanat_friend_1_name">
+    <text>Сеня Водила</text>
+  </string>
+  <string id="esc_fanat_friend_2_name">
+    <text>Андрюха Немой</text>
+  </string>
+  <string id="esc_fanat_friend_3_name">
+    <text>Вовка Битый</text>
+  </string>
+  <string id="esc_trader_name">
+    <text>Сидорович</text>
+  </string>
+  <string id="esc_elevator_quest_corpse_name">
+    <text>Степа Разбойник</text>
+  </string>
+  <string id="esc_novice_robbery_1_name">
+    <text>Петя Горбатый</text>
+  </string>
+  <string id="esc_novice_robbery_2_name">
+    <text>Андрюха Дикий</text>
+  </string>
+  <string id="esc_stalker_car_name">
+    <text>Васян Битый</text>
+  </string>
+  <string id="esc_stalker_most_leader_name">
+    <text>Свирепый</text>
+  </string>
+  <string id="esc_most_leader_name">
+    <text>Майор Кузнецов</text>
+  </string>
+  <string id="gar_mishgan_name">
+    <text>Мишган</text>
+  </string>
+  <string id="gar_prisoner_stalker_1_name">
+    <text>Антон Зверь</text>
+  </string>
+  <string id="gar_prisoner_stalker_2_name">
+    <text>Витька Хромой</text>
+  </string>
+  <string id="gar_stalker_trader_name">
+    <text>Костыль</text>
+  </string>
+  <string id="gar_stalker_medic_name">
+    <text>Гамзат</text>
+  </string>
+  <string id="gar_stalker_base_ohrannik_name">
+    <text>Патрон</text>
+  </string>
+  <string id="gar_desertir_name">
+    <text>Рядовой Борисенко</text>
+  </string>
+  <string id="gar_ambush_leader_name">
+    <text>Саня Булка</text>
+  </string>
+  <string id="gar_dolg_dyatlov_name">
+    <text>Дятлов</text>
+  </string>
+  <string id="gar_dolg_soldier_aver_name">
+    <text>Старшина Аверьянов</text>
+  </string>
+  <string id="gar_corvalol_name">
+    <text>Корвалол</text>
+  </string>
+  <string id="gar_dolg_soldier_stecurin_name">
+    <text>Сержант Стецурин</text>
+  </string>
+  <string id="agr_digger_volodya_name">
+    <text>Володя</text>
+  </string>
+  <string id="agr_digger_leader_name">
+    <text>Мортик</text>
+  </string>
+  <string id="val_bandits_base_barmen_name">
+    <text>Хова</text>
+  </string>
+  <string id="gar_stalker_messenger_name">
+    <text>Мыслав Ожешко</text>
+  </string>
+  <string id="esc_stalker_messenger_friend_name">
+    <text>Барин</text>
+  </string>
+  <string id="gar_stalker_messenger_friend_name">
+    <text>Хвост</text>
+  </string>
+  <string id="agr_stalker_messenger_friend_name">
+    <text>Митяй</text>
+  </string>
+  <string id="val_bandits_base_leader_name">
+    <text>Монгол</text>
+  </string>
+  <string id="val_bandits_base_desertir_name">
+    <text>Трухляй</text>
+  </string>
+  <string id="val_desertir_team_bandit_1_name">
+    <text>Масол</text>
+  </string>
+  <string id="val_desertir_team_bandit_2_name">
+    <text>Кубик</text>
+  </string>
+  <string id="val_desertir_team_bandit_3_name">
+    <text>Разбитый</text>
+  </string>
+  <string id="labx18_bandit_lab_name">
+    <text>Рашпиль</text>
+  </string>
+  <string id="labx18_stalker_map_treasure_name">
+    <text>Алёша Космос</text>
+  </string>
+  <string id="labx18_freedom_stalker_name">
+    <text>Санька Палач</text>
+  </string>
+  <string id="esc_shaiba_name">
+    <text>Шайба</text>
+  </string>
+  <string id="esc_task_for_trailer_elevator_stalker_name">
+    <text>Кирюха</text>
+  </string>
+  <string id="esc_shaiba_friend_1_name">
+    <text>Серёжа Свисток</text>
+  </string>
+  <string id="esc_shaiba_friend_2_name">
+    <text>Володя Свинцовый</text>
+  </string>
+  <string id="esc_shaiba_friend_3_name">
+    <text>Санька Бульдог</text>
+  </string>
+  <string id="esc_shaiba_friend_4_name">
+    <text>Витька Бандит</text>
+  </string>
+  <string id="gar_stalker_material_collector_name">
+    <text>Серёга Кончеклыга</text>
+  </string>
+  <string id="val_stalker_base_quest_stalker_name">
+    <text>Неумёха</text>
+  </string>
+  <string id="val_stalker_base_technic_name">
+    <text>Гарпун</text>
+  </string>
+  <string id="val_stalker_base_technic_friend_name">
+    <text>Рыло</text>
+  </string>
+  <string id="val_scientist_name">
+    <text>Дубинин</text>
+  </string>
+  <string id="kat_unknown_stalker_name">
+    <text>Неизвестный</text>
+  </string>
+  <string id="kat_suicide_stalker_name">
+    <text>Дикий Напр</text>
+  </string>
+  <string id="val_bandits_base_bandit_minigame_name">
+    <text>Живодёр</text>
+  </string>
+  <string id="agr_scientists_base_soldier_post_task_name">
+    <text>Сержант Ярыгин</text>
+  </string>
+  <string id="agr_scientists_base_soldier_complex_guarder_name">
+    <text>Лейтенант Скребко</text>
+  </string>
+  <string id="val_bandits_base_trader_name">
+    <text>Зуб</text>
+  </string>
+  <string id="val_bandit_garbage_1_name">
+    <text>Сеня Кривой</text>
+  </string>
+  <string id="agru_stalker_weapon_corpse_name">
+    <text>Стервятник</text>
+  </string>
+  <string id="agru_fake_bandit_1_name">
+    <text>Коля Монах</text>
+  </string>
+  <string id="agru_fake_bandit_2_name">
+    <text>Антоха Гнилой</text>
+  </string>
+  <string id="agru_fake_bandit_3_name">
+    <text>Гришка Скорлупа</text>
+  </string>
+  <string id="agr_stalker_help_name">
+    <text>Рэд</text>
+  </string>
+  <string id="agr_stalker_perch_name">
+    <text>Окунь</text>
+  </string>
+  <string id="agr_anomaly_stalker_1_name">
+    <text>Витя Кастет</text>
+  </string>
+  <string id="agr_anomaly_stalker_2_name">
+    <text>Лёха Прут</text>
+  </string>
+  <string id="agr_scientist_assistant_name">
+    <text>Караваев</text>
+  </string>
+  <string id="val_scientist_smart_soldier_1_name">
+    <text>Шнур</text>
+  </string>
+  <string id="val_scientist_smart_soldier_2_name">
+    <text>Баркас</text>
+  </string>
+  <string id="agr_drunk_medic_name">
+    <text>Александр Киреев</text>
+  </string>
+  <string id="esc_task_mercs_merc_leader_name">
+    <text>Термит</text>
+  </string>
+  <string id="nsp_suicide_stalker_name">
+    <text>Коршун</text>
+  </string>
+  <string id="nsp_village_leader_name">
+    <text>Юстас</text>
+  </string>
+  <string id="nsp_village_barmen_name">
+    <text>Вовка Бобах</text>
+  </string>
+  <string id="nsp_village_stalker_car_name">
+    <text>Панкрат</text>
+  </string>
+  <string id="nsp_masters_stalker_car_helper_name">
+    <text>Зяблик</text>
+  </string>
+  <string id="nsp_village_bar_stalker_1_name">
+    <text>Федот</text>
+  </string>
+  <string id="nsp_village_bar_stalker_2_name">
+    <text>Олег Слесарь</text>
+  </string>
+  <string id="nsp_village_bar_stalker_3_name">
+    <text>Ваня Жирдяй</text>
+  </string>
+  <string id="nsp_village_bar_stalker_4_name">
+    <text>Макс Смерть</text>
+  </string>
+  <string id="nsp_village_bar_stalker_5_name">
+    <text>Витя Пузырь</text>
+  </string>
+  <string id="nsp_village_stalker_bridge_name">
+    <text>Керамбит</text>
+  </string>
+  <string id="nsp_village_camp_stalker_1_name">
+    <text>Стец</text>
+  </string>
+  <string id="nsp_village_camp_stalker_2_name">
+    <text>Петро Легавый</text>
+  </string>
+  <string id="nsp_village_camp_stalker_3_name">
+    <text>Димка Козинак</text>
+  </string>
+  <string id="nsp_village_camp_stalker_4_name">
+    <text>Лёша Раковка</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_1_name">
+    <text>Барыш</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_2_name">
+    <text>Стёпа Глюк</text>
+  </string>
+  <string id="nsp_village_stalker_patrol_3_name">
+    <text>Серёга Кузнец</text>
+  </string>
+  <string id="nsp_village_stalker_suicide_informator_name">
+    <text>Зармут</text>
+  </string>
+  <string id="nsp_masters_unknown_name">
+    <text>Неизвестный</text>
+  </string>
+  <string id="nsp_masters_wanderer_name">
+    <text>Назгул</text>
+  </string>
+  <string id="nsp_hunters_hunter_king_name">
+    <text>Князь</text>
+  </string>
+  <string id="nsp_hunters_hunter_pot_name">
+    <text>Горшок</text>
+  </string>
+  <string id="nsp_hunters_hunter_boss_name">
+    <text>Захар</text>
+  </string>
+  <string id="nsp_hunters_hunter_wounded_name">
+    <text>Мазай</text>
+  </string>
+  <string id="nsp_hunters_hunter_corp_name">
+    <text>Грек</text>
+  </string>
+  <string id="nsp_hunters_hunter_opex_name">
+    <text>Орех</text>
+  </string>
+  <string id="nsp_hunters_hunter_chupa_name">
+    <text>Чупа</text>
+  </string>
+  <string id="nsp_hunters_hunter_slim_name">
+    <text>Слим</text>
+  </string>
+  <string id="esc_forestry_stalker_1_name">
+    <text>Виталь Зануда</text>
+  </string>
+  <string id="esc_forestry_stalker_2_name">
+    <text>Потап Прядко</text>
+  </string>
+  <string id="esc_forestry_stalker_3_name">
+    <text>Олесь Шевцов</text>
+  </string>
+  <string id="bar_staff_barman_name">
+    <text>Бармен</text>
+  </string>
+  <string id="bar_stalkers_arena_manager_name">
+    <text>Арни</text>
+  </string>
+  <string id="agr_scientists_base_stalker_trader_name">
+    <text>Дрозд</text>
+  </string>
+  <string id="agr_scientists_base_stalker_technic_name">
+    <text>Айдар</text>
+  </string>
+  <string id="esc_stalker_most_exo_1_name">
+    <text>Могильщик</text>
+  </string>
+  <string id="esc_stalker_most_exo_2_name">
+    <text>Партизан</text>
+  </string>
+  <string id="agr_mid_final_scene_scientist_1_name">
+    <text>Ассистент Вавенков</text>
+  </string>
+  <string id="agr_mid_final_scene_scientist_2_name">
+    <text>Ассистент Раков</text>
+  </string>
+  <string id="agr_soldier_sky_name">
+    <text>Скай</text>
+  </string>
+  <string id="agr_soldier_koval_name">
+    <text>Коваль</text>
+  </string>
+  <string id="agr_soldier_xottab_name">
+    <text>Хоттаб</text>
+  </string>
+  <string id="agr_soldier_vuslich_name">
+    <text>Вуслыч</text>
+  </string>
+  <string id="agr_scientists_base_colonel_name">
+    <text>Полковник Клинских</text>
+  </string>
+  <string id="agr_scientists_base_scientist_substantial_name">
+    <text>Профессор Волков</text>
+  </string>
+  <string id="nsp_musician_stalker_name">
+    <text>Юрец Трансформатор</text>
+  </string>
+  <string id="yan_bunker_task_scientist_boss_name">
+    <text>Профессор Сахаров</text>
+  </string>
+  <string id="yan_bunker_task_scientist_name">
+    <text>Профессор Круглов</text>
+  </string>
+  <string id="yan_bunker_task_soldier_name">
+    <text>Лейтенант Стручалин</text>
+  </string>
+  <string id="yan_stalker_aver_name">
+    <text>Аверьянов</text>
+  </string>
+  <string id="yan_collect_info_angar_scientist_corp_name">
+    <text>Шумихин П. А.</text>
+  </string>
+  <string id="yan_collect_info_angar_stalker_corp_name">
+    <text>Макс Чертило</text>
+  </string>
+  <string id="yan_collect_info_solo_zombie_name">
+    <text>Гончаров А. Ю.</text>
+  </string>
+  <string id="yan_collect_info_lab_zombie_scientist_name">
+    <text>Профессор Шишин</text>
+  </string>
+  <string id="yan_labx16_fly_stalker_corp_name">
+    <text>Ромка Юрин</text>
+  </string>
+  <string id="yan_labx16_oldster_name">
+    <text>Василий Иванович</text>
+  </string>
+  <string id="yan_labx16_second_task_scientist_corp_1_name">
+    <text>Блошкин С. В.</text>
+  </string>
+  <string id="yan_labx16_second_task_scientist_corp_2_name">
+    <text>Прохоров В. М.</text>
+  </string>
+  <string id="yan_labx16_second_task_soldier_corp_name">
+    <text>Капитан Остапенко</text>
+  </string>
+  <string id="yan_labx16_second_task_soldier_second_corp_name">
+    <text>Сержант Коваленко</text>
+  </string>
+  <string id="yan_labx16_wounded_stalker_name">
+    <text>Матвей</text>
+  </string>
+  <string id="yan_bunker_zombie_scientist_name">
+    <text>Профессор Сытянов</text>
+  </string>
+  <string id="bar_duty_base_technic_name">
+    <text>Громов</text>
+  </string>
+  <string id="bar_duty_base_main_post_soldier_boss_name">
+    <text>Сержант Пличко</text>
+  </string>
+  <string id="bar_stalker_asshole_name">
+    <text>Начёс</text>
+  </string>
+  <string id="bar_robbery_bandit_1_name">
+    <text>Слава Копчёный</text>
+  </string>
+  <string id="bar_robbery_bandit_2_name">
+    <text>Витя Капуста</text>
+  </string>
+  <string id="bar_duty_base_help_soldier_boss_name">
+    <text>Капитан Левчак</text>
+  </string>
+  <string id="bar_duty_base_help_soldier_1_name">
+    <text>Сержант Любезнов</text>
+  </string>
+  <string id="bar_duty_base_help_soldier_2_name">
+    <text>Сержант Лосев</text>
+  </string>
+  <string id="bar_duty_base_help_soldier_3_name">
+    <text>Сержант Собко</text>
+  </string>
+  <string id="agr_scientists_base_washboard_soldier_name">
+    <text>Капитан Ребренко</text>
+  </string>
+  <string id="agr_scientists_base_soldier_barracks_1_name">
+    <text>Сержант Клюквин</text>
+  </string>
+  <string id="val_stalker_prisoner_name">
+    <text>Немой</text>
+  </string>
+  <string id="agr_tonnel_soldier_boss_name">
+    <text>Кридов</text>
+  </string>
+  <string id="agr_tonnel_soldier_1_name">
+    <text>Рядовой Плещук</text>
+  </string>
+  <string id="agr_tonnel_soldier_2_name">
+    <text>Рядовой Власов</text>
+  </string>
+  <string id="agr_tonnel_scientist_1_name">
+    <text>Профессор Карпов</text>
+  </string>
+  <string id="agr_tonnel_scientist_2_name">
+    <text>Ассистент Павленко</text>
+  </string>
+  <string id="agr_scientists_base_pilot_leader_name">
+    <text>Соколов</text>
+  </string>
+  <string id="agr_scientists_base_pilot_soldier_1_name">
+    <text>Сержант Василенко</text>
+  </string>
+  <string id="agr_scientists_base_pilot_soldier_2_name">
+    <text>Сержант Гниденко</text>
+  </string>
+  <string id="esc_second_scientist_1_name">
+    <text>Ассистент Поликарпов</text>
+  </string>
+  <string id="esc_second_scientist_2_name">
+    <text>Ассистент Павлов</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_name">
+    <text>Капитан Шумилкин</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_name">
+    <text>Смурной</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_leader_name">
+    <text>Мерцающий</text>
+  </string>
+  <string id="bar_green_stalker_leader_name">
+    <text>Зоркий</text>
+  </string>
+  <string id="bar_green_stalker_1_name">
+    <text>Сиплый</text>
+  </string>
+  <string id="bar_green_stalker_2_name">
+    <text>Кислый</text>
+  </string>
+  <string id="bar_green_stalker_corp_name">
+    <text>Холст</text>
+  </string>
+  <string id="bar_duty_base_prison_boss_name">
+    <text>Чернов</text>
+  </string>
+  <string id="bar_stalkers_stalker_prisoner_1_name">
+    <text>Сеня Рубец</text>
+  </string>
+  <string id="bar_stalkers_stalker_prisoner_2_name">
+    <text>Антон Слух</text>
+  </string>
+  <string id="bar_stalkers_stalker_prisoner_3_name">
+    <text>Гриша Стюард</text>
+  </string>
+  <string id="bar_duty_base_prison_task_patrol_soldier_name">
+    <text>Сержант Корниенко</text>
+  </string>
+  <string id="bar_prison_task_drunk_stalker_name">
+    <text>Одрин</text>
+  </string>
+  <string id="mil_trader_name">
+    <text>Зубр</text>
+  </string>
+  <string id="mil_corp_stalkers_stalker_leader_name">
+    <text>Аккорд</text>
+  </string>
+  <string id="mil_corp_stalkers_stalker_1_name">
+    <text>Витька Скупой</text>
+  </string>
+  <string id="mil_corp_stalkers_stalker_2_name">
+    <text>Антон Дрель</text>
+  </string>
+  <string id="mil_corp_stalkers_stalker_3_name">
+    <text>Серафим</text>
+  </string>
+  <string id="mil_corp_stalkers_stalker_4_name">
+    <text>Витя Шлюз</text>
+  </string>
+  <string id="mil_stalker_technic_name">
+    <text>Сурок</text>
+  </string>
+  <string id="mlab_start_scientist_name">
+    <text>Калинский</text>
+  </string>
+  <string id="mlab_scientist_zombie_scene_1_name">
+    <text>Килюшик</text>
+  </string>
+  <string id="mlab_scientist_zombie_scene_2_name">
+    <text>Холстинин</text>
+  </string>
+  <string id="mlab_scientist_laborant_name">
+    <text>Лагашкин</text>
+  </string>
+  <string id="mlab_zombie_scene_name">
+    <text>Подопытный</text>
+  </string>
+  <string id="esc_maddyson_corp_name">
+    <text>Илюка Медовый</text>
+  </string>
+  <string id="esc_stalker_anomaly_village_leader_name">
+    <text>Андрюха Свинец</text>
+  </string>
+  <string id="nsp_freedom_leader_name">
+    <text>Рак</text>
+  </string>
+  <string id="nsp_freedom_1_name">
+    <text>Лебедь</text>
+  </string>
+  <string id="nsp_freedom_2_name">
+    <text>Щука</text>
+  </string>
+  <string id="val_composer_task_stalkers_stalker_leader_name">
+    <text>Визирь</text>
+  </string>
+  <string id="val_composer_task_stalkers_stalker_1_name">
+    <text>Лёшка Стратилат</text>
+  </string>
+  <string id="val_composer_task_stalkers_stalker_2_name">
+    <text>Илюха Бильярдист</text>
+  </string>
+  <string id="val_composer_task_stalkers_stalker_3_name">
+    <text>Валерка Парал</text>
+  </string>
+  <string id="val_composer_task_stalkers_stalker_follower_name">
+    <text>Гриня</text>
+  </string>
+  <string id="val_composer_task_bandit_savior_name">
+    <text>Куча</text>
+  </string>
+  <string id="agr_composer_task_stalker_bird_name">
+    <text>Птаха</text>
+  </string>
+  <string id="agr_composer_task_scientist_boss_name">
+    <text>Туров</text>
+  </string>
+  <string id="esc_composer_task_scientist_name">
+    <text>Смышлов</text>
+  </string>
+  <string id="agr_composer_task_final_zombie_name">
+    <text>Бобик</text>
+  </string>
+  <string id="gar_stalker_nimble_name">
+    <text>Витька Степак</text>
+  </string>
+  <string id="yan_scientist_corp_name">
+    <text>Семёнов</text>
+  </string>
+  <string id="yan_ghost_corp_name">
+    <text>Призрак</text>
+  </string>
+  <string id="val_stalker_technic_task_merc_name">
+    <text>Пума</text>
+  </string>
+  <string id="val_stalker_technic_friend_name">
+    <text>Сашка Парал</text>
+  </string>
+  <string id="val_bandits_base_technic_name">
+    <text>Прозрачный</text>
+  </string>
+  <string id="esc_stalker_liar_name">
+    <text>Брехун</text>
+  </string>
+  <string id="bar_stalker_fireball_name">
+    <text>Гена Полый</text>
+  </string>
+  <string id="bar_drunk_stalker_name">
+    <text>Саня Собутыльник</text>
+  </string>
+  <string id="bar_drunk_stalker_friend_name">
+    <text>Серп</text>
+  </string>
+  <string id="bar_stalker_google_chrome_name">
+    <text>Хром</text>
+  </string>
+  <string id="bar_stalker_goose_name">
+    <text>Гусь</text>
+  </string>
+  <string id="bar_stalker_pribluda_name">
+    <text>Шалтай</text>
+  </string>
+  <string id="bar_stalker_snake_name">
+    <text>Кобра</text>
+  </string>
+  <string id="bar_impudent_stalker_1_name">
+    <text>Антон Арбалет</text>
+  </string>
+  <string id="bar_impudent_stalker_2_name">
+    <text>Стас Кобальт</text>
+  </string>
+  <string id="bar_impudent_stalker_3_name">
+    <text>Володя Хобот</text>
+  </string>
+  <string id="bar_impudent_stalker_4_name">
+    <text>Сашка Папито</text>
+  </string>
+  <string id="gar_duty_swamp_soldier_leader_name">
+    <text>Лейтенант Володин</text>
+  </string>
+  <string id="mil_freedom_barrier_leader_name">
+    <text>Кэп</text>
+  </string>
+  <string id="esc_army_base_vova_vist_name">
+    <text>Вова Вист</text>
+  </string>
+  <string id="kat_duty_squad_soldier_1_name">
+    <text>Полковник Космач</text>
+  </string>
+  <string id="kat_duty_squad_soldier_2_name">
+    <text>Лейтенант Бунчук</text>
+  </string>
+  <string id="kat_duty_squad_soldier_3_name">
+    <text>Лейтенант Захарчук</text>
+  </string>
+  <string id="kat_duty_squad_soldier_4_name">
+    <text>Майор Чепурной</text>
+  </string>
+  <string id="kat_duty_squad_soldier_leader_name">
+    <text>Генерал Таченко</text>
+  </string>
+  <string id="unknown_name">
+    <text>Неизвестный</text>
+  </string>
+  <string id="bar_arena_final_boss_name">
+    <text>Дмитрий Мак</text>
+  </string>
+  <string id="st_bar_security_1_name">
+    <text>Жорик</text>
+  </string>
+  <string id="st_bar_security_2_name">
+    <text>Пыж</text>
+  </string>
+  <string id="st_bar_barmen_security">
+    <text>Гарик</text>
+  </string>
+  <string id="nsp_friends_samart_name">
+    <text>Самарт</text>
+  </string>
+  <string id="nsp_friends_kostya_name">
+    <text>Конст</text>
+  </string>
+  <string id="nsp_friends_danya_name">
+    <text>Дорош</text>
+  </string>
+  <string id="nsp_friends_emil_name">
+    <text>Эмик</text>
+  </string>
+  <string id="nsp_friends_denya_name">
+    <text>Тиролька</text>
+  </string>
+  <string id="bar_first_cyden_damba_name">
+    <text>Цыден-Дамба Ширеторов</text>
+  </string>
+  <string id="bar_first_scientist_name">
+    <text>Ассистент Сергеев</text>
+  </string>
+  <string id="st_bar_soc_team_vorobey_name">
+    <text>Воробей</text>
+  </string>
+  <string id="st_bar_soc_team_oleg_name">
+    <text>Олег «Демон» Гусаров</text>
+  </string>
+  <string id="st_bar_soc_team_brom_name">
+    <text>Бром</text>
+  </string>
+  <string id="st_bar_soc_team_krot_name">
+    <text>Крот</text>
+  </string>
+  <string id="st_mil_wolf_corp_name">
+    <text>Волк</text>
+  </string>
+  <string id="st_val_stalker_base_stalker_1_name">
+    <text>Влад Господь</text>
+  </string>
+  <string id="st_val_stalker_base_stalker_2_name">
+    <text>Лёнька Чикментао</text>
+  </string>
+  <string id="st_val_stalker_base_stalker_3_name">
+    <text>Володя Гигант</text>
+  </string>
+  <string id="st_val_stalker_base_stalker_4_name">
+    <text>Саня Модератор</text>
+  </string>
+  <string id="st_val_stalker_base_stalker_5_name">
+    <text>Артём Целитель</text>
+  </string>
+  <string id="st_val_stalker_base_stalker_6_name">
+    <text>Юрка Писатель</text>
+  </string>
+  <string id="st_val_stalker_base_stalker_7_name">
+    <text>Родька Зернов</text>
+  </string>
+  <string id="st_esc_proso_name">
+    <text>Лёшка Вульф</text>
+  </string>
+</string_table>
