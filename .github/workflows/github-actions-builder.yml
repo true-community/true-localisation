@@ -5,7 +5,7 @@ run-name: ${{ github.actor }} is compiling new content
 on:
   push:
     branches:
-      - staging  # when there is need to actually create artifact, its commit has to be pushed to "staging"
+      - release  # when there is need to actually create artifact, its commit has to be pushed to "staging"
 
 jobs:
   build-content:
