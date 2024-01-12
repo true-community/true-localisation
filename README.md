@@ -2,7 +2,13 @@
 
 ![alt text](https://i.ibb.co/02mzMj2/62463b1abe776a3-1.png)
 
-Current repository has XML files with localisations in the following languages:
+<table border="2"><tr><td>
+
+Ready-to-use language packs for True Stalker can be found in [RELEASES](https://github.com/true-community/true-localisation/tree/releases/staging)
+
+</td></tr></table>
+
+Current repository has source code for True Stalker localisation.
 
 
 To suggest your own changes you can do one of the following:
@@ -16,6 +22,8 @@ To suggest your own changes you can do one of the following:
 1. Make edits in text strings
 2. Test changes in game
 3. Submit your changes via pull request
+
+<details><summary>About XML file encoding...</summary>
 
 [!] The game engine is hardcoded to work with single-byte character sets (= does not support UTF-8 encoding)!<br/>Although, basic latin letters are displayed identically for either one, accents and other non-[ASCII](https://en.wikipedia.org/wiki/ASCII) characters are not.
 
@@ -33,7 +41,7 @@ Every XML file must start with declaration tag `<?xml version="1.0" encoding="wi
   - [ ] [Italian](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/ita) (WIP, contribution required)
   - [ ] [Spanish](https://github.com/lehrax-gaming/true-localisation/tree/main/gamedata/configs/text/spa) (WIP, contribution required)
 
-
+</details>
 
 [!] **If you use ampersands, make sure to replace** `&` **with** `&amp;`
 
@@ -42,7 +50,7 @@ Every XML file must start with declaration tag `<?xml version="1.0" encoding="wi
 
 - If your language is already officially in the game, just switch to it from the menu.
 
-- If not — set language code in your `userdata/user.ltx` file: `g_language rus` (replace "rus" with your language code as per `gamedata/config/text/`? directory name)
+- If not — set language code in your `userdata/user.ltx` file: `g_language rus` (replace "rus" with your language code as per `gamedata/config/text/?` directory's name)
 
 <br/>
 
