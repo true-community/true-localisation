@@ -2,7 +2,13 @@
 
 ![alt text](https://i.ibb.co/02mzMj2/62463b1abe776a3-1.png)
 
-Current repository has XML files with localisations in the following languages:
+<table border="2"><tr><td>
+
+Ready-to-use language packs for True Stalker can be found in [Releases](./releases)
+
+</td></tr></table>
+
+Current repository has source code for True Stalker localisation.
 
 
 To suggest your own changes you can do one of the following:
