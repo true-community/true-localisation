@@ -4,10 +4,13 @@ run-name: ${{ github.actor }} is compiling new content
 
 on:
   push:
+    # when there is need to actually create artifact, its commit has to be pushed to "staging"
     branches:
-      - staging  # when there is need to actually create artifact, its commit has to be pushed to "staging"
-      - ci-run  # or when we explicitly want to trigger ci run
-      - main  # additionally create artifacts for stable releases
+      - main
+      - staging
+    paths:
+      - 'gamedata_UTF-8/**'
+    # paths-ignore: [ releases/* ]
 
 jobs:
   build-content:
@@ -16,77 +19,117 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Build and publish artifact
-        env:
-          CONVERTER_URL: ${{ secrets.CONVERTER_URL }}
+        # env:
+        #   CONVERTER_URL: ${{ secrets.CONVERTER_URL }}
         run: |
           bash -c .ci/language_pack.sh
 
-      - name: Upload artifact "eng"
-        uses: actions/upload-artifact@v4
-        with:
-          name: English
-          path: ./output/English.7z
-          if-no-files-found: ignore
-          compression-level: 0
-      - name: Upload artifact "fra"
-        uses: actions/upload-artifact@v4
-        with:
-          name: francés
-          path: ./output/francés.7z
-          if-no-files-found: ignore
-          compression-level: 0
-      - name: Upload artifact "ger"
-        uses: actions/upload-artifact@v4
-        with:
-          name: Deutsch
-          path: ./output/Deutsch.7z
-          if-no-files-found: ignore
-          compression-level: 0
-      - name: Upload artifact "ita"
-        uses: actions/upload-artifact@v4
-        with:
-          name: italiano
-          path: ./output/italiano.7z
-          if-no-files-found: ignore
-          compression-level: 0
-      - name: Upload artifact "pol"
-        uses: actions/upload-artifact@v4
-        with:
-          name: polski
-          path: ./output/polski.7z
-          if-no-files-found: ignore
-          compression-level: 0
-      - name: Upload artifact "rus"
-        uses: actions/upload-artifact@v4
-        with:
-          name: русский
-          path: ./output/русский.7z
-          if-no-files-found: ignore
-          compression-level: 0
-      - name: Upload artifact "spa"
-        uses: actions/upload-artifact@v4
-        with:
-          name: español
-          path: ./output/español.7z
-          if-no-files-found: ignore
-          compression-level: 0
-      - name: Upload artifact "ukr"
-        uses: actions/upload-artifact@v4
-        with:
-          name: українська
-          path: ./output/українська.7z
-          if-no-files-found: ignore
-          compression-level: 0
-
-      # - name: Pull request artifacts
-      #   uses: gavv/pull-request-artifacts@v2
+      # - name: Upload artifact "eng"
+      #   uses: actions/upload-artifact@v4
       #   with:
-      #     # Commit hash that triggered PR
-      #     commit: ${{ github.event.pull_request.head.sha }}
+      #     name: English
+      #     path: ./releases/English.7z
+      #     if-no-files-found: ignore
+      #     compression-level: 0
+      # - name: Upload artifact "fra"
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: francés
+      #     path: ./releases/francés.7z
+      #     if-no-files-found: ignore
+      #     compression-level: 0
+      # - name: Upload artifact "ger"
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: Deutsch
+      #     path: ./releases/Deutsch.7z
+      #     if-no-files-found: ignore
+      #     compression-level: 0
+      # - name: Upload artifact "ita"
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: italiano
+      #     path: ./releases/italiano.7z
+      #     if-no-files-found: ignore
+      #     compression-level: 0
+      # - name: Upload artifact "pol"
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: polski
+      #     path: ./releases/polski.7z
+      #     if-no-files-found: ignore
+      #     compression-level: 0
+      # - name: Upload artifact "rus"
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: русский
+      #     path: ./releases/русский.7z
+      #     if-no-files-found: ignore
+      #     compression-level: 0
+      # - name: Upload artifact "spa"
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: español
+      #     path: ./releases/español.7z
+      #     if-no-files-found: ignore
+      #     compression-level: 0
+      # - name: Upload artifact "ukr"
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: українська
+      #     path: ./releases/українська.7z
+      #     if-no-files-found: ignore
+      #     compression-level: 0
 
-      #     # Token for current repo (used to post PR comment)
-      #     repo-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Gather commit info
+        shell: bash
+        run: |
+          echo "sha_short=$(git rev-parse --short "$GITHUB_SHA")" >> "$GITHUB_ENV"
+          echo "branch=$(echo ${GITHUB_REF#refs/heads/})" >> "$GITHUB_ENV"
+          echo "artifacts=$(ls './releases/' | sed -e 's/^/releases\//' | tr '\n' ' ')" >> "$GITHUB_ENV"
+
+      - name: Show commit info
+        run: |
+          echo "Branch: ${{ env.branch }}"
+          echo "Sha: ${{ env.sha_short }}"
+          echo "Artifacts: ${{ env.artifacts }}"
+
+      - name: Pull request artifacts
+        uses: gavv/pull-request-artifacts@v2
+        with:
+          # Commit hash that triggered PR
+          commit: ${{ env.sha_short }}
+
+          # Token for current repo (used to post PR comment)
+          repo-token: ${{ secrets.ACTION_TOKEN }}
 
           # Whitespace-separated list of files to upload
-          artifacts: |
-            ./content.7z
+          # artifacts: |
+          #   ./releases/English.7z
+          #   ./releases/francés.7z
+          #   ./releases/Deutsch.7z
+          #   ./releases/italiano.7z
+          #   ./releases/polski.7z
+          #   ./releases/русский.7z
+          #   ./releases/español.7z
+          #   ./releases/українська.7z
+          artifacts: ${{ env.artifacts }}
+
+          artifacts-prefix: ${{ env.branch }}/
+
+          artifacts-branch: releases
+
+          # Whether to preserve artifact path, otherwise use only basename
+          # preserve-path: true
+
+          # Whether to link the original PR when committing artifacts
+          # inter-link: true
+
+          # Whether to post a comment with links to artifacts
+          post-comment: false
+
+          # Header to add to comment in the PR
+          # comment-title: "Language packs ready!"
+
+          # How to format comment (can be table or list)
+          # comment-style: table

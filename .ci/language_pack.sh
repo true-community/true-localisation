@@ -5,9 +5,9 @@ ARCHIVE_NAME_PREFIX=""
 ARCHIVE_NAME_POSTFIX=""
 
 rm -r ./tmp 2> /dev/null
-rm -r ./output 2> /dev/null
+rm -r ./releases 2> /dev/null
 mkdir ./tmp
-mkdir ./output
+mkdir ./releases
 
 for locale_code in $(jq -r  '.[] | keys[]' $LANG_FILE); do
   echo "Working with '$locale_code'"
@@ -27,8 +27,8 @@ for locale_code in $(jq -r  '.[] | keys[]' $LANG_FILE); do
   iconv -f utf-8 -t windows-1251 ./gamedata_UTF-8/configs/text/$locale_code/st_ui_ts_credits.xml > ./tmp/$locale_code/gamedata/configs/text/$locale_code/st_ui_ts_credits.xml 2> /dev/null
 
   # package dir into archive
-  [ ! -z "${locale_code}" ] && 7z a ./output/${ARCHIVE_NAME_PREFIX}$(jq -r ".locales.${locale_code}.name" $LANG_FILE)${ARCHIVE_NAME_POSTFIX}.7z ./tmp/$locale_code/gamedata >/dev/null
+  [ ! -z "${locale_code}" ] && 7z a ./releases/${ARCHIVE_NAME_PREFIX}$(jq -r ".locales.${locale_code}.name" $LANG_FILE)${ARCHIVE_NAME_POSTFIX}.7z ./tmp/$locale_code/gamedata >/dev/null
 
   # remove "blank" locales (archives smaller than 7 kb)
-  find ./output -type f -name "*.7z" -size -7k -delete
+  find ./releases -type f -name "*.7z" -size -7k -delete
 done
