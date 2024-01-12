@@ -6,8 +6,6 @@ on:
   push:
     branches:
       - staging  # when there is need to actually create artifact, its commit has to be pushed to "staging"
-      - ci-run  # or when we explicitly want to trigger ci run
-      - main  # additionally create artifacts for stable releases
 
 jobs:
   build-content:
@@ -25,56 +23,56 @@ jobs:
       #   uses: actions/upload-artifact@v4
       #   with:
       #     name: English
-      #     path: ./output/English.7z
+      #     path: ./releases/English.7z
       #     if-no-files-found: ignore
       #     compression-level: 0
       # - name: Upload artifact "fra"
       #   uses: actions/upload-artifact@v4
       #   with:
       #     name: francés
-      #     path: ./output/francés.7z
+      #     path: ./releases/francés.7z
       #     if-no-files-found: ignore
       #     compression-level: 0
       # - name: Upload artifact "ger"
       #   uses: actions/upload-artifact@v4
       #   with:
       #     name: Deutsch
-      #     path: ./output/Deutsch.7z
+      #     path: ./releases/Deutsch.7z
       #     if-no-files-found: ignore
       #     compression-level: 0
       # - name: Upload artifact "ita"
       #   uses: actions/upload-artifact@v4
       #   with:
       #     name: italiano
-      #     path: ./output/italiano.7z
+      #     path: ./releases/italiano.7z
       #     if-no-files-found: ignore
       #     compression-level: 0
       # - name: Upload artifact "pol"
       #   uses: actions/upload-artifact@v4
       #   with:
       #     name: polski
-      #     path: ./output/polski.7z
+      #     path: ./releases/polski.7z
       #     if-no-files-found: ignore
       #     compression-level: 0
       # - name: Upload artifact "rus"
       #   uses: actions/upload-artifact@v4
       #   with:
       #     name: русский
-      #     path: ./output/русский.7z
+      #     path: ./releases/русский.7z
       #     if-no-files-found: ignore
       #     compression-level: 0
       # - name: Upload artifact "spa"
       #   uses: actions/upload-artifact@v4
       #   with:
       #     name: español
-      #     path: ./output/español.7z
+      #     path: ./releases/español.7z
       #     if-no-files-found: ignore
       #     compression-level: 0
       # - name: Upload artifact "ukr"
       #   uses: actions/upload-artifact@v4
       #   with:
       #     name: українська
-      #     path: ./output/українська.7z
+      #     path: ./releases/українська.7z
       #     if-no-files-found: ignore
       #     compression-level: 0
 
@@ -83,7 +81,7 @@ jobs:
         run: |
           echo "sha_short=$(git rev-parse --short "$GITHUB_SHA")" >> "$GITHUB_ENV"
           echo "branch=$(echo ${GITHUB_REF#refs/heads/})" >> "$GITHUB_ENV"
-          echo "artifacts=$(ls './output/' | sed -e 's/^/output\//' | tr '\n' ' ')" >> "$GITHUB_ENV"
+          echo "artifacts=$(ls './releases/' | sed -e 's/^/releases\//' | tr '\n' ' ')" >> "$GITHUB_ENV"
 
       - name: Show commit info
         run: |
@@ -102,14 +100,14 @@ jobs:
 
           # Whitespace-separated list of files to upload
           # artifacts: |
-          #   ./output/English.7z
-          #   ./output/francés.7z
-          #   ./output/Deutsch.7z
-          #   ./output/italiano.7z
-          #   ./output/polski.7z
-          #   ./output/русский.7z
-          #   ./output/español.7z
-          #   ./output/українська.7z
+          #   ./releases/English.7z
+          #   ./releases/francés.7z
+          #   ./releases/Deutsch.7z
+          #   ./releases/italiano.7z
+          #   ./releases/polski.7z
+          #   ./releases/русский.7z
+          #   ./releases/español.7z
+          #   ./releases/українська.7z
           artifacts: ${{ env.artifacts }}
 
           artifacts-prefix: ""
