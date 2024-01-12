@@ -116,13 +116,13 @@ jobs:
           preserve-path: true
 
           # Whether to link the original PR when committing artifacts
-          inter-link: true
+          # inter-link: true
 
           # Whether to post a comment with links to artifacts
-          post-comment: true
+          post-comment: false
 
           # Header to add to comment in the PR
-          comment-title: "Language packs ready!"
+          # comment-title: "Language packs ready!"
 
           # How to format comment (can be table or list)
-          comment-style: table
+          # comment-style: table
