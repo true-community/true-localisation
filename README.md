@@ -4,7 +4,7 @@
 
 <table border="2"><tr><td>
 
-Ready-to-use language packs for True Stalker can be found in [RELEASES](https://github.com/true-community/true-localisation/tree/releases/staging)
+Ready-to-use language packs for True Stalker can be found in [RELEASES](https://github.com/true-community/true-artifacts/tree/releases/localisation/staging)
 
 </td></tr></table>
 
