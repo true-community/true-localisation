@@ -1,0 +1,2848 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<string_table>
+  <string id="esc_trader_start_dialog_phrase">
+    <text>Was brauchst du?</text>
+  </string>
+  <string id="esc_provodnik_dialog_start_0">
+    <text>Puh... Ich glaube, wir sind sie los. Das war seltsam, unser Mann sollte eigentlich Wache halten und sie hätten uns nicht bemerken sollen. Irgendetwas ist nicht so gelaufen wie geplant und jemand anderes hat wohl den Dienst übernommen. Ich kümmere mich später darum, so kann ich die Neulinge doch nicht herführen.</text>
+  </string>
+  <string id="esc_provodnik_dialog_start_1">
+    <text>Dinge passieren. Ja, ich war schon zu lange auf der großen Erde... Ein bisschen Joggen macht mich schon kurzatmig!</text>
+  </string>
+  <string id="esc_provodnik_dialog_start_2">
+    <text>Es tut mir leid, dass wir dieses Mal keine richtige Pause einlegen konnte. Blöd, aber der Weg wird für eine Weile gesperrt sein. Nächstes Mal sorge ich dafür, dass ich den richtigen Mann auf Posten habe.</text>
+  </string>
+  <string id="esc_provodnik_dialog_start_3">
+    <text>Mach dir keine Sorgen. Wir sind am Leben, und das ist ein gutes Zeichen.</text>
+  </string>
+  <string id="esc_provodnik_dialog_start_4">
+    <text>Verdammt richtig. Setzen wir uns ans Feuer und trinken auf unsere Flucht. Bei dem Wetter kann man sowieso nirgendwo hingehen.</text>
+  </string>
+  <string id="esc_provodnik_dialog_start_5">
+    <text>Klingt gut!</text>
+  </string>
+  <string id="esc_provodnik_camp_0">
+    <text>Was hat dich dazu bewogen, in die Zone zurückzukehren?</text>
+  </string>
+  <string id="esc_provodnik_camp_1">
+    <text>Was soll ich sagen? Nachdem ich ein paar Mal hier war, kann ich nicht mehr aufhören, daran zu denken. Das ist der Ort, an dem ich sein möchte.</text>
+  </string>
+  <string id="esc_provodnik_camp_2">
+    <text>Alle sagen mir genau das Gleiche: dass ihr alle etwas gemeinsam habt... oder sollte ich sagen, dass *wir* etwas gemeinsam haben. Ich kann auch nicht genau sagen, was mich hier hält. Um ehrlich zu sein, versuche ich, innerhalb des Kordons zu bleiben, obwohl die Neulinge hier meine Tasche voll halten. Sie brauchen fast jeden Tag einen Führer. Es ist eine Schande, dass viele von ihnen entweder verschwinden oder sterben. Auf dass das nicht mehr passiert!</text>
+  </string>
+  <string id="esc_provodnik_camp_3">
+    <text>Zum Wohl!</text>
+  </string>
+  <string id="esc_provodnik_camp_4">
+    <text>Ah, das war genau das Richtige! Ich selbst war mit meinem Kumpel Witka in der Zone. Zu dieser Zeit starb mein Sohn bei einem Autounfall... meine Frau, die Schlampe, hat sich besoffen... Ich bin ein emotionaler Mensch, also machte ich mir große Sorgen. Ich traf mich mit Witka, wir teilten uns ein oder zwei Flaschen. Genau wie du und ich jetzt und meine Zunge lockerte sich und ich begann ihm von meinen Problemen zu erzählen. Zu diesem Zeitpunkt hielt mich nichts mehr zu Hause, also nahm ich sein Angebot an, in die Zone zu gehen, um mich zu entspannen.\n \nAuf dem Weg hierher erzählte er mir, dass er bereits Erfahrungen in der Zone gemacht hatte. Er erzählte mir viel Interessantes, aber in dem Zustand, in dem ich mich zu diesem Zeitpunkt befand, schenkte ich dem nicht viel Aufmerksamkeit. Ich war ohnehin auf der Suche nach Ablenkung nach dem, was passiert war. Dann gingen wir zum Kordon... Hey, vergiss nicht zu naschen!</text>
+  </string>
+  <string id="esc_provodnik_camp_5">
+    <text>Ja, Mann, das Leben hat dich ganz schön hart erwischt... Lass uns noch einen trinken...</text>
+  </string>
+  <string id="esc_provodnik_camp_6">
+    <text>Das kommt vor, nicht wahr? Was Witka betrifft, so beschloss er, den Kordon zu verlassen. Der arme Kerl hat den Preis dafür bezahlt... Ich habe seit einem halben Jahr nichts mehr von ihm gehört, und wenn ich die Frischlinge von der Müllhalde nach ihm frage, bekomme ich nur ein Schulterzucken. Dort ist eine Menge Scheiße passiert... tonnenweise Banditenmüll, Anomalien überall auf der Karte... Aber trotz alledem verstehst du nicht, was dich hier in dieser gottverdammten Zone hält... Tief in deinem Inneren hoffst du vielleicht, deinen Freund zu treffen, der wie durch ein Wunder überlebt hat?... Ich schenke dir noch einen ein...</text>
+  </string>
+  <string id="esc_provodnik_camp_7">
+    <text>Tragische Geschichte. Ich weiß gar nicht, was ich sagen soll...</text>
+  </string>
+  <string id="esc_provodnik_camp_8">
+    <text>Mach dir nichts draus. Lass uns noch einen trinken!</text>
+  </string>
+  <string id="esc_provodnik_camp_9">
+    <text>Ich fühle es wirklich... Ich trinke sonst kaum etwas, aber der Anlass ist es wert. Noch einen!</text>
+  </string>
+  <string id="esc_trader_take_job_0">
+    <text>Hallo. Was brauchst du?</text>
+  </string>
+  <string id="esc_trader_take_job_1">
+    <text>Hallo, Sidorowitsch! Ich bin wieder in der Zone und bereit für die Arbeit. Hast du was?</text>
+  </string>
+  <string id="esc_trader_take_job_2">
+    <text>Du bist wieder da? Ich habe dich hier noch nie gesehen.</text>
+  </string>
+  <string id="esc_trader_take_job_3">
+    <text>Komm schon, Sid, das kannst du nicht ernst meinen. Ich bin's, Axt!</text>
+  </string>
+  <string id="esc_trader_take_job_4">
+    <text>Ja, genau! Die Axt! Derjenige, der mit nichts weiter als einer Axt auf den Schultern in die Zone kam!</text>
+  </string>
+  <string id="esc_trader_take_job_5">
+    <text>Für das Protokoll: Ich habe einen Hund zerhackt.</text>
+  </string>
+  <string id="esc_trader_take_job_6">
+    <text>Das hätte mich auch täuschen können. Unsere Jungs haben ihn verwundet, während du den armen Mutanten nur von seinem Elend erlöst hast.</text>
+  </string>
+  <string id="esc_trader_take_job_7">
+    <text>Okay, genug der Höflichkeiten. Hast du einen Auftrag für mich?</text>
+  </string>
+  <string id="esc_trader_take_job_8">
+    <text>Zuerst solltest du dich nach deinem Saufgelage gestern Abend ausschlafen, und *dann* kommst du wieder zur Arbeit.</text>
+  </string>
+  <string id="esc_trader_take_job_9">
+    <text>Nun, ich habe ...</text>
+  </string>
+  <string id="esc_trader_take_job_10">
+    <text>Nun gut! Wie auch immer, ich habe ein paar Aufgaben für dich. Mein Artefaktjäger ist zur Ernte aufgebrochen und irgendwo verschwunden. Ich denke, dass er entweder etwas Wertvolles gefunden hat und damit abgehauen ist, oder die Hunde dort haben etwas "Wertvolles" gefunden und ihn zu ihrem Mittagessen gemacht. Geh doch mal hin und sieh dich um. Im Tunnel unter der Brücke gibt es eine Anomalie, und genau da wollte er hin.</text>
+  </string>
+  <string id="esc_trader_take_job_11">
+    <text>Wie hoch ist die Bezahlung?</text>
+  </string>
+  <string id="esc_trader_take_job_12_1">
+    <text>Zeig mir ein paar Ergebnisse und wir reden darüber. Du hast die ganze Ausrüstung, die du brauchst. Lass dich nur nicht von den Soldaten erwischen. Ich habe gehört, dass sie letzte Nacht Alarm geschlagen haben und nach jemandem gesucht haben. Das müssen diese Taugenichtse gewesen sein, diese Frischlinge! Sie können nicht einmal den Kontrollpunkt passieren, ohne entdeckt zu werden.</text>
+  </string>
+  <string id="esc_trader_take_job_12_2">
+    <text>Zeige mir ein paar Ergebnisse und wir reden darüber. Hier ist ein Stück, damit du anfangen kannst. Lass dich nur nicht von den Soldaten erwischen. Ich habe gehört, dass sie letzte Nacht Alarm geschlagen haben und nach jemandem gesucht haben. Das müssen diese Taugenichtse gewesen sein, diese Frischlinge! Sie können nicht einmal den Kontrollpunkt passieren, ohne entdeckt zu werden.</text>
+  </string>
+  <string id="esc_trader_take_job_13">
+    <text>Ja, sie haben es wirklich vermasselt, nicht wahr? So, ich hau ab und gehe zum Tunnel.</text>
+  </string>
+  <string id="esc_kutek_dialog_0">
+    <text>Verdammt... Verhaftet.</text>
+  </string>
+  <string id="esc_kutek_dialog_1">
+    <text>Wie ist das überhaupt möglich? In dieser Leiche ist dein PDA! Ich dachte, du wärst tot!</text>
+  </string>
+  <string id="esc_kutek_dialog_2">
+    <text>Siehst du, das ist die Sache: Ich wollte, dass alle denken, ich sei ein toter Mann. Ich habe es satt, Sids Botengänge umsonst zu machen! Ich stehe bei ihm in der Kreide... und das ist eine ganze Menge Geld! Ich kann nicht einfach davonlaufen, und es würde Monate dauern, bis ich alles abbezahlt habe, also habe ich mir diesen kleinen Plan ausgedacht: Ich habe diesen armen Bastard gefunden, der in einen Haufen Hunde gelaufen ist, habe ihm meine Kleidung angezogen und meinen PDA hinterlassen.</text>
+  </string>
+  <string id="esc_kutek_dialog_3">
+    <text>Du bist wirklich etwas ganz Spezielles! Warum bist du dann zurückgekommen?</text>
+  </string>
+  <string id="esc_kutek_dialog_4">
+    <text>Ich habe meinen Detektor in der Nähe des Tunnels fallen lassen. Ich kann meine Ausrüstung nicht vergeuden.</text>
+  </string>
+  <string id="esc_kutek_dialog_5">
+    <text>Also gut, keine Sorge. Ich werde es Sid nicht sagen.</text>
+  </string>
+  <string id="esc_kutek_dialog_6">
+    <text>Im Ernst? Mann, danke! Ich hätte dir etwas als Belohnung gegeben, aber ich bin für so gut wie pleite. Ich bin auf dem Weg zu Agroprom. Vielleicht habe ich Glück und finde dort etwas. Hier, ich habe nur noch einen Energydrink, als kleines Geschenk für dich!</text>
+  </string>
+  <string id="esc_kutek_dialog_7">
+    <text>Das wird mir nützlich sein, wenn ich meine Haut retten muss. Na dann, viel Glück!</text>
+  </string>
+  <string id="esc_kutek_idle_dialog_0">
+    <text>Sag dem Händler einfach nichts, Stalker.</text>
+  </string>
+  <string id="esc_kutek_idle_dialog_1">
+    <text>Mach dir keine Sorgen. Das werde ich nicht.</text>
+  </string>
+  <string id="esc_trader_collector_arts_0">
+    <text>Nun, Sid, dein Kutjok ist erledigt.</text>
+  </string>
+  <string id="esc_trader_collector_arts_1">
+    <text>Was ist passiert?</text>
+  </string>
+  <string id="esc_trader_collector_arts_2_1">
+    <text>Von den Hunden zu Tode gebissen. Seine Überreste liegen in der Nähe des Tunnels. Hier ist sein PDA.</text>
+  </string>
+  <string id="esc_trader_collector_arts_2_2">
+    <text>Ich habe ihn beim Tunnel gefunden. Er ist jetzt Hundefutter. Ich habe seinen PDA und ein Artefakt aus dem Tunnel.</text>
+  </string>
+  <string id="esc_trader_collector_arts_2_3">
+    <text>Es ist nichts passiert, aber du kannst die Dinge in Ordnung bringen. Er hat beschlossen, dich zu täuschen.</text>
+  </string>
+  <string id="esc_trader_collector_arts_3_1">
+    <text>Hmmm, so ist die Zone! Eine Schande, er war ein guter Sammler. Der Typ konnte für drei Männer arbeiten, wenn es nötig war... Was zählt, ist, dass er ehrlich war. Wer wird wohl seinen Platz einnehmen?...</text>
+  </string>
+  <string id="esc_trader_collector_arts_3_2">
+    <text>Gute Arbeit. Was das Artefakt angeht, gebe ich dir noch fünfhundert obendrauf und das war's. Wirklich schade, er war ein guter Sammler. Der Typ hat die Arbeit von drei Männern gemacht, wenn es nötig war... Was zählt, ist, dass er ehrlich war. Wer wird wohl jemals seinen Platz einnehmen?...</text>
+  </string>
+  <string id="esc_trader_collector_arts_3_3">
+    <text>Wirklich?</text>
+  </string>
+  <string id="esc_trader_collector_arts_4_1">
+    <text>Ich weiß es nicht. Ich könnte es versuchen, wenn das für dich in Ordnung ist?</text>
+  </string>
+  <string id="esc_trader_collector_arts_4_2">
+    <text>Er hat seinen PDA einer Leiche zugesteckt und wollte sich verdrücken. Er sagte mir, dass er sich versteckt, weil er dir eine Menge schuldet. Ich habe ihn zufällig gefunden, als er zurückkam, um seinen verlorenen Detektor zu holen.</text>
+  </string>
+  <string id="esc_trader_collector_arts_4_3">
+    <text>Er hat seinen PDA einer Leiche zugesteckt und wollte sich verdrücken. Er sagte mir, dass er sich versteckt, weil er dir eine Menge schuldet. Ich habe ihn zufällig gefunden, als er zurückkam, um seinen verlorenen Detektor zu holen. Und außerdem ist hier ein Artefakt.</text>
+  </string>
+  <string id="esc_trader_collector_arts_5_1">
+    <text>Warum nicht? Aber sei gewarnt, ich werde dir nicht viel geben. Für jedes Artefakt gebe ich dir nicht mehr als 1.500. Aber wir werden sehen, was du mitbringst. Hier ist ein guter Detektor für dich, denn mit deinem alten Ding wirst du kaum etwas finden, also vergiss nicht, ihn zurückzugeben!</text>
+  </string>
+  <string id="esc_trader_collector_arts_5_2">
+    <text>Wie bitte? Dieser Mistkerl...! Wenn ich ihn finde, wird er es bereuen. Hier ist noch ein bisschen mehr für deine Ehrlichkeit.</text>
+  </string>
+  <string id="esc_trader_collector_arts_5_3">
+    <text>Wie bitte? Dieser Mistkerl...! Wenn ich ihn finde, wird er es bereuen. Hier ist noch ein bisschen mehr für deine Ehrlichkeit und für das Artefakt.</text>
+  </string>
+  <string id="esc_trader_collector_arts_6_1">
+    <text>Funktioniert bei mir. Gib mir die Koordinaten.</text>
+  </string>
+  <string id="esc_trader_collector_arts_6_2">
+    <text>Ich könnte versuchen, seine Arbeit zu übernehmen, wenn das für dich in Ordnung ist.</text>
+  </string>
+  <string id="esc_trader_collector_arts_7">
+    <text>Warum nicht? Denk nur daran, dass die Bezahlung nicht die beste ist. Ich gebe nicht mehr als anderthalb Riesen für jedes Artefakt aus, aber wir warten ab, was du einbringst. Du kannst deinen alten Detektor loswerden... hier ist ein echter für dich. Vergiss nur nicht, ihn wieder zurückzugeben!</text>
+  </string>
+  <string id="esc_trader_collector_arts_8">
+    <text>Ich bin dabei. Gib mir die Koordinaten.</text>
+  </string>
+  <string id="esc_trader_find_arts_0">
+    <text>Puh. Fertig mit der Artefaktarbeit.</text>
+  </string>
+  <string id="esc_trader_find_arts_1">
+    <text>Gut gemacht. Zeig mir, was du geschnorrt hast.</text>
+  </string>
+  <string id="esc_trader_find_arts_2">
+    <text>Hier, bitte. Das ist alles, was ich finden konnte.</text>
+  </string>
+  <string id="esc_trader_find_arts_3">
+    <text>Das ist genau das Richtige! Hier ist dein wohlverdientes Geld, fair und anständig.</text>
+  </string>
+  <string id="esc_trader_find_arts_4">
+    <text>Bist du verrückt geworden? Das ist nicht einmal die Hälfte von dem, was die Artefakte wert sind! Ich wurde dafür fast umgebracht und du gibst mir nichts dafür!</text>
+  </string>
+  <string id="esc_trader_find_arts_5">
+    <text>Aber, aber, Axt, mach dir nicht ins Hemd. Ich kann dir nicht noch mehr geben. Schließlich habe ich dir einen guten Detektor gegeben.Wie hättest du die Artefakte ohne ihn gefunden? Wenn du danach noch mehr findest, kaufe ich ihn dir zu einem guten Preis ab. Übrigens, Fanatiker wollte dich draußen sehen. Er sagt, er hat eine Hundelager, um das er sich kümmern muss, und er könnte die zusätzliche Feuerkraft gebrauchen... Also beeil dich gefälligst!</text>
+  </string>
+  <string id="esc_trader_find_arts_6">
+    <text>Du hast dich kein bisschen verändert, du alter Furz.</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_0">
+    <text>Sid, wo ist dein Laptop? Du hattest ihn noch letztes Jahr. Ist er kaputt gegangen?</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_1">
+    <text>Ja, er ist kaputt... Jetzt sitze ich hier und arbeite an diesem klobigen Stück Müll. Oh, danke, dass du mich daran erinnerst: Du darfst beim Techniker im Dorf vorbeischauen. Ich habe ihm meinen Laptop vor zwei Monaten zur Reparatur gegeben... Er muss ihn inzwischen repariert haben, und da er seinen Arsch nicht hochgekriegt hat und ihn selbst hierher gebracht hat, geh hin, rede mit ihm und bring ihn hierher zurück.</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_2">
+    <text>Wenn es jemanden gibt, der seinen Arsch hochkriegen sollte, dann bist du das Sid! Hier zu sitzen und Leute herumzukommandieren...</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_3">
+    <text>Tu einfach, was ich sage. Es gibt eine kleine Belohnung für dich. Du wirst nicht reich werden, aber es wird sich für dich lohnen. Du würdest sowieso dort vorbeikommen!</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_4_1">
+    <text>In Ordnung, du hast mich überzeugt. Ich bin gleich wieder da.</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_4_2">
+    <text>Nein, Sid. Ich werde keine Besorgungen für dich machen. Gib mir etwas Ernsthafteres...</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_second_0">
+    <text>Ich habe nachgedacht... Ich habe mich ein wenig aufgeregt. Brauchst du mich immer noch, um den Laptop zu holen?</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_second_1">
+    <text>Ach, das ist doch nichts. Ja, es würde mir nichts ausmachen, ihn jetzt hier zu haben...</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_second_2">
+    <text>Ich gehe dann mal.</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_mechanic_0">
+    <text>Hey, Michalitsch! Ich bin wegen Sid's Laptop hier. Hast du ihn repariert?</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_mechanic_1">
+    <text>Ja, gut, dass du vorbeigekommen bist. Ich hatte keine Zeit, den Lieferjungen für diesen Clown zu spielen. Nimm den Laptop und richte ihm meine besten Grüße aus.</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_mechanic_2">
+    <text>Verstanden. Wir sehen uns später.</text>
+  </string>
+  <string id="esc_robbery_bandit_dialog_0">
+    <text>Ey, Punk, leere alles, was du in der Anomalie gefunden hast und mach es schnell!</text>
+  </string>
+  <string id="esc_robbery_bandit_dialog_1">
+    <text>Ist das deine Anomalie?</text>
+  </string>
+  <string id="esc_robbery_bandit_dialog_2">
+    <text>Was zum Teufel meinst du mit "meine Anomalie"? Ich mache nur eine routinemäßige Taschenkontrolle, Dumpfbacke!</text>
+  </string>
+  <string id="esc_robbery_bandit_dialog_3_1">
+    <text>Klar, nimm es. Du wirst aber nicht damit durchkommen.</text>
+  </string>
+  <string id="esc_robbery_bandit_dialog_3_2">
+    <text>Mit so einem Erbsenschießer verletzt du dich doch nur.</text>
+  </string>
+  <string id="esc_robbery_bandit_dialog_4_1">
+    <text>Ich komme sowieso zurecht. Und jetzt hau ab!</text>
+  </string>
+  <string id="esc_robbery_bandit_dialog_4_2">
+    <text>Nun, äh... ich habe dich gewarnt, wenn überhaupt. Wenn ich an deiner Stelle wäre, würde ich sehr vorsichtig sein, wo ich hier hingehe.</text>
+  </string>
+  <string id="esc_robbery_bandit_dialog_5_1">
+    <text>Auf Wiedersehen.</text>
+  </string>
+  <string id="esc_robbery_bandit_dialog_5_2">
+    <text>Wenn ich du wäre, würde ich meine Klappe halten.</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_0">
+    <text>Ich bin's wieder. Der Fanatiker schickt mich . Er sagt, du bist der Waffenmeister hier. Könntest du meine AK reparieren?</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_1">
+    <text>Später, okay? Ich habe dir doch gesagt, dass ich im Moment viel zu tun habe. Lass sie hier und ich werde sie später reparieren.</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_2">
+    <text>Hier. Hast du vielleicht etwas Arbeit für mich? Während du beschäftigt bist, könnte ich aushelfen. Ich habe kein Geld, um dich für die Reparatur zu bezahlen.</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_3">
+    <text>Eigentlich könntest du mir gerade jetzt helfen! Ich habe eine Kleinigkeit, um die ich mich kümmern muss...</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_4">
+    <text>Worum geht es dabei?</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_5">
+    <text>Jede Nacht sehe ich im Tiefland, wo sich der radioaktive Sumpf befindet, diese seltsamen schwebenden Lichter. Das müssen Artefakte sein, und sehr seltene noch dazu! Ich war tagsüber dort, habe aber nichts gefunden. Es scheint, als kämen sie nur nachts heraus... und die Nacht birgt ihre eigenen Gefahren. Ich bin Techniker, kein Kämpfer, und in letzter Zeit gab es genug Mutanten. Wenn du diesen Ort überprüfst und die Artefakte findest, repariere ich dein Gewehr und gebe dir einen Rabatt auf zukünftige Bestellungen. Was sagst du dazu?</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_6_1">
+    <text>Ich bin dabei. Ohne das Gewehr wird es schwierig, also habe ich keine andere Wahl.</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_6_2">
+    <text>Ich bin nachts dort gewesen. Ich kann dir sagen, dass das Poltergeister sind, aber ich werde sicherheitshalber noch einmal nachsehen.</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_6_3">
+    <text>Ich bin nachts dort gewesen. Ich kann dir sagen, dass es sich um Poltergeister handelt, mit denen ich schon zu tun hatte. Zu deinem Pech gibt es dort keine Artefakte.</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_7_1">
+    <text>Dann nimm ein paar Antirads für die Reise mit. Bleib nicht zu lange dort. Viel Glück!</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_7_2">
+    <text>Natürlich, überprüfe es. Nimm ein paar Antirads für die Reise mit, und versuche, es schnell zu machen. Viel Glück!</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_7_3">
+    <text>Mist, und ich war schon ganz aufgeregt... Also gut. Lass deine AK hier. Ich rufe dich an, wenn die Reparatur fertig ist.</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_8_1">
+    <text>Ich bin bald zurück.</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_8_2">
+    <text>Wir werden sehen, was geschieht. Auf Wiedersehen.</text>
+  </string>
+  <string id="esc_mechanic_repair_dialog_8_3">
+    <text>Großartig.</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_day_0">
+    <text>Was willst du noch? Ich habe dir gesagt, du sollst nachts noch einmal vorbeischauen!</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_day_1">
+    <text>Na ja, du weißt schon... Gut, ich gehe.</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_night_0">
+    <text>Okay, jetzt ist der richtige Zeitpunkt. Hier sind ein paar Antirads. Ich warte auf dich.</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_night_1">
+    <text>Wir sind im Handumdrehen zurück.</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_complete_0">
+    <text>Hier ist dein Laptop, alter Mann.</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_complete_1">
+    <text>Endlich kann ich mit etwas halbwegs Anständigem arbeiten! Ich muss nur noch ein paar Sachen zu Ende bringen und speichern. Und für dich ist hier ein kleines Geschenk. Und jetzt geh dich ausruhen.</text>
+  </string>
+  <string id="esc_trader_notebook_dialog_complete_2">
+    <text>Das nehme ich.</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_1">
+    <text>Okay, jetzt ist der richtige Zeitpunkt! Hier sind ein paar Antirads. Geht jetzt zu den Anomalien, bevor die Artefakte verschwinden!</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_2">
+    <text>Ich bin gleich da!</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_compl_0">
+    <text>Wie läuft's mit den Artefakten?</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_compl_1_1">
+    <text>Ich bin dabei.</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_compl_1_2">
+    <text>Also, Michalitsch, von welchen verdammten "Artefakten" hast du geträumt? Alles, was ich gefunden habe, waren Poltergeister und zwar drei davon!</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_compl_2">
+    <text>Echt jetzt? Ach, Mist...</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_compl_3_1">
+    <text>Ja, das war ein Haufen Mist! Ich habe sie kaum fertig gemacht.</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_compl_3_2">
+    <text>Ja, das war ein Haufen Mist! Ich habe kaum meine eigene Haut gerettet!</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_compl_4">
+    <text>Nun, Scheiße. Sie haben richtig geglüht...</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_compl_5">
+    <text>Ja, klar. Es ist mir egal, was geglüht hat. Repariere meine AK.</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_compl_6">
+    <text>Mache ich, mach ich! Kümmere dich in der Zwischenzeit um andere Dinge. Ich sage dir Bescheid, wenn ich fertig bin.</text>
+  </string>
+  <string id="esc_mechanic_quest_polters_compl_7">
+    <text>Abgemacht.</text>
+  </string>
+  <string id="esc_mechanic_repair_ar_fialog_final_0">
+    <text>Okay, show me how my battle-scarred AK is doing.</text>
+  </string>
+  <string id="esc_mechanic_repair_ar_fialog_final_1_1">
+    <text>Hier. Deine AK ist so gut wie neu! Wenn du jemals etwas anderes repariert haben willst, komm vorbei. Ich habe jetzt mehr freie Zeit dafür.</text>
+  </string>
+  <string id="esc_mechanic_repair_ar_fialog_final_1_2">
+    <text>Hier. Deine AK ist so gut wie neu! Und als Ausgleich für den Ärger mit den Poltergeistern etwas Munition — jetzt bin ich sicher, dass nichts anderes mehr in diese Anomalie eindringen wird. Wenn du jemals etwas anderes repariert haben willst, komm vorbei. Ich habe jetzt mehr freie Zeit dafür.</text>
+  </string>
+  <string id="esc_mechanic_repair_ar_fialog_final_2">
+    <text>Danke! Ich werde auf jeden Fall mal vorbeischauen!</text>
+  </string>
+  <string id="fanat_logovo_dialog_0">
+    <text>Hallo! Sidorowitsch hat mir erzählt, dass du dich mit den Mutanten befassen willst. Brauchst du Hilfe?</text>
+  </string>
+  <string id="fanat_logovo_dialog_1">
+    <text>Das kann nicht schaden! Bist du bereit, mitzukommen?</text>
+  </string>
+  <string id="fanat_logovo_dialog_2">
+    <text>Ich bin bereit. Wie hoch ist das Budget für diese Veranstaltung?</text>
+  </string>
+  <string id="fanat_logovo_dialog_3">
+    <text>Welches Budget? Wir sorgen dafür, dass dieser Abschaum keinen Fuß in unser Dorf setzt!</text>
+  </string>
+  <string id="fanat_logovo_dialog_4">
+    <text>Tut mir leid, dann. Ich habe meine eigenen Pläne.</text>
+  </string>
+  <string id="fanat_logovo_dialog_5">
+    <text>Ich hatte vor, etwas Ausrüstung und Geld aus den Dorfreserven beizusteuern...</text>
+  </string>
+  <string id="fanat_logovo_dialog_6">
+    <text>Das ist doch mal ein Wort!</text>
+  </string>
+  <string id="fanat_logovo_dialog_7">
+    <text>Okay, hört zu. Wir vier haben vor, die Pseudohunde abzuschießen. Wir haben die Nase voll von ihnen und ihren Angriffen auf das Dorf. Diese Dinger vermehren sich wie die Karnickel! Normalerweise treiben sie sich irgendwo bei der Fahrzeugstation herum, aber wir werden sie nicht einfach ausschalten. Wir müssen ihren Unterschlupf finden und ihn in die Luft jagen!</text>
+  </string>
+  <string id="fanat_logovo_dialog_8">
+    <text>Wie ist dein Plan?</text>
+  </string>
+  <string id="fanat_logovo_dialog_9">
+    <text>Wolf hat in der Nähe der Lokomotive etwas Dynamit versteckt. Wenn du das Dorf verlässt und der Straße bis zum Bahndamm folgst, biegst du rechts ab und gehst weiter, bis du sie siehst. Dort musst du nachsehen. Finde das Dynamit und gehe dann zu der Stelle, die wir markiert haben. Während wir dir Deckung geben, erschießt du die Hunde und legst das Dynamit neben das Loch, dann sprengen wir es in die Luft. Leichter gesagt als getan, aber wir werden es schaffen. Aber beeil dich!</text>
+  </string>
+  <string id="fanat_logovo_dialog_10">
+    <text>Verstanden. Ich gehe dann mal.</text>
+  </string>
+  <string id="fanat_logovo_wait_dialog_0">
+    <text>Hast du das Dynamit bekommen? Beeile dich, wir bereiten alles vor!</text>
+  </string>
+  <string id="fanat_idle_dialog_0">
+    <text>Worum geht es?</text>
+  </string>
+  <string id="fanat_idle_dialog_good_0">
+    <text>Hey, Axt! Brauchst du etwas?</text>
+  </string>
+  <string id="fanat_logovo_complete_0">
+    <text>Puh! Das war heftig, aber wir haben es schnell geschafft! Ich hoffe, das wird diese Biester eine Weile davon abhalten, sich zu vermehren. Hier ist etwas Geld und eine AK, wie ich es versprochen habe... Allerdings muss sie repariert werden. Sie ist schon ziemlich ramponiert, und wenn du versuchst, sie abzufeuern, klemmt sie buchstäblich bei jedem Schuss.</text>
+  </string>
+  <string id="fanat_logovo_complete_1">
+    <text>Wo kann ich sie reparieren lassen? Ist hier jemand mit dem nötigen Fachwissen?</text>
+  </string>
+  <string id="fanat_logovo_complete_2">
+    <text>Es gibt einen Techniker im Dorf. Michalitsch ist sein Name. Frag ihn. Er wird es nicht umsonst reparieren, aber ich glaube, ihr beide könnt euch einigen.</text>
+  </string>
+  <string id="fanat_logovo_complete_3">
+    <text>Ich verstehe. Danke!</text>
+  </string>
+  <string id="fanat_logovo_complete_4">
+    <text>Wir machen uns auf den Weg zurück ins Dorf. Kommst du mit uns?</text>
+  </string>
+  <string id="fanat_logovo_complete_5_1">
+    <text>Ja, lass uns gehen. Ich werde Michalitsch besuchen und ihm die Waffe anvertrauen.</text>
+  </string>
+  <string id="fanat_logovo_complete_5_2">
+    <text>Ich bleibe hier. Geht ruhig, wir sehen uns später.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_0">
+    <text>Warte mal, Kumpel. Bist du frei? Ich habe einen Auftrag für dich. Du erkennst mich vielleicht wieder. Wir haben zusammen mit Fanatiker die Hundehöhle ausgeräumt.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_1_1">
+    <text>Ja, natürlich. Was willst du?</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_1_2">
+    <text>Ein anderes Mal.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_2_1">
+    <text>Du kennst doch Jurok, unseren Reiseführer, oder? Dieser eine Typ hat sich Geld von ihm geliehen und gibt es nicht zurück. Jurok hat mir einmal das Leben gerettet, also will ich mich revanchieren und ihm das Geld zurückholen, aber mein Platz ist hier im Dorf und ich kann mich nicht dazu durchringen, ihn zu verlassen. Ich weiß, wo sich der Kerl normalerweise versteckt, also musst du ihm nur das Geld abnehmen. Wenn er nicht kooperiert, weißt du, was zu tun ist. Du bringst mir achttausend und ich gebe sie an Jurok weiter, als Dank für meine Rettung. Den Rest kannst du gerne behalten. Außerdem besorge ich dir etwas Schönes als Belohnung. Ich habe die Koordinaten hier. Hast du Lust?</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_2_2">
+    <text>Wenn du Zeit hast, komm vorbei. Mein Angebot steht.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_3_1">
+    <text>Warum sollte ich einem guten Kerl wie Jurok nicht helfen? Gib mir die Koordinaten.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_3_2">
+    <text>Nein. Zähle nicht auf mich und finde jemand anderen.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_4_1">
+    <text>Normalerweise schnüffelt er beim Getreidesilo herum. Keine Ahnung, wonach er sucht... Viel Glück!</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_4_2">
+    <text>Wenn du deine Meinung änderst, komm wieder zu mir. Mein Angebot steht.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_5">
+    <text>Ich bin gleich da!</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_6_1">
+    <text>Wir werden sehen.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_6_2">
+    <text>Ich denke darüber nach.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_second_dialog_0">
+    <text>Was war das für ein Auftrag, den du für mich hattest?</text>
+  </string>
+  <string id="esc_fanat_friend_quest_dialog_1">
+    <text>Du kennst doch Jurok, unseren Reiseführer, oder? Dieser eine Typ hat sich Geld von ihm geliehen und gibt es nicht zurück. Jurok hat mir einmal das Leben gerettet, also will ich mich revanchieren und ihm das Geld zurückholen, aber mein Platz ist hier im Dorf und ich bringe es nicht über mich, ihn zu verlassen. Ich weiß, wo sich der Kerl normalerweise versteckt, also musst du ihm nur das Geld abnehmen. Wenn er nicht kooperiert, weißt du, was zu tun ist. Du bringst mir achttausend und ich gebe sie an Jurok weiter, als Dank für meine Rettung. DSen Rest kannst du gerne behalten. Außerdem besorge ich dir etwas Schönes als Belohnung. Ich habe die Koordinaten hier. Hast du Lust?</text>
+  </string>
+  <string id="esc_fanat_friend_quest_second_dialog_2_1">
+    <text>Gib mir die Koordinaten. Ich werde ihm helfen.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_second_dialog_2_2">
+    <text>Ich hatte mit etwas anderem gerechnet. Daran bin ich nicht interessiert.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_second_dialog_3_1">
+    <text>Er ist normalerweise beim Getreidesilo. Er schnüffelt nach etwas herum...</text>
+  </string>
+  <string id="esc_fanat_friend_quest_second_dialog_3_2">
+    <text>Also, komm zu mir, wenn du es wieder interessant findest.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_second_dialog_4_1">
+    <text>Ich bin gleich da!</text>
+  </string>
+  <string id="esc_fanat_friend_quest_second_dialog_4_2">
+    <text>Wir werden sehen.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_third_dialog_0">
+    <text>Ich bin wegen des Betrügers hier. Gilt das Angebot noch?</text>
+  </string>
+  <string id="esc_fanat_friend_quest_third_dialog_1">
+    <text>Ja, natürlich. Der Drecksack hängt normalerweise am Getreidesilo ab und schnüffelt nach etwas herum. Besorg das Geld und ich sorge dafür, dass es sich für dich lohnt. Wie gesagt, ich brauche achttausend, du kannst den Rest nehmen und ich gebe dir noch etwas obendrauf.</text>
+  </string>
+  <string id="esc_fanat_friend_quest_third_dialog_2">
+    <text>Dann warte hier. Ich bin gleich wieder da.</text>
+  </string>
+  <string id="esc_provodnik_buhaem_0">
+    <text>Sieh mal, wer das ist! Setz dich hin!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_1">
+    <text>Hallo. Sag mir, wo warst du? Was gibt's Neues?</text>
+  </string>
+  <string id="esc_provodnik_buhaem_2_1">
+    <text>Was meinst du mit "wo war ich"? Ich habe diese Idioten herumgeführt. Hast du meinen Beruf vergessen? Ich kann nicht sagen, dass ich irgendwelche Neuigkeiten habe... Ich habe mir vor kurzem einen neuen Ballermann zugelegt, aber sonst ist alles wie immer. Also trinke ich nur, hehe.</text>
+  </string>
+  <string id="esc_provodnik_buhaem_2_2">
+    <text>Was meinst du mit "wo war ich"? Ich habe diese Idioten herumgeführt. Hast du meinen Beruf vergessen? Ich kann nicht sagen, dass ich irgendwelche Neuigkeiten habe... Ich habe mir vor kurzem eine neue Waffe besorgt, aber sonst ist alles beim Alten. \n \n Übrigens, nimm dieses Funkgerät. Ich habe es in der Leiche eines der Soldaten gefunden, von denen ich dir erzählt habe. Es ist alles, was er bei sich hatte, es sollte von Nutzen sein. Es scheint, als hätte ihnen jemand vor mir die Waffen und Habseligkeiten abgenommen und das Funkgerät aus irgendeinem Grund nicht mitgenommen. Vielleicht hat er es auch nicht bemerkt.Wenn du etwas Vertrauliches hast, kannst du mich damit, anstatt mit deinem PDA kontaktieren, ha-ha.. Und jetzt lass uns trinken!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_3_1">
+    <text>Schenk ein!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_3_2">
+    <text>Herzlichen Dank! Und jetzt gieß ein!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_4">
+    <text>Oh, das war ein guter Witz! Was gibt's Neues bei dir? Denkst du immer noch darüber nach, zur Müllhalde zu gehen? Allein der Gedanke an all diese Banditen... Da kriege ich Gänsehaut, Mann!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_5_1">
+    <text>Es geht weiter bergauf. Ich arbeite für Sid. Du wirst wohl kaum einen größeren Geizhals in der ganzen Zone finden... Und was ist mit der Müllhalde los? Ich will schon seit Ewigkeiten neue Teile der Zone sehen. Denk mal drüber nach, ja? Und nicht nur die Müllhalde. Es gibt noch viele andere abgefahrene Orte! Oh, das hätte ich fast vergessen. Gut, dass du mir den Tipp mit den Dummköpfen gegeben hast. Ich habe den Ort überprüft und ein solides Funkgerät an einer Leiche gefunden, genau so eins wie das, das du hast. So können wir auch dann Kontakt aufnehmen, wenn unsere PDAs kein Signal haben.</text>
+  </string>
+  <string id="esc_provodnik_buhaem_5_2">
+    <text>Es läuft wie geschmiert. Ich arbeite für Sid. Du wirst wohl kaum einen größeren Geizhals in der ganzen Zone finden... Und was ist mit der Müllhalde los? Ich will schon seit Ewigkeiten neue Teile der Zone sehen. Denk mal drüber nach, ja? Und nicht nur die Müllhalde. Es gibt tonnenweise abgefahrene Orte!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_6_1">
+    <text>Das Funkgerät wird uns sicher nützlich sein. Ich dachte schon, die armen Kerle hätten keine Beute mehr... Also, worüber sprachen wir gerade...? Neue Orte? Was ist daran " abgefahren "? Nur ein ganzer Haufen alter, verlassener Gebäude, von denen wir draußen schon genug haben. Der Hauptunterschied dort und der ist kein guter, sage ich dir, ist, dass du, sobald du einnickst, etwas in den Rücken bekommst! Ist es das, was du suchst?</text>
+  </string>
+  <string id="esc_provodnik_buhaem_6_2">
+    <text>Was ist daran "abgefahren"? Nur ein ganzer Haufen alter, verlassener Gebäude, davon haben wir draußen schon genug. Der Hauptunterschied dort, und kein es ist kein guter, sage ich dir, ist, dass du, sobald du einnickst, etwas in den Rücken bekommst! Ist es das, was du suchst?</text>
+  </string>
+  <string id="esc_provodnik_buhaem_7">
+    <text>Alter, hör auf zu übertreiben! Warum kommst du nicht mit mir? Wir werden reich, kaufen uns eine lohnende Ausrüstung und schaffen es zurück zum Kordon!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_8">
+    <text>Nein, Kumpel. Danke. Mir geht es gut, da wo ich bin. Ich bin satt und angezogen, ich habe Geld... was noch? Tut mir leid, aber ich passe. Mann, lass uns aufhören zu reden und anfangen zu trinken!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_9">
+    <text>Ja, schenk schon ein, haha!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_10">
+    <text>Ugh, Axt... wenn du deinen Trip wirklich machen willst, dann pass auf dich auf. Die Zone ist kein Paradies... Du solltest wissen, dass dort schon viele Leute gestorben sind. Es ist schrecklich, daran zu denken! Nimm zum Beispiel meinen Kumpel Witka. Ich kannte ihn schon, als wir noch in den Windeln lagen und er entschied sich, den Kordon zu verlassen. Wir blieben ein paar Tage in Kontakt, und danach... nun, es ist ein halbes Jahr her, und ich habe nichts von ihm gehört. Er muss in dieser Gegend gestorben sein... Lass uns trinken...</text>
+  </string>
+  <string id="esc_provodnik_buhaem_11">
+    <text>Lasst uns austrinken! Und woher weißt du, wie viele Menschen dort gestorben sind, hm? Das sind alles Märchen. Ich werde selbst nachsehen und deinen Witka finden, wenn ich schon dabei bin. Wenn ich zurückkomme, bedeutet das, dass das ganze Gerede, es sei gefährlich, eine Lüge ist.</text>
+  </string>
+  <string id="esc_provodnik_buhaem_12">
+    <text>Mann, ich sitze nur hier und denke... Ich habe niemanden, mit dem ich reden kann, außer dir. Niemanden... Du bist wie ein Bruder für mich. Geh nicht über den Kordon hinaus, du wirst es bereuen! Denk an all die lebenden Beweise dafür!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_13">
+    <text>Werde nicht zu weich. Es wird schon gehen! Ich werde einfach hin und zurück gehen und dann meine Eindrücke mit dir teilen. "Lebendiger Beweis"... Ich bin ein Glückspilz und werde heil durchkommen. Und ich habe auch niemanden außer dir... Noch ein Glas!</text>
+  </string>
+  <string id="esc_provodnik_buhaem_14">
+    <text>Das ist ein unnötiges Risiko, Kumpel. Du bist jung und unüberlegt... Du wirst im Handumdrehen weg sein. Veteranen, wenn nicht sogar Meister, sind an diesen Orten gestorben, und du glaubst, du kannst es besser? Hör dir selbst zu. Dort gibt es nichts zu tun!... Noch ein Glas?</text>
+  </string>
+  <string id="esc_provodnik_buhaem_15">
+    <text>Ich fühle mich gerade richtig krank... Ich habe es schon wieder getan... Oh, Mama... mein Kopf...</text>
+  </string>
+  <string id="esc_trader_take_second_job_0">
+    <text>Hey! Hast du irgendwelche Aufgaben?</text>
+  </string>
+  <string id="esc_trader_take_second_job_1">
+    <text>Hallo zusammen! Ich weiß. Ich würde sagen, du hast dich gut geschlagen, also hoffe ich, dass ich es nicht bereuen werde, dir diese Aufgabe anzuvertrauen...</text>
+  </string>
+  <string id="esc_trader_take_second_job_2">
+    <text>Ich höre dir zu.</text>
+  </string>
+  <string id="esc_trader_take_second_job_3">
+    <text>Ein Forscherteam wird bald am Militärkontrollpunkt eintreffen. Was zum Teufel sie auch suchen, ich weiß es nicht! Ich weiß nur, dass sie bald mit einer Militäreskorte abreisen werden, um Feldforschung zu betreiben.</text>
+  </string>
+  <string id="esc_trader_take_second_job_4">
+    <text>Welche Art von Feldforschung?</text>
+  </string>
+  <string id="esc_trader_take_second_job_5">
+    <text>Genau das will ich herausfinden. Vielleicht hecken sie etwas gegen die Stalker aus, und das bedeutet, dass mein Geschäft darunter leiden wird. Ich muss alles wissen. Du wirst sie verfolgen, aber sei dabei vorsichtig. Finde heraus, wo sie hingehen und was sie tun werden und erstatte mir dann Bericht. Und jetzt mach dich auf den Weg! Wir klären das später.</text>
+  </string>
+  <string id="esc_trader_take_second_job_6">
+    <text>Alles klar. Ich werde mein Bestes geben.</text>
+  </string>
+  <string id="esc_trader_scients_task_complete_0">
+    <text>Ich habe die Wissenschaftler verfolgt. Sie hielten auf der Wiese bei der Fahrzeugstation und bauten irgendetwas auf.</text>
+  </string>
+  <string id="esc_trader_scients_task_complete_1">
+    <text>Was bauten sie auf?</text>
+  </string>
+  <string id="esc_trader_scients_task_complete_2">
+    <text>Hier!</text>
+  </string>
+  <string id="esc_trader_scients_task_complete_3">
+    <text>Bist du verrückt? Warum im Namen des Kernkraftwerks hast du es hierher gebracht? Wir wissen nicht einmal, was das für ein Ding ist! Das hätte ich nicht von dir erwartet...</text>
+  </string>
+  <string id="esc_trader_scients_task_complete_4">
+    <text>Verdammt! Das hätte ich nicht gedacht...</text>
+  </string>
+  <string id="esc_trader_scients_task_complete_5">
+    <text>Sei froh, dass es in deinen Händen nicht durchgedreht ist! Okay... also... Bring es zum Techniker. Er kann uns vielleicht sagen, was das für ein Ding ist... und danach legst du es am besten wieder dahin zurück, wo es war!</text>
+  </string>
+  <string id="esc_technic_inspect_obj_first_0">
+    <text>Hallo zusammen! Sidorowitsch wollte, dass wir uns das Ding ansehen. Wir wissen nicht, was es macht. Vielleicht kannst du es uns sagen.</text>
+  </string>
+  <string id="esc_technic_inspect_obj_first_1">
+    <text>Oooookay... Lass uns mal nachsehen. Warte mal...</text>
+  </string>
+  <string id="esc_technic_inspect_obj_first_2">
+    <text>...</text>
+  </string>
+  <string id="esc_technic_inspect_obj_second_0">
+    <text>Verdammt! Ich habe das Ding eingeschaltet und...</text>
+  </string>
+  <string id="esc_technic_inspect_obj_second_1">
+    <text>Mach es aus!</text>
+  </string>
+  <string id="esc_technic_inspect_obj_second_2">
+    <text>Ich versuche es ja!</text>
+  </string>
+  <string id="esc_technic_inspect_obj_second_3">
+    <text>Beeil dich! Ich gehe los, um den Angriff abzuwehren!</text>
+  </string>
+  <string id="esc_technic_inspect_obj_third_0">
+    <text>Hast du sie abgewehrt?!</text>
+  </string>
+  <string id="esc_technic_inspect_obj_third_1">
+    <text>Das haben wir! Hast du es geschafft, das Ding abzuschalten?</text>
+  </string>
+  <string id="esc_technic_inspect_obj_third_2">
+    <text>Ja, Gott sei Dank. Gerade noch so geschafft!</text>
+  </string>
+  <string id="esc_technic_inspect_obj_third_3">
+    <text>Ich weiß nicht, was es ist, aber das Ding hat die Mutanten hierher gelockt. Sobald du es ausgeschaltet hast, sind sie buchstäblich verschwunden!</text>
+  </string>
+  <string id="esc_technic_inspect_obj_third_4">
+    <text>Nun ja...</text>
+  </string>
+  <string id="esc_technic_inspect_obj_third_5">
+    <text>Ich werde zu Sidorowitsch gehen. Gib es her.</text>
+  </string>
+  <string id="esc_trader_techic_complete_dialog_0">
+    <text>Ich weiß gar nicht, was ich sagen soll...</text>
+  </string>
+  <string id="esc_trader_techic_complete_dialog_1">
+    <text>Halt die Klappe und hör zu!... Du bist nichts weiter als ein nichtsnutziger, hirnloser Haufen Pferdescheiße. Warum zum Teufel hast du das Ding hierher gebracht?! Denk dran: Wenn du mit mir arbeiten willst, musst du deinen leeren Kopf benutzen!</text>
+  </string>
+  <string id="esc_trader_techic_complete_dialog_2">
+    <text>Es wird nicht wieder vorkommen...</text>
+  </string>
+  <string id="esc_trader_techic_complete_dialog_3">
+    <text>Also... niemand im Lager außer mir und dem Techniker weiß von deinem kleinen Schlamassel. Das wird auch so bleiben... aber du wirst eine weitere Aufgabe auf deinen Schultern haben. Deine letzte. Tut mir leid, aber ich will nichts mehr mit dir zu tun haben. Und du wirst nicht bezahlt.</text>
+  </string>
+  <string id="esc_trader_techic_complete_dialog_4">
+    <text>Ich verstehe... Was muss ich tun?</text>
+  </string>
+  <string id="esc_trader_techic_complete_dialog_5">
+    <text>Deine einzige Chance, dich zu rehabilitieren, ist, das Ding in der Nähe der Banditen an der Fahrzeugstation zu platzieren und es zu aktivieren. Vielleicht haben wir dann eine Chance, diesen Abschaum auszusortieren. Natürlich ist es mir egal, wenn du sie einfach abschießt, aber deponiere das Gerät irgendwo in der Nähe, damit ihre Artgenossen nicht zurückkommen.</text>
+  </string>
+  <string id="esc_trader_techic_complete_dialog_6">
+    <text>Guter Plan.</text>
+  </string>
+  <string id="esc_trader_techic_complete_dialog_7">
+    <text>Jetzt geh mir aus den Augen! Und denk daran. Wenn du das nicht tust, werden alle wissen, dass du es warst!</text>
+  </string>
+  <string id="esc_trader_techic_complete_dialog_8">
+    <text>Verstanden...</text>
+  </string>
+  <string id="esc_provodnik_dialog_no_job_0">
+    <text>Uuugh...</text>
+  </string>
+  <string id="esc_provodnik_dialog_no_job_1">
+    <text>Hey, warum liegst du hier herum?</text>
+  </string>
+  <string id="esc_provodnik_dialog_no_job_2">
+    <text>Ich hätte mich nicht betrinken sollen. Ich fühle mich beschissen...</text>
+  </string>
+  <string id="esc_provodnik_dialog_no_job_3">
+    <text>Ach, Mist. Ich wollte mit dir reden... Das ist wohl nicht der beste Zeitpunkt.</text>
+  </string>
+  <string id="esc_provodnik_dialog_no_job_4">
+    <text>Wir können reden. Darf ich dich trotzdem etwas fragen?</text>
+  </string>
+  <string id="esc_provodnik_dialog_no_job_5">
+    <text>Was ist das?</text>
+  </string>
+  <string id="esc_provodnik_dialog_no_job_6">
+    <text>Ich habe das Gefühl, mein Kopf zerbricht in zwei Hälften... Ich kann die Neulinge so nicht führen. Könntest du es für mich tun? Es ist Geld für dich drin.</text>
+  </string>
+  <string id="esc_provodnik_dialog_no_job_7">
+    <text>Warum nicht? Ich werde es tun!</text>
+  </string>
+  <string id="esc_provodnik_dialog_no_job_8">
+    <text>Diesmal sollte unser Mann die Wache übernehmen, aber es ist immer noch besser, wenn du bis zum Morgen wartest, wenn die anderen Soldaten am wenigsten wachsam sind. Sie sind Menschen und brauchen auch ihren Schlaf.</text>
+  </string>
+  <string id="esc_provodnik_dialog_no_job_9">
+    <text>Du hast einen Deal bekommen!</text>
+  </string>
+  <string id="esc_actor_provodnik_dialog_0">
+    <text>Sollst du der Reiseführer sein? Ich dachte, er würde eine Glatze haben. Wo ist der Mann, mit dem ich einen Deal hatte?</text>
+  </string>
+  <string id="esc_actor_provodnik_dialog_1">
+    <text>Der Glatzkopf ist im Urlaub. Ich bin dein Führer. Ich werde nicht viel sagen: Sobald du bergab gehst, wende dich nach links und du siehst das Dorf, bevor du den umgestürzten Baum erreichst. Los geht's.</text>
+  </string>
+  <string id="esc_actor_provodnik_dialog_stop_0">
+    <text>Alter Herr... Du bist wohl der Führer, was? Ich dachte, er wäre kahlköpfig... Wo ist der, mit dem wir eine Abmachung hatten?</text>
+  </string>
+  <string id="esc_actor_provodnik_dialog_stop_1">
+    <text>Der Glatzkopf ist im Urlaub. Ich werde dich führen. Bist du bereit zu gehen?</text>
+  </string>
+  <string id="esc_actor_provodnik_dialog_stop_2">
+    <text>Bist du verrückt? Nachts kann man nichts sehen! Wir müssen bis in die frühen Morgenstunden warten. Zwischen vier und acht schaffen wir es, aber danach ist Schluss. Wir können es nicht riskieren, wenn die Soldaten noch nicht alle dösen.</text>
+  </string>
+  <string id="esc_actor_provodnik_dialog_stop_3">
+    <text>Deal.</text>
+  </string>
+  <string id="esc_actor_provodnik_dialog_stop_wait_0">
+    <text>Habe ich nicht klar gesagt, dass wir erst morgen früh gehen werden? Was willst du noch?</text>
+  </string>
+  <string id="esc_actor_provodnik_dialog_stop_wait_1">
+    <text>Okay, nichts.</text>
+  </string>
+  <string id="esc_actor_provodnik_dialog_wait_start_0">
+    <text>Also, bist du bereit? Machen wir uns auf den Weg?</text>
+  </string>
+  <string id="esc_actor_provodnik_dialog_wait_start_1">
+    <text>Ich bin bereit. Du hingegen... Wie auch immer, sobald du aus dem Tunnel kommst, halte dich an die Disteln und folge ihnen bis zu dem umgestürzten Baum, biege dann links ab und gehe leise in Richtung Dorf. Los geht's.</text>
+  </string>
+  <string id="esc_provodnik_robbery_dialog_0">
+    <text>Scheiße, wen habt ihr mir da in die Hand gedrückt?! Sie schlugen mir ins Gesicht und nahmen meinen Rucksack mit. Wenigstens haben diese Hurensöhne mein Geldversteck nicht gefunden!</text>
+  </string>
+  <string id="esc_provodnik_robbery_dialog_1">
+    <text>Ach, wirklich? Verdammt! Ich hätte selbst gehen sollen.</text>
+  </string>
+  <string id="esc_provodnik_robbery_dialog_2">
+    <text>Wo kann ich sie jetzt finden? Ich kann meine Ausrüstung nicht einfach so liegen lassen. Ich brauchte sie für die Müllhalde und dann passiert das!</text>
+  </string>
+  <string id="esc_provodnik_robbery_dialog_3">
+    <text>Ganz ruhig, ganz ruhig... Das sind Greenhorns. Das verspreche ich dir. Keiner der erfahrenen Stalker würde diejenigen beklauen, die schon eine Weile hier sind... Das bedeutet, dass sie nicht weit gekommen sein können. Halte entweder am Getreidesilo oder auf dem Bauernhof nach ihnen Ausschau. Keine Angst — sie sind nicht weiter als bis in den Kordon gegangen. Ich fürchte, ich kann dir bei der Suche nicht helfen — ich kann kaum noch auf meinen eigenen Beinen stehen... Ich sollte aufhören, so viel zu trinken...</text>
+  </string>
+  <string id="esc_provodnik_robbery_dialog_4">
+    <text>Ich werde es versuchen. Aber wie soll ich das ohne meine Ausrüstung machen?</text>
+  </string>
+  <string id="esc_provodnik_robbery_dialog_5">
+    <text>Alles, was ich dir geben kann, ist meine Pistole. Tut mir leid.</text>
+  </string>
+  <string id="esc_provodnik_robbery_dialog_6">
+    <text>Das reicht.</text>
+  </string>
+  <string id="esc_novice_robbery_0">
+    <text>Töte uns nicht. Bitte, töte uns nicht!</text>
+  </string>
+  <string id="esc_novice_robbery_1">
+    <text>Also gut, ihr Bastarde. Und ihr habt verdammtes Glück, dass ich euch keine Kugeln zwischen die Augen jage! Aber denkt daran: Wenn ich euch Straßenschläger noch einmal sehe, werde ich nicht mehr so nett sein!</text>
+  </string>
+  <string id="esc_novice_robbery_2">
+    <text>Wir haben es verstanden! Deine Sachen sind in der Kiste da drüben in der Ecke! Möge der Schwarze Stalker über dich wachen!</text>
+  </string>
+  <string id="esc_novice_robbery_3">
+    <text>Welcher Schwarze Stalker? Ihr Idioten habt zu vielen Legenden zugehört!</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_0">
+    <text>Ich habe diese Parasiten gefunden. Danke für die Pistole! Hier, nimm sie zurück.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_1">
+    <text>Ganz und gar nicht, Bruder! Ich habe dir gesagt, dass sie nicht weit kommen würden. Hast du deine Sachen bekommen? Ich hoffe, du musstest die Waffe nicht benutzen?</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_2_1">
+    <text>Einen habe ich mitgenommen, um ihm eine Lektion zu erteilen. Der andere blieb auf dem Bauernhof. Der kleine Mistkerl macht sich gerade in die Hose... Wie auch immer, er wird wissen, dass er keine Stalker mehr ausrauben wird!</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_2_2">
+    <text>Ich habe sie ausgeschaltet, um ein Exempel zu statuieren. Dass sie sich gegen uns wehren würden...</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_2_3">
+    <text>Ich habe sie nicht angefasst. Wir haben uns friedlich getrennt.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_3_1">
+    <text>Gut gemacht! Du hast getan, was ein Stalker hätte tun sollen! Hier, das kannst du haben. Ich habe hier keine Verwendung dafür.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_3_2">
+    <text>Das hättest du nicht tun sollen, Axt... Wer weiß, was sie motiviert hat, als sie dich ausgeraubt haben. Vielleicht hatten sie eine schwere Zeit. Immerhin haben sie dich nicht umgebracht, selbst wenn sie die Chance dazu gehabt hätten... Na gut, das ist deine Sache. Ich werde nicht urteilen.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_4_1">
+    <text>Oh, Mann... Danke! Und ich wollte mit dir über etwas reden...</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_4_2">
+    <text>Lass uns das einfach vergessen. Ich wollte mit dir über etwas reden.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_5">
+    <text>Oh, ich weiß, was du getan hast. Sidorowitsch hat es mir erzählt.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_6">
+    <text>Dieser überhebliche...</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_7">
+    <text>Mach dir keine Sorgen. Niemand sonst wird es erfahren. Und ich mache dir keinen Vorwurf daraus. Wir lernen durch unser Handeln.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_8">
+    <text>Danke. Ich bereite mich darauf vor, zur Müllhalde zu gehen. Ich habe hier nichts mehr zu tun, also ist es wohl Zeit, mich zu verabschieden.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_9">
+    <text>Ach, komm schon.... Von wegen "Leb wohl"... Wir treffen uns wieder und lassen uns wieder volllaufen!</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_dialog_10">
+    <text>Ja, natürlich. Also, bis dann!</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_0">
+    <text>Ich habe diese Parasiten gefunden. Danke für die Pistole! Hier, nimm sie zurück.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_1">
+    <text>Ganz und gar nicht, Bruder! Ich habe dir gesagt, dass sie nicht weit kommen würden. Hast du deine Sachen bekommen? Ich hoffe, du musstest die Waffe nicht benutzen?</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_2_1">
+    <text>Einen habe ich mitgenommen, um ihm eine Lektion zu erteilen. Der andere blieb auf dem Bauernhof. Der kleine Mistkerl macht sich gerade in die Hose... Wie auch immer, er wird wissen, dass er keine Stalker mehr ausrauben wird!</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_2_2">
+    <text>Ich habe sie ausgeschaltet, um ein Exempel zu statuieren. Dass sie sich gegen uns wehren würden...</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_2_3">
+    <text>Ich habe sie nicht angefasst. Wir haben uns friedlich getrennt.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_3_1">
+    <text>Gut gemacht! Du hast getan, was ein Stalker hätte tun sollen! Hier, das kannst du haben. Ich habe hier keine Verwendung dafür.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_3_2">
+    <text>Das hättest du nicht tun sollen, Axt... Wer weiß, was sie motiviert hat, als sie dich ausgeraubt haben. Vielleicht hatten sie ein hartes Leben. Immerhin haben sie dich nicht umgebracht, selbst wenn sie die Chance dazu gehabt hätten... Na gut, das ist deine Sache. Ich werde nicht urteilen.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_4_1">
+    <text>Oh, Mann... Danke! Und ich wollte mit dir über etwas reden...</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_4_2">
+    <text>Lass uns das einfach vergessen. Ich wollte mit dir über etwas reden.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_5">
+    <text>Lass mich raten: Ich habe gehört, dass Sidorowitsch hat keinen Auftrag mehr für dich... Also gehst du auf die Müllhalde.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_6">
+    <text>Ja. So wie es aussieht, gibt es hier nichts mehr für mich.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_7">
+    <text>Dann kann ich dir nur Glück wünschen und dir für all die tollen Zeiten danken, die wir zusammen hatten.</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_8">
+    <text>Es ist wohl Zeit, sich zu verabschieden...</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_9">
+    <text>Ach, komm schon... Von wegen "Leb Wohl"... Wir treffen uns wieder und lassen uns wieder volllaufen!</text>
+  </string>
+  <string id="esc_provodnik_robbery_complete_second_dialog_10">
+    <text>Ja, natürlich! Also, bis dann!</text>
+  </string>
+  <string id="esc_stalker_car_dialog_0">
+    <text>Kumpel, kannst du mir mal helfen?</text>
+  </string>
+  <string id="esc_stalker_car_dialog_1">
+    <text>Hey, was machst du denn hier?</text>
+  </string>
+  <string id="esc_stalker_car_dialog_2">
+    <text>Stell dir Folgendes vor: Ich gehe die Straße entlang und sehe ein Auto! Es sieht auch noch unbenutzt aus! Vielleicht hat es die Armee hier stehen lassen. Sie haben versucht, es zu starten, aber es hat kein Benzin, deshalb haben sie es stehen lassen.</text>
+  </string>
+  <string id="esc_stalker_car_dialog_3">
+    <text>Lass den Schrotthaufen hier. Was willst du in der Zone mit dem Auto machen?</text>
+  </string>
+  <string id="esc_stalker_car_dialog_4">
+    <text>Ich habe ein paar Pläne. Hör mal, könntest du mir helfen?</text>
+  </string>
+  <string id="esc_stalker_car_dialog_5">
+    <text>Tut mir leid, aber ich werde es nicht bis ins Dorf schieben.</text>
+  </string>
+  <string id="esc_stalker_car_dialog_6">
+    <text>Kein Grund zum Schieben. Unser Techniker im Dorf hat etwas Benzin. Du gehst hin, während ich auf das Auto aufpasse. Ich werde auch ein kleines Geschenk mit dir teilen! Abgemacht?</text>
+  </string>
+  <string id="esc_stalker_car_dialog_7_1">
+    <text>Okay, gut. Ich werde das Benzin für dich holen. Ich hoffe, das Geschenk ist es wert...</text>
+  </string>
+  <string id="esc_stalker_car_dialog_7_2">
+    <text>Nee, Mann. Glaubst du, ich habe nichts anderes zu tun, als Marathons für dein Benzin zu laufen? Ich bin weg.</text>
+  </string>
+  <string id="esc_stalker_car_dialog_8">
+    <text>Na gut, klar! Mach du deine Arbeit! Ich warte hier einfach auf eine gute Seele!</text>
+  </string>
+  <string id="esc_stalker_car_technic_dialog_0">
+    <text>Michalitsch, du hast doch nicht etwa einen Benzinkanister, oder?</text>
+  </string>
+  <string id="esc_stalker_car_technic_dialog_1">
+    <text>Warum fragst du? Was willst du damit?</text>
+  </string>
+  <string id="esc_stalker_car_technic_dialog_2">
+    <text>Dieser eine Typ hat ein schönes Auto gefunden, aber es ist leer und muss aufgetankt werden. Kannst du ihm einen Kanister geben?</text>
+  </string>
+  <string id="esc_stalker_car_technic_dialog_3">
+    <text>Moment mal! Der Typ findet ein Auto und ich soll einfach so mein Benzin für ihn erübrigen?... Warum fütterst du meine Taschen nicht mit einem Tausender und wir sind im Geschäft, klar?</text>
+  </string>
+  <string id="esc_stalker_car_technic_dialog_4_1">
+    <text>Bäh... Hier ist dein Geld, du Geizhals.</text>
+  </string>
+  <string id="esc_stalker_car_technic_dialog_4_2">
+    <text>Verdammt, so viel habe ich nicht. Warte einen Moment und ich komme mit dem Geld zurück.</text>
+  </string>
+  <string id="esc_stalker_car_technic_dialog_4_3">
+    <text>Na, dann fick dich doch! Ich werde es schon irgendwie schaffen.</text>
+  </string>
+  <string id="esc_stalker_car_technic_dialog_5_1">
+    <text>Benzin ist hier ein rares Gut, also hoffe ich, dass du meine Position als "Geizhals" verstehst... Hier ist dein Kanister. Da ist nicht viel drin, nur damit du es weißt.</text>
+  </string>
+  <string id="esc_stalker_car_technic_dialog_6_1">
+    <text>Alles klar. Ich wünsche dir einen schönen Tag.</text>
+  </string>
+  <string id="esc_stalker_car_technic_has_money_0">
+    <text>Ich bin wegen des Benzins hier.</text>
+  </string>
+  <string id="esc_stalker_car_technic_has_money_1">
+    <text>Du hast das Geld?</text>
+  </string>
+  <string id="esc_stalker_car_technic_has_money_2_1">
+    <text>Ja, das hab ich.</text>
+  </string>
+  <string id="esc_stalker_car_technic_has_money_2_2">
+    <text>Ups. Sieht aus, als hätte ich wieder zu wenig dabei...</text>
+  </string>
+  <string id="esc_stalker_car_technic_has_money_2_3">
+    <text>Ich habe es nicht. Vergiss diese ganze Sache.</text>
+  </string>
+  <string id="esc_stalker_car_technic_has_money_3_1">
+    <text>Hier ist dein Kanister. Es ist nicht viel drin, aber du wirst es schaffen.</text>
+  </string>
+  <string id="esc_stalker_car_technic_has_money_3_3">
+    <text>Wie du willst. Komm vorbei, wenn du noch etwas brauchst.</text>
+  </string>
+  <string id="esc_stalker_car_dialog_9">
+    <text>Viel Glück...</text>
+  </string>
+  <string id="esc_novice_robbery_wound_0">
+    <text>Verdammt noch mal...</text>
+  </string>
+  <string id="esc_novice_robbery_wound_1">
+    <text>Hey, rede mit mir! Was ist los mit dir? Steh auf, Mann, das Dorf ist gleich um die Ecke!</text>
+  </string>
+  <string id="esc_novice_robbery_wound_2">
+    <text>Mir geht's nicht gut... Autsch...</text>
+  </string>
+  <string id="esc_novice_robbery_wound_3">
+    <text>Gib mir deine Hand. Versuch es im Stehen, ganz einfach...</text>
+  </string>
+  <string id="esc_technic_default_no_meet">
+    <text>Kumpel, ich bin im Moment mehr als beschäftigt. Komm ein anderes Mal vorbei.</text>
+  </string>
+  <string id="esc_fanat_dialog_start_no_meet_0">
+    <text>Hey, Kumpel, ich bin beschäftigt. Komm später vorbei. Geh zu Sidorowitsch und belästige mich nicht.</text>
+  </string>
+  <string id="esc_fanat_dialog_start_no_meet_1">
+    <text>Wie du sagst.</text>
+  </string>
+  <string id="esc_stalker_car_wait_dialog_0">
+    <text>Und, hast du das Benzin bekommen?</text>
+  </string>
+  <string id="esc_stalker_car_wait_dialog_1_1">
+    <text>Ich habe es. Hier.</text>
+  </string>
+  <string id="esc_stalker_car_wait_dialog_1_2">
+    <text>Noch nicht. Warte hier.</text>
+  </string>
+  <string id="esc_stalker_car_wait_dialog_1_3">
+    <text>Tut mir leid, aber ich habe meine Meinung geändert.</text>
+  </string>
+  <string id="esc_stalker_car_wait_dialog_2_1">
+    <text>Oh, ja, verdammt! Gut gemacht, Mann! Hier, du hast es verdient!</text>
+  </string>
+  <string id="esc_stalker_car_wait_dialog_3_1">
+    <text>Klasse, danke! Was machst du jetzt mit dem Wagen?</text>
+  </string>
+  <string id="esc_stalker_car_wait_dialog_2_3">
+    <text>Na, dann fick dich! Ich werde jemand anderen finden.</text>
+  </string>
+  <string id="esc_stalker_car_wait_dialog_3_3">
+    <text>Viel Glück...</text>
+  </string>
+  <string id="esc_stalker_car_wait_dialog_4_1">
+    <text>Ich warte hier auf einen Freund von mir und entscheide mit ihm. Aber du hast deinen Job gemacht, und das ist das Wichtigste. In Ordnung, mach's gut, Mann.</text>
+  </string>
+  <string id="esc_stalker_car_wait_dialog_5_1">
+    <text>Viel Glück für dich!</text>
+  </string>
+  <string id="esc_stalker_car_wound_dialog_0">
+    <text>Scheiße, das tut weh wie ein...!</text>
+  </string>
+  <string id="esc_stalker_car_wound_dialog_1">
+    <text>Was ist passiert? Wer hat dir das angetan?</text>
+  </string>
+  <string id="esc_stalker_car_wound_dialog_2">
+    <text>Die verdammten Banditen waren es! Sie haben mich gesehen... und sofort das Feuer eröffnet!</text>
+  </string>
+  <string id="esc_stalker_car_wound_dialog_3">
+    <text>Halte durch. Ich schaue mir deine Wunde an.</text>
+  </string>
+  <string id="esc_stalker_car_wound_dialog_4">
+    <text>Sie versuchten, das Auto zu starten, bevor sie herausfanden, dass es kein Benzin mehr hatte, und gingen dann zurück zu ihrem Lager, um welches zu holen. Ich bin mir ziemlich sicher, dass es bei der Müllhalde...</text>
+  </string>
+  <string id="esc_stalker_car_wound_dialog_5">
+    <text>Da hast du Glück gehabt. Die Kugel ging glatt durch, aber es sieht so aus, als ob keine lebenswichtigen Teile getroffen wurden. Ich habe versucht, die Wunde zu schließen, aber du musst zurück ins Dorf, bevor sie zurückkommen.</text>
+  </string>
+  <string id="esc_stalker_car_wound_dialog_6">
+    <text>Ich werde versuchen, zurück zu kommen... Sei du auch vorsichtig. Lass dich nicht erwischen.</text>
+  </string>
+  <string id="esc_stalker_car_wound_dialog_7">
+    <text>Nimmst du den Kanister mit? Ich brauche ihn nicht.</text>
+  </string>
+  <string id="esc_stalker_car_wound_dialog_8">
+    <text>Ach ja, stimmt ja... Wenn du dich um die Banditen kümmerst, schaffe ich es zurück zum Auto. Gib mir den Kanister... Sie werden jeden Moment hier sein, also halte sie auf Trab — ich kann mich nicht so schnell bewegen... Beinahe hätte ich es vergessen, hier hast du was für den Ärger!</text>
+  </string>
+  <string id="esc_stalker_car_wound_dialog_9">
+    <text>Danke! Wir sehen uns, Mann... wenn die Zone uns wohlgesonnen ist.</text>
+  </string>
+  <string id="esc_stalker_car_wound_reversed_task_dialog_0">
+    <text>Scheiße, Mann... Das tut höllisch weh!</text>
+  </string>
+  <string id="esc_stalker_car_wound_reversed_task_dialog_1">
+    <text>Was ist passiert? Wo sind diese Bastarde hin?</text>
+  </string>
+  <string id="esc_stalker_car_wound_reversed_task_dialog_2">
+    <text>Ja, gute Frage... Sie gingen um Benzin holen, als sie merkten, dass das Auto leer war. Sie haben sofort das Feuer eröffnet und dachten, sie hätten mich erwischt... Sie werden gleich zurück sein. Wir müssen uns beeilen... Danke, dass du gekommen bist, Stalker. Ich werde es nicht vergessen.</text>
+  </string>
+  <string id="esc_stalker_car_wound_reversed_task_dialog_3">
+    <text>Natürlich würde ich helfen. Wie geht es dir? Kannst du laufen? Lass mich mal sehen. Die Kugel ging glatt durch. Du hast Glück gehabt. Aber du musst so oder so zurück ins Dorf.</text>
+  </string>
+  <string id="esc_stalker_car_wound_reversed_task_dialog_4">
+    <text>Mach dir keine Sorgen. Ich melde mich wieder... Nochmals vielen Dank. Das ist dafür, dass du auf meinen Anruf geantwortet hast. Viel Glück!</text>
+  </string>
+  <string id="esc_stalker_car_wound_reversed_task_dialog_5">
+    <text>Nicht der Rede wert. Jeder hätte das Gleiche getan. Wir sehen uns, Mann... wenn die Zone uns wohlgesonnen ist.</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_0">
+    <text>Sag nicht, dass wir dich erschreckt haben? Komm rüber, wir beißen nicht.</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_1_1">
+    <text>Ich bin nur, ähm... nur auf der Durchreise. Wow, tragen im Kordon alle ein Exoskelett?</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_1_2">
+    <text>Nein, Leute. Vielleicht später.</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_2">
+    <text>Nichts Ungewöhnliches. Wir sind erst vor kurzem von einem Streifzug zurückgekommen. Dieser Ort ist gut zum Entspannen und Ausruhen.</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_3">
+    <text>Deine Ausrüstung ist echt klasse... Von wo genau kommst du denn zurück?</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_4">
+    <text>Du wirst es sowieso nicht glauben, aber wir waren im Kraftwerk von Tschernobyl. Die Strahlung war dort so hoch, dass wir keine andere Wahl hatten, als den Weg zurück zu gehen. Irgendetwas versteckt sich hinter der Strahlung, und wir überlegen, wie wir hindurchschlüpfen können, um es herauszufinden. Vielleicht sind es Artefakte... wer weiß.\n \n Eigentlich waren wir früher zu fünft: Ich bin Grausam und die Jungs am Feuer sind Totengräber und Guerilla. Die anderen beiden waren Haudegen und Stumm... mögen sie in Frieden ruhen. Ersterer wurde im Kraftwerk von einer Monolith-Kugel getroffen und brach mitten in einem Psi-Feld zusammen, vor dem wir flohen. Wäre das nicht passiert, wäre er vielleicht noch am Leben... Letzterer wird seit zwei Monaten vermisst. Er sagte uns, er sei auf dem Weg zu den Armeelagern, um sie auszukundschaften, und seitdem haben wir ihn nicht mehr gesehen. Das sind zwei Monate, in denen wir nichts von ihm gehört haben. Ich gehe davon aus, dass er ins Gras gebissen hat... Aber während Haudegen keine Chance hatte, können wir über Stumm nichts mit Sicherheit sagen.\n \n Wenn du ihn oder seine Überreste findest, lass es mich wissen. Es ist wichtig für uns.</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_5">
+    <text>Ja, natürlich! Und was für eine Geschichte. Wie ist das KKW? Gibt es dort etwas Interessantes?</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_6">
+    <text>Nö! Du hältst dich am besten von diesem Ort fern, Kumpel. Keine Ahnung, was dich dort erwartet. Wir haben einen Freund verloren und werden ganz sicher nicht an diesen höllischen Ort zurückkehren, um einen weiteren zu verlieren... \n Andererseits gibt es dort Artefakte, so weit das Auge reicht. Die größten Bedrohungen dort sind der Monolith und die Psi-Emissionen, aber es gibt ein paar Stellen, an denen du beide umgehen kannst, solange du die richtige Ausrüstung hast. Es wäre wirklich ein Traum, das zu tun...\n \nHast du schon mal vom Wunschgönner gehört? Man sagt, es sei eine Art glühender Stein, der angeblich deine Wünsche erfüllt. Er soll sich im Herzen der Zone befinden: im Kernkraftwerk, unter dem Sarkophag. Einerseits ist das ein Haufen Mist, aber andererseits, was sollten die Monolithen sonst bewachen? Das heißt, es gibt immer noch einen Grund, dort nachzusehen. Übrigens, wer bist du eigentlich?</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_7">
+    <text>Ah, ich nenne mich " Axt". Schön, dich kennenzulernen. Ich möchte auch das KKW sehen. Trotz der Gefahren muss es voller Artefakte sein! Ich habe schon von diesem Wunschgönner gehört... Auch wenn ich nicht wirklich an ihn glaube, habe ich den Wunsch, dort zu sein! Tut mir leid, dass ich so viele Fragen stelle... Aber hartgesottene Stalker wie dich gibt es nicht an jeder Ecke. Danke für die Infos. Es war schön, mit dir zu reden.</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_8">
+    <text>Denk daran, Axt, wann immer du Lust hast, komm zu uns und wir finden eine gute Arbeit für dich.</text>
+  </string>
+  <string id="esc_stalker_most_leader_dialog_start_9">
+    <text>Auf jeden Fall. Nochmals vielen Dank.</text>
+  </string>
+  <string id="esc_stalker_most_leader_def_dialog_phrase">
+    <text>Oh, hey, Axt. Du bist geschäftlich hier, oder?</text>
+  </string>
+  <string id="esc_bridge_soldiers_start_0">
+    <text>Dieser Bereich ist für dich tabu, Stalker.</text>
+  </string>
+  <string id="esc_bridge_soldiers_start_1">
+    <text>Aber ich muss dorthin gehen.</text>
+  </string>
+  <string id="esc_bridge_soldiers_start_2">
+    <text>Pech gehabt. Es sei denn, du musst *wirklich* gehen, dann kostet es fünfhundert.</text>
+  </string>
+  <string id="esc_bridge_soldiers_start_3_1">
+    <text>Bitte schön.</text>
+  </string>
+  <string id="esc_bridge_soldiers_start_3_2">
+    <text>Soviel Geld habe ich nicht.</text>
+  </string>
+  <string id="esc_bridge_soldiers_start_4_1">
+    <text>Jetzt hör mal zu. Wir tun einen Moment lang so, als gäbe es hier nur Mücken und Schmetterlinge. Was danach passiert, geht nur dich etwas an.</text>
+  </string>
+  <string id="esc_bridge_soldiers_start_4_2">
+    <text>Dann geh dahin zurück, wo du hergekommen bist, und hol es. Und versuch ja nicht, dich an uns vorbeizuschleichen, hörst du? Glaub mir, es ist es nicht wert, dafür zu sterben.</text>
+  </string>
+  <string id="esc_bridge_soldiers_start_5_1">
+    <text>Ich habe verstanden. Danke, Kommandant.</text>
+  </string>
+  <string id="esc_bridge_soldiers_start_5_2">
+    <text>Vielen Dank...</text>
+  </string>
+  <string id="esc_bridge_soldiers_wait_0">
+    <text>Los, verschwinde von hier!</text>
+  </string>
+  <string id="esc_bridge_soldiers_wait_1">
+    <text>Ich gehe jetzt. Reg dich nicht auf.</text>
+  </string>
+  <string id="esc_bridge_dialog_patrol_0">
+    <text>Was glaubst du, wo du hingehst, Stalker?! Dieser Bereich ist für dich tabu. Entweder du zahlst das Doppelte oder du gehst dahin zurück, wo du hergekommen bist.</text>
+  </string>
+  <string id="esc_bridge_dialog_patrol_1_1">
+    <text>Ich bin nicht auf Ärger aus, Kommandeur. Hier ist das Geld.</text>
+  </string>
+  <string id="esc_bridge_dialog_patrol_1_2">
+    <text>Ich habe das Geld nicht.</text>
+  </string>
+  <string id="esc_bridge_dialog_patrol_1_3">
+    <text>Geh zum Teufel!</text>
+  </string>
+  <string id="esc_bridge_dialog_patrol_2">
+    <text>Na gut. Und jetzt geh uns aus den Augen.</text>
+  </string>
+  <string id="esc_bridge_dialog_patrol_3">
+    <text>Ich gehe jetzt.</text>
+  </string>
+  <string id="esc_village_novice_dialog_00">
+    <text>Was willst du?</text>
+  </string>
+  <string id="esc_village_novice_dialog_0">
+    <text>Hallo zusammen! Ist die Luft rein?</text>
+  </string>
+  <string id="esc_village_novice_dialog_1">
+    <text>Hallo! Was soll ich dir sagen... Das Militär überwacht die Gegend rund um die Uhr. Mach am besten keinen Lärm.</text>
+  </string>
+  <string id="esc_village_novice_dialog_2">
+    <text>Da hast du Recht. Ich bin ihnen am Tag zuvor fast in die Arme gelaufen. Ich bin gerade noch so davongekommen.</text>
+  </string>
+  <string id="esc_village_novice_dialog_3">
+    <text>Du hattest Glück.</text>
+  </string>
+  <string id="esc_village_novice_dialog_4">
+    <text>Hältst du hier immer Wache?</text>
+  </string>
+  <string id="esc_village_novice_dialog_5">
+    <text>Nein, wir wechseln uns ab. Du willst mitmachen?</text>
+  </string>
+  <string id="esc_village_novice_dialog_6">
+    <text>Das möchte ich im Moment lieber nicht. Ich habe so schon genug Arbeit. Und was ist mit dir? Du bist doch nicht in die Zone gekommen, um nur diesen Ort zu bewachen, oder?</text>
+  </string>
+  <string id="esc_village_novice_dialog_7">
+    <text>Nein, natürlich nicht. Ich werde etwas Geld verdienen und Erfahrung sammeln, und dann werde ich versuchen, in die Zone zu gehen. Ich träume einfach davon, das KKW mit meinen eigenen Augen zu sehen... Allein der Gedanke daran raubt mir den Atem!</text>
+  </string>
+  <string id="esc_village_novice_dialog_8">
+    <text>Ich war auch noch nie dort. Ich würde auch gerne dorthin gehen.</text>
+  </string>
+  <string id="esc_village_novice_dialog_9">
+    <text>Es wird eine ziemliche Herausforderung sein, dorthin zu gelangen, wenn man die Gefahren der Zone bedenkt...</text>
+  </string>
+  <string id="esc_village_novice_dialog_10">
+    <text>Wir wussten, worauf wir uns einlassen würden. Ich gehe jetzt. Bis später!</text>
+  </string>
+  <string id="esc_village_novice_dialog_11">
+    <text>Tschüss.</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_0">
+    <text>Bist du ein Einheimischer? Ich war letztes Jahr hier, aber ich erinnere mich nicht an dich.</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_1">
+    <text>Meistens wandere ich mit meinen Jungs durch den Kordon. Früher haben wir unser Lager bei der Brücke aufgeschlagen und uns dort ausgeruht, aber jetzt ist das Militär wieder da, also ist es etwas schwieriger geworden. Wer vorbeikommt, hat zwei Möglichkeiten: das Militär bezahlen oder durch den Tunnel mit den Anomalien gehen. Keine der beiden Möglichkeiten ist wirklich verlockend, also bleiben wir vorerst hier.</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_2">
+    <text>Aha, ich verstehe. Warst du schon jenseits des Kordons? Was hältst du von diesen Gebieten?</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_3">
+    <text>Ein paar Mal. Einmal schickte mich Sidorowitsch, um den Wissenschaftlern von Agroprom Artefakte zu liefern. Er hat mich gut bezahlt und ich hatte ein nettes Gespräch mit den Wissenschaftlern... Mir wurde nie langweilig, um es mal so auszudrücken. Trotzdem ist es besser, nicht ohne Grund dorthin zu gehen, denn du könntest am falschen Ort landen, dir eine verirrte Kugel einfangen oder in eine der vielen Kreationen der Zone geraten...</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_4">
+    <text>Welche Kreationen?</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_5">
+    <text>Verdammt, ich weiß gar nicht, was ich dir sagen soll! Ein Partner hat mir erzählt, dass auf dem Außenposten der Wächter seltsame Dinge vor sich gehen: Ein mystisches Wesen erscheint nachts vor ihnen. Ich glaube nicht an solche Geschichten, aber wenn man so etwas aus erster Hand hört, ist es schwer, das Gefühl zu beschreiben... Alle möglichen Gedanken stürmen auf dich ein, was es sein könnte.</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_6_1">
+    <text>Wahrscheinlich sind es nur Lügengeschichten, aber wer weiß. Wenn ich dorthin gehe, werde ich auf jeden Fall nachfragen.</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_6_2">
+    <text>Das sind nicht nur Geschichten. Ich war bei ihrem Außenposten, und dort gibt es definitiv etwas Seltsames. Das Wesen selbst ist harmlos und taucht auf, wenn sich alle nachts auf den Weg machen.</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_7_1">
+    <text>Es liegt an dir, ob du es glaubst oder nicht. Ich erzähle dir nur, was ich gehört habe.</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_7_2">
+    <text>Also, jetzt! Ich sollte aufhören, irgendwelche Touren zu machen. Der Kordon hat ein gutes Gleichgewicht: Es gibt nicht viel Geld, aber es ist unwahrscheinlich, dass du stirbst oder deinen Verstand verlierst.</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_8_1">
+    <text>Ich werde es im Hinterkopf behalten.</text>
+  </string>
+  <string id="esc_shaiba_actor_story_dialog_8_2">
+    <text>Da hast du Recht. Ich gehe jetzt. Ich habe genug Geschichten für heute. Mach's gut.</text>
+  </string>
+  <string id="esc_shaiba_start_dialog_0">
+    <text>Hallo zusammen! Ich habe gehört, dass du vorhast, den Damm zu überqueren. Könntest du mir bei etwas helfen?</text>
+  </string>
+  <string id="esc_shaiba_start_dialog_1">
+    <text>Worum geht es dabei?</text>
+  </string>
+  <string id="esc_shaiba_start_dialog_2">
+    <text>Ein Freund von mir, Kirjucha, hat auf der anderen Seite nach Beute gesucht und ist verschwunden. Ich weiß nicht, was ihm zugestoßen sein könnte... Ich hoffe, er hat nur etwas Nützliches gefunden und ist in die Bar gegangen, um damit Geld zu verdienen. So ist er eben. Wenn du ihn unterwegs findest, lass es mich wissen, okay?</text>
+  </string>
+  <string id="esc_shaiba_start_dialog_3">
+    <text>Ich kann dir nichts versprechen, aber ich werde es dir sagen, wenn ich ihn sehe.</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_0">
+    <text>Hast du etwas über Kirjucha herausgefunden?</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_1">
+    <text>Noch nicht.</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_2">
+    <text>Es tut mir leid, aber dein Kirjucha ist tot...</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_3">
+    <text>Wie? Was ist passiert?</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_4">
+    <text>Vor seinem letzten Atemzug erzählte er mir, dass er von einem sprechenden Fleisch in den verlassenen Getreidespeicher gelockt wurde. Ich bin auch darauf reingefallen und habe es nur knapp überlebt. Gut, dass es nur einer war... aber hinter dem Damm, in der Ebene, gibt es ein ganzes Rudel von ihnen. Siehst du, worauf ich hinaus will?</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_5">
+    <text>Was? Wie meinst du das?</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_6">
+    <text>Ich meine, dass einige unserer Jungs diesem Abschaum zum Opfer gefallen sind — es gibt einen ganzen Haufen Leichen am Getreidespeicher. Wenn wir sie nicht ausschalten, werden sie sich früher oder später auf den Weg ins Dorf machen. Verstehst du mich? Wir müssen Fanatiker davon erzählen.</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_7">
+    <text>Er ist auf einer Tour mit ein paar Stalkern. Er sagte, er würde in ein paar Tagen zurück sein.</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_8">
+    <text>Das heißt also, dass wir das ohne ihn machen müssen. Ich vermute, dass sie das Lager bald angreifen werden. Hast du Männer, die helfen können?</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_9">
+    <text>Ich glaube schon, ja. Sie alle kannten Kirjucha. Sie werden uns nicht abweisen.</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_10_1">
+    <text>Na gut. Das heißt, wir gehen. Kirjucha sagte, er habe sie an der Böschung gesehen, aber ich weiß nicht, wie viele es sind. Viel Glück!</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_10_2">
+    <text>Na gut. Wir gehen also morgen früh los. Kirjucha sagte, er habe sie an der Böschung gesehen, aber ich weiß nicht, wie viele es sind. Viel Glück!</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_11">
+    <text>Ich bereite mich noch kurz vor, dann gehen wir.</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_2_0">
+    <text>Bist du bereit? Ich kann es kaum erwarten, mich an diesen Dingern zu rächen.</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_2_1">
+    <text>Ja. Los geht's.</text>
+  </string>
+  <string id="esc_shaiba_wait_dialog_2_2">
+    <text>Noch nicht. Warte einen Moment.</text>
+  </string>
+  <string id="esc_task_for_trailer_shaiba_final_dialog_0">
+    <text>Scheiße, Mann... Ich kann nicht glauben, dass wir so weit gekommen sind. Noch mehr und ich hätte mich selbst fertig gemacht. Geht es dir gut? Wir müssen zurück ins Dorf gehen und allen sagen, dass die Bestien erledigt sind... und unsere Jungs beerdigen, wenn wir schon dabei sind.</text>
+  </string>
+  <string id="esc_task_for_trailer_shaiba_final_dialog_1">
+    <text>Das ist ein wirklich vager Scheiß... Lass uns zurück ins Dorf gehen.</text>
+  </string>
+  <string id="esc_task_for_trailer_shaiba_final_village_dialog_0">
+    <text>Okay, wir sind da. Zeit, sich von dem zu erholen, was wir gerade durchgemacht haben... Vielen Dank für deine Hilfe, Stalker. Wenn du nicht gewesen wärst, wäre ich dort geblieben... Das gehört jetzt dir.</text>
+  </string>
+  <string id="esc_task_for_trailer_shaiba_final_village_dialog_1">
+    <text>Danke! Lass dich nicht unterkriegen.</text>
+  </string>
+  <string id="esc_village_fanat_dialog_questions_0">
+    <text>Ich wollte dir ein paar Fragen stellen.</text>
+  </string>
+  <string id="esc_village_fanat_dialog_questions_1">
+    <text>Schieß los.</text>
+  </string>
+  <string id="esc_village_fanat_dialog_questions_2">
+    <text>Wie wäre es mit einem anderen Zeitpunkt?</text>
+  </string>
+  <string id="esc_village_fanat_dialog_burnt_home_0">
+    <text>Ich sehe, dass es ein Haus weniger im Dorf gibt. Wie konnte es abbrennen? Ich habe letztes Jahr ein paar Nächte darin verbracht, und jetzt ist nur noch der triste Keller übrig.</text>
+  </string>
+  <string id="esc_village_fanat_dialog_burnt_home_1">
+    <text>Am besten fragst du nicht. Ein paar Jungs und ich mussten für ein paar Tage weg, während der Rest hier blieb. Wir gaben ihnen eine Chance und vertrauten darauf, dass sie keinen Ärger machen würden... aber ich lag falsch. Diese Bastarde zündeten ein Lagerfeuer vor dem Haus an, und am Abend waren sie alle besoffen und gerieten außer Kontrolle. Ich kenne die Details nicht, aber das Haus brannte in der Nacht nieder. Gut, dass die Armee nicht da war, der Rauch muss in der Dunkelheit unsichtbar gewesen sein. Du würdest nicht glauben, was für ein Gestank im ganzen Dorf herrschte, als ich zurückkam... Ich dachte, ich würde auf der Stelle sterben, nur weil ich ihn einatmete. Jetzt werde ich auf keinen Fall mehr so lange wegbleiben. Wer weiß, was sich diese Draufgänger noch alles einfallen lassen?</text>
+  </string>
+  <string id="esc_village_fanat_dialog_burnt_home_2">
+    <text>Na, das ist ja eine Wahnsinnsgeschichte. Gibt es hier wirklich niemanden, der außer dir für Ordnung sorgt?</text>
+  </string>
+  <string id="esc_village_fanat_dialog_burnt_home_3">
+    <text>Ich wünschte... Ich sehe die Schlitzaugen an und sie schweigen alle. Ich frage: "Wer hat das Haus niedergebrannt?" Sie sagen: "Wir alle waren es." Versuch, ihnen danach dein Vertrauen zu schenken.</text>
+  </string>
+  <string id="esc_village_fanat_dialog_burnt_home_4">
+    <text>Was für eine enge Gemeinschaft. Jeder übernimmt Verantwortung. Die Gemeinschaft in der Zone!</text>
+  </string>
+  <string id="esc_village_fanat_dialog_burnt_home_5">
+    <text>Ein Wunsch, der über alles geht... Okay, Kumpel, zieh dein Ding durch.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_0">
+    <text>Hallo zusammen! Ich bin seit kurzem der neue Besitzer dieses kleinen Geräts, aber es ist in einem ziemlich schlechten Zustand. Könntest du einen Blick darauf werfen?</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_1">
+    <text>Ein 5,45er Grosa? Also, *das* ist eine seltene Variante... Woher hast du das Ding? Ich habe sie bisher nur in feindlichen Händen gesehen, und jetzt bringst du mir eine... Noch dazu eine einzigartige! Auch wenn es das erste Mal ist, dass ich diese Waffe benutze, mit einer Flasche kann ich in ein paar Tagen Wunder bewirken. Aber nichts auf dieser Welt ist umsonst, weißt du?</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_2">
+    <text>Wie viel?</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_3">
+    <text>Nein, ich brauche im Moment kein Geld. Ich habe so viel davon, dass ich gar nicht weiß, wie ich es ausgeben soll. Vielmehr brauche ich ein paar Arbeitsmaterialien. Ich hatte einen Stalker, der sie mir immer gebracht hat, Serjoga Konchekliga, aber er ist seit etwa einer Woche verschwunden. Laut ihm kann man alles auf der Müllhalde in einem unterirdischen Gewölbe unter dem Hangar bekommen. Du hast diese Orte schon gesehen, also sieh dich dort um und bring mir alles, was du findest.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_4_1">
+    <text>Habe ich eine andere Wahl?</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_4_2_1">
+    <text>Was für ein Zufall, ich war schon dort! Sieht aus, als hätte ich das Zeug nicht umsonst mit mir herumgeschleppt. Reicht das?</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_4_2_2">
+    <text>Was für ein Zufall, ich war schon dort! Sieht aus, als hätte ich das Zeug nicht umsonst mit mir herumgeschleppt. Reicht das? Oh und den Stalker habe ich auch gefunden. Er ist tot... Er liegt in der Electro im Wald.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_5_1">
+    <text>Das glaube ich nicht. Aber wenn du die Waffe nicht wirklich brauchst, könnte ich sie dir für dreieinhalb abkaufen. Sieh mich nicht so an... Das Teil ist Schrott.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_5_2_1">
+    <text>Also, jetzt! Genau das, was ich brauche. Okay, du kannst deinen Beitrag hier hinterlassen. In ein oder zwei Tagen habe ich sie fertig. Ich werde dir eine Nachricht schicken.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_5_2_2">
+    <text>Verdammt... Danke, dass du mir das sagst. Ich dachte schon, er hätte meine Bitte aufgegeben. Nun zu dem Zeug... Das ist genau das, was ich brauche! Du kannst dein Stück hier lassen, ich werde es in ein oder zwei Tagen fertig haben. Ich werde dir eine Nachricht schicken.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_6_1_1">
+    <text>Nein, das ist zu billig. Ich besorge das Material für dich.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_6_1_2">
+    <text>Ich habe keine Lust, herumzulaufen und Schrott für dich auszugraben. Nimm das Ding.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_6_2">
+    <text>Super! Ich warte auf dich. Wir sprechen uns bald.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_7_1">
+    <text>Lass das halbe Gewehr hier, solange es nicht tödlich ist, und geh dorthin, wo wir es vereinbart haben. Ich werde alles ordentlich machen.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_7_2">
+    <text>Okay, hier ist dein Geld. Viel Glück in der Zone.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_8_1">
+    <text>Sei vorsichtig, damit du es nicht endgültig kaputt machst. Ich bin bald wieder da.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_start_8_2">
+    <text>Wir sehen uns.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_final_0">
+    <text>Du hast es repariert?</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_final_1">
+    <text>Es war nicht einfach, aber ich habe es geschafft. Hier, bitte sehr. Nun zu unserem Deal... Wo sind die Materialien, um die ich gebeten habe?</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_final_2_1">
+    <text>Hier ist dein Schrott. Mein ganzer Rucksack stinkt, weil ich ihn damit herumschleppen muss.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_final_2_2">
+    <text>Hier ist dein Schrott. Mein ganzer Rucksack stinkt, weil ich ihn damit herumschleppen muss. Oh, und ich habe deinen Stalker gefunden... Sieht aus, als wäre der arme Kerl in eine Elektroanomalie im Wald geraten.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_final_3_1">
+    <text>Sehr schön... Genau das, was ich brauche. Hier ist deine Waffe! So etwas wirst du in der Zone nicht nochmal finden, glaub mir. Ich habe sie sogar schon an einigen Hunden ausprobiert und sie ist eine Tötungsmaschine.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_final_3_2">
+    <text>Verdammt! Was ist passiert, ist er mit einem der Mutanten zusammengestoßen oder hat er sich eine Kugel in den Kopf gejagt? Ach, egal... Hier ist deine Waffe. So etwas wirst du in der Zone nicht nochmal finden, glaub mir. Ich habe sie sogar an ein paar Hunden ausprobiert, und sie ist eine Tötungsmaschine.</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_final_4">
+    <text>Vielen Dank! So komme ich vielleicht sogar in das Zentrum der Zone!</text>
+  </string>
+  <string id="esc_technic_repair_groza_nimble_final_5">
+    <text>Ja. Es war nicht leicht, aber ich habe es an einem Nachmittag geschafft. Nimm es.</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_0">
+    <text>Schau mal, wer das ist! Und das auch noch ohne Begleiter!</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_1">
+    <text>Hey, Mann! Hab dich lange nicht gesehen.</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_2">
+    <text>Und ich dachte schon, unsere Axt wäre dort für immer verschwunden. Sag mal, wie ist das Leben jenseits des Kordons?</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_3">
+    <text>Hierher zurückzukommen ist wie in den Urlaub zu fahren. Es ist so viel los dort. Alles ist anders...</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_4_1">
+    <text>Ich hab's dir gesagt! Du hättest einfach hier bleiben können und dir nicht die Eier abreißen müssen. Obwohl ich sehe, dass du einen neuen Anzug hast. Du kommst nach oben in der Zone!</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_4_2">
+    <text>Ich hab's dir gesagt! Du hättest einfach hier bleiben können und dir nicht die Eier abreißen müssen. Du trägst einen total zerlumpten Anzug, es sieht so aus, als wärst du noch nicht in der Zone aufgestiegen!</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_4_3">
+    <text>Ich hab's dir gesagt! Du hättest einfach hier bleiben können und dir nicht die Eier abreißen müssen. Du trägst nicht einmal mehr einen Anzug. Ist dir etwas zugestoßen, kleine Axt?</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_5_1">
+    <text>Ja, genau! Sich in Anomalien verkriechen...</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_5_2">
+    <text>Ich werde mir einen ordentlichen Anzug besorgen. Mach dir keine Sorgen.</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_5_3">
+    <text>Früher oder später werde ich einen anständigen Anzug haben. Mach dir keine Sorgen darüber.</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_6">
+    <text>Mann, ich hätte mich gerne mit dir unterhalten, aber wir haben ein kleines Problem. Du hast ja jetzt schon einige Erfahrung Ich hatte gehofft, du könntest mir helfen.</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_7">
+    <text>Worum geht es dabei?</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_8_1">
+    <text>Geh zu Fanatiker. Er wird es dir sagen.</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_8_2">
+    <text>Geh zu Fanatiker. Er wird es dir sagen. Oh, fast vergessen! Hier ist dein Lohn für den Soldaten.</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_9_1">
+    <text>Gut.</text>
+  </string>
+  <string id="esc_jurok_new_meet_start_dialog_9_2">
+    <text>Prima, danke! Ich werde mit Fanatiker reden.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_0">
+    <text>Hallo zusammen!</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_1">
+    <text>Jurok hat mir erzählt, dass etwas passiert ist.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_2">
+    <text>Ja, das stimmt. Wir haben nicht weit von hier eine Söldnergruppe gesichtet. Weiß der Teufel, wonach sie suchen, aber sie sind jetzt schon seit zwei Tagen dort stationiert, und das gefällt mir nicht. Sie haben sogar schon einmal versucht, unser Lager zu übernehmen, aber das hat nicht geklappt... Dank dieses einen Stalkers, der uns geholfen hat.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_3">
+    <text>Wir sollten nicht ins Wespennest stechen, oder? Sie stehen nur herum.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_4">
+    <text>Das ist genau das Richtige. Sie stehen nicht einfach nur so herum. Drei Stalker aus dem Dorf brachen ihr Lager ab, wo sie beschlossen, sich zu positionieren. Sie kamen von einem Ausflug mit Beute zurück und beschlossen, am Feuer zu sitzen und zu essen. Dann tauchten die Söldner auf und eröffneten das Feuer, bevor wir überhaupt den Mund aufgemacht hatten. Nur einer von ihnen entkam, und er schaffte es mit seinen Wunden gerade noch ins Dorf.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_5">
+    <text>Hat er überlebt?</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_6">
+    <text>Leider nicht. Aber das Letzte, was er mir sagte, war, dass die Söldner ihre Sache todernst nehmen. Das ganze Dorf ist in Alarmbereitschaft. Alle haben zu viel Angst, um zu gehen. Wir müssen etwas unternehmen. Wir wissen nicht, wie lange sie hier bleiben wollen oder welche Pläne sie haben, und solange sie hier sind, sind wir nicht sicher.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_7">
+    <text>Was schlägst du vor?</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_8">
+    <text>Ich schlage vor, dass wir das Überraschungsmoment nutzen und sie angreifen. Es sind nur fünf von ihnen. Wenn wir uns leise auf ihr Lager zubewegen, können wir sie leicht ausschalten. Ich habe niemanden, den ich auf diese Mission mitnehmen kann, nur mich und Jurok. Die anderen Grünschnäbel werden nicht gehen, selbst wenn du eine Waffe auf sie richtest.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_9">
+    <text>Wir drei gegen ein Söldnerlager? Klingt gefährlich.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_10">
+    <text>Wenn wir die Neulinge mitnehmen, schießen wir uns selbst in den Fuß. Wir haben zwei Vorteile auf unserer Seite: das Überraschungsmoment und einen Raketenwerfer, den einige Stalker gerade von der Armee gestohlen haben. Wir werden uns leise nähern und diese Bastarde in die Luft jagen. Ich habe damit schon Erfahrung. Eine Gruppe von Söldnern wollte uns schon einmal rauswerfen, aber wir haben uns behauptet.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_11">
+    <text>Du änderst dich nie. Wenn ein Problem auftaucht, gehst du es auf die explosive Art an.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_12">
+    <text>Der einzige Weg, es zu tun! Bist du dabei?</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_13">
+    <text>Natürlich bin ich bei dir. Ich würde dich auf keinen Fall im Stich lassen. Wie sieht der Plan aus?</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_14">
+    <text>Wir warten auf den Sonnenaufgang und ziehen los.</text>
+  </string>
+  <string id="esc_fanat_new_meet_start_dialog_15">
+    <text>Verstanden.</text>
+  </string>
+  <string id="esc_fanat_new_meet_attack_ready_dialog_0">
+    <text>Fertig?</text>
+  </string>
+  <string id="esc_fanat_new_meet_attack_ready_dialog_1">
+    <text>Fertig! Los geht's.</text>
+  </string>
+  <string id="esc_fanat_new_meet_attack_relax_dialog_0">
+    <text>Das gefällt mir nicht...</text>
+  </string>
+  <string id="esc_fanat_new_meet_attack_relax_dialog_1">
+    <text>Wo sind sie hin?</text>
+  </string>
+  <string id="esc_fanat_new_meet_attack_relax_dialog_2">
+    <text>Keine Ahnung.</text>
+  </string>
+  <string id="esc_fanat_new_meet_attack_relax_dialog_3">
+    <text>Vielleicht haben sie sich irgendwo unter der Erde eingegraben?</text>
+  </string>
+  <string id="esc_fanat_new_meet_attack_relax_dialog_4">
+    <text>Ich sehe nichts auf dem Gelände. Was ich gesehen habe, war ein heller Blitz.</text>
+  </string>
+  <string id="esc_fanat_new_meet_attack_relax_dialog_5">
+    <text>Was sollen wir tun?</text>
+  </string>
+  <string id="esc_fanat_new_meet_attack_relax_dialog_6">
+    <text>Das Einzige, was wir tun können: Zurück zum Camp gehen. Ich weiß nicht, wer diese Leute sind und wohin sie verschwunden sind, aber ich bekomme eine Gänsehaut an diesem Ort. Lass uns die Leute erst mal auf dem Weg begraben, anstatt sie hier zu lassen.</text>
+  </string>
+  <string id="esc_fanat_new_meet_attack_relax_dialog_7">
+    <text>Gehen wir...</text>
+  </string>
+  <string id="esc_jurok_new_meet_second_dialog_0">
+    <text>Tja, so ist das eben. Ich hoffe, dass sie nicht mehr auftauchen werden. Trotzdem muss Sidorowitsch davon erfahren. Er wird sich etwas einfallen lassen, wenn seine eigene Haut auf dem Spiel steht.</text>
+  </string>
+  <string id="esc_jurok_new_meet_second_dialog_1">
+    <text>Wenn sich noch etwas ergibt, lass es mich wissen. Ich helfe meinen alten Freunden immer.</text>
+  </string>
+  <string id="esc_jurok_new_meet_second_dialog_2">
+    <text>Bleib auch du in Kontakt! Danke für die Hilfe. Wir sind dir etwas schuldig. Wohin gehst du?</text>
+  </string>
+  <string id="esc_jurok_new_meet_second_dialog_3">
+    <text>Nach Nowoschepelitschi. Ich habe dort einen Auftrag. Ich bin eigentlich hierher gekommen, um mich über eine Route zu informieren, die dorthin führt, und ich hatte gerade einen freien Moment. Kannst du mir was sagen?</text>
+  </string>
+  <string id="esc_jurok_new_meet_second_dialog_4">
+    <text>Es ist ein interessanter Ort. Ich war schon ein paar Mal dort. Der Weg dorthin befindet sich in der Nähe des Mutantenverstecks, das du und Fanatiker gesprengt habt. Wenn du rechts abbiegst, kommst du zu einem eingestürzten Eisenbahntunnel, in den du hinuntersteigen und Nowoschepelitschi betreten kannst. Wenn du zurückkommen willst, nimm nicht denselben Weg, den du gekommen bist, sondern nimm den unterirdischen Servicetunnel. Wenn du am Kordon angekommen bist, gehst du durch die Tür hinaus. Aus irgendeinem Grund ist sie von außen verschlossen, weshalb du verschiedene Wege nehmen musst. Also, sei vorsichtig... Die Müllhalde ist nicht mal annähernd so gefährlich.</text>
+  </string>
+  <string id="esc_jurok_new_meet_second_dialog_5">
+    <text>Danke! Ich wünsche dir hier viel Glück. Wir sehen uns bald wieder!</text>
+  </string>
+  <string id="esc_mid_final_mercs_merc_leader_start_dialog_0">
+    <text>Wir sehen uns wieder.</text>
+  </string>
+  <string id="esc_mid_final_mercs_merc_leader_start_dialog_1">
+    <text>Du Scheißkerl. Du hast das Feuer eröffnet! Ich hatte keine Verwendung für dein verdammtes Artefakt!</text>
+  </string>
+  <string id="esc_mid_final_mercs_merc_leader_start_dialog_2">
+    <text>Ich sehe es nicht in deinem Rucksack. Wo ist es?</text>
+  </string>
+  <string id="esc_mid_final_mercs_merc_leader_start_dialog_3">
+    <text>Wenn ich es dir sage, woher weiß ich dann, dass du mich gehen lässt?</text>
+  </string>
+  <string id="esc_mid_final_mercs_merc_leader_start_dialog_4">
+    <text>Wir sind gute Kerle, wenn man uns zuhört und wenn wir beim ersten Mal verstanden werden. Also machen wir es so. Du sagst uns, wo du die Ware versteckt hast, wir schnappen sie uns, und du gehst deinen eigenen Weg weiter. Was hast du noch mal gemacht? Mutanten erschießen? Artefakte sammeln? Genau das wirst du weiter tun, als wäre nichts passiert.</text>
+  </string>
+  <string id="esc_mid_final_mercs_merc_leader_start_dialog_5">
+    <text>Ich werde es dir erst sagen, wenn ich in Sicherheit bin, weit weg von hier. Du hast mir selbst gesagt, wozu du fähig bist. Wenn ich lüge, wirst du mich sowieso finden.</text>
+  </string>
+  <string id="esc_forestry_stalker_1_start_dialog_0">
+    <text>Kumpel, ich versuche, hier etwas auszugraben. Ich habe kein Glück. Entweder mache ich etwas falsch oder mein Detektor ist kaputt...</text>
+  </string>
+  <string id="esc_forestry_stalker_1_start_dialog_1">
+    <text>Lass mal sehen.</text>
+  </string>
+  <string id="esc_forestry_stalker_1_second_dialog_0_1">
+    <text>Dieses Arschloch ist mit allen Artefakten abgehauen! Jetzt haben wir nur noch einen Haufen... Wie auch immer. Wir werden woanders hingehen.</text>
+  </string>
+  <string id="esc_forestry_stalker_1_second_dialog_0_2">
+    <text>Ja? Was willst du?</text>
+  </string>
+  <string id="esc_forestry_stalker_1_second_dialog_1_1">
+    <text>Mehr Glück beim nächsten Mal.</text>
+  </string>
+  <string id="esc_forestry_stalker_1_second_dialog_1_2">
+    <text>Tschüss.</text>
+  </string>
+  <string id="esc_forestry_stalker_2_second_dialog_0_1">
+    <text>Hallo.</text>
+  </string>
+  <string id="esc_forestry_stalker_2_second_dialog_0_2">
+    <text>Ich höre dir zu.</text>
+  </string>
+  <string id="esc_forestry_stalker_2_second_dialog_1_1">
+    <text>Tschüss.</text>
+  </string>
+  <string id="esc_forestry_stalker_2_second_dialog_1_2">
+    <text>Wir sehen uns später.</text>
+  </string>
+  <string id="esc_village_jurok_idle_dialog_0_1">
+    <text>Hallo Axt!</text>
+  </string>
+  <string id="esc_village_jurok_idle_dialog_0_2">
+    <text>Schön dich zu sehen!</text>
+  </string>
+  <string id="esc_village_jurok_idle_dialog_0_3">
+    <text>Hallo, Kumpel!</text>
+  </string>
+  <string id="esc_village_jurok_idle_dialog_0_4">
+    <text>Oh, du bist es, Axt! Was führt dich hierher?</text>
+  </string>
+  <string id="esc_village_jurok_idle_dialog_0_5">
+    <text>Brauchst du etwas, Bruder?</text>
+  </string>
+  <string id="esc_village_fanat_mishgan_pda_dialog_0">
+    <text>Ich habe die Leiche eines Stalkers auf der Müllhalde gefunden. Sein Name war Mischgan. Hier ist eine Notiz, die er bei sich hatte. Er bat mich, seinen PDA ins Anfängerdorf zu bringen.</text>
+  </string>
+  <string id="esc_village_fanat_mishgan_pda_dialog_1">
+    <text>Verdammt... Mischgan! Ich habe ihm gesagt, er soll sich von diesem verdammten Müll fernhalten! Wie konnte das passieren?</text>
+  </string>
+  <string id="esc_village_fanat_mishgan_pda_dialog_2_1">
+    <text>Er brauchte Hilfe, um seine Kameraden von Banditen zu befreien. Unsere Chancen standen nicht gut, also lehnte ich ab. Mischgan verpasste mir einen Schlag auf den Kopf und machte sich aus dem Staub... Als ich aufwachte, fand ich drei Leichen auf dem Autofriedhof: Es waren er und zwei seiner Freunde. Die Banditen waren da schon weg.</text>
+  </string>
+  <string id="esc_village_fanat_mishgan_pda_dialog_2_2">
+    <text>Keine Ahnung.</text>
+  </string>
+  <string id="esc_village_fanat_mishgan_pda_dialog_3_1">
+    <text>Ich hätte nicht erwartet, dass du einen anderen Stalker im Stich lässt! Mit deiner Hilfe hätte er seine Freunde befreit und alle wären lebend rausgekommen. Du hast wirklich gekniffen?... Ja, das ist nicht so, als würdest du Besorgungen für Sidorowitsch im Kordon machen...</text>
+  </string>
+  <string id="esc_village_fanat_mishgan_pda_dialog_3_2">
+    <text>Wirklich schade um ihn. Er war ein guter Kamerad für alle im Dorf. Jetzt wird er mit dem ganzen Müll verrotten...</text>
+  </string>
+  <string id="esc_village_fanat_mishgan_pda_dialog_4_1">
+    <text>Nun, so ist es passiert.</text>
+  </string>
+  <string id="esc_village_fanat_mishgan_pda_dialog_4_2">
+    <text>Das tut mir leid.</text>
+  </string>
+  <string id="esc_village_fanat_mishgan_pda_dialog_5">
+    <text>Wie auch immer, danke, dass du uns das sagst. Hier sind ein paar Vorräte, die ich habe. Du kannst sie gebrauchen.</text>
+  </string>
+  <string id="esc_village_fanat_mishgan_pda_dialog_6">
+    <text>Danke! Bis zum nächsten Mal.</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_0">
+    <text>Hey! Hast du irgendwelche Aufträge?</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_1_1">
+    <text>Hallo zusammen! Ich weiß. Ich würde sagen, du hast dich gut geschlagen, also hoffe ich, dass ich es nicht bereuen werde, dir diese Aufgabe anzuvertrauen...</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_1_2">
+    <text>Hallo zusammen. Es ist etwas dazwischen gekommen: Die Armee und die Wissenschaftler sollten hier am Kordon ein paar Feldforschungen durchführen. Ich wollte dich bitten, zu sehen, wohin sie gehen, aber sie hatten Probleme an den Kontrollpunkten... eine Art Schießerei. Deshalb kann ich dir im Moment nur kleine Arbeiten anbieten.</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_2">
+    <text>Bin ganz Ohr.</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_3_1">
+    <text>Ein Forscherteam wird bald am Militärkontrollpunkt ankommen. Ich weiß nicht, was sie suchen, aber ich weiß, dass sie mit einer Militäreskorte aufbrechen wollen, um Feldforschung zu betreiben.</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_3_2">
+    <text>Dieser eine Stalker, Puck, hat mir vor Kurzem eine Nachricht geschickt. Nicht weit von hier, beim Elektro-Tunnel, gibt es eine Menge Mutanten-Abschaum, der beseitigt werden muss. Wirst du es tun?</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_4_1">
+    <text>Was für Feldforschung?</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_4_2_1">
+    <text>Ja, natürlich. Ich muss irgendwie Geld verdienen. Ich habe nicht vor, im Kordon zu übernachten.</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_4_2_2">
+    <text>Es ist nichts mehr da. Ich habe die Stelle einfach leergeräumt.</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_5_1">
+    <text>Genau das will ich herausfinden. Vielleicht hecken sie etwas gegen die Stalker aus, und das bedeutet, dass mein Geschäft darunter leidet. Ich muss alles wissen. Du wirst sie verfolgen, aber sei dabei vorsichtig. Finde heraus, wo sie hingehen und was sie tun werden und erstatte mir dann Bericht. Und jetzt mach dich auf den Weg! Wir klären das später.</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_5_2_1">
+    <text>Dann mach dich an die Arbeit. Achte darauf, dass du jedes einzelne Tier ausmachst.</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_5_2_2">
+    <text>Gute Arbeit also. Hier ist deine Belohnung. Du kannst gehen. Ich kann dir nichts mehr anbieten.</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_6_1">
+    <text>Alles klar. Ich werde mein Bestes geben.</text>
+  </string>
+  <string id="esc_trader_second_job_dialog_start_6_2">
+    <text>Danke. Und auf Wiedersehen, Sid.</text>
+  </string>
+  <string id="esc_trader_scientists_jobs_cancel_dialog_0">
+    <text>Sid, es ist einiges passiert... Im Grunde wurde die gesamte Feldforschung abgesagt und ich bin dem Militär nur knapp lebend entkommen.</text>
+  </string>
+  <string id="esc_trader_scientists_jobs_cancel_dialog_1">
+    <text>Was meinst du mit "abgesagt"? Einerseits ist es gut, aber andererseits bist du ein verdammter Narr. Schon bald könnten sie zurückkommen und ihre Experimente durchführen und du wirst dann natürlich nicht mehr im Kordon sein. Dann muss ich jemand anderen finden.</text>
+  </string>
+  <string id="esc_trader_scientists_jobs_cancel_dialog_2">
+    <text>Tja, was soll man machen...</text>
+  </string>
+  <string id="esc_trader_scientists_jobs_cancel_dialog_3">
+    <text>Hier ist für die verspätete Arbeit. Die Tür ist direkt hinter dir.</text>
+  </string>
+  <string id="esc_trader_scientists_jobs_cancel_dialog_4">
+    <text>Auf Wiedersehen, Sid.</text>
+  </string>
+  <string id="esc_trader_scientists_fail_dialog_0">
+    <text>Sid, die Eierköpfe haben mich entdeckt. Ich habe es kaum lebend rausgeschafft. Die Feldforschung wird sich auf jeden Fall noch eine Weile verzögern.</text>
+  </string>
+  <string id="esc_trader_scientists_fail_dialog_1">
+    <text>Wenn das jemand herausfindet, wirst du ernsthafte Probleme mit deinem Ruf bekommen. Erwarte nicht, dass ich dir von nun an etwas Ernstes anvertraue.</text>
+  </string>
+  <string id="esc_trader_scientists_fail_dialog_2">
+    <text>Erzähl einfach niemandem davon, Sid. Sagen wir, ich habe mich im Voraus um alle Probleme gekümmert, die sie verursacht hätten. Komm schon, gib mir eine Belohnung!</text>
+  </string>
+  <string id="esc_trader_scientists_fail_dialog_3">
+    <text>Du bist ganz schön dreist, nicht wahr, Stalker? Eine Belohnung ist nicht das, was du brauchst ... nein, du brauchst einen ordentlichen Schlag auf den Kopf. Und jetzt verschwinde.</text>
+  </string>
+  <string id="esc_trader_scientists_fail_dialog_4">
+    <text>Tschüss, Sid...</text>
+  </string>
+  <string id="esc_scientist_1_fail_dialog_0">
+    <text>Nicht schießen! Was brauchst du?</text>
+  </string>
+  <string id="esc_scientist_1_fail_dialog_1">
+    <text>Die Dinge sind so gelaufen, wie sie gelaufen sind. Was machst du hier? Wo willst du hin?</text>
+  </string>
+  <string id="esc_scientist_1_fail_dialog_2">
+    <text>Wir sollten unser neues Gerät nicht weit von hier testen. Aber bitte tu uns nichts, bitte! Nimm das Gerät, egal was, nur schieß nicht!</text>
+  </string>
+  <string id="esc_scientist_1_fail_dialog_3_1">
+    <text>Rühr dich nicht vom Fleck, bis ich weg bin.</text>
+  </string>
+  <string id="esc_scientist_1_fail_dialog_3_2">
+    <text>Bewege dich nicht, bevor ich gehe.</text>
+  </string>
+  <string id="esc_scientist_2_fail_dialog_0">
+    <text>Nicht schießen, bitte! Ich werde dir alles geben!</text>
+  </string>
+  <string id="esc_scientist_2_fail_dialog_1">
+    <text>Ich bin nicht wegen deiner Besitztümer hier. Warum bist du hier? Wo wolltest du hin?</text>
+  </string>
+  <string id="esc_scientist_2_fail_dialog_2">
+    <text>Wir wurden beauftragt, ein neues Gerät zu testen. Es ist ein einziges Gerät. Hier, nimm es, wenn du es brauchst — aber tu uns bitte nicht weh!</text>
+  </string>
+  <string id="esc_scientist_2_fail_dialog_3_1">
+    <text>Warte hier, bevor ich gehe. Denke nicht einmal daran, dich zu bewegen.</text>
+  </string>
+  <string id="esc_scientist_2_fail_dialog_3_2">
+    <text>Warte hier, bevor ich gehe. Denke nicht einmal daran, dich zu bewegen.</text>
+  </string>
+  <string id="esc_scientists_fail_idle_dialog_0_1">
+    <text>Aber töte uns nicht!</text>
+  </string>
+  <string id="esc_scientists_fail_idle_dialog_0_2">
+    <text>Bitte, nicht schießen!</text>
+  </string>
+  <string id="esc_scientists_fail_idle_dialog_0_3">
+    <text>Erschießt uns nur nicht, bitte!</text>
+  </string>
+  <string id="esc_scientists_fail_idle_dialog_0_4">
+    <text>Ich flehe dich an, nicht schießen!</text>
+  </string>
+  <string id="esc_scientists_fail_idle_dialog_0_5">
+    <text>Bitte töte mich nicht!</text>
+  </string>
+  <string id="esc_scientists_fail_idle_dialog_1_1">
+    <text>Halt die Klappe und beweg dich nicht.</text>
+  </string>
+  <string id="esc_scientists_fail_idle_dialog_1_2">
+    <text>Genug geschrien. Sei ruhig.</text>
+  </string>
+  <string id="esc_scientists_fail_idle_dialog_1_3">
+    <text>Genug gejammert. Halt die Klappe.</text>
+  </string>
+  <string id="esc_scientists_fail_idle_dialog_1_4">
+    <text>Du solltest vielleicht dein Maul halten.</text>
+  </string>
+  <string id="esc_scientists_fail_idle_dialog_1_5">
+    <text>Hör auf zu schreien, wenn du in einem Stück nach Hause gehen willst.</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_dialog_0">
+    <text>Hier ist das Gerät des Wissenschaftlers. Ich verstehe immer noch nicht, was das ist.</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_dialog_1">
+    <text>Okay, mal sehen, was wir da haben...</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_dialog_2">
+    <text>Hattest du Erfolg damit?</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_dialog_3">
+    <text>Ja, ja. Nur eine Sekunde...</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_dialog_4">
+    <text>Die Spannung bringt mich um... Was macht es?</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_active_dialog_0">
+    <text>Scheiße, das Ding hat irgendwie eine Wirkung auf Monster! Hilf den Jungs, den Angriff abzuwehren. Ich schalte das Ding aus!</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_active_dialog_1">
+    <text>Ja! Okay! Ich bin weg!</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_attack_compl_dialog_0">
+    <text>Hast du sie abgewehrt?!</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_attack_compl_dialog_1">
+    <text>Das haben wir! Hast du es geschafft, das Ding abzuschalten?</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_attack_compl_dialog_2">
+    <text>Ja, Gott sei Dank. Gerade noch so geschafft!</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_attack_compl_dialog_3">
+    <text>Ich weiß nicht, was es ist, aber das Ding hat die Mutanten hierher gelockt. Sobald du es ausgeschaltet hast, sind sie buchstäblich verschwunden!</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_attack_compl_dialog_4">
+    <text>Nun ja... Hör zu, ich habe keine Verwendung für Geräte wie dieses. Wie wäre es damit: Du findest einen Weg, dieses Ding bei den Banditen an der Fahrzeugstation zu platzieren und ich gebe dir dafür einen Anzug. Was sagst du dazu? Die Stalker und ich werden dir dankbar sein!</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_attack_compl_dialog_5">
+    <text>Schon bald werde ich den Kordon verlassen müssen, also wird ein neuer Anzug genau das Richtige für mich sein. Gib mir das Gerät und ich probiere es aus.</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_compl_dialog_0">
+    <text>Ich habe das Gerät dort platziert. Ich hätte nicht gedacht, dass ich da lebend rauskomme...</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_compl_dialog_1">
+    <text>Gute Arbeit, Stalker. Bitte sehr: ein brandneuer Stalker-Anzug, wie versprochen. Viel Glück außerhalb des Kordons. Wenn du etwas reparieren lassen musst, weißt du, an wen du dich wenden kannst.</text>
+  </string>
+  <string id="esc_village_technic_scientists_device_compl_dialog_2">
+    <text>Danke, Michalitsch! Bis zum nächsten Mal!</text>
+  </string>
+  <string id="esc_trader_scientists_task_good_dialog_0">
+    <text>Ich habe die Wissenschaftler aufgespürt, — sie hatten eine Eskorte vom Militär. Sie erreichten das fliegende Dorf bei der Fahrzeugstation. Einer von ihnen ging durch die Teleporter, um nach oben zu gelangen, und brachte dort ein Gerät an.</text>
+  </string>
+  <string id="esc_trader_scientists_task_good_dialog_1_1">
+    <text>Was für ein Gerät?</text>
+  </string>
+  <string id="esc_trader_scientists_task_good_dialog_1_2">
+    <text>Das habe ich inzwischen verstanden. Warum in den sieben Höllen hast du das Ding ins Dorf gebracht? Hältst du mich für einen Vollidioten? So einen Mutantenangriff hat es hier noch nie gegeben!</text>
+  </string>
+  <string id="esc_trader_scientists_task_good_dialog_2_1">
+    <text>Keine Ahnung.</text>
+  </string>
+  <string id="esc_trader_scientists_task_good_dialog_2_2">
+    <text>Na ja, weißt du... es ist einfach so passiert.</text>
+  </string>
+  <string id="esc_trader_scientists_task_good_dialog_3_1">
+    <text>Okay, hier hast du den Ärger. Ich hoffe, es ist nichts, was den Stalkern Probleme bereiten soll. Im Moment habe ich keine ernsthafte Arbeit, also bist du frei.</text>
+  </string>
+  <string id="esc_trader_scientists_task_good_dialog_3_2">
+    <text>Ich hatte schon mit vielen Bastarden zu tun, Axt, aber von allen bist du derjenige, an den man sich erinnern wird. Geh mir aus den Augen. Das ist für die Arbeit, aber erwarte nicht, dass ich dir wieder etwas Ernstes anvertraue.</text>
+  </string>
+  <string id="esc_trader_scientists_task_good_dialog_4_1">
+    <text>Bis dann, Sid.</text>
+  </string>
+  <string id="esc_trader_scientists_task_good_dialog_4_2">
+    <text>Bis dann, Sid...</text>
+  </string>
+  <string id="esc_trader_scientists_task_actor_ran_away_dialog_0">
+    <text>Ein Stalker namens Puck hat mir erzählt, dass die Wissenschaftler und die Armee das fliegende Dorf bei der Fahrzeugstation erreicht haben und dass einer der Eierköpfe durch die Teleporter auf den Gipfel gegangen ist, wo sich das Haus befindet. Dort hat er eine Art Gerät installiert.</text>
+  </string>
+  <string id="esc_trader_scientists_task_actor_ran_away_dialog_1_1">
+    <text>Ich verstehe. Was für ein Gerät?</text>
+  </string>
+  <string id="esc_trader_scientists_task_actor_ran_away_dialog_1_2">
+    <text>Ich würde dich gerne etwas fragen. Warum in den sieben Höllen hast du das Ding ins Dorf gebracht? Hältst du mich für einen Vollidioten? Hier hat es noch nie einen solchen Mutantenangriff gegeben!</text>
+  </string>
+  <string id="esc_trader_scientists_task_actor_ran_away_dialog_2_1">
+    <text>Keine Ahnung.</text>
+  </string>
+  <string id="esc_trader_scientists_task_actor_ran_away_dialog_2_2">
+    <text>Na ja, weißt du... es ist einfach so passiert.</text>
+  </string>
+  <string id="esc_trader_scientists_task_actor_ran_away_dialog_3_1">
+    <text>Okay, hier hast du die Infos. Ich hoffe, es ist nichts, was den Stalkern Probleme bereiten soll. Im Moment habe ich keine ernsthafte Arbeit, also bist du frei.</text>
+  </string>
+  <string id="esc_trader_scientists_task_actor_ran_away_dialog_3_2">
+    <text>Ich hatte schon mit vielen Bastarden zu tun, Axt, aber von allen bist du derjenige, an den man sich erinnern wird. Geh mir aus den Augen. Das ist für die Arbeit, aber erwarte nicht, dass ich dir wieder etwas Ernstes anvertraue.</text>
+  </string>
+  <string id="esc_trader_scientists_task_actor_ran_away_dialog_4_1">
+    <text>Bis dann, Sid.</text>
+  </string>
+  <string id="esc_trader_scientists_task_actor_ran_away_dialog_4_2">
+    <text>Bis dann, Sid...</text>
+  </string>
+  <string id="esc_trader_esc_sweep_task_reward_dialog_0">
+    <text>Um die Hunde wird sich gekümmert. Dort wird es in nächster Zeit nichts mehr geben.</text>
+  </string>
+  <string id="esc_trader_esc_sweep_task_reward_dialog_1">
+    <text>Ausgezeichnet. Das ist für die Arbeit. Im Moment kann ich dir aber nichts weiter anbieten.</text>
+  </string>
+  <string id="esc_trader_esc_sweep_task_reward_dialog_2">
+    <text>Danke, Sidorowitsch. Bis zum nächsten Mal.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_0">
+    <text>Was brauchst du?</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_1">
+    <text>Guten Tag, Hauptmann! Mein Name ist Schurawlow- ich bin Militärstalker. Ich bereite mich darauf vor, das Dorf in der Nähe zu besuchen, und habe ein paar Fragen.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_2">
+    <text>Ich höre, Schurawlow.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_3">
+    <text>Kennst du den Stalker auf diesem Foto?</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_4">
+    <text>Ich kann dir mit Sicherheit sagen, dass er nicht unter unseren Gefangenen war. Du hast also ein Hühnchen mit ihm zu rupfen und bist deshalb in diese Gegend gekommen? Hat er etwas Besonderes getan?</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_5_1">
+    <text>Ich bin mir noch nicht ganz sicher. Ich werde Sidorowitsch fragen... Vielleicht kann er mir etwas sagen. Ich werde auch mit deinen Häftlingen über ihn sprechen.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_5_2">
+    <text>Ich bin mir noch nicht ganz sicher. Ich werde Sidorowitsch fragen, vielleicht kann er mir etwas sagen.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_6_1">
+    <text>Sei vorsichtig mit deinen Nachforschungen und rühre ihn vor allem nicht an. Wir brauchen den Mann lebend. Habt ihr verstanden?</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_6_2">
+    <text>Sei vorsichtig mit deinen Nachforschungen und rühre ihn vor allem nicht an. Wir brauchen den Mann lebend. Habt ihr verstanden? Es wäre auch besser, wenn du keine Militärkleidung tragen würdest. Neben den Zellen, in denen die Gefangenen festgehalten werden, steht eine Kiste mit Kleidung. Nimm dir daraus, was du brauchst, und lass alles liegen, was du nicht brauchst. Denk aber daran, dass ein Teil davon von toten Eindringlingen stammt... Das war nur ein Scherz, nur ein Scherz.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_7_1">
+    <text>Es wird alles gut gehen. Mach dir keine Sorgen.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_dialog_7_2">
+    <text>Es wird alles gut gehen. Mach dir keine Sorgen. Danke für den Tipp. Ich werde die Kleidung anprobieren.</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_0">
+    <text>Hey, Kumpel! Hilfst du mir?</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_1">
+    <text>Was ist los mit dir?</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_2">
+    <text>Bitte, hilf mir, hier rauszukommen!</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_3">
+    <text>Warum sollte ich? Du hast das Gesetz gebrochen und verbotenes Gebiet betreten. Ich bin nicht derjenige, der über dein Schicksal entscheidet.</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_4">
+    <text>Wir haben nichts Schlimmes getan! Ja, wir sind durchgebrochen, aber wir haben niemanden getötet und keine Artefakte aus der Zone gestohlen! Wir haben hier andere Ziele und sind keine Kriminellen.</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_5">
+    <text>Und ich frage mich, was das sein könnte? Ich dachte, das Einzige, wofür Stalker hier sind, sind Münzen.</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_6">
+    <text>Wir sind auf der Suche nach einem Mann. Einen guten Mann. Ich würde sogar sagen, er ist einer der besten, die hierher gekommen sind.</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_7">
+    <text>Weißt du, ich suche auch nach einem Mann. Du hilfst mir, ich helfe dir. Klingt das gut?</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_8">
+    <text>Ja, natürlich!</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_9">
+    <text>Hier ist ein Bild. Klingelt's da bei dir?</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_10">
+    <text>Ich kenne ihn, ich kenne ihn! Das ist... Sein Name ist Axt! Er hat sich im Dorf herumgetrieben und ist dann ins Zentrum der Zone gegangen!</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_11">
+    <text>Hast du Kontaktinformationen von ihm? Wie kann ich mit ihm in Kontakt treten und ihn finden?</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_12">
+    <text>Habe ich nicht. Ich habe ihn schon lange nicht mehr gesehen.</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_13">
+    <text>Du kannst mir also nicht sagen, wo ich ihn finden kann?</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_14">
+    <text>Ich weiß nur, dass er Richtung Norden, außerhalb des Kordons, gegangen ist. Könntest du also ein gutes Wort für mich und meinen Bruder einlegen? Wir wissen sonst nichts!</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_15">
+    <text>Nun, wir hatten eine Abmachung... Du hast mir nicht geholfen, also kann ich dir auch nicht helfen. Tut mir leid.</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_16">
+    <text>Ich werde dir helfen, ihn zu finden. Aber hol mich hier raus!</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_17">
+    <text>Wie ist dein Name?</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_18">
+    <text>Mein Name ist Schimmer.</text>
+  </string>
+  <string id="esc_army_base_stalker_prisoner_help_dialog_19">
+    <text>Warte hier. Ich komme zurück, wenn ich deine Hilfe brauche.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_second_dialog_0_1">
+    <text>Hast du mit den Gefangenen geredet?</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_second_dialog_0_2">
+    <text>Hast du mit den Gefangenen gesprochen? Passt dir die Kleidung?</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_second_dialog_1_1">
+    <text>Ich habe leider nichts Neues herausgefunden. Ich werde zu Sidorowitsch gehen.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_second_dialog_1_2">
+    <text>Die Kleidung passt, danke. Was die Gefangenen angeht, habe ich nichts Neues herausgefunden, also werde ich zu Sidorowitsch gehen.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_second_dialog_2">
+    <text>Behalte nur deinen Ausweis bei dir, damit du nicht von unseren Jungs geschnappt wirst.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_second_dialog_3">
+    <text>Ja, natürlich. Was werden wir mit den Gefangenen machen?</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_second_dialog_4">
+    <text>Was denkst du? Nach allen Gesetzen von Mutter Ukraine werden sie vor Gericht landen... Nein, eigentlich nicht! Zuerst werden sie etwas für unseren Kontrollpunkt tun. Wir brauchen einen neuen Anstrich für die Garage und einen neuen Verputz für die Werkstatt. Danach können wir die Jungs abschieben lassen. Braucht deine Einrichtung auch zusätzliche Arbeitskräfte?</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_second_dialog_5">
+    <text>Wir brauchen Köpfchen, keine Muskeln. Ich brauche vielleicht bald diesen einen Stalker namens Schimmer. Tu ihm nichts Unüberlegtes an.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_second_dialog_6">
+    <text>Notiert. Wenn er sich nicht mit Farbe zudröhnt, ist alles in Ordnung. Aber denk daran: Du hast zwei Tage Zeit. Danach werden sie nach draußen eskortiert.</text>
+  </string>
+  <string id="esc_army_base_soldier_leader_clothes_second_dialog_7">
+    <text>Ich habe verstanden. Vielen Dank, Hauptmann.</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_0">
+    <text>Was willst du?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_1">
+    <text>Ich bin nur vorbeigekommen, um Vorräte zu holen und gegen Infos zu tauschen.</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_2">
+    <text>Wie kommst du darauf, dass ich etwas davon mit dir teilen werde? Ich kenne dich nicht von hier.</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_3">
+    <text>Was gibt es hier noch zu tun? Diese Gebiete sind bis auf den letzten Zentimeter ausgekundschaftet. Der Norden hingegen... da will ich hin.</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_4_1">
+    <text>Nach deiner Kleidung zu urteilen, reicht dein "Norden" bis zur Schweinefarm bei der Brücke. Hah!</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_4_2">
+    <text>Trotzdem weiß ich nichts über dich. Um ehrlich zu sein, würde ich das auch nicht wollen.</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_5_1">
+    <text>Ich möchte meinen Exo nicht mit dem Kordon-Schlamm beschmutzen... und deine Frischlinge könnten sich in sabbernde Narren verwandeln.</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_5_2">
+    <text>Können wir aufhören, schnippisch zu sein und wie normale Menschen reden?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_6_1">
+    <text>Das stimmt! Also, was willst du?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_6_2">
+    <text>Na gut. Was brauchst du?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_7">
+    <text>Ich brauche Informationen über einen Stalker. Ich nehme an, dass das hier die wertvollste Währung ist, also habe ich im Gegenzug etwas zu bieten.</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_8">
+    <text>Ja? Und was könnte das sein?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_9">
+    <text>Interessieren dich Informationen über den Bernsteinsee?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_10">
+    <text>Ganz und gar nicht! Ich habe drei Gruppen dorthin geschickt, und keine einzige ist lebend zurückgekommen!</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_11">
+    <text>Wenn ich dir eine detaillierte Karte der Umgebung anbiete, ist die Chance höher, dass deine nächste Gruppe zurückkommt... und es könnte ein Gewinn für dich persönlich dabei herausspringen. Interessiert?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_12">
+    <text>Was möchtest du als Gegenleistung?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_13">
+    <text>Ich bin auf der Suche nach dem Stalker auf diesem Foto. Er scheint auf den Namen " Axt" zu hören. Kennst du ihn?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_14">
+    <text>Ah... Ja, das Gesicht kenne ich... Okay, gib mir die Karte und ich sage dir, wo er ist. Aber mehr weiß ich nicht über ihn und es ist mir auch egal. </text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_15">
+    <text>Und das bedeutet...? Sind deine Informationen über seine Position korrekt?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_16">
+    <text>Das tun sie. Gib mir die Karte!</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_17">
+    <text>Ich schicke sie dir auf deinen PDA.</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_18">
+    <text>Gefällt mir! Also... Du weißt von der eingestürzten Eisenbahnbrücke in der Nähe, oder?</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_19">
+    <text>Natürlich habe ich das.</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_20">
+    <text>Wenn du ihn finden willst, dann musst du dorthin gehen. Und frag mich nicht nach Details. Noch besser wäre es, wenn wir beide dieses Gespräch nie geführt hätten. Und jetzt mach dich auf den Weg. Hopp, hopp.</text>
+  </string>
+  <string id="esc_trader_search_first_actor_dialog_21">
+    <text>Na dann. Ich wünsche dir einen schönen Tag.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_1_dialog_0">
+    <text>Was treibst du dich hier herum?</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_1_dialog_1">
+    <text>Ich komme nur für Sidorowitsch vorbei. Ich muss ihn sehen.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_1_dialog_2">
+    <text>Worauf wartest du also noch? Häng hier nicht rum!</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_1_dialog_3">
+    <text>Verstehe.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_2_dialog_0">
+    <text>Warum läufst du dann hier rum?</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_2_dialog_1">
+    <text>Entspann dich. Ich muss Sidorowitsch in einer Angelegenheit treffen.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_2_dialog_2">
+    <text>Dann geh zu ihm. Der Bunker ist hinter dir. Denke nicht daran, ohne unsere Erlaubnis etwas zu tun.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_2_dialog_3">
+    <text>Wir sehen uns.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_3_dialog_0">
+    <text>Was brauchst du?</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_3_dialog_1">
+    <text>Ich muss mit Sidorowitsch etwas Geschäftliches besprechen. Überanstrenge dich nicht.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_3_dialog_2">
+    <text>Sidorowitsch ist auf der anderen Seite. Pass auf dich auf, solange du hier bist.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_3_dialog_3">
+    <text>Tschüss.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_1_angry_dialog_0">
+    <text>Hör zu, Kumpel. Es ist mir egal, wer du in deiner Aufmachung bist, aber du solltest dich lieber von hier fernhalten. Wir brauchen Leute wie dich nicht.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_1_angry_dialog_1">
+    <text>Sei leise... Ich bin hier, um Sidorowitsch zu besuchen.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_1_angry_dialog_2">
+    <text>Denk nicht einmal daran, Sidorowitsch zu treffen. Wer weiß, was du vorhast... Wir haben ihn bereits benachrichtigt und wenn du hier oben etwas versuchst, wirst du einfach erschossen.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_1_angry_dialog_3">
+    <text>Verstehe, also... Warte. Wenn ich ihn nicht sehen kann, könntest du mir vielleicht sagen, wo ich den Stalker auf diesem Foto finde?</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_1_angry_dialog_4">
+    <text>Warte, das ist... Äh, nein, ich kenne ihn nicht. Los geht's.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_1_angry_dialog_5">
+    <text>Okay, dann. Tschüss.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_2_angry_dialog_0">
+    <text>Kumpel, ich weiß nicht, für wen du dich in diesen schäbigen Klamotten hältst, aber ich sage dir: Verschwinde von hier.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_2_angry_dialog_1">
+    <text>Nicht so laut. Ich bin nur geschäftlich hier, um Sidorowitsch zu treffen.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_2_angry_dialog_2">
+    <text>Du hast keine Chance, ihn zu sehen. Er wurde bereits benachrichtigt. Versuch hier nichts... sonst kriegen wir dich auf die eine oder andere Weise dran.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_2_angry_dialog_3">
+    <text>Warte mal... Wenn ich den Händler nicht sehen kann, kannst du mir dann sagen, wo ich den Stalker auf diesem Foto finde?</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_2_angry_dialog_4">
+    <text>Ich weiß nichts über ihn. Und jetzt verschwinde, solange du noch kannst.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_2_angry_dialog_5">
+    <text>Tschüss dann.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_3_angry_dialog_0">
+    <text>Mann, du verschwindest besser mit deiner zwielichtigen Aufmachung. Solche Leute wie dich brauchen wir nicht.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_3_angry_dialog_1">
+    <text>Lass uns kein Aufhebens machen. Ich bin geschäftlich hier, um Sidorowitsch zu treffen.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_3_angry_dialog_2">
+    <text>Glaubst du, das wird funktionieren? Leute wie dich lässt er nicht rein, das steht fest. Er wurde über deine Ankunft informiert, also komm damit klar und erwarte nicht, ihn zu sehen.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_3_angry_dialog_3">
+    <text>Warum zum Teufel hast du das getan? Dann bist du derjenige, der mir aushilft. Kennst du den Stalker auf diesem Foto?</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_3_angry_dialog_4">
+    <text>Das erste Mal, dass ich ihn sehe. Geh deinen Geschäften nach und belästige die Einheimischen nicht.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohr_3_angry_dialog_5">
+    <text>Tschüss.</text>
+  </string>
+  <string id="esc_technic_default_meet_dialog_0_1">
+    <text>Hey, Axt. Willst du etwas?</text>
+  </string>
+  <string id="esc_technic_default_meet_dialog_0_2">
+    <text>Was hast du, Axt?</text>
+  </string>
+  <string id="esc_technic_default_meet_dialog_0_3">
+    <text>Nun, ich höre.</text>
+  </string>
+  <string id="esc_technic_default_meet_after_yantar_dialog_0_1">
+    <text>Was willst du, Wanderer?</text>
+  </string>
+  <string id="esc_technic_default_meet_after_yantar_dialog_0_2">
+    <text>Willst du deine Sachen reparieren lassen?</text>
+  </string>
+  <string id="esc_technic_default_meet_after_yantar_dialog_0_3">
+    <text>Nun, was brauchst du?</text>
+  </string>
+  <string id="esc_fanat_after_yantar_idle_dialog_0_1">
+    <text>Wonach suchst du, Neuling?</text>
+  </string>
+  <string id="esc_fanat_after_yantar_idle_dialog_0_2">
+    <text>Wen haben wir denn hier?</text>
+  </string>
+  <string id="esc_fanat_after_yantar_idle_dialog_0_3">
+    <text>Was brauchst du?</text>
+  </string>
+  <string id="esc_village_after_yantar_ohrs_idle_dialog_0_1">
+    <text>Was willst du? Mach eine Pause.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohrs_idle_dialog_0_2">
+    <text>Störe mich nicht.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohrs_idle_dialog_0_3">
+    <text>Misch dich nicht in meine Angelegenheiten ein, ja?</text>
+  </string>
+  <string id="esc_village_after_yantar_ohrs_idle_dialog_0_4">
+    <text>Würdest du dich bitte verziehen?</text>
+  </string>
+  <string id="esc_village_after_yantar_ohrs_idle_dialog_0_5">
+    <text>Kannst du uns nicht einfach in Ruhe lassen?</text>
+  </string>
+  <string id="esc_village_after_yantar_ohrs_idle_dialog_0_6">
+    <text>Ab mit dir. Lasst uns in Ruhe.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohrs_idle_dialog_0_7">
+    <text>Hau ab, Kumpel. Geh und such dir einen anderen Ort zum Herumwandern.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohrs_idle_dialog_0_8">
+    <text>Was willst du noch? Geh deiner Arbeit nach.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohrs_idle_dialog_0_9">
+    <text>Raus hier, geh mir aus dem Weg.</text>
+  </string>
+  <string id="esc_village_after_yantar_ohrs_idle_dialog_0_10">
+    <text>Los, verschwinde und geh uns aus dem Weg.</text>
+  </string>
+  <string id="esc_trader_composer_task_start_dialog_0">
+    <text>Gibt es vielleicht Arbeit für mich auf der Müllhalde?</text>
+  </string>
+  <string id="esc_trader_composer_task_start_dialog_1">
+    <text>Es gibt sie. Es ist nicht dein erster Tag in der Zone, also kannst du damit umgehen. Einige der Jungs auf der Müllhalde brauchen Hilfe beim Umgang mit Hunden und beim Ausgraben einiger kleinerer Artefakte. Du musst ihnen nur den Rücken freihalten und sie geben dir deinen Anteil, wenn sie fertig sind.</text>
+  </string>
+  <string id="esc_trader_composer_task_start_dialog_2">
+    <text>Ich verstehe. Gib mir die Koordinaten.</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_0">
+    <text>Brauchst du etwas, Freund?</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_1">
+    <text>Warum sitzt du hier ganz allein?</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_2">
+    <text>Ich habe es vermasselt.</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_3">
+    <text>So schlecht, dass sie dich verbannt haben?</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_4">
+    <text>Nein. Das ist einfach nur idiotisch.</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_5">
+    <text>Sag mir, was passiert ist.</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_6">
+    <text>Das weißt du nicht? Ich habe alle zu Tode erschreckt! Eines Abends tranken die Jungs und ich beschloss, ihnen einen Streich zu spielen, als sie in ihren Lagern verteilt waren. Das hast du wahrscheinlich auch im Pionierlager gemacht, oder? Ich rief durch das ganze Dorf: "Pseudodogs! Die Pseudohunde greifen an!" Alle waren in höchster Alarmbereitschaft und gingen in Stellung. Ich konnte mich nicht zurückhalten, wie ein Idiot zu lachen. Ich sagte ihnen, dass es nur ein Scherz war. Danach verprügelten sie mich so sehr, dass ich am nächsten Morgen kein Wort mehr sagen konnte. Jetzt will niemand mehr mit mir reden. Mein neuer Name? "Narr". Ich bin der Einzige, der über meinen eigenen Scherz gelacht hat ... und sie glauben mir kein Wort mehr.</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_7_1">
+    <text>Was hast du dazu zu sagen?</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_7_2">
+    <text>Genau das ist es, was du bekommst. Weißt du überhaupt, wo wir sind, du Idiot? Dies ist kein Ort für Witze und dein Streich war schlimmer als jeder echte Pseudohund da draußen!</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_8_1">
+    <text>Was auch immer ich sage, es wird niemanden interessieren. Obwohl ... Ich habe etwas durch mein Fernglas gesehen, als ich eine Aufgabe von Sidorowitsch an der Böschung hatte.</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_8_2">
+    <text>Ich weiß... aber niemand glaubt mir mehr! Allerdings bemerkte ich gleich danach etwas durch mein Fernglas, als ich bei einer Aufgabe von Sidorowitsch an der Böschung war.</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_9">
+    <text>Was genau?</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_10">
+    <text>Ein Artefakt. Ich habe so etwas noch nie gesehen, und alle, die ich gefragt habe, sagten, sie wüssten nichts davon. Ich habe aber zu viel Angst, selbst hinzugehen... Es ist direkt bei der Schweinezucht, und wie du weißt, ist dieser Ort voller Fleisch. Niemand will mit mir gehen, und der Älteste lacht nur, wenn ich ihm davon erzähle.</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_11_1">
+    <text>Du willst, dass ich mitkomme?</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_11_2">
+    <text>Ich habe keine Lust, mit dir irgendwo hinzugehen, also tschüss.</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_12">
+    <text>Ist das dein Ernst?! Ich hätte nichts dagegen, wenn du mir den Rücken deckst, du scheinst viel erfahrener zu sein als alle anderen im Lager. Willst du jetzt gehen?</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_13_1">
+    <text>Klar. Lass uns dein Artefakt suchen.</text>
+  </string>
+  <string id="esc_stalker_liar_start_dialog_13_2">
+    <text>Etwas später. Ich muss noch etwas erledigen.</text>
+  </string>
+  <string id="esc_stalker_liar_after_start_dialog_0">
+    <text>Du bist wieder da. Was ist es?</text>
+  </string>
+  <string id="esc_stalker_liar_after_start_dialog_1_1">
+    <text>Willst du, dass ich dich wegen des Artefakts begleite?</text>
+  </string>
+  <string id="esc_stalker_liar_after_start_dialog_1_2">
+    <text>Ich komme nur vorbei.</text>
+  </string>
+  <string id="esc_stalker_liar_wait_dialog_0">
+    <text>Marschbereit?</text>
+  </string>
+  <string id="esc_stalker_liar_wait_dialog_1_1">
+    <text>Ja, los geht's.</text>
+  </string>
+  <string id="esc_stalker_liar_wait_dialog_1_2">
+    <text>Noch nicht.</text>
+  </string>
+  <string id="esc_stalker_liar_start_task_dialog_0">
+    <text>Das Artefakt ist gleich um die Ecke. Bist du bereit?</text>
+  </string>
+  <string id="esc_stalker_liar_start_task_dialog_1">
+    <text>Zeige den Weg.</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_take_dialog_0">
+    <text>Oh, das ist ja toll... Es gab hier wirklich ein Rudel Pseudohunde. Ich hätte von Anfang an den Mund halten sollen! Lass mich wenigstens das Artefakt ansehen.</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_take_dialog_1_1">
+    <text>Hier, du hast es dir verdient.</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_take_dialog_1_2">
+    <text>Ich nehme es für mich selbst.</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_take_dialog_2_1">
+    <text>Ein interessantes Stück, ganz sicher. Ich frage mich, welche Eigenschaften es hat... Ich denke, wir sollten mit Sidorowitsch darüber reden. Gehen wir zurück ins Lager?</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_take_dialog_2_2">
+    <text>Hey, das war nicht der Deal! Hab ein Herz und gib es mir!</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_take_dialog_3_1">
+    <text>Ja, los geht's.</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_take_dialog_3_2">
+    <text>Verpiss dich. Das Artefakt gehört mir, und damit basta.</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_end_dialog_0">
+    <text>Trautes Heim, Glück allein. Ich werde ins Lager gehen, um ein paar meiner Sachen zu holen und mich auszuruhen, dann gehe ich zu Sidorowitsch und verkaufe sie zusammen mit dem Artefakt. Geh nicht zu weit weg. Ich melde mich bei dir, wenn ich ein Geschäft mit ihm abgeschlossen habe. Du hast dir die Hälfte der Summe verdient.</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_end_dialog_1">
+    <text>Wie du sagst. Denk nur nicht daran, mich zu täuschen.</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_end_dialog_2">
+    <text>Warum habe ich das getan? Du bist der erste, der mir nach so langer Zeit glaubt!</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_end_dialog_3">
+    <text>Mein Rat an dich, Jester, ist, die anderen Neulinge auf einen Drink einzuladen und dich bei ihnen zu entschuldigen.</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_end_dialog_4">
+    <text>Ja, du hast Recht. Ich werde ihnen etwas gönnen und mich entschuldigen. Vielleicht glauben sie mir ja, wenn ich es ihnen sage.</text>
+  </string>
+  <string id="esc_stalker_liar_artefact_end_dialog_5">
+    <text>Gut. Wir reden später.</text>
+  </string>
+  <string id="esc_stalker_liar_reward_dialog_0">
+    <text>Da ist mein Mann! Hier ist deine Belohnung für diese ganze Tortur. Nochmals vielen Dank!</text>
+  </string>
+  <string id="esc_stalker_liar_reward_dialog_1">
+    <text>Danke, Jester... wenn man dich noch so nennt.</text>
+  </string>
+  <string id="esc_stalker_liar_reward_dialog_2">
+    <text>Mach dir nichts draus. Es ist irgendwie an mir hängen geblieben. Aber wie du siehst, ist zwischen mir und den anderen alles in Ordnung. Willst du bei uns bleiben und vielleicht ein paar Geschichten erzählen?</text>
+  </string>
+  <string id="esc_stalker_liar_reward_dialog_3">
+    <text>Tut mir leid, aber es ist Zeit für mich. Viel Glück, Stalker... Ich hoffe, du hast deine Lektion gelernt.</text>
+  </string>
+  <string id="esc_stalker_liar_idle_dialog_0_1">
+    <text>Schön, dich zu sehen!</text>
+  </string>
+  <string id="esc_stalker_liar_idle_dialog_0_2">
+    <text>Hey, Stalker?</text>
+  </string>
+  <string id="esc_stalker_liar_idle_dialog_0_3">
+    <text>Was ist los?</text>
+  </string>
+  <string id="esc_stalker_liar_idle_dialog_1_1">
+    <text>Auf Wiedersehen.</text>
+  </string>
+  <string id="esc_stalker_liar_idle_dialog_1_2">
+    <text>Wir sehen uns später.</text>
+  </string>
+  <string id="esc_stalker_liar_idle_dialog_1_3">
+    <text>Bis bald.</text>
+  </string>
+  <string id="esc_army_base_vova_vist_idle_dialog_0_1">
+    <text>Guten Tag! Ist etwas kaputt?</text>
+  </string>
+  <string id="esc_army_base_vova_vist_idle_dialog_0_2">
+    <text>Hey! Musst du etwas reparieren?</text>
+  </string>
+  <string id="esc_army_base_vova_vist_idle_dialog_0_3">
+    <text>Musst du etwas aufrüsten oder reparieren? Wir haben genug Klebeband, um die ganze Zone zu flicken, wenn es nötig ist!</text>
+  </string>
+  <string id="esc_army_base_vova_vist_idle_dialog_1_1">
+    <text>Später.</text>
+  </string>
+  <string id="esc_army_base_vova_vist_idle_dialog_1_2">
+    <text>Ich werde mal vorbeischauen.</text>
+  </string>
+  <string id="esc_army_base_vova_vist_idle_dialog_1_3">
+    <text>Wir sehen uns.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_start_dialog_0">
+    <text>Michalitsch, kannst du meine Ausrüstung verbessern?</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_start_dialog_1">
+    <text>Nur knapp. Wenn du etwas reparieren musst, bin ich dein Mann; wenn du ein Upgrade brauchst, brauche ich die richtigen Werkzeuge. Wenn du welche findest, kann ich deine Ausrüstung komplett umbauen und gebe dir auch noch einen guten Rabatt. Ich brauche Werkzeuge für einfache Arbeiten, Werkzeuge für Feinarbeiten und Kalibrierungswerkzeuge.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_start_dialog_2">
+    <text>Klingt interessant. Wenn ich etwas finde, werde ich versuchen, es dir zu bringen.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_0">
+    <text>Ich habe Werkzeuge für dich gefunden.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_1">
+    <text>Zeig mir, was du hast!</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_2_1">
+    <text>Werkzeuge für einfache Arbeiten.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_2_2">
+    <text>Werkzeuge für feine Arbeiten.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_2_3">
+    <text>Kalibrierungswerkzeuge.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_2_4">
+    <text>Ich habe alle Werkzeuge, die du suchst.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_2_5">
+    <text>Ich komme später vorbei.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_3_1">
+    <text>Danke! Das wird die Arbeit mit den einfachen Verbesserungen zum Kinderspiel.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_3_2">
+    <text>Das ist doch mal was! Hier ist deine Belohnung.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_3_3">
+    <text>Damit schaffe ich es! Jetzt kann ich auch die schwierigeren Verbesserungen machen. Hier ist deine Belohnung.</text>
+  </string>
+  <string id="esc_village_technic_toolkit_task_final_dialog_3_4">
+    <text>Du bist der Mann! Hier ist deine Belohnung. Rechne auch mit einem guten Rabatt.</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_0">
+    <text>Überrascht?</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_1">
+    <text>Ich glaube, du hast eine Geschichte zu erzählen.</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_2">
+    <text>Ja, das tue ich. Mein Name ist Alexej Kucherenko und zufällig arbeite ich verdeckt in der Zone, infiltriere verschiedene Gruppen und finde alle möglichen Informationen über alles heraus, was in der Zone passiert. Ich weiß ... eine ganze Menge. Das ist alles, was ich über mich sagen kann. Du weißt, was ich meine!</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_3">
+    <text>Du bist also vom Militär. Dann lass uns uns richtig kennenlernen, ich werde...</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_4">
+    <text>Ich weiß schon, wer du bist. Nein, ich gehöre nicht zum Militär, aber ich arbeite auch mit ihnen in verschiedenen Angelegenheiten zusammen. Sagen wir einfach, dass einige Leute in der Zone wissen, wer ich bin, außer dem echten Haufen. Es sind nur wenige, aber sie sind sehr nützlich.</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_5">
+    <text>Wenn das der Fall ist, dann weißt du, was wirklich los ist und kannst es mir sagen.</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_6">
+    <text>Nun, ich weiß ein paar Dinge, aber ich kann dir nicht viel sagen. Und glaube mir, du lebst länger mit weniger. Informationen... das kann wehtun...</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_7">
+    <text>Na gut, dann erzähl mir etwas, damit es nicht so vage ist, und wo ist Vögelchen?</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_8">
+    <text>Über Vögelchen. Hmm. Nun, ich traue ihm nicht besonders viel zu. Was die Sache mit der Fracht angeht, ist es ganz einfach. Es gab zwei, vielleicht nicht brillante, aber ziemlich clevere Wissenschaftler, die in der Zone an einem Psi-Emitter gearbeitet haben. Wir haben bereits mit beiden auf die eine oder andere Weise gesprochen. Aber wie üblich hat der eine sozusagen Ziele für das Wohl der Menschheit und der andere hat... ein eher wissenschaftliches Interesse. Ich mache meinen Job, und solange er mit deinen Zielen übereinstimmt, sind wir Partner.</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_9">
+    <text>Lass mich raten: Wenn die Ziele nicht übereinstimmen, wirst du mich umbringen?</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_10">
+    <text>Was?! Das mit dem Militär gilt nicht für mich. Ich meinte, dass wir getrennte Wege gehen werden. Und ja, Vögelchen soll weiterhin denken, dass Haufen ein echtes Kind von der großen Straße ist. </text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_11">
+    <text>Übrigens, warum ein Bandit?</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_12">
+    <text>Das liegt daran, dass so wenige Menschen sie ernst nehmen. Es ist gut, unterschätzt zu werden! Also, heute bin ich Haufen, der Bandit, und morgen jemand anderes. Zerbrich dir nicht den Kopf. Geh zu Smithlow, ich komme später nach, sie haben sich noch nicht mit Vögelchen geeinigt.</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_13">
+    <text>Ich werde dich bitten, zuerst die Tür dieses Käfigs zu öffnen.</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_14">
+    <text>Nur einen Moment. Aber sei gewarnt: Falls du noch einmal herkommst, bin ich vielleicht nicht mehr da.</text>
+  </string>
+  <string id="esc_composer_task_bandit_savior_army_base_dialog_15">
+    <text>Das ist klar.</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_0">
+    <text>Na, hallo, Stalker. Schön, dass du noch lebst und gesund bist! Wo ist das Gerät?</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_1">
+    <text>Ich habe es satt, dass ihr immer die gleiche Frage stellt... Wenigstens habt ihr jetzt eine Antwort. Turow hat es. Verstehst du? Er hat seine Leute auf uns gehetzt. Und sie haben es uns weggenommen.</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_2">
+    <text>Was?!</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_3">
+    <text>Viele Menschen sind wegen dieser Sache gestorben, und ein paar Mal hätte mich fast das gleiche Schicksal ereilt. Was bin ich für dich, ein Lieferjunge? Mein Gott, der eine fragt nach einem Gerät, der andere nach Papieren... Wenigstens danke, dass du mir keine Waffe an den Hinterkopf hältst! Ihr sollt Männer der Wissenschaft sein, das Licht der Wahrheit und so weiter, aber ihr seid wie kleine Kinder, ihr könnt euch nicht einigen! Was wollt ihr eigentlich?</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_4">
+    <text>Ich sehe schon, du willst Antworten, meine kleine Taube. Also gut, fangen wir der Reihe nach an. Als ich in meinem dritten Jahr war, traf ich Turow...</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_5">
+    <text>Professor, ich will keine Nacherzählung deiner Memoiren, ich bin kein Buchverleger!</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_6_1">
+    <text>Okay, okay, ich werde versuchen, es kurz zu halten. Im Allgemeinen planten mein damaliger Genosse Turow und ich vor einiger Zeit, unsere wissenschaftlichen Konzepte in die Praxis umzusetzen. Die Zone der Entfremdung wurde für uns zu einer Fundgrube für alle möglichen Themen, nicht nur für Dissertationen, wir konnten die Anerkennung von Kollegen und sogar einen Nobelpreis für die Untersuchung der Eigenschaften der Natur der Zone, ihrer Anomalien, Flora und Fauna bekommen! Vor allem aber interessierten wir uns für die sogenannte Psi-Strahlung, deren Natur für uns immer noch völlig ungeklärt ist. Wie ich damals dachte, bauten wir einen tragbaren Psi-Strahler für therapeutische Zwecke. Wir wollten die Unglücklichen heilen, deren Gehirne nach der Einwirkung von Psi-Strahlung nicht mehr richtig funktionierten. Also bauten wir einen mobilen Prototyp eines Psi-Strahlers.</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_6_2">
+    <text>Mach weiter.</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_6_3">
+    <text>Seine Aufgabe ist es nicht nur, uns vor der Psi-Strahlung der Zone zu schützen, sondern auch, wie ich schon sagte, eine therapeutische Wirkung auf zombifizierte Menschen zu haben. Und wir haben auch geplant, unseren Psi-Strahler für medizinische Zwecke außerhalb der Sperrzone anzupassen. Der Prototyp kann nicht nur Psi-Strahlung erzeugen, sondern auch ihre Art verändern und die Stärke des Stroms anpassen. Leider war Turow, je weiter ich kam, in vielen Aspekten der Entwicklung und Anwendung des Prototyps anderer Meinung als ich. Sein Interesse war weniger humanitär. Vor allem versuchte Turow herauszufinden, wie man mit dem Transmitter nicht nur das Bewusstsein von Tieren und Mutanten, sondern auch das von Menschen kontrollieren konnte. Im Allgemeinen arbeitete ich nicht mehr mit Turow zusammen.</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_7">
+    <text>Dein Psi-Gerät kann also gut oder böse sein? Es kommt nur darauf an, wer es benutzt?</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_8">
+    <text>Leider oder zum Glück. Aber ja, das ist genau das, was es ist. Teilt die Welt nicht in gut und böse ein!</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_9">
+    <text>Ja, du bist die alte Garde. Können wir uns nicht einigen?</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_10">
+    <text>Muss ich das? Aber lass mich raten: Turow hat dir von dem Vorfall während der Tests erzählt und dass ich jetzt wirklich paranoid bin? Und dann hat er dir wahrscheinlich erzählt, dass ich wegen meiner Paranoia einen anständigen Wissenschaftler, der für Wissenschaft und Aufklärung steht, verdächtigt habe, einen Psi-Emitter zur Manipulation für eigennützige Zwecke zu benutzen. Und er hat mich geschickt, um meine Papiere zu holen, damit er endlich eine Chance hat, mich zu heilen. Oder?</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_11">
+    <text>Nun... mehr oder weniger, ja.</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_12">
+    <text>Du siehst, ich wurde tatsächlich von der Strahlung getroffen, aber sie hatte keine negativen Auswirkungen auf mich. Ganz im Gegenteil. Ich bin so ruhig, wie ich es noch nie war. Und es war eine mentale Verbindung in beide Richtungen. Trotzdem hatte ich einen zwanghaften Gedanken an Turov, nicht nach der Strahlung, sondern als er begann, mehr Zeit mit Experimenten zur Kontrolle des Bewusstseins von lebenden und nicht lebenden Wesen zu verbringen. Die Zeit vergeht, und diejenigen, die der Hirnschmelzer-Strahlung ausgesetzt waren, werden auch nicht jünger, und ich denke, dass ihnen zuallererst geholfen werden sollte. Turow erklärte sein Handeln natürlich damit, dass er einen speziellen Strahlungsstrom zum Schutz vor Monsterangriffen geschaffen hat, damit sich die Wissenschaftler sicher in der Zone bewegen konnten. Denk darüber nach, was ich gesagt habe!</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_13">
+    <text>Wäre es nicht schlecht, wenn jede Person in der Zone ein Gerät hätte?</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_14">
+    <text>Natürlich ist es gut! Weißt du, wofür das Dynamit ursprünglich entwickelt wurde? Das ist es ja gerade, Erfindungen können immer für gute Zwecke genutzt werden oder umgekehrt, ob direkt oder indirekt. Die Geschichte kennt viele solcher Beispiele. Und unser Psi-Gerät wird sowohl Monster als auch Menschen beeinflussen, das ist das Problem! Was passiert, wenn du gezwungen wirst, gegen deinen Willen an die gefährlichsten Orte der Zone zu gehen? Ist es gut, wenn du oder jeder andere Mensch mit Knöpfen und Kippschaltern kontrolliert werden kann? Willst du eine Marionette eines unbekannten Puppenspielers sein?</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_15">
+    <text>Habt ihr den Verstand verloren? Warum macht ihr diese Art von Entwicklung? Ihr wollt ein Gott sein?</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_16">
+    <text>Du hast keine Ahnung, wie viel man erreichen kann! Für mich war diese Entwicklung eine Menge wert, zu viel!</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_17">
+    <text>Es ist mir egal, was sie dich kostet!</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_18">
+    <text>Du verstehst nicht... das ist mein Lebenswerk.</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_19">
+    <text>Professor, hör dir selbst zu! Turow hat dein Gerät, das ganze Ding! Ich verstehe nur nicht, warum er deine Dokumente braucht.</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_20">
+    <text>Es ist ganz einfach: Das Gerät ist schon bei kurzen Entfernungen instabil. Und damit es über eine Entfernung von mehreren Kilometern stabil funktioniert und nicht alle fünf Minuten den Strom verliert, muss der Kern verstärkt werden. Und nur ich weiß, wie man das macht.</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_21">
+    <text>Zur Hölle mit dir! Und Turow und deinem Gerät!</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_22">
+    <text>Das verstehe ich. Aber du kannst nicht rückgängig machen, was du getan hast, und jetzt musst du mit den Konsequenzen leben. Gib mir also etwas Zeit, um darüber nachzudenken. In der Zwischenzeit gehst du zu Sidorowitsch und holst dir ein paar Psycho-Blocker. Sag ihm, dass ich dich geschickt habe.</text>
+  </string>
+  <string id="esc_composer_task_scientist_start_dialog_23">
+    <text>Also gut, Professor, denk daran, dass wir ohne die Papiere getötet werden und du vielleicht auch.</text>
+  </string>
+  <string id="esc_composer_task_trader_psy_blockade_dialog_0">
+    <text>Hey, Sid. Der Professor hat mich hergeschickt, um ein paar Medikamente zu holen.</text>
+  </string>
+  <string id="esc_composer_task_trader_psy_blockade_dialog_1">
+    <text>Welche Art von Medikamenten?</text>
+  </string>
+  <string id="esc_composer_task_trader_psy_blockade_dialog_2">
+    <text>Psi-Blocker, mehrere davon.</text>
+  </string>
+  <string id="esc_composer_task_trader_psy_blockade_dialog_3">
+    <text>Bitte sehr, wenn das so ist. Gott bewahre, wenn wegen dir wieder etwas ins Dorf kommt — dann stehe ich auf und trete dir persönlich in den Arsch. Einmal war schon genug.</text>
+  </string>
+  <string id="esc_composer_task_trader_psy_blockade_dialog_4">
+    <text>Keine Panik, alter Mann, alles ist unter Kontrolle. Pass auf dich auf.</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_00">
+    <text>Hast du die Psi-Blocker?</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_01_1">
+    <text>Ja, ich habe sie, hier hast du sie.</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_01_2">
+    <text>Noch nicht, ich gehe zum Händler.</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_02">
+    <text>Behalte ein paar von ihnen. Sie könnten sich in Zukunft als nützlich erweisen.</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_03">
+    <text>Vielen Dank! Ich werde gleich von Turows Kumpel gejagt. Jetzt wäre also ein guter Zeitpunkt, mir deinen Plan zu verraten.</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_1">
+    <text>Ich habe viel darüber nachgedacht. Ich werde ihm die Dokumente nicht geben.</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_2">
+    <text>Professor, du kennst meine Situation. Wenn du mir also die Dokumente nicht gibst, muss ich sie dir mit Gewalt abnehmen!</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_3">
+    <text>Das wird nicht nötig sein. Ich werde mit dir zu Turow gehen.</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_4">
+    <text>Wir... was hast du vor?</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_5">
+    <text>Ich spreche mit einem alten Kollegen und Freund. Ich will ihn zur Vernunft bringen...</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_6">
+    <text>Professor, es muss etwas geben, was du mir nicht sagst. Du weißt, dass Turow dir das entweder mit einer Waffe oder mit deinem mobilen Emitter ausreden kann! Sag mir direkt, was du tun willst.</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_7">
+    <text>Es ist ganz einfach, sieh dir das an. Der Kern ist nicht einfach eine Schraube, sondern das Gehirn eines Lebewesens, das einem Psi-Einfluss ausgesetzt war. Oder besser gesagt, einer Kreatur, die durch einen Psi-Effekt gestorben ist. Je nachdem, wer das Lebewesen war, als es noch lebte, arbeitet das Gerät also mit einem bestimmten Spektrum von Psi-Strahlung. Und das wirkt sich nicht nur auf die Stärke und Reichweite der Effekte aus, sondern auch auf die...</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_8">
+    <text>Professor, wir sind Stalker, wir sind keine Wissenschaftler, wir verstehen dich nicht!</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_9">
+    <text>Warum hast du dann gefragt?</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_10">
+    <text>Ich habe dich nach deinem Aktionsplan gefragt, nicht danach, wie dein Stück Metall funktioniert...</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_11">
+    <text>Es ist kein Stück Metall! Es ist fast ein Lebewesen, das mit Hilfe des Geräts seine psychische Energie freisetzen, verstärken und an die richtigen Organismen weiterleiten kann!</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_12">
+    <text>Ähm... Was hast du da drin, einen Taschenkontrolleur?</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_13">
+    <text>Nun, wenn du es vereinfachen willst, dann sei es so, aber es ist kein Kontrolleur. Der Punkt ist, dass diese Kreatur empathisch wahrnimmt, was um sie herum passiert, aber sie ist nicht voll ausgebildet und weiß nicht, was "gut" und was "schlecht" ist!</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_14">
+    <text>Das war's also... Diese Tasche von dir, wie heißt sie, liegt also in einer Glaspatrone und wenn der Strom nicht angeschlossen ist, schläft sie, richtig? Und wenn er mit Strom versorgt wird, bleibt er wach und tötet alle um ihn herum? Wie diese Stalker und Söldner?</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_15">
+    <text>Ja und nein! Eine Gruppe von Stalkern, die einen Container transportierten, wurde von Mutanten angegriffen. Die Menschen erlebten Angst, Schmerz, Schock und andere negative Gefühle. Die Kreatur in dem Container kennt all diese Emotionen und erlebt sie auch. Diese Bandbreite an Emotionen traumatisiert es. Um sich selbst zu schützen, übernahm es die Kontrolle über einen Teil der Gruppe von Stalkern und eliminierte sie.... und der Rest rannte mit dem Container davon, weil er glaubte, dass ein Kontrolleur in der Nähe war!</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_16">
+    <text>Was für ein poetisches Ende... Getötet von einem Mini-Mutanten in einem Container, während er sich vor Mutanten verteidigte...</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_17">
+    <text>Nein, ich meine ja, aber nein!</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_18">
+    <text>Also gut. Fassen wir zusammen. Eine der drei Kisten enthält ein Gehirn, das Dinge mit Psi-Strahlung machen kann. Ich nehme an, das ist der Kern, richtig? Und wenn das der Fall ist, was kannst du an diesem Gehirn ändern?</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_19">
+    <text>Du hast nicht nach Details gefragt! Gib mir das Funkgerät, ich werde mit Turow sprechen.</text>
+  </string>
+  <string id="esc_composer_task_scientist_second_dialog_20">
+    <text>Beeil dich, bitte.</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_0">
+    <text>Ganz genau.</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_1">
+    <text>Und was jetzt?</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_2">
+    <text>Jetzt lass uns zu Besuch gehen! Ich packe nur schnell ein paar Sachen ein. Und ja, wir gehen im Abstand von ein paar Minuten. Ich gehe zuerst und du kommst nach mir raus.</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_3">
+    <text>Komm schon, alter Mann, komm schon. Allein schaffst du es nie. Alles, was du kannst, ist in deinem Betonkasten zu sitzen und mit einer Pinzette an einem Mikroskop herumzustochern! Hast du überhaupt einen Detektor und ein Dosimeter?</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_4">
+    <text>Nach der Strahlung, die ich erhalten habe, brauche ich keine Detektoren. Ich kann sie spüren, die Fallen der Zone. Aber ich werde mein Sturmgewehr mitnehmen.</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_5">
+    <text>Ich hätte auch gerne etwas davon, cool! Wie auch immer, alter Mann, warte. Wir lassen dich nicht allein gehen!</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_6">
+    <text>Warum ist das so?</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_7">
+    <text>Was ist, wenn du beschließt zu fliehen und wir uns mit Turow und Wesir auseinandersetzen müssen. Und ich denke, sie werden uns so viele Bleipillen geben, dass wir in Schwierigkeiten geraten werden.</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_8">
+    <text>Keine Sorge, ich bin ein anständiger Mensch und ich halte mein Wort!</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_9">
+    <text>Ehrlichkeit ist eine gute Sache, aber in der Zone ist sie ein sehr vages Konzept. Lass uns zusammen gehen, wir werden dich vor allen möglichen Biestern beschützen, vor vierbeinigen und schlimmeren.</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_10">
+    <text>Na gut, wie du willst.</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_11_1">
+    <text>So sieht's aus. Los geht's.</text>
+  </string>
+  <string id="esc_composer_task_scientist_final_dialog_11_2">
+    <text>Ich habe vergessen, ein paar Sachen vom Händler abzuholen. Ich werde hin und her laufen. Lass dich nicht täuschen, Haufen wird dich nicht alleine gehen lassen.</text>
+  </string>
+  <string id="esc_composer_task_scientist_wait_dialog_0">
+    <text>Bereit für Turow?</text>
+  </string>
+  <string id="esc_composer_task_scientist_wait_dialog_1_1">
+    <text>Los geht's.</text>
+  </string>
+  <string id="esc_composer_task_scientist_wait_dialog_1_2">
+    <text>Noch nicht.</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_0">
+    <text>Îh! Woher kommst du?</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_1">
+    <text>Was überrascht dich?</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_2">
+    <text>Nur ein Narr würde sich freiwillig in dieses Drecksloch verirren, oder jemand, der... Ja, genau! Ich hab's! Du arbeitest auch für Sidorowitsch?</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_3">
+    <text>Jepp.</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_4">
+    <text>Oh, das hättest du nicht tun sollen, Bruder!</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_5">
+    <text>Was ist los mit dir? Der alte Mann mag die ganze Zeit meckern, aber er zahlt das Geld!</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_6">
+    <text>Das tut er, ja. Aber es sind Pfennige, wenn man bedenkt, wie hart es verdient wurde! Hast du gesehen, was für ein Chaos in der Sägemühle herrscht? Überall gibt es Anomalien!</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_7">
+    <text>Wenn du dich als Stalker bezeichnest, geh in die Zone. Was ist das Problem?</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_8">
+    <text>Ja, aber der alte Mann könnte mich für die Arbeit an besonders gefährlichen Orten extra bezahlen! Nun, das ist schon in Ordnung! Ich habe gehört, dass Bart gutes Geld für Artefakte zahlt. Wir werden ein paar Wochen hier mit den Jungs verbringen, etwas Ausrüstung kaufen und nach Norden gehen!</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_9">
+    <text>Er ist in Zaton! Es ist ein langer Weg von hier...</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_10">
+    <text>Es ist auch keine Option, hier zu bleiben und für ein paar Cent zu arbeiten. Ich bin bereit, Risiken einzugehen, auf Anomalien zu klettern und radioaktives Zeug zu transportieren, aber nur, wenn sie mich entsprechend bezahlen. Und von diesem alten Mann wirst du keine anständige Bezahlung bekommen.</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_11">
+    <text>Er ist auch verständlich. Wie ich höre, kostet es ihn eine Menge Geld, ein sorgloser Nachbar des Militärs zu sein. Und gute Artefakte im Kordon sind selten.</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_12">
+    <text>Es ist mir eigentlich egal, was es kostet und wen es kostet. Ich spreche für mich selbst, die Risiken in dieser Gegend sind nicht zu rechtfertigen. Deshalb werden wir nicht im Kordon bleiben. Und das solltest du auch nicht.</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_13">
+    <text>Ich wollte übrigens auch weiter nach Norden gehen. Wenn du nach Zaton kommst, kannst du mir vielleicht sagen, wie es läuft?</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_14">
+    <text>Alles klar.</text>
+  </string>
+  <string id="esc_forestry_stalker_1_idle_dialog_15">
+    <text>Das ist ein Deal.</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_0">
+    <text>Scheiße, verdammt, vielleicht durch das Dach...</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_1">
+    <text>Was murmelst du da?</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_2">
+    <text>Oh, Mann, jetzt bin ich dran mit dem Sägewerk!</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_3">
+    <text>Welches Sägewerk?</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_4">
+    <text>In diese verdammte anomale Sägemühle! Es ist unheimlich da drin.</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_5">
+    <text>Alles wird gut! Nimm die Bolzen und wirf sie herum. Beobachte sie. Wenn du das Geräusch des Detektors hörst, bewege dich in die richtige Richtung.</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_6">
+    <text>Ja, Mann, mir wird ganz schwindelig, wenn ich Anomalien um mich herum habe.</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_7">
+    <text>Habt keine Angst! Ist es das erste Mal?</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_8">
+    <text>In der Tat, ja...</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_9">
+    <text>Dann ist es klar... Wenn du dich dadurch besser fühlst, sieh mich an. Ich habe ein Dutzend Artefakte ausgeschaltet und bin noch am Leben. Hände, Füße, mir geht's gut.  Ich erinnere mich an das erste Mal, als ich ein Kunstwerk holen wollte. Ich war so nervös. Ich habe bestimmt 300 Bolzen in die Anomalie geworfen, bevor ich zum Artefakt kam! Wenn ich das Gefühl hatte, dass die Gefahr nahe war, habe ich angehalten, durchgeatmet und bin nur noch weiter gegangen. Es geht nur darum, sich Zeit zu lassen. Aber stell dir vor, welche Freude und welchen Stolz du danach wegen des ersten gefundenen Artefakts empfinden würdest!</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_10">
+    <text>Warum nimmst du nicht einen verdammten Stock, um das Artefakt da rauszukicken?</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_11">
+    <text>Was für ein Stock, wovon sprichst du?</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_12">
+    <text>Oh, Scheiße!</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_13">
+    <text>Stopp! Geh und hol es. Du hast die Jungs neben dir, sie werden dir helfen, wenn du sie brauchst. Die Anomalien im Kordon sind noch nicht zu stark, sie werden dich nicht sofort töten. Vielleicht...</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_14">
+    <text>Sag das mal der Leiche da drüben beim Sägewerk, Mann!</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_15">
+    <text>Wer ist das?</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_16">
+    <text>Ich weiß es nicht. Er war schon da, als wir ankamen.</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_17">
+    <text>Hast du ihn visuell untersucht?</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_18">
+    <text>Nicht wirklich... Es ist wie ein Lager. Essen, Wasser, Munition. Er muss einen Snack gegessen haben, bevor er starb. Und dann holte ihn der Tod ein. </text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_19">
+    <text>Richtig, das war also vor dem Ausbruch, bevor es irgendwelche Anomalien gab. Warum sollte er sonst an einem Ort wie diesem picknicken?</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_20">
+    <text>Was soll's?</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_21">
+    <text>Ich glaube nicht, dass er an der Anomalie gestorben ist! Da springen fleischige Kreaturen herum, die ihn getötet haben könnten! Also, komm schon, mach es!</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_22">
+    <text>Verdammt, ich bleibe noch ein bisschen hier sitzen und dann gehe ich!</text>
+  </string>
+  <string id="esc_forestry_stalker_2_idle_dialog_23">
+    <text>Viel Glück für dich!</text>
+  </string>
+  <string id="esc_trader_radio_dialog_0">
+    <text>Was ist das für ein altes Zeug, das du im Radio hörst?</text>
+  </string>
+  <string id="esc_trader_radio_dialog_1">
+    <text>Das ist nicht alt, Junge! Das sind sowjetische Klassiker, Lieder aus meiner Jugend! Das war mal echte Musik! Und jetzt? Ich will es gar nicht mehr spielen, es ist nur noch Pop — keine Stimme, kein Rhythmus, einfach nur Mist.</text>
+  </string>
+  <string id="esc_trader_ggwp_dialog_0">
+    <text>Was kannst du mir erzählen, das interessant ist?</text>
+  </string>
+  <string id="esc_trader_ggwp_dialog_1">
+    <text>Wenn du zur Müllhalde gehst, sei dort vorsichtig. Es heißt, die Banditen haben ihre Angst verloren. Du kennst das anomale Feld hinter dem Sumpf? Vergiss es! Sie sind dort, als ob sie fischen würden. Und sie fischen nicht nach Artefakten! Sie wollen nicht selbst in die Anomalie gehen, verstehst du? Sie warten darauf, dass ein Stalker kommt um ihn mit vorgehaltener Waffe zu zwingen, das Artefakt zu holen. Stinkende Leichenfledderer! Am liebsten würde ich sie da rausprügeln, aber wer geht da schon hin?</text>
+  </string>
+  <string id="esc_proso_dialog_0">
+    <text>Hey, wer bist du?</text>
+  </string>
+  <string id="esc_proso_dialog_1">
+    <text>Oh, hallo du! Ich bin Wolf. Was gibt's? Du hast ein paar Fragen an mich?</text>
+  </string>
+  <string id="esc_proso_dialog_2">
+    <text>Mir ist gerade aufgefallen, dass du hier ganz alleine sitzt und etwas kochst. Es ist ziemlich ungewöhnlich, dass das jemand außerhalb eines Stalker-Lagers macht.</text>
+  </string>
+  <string id="esc_proso_dialog_3">
+    <text>Stimmt, aber hier ist es jetzt relativ sicher. Außerdem habe ich meine Waffe immer an meiner Seite, falls etwas passiert. Außerdem kann ich im Moment nicht zurück ins Dorf gehen. Ich habe Sidorowitschs Job noch nicht erledigt, also hat es keinen Sinn, zurückzugehen.</text>
+  </string>
+  <string id="esc_proso_dialog_4">
+    <text>Was kochst du denn da? Es riecht gut!</text>
+  </string>
+  <string id="esc_proso_dialog_5">
+    <text>Pilaw. Willst du welchen? Ich lasse die Brühe noch ein bisschen köcheln und schütte dann den Reis hinein. Du kannst es in etwa einer Stunde ausprobieren, wenn du willst!</text>
+  </string>
+  <string id="esc_proso_dialog_6">
+    <text>Danke für das Angebot, ich werde darüber nachdenken. Es ist selten, dass man hier draußen jemanden für sich selbst kochen sieht. Hier gibt es nur Wurst und Brot...</text>
+  </string>
+  <string id="esc_proso_dialog_7">
+    <text>Ich bin es leid, diesen Mist zu essen! Hör zu: Wenn du dir einen ganzen Kessel von diesem Zeug machst, reicht es für eine ganze Woche! Aber das setzt voraus, dass du ein Mondlicht-Artefakt bei dir hast. Es ist so kalt, dass es in der Zone ein toller Ersatz für einen Kühlschrank ist. Bei dieser Sommerhitze kannst du nicht darauf verzichten. Die Lebensmittel verderben viel zu schnell!</text>
+  </string>
+  <string id="esc_proso_dialog_8">
+    <text>Was hat dich dazu gebracht, dein eigenes Essen zu kochen?</text>
+  </string>
+  <string id="esc_proso_dialog_9">
+    <text>Alles begann mit einem Streich von diesem Typen. Sein Name war Gordon Koch. Hast du schon mal von ihm gehört? Er hing oft auf der Müllhalde herum. Ich habe schon eine Weile nichts mehr von ihm gehört. Wer weiß, vielleicht ist er ja schon tot... Jedenfalls gab er mir einen Auftrag und versprach, mich gut zu bezahlen. Ich musste den ganzen Weg zur Bar gehen, um alle nötigen Zutaten für den Pilaw zu kaufen. Und weil ich damals noch so unerfahren war, merkte ich nicht einmal, dass er einen Scherz machte. Als ich an der Bar ankam und fragte, schaute mich Wirt an, als wäre ich ein Idiot, aber überraschenderweise hatte der alte Mann alle nötigen Zutaten. Als ich zu Gordon zurückkam, lachte er, gab mir etwas Geld und sagte mir, ich solle die Zutaten behalten. Ich überlegte nicht lange und kochte mir an Ort und Stelle ein Pilaw. Die Stalker im Depot aßen es auf. Seitdem mache ich alle paar Monate Pilaw.</text>
+  </string>
+  <string id="esc_proso_dialog_10">
+    <text>Du bist ein interessanter Mann, das steht fest. Pass auf, dass die Brühe nicht überkocht! Viel Glück!</text>
+  </string>
+</string_table>
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 09.01.2024 14:55:54 -->

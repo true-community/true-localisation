@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<string_table>
+  <string id="not_enough_money_actor">
+    <text>Nicht genug Geld</text>
+  </string>
+  <string id="not_enough_money_partner">
+    <text>Der Charakter hat nicht genügend Geld</text>
+  </string>
+  <string id="quick_use_str_1">
+    <text>$$ACTION_QUICK_USE_1$$</text>
+  </string>
+  <string id="quick_use_str_2">
+    <text>$$ACTION_QUICK_USE_2$$</text>
+  </string>
+  <string id="quick_use_str_3">
+    <text>$$ACTION_QUICK_USE_3$$</text>
+  </string>
+  <string id="quick_use_str_4">
+    <text>$$ACTION_QUICK_USE_4$$</text>
+  </string>
+  <string id="quick_use_str_5">
+    <text>$$ACTION_QUICK_USE_5$$</text>
+  </string>
+  <string id="st_activate_artefact">
+    <text>Artefakt aktivieren</text>
+  </string>
+  <string id="st_attach_gl">
+    <text>Granatwerfer anbringen</text>
+  </string>
+  <string id="st_attach_scope">
+    <text>Zielfernrohr anbrigen</text>
+  </string>
+  <string id="st_attach_silencer">
+    <text>Schalldämpfer anbringen</text>
+  </string>
+  <string id="st_base_cost">
+    <text>Preis</text>
+  </string>
+  <string id="st_community">
+    <text>Gruppe:</text>
+  </string>
+  <string id="st_condition">
+    <text>Zustand</text>
+  </string>
+  <string id="st_detach_gl">
+    <text>Granatwerfer abmontieren</text>
+  </string>
+  <string id="st_detach_scope">
+    <text>Zielfernrohr abmontieren</text>
+  </string>
+  <string id="st_detach_silencer">
+    <text>Schalldämpfer abmontieren</text>
+  </string>
+  <string id="st_dress_outfit">
+    <text>Anzug tragen</text>
+  </string>
+  <string id="st_drop">
+    <text>Fallen lassen</text>
+  </string>
+  <string id="st_drop_all">
+    <text>Alles fallen lassen</text>
+  </string>
+  <string id="st_buy">
+    <text>Kaufen</text>
+  </string>
+  <string id="st_buy_all">
+    <text>Alles kaufen</text>
+  </string>
+  <string id="st_sell">
+    <text>Verkaufen</text>
+  </string>
+  <string id="st_sell_all">
+    <text>Alles verkaufen</text>
+  </string>
+  <string id="st_move">
+    <text>Bewegen</text>
+  </string>
+  <string id="st_move_all">
+    <text>Alles bewegen</text>
+  </string>
+  <string id="st_no_buy">
+    <text>Nicht kaufen</text>
+  </string>
+  <string id="st_no_buy_all">
+    <text>Alles nicht kaufen</text>
+  </string>
+  <string id="st_no_sell">
+    <text>Nicht verkaufen</text>
+  </string>
+  <string id="st_no_sell_all">
+    <text>Alles nicht verkaufen</text>
+  </string>
+  <string id="st_eat">
+    <text>Essen</text>
+  </string>
+  <string id="st_weight_info">
+    <text>Gewicht</text>
+  </string>
+  <string id="st_kg">
+    <text>kg</text>
+  </string>
+  <string id="st_move_on_belt">
+    <text>An Gürtel anbringen</text>
+  </string>
+  <string id="st_unequip">
+    <text>In den Rucksack stecken</text>
+  </string>
+  <string id="st_move_to_bag">
+    <text>In den Rucksack</text>
+  </string>
+  <string id="st_move_to_slot">
+    <text>In das Feld</text>
+  </string>
+  <string id="st_item_cost">
+    <text>Gegenstand kostet</text>
+  </string>
+  <string id="st_no_trade_tip_1">
+    <text>Der Händler hat kein Interesse an Gegenständen dieser Art.</text>
+  </string>
+  <string id="st_no_trade_tip_2">
+    <text>Dieser Gegenstand ist zu stark beschädigt, um damit zu handeln.</text>
+  </string>
+  <string id="st_play">
+    <text>Spielen</text>
+  </string>
+  <string id="st_sell_item">
+    <text>Gegenstand verkaufen</text>
+  </string>
+  <string id="st_ui_armor_static">
+    <text>Zustand der Panzerung</text>
+  </string>
+  <string id="st_ui_main_sensor">
+    <text>Radioaktive Verstrahlung</text>
+  </string>
+  <string id="st_undress_outfit">
+    <text>Anzug ausziehen</text>
+  </string>
+  <string id="st_unload_magazine">
+    <text>Entladen</text>
+  </string>
+  <string id="st_use">
+    <text>Benutzen</text>
+  </string>
+  <string id="st_weight">
+    <text>G.</text>
+  </string>
+  <string id="ui_ammo_count">
+    <text>Magazingr.</text>
+  </string>
+  <string id="ui_inv_accuracy">
+    <text>Schussgen.</text>
+  </string>
+  <string id="ui_inv_ammo_pistol">
+    <text>Normale Munition für Pistole kaufen (Q)</text>
+  </string>
+  <string id="ui_inv_ammo_rifle">
+    <text>Gewehrmunition kaufen (W)</text>
+  </string>
+  <string id="ui_inv_bleeding">
+    <text>Wundheilung</text>
+  </string>
+  <string id="ui_inv_cancel">
+    <text>Abbrechen</text>
+  </string>
+  <string id="ui_inv_cant_buy_item">
+    <text>Waffe kann nicht gekauft werden</text>
+  </string>
+  <string id="ui_inv_count_restr">
+    <text>Anzahlbeschränkung</text>
+  </string>
+  <string id="ui_inv_damage">
+    <text>Schaden</text>
+  </string>
+  <string id="ui_inv_default(F5)">
+    <text>Standard (F5)</text>
+  </string>
+  <string id="ui_inv_exit">
+    <text>Zurück</text>
+  </string>
+  <string id="ui_inv_granadelauncher_rifle">
+    <text>Unterlaufgranatwerfer für Gewehr kaufen (D)</text>
+  </string>
+  <string id="ui_inv_granades_rifle">
+    <text>Granaten für Unterlaufgranatwerfer kaufen (E)</text>
+  </string>
+  <string id="ui_inv_handling">
+    <text>Handhabung</text>
+  </string>
+  <string id="ui_inv_has">
+    <text>Jetzt</text>
+  </string>
+  <string id="ui_inv_health">
+    <text>Lebensregen.</text>
+  </string>
+  <string id="ui_inv_heavy_weapons">
+    <text>Schwer</text>
+  </string>
+  <string id="ui_inv_last_buy">
+    <text>Letzte Zusammenstellung kaufen</text>
+  </string>
+  <string id="ui_inv_last_buy(F4)">
+    <text>Zuletzt (F4)</text>
+  </string>
+  <string id="ui_inv_money">
+    <text>Geld</text>
+  </string>
+  <string id="ui_inv_need">
+    <text>Benötigt</text>
+  </string>
+  <string id="ui_inv_not_enought_money">
+    <text>Nicht genug Geld</text>
+  </string>
+  <string id="ui_inv_ok">
+    <text>OK</text>
+  </string>
+  <string id="ui_inv_outfit_additional_weight">
+    <text>Getragenes Gewicht</text>
+  </string>
+  <string id="ui_inv_outfit_burn_protection">
+    <text>Wärmeschutz</text>
+  </string>
+  <string id="ui_inv_outfit_chemical_burn_protection">
+    <text>Chemiesch.</text>
+  </string>
+  <string id="ui_inv_outfit_fire_wound_protection">
+    <text>Panzerung</text>
+  </string>
+  <string id="ui_inv_outfit_radiation_protection">
+    <text>Strahl.sch.</text>
+  </string>
+  <string id="ui_inv_outfit_shock_protection">
+    <text>Elektrosch.</text>
+  </string>
+  <string id="ui_inv_outfit_telepatic_protection">
+    <text>Psi-Schutz</text>
+  </string>
+  <string id="ui_inv_outfit_wound_protection">
+    <text>Trefferabs.</text>
+  </string>
+  <string id="ui_inv_power">
+    <text>Energieregen.</text>
+  </string>
+  <string id="ui_inv_preset1(F1)">
+    <text>Zusammenstellung 1 (F1)</text>
+  </string>
+  <string id="ui_inv_preset2(F2)">
+    <text>Zusammenstellung 2 (F2)</text>
+  </string>
+  <string id="ui_inv_preset3(F3)">
+    <text>Zusammenstellung 3 (F3)</text>
+  </string>
+  <string id="ui_inv_radiation">
+    <text>Strahlung</text>
+  </string>
+  <string id="ui_inv_rank_restr">
+    <text>Rangbeschränkung</text>
+  </string>
+  <string id="ui_inv_rate_of_fire">
+    <text>Feuerrate</text>
+  </string>
+  <string id="ui_inv_reset_items(C)">
+    <text>Reset (C)</text>
+  </string>
+  <string id="ui_inv_rifles">
+    <text>Sturmgew.</text>
+  </string>
+  <string id="ui_inv_satiety">
+    <text>Hungerminderung</text>
+  </string>
+  <string id="ui_inv_thirst">
+    <text>Durst</text>
+  </string>
+  <string id="ui_inv_scope_rifle">
+    <text>Optisches Zielfernrohr für Gewehr kaufen (S)</text>
+  </string>
+  <string id="ui_inv_sell_items(X)">
+    <text>Alle Gegenstände im Rucksack verkaufen (X)</text>
+  </string>
+  <string id="ui_inv_shotguns">
+    <text>Gewehre</text>
+  </string>
+  <string id="ui_inv_silencer_pistol">
+    <text>Schalldämpfer für Pistole kaufen (A)</text>
+  </string>
+  <string id="ui_inv_silencer_rifle">
+    <text>Schalldämpfer für Gewehr kaufen (F)</text>
+  </string>
+  <string id="ui_inv_sniper_rifles">
+    <text>Scharfsch.</text>
+  </string>
+  <string id="ui_inv_time">
+    <text>Zeit</text>
+  </string>
+  <string id="ui_inv_you_already_have">
+    <text>Du hast bereits</text>
+  </string>
+  <string id="ui_st_err_gs_not_available">
+    <text>S.T.A.L.K.E.R.-Onlinedienste sind nicht verfügbar.</text>
+  </string>
+  <string id="ui_st_err_sb_master_server_conn_fail">
+    <text>Keine Verbindung zum Master-Server.</text>
+  </string>
+  <string id="ui_st_outfit_protect">
+    <text>Schutz:</text>
+  </string>
+  <string id="ui_st_preset_def">
+    <text>Standard</text>
+  </string>
+  <string id="ui_st_preset_stored_to">
+    <text>Gekaufte Zusammenstellung gespeichert unter</text>
+  </string>
+  <string id="ui_total_weight">
+    <text>Gesamtgewicht:</text>
+  </string>
+  <string id="st_drink">
+    <text>Trinken</text>
+  </string>
+  <string id="ui_inv_outfit_power_restore">
+    <text>Energieregeneration</text>
+  </string>
+  <string id="st_ui_bleeding_sensor">
+    <text>Blutung</text>
+  </string>
+  <string id="ui_inv_weight">
+    <text>Maximalgewicht</text>
+  </string>
+  <string id="st_ui_health_sensor">
+    <text>Gesundheit</text>
+  </string>
+  <string id="ui_ammo_types">
+    <text>Munition</text>
+  </string>
+  <string id="ui_inv_effect_time">
+    <text>Wirkungsdauer</text>
+  </string>
+  <string id="ui_inv_seconds_short">
+    <text>Sek</text>
+  </string>
+  <string id="ui_inv_rpm">
+    <text>Schuß/min</text>
+  </string>
+  <string id="ui_inv_range">
+    <text>Meter</text>
+  </string>
+  <string id="ui_inv_mag_size">
+    <text>Patronen</text>
+  </string>
+  <string id="ui_inv_survive_surge">
+    <text>Ermöglicht es, eine Emission zu überleben</text>
+  </string>
+  <string id="st_undress_helmet">
+    <text>Helm tragen</text>
+  </string>
+  <string id="st_dress_helmet">
+    <text>Helm absetzen</text>
+  </string>
+  <string id="st_undress_ruck">
+    <text>Rucksack abnehmen</text>
+  </string>
+  <string id="st_dress_ruck">
+    <text>Rucksack tragen</text>
+  </string>
+  <string id="st_unload_magazine_all">
+    <text>Alles entladen</text>
+  </string>
+  <string id="ui_st_weapons">
+    <text>Waffen</text>
+  </string>
+  <string id="ui_st_equipments">
+    <text>Ausrüstung</text>
+  </string>
+  <string id="ui_st_quick_slots">
+    <text>Schnellzugriff</text>
+  </string>
+  <string id="ui_inv_slot_name_3">
+    <text>1. Slot</text>
+  </string>
+  <string id="ui_inv_slot_name_2">
+    <text>2. Slot</text>
+  </string>
+  <string id="ui_inv_slot_name_14">
+    <text>Holster</text>
+  </string>
+  <string id="ui_inv_slot_name_12">
+    <text>Helm</text>
+  </string>
+  <string id="ui_inv_slot_name_7">
+    <text>Anzug</text>
+  </string>
+  <string id="ui_inv_slot_name_13">
+    <text>Rucksack</text>
+  </string>
+  <string id="ui_inv_slot_name_9">
+    <text>Artefakt Detektor</text>
+  </string>
+  <string id="st_inv_slot_empty">
+    <text>leer</text>
+  </string>
+  <string id="st_inv_slot_locked">
+    <text>Nicht verfügbar</text>
+  </string>
+  <string id="ui_inv_cell_silencer">
+    <text>Schalldämpfer</text>
+  </string>
+  <string id="ui_inv_cell_scope">
+    <text>Zielfernrohr</text>
+  </string>
+  <string id="ui_inv_cell_launcher">
+    <text>Granatwerfer</text>
+  </string>
+  <string id="ui_inv_cell_ammo">
+    <text>Patronen</text>
+  </string>
+  <string id="ui_inv_cell_ammo2">
+    <text>Granate</text>
+  </string>
+  <string id="ui_inv_cell_not_attached">
+    <text>nicht\nausgerüstet</text>
+  </string>
+  <string id="ui_inv_cell_not_available">
+    <text>nicht erreichbar</text>
+  </string>
+  <string id="ui_st_sort_all">
+    <text>Alle Gegenstände</text>
+  </string>
+  <string id="ui_st_sort_weapons">
+    <text>Waffen</text>
+  </string>
+  <string id="ui_st_sort_ammo">
+    <text>Munition</text>
+  </string>
+  <string id="ui_st_sort_protection">
+    <text>Schutz</text>
+  </string>
+  <string id="ui_st_sort_drugs">
+    <text>Medizinische Ausrüstung</text>
+  </string>
+  <string id="ui_st_sort_food">
+    <text>Essen</text>
+  </string>
+  <string id="ui_st_sort_artefacts">
+    <text>Artefakte</text>
+  </string>
+  <string id="ui_st_sort_other">
+    <text>Anderes</text>
+  </string>
+  <string id="ui_st_sort_equipped">
+    <text>Ausgerüstet:</text>
+  </string>
+  <string id="ui_st_storyline_tasks_title">
+    <text>Hauptaufgaben</text>
+  </string>
+  <string id="ui_st_secondary_tasks_title">
+    <text>Nebenaufgaben</text>
+  </string>
+  <string id="ui_st_trade_window">
+    <text>Handel</text>
+  </string>
+  <string id="ui_st_upgrade_window">
+    <text>Verbesserungen</text>
+  </string>
+  <string id="ui_st_cancel_trade">
+    <text>Abbrechen</text>
+  </string>
+  <string id="ui_st_exit_trade">
+    <text>Verlassen</text>
+  </string>
+  <string id="ui_st_confirm_trade">
+    <text>Bestätigen</text>
+  </string>
+  <string id="st_btn_cancel">
+    <text>Abbrechen</text>
+  </string>
+  <string id="st_btn_confirm">
+    <text>Bestätigen</text>
+  </string>
+  <string id="st_btn_max">
+    <text>Maximum</text>
+  </string>
+  <string id="st_btn_install">
+    <text>Installieren</text>
+  </string>
+  <string id="ui_st_searchloot_window">
+    <text>Suchen</text>
+  </string>
+  <string id="st_btn_take_all">
+    <text>Alles nehmen</text>
+  </string>
+  <string id="st_btn_exit_searchloot">
+    <text>Schließen</text>
+  </string>
+  <string id="st_ui_selected">
+    <text>Auswählen</text>
+  </string>
+  <string id="st_ui_compare_open">
+    <text>%c[info_orange][TAB] %c[info_text]Vergleich mit angelegter Ausrüstung </text>
+  </string>
+  <string id="st_ui_compare_close">
+    <text>%c[info_orange][TAB] %c[info_text]Vergleich stoppen</text>
+  </string>
+  <string id="st_ui_switch_to">
+    <text>%c[info_orange][ALT] %c[info_text]Wechseln zu\n</text>
+  </string>
+  <string id="st_ui_take_all_question">
+    <text>Alle Gegenstände mitnehmen</text>
+  </string>
+</string_table>
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 06.01.2024 15:36:28 -->

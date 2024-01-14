@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<string_table>
+  <string id="st_gar_corvalol_angry_1">
+    <text>Hey, störe mich nicht. \nIch bin gerade erst fertig geworden.</text>
+  </string>
+  <string id="st_gar_corvalol_angry_2">
+    <text>Mann, verpiss dich.\n Lass mich das zu Ende bringen!</text>
+  </string>
+  <string id="st_gar_corvalol_angry_3">
+    <text>Ich kann jetzt nicht reden. Siehst du das nicht?</text>
+  </string>
+  <string id="st_gar_corvalol_angry_4">
+    <text>Ich bin beschäftigt. Wir reden später weiter.</text>
+  </string>
+  <string id="st_gar_corvalol_first_meet">
+    <text>Ja, ich höre.</text>
+  </string>
+  <string id="st_gar_corvalol_good_luck">
+    <text>Viel Glück!</text>
+  </string>
+  <string id="st_gar_corvalol_kombez_1">
+    <text>Ah! Verdammt!</text>
+  </string>
+  <string id="st_gar_corvalol_kombez_2">
+    <text>Vierzig Riesen für einen verdammten Overall!</text>
+  </string>
+  <string id="st_gar_actor_baraholka_phrase_1">
+    <text>Jurok, komm rein.</text>
+  </string>
+  <string id="st_gar_actor_baraholka_phrase_2">
+    <text>Jurok... Bist du da?</text>
+  </string>
+  <string id="st_gar_actor_baraholka_phrase_3">
+    <text>Bist du wieder betrunken? Komm rein!</text>
+  </string>
+  <string id="st_gar_actor_baraholka_phrase_4_1">
+    <text>Wir müssen einen Mann aus der Zone bringen.</text>
+  </string>
+  <string id="st_gar_actor_baraholka_phrase_4_2">
+    <text>Die Bezahlung ist gut. Kannst du das machen?</text>
+  </string>
+  <string id="st_gar_jurok_desertir_raciya_1">
+    <text>Axt, hey. Ist etwas passiert?</text>
+  </string>
+  <string id="st_gar_jurok_desertir_raciya_2">
+    <text>Warum nicht? Gib mir die Koordinaten.</text>
+  </string>
+  <string id="st_gar_jurok_desertir_start">
+    <text>Alles klar, Gefreiter, bereit? Los geht's.</text>
+  </string>
+  <string id="st_gar_dolg_zastava_soldier_danger_1">
+    <text>Oh, ich kann es fühlen, Jungs:</text>
+  </string>
+  <string id="st_gar_dolg_zastava_soldier_danger_2">
+    <text>Etwas wirklich Schlimmes steht uns bevor.</text>
+  </string>
+  <string id="st_gar_drunk_medic_bye_1">
+    <text>Viel Glück für dich.</text>
+  </string>
+  <string id="st_gar_drunk_medic_bye_2">
+    <text>Tschüss.</text>
+  </string>
+  <string id="st_gar_drunk_medic_bye_3">
+    <text>Später.</text>
+  </string>
+  <string id="st_gar_drunk_medic_hello_1">
+    <text>Hallo, Stalker.</text>
+  </string>
+  <string id="st_gar_drunk_medic_hello_2">
+    <text>Hallo, Stalker.\n Was führt dich her?</text>
+  </string>
+  <string id="st_gar_drunk_medic_hello_3">
+    <text>Hallo, Stalker. Was gibt es Neues?</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_1">
+    <text>Tschüss dann.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_2">
+    <text>Viel Glück, Stalker.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_3">
+    <text>Wir sehen uns.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_4">
+    <text>Später.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_1">
+    <text>Hallo, Stalker.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_2">
+    <text>Was ist es, Stalker?</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_3">
+    <text>Ich hör dir zu.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_4">
+    <text>Bin ganz Ohr.</text>
+  </string>
+  <string id="st_gar_dyatlov_radio_ok">
+    <text>Verstanden, Soldat. Aus.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_actor_fail_1">
+    <text>Geh weiter, du Ratte.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_actor_fail_2">
+    <text>Die Welt ist klein. Vergiss das nicht.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_robbery_1">
+    <text>Oh, hallo, Stalker.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_robbery_2">
+    <text>Weißt du noch, was ich dir gesagt habe?</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_robbery_3">
+    <text>So, da wären wir.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_robbery_4">
+    <text>Jetzt gibst du mir alles zurück, du Scheißkerl.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_robbery_5">
+    <text>Macht ihn fertig, Jungs!</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_angry_meet">
+    <text>Was ist dein Problem? Hau ab!</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_bye_1">
+    <text>Lebe wohl!</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_bye_2">
+    <text>Wir sehen uns.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_hello_1">
+    <text>Hey, Alter.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_hello_2">
+    <text>Grüße.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_help">
+    <text>Leute, ich brauche Hilfe! Die Hunde sind dabei, mich in Stücke zu reißen.</text>
+  </string>
+  <string id="st_gar_drunk_medic_start_message">
+    <text>Hallo. Ich habe mich hier in der Basis niedergelassen. Komm vorbei, lass uns etwas trinken.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_1">
+    <text>Myslaw, komm rein!\n Bist du auf der Müllhalde?</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_2">
+    <text>Ja? Ich bin hier, Patrone.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_3_1">
+    <text>Das ist großartig.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_3_2">
+    <text>Ich schicke dir jetzt einen Stalker.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_3_3">
+    <text>Weihe ihn in unsere Angelegenheiten ein. Okay?</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_speak_rac_4">
+    <text>Ich hab's. Wird gemacht.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_start_meet">
+    <text>Warum bist du hier? \nBrauchst du etwas?</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_wait_trader_1">
+    <text>Komm ein anderes Mal wieder.\n Der Händler ist beschäftigt.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_wait_trader_2">
+    <text>Der Händler ist beschäftigt.</text>
+  </string>
+  <string id="st_gar_stalker_base_ohrannik_wait_trader_3">
+    <text>Komm später wieder.\n Der Händler ist noch beschäftigt.</text>
+  </string>
+  <string id="st_gar_trader_sms_after_katakomb_1">
+    <text>Axe, verdammt noch mal, wo warst du?</text>
+  </string>
+  <string id="st_gar_trader_sms_after_katakomb_2">
+    <text>Ich dachte, du hättest dich mit meinen Artefakten weggeschlichen.</text>
+  </string>
+  <string id="st_gar_trader_sms_after_katakomb_3">
+    <text>Komm so schnell wie möglich zum Lager zurück.</text>
+  </string>
+  <string id="st_gar_trader_darkvalley_message_1">
+    <text>Stalker, ich werde für eine Weile weg sein. Kümmere dich für mich um den Fall.</text>
+  </string>
+  <string id="st_gar_trader_darkvalley_message_2">
+    <text>Ich sage dir Bescheid, wenn ich zurück bin.</text>
+  </string>
+  <string id="st_gar_trader_primary_task_1_1">
+    <text>Axt, wir müssen reden. Komm zu mir, sofort!</text>
+  </string>
+  <string id="st_gar_trader_primary_task_1_2">
+    <text>Komm zu mir, jetzt!</text>
+  </string>
+  <string id="st_gar_trader_primary_task_2_1">
+    <text>Stalker, wir haben ein kleines Problem.</text>
+  </string>
+  <string id="st_gar_trader_primary_task_2_2">
+    <text>Komm mich besuchen, wenn du kannst. Ich muss etwas wissen.</text>
+  </string>
+  <string id="st_gar_trader_second_actor_bye_1">
+    <text>Los, verzieh dich!</text>
+  </string>
+  <string id="st_gar_trader_second_actor_bye_2">
+    <text>Mach dir nichts draus, \nwenn es nicht wichtig ist.</text>
+  </string>
+  <string id="st_gar_trader_second_actor_bye_3">
+    <text>Geh woanders hin, ja?\n Lass mich in Ruhe.</text>
+  </string>
+  <string id="st_gar_trader_second_actor_hello_1">
+    <text>Was ist es?</text>
+  </string>
+  <string id="st_gar_trader_second_actor_hello_2">
+    <text>Sprich, aber mach es kurz.</text>
+  </string>
+  <string id="st_gar_trader_second_actor_hello_3">
+    <text>Steh nicht einfach nur so da. Rede schon!</text>
+  </string>
+  <string id="st_gar_trader_second_actor_first_meet">
+    <text>Noch ein neues Gesicht hier. Was willst du?</text>
+  </string>
+  <string id="st_gar_trader_surge_start_1">
+    <text>Achtung, an alle: Ein Ausbruch steht bevor. Versteckt eure Ärsche, wenn ihr überleben wollt.</text>
+  </string>
+  <string id="st_gar_trader_surge_start_2">
+    <text>Stalker, es wird einen Ausbruch geben. Lauft in Deckung!</text>
+  </string>
+  <string id="st_gar_trader_surge_start_3">
+    <text>Achtung: Nach den Messwerten des Geräts zu urteilen, beginnt ein Ausbruch. Geh in Deckung! Mit jeder Minute sinken deine Chancen!</text>
+  </string>
+  <string id="st_gar_trader_surge_in_process_1">
+    <text>Nun, jetzt kommt es. Bleib im Versteck!</text>
+  </string>
+  <string id="st_gar_trader_surge_in_process_2">
+    <text>Es ist gleich da. Versteckt eure Ärsche, Stalker!</text>
+  </string>
+  <string id="st_gar_trader_surge_in_process_3">
+    <text>Es wird gleich vorbeirauschen. Geh nicht weg!</text>
+  </string>
+  <string id="st_gar_trader_surge_compl_1">
+    <text>Okay, der Ausstoß ist vorbei. Kriecht aus euren Unterkünften heraus.</text>
+  </string>
+  <string id="st_gar_trader_surge_compl_2">
+    <text>Die Naturkatastrophen haben uns verschont! Wenn es jemanden erwischt hat, komm zu uns und wir bringen dich wieder auf die Beine.</text>
+  </string>
+  <string id="st_gar_trader_surge_compl_2_cc">
+    <text>Die Naturkatastrophen haben uns verschont! (lacht) Wenn es jemanden erwischt hat, komm zu uns und wir helfen dir auf die Beine.</text>
+  </string>
+  <string id="st_gar_trader_surge_compl_3">
+    <text>Das war's, Leute. Der Ausbruch ist vorbei. An die Arbeit!</text>
+  </string>
+  <string id="st_gar_stalker_messenger_bye_1">
+    <text>Wir sehen uns.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_bye_2">
+    <text>Viel Glück!</text>
+  </string>
+  <string id="st_gar_stalker_messenger_bye_3">
+    <text>Ich wünsche dir viel Erfolg.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_hello_1">
+    <text>Gibt es Neuigkeiten, Stalker?</text>
+  </string>
+  <string id="st_gar_stalker_messenger_hello_2">
+    <text>Lebendig und gesund? Gut.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_hello_3">
+    <text>Ich freue mich, dich zu sehen!</text>
+  </string>
+  <string id="st_gar_stalker_messenger_thanx_1">
+    <text>Danke, Kumpel! Du hast mich gerettet.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_thanx_2">
+    <text>Ich stand mit einem Bein schon im Grab.</text>
+  </string>
+  <string id="st_gar_stalker_messenger_thanx_3">
+    <text>Patrone schickt dich, oder?</text>
+  </string>
+  <string id="st_gar_forest_aver_final">
+    <text>Vergiss deine Beförderung. \nDu wirst in diesem Brunnen verrotten.</text>
+  </string>
+  <string id="st_gar_forest_aver_phrase_1">
+    <text>Na, bist du zufrieden? Willst du eine Beförderung? Wer bist du eigentlich? Was hast du für die Wächter getan?</text>
+  </string>
+  <string id="st_gar_forest_stecurin">
+    <text>Bleib stehen, Abschaum.</text>
+  </string>
+  <string id="st_gar_actor_kladbishe_phrase_1">
+    <text>Was geht, Leute? \nDu hast keinen Wodka, oder?</text>
+  </string>
+  <string id="st_gar_actor_kladbishe_phrase_2">
+    <text>Was, das ist nicht das Stalker-Lager?</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_1_1">
+    <text>Ich sag's dir doch,</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_1_2">
+    <text>Stalker werden uns viel Geld einbringen!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_1_3">
+    <text>Wir schicken sie zur Anomalie,</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_1_4">
+    <text>und lassen sie Artefakte ausgraben, \nwenn sie leben wollen!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_2">
+    <text>Ja, verdammt!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_2_cc">
+    <text>Ja, verdammt! (lachen)</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_3_1">
+    <text>He, Säufer!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_3_2">
+    <text>Weißt du überhaupt, wo du bist, du Idiot?</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_4_1">
+    <text>So ungefähr!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_4_1_cc">
+    <text>(lachen) So ungefähr!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_4_2">
+    <text>Jungs, fesselt ihn!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_1_phrase_4_3">
+    <text>Wir haben noch einen Trottel.</text>
+  </string>
+  <string id="st_gar_bandit_speaker_2_phrase_1_1">
+    <text>Scheiße, ich habe nicht einmal daran gezweifelt!</text>
+  </string>
+  <string id="st_gar_bandit_speaker_2_phrase_1_2">
+    <text>Jetzt werde ich mir auf jeden Fall ein paar Räder besorgen.</text>
+  </string>
+  <string id="st_gar_bandit_speaker_2_phrase_1_3">
+    <text>Du weißt schon, ein Lowrider mit ein paar Beats.</text>
+  </string>
+  <string id="st_gar_bandit_speaker_2_phrase_1_4">
+    <text>Das wird ein Weibermagnet werden.</text>
+  </string>
+  <string id="st_gar_bandit_speaker_2_phrase_2">
+    <text>Hey, sieh mal!\nWer ist dieser Trottel, der da auf uns zukommt?</text>
+  </string>
+  <string id="st_gar_actor_hunt_bloodsucker_danger">
+    <text>Heilige Scheiße!</text>
+  </string>
+  <string id="st_gar_stalker_medic_bye_1">
+    <text>Gute Reise, Stalker.</text>
+  </string>
+  <string id="st_gar_stalker_medic_bye_2">
+    <text>Ich bin kein Psychologe, \naber wenn du dich schlecht fühlst, komm zu mir.</text>
+  </string>
+  <string id="st_gar_stalker_medic_bye_3">
+    <text>In Ordnung. Wir sehen uns.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_dies_1">
+    <text>Ich fühle mich wie in der Hölle...</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_dies_2">
+    <text>Hör zu:</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_dies_3">
+    <text>Ich habe Audio-Aufzeichnungen in meinem Versteck.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_dies_4">
+    <text>Gib sie Dubinin\n im wissenschaftlichen Komplex von Agroprom.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_dies_5">
+    <text>Sag ihm, dass ich mich verkalkuliert habe.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_get_out_artefact_1">
+    <text>Wir sind hier. Bereite das Artefakt vor.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_get_out_artefact_2">
+    <text>Und sei vorsichtig. Keine plötzlichen Bewegungen.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_get_out_artefact_3">
+    <text>Bleib direkt hinter mir, okay?</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_hit_cc">
+    <text>(Schrei vor Schmerz)</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_see_snorks_1">
+    <text>Mist.\nWoher kommen diese Schnorks?</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_see_snorks_2">
+    <text>Wir müssen langsam und leise gehen.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_see_snorks_3">
+    <text>Folge mir.</text>
+  </string>
+  <string id="st_gar_stalker_medic_final_task_what_happened">
+    <text>Was ist passiert?</text>
+  </string>
+  <string id="st_gar_stalker_medic_hello_1">
+    <text>Hallo, Stalker!</text>
+  </string>
+  <string id="st_gar_stalker_medic_hello_2">
+    <text>Die Zone hat dich also wieder vermöbelt?</text>
+  </string>
+  <string id="st_gar_stalker_medic_hello_3">
+    <text>Komm rein. Sei nicht schüchtern.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_1">
+    <text>Keine Sorge: \nEr ist völlig harmlos.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_2">
+    <text>Wie du siehst, kann das Ergebnis meiner Hobbys überraschend sein.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_3">
+    <text>Wie geht es dir?</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_4">
+    <text>Ich habe dich ein wenig zusammengeflickt.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_5">
+    <text>Ein paar Tage \nund du bist so gut wie neu!</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_6">
+    <text>Als Entschädigung überlasse ich dir \nden Schlüssel zu meiner Hütte und etwas zusätzliches Geld.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_7">
+    <text>Wenn du dich besser fühlst, \nkommst du ins Stalker-Lager.</text>
+  </string>
+  <string id="st_gar_stalker_medic_monolog_8">
+    <text>Wir reden noch weiter.</text>
+  </string>
+  <string id="st_gar_mishgan_record_1">
+    <text>Ich muss meine Freunde alleine retten.</text>
+  </string>
+  <string id="st_gar_mishgan_record_2">
+    <text>Jeder, den ich gefragt habe, hat sich geweigert, mir zu helfen.</text>
+  </string>
+  <string id="st_gar_mishgan_record_3">
+    <text>Ich kann die Jungs auch nicht verlassen. Wir sind schon so lange in der Zone.</text>
+  </string>
+  <string id="st_gar_mishgan_record_4">
+    <text>Ich hoffe, dass das niemand hören wird und dass alles glatt gehen wird.</text>
+  </string>
+  <string id="st_gar_mishgan_record_5">
+    <text>Wenn nicht, gib meinen PDA an das Anfängerdorf weiter. Ich habe eine Nachricht für meine Leute.</text>
+  </string>
+  <string id="st_gar_mishgan_record_6_cc">
+    <text>(Ausatmen)</text>
+  </string>
+  <string id="st_gar_mishgan_record_7">
+    <text>Okay, ich bin weg.</text>
+  </string>
+  <string id="st_gar_friend_mishgan_1_thanx">
+    <text>Danke, mein Freund!</text>
+  </string>
+  <string id="st_gar_friend_mishgan_1_thanx_actor">
+    <text>Mann, ein riesiges Dankeschön!</text>
+  </string>
+  <string id="st_gar_friend_mishgan_2_thanx">
+    <text>Hmm, danke.</text>
+  </string>
+  <string id="st_gar_friend_mishgan_2_thanx_actor">
+    <text>Danke, Mann.</text>
+  </string>
+  <string id="st_gar_mishgan_begin_leave">
+    <text>Steht auf, Leute! Es ist vorbei.</text>
+  </string>
+  <string id="st_gar_mishgan_help_fail">
+    <text>Du bist ein richtiges Weichei.</text>
+  </string>
+  <string id="st_gar_mishgan_help_hello">
+    <text>He, Stalker, ich brauche deine Hilfe.</text>
+  </string>
+  <string id="st_gar_mishgan_thx_actor_1">
+    <text>Bedanke dich bei dem Stalker hier.</text>
+  </string>
+  <string id="st_gar_mishgan_thx_actor_2">
+    <text>Wenn er nicht wäre, \nkönnte ich gar nichts tun!</text>
+  </string>
+  <string id="st_gar_trader_actor_first_meet_1">
+    <text>Und wer bist du?</text>
+  </string>
+  <string id="st_gar_trader_actor_first_meet_2">
+    <text>Ich habe dich hier noch nie gesehen.</text>
+  </string>
+  <string id="st_gar_trader_actor_first_meet_3">
+    <text>Wenn du etwas kaufen willst, kaufe es.\nWenn nicht, steig aus!</text>
+  </string>
+  <string id="st_gar_trader_bye_1">
+    <text>Tschüss dann.</text>
+  </string>
+  <string id="st_gar_trader_bye_2">
+    <text>Tschüss! Viel Glück!</text>
+  </string>
+  <string id="st_gar_trader_bye_3">
+    <text>Na gut, dann los.</text>
+  </string>
+  <string id="st_gar_trader_hello_1">
+    <text>Hallo zusammen!</text>
+  </string>
+  <string id="st_gar_trader_hello_2">
+    <text>Alles, was du für dein Geld möchtest.</text>
+  </string>
+  <string id="st_gar_trader_hello_3">
+    <text>Was willst du, Stalker?</text>
+  </string>
+  <string id="st_subtitles_kladbishe_bandit">
+    <text>Bandit</text>
+  </string>
+  <string id="st_gar_dyatlov_actor_first_phrase_1">
+    <text>Stalker, du bist auf dem Gebiet der Wächter.</text>
+  </string>
+  <string id="st_gar_dyatlov_actor_first_phrase_2">
+    <text>Jeder Versuch, unsere Leute anzugreifen, wird mit dem Tod bestraft.</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_1">
+    <text>He, Jungs, wir sind's.</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_2">
+    <text>Jungs, wart ihr pissen oder was?</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_3">
+    <text>Ich versteh das nicht. Nimmt jemand den Hörer ab?</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_4">
+    <text>He, Jungs, das ist eine zwielichtige Sache. Wo seid ihr?</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_5_1">
+    <text>Irgendetwas ist seltsam mit unseren Jungs.</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_5_2">
+    <text>Schau es dir an und sieh, was los ist!</text>
+  </string>
+  <string id="st_gar_kladbishe_bandits_check_transiver_6">
+    <text>Kein Problem. Wir gehen hin.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_koval_phrase_1">
+    <text>Machen wir ein Geschäft!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_koval_phrase_2">
+    <text>Ich besorge dir Geld, Waffen, einfach alles!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_koval_phrase_3">
+    <text>Gib mir einfach meinen Detektor!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_koval_thanx">
+    <text>Danke, Kommandant. \nTut mir leid, dass es so gekommen ist.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_1">
+    <text>Jetzt reicht's aber!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_2">
+    <text>Okay, verschwinde hier.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_3">
+    <text>Wir werden dieses Spielzeug für uns behalten \nund damit spielen.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_4">
+    <text>Wenn du dich frei auf der Müllhalde bewegen willst,</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_5">
+    <text>bring uns zwei weitere.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_6">
+    <text>Und niemand wird dich anrühren.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_1_7">
+    <text>Kapiert?</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_1">
+    <text>Netter Versuch, Klugscheißer!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_2">
+    <text>Du hättest es auf die nette Art tun sollen:</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_3">
+    <text>Komm und bring uns ein paar Geschenke mit...</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_4">
+    <text>Und du versteckst dich hier, \nwie eine verdammte Ratte!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_5">
+    <text>Geh spazieren, Kumpel!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_6">
+    <text>Und wenn ich dich das nächste Mal hier sehe.</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_7">
+    <text>und ohne Tribut, werde ich dich töten!</text>
+  </string>
+  <string id="st_gar_scientist_in_trouble_scene_bandit_phrase_2_8">
+    <text>Ich schwöre, ich werde es tun!</text>
+  </string>
+  <string id="st_gar_dyatlov_actor_first_phrase_second_hero_1">
+    <text>Stalker, du bist auf dem Gebiet der Wächter.</text>
+  </string>
+  <string id="st_gar_dyatlov_actor_first_phrase_second_hero_2">
+    <text>Hier sind keine komischen Sachen erlaubt.</text>
+  </string>
+  <string id="st_gar_dyatlov_actor_first_phrase_second_hero_3">
+    <text>Wenn du irgendwelche Fragen hast, komm zu mir.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_1">
+    <text>Stalker, ich muss in die Bar gehen, um mit meinen Vorgesetzten zu sprechen.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_2">
+    <text>Wir werden unsere Angelegenheiten besprechen, wenn wir uns treffen.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_3">
+    <text>Im Moment habe ich eine wichtigere Aufgabe für dich:</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_4">
+    <text>Die Einheimischen sagen, dass sich Banditen auf einem Bauernhof in der Nähe des Waldes niedergelassen haben.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_5">
+    <text>Du musst dorthin gehen und sie ausschalten, wie auch immer.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_6">
+    <text>Unsere Truppe aus der Bar wird sich dorthin begeben.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_7">
+    <text>Wenn du das tust, wirst du die Dankbarkeit unserer Fraktion ernten.</text>
+  </string>
+  <string id="st_gar_dyatlov_bandits_task_info_pda_8">
+    <text>Als Wächter zahlen wir immer unsere Schulden.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_second_hero_1">
+    <text>Tschüss.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_second_hero_2">
+    <text>Wir sehen uns.</text>
+  </string>
+  <string id="st_gar_dyatlov_bye_second_hero_3">
+    <text>Viel Glück, Stalker.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_second_hero_1">
+    <text>Ich höre zu.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_second_hero_2">
+    <text>Sprich.</text>
+  </string>
+  <string id="st_gar_dyatlov_hello_second_hero_3">
+    <text>Spuck's aus.</text>
+  </string>
+  <string id="st_gar_desertir_first_meet">
+    <text>Stalker, komm her! Aber schieß nicht!</text>
+  </string>
+  <string id="st_gar_desertir_start_path">
+    <text>Danke, für deine Antwort! Los geht's.</text>
+  </string>
+  <string id="st_gar_desertir_angry_actor_long_dist_1">
+    <text>Mein Freund, mach weiter so!</text>
+  </string>
+  <string id="st_gar_desertir_angry_actor_long_dist_2">
+    <text>Bleib in der Nähe, Stalker!</text>
+  </string>
+  <string id="st_gar_desertir_angry_actor_long_dist_3">
+    <text>He, wo gehst du hin?</text>
+  </string>
+  <string id="st_gar_desertir_see_dogs">
+    <text>Hunde! Wir kriegen sie.</text>
+  </string>
+  <string id="st_gar_desertir_see_stalkers">
+    <text>Sieh mal, einer deiner Jungs!</text>
+  </string>
+  <string id="st_gar_desertir_angry">
+    <text>Bastarde. Hätten wir das \nnicht schön ausdiskutieren können?</text>
+  </string>
+  <string id="st_gar_desertir_final_phrase">
+    <text>Los geht's, mein lieber Reiseleiter.\n Und danke, Stalker. Lebe wohl!</text>
+  </string>
+  <string id="st_gar_stalker_snake_angry">
+    <text>Bist du noch ganz bei Trost? \nIch lasse dich fallen, du Bastard!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_hello_1">
+    <text>Hallo, Stalker!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_hello_2">
+    <text>Sei gegrüßt, Stalker!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_bye_1">
+    <text>Ich freue mich, dich wiederzusehen!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_bye_2">
+    <text>Komm wieder.</text>
+  </string>
+  <string id="st_gar_stalker_nimble_bad_select_1">
+    <text>Unklare Wahl... Na ja.</text>
+  </string>
+  <string id="st_gar_stalker_nimble_bad_select_2">
+    <text>Sagen wir einfach, es ist eine Amateursache.</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_outfit_1">
+    <text>Ausgezeichnete Rüstung! Du siehst aus, als wärst du in Topform!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_outfit_2">
+    <text>Junge, du bist nicht wiederzuerkennen. Du siehst aus wie ein Mann der Special Forces!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_outfit_3">
+    <text>Tolle Rüstung, trage sie nach Herzenslust!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_outfit_4">
+    <text>So, jetzt kannst du Blei mit den Zähnen fangen! ...War nur ein Scherz.</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_select_1">
+    <text>Gute Wahl, da würde ich auch nicht nein sagen!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_select_2">
+    <text>Ausgezeichnete Wahl, jetzt kannst du in den Krieg ziehen!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_select_3">
+    <text>Das ist ein guter Witz. Du bist ein echter Experte!</text>
+  </string>
+  <string id="st_gar_stalker_nimble_good_select_4">
+    <text>Es ist ein wunderschönes Gerät. Ich bin neidisch!</text>
+  </string>
+</string_table>
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 11.01.2024 22:21:54 -->
