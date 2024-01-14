@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<string_table>
+  <string id="gar_mishgan_corpse">
+    <text>UNERWARTETE BEGEGNUNG</text>
+  </string>
+  <string id="gar_mishgan_corpse_start_name">
+    <text>Finde heraus, wo Mischgan hingegangen ist</text>
+  </string>
+  <string id="gar_mishgan_corpse_start_text">
+    <text>Verdammt, das hat mich ganz schön umgehauen... Scheint, als wollte der Idiot seine Freunde auf dem Autofriedhof selbst retten. Ich muss mir das ansehen, damit es nicht schiefgeht.</text>
+  </string>
+  <string id="gar_find_local_trader">
+    <text>HÄNDLER AUF DER MÜLLHALDE</text>
+  </string>
+  <string id="gar_find_local_trader_start_name">
+    <text>Finde Arbeit in der Stalker-Basis</text>
+  </string>
+  <string id="gar_find_local_trader_text_good">
+    <text>Laut Mischgan befindet sich das nächste Stalker-Lager im Hangar. Ich sollte dorthin gehen und den örtlichen Händler nach Arbeit fragen.</text>
+  </string>
+  <string id="gar_find_local_trader_text_bad">
+    <text>Was soll ich als Nächstes tun? Ich denke, ich werde das nächste Stalker-Lager aufsuchen und ihren Händler nach Arbeit fragen.</text>
+  </string>
+  <string id="gar_wait_trader_name">
+    <text>Warte, bis Krücke frei ist</text>
+  </string>
+  <string id="gar_wait_trader_text">
+    <text>Patrone hat mich gebeten, zu warten, bis der Händler einen freien Moment hat. In der Zwischenzeit kann ich auch einen Spaziergang machen. Vielleicht hat jemand Arbeit für mich.</text>
+  </string>
+  <string id="gar_speak_trader_name">
+    <text>Sprich mit Krücke</text>
+  </string>
+  <string id="gar_speak_trader_text">
+    <text>Der Händler muss sich um seine Angelegenheiten gekümmert haben, während ich mich umgesehen habe.</text>
+  </string>
+  <string id="gar_mishgan_attack_bandits">
+    <text>GEFANGENE</text>
+  </string>
+  <string id="gar_mishgan_distract_bandits_start_name">
+    <text>Lenke die Banditen ab</text>
+  </string>
+  <string id="gar_mishgan_distract_bandits_start_text">
+    <text>Ich muss die Banditen irgendwie ablenken, während Mischgan sich ihnen von hinten nähert.</text>
+  </string>
+  <string id="gar_mishgan_kill_bandits_name">
+    <text>Erledige die Banditen</text>
+  </string>
+  <string id="gar_mishgan_kill_bandits_text">
+    <text>Ein paar Drecksäcke sind noch übrig. Wahrscheinlich sind es diejenigen, die sich um die Gefangenen kümmern.</text>
+  </string>
+  <string id="gar_mishgan_task_final_speak_name">
+    <text>Sprich mit Mischgan</text>
+  </string>
+  <string id="gar_mishgan_task_final_speak_text">
+    <text>Es wurde richtig heiß. Zeit, mit Mischgan zu reden.</text>
+  </string>
+  <string id="gar_mishgan_defence_kladbishe_name">
+    <text>Kämpfe gegen die Welle der Banditen oder laufe weg</text>
+  </string>
+  <string id="gar_mishgan_defence_kladbishe_text">
+    <text>Verdammt, da kommt Verstärkung von den Banditen! Ich muss mit ihnen fertig werden.</text>
+  </string>
+  <string id="gar_inspect_level">
+    <text>SCHAU DICH UM</text>
+  </string>
+  <string id="gar_inspect_level_name">
+    <text>Sieh dich um, während der Händler beschäftigt ist</text>
+  </string>
+  <string id="gar_inspect_level_text">
+    <text>Ich werde einen Spaziergang machen, während der Händler beschäftigt ist. Vielleicht finde ich ja etwas Nützliches.</text>
+  </string>
+  <string id="gar_inspect_level_forest_name">
+    <text>Wald</text>
+  </string>
+  <string id="gar_inspect_level_forest_text">
+    <text>Ich werde einen Spaziergang machen, während der Händler beschäftigt ist. Vielleicht finde ich ja etwas Nützliches. Es kann nicht schaden, den kleinen Wald in der Nähe am Rande des Gebiets zu erkunden.</text>
+  </string>
+  <string id="gar_inspect_level_baraholka_name">
+    <text>Flohmarkt</text>
+  </string>
+  <string id="gar_inspect_level_baraholka_text">
+    <text>Ich werde einen Spaziergang machen, während der Händler beschäftigt ist. Vielleicht finde ich ja etwas Nützliches. Der Karte nach zu urteilen, scheint es in der Nähe des Hangars eine Art Ruine zu geben. Das könnte ein guter Ort sein, um nachzusehen.</text>
+  </string>
+  <string id="gar_inspect_level_dolg_zastava_name">
+    <text>Wächter Außenposten</text>
+  </string>
+  <string id="gar_inspect_level_dolg_zastava_text">
+    <text>Ich werde einen Spaziergang machen, während der Händler beschäftigt ist. Vielleicht finde ich ja etwas Nützliches. Ich habe gehört, dass eine Fraktion namens Wächter hier einen ihrer Kontrollpunkte eingerichtet hat. Ich habe sie noch nicht persönlich kennengelernt, also ist das vielleicht ein guter Zeitpunkt, um das zu tun und dabei vielleicht auch nach einem Job zu fragen.</text>
+  </string>
+  <string id="spend_desertir">
+    <text>DESERTEUR</text>
+  </string>
+  <string id="spend_desertir_start_name">
+    <text>Führe den Deserteur zu Jurok</text>
+  </string>
+  <string id="spend_desertir_start_text">
+    <text>Ich beschloss, einen Job für Jurok zu organisieren. Der Soldat versprach mir gutes Geld.</text>
+  </string>
+  <string id="dyatlov_zastava_secret">
+    <text>DAS GEHEIMNIS VON DJATLOWS AUSSENPOSTEN</text>
+  </string>
+  <string id="gar_dyatlov_zastava_start_name">
+    <text>Sprich mit dem Kommandanten des Außenpostens</text>
+  </string>
+  <string id="gar_dyatlov_zastava_start_text">
+    <text>Der Kommandant des Außenpostens hat mir erzählt, dass in seinem Lager etwas Seltsames passiert. Er bat mich, vorbeizukommen, wenn ich Zeit habe.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_name">
+    <text>Überprüfe das Lager nach Mitternacht</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_text">
+    <text>Im Außenposten der Wächter geschieht etwas Unerklärliches. Ich werde tun, was ich kann, um es zu lösen.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_leader_name">
+    <text>Sprich mit dem Kommandanten</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_leader_text">
+    <text>Das könnte die Zone sein, aber so etwas hätte ich nie für möglich gehalten! Auf dem Außenposten geht definitiv etwas Seltsames vor, und ich muss den Kommandanten darüber informieren.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_stalkers_name">
+    <text>Befrage die Stalker zu ihren nächtlichen Aktivitäten</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_stalkers_text">
+    <text>Der Schlüssel zur Lösung des Rätsels sind Informationen. Ich muss die Einheimischen befragen. Vielleicht wissen sie mehr darüber, was vor sich geht.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_find_corvalol_name">
+    <text>Finde einen Stalker namens Korwalol</text>
+  </string>
+  <string id="gar_dyatlov_zastava_find_corvalol_text">
+    <text>Korwalol kann vielleicht dabei helfen, das Rätsel im Außenposten der Wächter zu lüften. Laut dem Stalker, den ich befragt habe, jagt er Artefakte auf der Wiese beim Flohmarkt.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_find_unknown_soldier_name">
+    <text>Finde das Mitglied der Wächter</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_find_unknown_soldier_text">
+    <text>Jemand von den Wächtern sorgt dafür, dass Stalker nicht auf der Suche nach der Wahrheit herumschleichen, und ich sollte herausfinden, wer dieser "Jemand" ist. Da ich für den Kommandanten arbeite, kann er mir nicht drohen und ich muss ihn selbst finden. Djatlow sollte mir etwas darüber sagen können.</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_aver_name">
+    <text>Sprich mit Awerjanow</text>
+  </string>
+  <string id="gar_dyatlov_zastava_secret_speak_aver_text">
+    <text>Ich sollte mit der letzten Person sprechen, die das Verschwinden des Mitglieds des Wächters beobachtet hat. Ich bin mir nicht sicher, wie das bei der Untersuchung des Geheimnisses helfen wird, aber einen Versuch ist es wert.</text>
+  </string>
+  <string id="gar_dolg_zastava_inspect_forest_name">
+    <text>Gehe zum Ort des Verschwindens von Galuschkin</text>
+  </string>
+  <string id="gar_dolg_zastava_inspect_forest_text">
+    <text>Awerjanow hat sich als sehr aufbrausend und sprunghaft erwiesen, obwohl er normalerweise nicht so ist. Wahrscheinlich verbirgt er etwas, und ich bin mir sicher, dass er derjenige ist, der Karwalol bedroht hat. Ich werde in den Wald gehen und mich in der Gegend umsehen, in der Galuschkin verschwunden ist.</text>
+  </string>
+  <string id="gar_dolg_zastava_scene_forest_speak_dyatlov_name">
+    <text>Berichte dem Kommandanten von den jüngsten Ereignissen</text>
+  </string>
+  <string id="gar_dolg_zastava_scene_forest_speak_dyatlov_text">
+    <text>Das vermisste Mitglied des Wächters lag auf dem Grund eines Brunnens. Er wurde von seinen eigenen Leuten umgebracht! Sie waren sicher nicht glücklich über seine Beförderung. Ich sollte Djatlow von all dem berichten.</text>
+  </string>
+  <string id="gar_dolg_zastava_search_aver_name">
+    <text>Triff dich mit Awerjanow</text>
+  </string>
+  <string id="gar_dolg_zastava_search_aver_text">
+    <text>Awerjanow hat den Außenposten verlassen, aber seinen PDA-Signalen nach zu urteilen, ist er immer noch auf der Müllhalde. Ich werde ihn einholen.</text>
+  </string>
+  <string id="gar_dolg_zastava_search_in_forest_name">
+    <text>Gehe in den Wald</text>
+  </string>
+  <string id="gar_dolg_zastava_search_in_forest_text">
+    <text>Awerjanow ging in den Wald. Ich sollte ihn einholen.</text>
+  </string>
+  <string id="gar_dolg_zastava_final_speak_name">
+    <text>Berichte an Djatlow über das Verschwinden von Awarjanow</text>
+  </string>
+  <string id="gar_dolg_zastava_final_speak_text">
+    <text>Der Gerechtigkeit wurde Genüge getan und Awerjanow ist für immer weg. Ich muss dem Kommandanten des Außenpostens darüber Bericht erstatten.</text>
+  </string>
+  <string id="gar_dolg_zastava_final_speak2_name">
+    <text>Meldung an Djatlow über den Tod von Awerjanow</text>
+  </string>
+  <string id="gar_dolg_zastava_final_speak2_text">
+    <text>Es ist alles erledigt. Jetzt muss ich mich nur noch bei Djatlow melden.</text>
+  </string>
+  <string id="gar_duty_bandits_kill_task">
+    <text>HILF DEN WÄCHTERN</text>
+  </string>
+  <string id="gar_duty_bandits_kill_task_main_name">
+    <text>Kümmere dich um die Banditen auf dem Bauernhof</text>
+  </string>
+  <string id="gar_duty_bandits_kill_task_main_text">
+    <text>Djatlow hat mich gebeten, die Banditen auf dem Hof in der Nähe des Waldes zu beseitigen. Dadurch könnte ich in seiner Fraktion ein höheres Ansehen erlangen.</text>
+  </string>
+  <string id="gar_duty_bandits_kill_task_dyatlov_talk_name">
+    <text>Berichte an Djatlow</text>
+  </string>
+  <string id="gar_duty_bandits_kill_task_dyatlov_talk_text">
+    <text>Zeit, dem Kommandanten des Außenpostens zu berichten, dass er seine Leute auf den Bauernhof schicken kann.</text>
+  </string>
+  <string id="kill_tonnel_bandits">
+    <text>TUNNEL AUF DER MÜLLHALDE</text>
+  </string>
+  <string id="gar_kill_tonnel_bandits_start_name">
+    <text>Kümmere dich um die Banditen</text>
+  </string>
+  <string id="gar_kill_tonnel_bandits_start_text">
+    <text>Im Eisenbahntunnel auf der Müllhalde haben sich Banditen eingenistet. Ich muss mit ihnen fertig werden.</text>
+  </string>
+  <string id="gar_kill_tonnel_bandits_reward_name">
+    <text>Zurückkehren um die Belohnung abzuholen</text>
+  </string>
+  <string id="gar_kill_tonnel_bandits_reward_text">
+    <text>Es ist für alles gesorgt. Zeit, meine Belohnung zu kassieren.</text>
+  </string>
+  <string id="speak_gamzat">
+    <text>LOKALER ARZT</text>
+  </string>
+  <string id="gar_speak_gamzat_start_name">
+    <text>Triff Gamsat</text>
+  </string>
+  <string id="gar_speak_gamzat_start_text">
+    <text>Ein Mediziner namens Gamsat könnte mir Arbeit verschaffen, nach dem zu urteilen, was Krücke mir erzählt hat. Ich sollte mich mit ihm treffen. Ich hoffe, ich muss keine Bettpfannen für Kranke leeren.</text>
+  </string>
+  <string id="gar_gamzat_task_hunt">
+    <text>GEFÄHRLICHE ENTDECKUNGSREISE</text>
+  </string>
+  <string id="gar_medic_hunt_ready_name">
+    <text>Sprich mit Gamsat über die Aufgabe</text>
+  </string>
+  <string id="gar_medic_hunt_ready_text">
+    <text>Gamsat braucht Hilfe bei etwas Schwierigem und sehr Gefährlichem. Die Bezahlung ist aber durchaus angemessen.</text>
+  </string>
+  <string id="gar_medic_hunt_go_bloodsucker_name">
+    <text>Locke den Blutsauger zu Gamsat</text>
+  </string>
+  <string id="gar_medic_hunt_go_bloodsucker_text">
+    <text>Ich muss den Blutsauger vorsichtig zu Gamsat locken, damit er ihn zur Strecke bringt.</text>
+  </string>
+  <string id="restore_health_task">
+    <text>WUNDEN</text>
+  </string>
+  <string id="gar_restore_health_task_start_name">
+    <text>Heile dich</text>
+  </string>
+  <string id="gar_restore_health_task_start_text">
+    <text>Nach so einer Prügelei muss ich wieder zur Vernunft kommen. Was ist das beste Mittel, um deine Laune zu heben? Geld ausgeben, natürlich! Und ich habe zufällig welches. Ich werde zum Händler gehen und mir ein paar neue Sachen kaufen.</text>
+  </string>
+  <string id="go_to_darkvalley">
+    <text>DUNKLES TAL</text>
+  </string>
+  <string id="gar_go_to_darkvalley_start_name">
+    <text>Geh für die Artefakte ins Dunkle Tal</text>
+  </string>
+  <string id="gar_go_to_darkvalley_start_text">
+    <text>Vor mir liegen neue Orte, an denen ich noch nie gewesen bin! Ich schnappe mir den Koffer des Händlers und lerne nebenbei mehr über die Umgebung des Tals und suche nach Beute.</text>
+  </string>
+  <string id="gar_go_to_darkvalley_speak_bandit_leader_name">
+    <text>Schnapp dir die Artefaktkiste vom Banditenanführer</text>
+  </string>
+  <string id="gar_go_to_darkvalley_speak_bandit_leader_text">
+    <text>Krücke hat mich gebeten, ins Dunkle Tal zu eilen, um eine Kiste zu holen, die der Banditenanführer hat.</text>
+  </string>
+  <string id="gar_go_to_darkvalley_wait_trader_name">
+    <text>Warte auf Krücke und gib ihm den Koffer.</text>
+  </string>
+  <string id="gar_go_to_darkvalley_wait_trader_text">
+    <text>Krücke ging weg, weg von der Müllhalde, und sagte mir, dass er eine Nachricht schicken wird, wenn er zurückkommt.</text>
+  </string>
+  <string id="to_meet_stalker_messenger">
+    <text>Bote</text>
+  </string>
+  <string id="gar_to_meet_stalker_messenger_start_name">
+    <text>Triff Myslaw</text>
+  </string>
+  <string id="gar_to_meet_stalker_messenger_start_text">
+    <text>Patrone hat mich geschickt, um einen seiner Kameraden, Myslaw, zu treffen. Ich muss mit ihm unseren Handel besprechen.</text>
+  </string>
+  <string id="task_for_stalker_messenger">
+    <text>VERLOCKENDES ANGEBOT</text>
+  </string>
+  <string id="gar_task_for_stalker_messenger_start_name">
+    <text>Sprich mit Patrone</text>
+  </string>
+  <string id="gar_task_for_stalker_messenger_start_text">
+    <text>Patrone hat ein Angebot für mich.</text>
+  </string>
+  <string id="meet_stalkers_for_agroprom_case">
+    <text>SUCHE DEN KODE</text>
+  </string>
+  <string id="gar_meet_stalkers_for_agroprom_case_start_name">
+    <text>Triff die Stalker</text>
+  </string>
+  <string id="gar_meet_stalkers_for_agroprom_case_one_text">
+    <text>Myslaw informierte über drei seiner ehemaligen Gräber-Bekanntschaften. Vielleicht kennt einer von ihnen den Kode für den Tresor. Laut Myslaw ist der erste, Schwanz, irgendwo auf der Müllhalde, während Mitajai und Barin bei Agroprom bzw. im Kordon sind.</text>
+  </string>
+  <string id="gar_meet_stalkers_for_agroprom_case_two_text">
+    <text>Durch die Informationen auf Myslaws Leiche habe ich herausgefunden, dass drei seiner Bekannten früher zu den Gräbern gehörten, die in Agroprom mit einiger aktueller Beute, dem Koffer, ansässig sind. Vielleicht kennt einer dieser Stalker den Code für den Safe, in dem sich der Koffer befindet. Sein erster Bekannter, Schwanz, ist irgendwo auf der Müllhalde, während Mitjai und Barin in Agroprom bzw. im Kordon sind.</text>
+  </string>
+  <string id="known_stalker_messenger">
+    <text>TOTER BOTE</text>
+  </string>
+  <string id="gar_known_stalker_messenger_start_name">
+    <text>Myslaws Leiche suchen</text>
+  </string>
+  <string id="gar_known_stalker_messenger_start_text">
+    <text>Patrone hat mich geschickt, um mit einem Myslaw zu sprechen, aber er ist tot. Ich sollte seine Leiche nach Informationen über unser Geschäft durchsuchen.</text>
+  </string>
+  <string id="gar_start_speak_dolg">
+    <text>WÄCHTER AUSSENPOSTEN</text>
+  </string>
+  <string id="gar_start_speak_dolg_start_name">
+    <text>Triff den Kommandeur der Einheit</text>
+  </string>
+  <string id="gar_start_speak_dolg_start_text">
+    <text>Diese Wächter sind ziemlich faszinierend. Ich sollte mit ihnen reden und sehen, ob ich etwas Neues herausfinden oder Arbeit bekommen kann.</text>
+  </string>
+  <string id="gar_case_final_task">
+    <text>RÜCKKEHR</text>
+  </string>
+  <string id="gar_case_final_task_start_name">
+    <text>Übergib den Koffer an Krücke</text>
+  </string>
+  <string id="gar_case_final_task_start_text">
+    <text>Meine Reise ins Dunkle Tal war nicht einfach... aber ich habe den Koffer. Es ist Zeit, ihn dem Händler zu übergeben und meine Belohnung zu erhalten.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts">
+    <text>MUTANT OVERLORD</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_start_name">
+    <text>Sprich mit Gamsat</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_start_text">
+    <text>Gamsat hat mich gebeten, zu ihm zu kommen, sobald ich mit meinen eigenen Angelegenheiten fertig bin. Wir werden sehen, was der Blutsaugerjäger vorhat.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_go_medic_home_name">
+    <text>Erreiche Gamsats Unterschlupf</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_go_medic_home_text">
+    <text>Gamsat hat eine neue Arbeit für mich. Er sagt, dass niemand mehr vor Mutanten weglaufen muss. Ich sollte ihn in seinem Unterschlupf treffen.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_start_task_name">
+    <text>Geh zu der Wiese mit den blinden Hunden</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_start_task_text">
+    <text>Gamsat erläuterte seine Beobachtungen zur Unterdrückung der aggressiven Handlungen von Mutanten mit Hilfe eines Artefakts. Wir werden es an Hunden ausprobieren.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_task_kill_monsters_name">
+    <text>Kämpfe gegen die Mutanten</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_task_kill_monsters_text">
+    <text>Das Artefakt hatte keine Wirkung. Wir werden die Mutanten angreifen müssen.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_final_speak_name">
+    <text>Sprich mit Gamsat</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_final_speak_text">
+    <text>Sieht aus, als hätten wir sie abgewehrt... Zeit für ein Gespräch.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_search_treasure_name">
+    <text>Nimm die Notizen in Gamsats Unterschlupf</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_search_treasure_text">
+    <text>In seinen letzten Worten bat mich Gamsat, seine Aufzeichnungen Dubinin in der wissenschaftlichen Einrichtung von Agroprom zu übergeben. Ich muss sie aus seiner Unterkunft holen.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_kill_bloodsucker_name">
+    <text>Töte den Blutsauger oder lass ihn am Leben</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_kill_bloodsucker_text">
+    <text>Ich muss den Blutsauger töten, solange das Artefakt noch aktiv ist. Sonst könnte er eine Bedrohung für das nahe gelegene Lager darstellen.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_go_to_agroprom_name">
+    <text>Bring die Dokumente zur wissenschaftlichen Einrichtung</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_go_to_agroprom_text">
+    <text>Gamsat ist tot... Seine Experimente waren nicht ganz erfolgreich. Ich werde seine Aufzeichnungen in die wissenschaftliche Einrichtung von Agroprom bringen, wie ich es versprochen habe.</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_speak_task_scientist_name">
+    <text>Triff dich mit Dubinin</text>
+  </string>
+  <string id="gar_stalker_medic_artefacts_speak_task_scientist_text">
+    <text>Ich wurde von Dubinin kontaktiert. Ich muss ihn in der Nähe der Einrichtung finden.</text>
+  </string>
+  <string id="gar_drunk_medic_start_task">
+    <text>DER NEUE SANITÄTER</text>
+  </string>
+  <string id="gar_drunk_medic_start_task_start_name">
+    <text>Besuche Sanja</text>
+  </string>
+  <string id="gar_drunk_medic_start_task_start_text">
+    <text>Sanja hat es doch noch zur Stalker-Basis geschafft. Ich sollte ihn treffen und fragen, wie er sich eingelebt hat.</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task">
+    <text>ANFRAGE</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_speak_duty_name">
+    <text>Hol dir medizinische Produkte von den Wächtern</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_speak_duty_text">
+    <text>Der neue Sanitäter braucht medizinische Produkte. Ich könnte bei den Wächtern nachfragen, vielleicht haben sie überschüssiges Material zu verkaufen.</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_kill_boars_name">
+    <text>Säubere das Gebiet von Mutanten</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_kill_boars_text">
+    <text>Die Wächter versprachen, medizinische Produkte mit mir zu teilen, wenn ich die Wildschweine in der Nähe ausrotte.</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_kill_go_back_name">
+    <text>Rückkehr zu Djatlow</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_kill_go_back_text">
+    <text>Die Wildschweine sind eliminiert. Ich kann zu Djatlow zurückkehren, um meine Belohnung zu erhalten.</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_final_speak_name">
+    <text>Bring die medizinischen Produkte zu Sanja</text>
+  </string>
+  <string id="gar_drunk_medic_supplies_task_final_speak_text">
+    <text>Überraschenderweise haben die Wächter mich mit medizinischen Produkten versorgt. Zeit, sie zu Sanja zu bringen.</text>
+  </string>
+  <string id="gar_start_bar_task">
+    <text>BAR</text>
+  </string>
+  <string id="gar_start_bar_task_go_lchanger_name">
+    <text>Neue Orte besuchen</text>
+  </string>
+  <string id="gar_start_bar_task_go_lchanger_text">
+    <text>Nachdem ich Djatlows Einheit geholfen habe, habe ich jetzt Zugang zum größten Stalker-Paradies der Zone: der legendären Bar. Sie steht unter der Kontrolle der Wächter. Daher wird von den Besuchern erwartet, dass sie sich anständig benehmen. Wie mir gesagt wurde, ist es ein guter Ort, um sich zu entspannen und zusätzliche Arbeit zu finden.</text>
+  </string>
+  <string id="gar_military_task">
+    <text>ZU DEN ARMEELAGERHÄUSERN</text>
+  </string>
+  <string id="gar_military_task_start_name">
+    <text>Gehe zur Bar</text>
+  </string>
+  <string id="gar_military_task_start_text">
+    <text>Informationen von Kowal deuten darauf hin, dass bestimmte Personen, die denen ähneln, die am Tag des Verschwindens des Professors bei Agroprom gesehen wurden, auch bei den Armeelagern gesichtet wurden. Die Zeit wird zeigen, ob sich diese Information bestätigt, aber im Moment ist das meine einzige Spur. Der Weg zu den Lagerhäusern führt durch die Bar. Da muss ich sehr vorsichtig sein.</text>
+  </string>
+  <string id="gar_start_bar_task_go_military_name">
+    <text>Komm an der Bar vorbei</text>
+  </string>
+  <string id="gar_start_bar_task_go_military_text">
+    <text>Ich muss mich vorsichtig verhalten und darf in der Bar keine Aufmerksamkeit erregen. Die Armee ist hier nicht besonders angesehen.</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task">
+    <text>SONDERBESTELLUNG</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_name">
+    <text>Warte, bis die Waren ankommen</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_text">
+    <text>Ich muss warten, bis Witka Stepak die Ware bekommt. Geschätzte Zeit der Ankunft:</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_one_day">
+    <text>24 Stunden</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_two_days">
+    <text>48 Stunden</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_item">
+    <text>Bestellt:</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_ready_name">
+    <text>Waren abholen</text>
+  </string>
+  <string id="gar_stalker_nimble_wait_order_task_ready_text">
+    <text>Witka Stepak hat mir eine Nachricht über die Lieferung der Ware geschickt. Zeit zum Abholen:</text>
+  </string>
+</string_table>
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 10.01.2024 12:27:25 -->

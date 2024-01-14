@@ -23,9 +23,6 @@ for locale_code in $(jq -r  '.[] | keys[]' $LANG_FILE); do
     iconv -f utf-8 -t $(jq -r ".locales.${locale_code}.encoding" $LANG_FILE)//IGNORE $file > ./tmp/$locale_code/gamedata/configs/text/$locale_code/$(basename $file) 2> /dev/null || echo " $file"
   done
 
-  # True Stalker credits file has cyrillic characters...
-  iconv -f utf-8 -t windows-1251 ./gamedata_UTF-8/configs/text/$locale_code/st_ui_ts_credits.xml > ./tmp/$locale_code/gamedata/configs/text/$locale_code/st_ui_ts_credits.xml 2> /dev/null
-
   # package dir into archive
   [ ! -z "${locale_code}" ] && 7z a ./releases/${ARCHIVE_NAME_PREFIX}$(jq -r ".locales.${locale_code}.name" $LANG_FILE)${ARCHIVE_NAME_POSTFIX}.7z ./tmp/$locale_code/gamedata >/dev/null
 

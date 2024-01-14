@@ -63,11 +63,22 @@ Every XML file must start with declaration tag `<?xml version="1.0" encoding="wi
 
 - [bun](https://bun.sh/docs/installation)
 
+
+### Structure of the project
+
+| Directrory  | Content description
+| ----------- | -
+| unpacked    | all the archive files extracted; you likely do not need all of them, since that would load some resources twice
+| gamedata    | the actual overrides you need
+...
+
+
 ### Extract DB archives yourself
 
 0. Make sure you have a suitable converter tool at hand (ex: [CoC DB converter](https://www.moddb.com/mods/call-of-chernobyl/downloads/cop-coc-db-converter)), place `converter.exe`<sup>1</sup> in this directory next to _README.md_ file
 1. Find localisation DB file from content/resources directory
 2. Run the `./run.ts unpack` to automagically extract from _db_ files
+
 
 ### Create DB archives yourself (WIP)
 

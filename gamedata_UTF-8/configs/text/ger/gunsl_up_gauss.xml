@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="windows-1252" ?>
+<string_table>
+  <string id="gunsl_wpn_gauss_up_computer_name">
+    <text>Waffenzustandsüberwachungssystem</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_computer_descr">
+    <text>Integration eines Computers in die Hauptwaffensysteme, dessen Software den Zustand aller Komponenten überwacht und. Bietet umfassende Anpassungsmöglichkeiten.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_guard_name">
+    <text>"G.U.A.R.D." Upgrade</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_guard_descr">
+    <text>Dieser Hardware- und Softwarekomplex erkennt dank Infrarotstrahlungssensoren automatisch Lebende Ziele. Feuert ausschließlich auf Lebende Ziele. Das System ist mit einem Fail-Safe Protokoll ausgestattet.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_safari_name">
+    <text>"S.A.F.A.R.I." Upgrade</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_safari_descr">
+    <text>Das Upgrade umfasst die Installation von IR-Sensoren und einer Videokamera am Gewehr sowie die Einrichtung der Steuerungssoftware für den neuesten Komplex der automatischen Zielerfassung und Feueranpassung. Wenn der Auslöser gedrückt wird, erkennt und sperrt das System das Prioritätsziel und startet gleichzeitig einen Timer. Der Schuss wird mit einem Timer abgefeuert oder wenn der Zielpunkt auf das erfasste Objekt ausgerichtet ist.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_ideal_name">
+    <text>"I.D.E.A.L.-M" Upgrade</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_ideal_descr">
+    <text>Extrem effizientes Schützenassistenzsystem. Einfach in der Bedienung. Der Abzug kann gedrückt bleiben und bei Zielerfassung feuert das Gewehr automatisch. Für Lebende Ziele konzipiert. Es sind wenige Fail-States bekannt, in denen das Gewehr auf unbelebte Ziele gefeuert hat.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_provoda_name">
+    <text>Verkabelung austauschen</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_provoda_descr">
+    <text>Das Ersetzen von Aluminiumkabeln durch hochwertiges Kupfer führt zu einer Verringerung an Signalverlusten, was sich günstig auf die Mündungsgeschwindigkeit des Geschosses auswirkt.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_katushki_name">
+    <text>Spulen mit niedriger Impedanz</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_katushki_descr">
+    <text>Verringern das Erhitzen der Waffe, wirken sich günstig auf die Lebensdauer aus und erhöhen die Mündungsgeschwindigkeit.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_compensator_name">
+    <text>Magnetischer Rückstoßkompensator</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_compensator_descr">
+    <text>Ein Magnetischer Rückstoßdämpfer, der durch elektromagnetische Induktion den Rückstoß kompensiert und das Schießen angenehmer macht.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_fast_conders_name">
+    <text>Schnellladekondensatoren</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_fast_conders_descr">
+    <text>Diese Schnellladekondensatoren erhöhen die Feuerrate enorm.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_ionistori_name">
+    <text>Superkondensatoren</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_ionistori_descr">
+    <text>Der Austausch der Standardkondensatoren durch Superkondensatoren erhöht die Lebensdauer und Zuverlässigkeit der Waffe. Außerdem wird die Mündungsgeschwindigkeit erhöht, jedoch verbraucht die Waffe deutlich mehr Energie.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_lowesr_name">
+    <text>Low-ESR-Kondensatoren</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_lowesr_descr">
+    <text>Kondensatoren mit geringerem Widerstand und Leckstrom. Erhöht die Schussleistung.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_zoom_name">
+    <text>Weitwinkel-Zielfernrohr</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_zoom_descr">
+    <text>Weitwinkel-Zielfernrohr mit verstellbarer Vergrößerung.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_nv_name">
+    <text>Restlichtverstärker</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_nv_descr">
+    <text>Erleichtert das Schießen bei Dämmerlicht und Nacht enorm.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_kardan_ammo_name">
+    <text>Verbessertes Aggregat</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_kardan_ammo_descr">
+    <text>Erhöht die Zuverlässigkeit der Waffe und ermöglicht die Verwendung von Nicht-Werksbatterien zum Schießen.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_priklad_weight_name">
+    <text>Leichter Schaft</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_priklad_weight_descr">
+    <text>Reduziert das Gesamtgewicht der Waffe.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_priklad_ergonomics_name">
+    <text>Ergonomischer Schaft</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_priklad_ergonomics_descr">
+    <text>Liegt besser in der Hand und verringert den Rückstoß deutlich.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_tsevie_ergonomics_name">
+    <text>Ergonomischer Vorderschaft</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_tsevie_ergonomics_descr">
+    <text>Das Ersetzen des Vorderschafts durch einen dem Schützen angepassten erleichtert das Schießen deutlich.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_pokritie_name">
+    <text>Spezialbeschichtung</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_pokritie_descr">
+    <text>Das Aufbringen einer Schutzbeschichtung auf die Hauptkomponenten der Waffe verhindert Korrosion, verringert den Verschleiß und verlängert die Lebensdauer.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_zoom_speed_name">
+    <text>Digitale Sichtsteuerung</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_zoom_speed_descr">
+    <text>Steuereinheit für die Fokussierungskomponenten des Objektivs. Ermöglicht eine schnellere Zielerfassung nach Vergrößerung.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_magnetic_shield_name">
+    <text>Elektromagnetische Abschirmung</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_magnetic_shield_descr">
+    <text>Reduziert die Ausfälle der Waffe durch elektromagnetische Abschirmung.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_detector_name">
+    <text>Zielerfassungssystem</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_detector_descr">
+    <text>Integration des neuesten Systems zur automatischen Erkennung, Erfassung und Verfolgung von Zielen in das Zielmodul der Waffen. Das System ermöglicht es, selbst die am sorgfältigsten getarnten Feinde bei allen Wetterbedingungen zu erkennen. Wenn ein Ziel erkannt wird, erstellt das System eine holographische Projektion, die den Schützen über das Vorhandensein eines Ziels informiert (auch wenn das Ziel nicht in das aktuelle Sichtfeld des Visiers fällt) und dadurch das Zielen erleichtert. Ein schöner Bonus ist die Funktion, Ziele nach dem Prinzip "Freund oder Feind" zu identifizieren.</text>
+  </string>
+</string_table>
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 02.01.2024 18:42:11 -->
