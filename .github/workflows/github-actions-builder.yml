@@ -8,6 +8,7 @@ on:
     branches:
       - main
       - staging
+      - testing
     paths:
       - 'gamedata_UTF-8/**'
     # paths-ignore: [ releases/* ]

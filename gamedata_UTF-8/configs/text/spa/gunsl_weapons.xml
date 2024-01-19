@@ -1,0 +1,447 @@
+<string_table>
+  <!-- Grenades -->
+  <string id="gunsl_wpn_grenade_f1">
+    <text>Granada F-1</text>
+  </string>
+  <string id="gunsl_wpn_grenade_f1_descr">
+    <text>Granada de mano defensiva; su metralla puede perforar blindajes personales de grado medio. Su radio letal es de 7 metros. Los stalkers consiguen granadas F1 comerciando con los militares, que justifican su desaparición declarando que las han usado contra mutantes.</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgd5">
+    <text>Granada RGD-5</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgd5_descr">
+    <text>Granada de mano ofensiva con un pequeño radio letal de 5 metros. La usan a menudo los stalkers para "ahumar" mutantes debido a su bajo coste.</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgn">
+    <text>Granada RGN</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgn_descr">
+    <text>Granada de mano ofensiva detonada por impacto. Equipado con un fusible de doble acción, que tiene funciones de impacto y retraso de tiempo. Su radio letal es de 4 metros. No detona si impacta demasiado cerca del lanzador.</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgo">
+    <text>Granada RGO</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgo_descr">
+    <text>Granada de mano defensiva detonada por impacto. Equipado con un fusible de doble acción, que tiene funciones de impacto y retraso de tiempo. Su radio letal es de 6 metros. No detona si impacta demasiado cerca del lanzador.</text>
+  </string>
+  <string id="gunsl_wpn_grenade_smoke">
+    <text>Granada de humo RGD-M</text>
+  </string>
+  <string id="gunsl_wpn_grenade_smoke_descr">
+    <text>Granada de mano que sirve para desplegar pantallas de humo. Una vez arrojada, la pantalla de humo tarda 10 segundos en formarse.</text>
+  </string>
+  <string id="gunsl_wpn_grenade_flashbang">
+    <text>Granada cegadora CTS 7290</text>
+  </string>
+  <string id="gunsl_wpn_grenade_flashbang_descr">
+    <text>Granada cegadora fabricada en los EE.UU. Diseñada para producir un destello de luz cegador y un intenso "bang" para desorientar temporalmente los sentidos del enemigo.</text>
+  </string>
+  <!-- Misc -->
+  <string id="gunsl_wpn_knife">
+    <text>Cuchillo de combate OTs-04</text>
+  </string>
+  <string id="gunsl_wpn_knife_descr">
+    <text>El cuchillo OTs-04 fue desarrollado en la Oficina Central de Investigación de Diseño de Tula a finales de los 80 - principios de los 90 y estaba destinado a las fuerzas especiales de las tropas internas del Ministerio del Interior de la URSS. El cuchillo tiene un diseño moderno y agresivo. La hoja en forma de lanza es de un solo filo. La hoja está formada por largos descensos. Una cuchilla falsa está afilada en la parte delantera de la culata, la mayor parte de la culata es una sierra con dientes finos.</text>.
+  </string>
+  <string id="gunsl_wpn_knife_6x4">
+    <text>Producto 6X4</text>
+  </string>
+  <string id="gunsl_wpn_knife_6x4_descr">
+    <text>Cuchillo bayoneta militar general adoptado por las Fuerzas Armadas de la URSS para su uso con fusiles de asalto AKM y AK74. Fue desarrollado sobre la base del cuchillo bayoneta 6X3. Los principales cambios se hicieron en el diseño de la vaina y la forma de la empuñadura. Se fabricó en la Armería de Tula y en la Planta Mecánica de Izhevsk, hasta que fue sustituido por el cuchillo bayoneta 6X5 para fusiles de asalto AK74 y AN-94.</text>
+  </string>
+  <!-- Pistols -->
+  <string id="gunsl_wpn_pm">
+    <text>Makarov PM</text>
+  </string>
+  <string id="gunsl_wpn_pm_descr">
+    <text>La pistola Makarov es la más común en la Zona, y una de las mejores armas cortas de autodefensa disponibles. Es pequeña, muy fiable, fácil de usar y no requiere mucho mantenimiento. Al mismo tiempo, adolece de varias desventajas, como su corto alcance, escasa precisión y bajo poder de detención, además, comparada con las pistolas modernas de su clase es demasiado pesada y tiene un cargador pequeño.</text>
+  </string>
+  <string id="gunsl_wpn_pmm">
+    <text>PMM-12 Honorífica</text>
+  </string>
+  <string id="gunsl_wpn_pmm_descr">
+    <text>Esta pistola Makarov moderna fue un rediseño de una PM fabricada en la década del 90. En el proceso de modernización se reforzó el marco y se incrementó el peso de la corredera. Sin embargo, alrededor del 70% de las piezas son intercambiables con el PM original. Se agregaron ranuras en espiral a la recámara para usar municion de mayor presión sin grandes inconvenientes. \n \n%c[01,255,128,0]PMm entregada a Degtyarev como recompensa por "ejecutar con éxito órdenes sumamente peligrosas, así como por su valor y coraje en el cumplimiento del deber".%c[01,255,128,0]</text>
+  </string>
+  <string id="gunsl_wpn_pb">
+    <text>PB</text>
+  </string>
+  <string id="gunsl_wpn_pb_descr">
+    <text>La pistola PB fue desarrollada en la década de 1960 tomando como base la pistola Makarov para su uso por los equipos de reconocimiento del ejército y el personal del KGB. Lo más destacable de la pistola es su silenciador integrado, que es acoplable y consta de dos partes que permiten llevarlo oculto. La parte delantera del silenciador puede instalarse rápidamente en el arma antes de su uso. En situaciones críticas, es posible disparar con la parte frontal del cañón quitada, sin embargo, la supresión de sonido será escasa o nula.</text>
+  </string>
+  <string id="gunsl_wpn_fort12">
+    <text>FORT-12</text>
+  </string>
+  <string id="gunsl_wpn_fort12_descr">
+    <text>Pistola de factura ucraniana usada principalmente por agencias gubernamentales. Ofrece más precisión, ergonomía y capacidad de cargador que la PMm. Estas pistolas llegaron a la Zona en grandes cantidades gracias a la venta de armas defectuosas con errores técnicos de cálculo en los diseños de los primeros modelos. Pese a ello, la pistola tiene mucha demanda entre stalkers por sus excelentes prestaciones de combate.</text>
+  </string>
+  <string id="gunsl_wpn_fort17">
+    <text>FORA-17</text>
+  </string>
+  <string id="gunsl_wpn_fort17_descr">
+    <text>Pistola semiautomática de factura ucraniana, desarrollada y fabricada por RPC Fort. "Fort-17" es una modificación de la pistola "Fort-12" con un marco de polímero reforzado con fibra de vidrio resistente a los golpes con un agarre desmontable que permite un mejor ajuste. Equipado con un riel Picatinny, que permite la instalación de accesorios tácticos, como miras láser o linternas. El uso de polímeros permitió disminuir el peso y los costos de fabricación.</text>
+  </string>
+  <string id="gunsl_wpn_gsh18">
+    <text>GSh-18</text>
+  </string>
+  <string id="gunsl_wpn_gsh18_descr">
+    <text>Pistola semiautomática de fabricación rusa, desarrollada en la década del 90 para reemplazar a la PM, que en ese momento se estaba volviendo obsoleta. Las ventajas clave son el bajo peso y el cargador de alta capacidad. La posición baja del cañón en relación a las manos del tirador y la excelente distribución del peso permiten un disparo preciso. La produccion en masa comenzó en 2001 y se utiliza como arma de autodefensa en varias agencias policiales y militares rusas.</text>
+  </string>
+  <string id="gunsl_wpn_grach">
+    <text>MP-443 Grach</text>
+  </string>
+  <string id="gunsl_wpn_grach_descr">
+    <text>La pistola Yarygin se desarrolló en la década del 90 para reemplazar la PM que todavía estaba en servicio, pero no cumplía completamente con los requisitos necesarios. En las pruebas militares de 2000 fue declarada ganadora del concurso del programa de investigación y desarrollo "Grach" y entró en servicio en el ejército ruso como el arma secundaria estándar. A pesar de querida por su alta precisión, es poco popular entre los stalkers debido a la baja fiabilidad en las duras condiciones de la Zona.</text>
+  </string>
+  <string id="gunsl_wpn_stechkin">
+    <text>APS</text>
+  </string>
+  <string id="gunsl_wpn_stechkin_descr">
+    <text>Pistola ametralladora, desarrollada a finales de la década de 1940 por el diseñador de armas soviético I. Stechkin. Fue adoptado formalmente por el Ejército Rojo en 1951 junto con PM, sin embargo, la APS es considerablemente superior debido a su precisión y su modo de disparo automático. Inicialmente fue destinada para oficiales y tripulaciones de vehículos de combate que estaban involucrados en operaciones de combate directo. Desafortunadamente, la experiencia operativa demostró una poca practicidad del arma debido a su gran tamaño, su enorme funda y una ergonomía bastante pobre. La pistola pronto dejó de producirse, las copias restantes se enviaron a los almacenes, y desde allí llegaron a la Zona.</text>
+  </string>
+  <string id="gunsl_wpn_apb">
+    <text>APB</text>
+  </string>
+  <string id="gunsl_wpn_apb_descr">
+    <text>Variante silenciada de la famosa APS, se trata de una modernización encargada por las fuerzas especiales. Adoptada en 1972, 14 años después de que su predecesora fuera quitada de la producción. Sorprendentemente, hay pocas diferencias entre ambas armas, en particular un cañón roscado para el supresor y una culata plegable (que desafortunadamente esta pistola no tiene).</text>
+  </string>
+  <string id="gunsl_wpn_tt33">
+    <text>TT-33</text>
+  </string>
+  <string id="gunsl_wpn_tt33_descr">
+    <text>La primera pistola semiautomática de la URSS, desarrollada en 1930 por el diseñador de armas F. Tokarev. Dio excelentes resultados durante la Segunda Guerra Mundial. Aunque actualmente se encuentra obsoleta, debido a su facilidad de mantenimiento, apariencia imponente, potente cartucho y la gran cantidad de armas disponibles en los almacenes, es extremadamente popular entre ciertos grupos de stalkers. A menudo se puede ver en manos de bandidos.</text>
+  </string>
+  <string id="gunsl_wpn_sr1m">
+    <text>SR1MP Gyurza</text>
+  </string>
+  <string id="gunsl_wpn_sr1m_descr">
+    <text>Una moderna pistola rusa, diseñada para las fuerzas especiales. Utiliza un potente cartucho perforador de blindaje, diseñado específicamente para esta pistola, se usa para atacar objetivos blindados. Las ranuras en la parte frontal del marco permiten instalar varios accesorios tácticos como miras láser o linternas. A pesar de estas buenas características, es bastante rara en la Zona, principalmente debido a que la munición es muy escasa.</text>
+  </string>
+  <string id="gunsl_wpn_beretta">
+    <text>Beretta 92FS</text>
+  </string>
+  <string id="gunsl_wpn_beretta_descr">
+    <text>Las pistolas Beretta gozan de reputación como armas fiables en todo el mundo, aunque son bastante aparatosas. La utilizan las fuerzas armadas y policiales del otro lado del océano, además de diversas organizaciones militares y de orden público. Esta pistola es igualmente popular en los bajos fondos gracias a su potente munición y a la capacidad del cargador. Las Beretta que se encuentran en la Zona suelen estar desfasadas.</text>
+  </string>
+  <string id="gunsl_wpn_walther">
+    <text>Walther P99</text>
+  </string>
+  <string id="gunsl_wpn_walther_descr">
+    <text>Excelente pistola occidental conocida por su fiabilidad, su cargador de gran capacidad y su notable precisión, además de encontrarse entre las pistolas más ergonómicas de su clase. Es una de las pistolas más utilizadas en la Zona por los novatos y los profesionales que se la pueden permitir.</text>
+  </string>
+  <string id="gunsl_wpn_hpsa">
+    <text>Browning Hi-Power</text>
+  </string>
+  <string id="gunsl_wpn_hpsa_descr">
+    <text>Pistola alimentada por cargador basada en el diseño de John Browning en la primera mitad del siglo XX. Las pistolas de este modelo tienen una merecida reputación como las mejores del siglo XX, y tienen mucha demanda en la Zona.</text>
+  </string>
+  <string id="gunsl_wpn_glock17">
+    <text>GLOCK 17</text>
+  </string>
+  <string id="gunsl_wpn_glock17_descr">
+    <text>Pistola austríaca de la década del 80. Su creador, a pesar de no contar con experiencia en el desarrollo de pistolas, logro que el arma no solo tuviera íxito, sino que también sirvió como un gran ejemplo del uso adecuado de polímeros en armas contemporáneas. Gran parte del marco está hecho de plástico resistente al calor, lo que hace que el arma sea ligera pero muy duradera. La buena ergonomía, la fiabilidad y la falta de los mecanismos de seguridad tradicionales (el usuario puede disparar sin que manipular un seguro) contribuyeron a que se convirtiera en una de las armas más utilizadas en todo el mundo. Varias de estas pistolas han llegado a la Zona gracias a los mercenarios, quienes comúnmente las usan.</text>
+  </string>
+  <string id="gunsl_wpn_colt1911">
+    <text>COLT M1911A1</text>
+  </string>
+  <string id="gunsl_wpn_colt1911_descr">
+    <text>Versión mejorada de una clásica arma semiautomática, que destacó en los principales conflictos armados del siglo XX y ha entrado con buen pie en el nuevo milenio. Decenas o incluso cientos de empresas de todo el mundo fabrican el arma original 1911 y numerosas modificaciones como la M1911A1. La única desventaja del arma es la escasa capacidad de su cargador, pero está compensado más que de sobra por su potente munición.</text>
+  </string>
+  <string id="gunsl_wpn_sig220">
+    <text>SIG-Sauer P220</text>
+  </string>
+  <string id="gunsl_wpn_sig220_descr">
+    <text>Único modelo de fabricación en serie que queda de una pistola de renombre mundial. Este arma tiene una merecida reputación por su ergonomía y precisión. Aunque su cargador es pequeño, su mecanismo funciona como un reloj suizo. Su otra ventaja es la potente munición que utiliza. Algunos creen que la SIG-Sauer P220 es la mejor pistola de calibre ACP .45 que se ha fabricado en serie y tiene muchos seguidores entre los stalkers y mercenarios.</text>
+  </string>
+  <string id="gunsl_wpn_sig220_nimble">
+    <text>SIG-Sauer P220R</text>
+  </string>
+  <string id="gunsl_wpn_sig220_nimble_descr">
+    <text>Variante especial de una pistola de gran renombre. Está equipada con un riel Picatinny debajo de la corredera y el cañón, lo que permite la instalación de accesorios como linternas o miras láser. Muy poco común en la Zona.</text>
+  </string>
+  <string id="gunsl_wpn_usp">
+    <text>HK USP Tactical</text>
+  </string>
+  <string id="gunsl_wpn_usp_descr">
+    <text>Pistola semiautomática de fabricación alemana. Su intachable fiabilidad y durabilidad, combinadas con una precisión excelente, son las principales características de esta arma. Entre sus desventajas se encuentra su considerable tamaño, un centro de gravedad relativamente elevado y un cerrojo enorme, que dificultan tenerla oculta pero no eclipsan sus cualidades positivas. Es especialmente popular entre los veteranos de la Zona. La USP Tactical tiene un cañón roscado que permite el uso de silenciadores.</text>
+  </string>
+  <string id="gunsl_wpn_usp_match">
+    <text>HK USP Match</text>
+  </string>
+  <string id="gunsl_wpn_usp_match_descr">
+    <text>%c[01,255,128,0]Variante de tiro competitivo de la USP. Su característica más distintiva es un compensador especial, que reduce la subida del cañón. La producción de la USP Match se detuvo en 1999. Esta pistola pertenecía a un mercenario llamado Wolfhound. %c[01,255,255,255] </text>
+  </string>
+  <string id="gunsl_wpn_fiveseven">
+    <text>FN Five-seveN USG</text>
+  </string>
+  <string id="gunsl_wpn_fiveseven_descr">
+    <text>Pistola compañera de la P90. La Five-seveN se desarrolló a fines de la década de 1990. El bajo peso, la alta capacidad del cargador, la potencia del cartucho y la buena fiabilidad hacen de Five-seveN una de las mejores pistolas disponibles en el mundo, por lo que tiene una gran demanda entre los mercenarios.</text>
+  </string>
+  <string id="gunsl_wpn_eagle">
+    <text>Desert Eagle Mark XIX</text>
+  </string>
+  <string id="gunsl_wpn_eagle_descr">
+    <text>El pistolón definitivo: voluminoso, pesado y sumamente letal. Diseñada como arma especializada para caza media y mayor y para competiciones de tiro en las que había que disparar contra blancos de acero a distancias superiores a los 50 metros. Su limitado uso en la Zona se atribuye a su precio, peso y tamaño, que duplican a los de otras pistolas.</text>
+  </string>
+  <string id="gunsl_wpn_deagle_uniq">
+    <text>Águila Esteparia</text>
+  </string>
+  <string id="gunsl_wpn_deagle_uniq_descr">
+    <text>%c[01,255,128,0]Pistola fabricada a mano partiendo del diseño de la pistola Desert Eagle. La empuñadura de madera se adapta perfectamente a la mano, lo que permite un mejor control y una mayor precisión. %c[01,255,255,255] </text>
+  </string>
+  <!-- Shotguns -->
+  <string id="gunsl_wpn_bm16">
+    <text>TOZ-66</text>
+  </string>
+  <string id="gunsl_wpn_bm16_descr">
+    <text>Escopeta de caza de doble cañón. Es una de las armas más populares entre bandidos y stalkers novatos porque es fácil de ocultar y extremadamente eficaz a corta distancia.</text>
+  </string>
+  <string id="gunsl_wpn_toz34">
+    <text>TOZ-34</text>
+  </string>
+  <string id="gunsl_wpn_toz34_descr">
+    <text>Esta escopeta de caza de cañones superpuestos es muy común y gracias a su precisión y potencia de detención, ofrece mejor protección contra mutantes que una pistola. La utilizan sobre todo los novatos en las afueras de la Zona.</text>
+  </string>
+  <string id="gunsl_wpn_wincheaster1300">
+    <text>Wincheaster 1300</text>
+  </string>
+  <string id="gunsl_wpn_wincheaster1300_descr">
+    <text>Escopeta occidental de ánima lisa extremadamente popular en todo el mundo por su sorprendente fiabilidad y velocidad de recarga. Los cazadores de la Zona la valoran especialmente por su funcionalidad. Todas sus piezas están bañadas en un compuesto anticorrosión.</text>
+  </string>
+  <string id="gunsl_wpn_wincheaster1300_trapper">
+    <text>Depredadora</text>
+  </string>
+  <string id="gunsl_wpn_wincheaster1300_trapper_descr">
+    <text>Escopeta semiautomática fabricada a medida; pertenecía a Trapper. El único requisito del cazador respecto a esta arma fue que pudiera matar a un depredador de un solo disparo. Esta filosofía se basaba en la creencia de que, por mucha gente que haya matado, un animal sigue siendo un animal, y por tanto no debe sufrir.</text>
+  </string>
+  <string id="gunsl_wpn_spas12">
+    <text>Franchi SPAS-12</text>
+  </string>
+  <string id="gunsl_wpn_spas12_descr">
+    <text>Esta escopeta automática especial de ánima lisa fue diseñada en la segunda mitad del siglo XX y dispone de mecanismos de disparo de corredera y amartillado automático. La policía y las tropas de asalto la utilizan con usos diversos. Aunque fiable y flexible, también es bastante pesada, compleja y costosa. Aun así, es bastante popular en la Zona, especialmente entre los stalkers que buscan una protección eficaz contra mutantes.</text>
+  </string>
+  <string id="gunsl_wpn_spas12_nimble">
+    <text>Mosquetón</text>
+  </string>
+  <string id="gunsl_wpn_spas12_nimble_descr">
+    <text>Escopeta militar diseñada específicamente para unidades de asalto partiendo del modelo SPSA-14. Puede efectuar disparos en modo automático, igual que su predecesora, pero compensa mejor el retroceso gracias a un equilibrado sistema de absorción de sacudidas.</text>
+  </string>
+  <string id="gunsl_wpn_protecta">
+    <text>«Striker»</text>
+  </string>
+  <string id="gunsl_wpn_protecta_descr">
+    <text>Escopeta de combate no estriada, de diseño parecido al de un revólver con una potencia de fuego tremenda, ideal para unidades militarizadas. Cuenta con cargador de gran tamaño y una cadencia de disparo elevada, pero su gran peso, volumen y tiempo de recarga son sus desventajas. Es poco habitual en la Zona. Se utiliza para despejar espacios cerrados llenos de mutantes.</text>
+  </string>
+  <string id="gunsl_wpn_saiga12">
+    <text>Saiga 12K</text>
+  </string>
+  <string id="gunsl_wpn_saiga12_descr">
+    <text>Escopeta de caza semiautomática del calibre 12. Los mecanismos internos están basados en la plataforma AK, por lo tanto, es muy duradera y fiable. Muy eficaz para abatir a cualquier mutante de la Zona, asi como enemigos a cortas y medias distancias. Tiene gran demanda entre los stalkers debido a su flexibilidad y durabilidad. Está equipada con una cola de milano, lo que permite la instalación de diversas miras.</text>
+  </string>
+  <!-- Sniper -->
+  <string id="gunsl_wpn_vintorez">
+    <text>VSS Vintorez</text>
+  </string>
+  <string id="gunsl_wpn_vintorez_descr">
+    <text>Rifle de francotirador especial Vintorez, diseñado para efectuar tiros de precisión silenciosos y sin fogonazo en operaciones especiales donde la detección del tirador puede ser crítica. El Vintorez posee una gran capacidad perforante y poder de detención gracias al potente cartucho 9x39mm. Pese al reducido tamaño de su cargador, muchos stalkers lo tienen en alta estima. Desafortunadamente, debido a la baja velocidad de salida del cartucho, se obtiene una trayectoria de bala arqueada, por lo tanto, se recomienda el uso de miras telescópicas diseñadas para disparos de francotiradores de este tipo.</text>
+  </string>
+  <string id="gunsl_wpn_vintorez_nimble">
+    <text>Marea</text>
+  </string>
+  <string id="gunsl_wpn_vintorez_nimble_descr">
+    <text>Arma producida para unidades militares partiendo del diseño del fusil de francotirador VSS Vintorez. Posee mayor poder de detención que su predecesor, en detrimento de su cadencia de disparo, lo que permite al tirador eliminar a sus enemigos uno a uno sin revelar su posición.</text>
+  </string>
+  <string id="gunsl_wpn_svd">
+    <text>SVD</text>
+  </string>
+  <string id="gunsl_wpn_svd_descr">
+    <text>Fusil militar de francotirador que lleva más de cincuenta años en el mercado y goza de una merecida reputación por su excepcional fiabilidad y sencillez de uso. Suele utilizarlo el ejército para mejorar el alcance efectivo de sus unidades, pero los stalkers lo respetan por sus propiedades perforantes, que les permite atravesar el pellejo de los mutantes y los blindajes militares.</text>
+  </string>
+  <string id="gunsl_wpn_svd_nimble">
+    <text>Lince</text>
+  </string>
+  <string id="gunsl_wpn_svd_nimble_descr">
+    <text>Versión del fusil de francotirador SVD ensamblada a mano. Su aspecto es idéntico, pero proporciona una combinación ideal de precisión y poder de detención.</text>
+  </string>
+  <string id="gunsl_wpn_svu">
+    <text>SVU</text>
+  </string>
+  <string id="gunsl_wpn_svu_descr">
+    <text>Versión modernizada del fusil de francotirador SVD, con un diseño compacto de cargador trasero realizado a petición de las fuerzas de respuesta rápida. Ofrece mayor precisión en fuego rápido y es bastante más ligero, pero su precisión en disparo individual a corto y medio alcance es similar al de su predecesor. Sus prestaciones le han granjeado la admiración de innumerables stalkers.</text>
+  </string>
+  <string id="gunsl_wpn_svu_nimble">
+    <text>SVU-A</text>
+  </string>
+  <string id="gunsl_wpn_svu_nimble_descr">
+    <text>Este fusil de francotirador recortado con cadencia de disparo mejorada es el próximo paso en la evolución del SVU. El arma pertenecía a Max, el legendario guardia de Libertad.</text>
+  </string>
+  <string id="gunsl_wpn_gauss">
+    <text>Fusil Gauss</text>
+  </string>
+  <string id="gunsl_wpn_gauss_descr">
+    <text>Conocido como el objeto 62, este fusil de última tecnología e increíble precisión fue desarrollado en los laboratorios secretos del interior de la Zona. El arma acelera sus balas a una velocidad extremadamente elevada por medio de un sistema electromagnético, ofreciendo un poder de detención asombroso y apenas retroceso. El arma funciona con fragmentos encapsulados de artefactos incluidos en sus baterías. Está equipada con una mira telescópica inteligente. En el lado izquierdo del chasis se ubica un soporte para un miniordenador, que permite conocer el estado del arma.</text>
+  </string>
+  <string id="gunsl_wpn_umirotvoritel">
+    <text>Arma no identificada</text>
+  </string>
+  <string id="gunsl_wpn_umirotvoritel_descr">
+    <text>Arma desconocida, cuyo mecanismo de disparo aún no se ha determinado. Parece defectuosa; no hace nada al apretar el gatillo.</text>
+  </string>
+  <!-- Assault -->
+  <string id="gunsl_wpn_ak74u">
+    <text>AKS-74U</text>
+  </string>
+  <string id="gunsl_wpn_ak74u_descr">
+    <text>Versión acortada del AKS-74, desarrollada a finales de la década de 1970. Se destinó a operadores de vehículos de combate y paracaidistas, sin embargo, debido a su tamaño relativamente pequeño, el arma es ampliamente utilizada por las fuerzas del orden y las empresas de seguridad. Ventajas: facilidad de transporte, posibilidad de transporte oculto y mayor rendimiento de penetración que la mayoría de las ametralladoras de tamaño similar. Sus inconvenientes son su escaso alcance efectivo (pese al gran alcance de sus proyectiles), tendencia a sobrecalentarse y elevada propensión al rebote.</text>
+  </string>
+  <string id="gunsl_wpn_ak74ub">
+    <text>AKS-74UB</text>
+  </string>
+  <string id="gunsl_wpn_ak74ub_descr">
+    <text>%c[01,255,128,0]Versión suprimida y acortada del AKS-74, diseñada para fuerzas especiales. El freno de boca estándar se reemplazó por supresor PBS-4. El guardamanos de madera y la culata de metal se reemplazaron con contrapartes de plástico. %c[01,255,255,255]</text>
+  </string>
+  <string id="gunsl_wpn_ak74">
+    <text>AK-74M</text>
+  </string>
+  <string id="gunsl_wpn_ak74_descr">
+    <text>Variante modernizada del rifle de asalto AK-74, desarrollado originalmente en 1974. Cuenta con un mecanismo de cerrojo aligerado. El freno de boca mejorado ayuda a reducir lo que ya era un retroceso manejable. Esto genera una mejor precisión en cualquier modo de disparo. Equipado con una culata plegable lateral y un soporte de cola de milano. Arma muy común en la Zona y es muy popular entre los miembros de todas las facciones.</text>
+  </string>
+  <string id="gunsl_wpn_ak101_name">
+    <text>AK-101</text>
+  </string>
+  <string id="gunsl_wpn_ak101_descr">
+    <text>Variante relativamente reciente de la serie armas de fama mundial, dirigida a los mercados de la OTAN. La principal diferencia con el AK-74M convencional es que el AK-101 utiliza el calibre estíndar de la OTAN.</text>
+  </string>
+  <string id="gunsl_wpn_ak103_name">
+    <text>AK-103</text>
+  </string>
+  <string id="gunsl_wpn_ak103_descr">
+    <text>Un desarrollo relativamente reciente del mundialmente famoso fabricante de armas, creado para entrar en los mercados de los países de la Alianza del Atlántico Norte. La principal diferencia entre esta arma y el modelo básico AK-74M es un cañón de diferente calibre y el uso de munición estándar AKM.</text>
+  </string>
+  <string id="gunsl_wpn_an94">
+    <text>AN-94 Abakan</text>
+  </string>
+  <string id="gunsl_wpn_an94_descr">
+    <text>Fusil de asalto moderno desarrollado como heredero del AK-74. La principal diferencia es su modalidad de disparo de alta velocidad en ráfagas de dos proyectiles, que le permite disparar dos balas en el mismo sitio exacto a distancias de hasta 100 metros. Esto aumenta considerablemente la posibilidad de alcanzar al objetivo en comparación al modo de disparo individual, lo que mejora su letalidad, poder de detención y potencial perforante.</text>
+  </string>
+  <string id="gunsl_wpn_groza">
+    <text>OTs-14 Groza</text>
+  </string>
+  <string id="gunsl_wpn_groza_descr">
+    <text>Este fusil de asalto basado en el AKS-74U, se desarrolló para unidades de respuesta rápida. Sus diferencias son la munición de calibre 9x39mm, el cargador detrás del gatillo y sus opciones de configuración. Es muy apreciado por stalkers y militares por su capacidad para matar enemigos con blindajes personales o usando coberturas improvisadas en combate urbano a distancia, además de por su gran poder de detención.</text>
+  </string>
+  <string id="gunsl_wpn_groza_nimble">
+    <text>Tormenta</text>
+  </string>
+  <string id="gunsl_wpn_groza_nimble_descr">
+    <text>Versión experimental de un fusil de asalto con lanzagranadas integrado, modificación rusa del ÎTs-14 «Groza» estándar. Ha sido diseñada específicamente para las unidades que operan en la Zona. Esta versión utiliza el cartucho 5.45x39mm, lo que permite el uso de cargadores AK-74 estándar y sus variantes extendidas.</text>
+  </string>
+  <string id="gunsl_wpn_val">
+    <text>AS VAL</text>
+  </string>
+  <string id="gunsl_wpn_val_descr">
+    <text>Rifle de asalto diseñado como arma para fuerzas especiales. Su principal propósito es proporcionar fuego eficaz contra enemigos con protecciones personales modernas sin revelar la posición del usuario. Gracias a su silenciador integrado y a sus pesadas balas subsónicas de calibre 9x39mm, el ruido y fogonazo emitidos al disparar se han reducido al mínimo.</text>
+  </string>
+  <string id="gunsl_wpn_bizon">
+    <text>PP-19 Bizon</text>
+  </string>
+  <string id="gunsl_wpn_bizon_descr">
+    <text>Subfusil desarrollado a principios de la década de 1990 a pedido del Ministerio del Interior de Rusia. El mecanismo interno, como sucede con muchas armas fabricadas por la fabrica de Izhevsk, se basa en los mecanismos del AK-74, por lo que la mayoría de las piezas son intercambiables. En el proceso de adaptar el rifle a un calibre de pistola, el método operativo se cambió a retroceso directo. Equipado con un cargador compacto de alimentación helicoidal y una cola de milano.</text>
+  </string>
+  <string id="gunsl_wpn_p90">
+    <text>FN P90</text>
+  </string>
+  <string id="gunsl_wpn_p90_descr">
+    <text>Subfusil de fabricación belga, desarrollado a mediados de la década de 1990 por FN Herstal. Diseñado inicialmente para la tripulación de tanques y vehículos de combate. Se desarrolló un tipo de munición específica para esta arma: SS190 5.7x28 mm, que tiene una alta penetración y una baja probabilidad de rebote.</text>
+  </string>
+  <string id="gunsl_wpn_mp5">
+    <text>HK MP5</text>
+  </string>
+  <string id="gunsl_wpn_mp5_descr">
+    <text>Subfusil desarrollado en la década de 1960 por HK. Este subfusil se ha hecho popular en todo el mundo gracias a su fiabilidad, sencillez de manejo y precisión. Durante las últimas décadas, el MP5 ha sido utilizado por fuerzas especiales y unidades de policía de todo el mundo. Dada su abundancia en el mercado negro global, no es de extrañar que haya acabado en la Zona.</text>
+  </string>
+  <string id="gunsl_wpn_ump45">
+    <text>HK UMP45</text>
+  </string>
+  <string id="gunsl_wpn_ump45_descr">
+    <text>Este subfusil se desarrolló en la década del 90 como una adición a la familia de subfusiles MP5. El objetivo del desarrollo fue un arma de fuego de corto alcance moderna: más potente que un subfusil convencional, con una alta cadencia de disparo y una buena precisión.</text>
+  </string>
+  <string id="gunsl_wpn_mp5sd">
+    <text>HK MP5SD</text>
+  </string>
+  <string id="gunsl_wpn_mp5sd_descr">
+    <text>Variante del subfusil MP5 que cuenta con un supresor integrado. Este subfusil se ha hecho popular en todo el mundo gracias a su fiabilidad, sencillez de manejo y precisión. Durante las últimas décadas, el MP5 ha sido utilizado por fuerzas especiales y unidades de policía de todo el mundo. Dada su abundancia en el mercado negro global, no es de extrañar que haya acabado en la Zona.</text>
+  </string>
+  <string id="gunsl_wpn_l85">
+    <text>L85A2</text>
+  </string>
+  <string id="gunsl_wpn_l85_descr">
+    <text>Rifle de asalto británico en configuración bullpup. La variante L85A1 estaba plagada de numerosos problemas de confiabilidad, por lo que se contrató a HK para mejorar el arma. En el proceso se cambiaron muchas piezas y al arma se le asignó la denominación L85A2.</text>
+  </string>
+  <string id="gunsl_wpn_lr300">
+    <text>LR-300</text>
+  </string>
+  <string id="gunsl_wpn_lr300_descr">
+    <text>Un nuevo hito en el desarrollo de esta conocida gama estadounidense. Se han aplicado cambios en la mitad superior de la pieza de acero formada por el cañón, el tubo de gas y el mecanismo de cerrojo, reduciendo el peso del arma y mejorando su ergonomía y sistema de gas. Es muy fiable, aunque dada su propensión a ensuciarse no es apropiada para las difíciles condiciones de la Zona.</text>
+  </string>
+  <string id="gunsl_wpn_sig550">
+    <text>SIG 550</text>
+  </string>
+  <string id="gunsl_wpn_sig550_descr">
+    <text>Fusil de asalto suizo relativamente nuevo que pese a no tener un diseño muy "moderno" ha despertado admiración en todo el mundo. Las armas de este tipo se encuentran entre las mejores de su clase, y son conocidas por su fiabilidad, precisión y sencillez de manejo. Aunque estos rifles son difíciles de encontrar en la Zona, los stalkers más experimentados pagan grandes sumas de dinero por encargarlos al exterior.</text>
+  </string>
+  <string id="gunsl_wpn_sig552">
+    <text>SIG SG-552 Commando</text>
+  </string>
+  <string id="gunsl_wpn_sig552_descr">
+    <text>Variante compacta del rifle de asalto suizo SIG SG-550, diseñado para las fuerzas especiales de la policía. A diferencia del SG-550, el resorte de retroceso reposa sobre el receptor inferior en lugar de estar envuelto alrededor del pistón de gas. Al igual que el modelo base, el SG-552 es bastante confiable y preciso, por lo que es muy popular entre las agencias gubernamentales, como el SWAT o el SAS británico.</text>
+  </string>
+  <string id="gunsl_wpn_sig552_strelok">
+    <text>SIG SG-552 de Strelok</text>
+  </string>
+  <string id="gunsl_wpn_sig552_strelok_descr">
+    <text>Fusil de asalto SGI-5k de factura suiza. Aunque no es nuevo, resulta evidente que su anterior propietario lo ha cuidado mucho: el arma ha sido desmontada y vuelta a montar con todos los componentes mejorados y ajustados para optimizar su rendimiento y aumentar su poder de detención. Han grabado la letra "S" en la culata, junto a 16 muescas.</text>
+  </string>
+  <string id="gunsl_wpn_g36">
+    <text>HK G36</text>
+  </string>
+  <string id="gunsl_wpn_g36_descr">
+    <text>Recién llegado a la familia de los fusiles de asalto occidentales, que se distingue de los modelos automáticos anteriores con mecanismos de cerrojo semiabierto; éste es más parecido a los fusiles de asalto estadounidenses accionados por gas y posee un sistema de pistones por gas de recorrido corto. Estos cambios hacen que el fusil sea el ejemplo perfecto de arma moderna: ligera, fiable y ergonómica. </text>
+  </string>
+  <string id="gunsl_wpn_fn2000">
+    <text>FN F2000</text>
+  </string>
+  <string id="gunsl_wpn_fn2000_descr">
+    <text>Esta arma de aspecto futurista con el cargador detrás de la empuñadura es en realidad un sistema modular fabricado en serie, compuesto por un sistema informático de control de disparos y un lanzagranadas de 40 mm. Pese a su aspecto voluminoso es muy ergonómica, fácil de usar y goza de buenas prestaciones.</text>
+  </string>
+  <!-- Heavy -->
+  <string id="gunsl_wpn_pkm">
+    <text>RP-74</text>
+  </string>
+  <string id="gunsl_wpn_pkm_descr">
+    <text>Esta ametralladora de cinta es una modificación portátil con un complejo sistema de alimentación de dos fases. A pesar de su baja precisión y excesivo peso, tiene varios admiradores en la Zona. Se utiliza principalmente para rechazar fuerzas enemigas en conflictos entre facciones y para despejar guaridas de mutantes.</text>
+  </string>
+  <string id="gunsl_wpn_pkm_zulus">
+    <text>RP-74 de Zulu</text>
+  </string>
+  <string id="gunsl_wpn_pkm_zulus_descr">
+    <text>El anterior propietario de esta arma fue Zulu. Presenta ciertas mejoras, como un cargador de más capacidad y un mecanismo retráctil particularmente fiable. Estas modificaciones han aumentado el peso del arma, pero eso no supuso ningún problema para su anterior propietario.</text>
+  </string>
+  <string id="gunsl_wpn_rg6">
+    <text>RG-6</text>
+  </string>
+  <string id="gunsl_wpn_rg6_descr">
+    <text>Este lanzagranadas con aspecto de revólver está provisto de seis cañones de avancarga y ánima estriada, idénticos al de los lanzagranadas acoplados. El tambor también es de avancarga. Muy utilizado para neutralizar posiciones de fuego enemigas; en campo abierto, también se usa para atacar posiciones fijas artilladas o eliminar monstruos especialmente resistentes.</text>
+  </string>
+  <string id="gunsl_wpn_rpg7">
+    <text>RPG-7V</text>
+  </string>
+  <string id="gunsl_wpn_rpg7_descr">
+    <text>Este lanzagranadas de los 60 llegó a la Zona procedente de polvorines militares. Es un lanzador de disparo único y ánima lisa, sin retroceso y con tubo de lanzamiento de retrocarga. Aunque no suele ser muy usada por los stalkers debido a su tamaño y peso, dado su poder de destrucción y su facilidad de uso, ha encontrado admiradores en la Zona.</text>
+  </string>
+  <string id="gunsl_wpn_rgm-40">
+    <text>RGM-40 Kastet</text>
+  </string>
+  <string id="gunsl_wpn_rgm-40_descr">
+    <text>Lanzagranadas compacto ruso de un solo disparo. Se trata de un lanzagranadas acoplable GP-30 que posee un tubo de acero con una culata retráctil en lugar de monturas de acoplaje a rifle. Es utilizado principalmente por las fuerzas del orden para disparar munición no letal, pero los proyectiles VOG-25 y VOG-25P convencionales también pueden ser disparados.</text>
+  </string>
+</string_table>

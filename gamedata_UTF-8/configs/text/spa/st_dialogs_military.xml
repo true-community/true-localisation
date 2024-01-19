@@ -1,0 +1,827 @@
+<string_table>
+  <string id="mil_trader_start_dialog_0_1">
+    <text>¡Ven aquí, no seas tímido!</text>
+  </string>
+  <string id="mil_trader_start_dialog_0_2">
+    <text>¡Ven aquí, stalker! ¡Elige lo que quieras!</text>
+  </string>
+  <string id="mil_trader_start_dialog_0_3">
+    <text>¡Elige lo que quieras de mis mercancías, stalker!</text>
+  </string>
+  <string id="mil_trader_start_dialog_1_1">
+    <text>¡Oh, has vuelto! ¿Qué traes? ¿Trajiste el efectivo?</text>
+  </string>
+  <string id="mil_trader_start_dialog_1_2">
+    <text>Hola. No te he visto aquí antes, ¿tienes algo para compartir?</text>
+  </string>
+  <string id="mil_trader_actor_break_dialog_0_1">
+    <text>Nos vemos.</text>
+  </string>
+  <string id="mil_trader_actor_break_dialog_0_2">
+    <text>Hasta la próxima.</text>
+  </string>
+  <string id="mil_trader_actor_break_dialog_0_3">
+    <text>Adiós.</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_0">
+    <text>¿Tienes alguna información para intercambiar?</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_1">
+    <text>¡Entra, stalker! ¡Elige lo que quieras! ¿O tienes algo que quieras descargar y vender?</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_2">
+    <text>Estoy buscando a un stalker llamado Chord. ¿Lo conoces?</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_3">
+    <text>¡Claro que conozco al tipo! ¡Me debe dinero! De hecho, lo estoy buscando. Me tomó prestadas tres cajas de munición y se fue a saber a dónde.</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_4">
+    <text>Veo que remamos en la misma dirección. Dime dónde puedo encontrarlo, y seré tu prestamista.</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_5">
+    <text>¡Muy bien, probémoslo! Él y su grupo hicieron un pequeño refugio aquí cerca. Una vez que salgas del pueblo, cruza la carretera y verás un carro. Ahí podrían estar. ¡Ve y recuérdales amablemente sobre su deuda!</text>
+  </string>
+  <string id="mil_trader_second_actor_first_dialog_6">
+    <text>Entendido.</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_0">
+    <text>¡Hola, detective! Me sorprende que hayas encontrado el rastro tan rápido.</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_1">
+    <text>¿Eres tú? Eres uno de los que fueron vistos en la instalación científica...</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_2">
+    <text>Correcto. Con gran diligencia me buscaste, y aquí estoy ante ti. ¿Qué sigue?</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_3">
+    <text>¿Dónde está el profesor?</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_4">
+    <text>¿El profesor? En algún lugar mucho mejor que ese antro tuyo. Tú también harías bien en elegir el lado correcto mientras aún tienes la oportunidad.</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_5">
+    <text>¿El lado correcto? ¡Eres un asesino! Mataron a personas en este campamento y al stalker en el Cordón. Y al profesor... ¿lo secuestraste, verdad?</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_6">
+    <text>¿Secuestrar? ¡Ja, ja! Se alejó de ti a la velocidad de la luz. Sabía lo ingrato que es trabajar para el gobierno.</text>
+  </string>
+  <string id="mil_merc_leader_start_dialog_7">
+    <text>¿Quiénes son ustedes?</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_0">
+    <text>¿Cómo te va, comandante?</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_1">
+    <text>No me llames "comandante". Nunca terminamos nuestra conversación. ¿Quién eres y dónde está el profesor Dubinin?</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_2">
+    <text>Explicarlo llevaría demasiado tiempo para mi gusto, así que dejemos eso de lado mientras los bastardos detrás de esto sigan respirando. ¿Todavía necesitas tus cosas, verdad?</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_3">
+    <text>¿Qué estás sugiriendo?</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_4">
+    <text>Vamos a encontrar a esos idiotas y hacer una pequeña fiesta de reunión. Vamos, mueve esas piernas.</text>
+  </string>
+  <string id="mil_merc_leader_after_katakomb_dialog_5">
+    <text>Estás en mi mira, solo para que lo sepas.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_1_1">
+    <text>Me temo que no va a volver. Chord y su grupo están muertos.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_1_2">
+    <text>Estuve en el campamento de Chord. Parece que lo conoces... o, mejor dicho, *conocías*. Chord y su grupo están muertos.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_2">
+    <text>¡Maldición!</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_3">
+    <text>Los mataron. Rápido y en silencio. No tenían idea de lo que les esperaba.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_4">
+    <text>¿Por qué harían eso? Qué lástima por los chicos... Me ayudaron a llevar a cabo mi trabajo y a traer botín. Mierda, que descansen en paz con todos los artefactos de la Zona...</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_5">
+    <text>Resulta que no sé nada de estas partes. ¿Qué hay con esos mercenarios cercanos? Seguro que tienen muchos nervios.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_6">
+    <text>Ah, sí, los mercenarios... Lo dijiste bien, ¡tienen agallas! Mira, ¿ves mi mano? Yo tampoco. Eso es obra de ellos, esos bastardos.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_7">
+    <text>¿En serio? ¿Qué pasó?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_8">
+    <text>Vinieron a ver mis mercancías hace un tiempo, y tuvimos algunas desavenencias sobre el precio. ¡Pensaron que los iba a estafar! Pero no tengo nada que ocultar, mi negocio es justo y claro... Luego veo que no escasean de dinero, así que les tiro un par de miles más. Entonces, de repente, sujetan mi mano y ¡zas! Ahora la tienen colgando en su campamento como un recuerdo...</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_9">
+    <text>¿Has oído hablar de sus "juegos"?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_10">
+    <text>Sí, he oído todo lo que hay que saber. Para tu información, se apresuraron a decirme que más partes de mi cuerpo colgarían en su campamento si le contaba a alguien. Ah, demonios, ya te he contado lo suficiente...</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_11">
+    <text>No te preocupes. No los verás más en el campamento. Eligieron al hombre equivocado para jugar.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_12">
+    <text>¿Estás bromeando? ¡Vaya, hiciste feliz a este viejo comerciante! No es bueno subir el ánimo después de que la gente muera, pero sería una lástima no brindar por eso. ¿Qué dices?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_13">
+    <text>Eso seguro que daría en el blanco.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_14">
+    <text>Además, ¿qué querías del grupo de Chord? ¿No eres tú quien los eliminó?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_15">
+    <text>¿Yo? Ni hablar. ¿Parezco un terminator?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_16">
+    <text>¿Entonces qué les pasó?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_17">
+    <text>Fueron asesinados por las personas por las que vine en primer lugar. ¿No has visto grupos de personas armadas hasta los dientes en estas áreas? Sus uniformes no se parecen a nada en esta Tierra.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_18">
+    <text>No los he visto personalmente, pero los lugareños han estado hablando al respecto. Por otro lado, ves todo tipo de personas por aquí. ¿Qué hizo Chord para caerles mal?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_19">
+    <text>Están escondidos, y Chord los vio y lo informó. Lástima que pagó con su vida. ¿Dónde podrían estar? ¿Quizás rompieron el campamento en algún lugar?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_20">
+    <text>¿Aquí? Lo dudo. Tienes a Libertad en la Barrera, los almacenes han estado abandonados por quién sabe cuánto tiempo, y el pueblo está habitado por chupasangres. Realmente no tienes lugares más apartados que esos. No son de por aquí, eso seguro.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_21">
+    <text>¿Qué pasa con los almacenes? ¿Libertad solía tener su base allí, verdad?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_22">
+    <text>Consolidaron sus fuerzas en la Barrera, y ahí es donde todos se han atrincherado. En cuanto a los almacenes, algo realmente extraño empezó a aparecer allí. Yo mismo no lo sé, pero los stalkers hacen lo posible por evitar ese lugar. En primer lugar, no tienen negocios allí, y en segundo lugar, la gente ha estado viendo cosas allí... fantasmas o espectros o lo que sea. Podría ser un controlador, quién sabe.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_23">
+    <text>¡De acuerdo, gracias por la información!</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_24">
+    <text>Espera un momento. ¿Quién eres *tú*? ¿Qué asunto tienes con esos chicos soldados?</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_25">
+    <text>Solo soy un tipo con un trabajo. En una misión para encontrarlos, y tengo la intención de completarla.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_26">
+    <text>Ya veo... un freelancer. Bueno, si buscas más trabajo en mi tienda, avísame. Tus habilidades serían muy apreciadas.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_27">
+    <text>Entendido. Pero primero necesito terminar mi propio asunto. ¿Hay algún lugar donde pueda echarme una siesta? Estoy agotado en este momento.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_28">
+    <text>No hay problema. Hay un par de lugares aquí en el pueblo donde puedes descansar. Los centinelas te mantendrán resguardado.</text>
+  </string>
+  <string id="mil_trader_second_actor_after_katakomb_dialog_29">
+    <text>¡Gracias!</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_0">
+    <text>¿Cómo te sientes? Pareces cansado.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_1">
+    <text>No es nada, estoy bien. ¿Tuviste algún problema en el camino aquí?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_2">
+    <text>Todo salió bien. Decidimos evitar el Bar, sin embargo. Así que esto significa que has sido tema de conversación en la red de stalkers. Lástima por Koval.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_3">
+    <text>Sin él, mi cadáver habría sido el tema de conversación y probablemente no habríamos rastreado al profesor.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_4">
+    <text>¿Qué averiguaste?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_5">
+    <text>No mucho. Mataron al stalker que trabajaba de manera no oficial con el profesor. Debe haber sabido algo importante o se cruzó con ellos. Hace unas horas, tuve la oportunidad de encontrarme con uno de esos tipos, y me dijo que sería mejor que renunciáramos... o terminaríamos igual que él.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_6">
+    <text>¿Y cuáles son tus pensamientos?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_7">
+    <text>Nuestra misión es encontrar al profesor Dubinin. No sabemos quién nos está amenazando ni cuántos son, ni sabemos si sus amenazas son creíbles, pero nuestro objetivo sigue en pie.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_8">
+    <text>¿Qué sabemos sobre Dubinin? ¿Fue secuestrado?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_9">
+    <text>Lo dudo mucho. Existe la posibilidad de que haya abandonado la instalación voluntariamente. Solo tenemos que averiguar por qué...</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_10">
+    <text>¿Cuál es el plan?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_11">
+    <text>Estamos cerca de nuestros objetivos. Solo tenemos que encontrar la zona donde podrían haber acampado.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_12">
+    <text>Podría saber cómo. Deben tener alguna frecuencia de radio. Tengo equipo que podría permitirnos espiarlos, solo tenemos que encontrar la señal correcta y rastrear su origen. Aunque necesitamos encontrar un punto alto para maximizar el radio.</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_13">
+    <text>Hay una base militar abandonada no muy lejos de aquí. Dentro hay torres de vigilancia. ¿Servirá eso?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_14">
+    <text>Vale la pena intentarlo. ¿Nos estamos moviendo?</text>
+  </string>
+  <string id="mil_soldier_sky_first_dialog_15">
+    <text>Nos estamos moviendo, pero ten cuidado allí. No hace mucho tiempo, los almacenes eran controlados por luchadores de Libertad, pero abandonaron la base apresuradamente. No solo eso, sino que los stalkers locales también hacen lo posible por mantenerse alejados. Hay algo que no está bien allí, así que mantente alerta.</text>
+  </string>
+  <string id="mil_soldier_sky_army_base_tower_dialog_0">
+    <text>¡Uf! Parece que lo logramos!</text>
+  </string>
+  <string id="mil_soldier_sky_army_base_tower_dialog_1">
+    <text>Necesitamos apurarnos antes de que esos fantasmas nos den más de lo que esperamos.</text>
+  </string>
+  <string id="mil_soldier_sky_army_base_tower_dialog_2">
+    <text>Este dispositivo aquí necesita ser colocado en una torre. Captaré la señal desde abajo mientras nuestros chicos nos cubren, ¿de acuerdo?</text>
+  </string>
+  <string id="mil_soldier_sky_army_base_tower_dialog_3">
+    <text>Suena como un plan.</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_0">
+    <text>¡Lo logramos!</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_1">
+    <text>Gracias a Dios. ¿Alguna noticia? Escuché algunos números mientras estaba en la torre.</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_2">
+    <text>¡El dispositivo logró interceptar algunas señales! Algunas obviamente pertenecen a los locales, pero una de ellas -una muy fuerte- se transmite a través de un canal encriptado. Su origen está en algún lugar cerca del helicóptero estrellado cerca del pueblo del comerciante.</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_3">
+    <text>¡Entonces vale la pena ir allí! ¿Y los números en las señales de radio? ¿Podemos descifrar su significado?</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_4">
+    <text>No lo sé todavía. Parece una estación de números. Tengo algo de experiencia con eso de cuando era estudiante. Definitivamente me llevará algún tiempo.</text>
+  </string>
+  <string id="mil_soldier_sky_after_army_base_dialog_5">
+    <text>De acuerdo, lo dejaremos para después. Sigamos adelante.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_0">
+    <text>Aquí está. Hay suficientes emisiones psi aquí para causar daño cerebral a mi difunto abuelo.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_1">
+    <text>Veo algo en el helicóptero. Parece una entrada bien cubierta.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_2">
+    <text>Definitivamente. Pero nuestros dispositivos están volviéndose locos por las emisiones psi, así que no hay forma de que lleguemos allí. Unos pasos más hacia ese helicóptero y nuestros cerebros serán puré.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_3">
+    <text>¿Alguna idea?</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_4">
+    <text>Bueno, seguro que no llegaremos a ninguna parte... al menos sin protección especial.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_psy_zone_dialog_5">
+    <text>Tal vez Bison, el comerciante, pueda darnos una pista, ya que vive justo al lado de ese lugar. ¡Al pueblo!</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_0">
+    <text>Hola. Necesito información urgente.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_1">
+    <text>¡Oh, tú otra vez! ¿Alguna suerte con la aguja en tu pajar?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_2">
+    <text>Esa aguja no es tan pequeña como podrías pensar. En cuanto al pajar, esperaba que pudieras ayudarme a descubrir más al respecto.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_3">
+    <text>Más vale que no pierda mi otra mano si abro la boca al respecto. Estas personas mataron a Chord y su grupo, y esto está lejos de ser su primer día en la Zona. No tengo ninguna posibilidad de arriesgar mi vida jugando a tus juegos, solo soy un comerciante.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_4">
+    <text>Si solo eres un comerciante, ¿por qué vendes suministros en la Zona en lugar de vender melones en el mercado? Estás indocumentado, al igual que muchos otros aquí. Proporcióname ayuda y podrás comerciar aquí tanto como quieras; el ejército no te hará daño.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_5">
+    <text>Lo sabía, estás con el ejército. Cualquiera podría decirlo a la legua. ¿Debería tener miedo de ti? Estoy preparado, sabía a quién pagar para que miraras hacia otro lado.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_6">
+    <text>A quien hayas pagado, te garantizo que negarte a cooperar conmigo revocará todos los acuerdos. Todo lo que me cuentes quedará entre nosotros.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_7">
+    <text>Entonces, ¿qué es lo que buscas?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_8">
+    <text>El helicóptero cerca del pueblo. ¿Qué sabes al respecto?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_9">
+    <text>Solo un helicóptero común que se estrelló al suelo. Ha estado allí durante siglos. Y ni siquiera pienses en acercarte, o tu cabeza podría convertirse en una tetera.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_10">
+    <text>¿Alguno de los stalkers ha intentado acercarse a él?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_11">
+    <text>¿Por qué lo harían? Los menos astutos aquí son diezmados en el Cordón o en la Basura. Los que han llegado hasta aquí tienen la inteligencia para no aventurarse en una fuente psi.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_12">
+    <text>Necesitamos examinar esa área. ¿Quizás las emisiones disminuyen de vez en cuando?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_13">
+    <text>Nunca he oído hablar de nada así.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_14">
+    <text>Bueno, ¿tienes al menos alguna idea? Obtendrás una compensación justa, astuto.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_15">
+    <text>No tengo ideas, pero te contaré sobre alguien que está realmente interesado en cosas como esa. Es hábil y un auténtico cerebrito, ¡pero vaya, se ofende fácilmente! Solía pasar tiempo con nosotros en el pueblo, arreglando equipos y electrónicos para los stalkers. Después de eso, tuvimos una pequeña disputa, y ahora se exilió de nuestra comunidad. ¿Qué te parece esto: te daré el número de identificación de su PDA, y tú lo convences de volver al pueblo. Dile que estoy listo para hacer un trato agradable. ¿Suena bien?</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_16">
+    <text>Suena bien.</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_17">
+    <text>¡Tenemos un trato, entonces! El número de ID está en tu PDA. ¡Buena suerte!</text>
+  </string>
+  <string id="mil_trader_after_army_base_dialog_18">
+    <text>Gracias. Me voy.</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_0">
+    <text>¿Qué hay de nuevo?</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_1">
+    <text>Hay un hombre que necesitamos encontrar y que nos ayudará a llegar al helicóptero. Tengo el número de identificación de su PDA. ¿Puedes rastrearlo?</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_2">
+    <text>Por supuesto. Dámelo.</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_3">
+    <text>Excelente. Esto es lo que haremos: quédate en el pueblo e intenta descifrar las señales. Si interceptas algo más, avísame por radio. Vuslych se quedará contigo mientras Hottab se encarga de vigilar el helicóptero, necesitamos estar al tanto de cualquier movimiento alrededor de él.</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_4">
+    <text>¿Y tú? ¿Vas solo?</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_5">
+    <text>Tener a todo nuestro escuadrón moviéndose por la zona es demasiado arriesgado. Ya hemos hecho suficiente ruido, y pronto todos sabrán que estamos aquí. Es por eso que iré solo.</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_6">
+    <text>Bien. Estoy captando la señal de su PDA. Está en el pueblo abandonado al otro lado de la carretera... ¡el mismo que los locales dicen que está infestado de chupasangres! ¿Estás seguro de que estarás bien?</text>
+  </string>
+  <string id="mil_soldier_sky_stalker_technic_info_dialog_7">
+    <text>Estaré bien. Lo que importa es encontrar a ese stalker en una sola pieza. Mejor me pongo en movimiento.</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_0">
+    <text>¡Al menos alguien está vivo!</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_1">
+    <text>¿Qué estás haciendo allí?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_2">
+    <text>Sí, mira, bajé a este sótano para limpiarlo de botín. ¡Bromas! ¡Quedé atrapado aquí mientras huía de un chupasangre!</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_first_dialog_3">
+    <text>Está bien. Quédate tranquilo mientras trato con los chupasangres, o me pondrán difícil sacarte de aquí. Necesito pensar en algo.</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_1">
+    <text>¿Terminaste con los chupasangres ya?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_2">
+    <text>¿Los mataste? ¿Los chupasangres?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_0_3">
+    <text>¿Están muertos los chupasangres?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_1">
+    <text>Todavía no. Espera un poco.</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_2">
+    <text>Aún no. Espera.</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_alive_second_dialog_1_3">
+    <text>Todavía no. Quédate tranquilo un poco más.</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_0">
+    <text>¡Finalmente, otra alma por aquí!</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_1">
+    <text>¿Qué estás haciendo allí?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_2">
+    <text>Sí, mira, bajé a este sótano para limpiarlo de botín. ¡Bromas! ¡Quedé atrapado aquí mientras huía de un chupasangre!</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_first_dialog_3">
+    <text>¿Cómo te saco de ahí entonces...?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_second_dialog_0">
+    <text>Entonces, ¿mataste a esos monstruos?</text>
+  </string>
+  <string id="mil_stalker_technic_village_bloodsuckers_compl_second_dialog_1">
+    <text>Parece que sí. ¿Cómo te saco de ahí?</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_0_1">
+    <text>¿Dónde está la escalera, amigo?</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_0_2">
+    <text>Ya empiezo a sentirme mal, hombre. ¡Trae la escalera!</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_0_3">
+    <text>¿Dónde está la escalera, stalker? ¡Por favor, sácame de aquí!</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_1_1">
+    <text>No te preocupes. Estoy a punto de conseguirla.</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_1_2">
+    <text>Cálmate. La encontraré.</text>
+  </string>
+  <string id="mil_stalker_technic_village_wait_ladder_dialog_1_3">
+    <text>No te preocupes. Encontraré la escalera ahora.</text>
+  </string>
+  <string id="mil_stalker_technic_village_ladder_compl_dialog_0">
+    <text>¡Finalmente, entrégame eso!</text>
+  </string>
+  <string id="mil_stalker_technic_village_ladder_compl_dialog_1">
+    <text>Atrás. La estoy bajando.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_0">
+    <text>¡Gracias, stalker! Pensé que estaba acabado sin comida ahí dentro. Rara vez alguien entra en este pueblo.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_1">
+    <text>¿Qué te trajo *a ti* aquí?</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_2">
+    <text>¿Ves eso? ¿Ves la luz que brilla, la nevera que funciona, la radio que chisporrotea?</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_3">
+    <text>¡Es difícil no notarlo! Hay una luz parpadeante sobre todo el pueblo.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_4">
+    <text>Exacto, y estoy aquí para averiguar cómo. Este equipo ha estado aquí durante quién sabe cuánto tiempo, y recientemente comenzó a funcionar de repente.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_5">
+    <text>Con todos los chupasangres aquí, este no es precisamente el lugar para experimentos científicos. Uno de ellos parecía conducir electricidad.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_6">
+    <text>Sí, ese es el que estaba persiguiendo cuando entré en la casa. ¿Es seguro afuera? ¿Los eliminaste a todos?</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_7">
+    <text>Eliminé algunos de ellos, pero estoy seguro de que hay más cerca.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_8">
+    <text>Ví un transformador centelleante en el patio, y creo que es lo que genera la energía. ¿Me ayudarás a llegar hasta él? ¡Te lo compensaré!</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_9">
+    <text>¿Cuál es tu nombre?</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_10">
+    <text>Marmota.</text>
+  </string>
+  <string id="mil_stalker_technic_village_after_under_dialog_11">
+    <text>Bien, Marmota, me has convencido. Adelante.</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_0">
+    <text>¡Eso fue algo realmente asombroso! ¿Alguna vez has visto algo así?</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_1">
+    <text>Desde luego que no. ¿Este artefacto alimentaba toda la electrónica del pueblo?</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_2">
+    <text>Como viste, todo se oscureció cuando lo saqué. Ahora no tendré problemas de electricidad en mi choza.</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_3">
+    <text>¿Tienes una choza?</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_4">
+    <text>¡Claro que sí! No me quedo cerca de la granja con ese estafador.</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_5">
+    <text>¿Te refieres al comerciante?</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_6">
+    <text>Así es. Entonces, ¿salimos de aquí, eh? Los lugareños se pondrán sospechosos sobre la electricidad que vuelve a fallar... Vamos a mi lugar, porque tu equipo está pidiendo a gritos reparaciones. ¡Considera eso mi muestra de agradecimiento!</text>
+  </string>
+  <string id="mil_stalker_technic_village_final_dialog_7">
+    <text>Tienes razón en eso. Vamos.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_0">
+    <text>¡Y aquí estamos!</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_1">
+    <text>¿En qué estabas pensando al hacer refugio aquí de todos los lugares?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_2">
+    <text>¿Qué? Es un buen lugar. Claro, el pantano apesta y todo, pero hay muchas minas alrededor para mantener alejados a los mutantes.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_3">
+    <text>¿No temes a otros stalkers?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_4">
+    <text>Al contrario: nadie merodea por aquí. Tienen miedo de lo que ha empezado a suceder en la base militar.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_5">
+    <text>¿Y tú *no* tienes miedo?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_6">
+    <text>Nunca voy allí. A veces, me tienta... Debe haber todo tipo de cosas útiles después de que el ejército y la Libertad se fueron, pero solo pensar en ir allí me da escalofríos. De todos modos, ¿quién eres? No te he visto por aquí antes.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_7">
+    <text>Soy un stalker. Me llamo Gorrión.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_8">
+    <text>Realmente no pareces un stalker.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_9">
+    <text>¿Cómo así?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_10">
+    <text>Cualquier stalker habría tenido los ojos brillando después de ver el artefacto que encontramos en el pueblo, ¡pero a ti ni siquiera parece importarte!</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_11">
+    <text>Estoy aquí por otros asuntos. Necesito llegar a la cabina del helicóptero que se estrelló no muy lejos de aquí, pero hay emisiones psi allí. No hay forma de pasar, y no tengo idea de cómo superarlas.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_12">
+    <text>Y aquí pensé que me encontraste en el pueblo por pura casualidad. ¿Qué, me buscabas?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_13">
+    <text>¿Eres un lector de mentes? ¡No puedo ocultarte nada!</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_14">
+    <text>No, es solo que todo esto parece un poco conveniente. Necesitaba tu ayuda, tú necesitabas la mía.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_15">
+    <text>Bueno, acabo de ayudarte. ¿Me ayudarás ahora?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_16">
+    <text>¿Cuál es tu negocio con ese helicóptero, de todos modos?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_17">
+    <text>Necesito encontrar la caja negra que estaba adentro.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_18">
+    <text>Ja. ¿Y qué caja negra es esa? Ese helicóptero se estrelló aquí en el siglo pasado. Desde entonces ha sido desmantelado.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_19">
+    <text>Para mí, vale la pena el riesgo. ¿Ayudarás?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_20">
+    <text>Necesitas protección. Puedo hacerla, incluso tengo algo de experiencia.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_21">
+    <text>¿Sí? ¿De dónde?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_22">
+    <text>Cuando el Escorpión aún estaba operativo, los stalkers solían venir a mí. Armábamos estos cascos especiales para abrirnos camino hasta Pripyat.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_23">
+    <text>¿Funcionó?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_24">
+    <text>No. Murieron cerca del Radar.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_25">
+    <text>Eso es muy alentador.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_26">
+    <text>Murieron, pero llegaron mucho más lejos que cualquiera sin protección. Las emisiones psíquicas alrededor del helicóptero no son tan fuertes, así que podría ser suficiente. Solo hay una cosa...</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_27">
+    <text>¿Qué es?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_28">
+    <text>Mis recursos son finitos. Para volver a armar un casco, necesitaré piezas de repuesto... y en este momento, me he quedado sin ellas.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_29">
+    <text>¿Dónde podemos encontrarlas?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_30">
+    <text>Técnicamente, podemos encontrarlas a unos trescientos metros de nosotros.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_31">
+    <text>¿La base militar?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_32">
+    <text>¡Bingo! He tenido mis ojos puestos en ella durante mucho tiempo, pero he estado temiendo ir solo, y nadie ha querido acompañarme.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_33">
+    <text>¿Entiendo que tienes un interés especial en eso?</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_34">
+    <text>Por supuesto que sí: piensa en todos los juguetes útiles que podríamos encontrar en su almacén. También necesito algo para ayudarme a escalar la escalera de los stalkers. Tengo que arreglar la casa en el pantano, plantar algunas minas más alrededor de los bordes, establecer una señal fuerte... El único lugar donde puedo encontrar todo eso es la base militar.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_35">
+    <text>Entonces, nos dirigimos en la misma dirección. Pero preferiría llevar a cabo la búsqueda lo antes posible.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_36">
+    <text>Podríamos salir ahora mismo.</text>
+  </string>
+  <string id="mil_stalker_technic_hut_start_dialog_37">
+    <text>Genial. ¡Vamos!</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_vodka_dialog_0">
+    <text>Ese fantasma parece miserable sin su bebida. Vamos, dale una botella y algo podría suceder.</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_vodka_dialog_1">
+    <text>Lo intentaré.</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_0">
+    <text>¿Todo claro? Ese fantasma frente al almacén me pone la piel de gallina...</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_1">
+    <text>Claro. ¿Qué tienes?</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_2">
+    <text>Creo que los materiales que encontramos serán suficientes para ensamblar un casco.</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_3">
+    <text>¿Solo un casco?</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_4">
+    <text>Solo uno. ¿Necesitas más?</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_5">
+    <text>Eso sería de mucha ayuda.</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_6">
+    <text>Si conoces alguna otra base militar embrujada en las cercanías, avísame y iremos juntos. ¡Luego haremos otro par de cascos!</text>
+  </string>
+  <string id="mil_stalker_technic_army_base_warehouse_final_dialog_7">
+    <text>Está bien, con uno es suficiente... Ahora salgamos de aquí.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_0">
+    <text>Estoy bastante seguro de que mis manos recuerdan qué hacer. Intentaré ensamblarlo ahora...</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_1">
+    <text>¿Tomará mucho tiempo?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_2">
+    <text>¿A dónde te apuras? Tu helicóptero no va a ninguna parte, ¡no te preocupes por eso!</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_3">
+    <text>Aun así.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_4">
+    <text>Unas horas. He hecho cinco piezas como esta antes. Tengo los esquemas, el resto es solo técnica.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_5">
+    <text>¿Estás seguro de que funcionará? Preferiría no tener mi cerebro chamuscado como tus otros amigos.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_6">
+    <text>¡Oye, ahora solo estás lastimando mis sentimientos! ¿Crees que decepcionaría al hombre que me salvó? Por cierto, gracias de nuevo por eso.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_7">
+    <text>Igualmente. ¿Cómo llegaste al trabajo técnico?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_8">
+    <text>Cuando llegué a la Zona, no sabía distinguir una llave de un destornillador. Después, conocí a un hombre en los pantanos. En ese momento, fui allí con algunos stalkers en busca de artefactos, y todos terminamos en problemas.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_9">
+    <text>¿Estás seguro de que hablar no te distraerá?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_10">
+    <text>No. Me gusta tener una conversación.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_11">
+    <text>Si lo dices así. Fuiste a los pantanos, ¿y luego qué?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_12">
+    <text>Bueno, en ese momento, nuestras mochilas estaban llenas de artefactos. Quiero decir, los pantanos no están tan bien cartografiados como el Cordón, así que tuvimos mucha suerte de conseguir cosas buenas.\n \nÍbamos caminando, silencio por todas partes. Luego, nuestras PDAs explotan con mensajes de que viene una emisión. Miramos alrededor, vimos alguna granja abandonada, y nos dirigimos allí para esperar la emisión. Casi lo logramos, pero luego algo salió corriendo de los juncos... ¡una manada de unos treinta jabalíes, nos barrían como una maldita ola! Les disparábamos, pero puedes imaginar que era tan bueno como inútil. No tengo idea de cuántos de esos cerdos me pisotearon, pero estaba en el suelo y no sentía nada, y luego me desmayé.\n \nCuando desperté, estaba en una cama. Piernas, manos, costillas, todo estaba roto, todo mi cuerpo me dolía, moratones de la cabeza a los pies. Solo respirar dolía. Más tarde descubrí que fui salvado por uno de los stalkers locales, que vivía solo en el borde de los pantanos.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_13">
+    <text>¿El Doctor de los Pantanos?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_14">
+    <text>Pensé lo mismo cuando desperté, pero no. Se presentó como Iván, aunque algo me dice que ese no es su nombre real. Dijo que me encontró medio muerto en la orilla del pantano. Me llevó a su campamento, curó mis heridas y escayoló mis fracturas. Me dice: "Tendrás que quedarte aquí durante un mes, te guste o no".</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_15">
+    <text>¿Y el resto?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_16">
+    <text>Nada ni nadie alrededor. Los demás se fueron, mi mochila con el botín se fue... Incluso mis armas se fueron. Me dejaron allí a merced de la Zona.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_17">
+    <text>Unos amigos de verdad que tenías allí.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_18">
+    <text>Nunca fueron mis amigos. Nos encontramos en el pueblo y acordamos ir tras el botín juntos, nada más.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_19">
+    <text>Pero deben haber tenido algo de humanidad. Dejarte en los pantanos para que mueras, eso es...</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_20">
+    <text>Mientras me recuperaba, también pensé en eso. Todos los días pensaba: "Tan pronto como pueda ponerme de pie, los encontraré y los llenaré de plomo". Pero Iván me hizo entrar en razón. Me dijo que, cuando me encontró, parecía una presa recién cazada... sin mencionar que la emisión se acercaba cada segundo. Si hubieran intentado salvarme, todos estaríamos acabados. La cuestión es que Iván me enseñó muchas cosas, como limpiar tu arma o remendar tu traje, incluso me enseñó algo sobre electrónica de radio. Todo lo que sé, se lo debo a Iván. No pasé un mes en ese campamento, como pensaba al principio, sino diez... pero que un hombre me enseñara tanto valió la pena las heridas que recibí.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_21">
+    <text>¿Y después de eso?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_22">
+    <text>Después de eso, volví al Cordón, a vivir la vida normal de stalker nuevamente. Un par de meses después, quise visitar a Iván, llevarle un poco de vodka y bocadillos, darle las gracias adecuadamente... pero, cuando llegué, su casa estaba vacía. Se fue. Nunca logré verlo de nuevo. Espero que esté vivo y bien. Si no fuera por él, tú y yo no estaríamos teniendo esta conversación.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_23">
+    <text>¿Cómo terminaste cerca de los almacenes, entonces?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_24">
+    <text>El comerciante local, Bisonte, decidió abrir un negocio aquí. Me invitó y me dijo: "Te daré un pequeño porcentaje si me ayudas a arreglar el equipo de los stalkers". Básicamente, quería tener su propio Bar, pero al norte de la Zona, para que los stalkers arreglaran sus cosas y compraran suministros. Sin embargo, no pasó mucho tiempo antes de que perdiera el control: solía ser bastante generoso con el dinero, pero al final llegó al punto de exigírmelo a mí. "No vayas a convertir tus reparaciones en un negocio. ¡Me dejas sin nada!" Le dije: "Que le den", y los dejé.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_25">
+    <text>Es justo. Él me pidió que hablara contigo sobre regresar.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_26">
+    <text>¡Oh, así que lo conoces! Puedes decirle que no hay forma de que regrese allí.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_27">
+    <text>Prometió trabajar contigo en términos mutuamente beneficiosos.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_28">
+    <text>Estoy bien donde estoy.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_29">
+    <text>Pero estás solo aquí. Hay stalkers en el campamento que pueden ayudarte si algo sucede.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_30">
+    <text>Ves, por eso fui a los almacenes: encontré algunas minas allí. Mañana lo configuraré todo, y nadie entrará en mi propiedad sin mi consentimiento. Solo después de eso le diré a los stalkers que puedo arreglar su equipo. Siempre habrá un cliente por estos lados.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_31">
+    <text>Como quieras. ¿Cómo va el ensamblaje?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_32">
+    <text>¡Solo un poco más! Por cierto, ¿quién eres? Debo haberte aburrido contándote mi vida.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_33">
+    <text>Para nada. Te lo diré si prometes guardar silencio.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_34">
+    <text>No soy un chismoso. No te preocupes por eso.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_35">
+    <text>Soy un stalker militar. Estoy en una misión aquí.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_36">
+    <text>¡Espera... ¿Eres un soldado?! </text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_37">
+    <text>No exactamente. Un stalker militar, como cualquier otro stalker, pero en un terreno más formal. No te preocupes, mis responsabilidades no incluyen buscar y capturar stalkers no documentados.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_38">
+    <text>Entonces, ¿qué haces?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_39">
+    <text>Los soldados ordinarios raramente se aventuran más allá del Cordón o las instalaciones científicas, y ahí es donde entramos nosotros. Debo decir que pareces bastante astuto, justo el tipo de hombre que necesitamos. Piénsalo: el salario es bueno. Podrás hacer tu cosa estando fuera de peligro.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_40">
+    <text>Mmm. Aprecio la oferta, pero...</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_41">
+    <text>Sea como sea, un gusto conocerte. Espero que nos veamos de nuevo.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_42">
+    <text>Yo también lo espero. Ahora, aquí está lo que has estado esperando. ¡Tómalo!</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_43">
+    <text>¿Funciona?</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_44">
+    <text>¡Funciona! Solo ten en cuenta que el casco se calienta rápidamente, así que no pases demasiado tiempo dentro de las emisiones psíquicas. Si empiezas a sentir dolor de cabeza, sal de allí al instante. No soy un maestro en mi oficio, pero debería darte el tiempo que necesitas para entender qué sucede con la cabina del helicóptero.</text>
+  </string>
+  <string id="mil_stalker_technic_psy_helm_final_dialog_45">
+    <text>Gracias. Es hora de que me vaya. ¡Cuídate, Marmota!</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_0">
+    <text>¿Alguna novedad?</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_1">
+    <text>Un artesano local me ensambló un casco psíquico. Necesito bajar mientras todavía estén allí y acabar con esto de una vez por todas.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_2">
+    <text>¿Solo uno? ¿Y nosotros? Ir allí solo es suicidio. ¡Ni siquiera conocemos sus números!</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_3">
+    <text>¿Tenemos opción? Escuchaste todo tú mismo. Ya saben que estamos aquí y ya se están preparando para largarse. Es ahora o nunca. Te quedas aquí, vigilas la zona y mantén el contacto si logras interceptar más conversaciones.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_4">
+    <text>Bien, está bien... ¿Estás realmente seguro de esto?</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_5">
+    <text>Sí. No esperé meses para una misión real solo para echarme atrás en el último momento.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_6">
+    <text>Solo asegúrate de no matarte si empiezas a oler algo quemándose. Si se van, los rastrearemos nuevamente. Solo asegúrate de no que te vuelen el trasero al infierno.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_7">
+    <text>Mira quién habla. ¿Quién fue el que quería seguir cuando asaltamos la central eléctrica, a pesar de mis órdenes?</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_8">
+    <text>Jajá. En ese entonces, yo era el que te escuchaba... y ahora te pido que me escuches a mí. Si te sientes superado, retrocede.</text>
+  </string>
+  <string id="mil_soldier_sky_helicopter_final_dialog_9">
+    <text>No iré de Rambo, pero tú y los demás deben mantener los ojos abiertos. Fui atacado hace varias horas, y podrían aparecer aquí también. ¡Hablaremos más tarde!</text>
+  </string>
+  <string id="mil_stalker_idle_dialog_0_1">
+    <text>¡Me alegra verte!</text>
+  </string>
+  <string id="mil_stalker_idle_dialog_0_2">
+    <text>¡Hola!</text>
+  </string>
+  <string id="mil_stalker_idle_dialog_0_3">
+    <text>Adelante. ¿Qué tienes?</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_0_1">
+    <text>Me alegra verte.</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_0_2">
+    <text>Vamos a oírlo, stalker.</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_0_3">
+    <text>Estoy escuchando, amigo.</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_1_1">
+    <text>Adiós.</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_1_2">
+    <text>Me voy.</text>
+  </string>
+  <string id="mil_stalker_technic_idle_dialog_1_3">
+    <text>Hasta la próxima.</text>
+  </string>
+</string_table>
