@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="gunsl_wpn_gauss_up_computer_name">
+    <text>Sistema de monitoreo</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_computer_descr">
+    <text>Este sistema de monitoreo es una computadora montada, que está integrada en el marco principal del arma. Un software monitorea continuamente el estado de cada mecanismo del arma y lo muestra en la pantalla. Gracias a esto se puede ajustar el comportamiento del arma de acuerdo a las preferencias del tirador. \n \n%c[01,255,128,0](Nota: para encender/apagar las funciones de la computadora use las teclas "Siguiente/anterior modalidad de disparo").</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_guard_name">
+    <text>Sistema "Snipe-Guard"</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_guard_descr">
+    <text>Este complejo software y hardware proporciona una adquisición automática del objetivo gracias a múltiples sensores de infrarrojos y si este estima que el disparo fallará, evita que el arma se dispare bloqueando el gatillo. El sistema está diseñado exclusivamente para uso antipersonal.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_safari_name">
+    <text>Sistema "Safari-Snipe"</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_safari_descr">
+    <text>Complejo software desarrollado para francotiradores militares experimentados, diseñado para situaciones en donde la fiabilidad del arma es crucial. Cuando se activa el sistema, el disparo se dispara cuando el punto de impacto estimado esta alineado con el objetivo adquirido o después de que se suelta el gatillo. Este método operativo permite reducir el efecto negativo de la incapacidad del sistema para adquirir un objetivo camuflado, ya que incluso si no pudo adquirir un objetivo, el arma se disparará cuando se suelte el gatillo. El sistema está disenado exclusivamente para uso antipersonal. \n \n%c[01,255,128,0](Nota: para encender/apagar las funciones de la computadora use las teclas "Siguiente/anterior modalidad de disparo).</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_ideal_name">
+    <text>Sistema "Ideal-M" complex</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_ideal_descr">
+    <text>Sistema de control de fuego inteligente altamente efectivo de operación continua. Complejo en su diseño, pero fácil de operar. Aprieta el gatillo y apunta al objetivo, el rifle hará el resto. Cuenta con una alta potencia de procesamiento de información, por lo que funciona rápidamente. Fue originalmente desarrollado para uso antipersonal, sin embargo, también puede adquirir con éxito objetivos materiales. Se demostró que el sistema aumenta la probabilidad de disparos exitosos incluso en novatos. \n \n%c[01,255,128,0](Nota: para encender/apagar las funciones de la computadora use las teclas "Siguiente/anterior modalidad de disparo).</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_provoda_name">
+    <text>Reemplazo de cableado</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_provoda_descr">
+    <text>Un cableado de cobre de mayor calidad con mayor conductividad aumenta la aceleración inicial del proyectil y la velocidad de salida.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_katushki_name">
+    <text>Bobinas de aceleración de baja resistencia</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_katushki_descr">
+    <text>Reduce la producción de calor del arma. Afecta positivamente la durabilidad y aumenta la velocidad de salida.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_compensator_name">
+    <text>Compensador de retroceso magnético</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_compensator_descr">
+    <text>Haciendo uso de la inducción electromagnética, el compensador genera una fuerza en la dirección inversa al impulso del retroceso, lo que hace que el disparo sea más cómodo.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_fast_conders_name">
+    <text>Capacitores de carga rápida</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_fast_conders_descr">
+    <text>Los capacitores acumulan una carga mucho más rapido, lo que aumenta significativamente la velocidad de disparo.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_ionistori_name">
+    <text>Supercapacitores</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_ionistori_descr">
+    <text>Reemplazar los capacitores estándar con supercondensadores tiene numerosos beneficios. En primer lugar, aumenta la vida útil y la fiabilidad del arma. Tambien aumentan la velocidad de salida y la potencia de frenado. Sin embargo, un disparo requiere más energía, por lo que se reduce el número de disparos realizados con una sola bateria.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_lowesr_name">
+    <text>Capacitores de baja ESR</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_lowesr_descr">
+    <text>Los capacitores con resistencia reducida y baja corriente de fuga aumentan el número de disparos realizados con una sola batería, lo que aumenta la vida útil del arma.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_zoom_name">
+    <text>Bloque de aumento óptico</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_zoom_descr">
+    <text>La instalación del bloque permite ajustar la ampliación del alcance.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_nv_name">
+    <text>Bloque fotomultiplicador</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_nv_descr">
+    <text>Con el bloque instalado, el tirador puede ajustar el contraste, lo que facilita el disparo en entornos con poca iluminación.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_kardan_ammo_name">
+    <text>Mecanismo de carga mejorado</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_kardan_ammo_descr">
+    <text>Mejora la fiabilidad y permite el uso de baterías caseras.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_priklad_weight_name">
+    <text>Culata ligera</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_priklad_weight_descr">
+    <text>Reduce el peso del arma, eso definitivamente es un buen cambio.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_priklad_ergonomics_name">
+    <text>Culata ergonómica</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_priklad_ergonomics_descr">
+    <text>Una culata mejorada reduce significativamente el retroceso percibido.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_tsevie_ergonomics_name">
+    <text>Guardamanos anatómico</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_tsevie_ergonomics_descr">
+    <text>Un nuevo guardamanos personalizado adaptado a las preferencias del tirador mejora el manejo.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_pokritie_name">
+    <text>Recubrimiento especial</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_pokritie_descr">
+    <text>La aplicación de una capa protectora especial a las partes móviles del arma evita la corrosión, reduce el desgaste y mejora la durabilidad.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_zoom_speed_name">
+    <text>Sistema de control digital de la mira</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_zoom_speed_descr">
+    <text>Controla el enfoque de la lente y el procesamiento digital de la imagen, aumenta la velocidad de enfoque durante el ajuste de la ampliación.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_magnetic_shield_name">
+    <text>Blindaje electromagnético</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_magnetic_shield_descr">
+    <text>Por extraño que parezca, pero gracias al blindaje electromagnético de la sección de potencia del arma, el número de averías relacionados a los disparos prácticamente se reduce a cero.</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_detector_name">
+    <text>Sistema de adquisión de objetivos</text>
+  </string>
+  <string id="gunsl_wpn_gauss_up_detector_descr">
+    <text>Un sistema de adquisición de objetivos integrado de última generación. El sistema permite detectar la mayoría de los objetivos camuflados bajo cualquier condición climática. Cuando se detecta un objetivo, el sistema lo identifica con un marco holográfico, informando al usuario de la presencia de un objetivo (incluso si el objetivo está fuera del campo de visión de la mira), facilitando así el apuntado. Adicionalmente puede detectar entre aliados y enemigos.</text>
+  </string>
+</string_table>

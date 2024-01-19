@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+  <string id="ui_gunsl_disassemble_button_hint">
+    <text>Obtener piezas de recambio</text>
+  </string>
+  <string id="ui_gunsl_disassemble">
+    <text>Desarmar</text>
+  </string>
+  <string id="ui_gunsl_disassemble_impossible">
+    <text>El técnico no está interesado en las piezas.</text>
+  </string>
+  <string id="ui_gunsl_disassemble_question">
+    <text>¿Entregar el artículo al técnico para su desarme? Esto podría reducir el precio de las reparaciones de objetos similares.</text>
+  </string>
+  <string id="ui_gunsl_disassemble_reward">
+    <text>El técnico está desea comprar este objeto. ¿Quieres venderlo por </text>
+  </string>
+  <string id="ui_gunsl_mechanic_needs_parts">
+    <text>El técnico carece de piezas de recambio para reparar el objeto.</text>
+  </string>
+  <string id="ui_gunsl_mechanic_wait_parts_for_discount">
+    <text>Puedes disminuir el precio de las reparaciones desarmando objetos similares para obtener piezas de recambio.</text>
+  </string>
+</string_table>

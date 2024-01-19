@@ -1,0 +1,614 @@
+<string_table>
+  <string id="st_new_achievement">
+    <text>Logro Desbloqueado</text>
+  </string>
+  <string id="st_general_in_item">
+    <text>OBJETO RECIBIDO</text>
+  </string>
+  <string id="st_general_in_items">
+    <text>OBJETOS RECIBIDOS</text>
+  </string>
+  <string id="st_general_in_money">
+    <text>DINERO RECIBIDO</text>
+  </string>
+  <string id="st_general_out_item">
+    <text>OBJETO PERDIDO</text>
+  </string>
+  <string id="st_general_out_items">
+    <text>OBJETOS PERDIDOS</text>
+  </string>
+  <string id="st_general_out_money">
+    <text>DINERO PERDIDO</text>
+  </string>
+  <string id="st_lock_save">
+    <text>¡No puedes guardar ahora!</text>
+  </string>
+  <string id="esc_start_show_mesto">
+    <text>CORDÓN, ZONA DE EXCLUSIÓN DE CHORNOBYL</text>
+  </string>
+  <string id="esc_start_show_date">
+    <text>JUNIO 4, 2013</text>
+  </string>
+  <string id="chapter_title">
+    <text>CAPÍTULO</text>
+  </string>
+  <string id="chapter_1">
+    <text>LLEGADA</text>
+  </string>
+  <string id="chapter_2">
+    <text>MÁS ALLÁ DEL CORDÓN</text>
+  </string>
+  <string id="chapter_3">
+    <text>VALLE DE BANDIDOS</text>
+  </string>
+  <string id="chapter_4">
+    <text>MAESTRO DEL SUBTERRÁNEO</text>
+  </string>
+  <string id="chapter_5">
+    <text>TRANSMUTACIÓN</text>
+  </string>
+  <string id="chapter_6">
+    <text>ARTEFACTO DE LA MUERTE</text>
+  </string>
+  <string id="chapter_7">
+    <text>EN LAS REDES DE LA ARAÑA</text>
+  </string>
+  <string id="chapter_8">
+    <text>CARA A CARA</text>
+  </string>
+  <string id="chapter_9">
+    <text>FIN DEL JUEGO</text>
+  </string>
+  <string id="esc_task_for_trailer_text">
+    <text>UN TIEMPO DESPUÉS</text>
+  </string>
+  <string id="esc_nora_dinamit_explode">
+    <text>Explosión en:</text>
+  </string>
+  <string id="st_ts_nosleep">
+    <text>¿Por qué dormir ahora? ¡Hora de moverse!</text>
+  </string>
+  <string id="esc_scients_message_forward_time">
+    <text>Pasaron 10 minutos.</text>
+  </string>
+  <string id="sr_lc_possible">
+    <text>MOVER A LA SIGUIENTE UBICACIÓN</text>
+  </string>
+  <string id="sr_lc_esc_to_gar_impossible">
+    <text>TODAVÍA HAY NEGOCIOS SIN TERMINAR EN CORDÓN</text>
+  </string>
+  <string id="esc_to_nsp_level_changer_disabled">
+    <text>ADELANTE ES TERRITORIO INEXPLORADO</text>
+  </string>
+  <string id="esc_to_mar_fake_level_changer_disabled">
+    <text>IR A LOS PANTANOS SOLO SIGNIFICA MUERTE</text>
+  </string>
+  <string id="labx18_lc_to_val_impossible">
+    <text>NO PUEDES IRTE AHORA</text>
+  </string>
+  <string id="agr_to_gar_level_changers_disabled">
+    <text>ACTUALMENTE NO DISPONIBLE</text>
+  </string>
+  <string id="esc_technic_repair_ar_compl">
+    <text>Terminé las reparaciones, podés recoger tu AK.</text>
+  </string>
+  <string id="default_clear">
+    <text>Despejado</text>
+  </string>
+  <string id="default_rain">
+    <text>Lluvia</text>
+  </string>
+  <string id="default_thunder">
+    <text>Truenos</text>
+  </string>
+  <string id="default_cloudy">
+    <text>Nublado</text>
+  </string>
+  <string id="weather_surge">
+    <text>¡Emisión!</text>
+  </string>
+  <string id="time_morning">
+    <text>Mañana</text>
+  </string>
+  <string id="time_day">
+    <text>Día</text>
+  </string>
+  <string id="time_evening">
+    <text>Tarde</text>
+  </string>
+  <string id="time_night">
+    <text>Noche</text>
+  </string>
+  <string id="weather_manager">
+    <text>clima</text>
+  </string>
+  <string id="esc_actor_message_not_pay_for_fuel">
+    <text>Escucha, hombre. El técnico quiere dinero por el gas. Yo no le voy a pagar. Mejor hazlo tú. Buena suerte.</text>
+  </string>
+  <string id="esc_stalker_car_message_help">
+    <text>¡Qué importa el gas! Ayuda ¡Los bandidos están por todos lados!</text>
+  </string>
+  <string id="esc_actor_message_for_help_stalker_car">
+    <text>Hijo de... Aguanta, estoy yendo.</text>
+  </string>
+  <string id="gar_jurok_sms_soldier">
+    <text>¡Hola amigo! Olvidé enviarte un mensaje ayer diciendo que escolté al soldado y obtuve una suma decente. Gracias por el consejo. ¡Te lo compensaré! ¡Hablamos más tarde!</text>
+  </string>
+  <string id="gar_stalker_medic_message_not_see_bloodsucker">
+    <text>¡Lo perdí! Parece que se hizo invisible... ¡Guíalo a mí rápido o estas muerto!</text>
+  </string>
+  <string id="gar_stalkers_meet_corpse_info">
+    <text>Información del cuerpo del stalker</text>
+  </string>
+  <string id="gar_actor_info_code">
+    <text>Código de Caja fuerte: 127625</text>
+  </string>
+  <string id="agr_diggers_safe_locked">
+    <text>Código Requerido</text>
+  </string>
+  <string id="safe_door_locked">
+    <text>Cerrado</text>
+  </string>
+  <string id="agr_diggers_safe_locked_2">
+    <text>Debería ocuparme de los demás para no llamar la atención</text>
+  </string>
+  <string id="agr_diggers_box_locked">
+    <text>Cerrado: Requiere llave</text>
+  </string>
+  <string id="labx18_monster_scene_door_tip">
+    <text>Algo está sosteniendo la puerta</text>
+  </string>
+  <string id="labx18_codedoor_locked">
+    <text>Código Requerido</text>
+  </string>
+  <string id="ts_build_sender">
+    <text>Overfirst</text>
+  </string>
+  <string id="ts_build_text">
+    <text>SIN TRADUCIR</text>
+  </string>
+  <string id="st_lchanger_disabled">
+    <text>Pasaje Cerrado</text>
+  </string>
+  <string id="st_lchanger_to_escape">
+    <text>Al Cordón</text>
+  </string>
+  <string id="st_lchanger_to_garbage">
+    <text>Al Vertedero</text>
+  </string>
+  <string id="st_lchanger_to_agroprom">
+    <text>A Agroprom</text>
+  </string>
+  <string id="st_lchanger_to_agroprom_underground">
+    <text>A las Catacumbas de Agroprom</text>
+  </string>
+  <string id="st_lchanger_to_darkvalley">
+    <text>Al valle Oscuro</text>
+  </string>
+  <string id="st_lchanger_to_labx18">
+    <text>Al Laboratorio X18</text>
+  </string>
+  <string id="level_changer_invitation">
+    <text>MOVER A LA SIGUIENTE UBICACIÓN</text>
+  </string>
+  <string id="esc_to_gar_level_changer_disabled">
+    <text>AÚN TIENES NEGOCIOS EN EL CORDÓN</text>
+  </string>
+  <string id="val_to_labx18_level_changer_disabled">
+    <text>NO PUEDES ENTRAR AL LABORATORIO AÚN</text>
+  </string>
+  <string id="agr_to_mar_level_changer_disabled">
+    <text>NO PUEDO ENCONTRAR EL CAMINO MÁS ALLÁ</text>
+  </string>
+  <string id="agr_to_und_level_changers_disabled">
+    <text>LA ZONA MÁS ADELANTE ES DEMASIADO PELIGROSA</text>
+  </string>
+  <string id="esc_technic_repair_groza_complete">
+    <text>Oye, stalker, ya terminé con tu rifle. Puedes venir a buscarlo.</text>
+  </string>
+  <string id="st_pda_change_spot_hint">
+    <text>Renombrar</text>
+  </string>
+  <string id="st_pda_add_spot">
+    <text>Poner una Marca</text>
+  </string>
+  <string id="st_pda_delete_spot">
+    <text>Borrar Marca</text>
+  </string>
+  <string id="kat_boss_note_text_1">
+    <text>¿Adivina quién es, cariño? ¡Así es, papá!</text>
+  </string>
+  <string id="kat_boss_note_text_2">
+    <text>Espero que te esté yendo bien.</text>
+  </string>
+  <string id="kat_boss_note_text_3">
+    <text>Escucha, papá tiene algo importante que decirte.</text>
+  </string>
+  <string id="kat_boss_note_text_4">
+    <text>Cuando regreses de la escuela, asegúrate de comer y hacer tu tarea.</text>
+  </string>
+  <string id="kat_boss_note_text_5">
+    <text>Papá irá a una reunión general organizada por los científicos.</text>
+  </string>
+  <string id="kat_boss_note_text_6">
+    <text>Estaré fuera por un par de horas. Mantente en contacto y sé una buena chica. papá te ama..</text>
+  </string>
+  <string id="kat_boss_note_text_7">
+    <text>¡Papi!</text>
+  </string>
+  <string id="kat_boss_note_text_8">
+    <text>¡Mami, Sashka y yo estamos siendo expulsadas del pueblo!</text>
+  </string>
+  <string id="kat_boss_note_text_9">
+    <text>Algo aquí explotó de nuevo y les dicen a todos que se vayan.</text>
+  </string>
+  <string id="kat_boss_note_text_10">
+    <text>Mami cree que no volverás, ¡pero se equivoca!</text>
+  </string>
+  <string id="kat_boss_note_text_11">
+    <text>Sé que volverás y estarás con nosotros otra vez, papi ¡yo lo sé!</text>
+  </string>
+  <string id="kat_boss_note_text_12">
+    <text>¡Te amo mucho!</text>
+  </string>
+  <string id="kat_boss_note_text_13">
+    <text>[escrito debajo con letra diferente]</text>
+  </string>
+  <string id="gar_stalker_medic_after_katakomb">
+    <text>Stalker, tengo una oferta para ti. Pasa cuando termines tu trabajo. Esperaré.</text>
+  </string>
+  <string id="agr_stalker_help_sos_sms">
+    <text>¿Puede alguien escucharme? ¡Necesito ayuda inmediata! ¡Estoy en la entrada subterránea!</text>
+  </string>
+  <string id="nsp_masters_stalker_leader_hello_message">
+    <text>Ven stalker, pasemos el rato.</text>
+  </string>
+  <string id="nsp_to_esc_level_changer_disabled_one">
+    <text>DEJAR NOVOSHEPELYCHI ES MUY PELIGROSO AHORA MISMO</text>
+  </string>
+  <string id="nsp_to_esc_level_changer_disabled_two">
+    <text>ANTES DE DEJAR NOVOSHEPELYCHI, DEBES DESHACERTE DEL ARTEFACTO TRANSMUTADO</text>
+  </string>
+  <string id="nsp_to_esc_level_changer_disabled_three">
+    <text>PRIMERO NECESITO VISITAR EL CORDÓN</text>
+  </string>
+  <string id="level_changer_disabled_anomalies">
+    <text>LA RUTA ADELANTE ESTÁ CUBIERTA CON ANOMALÍAS</text>
+  </string>
+  <string id="agr_to_bar_level_changer_disabled">
+    <text>NO TENGO PERMISO PARA ENTRAR AL BAR</text>
+  </string>
+  <string id="nsp_hunters_sleep_locked_text">
+    <text>¿Por qué dormir ahora? ¡No puedo dejar a Zakhar esperando!</text>
+  </string>
+  <string id="gar_to_bar_level_changer_locked">
+    <text>¡SIN PERMISO PARA ENTRAR A TERRITORIO DE DEBER!</text>
+  </string>
+  <string id="esc_to_gar_level_changer_two_disabled">
+    <text>EL CAMINO ESTÁ BLOQUEADO</text>
+  </string>
+  <string id="agru_to_agr_level_changer_lock">
+    <text>CERRADO</text>
+  </string>
+  <string id="kat_to_val_level_changer_lock_message">
+    <text>Volver a la base de los bandidos es suicida. Debería encontrar otra manera.</text>
+  </string>
+  <string id="esc_scientists_task_fail_actor_message_device_taken">
+    <text>Sid, de alguna manera logré sobrevivir y conseguí un dispositivo de los científicos. ¿Debería llevártelo?</text>
+  </string>
+  <string id="esc_scientists_task_fail_trader_message_device_taken">
+    <text>No tomes nada. ¡Quién sabe qué podría ser! Esperaré a que vuelvas y me cuentes qué pasó.</text>
+  </string>
+  <string id="esc_scientists_task_fail_technic_message_device_taken">
+    <text>Axe, ¡tráeme esa cosa! Me muero por saber qué es.</text>
+  </string>
+  <string id="esc_scientists_task_fail_actor_second_message_device_taken">
+    <text>¿Mikhalych? ¿Cómo diablos llegaste aquí?</text>
+  </string>
+  <string id="esc_scientists_task_fail_technic_second_message_device_taken">
+    <text>Desarrollé mis habilidades de craqueo en el exterior. Te cuento más después. Tráeme el dispositivo y encontraré algo con qué recompensarte.</text>
+  </string>
+  <string id="esc_trader_angry_message_for_attack_village">
+    <text>¿Que esta pasando ahí? Retardado, ¿trajiste el dispositivo científico a la aldea? ¡Idiota sin cerebro!</text>
+  </string>
+  <string id="esc_scientists_task_actor_message_see_device">
+    <text>Sid, aquí está pasando algo extraño. Los intelectuales se dirigieron al pueblo flotante. Uno de ellos atraviesa teletransportadores. ¡Nunca había visto algo así! Parece que se están preparando para plantar algunos de sus equipos.</text>
+  </string>
+  <string id="esc_scientists_task_trader_message_for_actor_see_device">
+    <text>Veo. Será mejor que no vayas allí; no necesito ningún dispositivo en mi búnker. Quién sabe qué podría haber dentro de esas cosas.</text>
+  </string>
+  <string id="esc_scientists_task_technic_message_for_actor_first">
+    <text>Axe, Tengo una petición para usted: tráigame eso de lo que le contó al comerciante hace un momento. También tengo curiosidad por saber qué están haciendo esos temerarios.</text>
+  </string>
+  <string id="esc_scientists_task_actor_for_technic_message_first">
+    <text>¡¿Mikhalych?!¿Cómo supiste eso?</text>
+  </string>
+  <string id="esc_scientists_task_technic_message_for_actor_second">
+    <text>Yo tengo mis maneras. Desarrollé mis habilidades de craqueo en el exterior; te contaré más más adelante. Tráeme el dispositivo y encontraré algo con qué recompensarte.</text>
+  </string>
+  <string id="esc_scientists_task_actor_for_technic_message_second">
+    <text>Me has convencido. Lo intentaré. Primero, sin embargo, esperaré hasta que los intelectuales se larguen.</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_actor_message_see_device">
+    <text>Sid, perdí a los científicos pero descubrí por el mensaje de un stalker que se dirigieron a la aldea flotante. Uno de ellos pasó por algunos teletransportadores e instaló algún dispositivo allí. ¿Debería intentar conseguirlo?</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_trader_message_for_actor_see_device">
+    <text>Será mejor que no vayas allí; no necesito ningún dispositivo en mi búnker. Quién sabe qué podría haber dentro de esas cosas.</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_technic_message_for_actor_first">
+    <text>Axe, Tengo una petición para usted: tráigame eso de lo que le contó al comerciante hace un momento. También tengo curiosidad por saber qué están haciendo esos temerarios.</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_actor_for_technic_message_first">
+    <text>¡¿Mikhalych?! ¿Cómo supiste eso?</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_technic_message_for_actor_second">
+    <text>Yo tengo mis maneras. Desarrollé mis habilidades de craqueo en el exterior; te contaré más más adelante. Tráeme el dispositivo y encontraré algo con qué recompensarte.</text>
+  </string>
+  <string id="esc_scientists_task_tertiary_actor_for_technic_message_second">
+    <text>Veré lo que puedo hacer.</text>
+  </string>
+  <string id="overfirst">
+    <text>Overfirst</text>
+  </string>
+  <string id="agr_mid_final_build_complete">
+    <text>SIN TRADUCCIÓN</text>
+  </string>
+  <string id="bar_arena_temp_lock">
+    <text>SIN TRADUCCIÓN</text>
+  </string>
+  <string id="yan_xottab_breaking_the_door_start_message">
+    <text>Intentaré forzar la puerta...</text>
+  </string>
+  <string id="yan_actor_check_bunker_territory_message">
+    <text>Vigilaremos el patio.</text>
+  </string>
+  <string id="yan_vuslich_see_oddities_message">
+    <text>Comandante, tengo ojos sobre algo en el área... algo extraño.</text>
+  </string>
+  <string id="yan_koval_can_handle_message">
+    <text>Vete, me las arreglaré solo. No te preocupes por mí.</text>
+  </string>
+  <string id="yan_actor_koval_start_connect_message">
+    <text>¡Entra, Koval! ¿Terminaste con tu equipo? ¿Me has leído?</text>
+  </string>
+  <string id="yan_actor_koval_lost_message">
+    <text>Hijo de puta. ¡Sabía que causaría problemas!</text>
+  </string>
+  <string id="yan_decryption_process">
+    <text>Descifrado</text>
+  </string>
+  <string id="yan_decryption_process_message">
+    <text>Descifrado en proceso. Por favor Espere.</text>
+  </string>
+  <string id="yan_decryption_process_fail_message">
+    <text>Error. Dispositivo dañado.</text>
+  </string>
+  <string id="yan_koval_actor_long_dist_1_message">
+    <text>¡Comandante, manténgase cerca!</text>
+  </string>
+  <string id="yan_koval_actor_long_dist_2_message">
+    <text>Vamos, jefe. ¿Donde fuiste?</text>
+  </string>
+  <string id="yan_koval_actor_long_dist_3_message">
+    <text>Vamos. ¿Que estas esperando?</text>
+  </string>
+  <string id="yan_koval_dogs_death_message">
+    <text>¡Justo a tiempo!</text>
+  </string>
+  <string id="yan_koval_sorry_message">
+    <text>No se enoje, comandante. No volverá a suceder.</text>
+  </string>
+  <string id="yan_koval_devices_start_message">
+    <text>Configuraré el equipo ahora. Vigila ¿Entendido?</text>
+  </string>
+  <string id="yan_vuslich_psy_talk_message">
+    <text>Comandante, algo anda mal aquí. También me siento raro.</text>
+  </string>
+  <string id="yan_vuslich_see_zombie_message">
+    <text>Comandante ¡Zombies!</text>
+  </string>
+  <string id="yan_vuslich_actor_go_off_switcher_message">
+    <text>Comandante, lo cubriremos mientras sube las escaleras. ¡Date prisa, están por todas partes!</text>
+  </string>
+  <string id="yan_help_message_name">
+    <text>Red de Radio</text>
+  </string>
+  <string id="yan_vuslich_actor_switcher_compl_message">
+    <text>¿Cómo está, comandante? Un poco más y estaríamos acabados. Apagaste ese rompecabezas justo a tiempo.</text>
+  </string>
+  <string id="yan_vuslich_condolence_1_message">
+    <text>Lo siento por todos esos científicos, guardias de seguridad, stalkers... Se quedarán aquí para siempre. Ni siquiera tendrán entierro.</text>
+  </string>
+  <string id="yan_vuslich_condolence_2_message">
+    <text>Es una pena. Lástima que todo esto haya sucedido por algún absurdo.</text>
+  </string>
+  <string id="yan_actor_final_scene_heli_start_message">
+    <text>Apresúrate. ¡Nos vamos!</text>
+  </string>
+  <string id="val_stalker_base_gauss_message">
+    <text>¡Oye, hombre! ¡Ven aquí y hablemos de negocios!</text>
+  </string>
+  <string id="quicksave">
+    <text>GUARDADO RÁPIDO</text>
+  </string>
+  <string id="autosave">
+    <text>GUARDADO AUTOMÁTICO</text>
+  </string>
+  <string id="st_level_change">
+    <text>CAMBIAR DE NIVEL</text>
+  </string>
+  <string id="gar_to_val_level_changer_disabled">
+    <text>MALA IDEA IR CON LOS BANDIDOS SIN RAZÓN ALGUNA</text>
+  </string>
+  <string id="st_agr_soldier_sky_scientist_tonnel_info">
+    <text>Tengo una pista en nuestra búsqueda. ¡Yo diría que hemos ganado el premio gordo! Hace dos días, algunos stalkers compartieron un mensaje diciendo que un científico fue destrozado por una anomalía. ¿Podría ser ese nuestro cliente?</text>
+  </string>
+  <string id="st_esc_soldier_sky_tonnel_remains_info">
+    <text>Zhuravlyov, ¿me copias? Tengo los resultados. Esos restos que encontraste en la anomalía no son de Dubinin. Todo fue preparado para que no lo encontráramos. Esa es la noticia. Cambio y fuera.</text>
+  </string>
+  <string id="ts_information_send">
+    <text>Información enviada:</text>
+  </string>
+  <string id="esc_actor_give_maps_for_trader_text">
+    <text>Mapas de Yantar</text>
+  </string>
+  <string id="esc_to_nsp_level_changer_after_yantar_disabled">
+    <text>EL TERRITORIO ADELANTE NO ESTÁ EXPLORADO</text>
+  </string>
+  <string id="esc_to_gar_level_changer_after_yantar_disabled">
+    <text>PRIMERO DEBERÍA ENCONTRAR OTRAS PISTAS EN CORDÓN</text>
+  </string>
+  <string id="agr_to_gar_level_changer_mid_final_disabled">
+    <text>NO NOS ORDENARON QUE DEJEMOS AGROPROM</text>
+  </string>
+  <string id="mil_to_bar_level_changer_danger_disabled">
+    <text>ENTRAR AL BAR ES SUICIDIO</text>
+  </string>
+  <string id="agr_to_yan_level_changer_disabled">
+    <text>NO HAY INFO DE ESTA ÁREA</text>
+  </string>
+  <string id="yan_to_agr_level_changer_disabled">
+    <text>DEBERÍAMOS TERMINAR ESTA MISIÓN</text>
+  </string>
+  <string id="mil_to_mkat_level_changer_disabled">
+    <text>EL HOYO ESTÁ LLENO A REVENTAR</text>
+  </string>
+  <string id="mil_to_red_forest_fake_level_changer_disabled">
+    <text>EL CAMINO AL BOSQUE ROJO ESTÁ LLENO DE MUTANTES</text>
+  </string>
+  <string id="mil_to_radar_level_changer_disabled">
+    <text>IR AL RADAR ES UN VIAJE DE IDA</text>
+  </string>
+  <string id="st_mil_skylight_device_name">
+    <text>Claraboya</text>
+  </string>
+  <string id="st_skylight_device_start_message">
+    <text>Conexión perdida.</text>
+  </string>
+  <string id="st_skylight_device_reconnect_message">
+    <text>Reconectando...</text>
+  </string>
+  <string id="st_skylight_device_error_message">
+    <text>Conexión Fallida.</text>
+  </string>
+  <string id="st_key_action_use">
+    <text>[$$ACTION_USE$$]</text>
+  </string>
+  <string id="sleep_warning_all_pleasures">
+    <text>GRAN EPOSICIÓN A RADIACIÓN, SANGRADO SEVERO</text>
+  </string>
+  <string id="sleep_warning_bleeding">
+    <text>SANGRADO SEVERO</text>
+  </string>
+  <string id="sleep_warning_radiation">
+    <text>GRAN EXPOSICIÓN A RADIACIÓN</text>
+  </string>
+  <string id="mlab_week_static_text">
+    <text>UNA SEMANA DESPUÉS</text>
+  </string>
+  <string id="mlab_smart_clock">
+    <text>Reloj inteligente</text>
+  </string>
+  <string id="mlab_smart_call_info">
+    <text>Llamada entrante (oficina de Dublinin)</text>
+  </string>
+  <string id="ls_chapter_name">
+    <text>CAPÍTULO</text>
+  </string>
+  <string id="ls_TS_chapter_1_name">
+    <text>Llegada</text>
+  </string>
+  <string id="ls_TS_chapter_1_desc">
+    <text>Aquí estoy nuevamente en la Zona. Debería ganar algo de dinero en Cordon, abastecerme de equipo, volver a acostumbrarme y avanzar más adentro de la zona... a lugares más interesantes y peligrosos. Lugares donde estás por tu cuenta.</text>
+  </string>
+  <string id="ls_TS_chapter_2_name">
+    <text>Más allá del Cordón</text>
+  </string>
+  <string id="ls_TS_chapter_2_desc">
+    <text>No me llevó mucho tiempo conocer nuevas áreas. Mi tarea actual es establecerme en estos lares y empezar a ganarme la vida lejos del perímetro.</text>
+  </string>
+  <string id="ls_TS_chapter_3_name">
+    <text>Valle de Bandidos</text>
+  </string>
+  <string id="ls_TS_chapter_3_desc">
+    <text>Nunca hubiera pensado que tendría que hacer negocios con los bandidos de todas las personas. Espero que todo este asunto me lleve a alguna parte... o que al menos me mantenga neutral.</text>
+  </string>
+  <string id="ls_TS_chapter_4_name">
+    <text>Maestro del Subterráneo</text>
+  </string>
+  <string id="ls_TS_chapter_4_desc">
+    <text>Trukhlyay está muerto. Sus ex socios nos atacaron en el peor momento posible. En mi intento de irme, me topé con un pasaje debajo de la base de los bandidos. Debo tener cuidado de no meterme en más problemas.</text>
+  </string>
+  <string id="ls_TS_chapter_5_name">
+    <text>Transmutación</text>
+  </string>
+  <string id="ls_TS_chapter_5_desc">
+    <text>Después de lidiar con los bandidos, me encontré en otra aventura igualmente emocionante: ser el chico de los recados de los científicos. Para ser justos, pagan una suma justa. Si tan solo fuera lo mismo en todas partes.</text>
+  </string>
+  <string id="ls_TS_chapter_6_name">
+    <text>Artefacto de la Muerte</text>
+  </string>
+  <string id="ls_TS_chapter_6_desc">
+    <text>La zona de Novoshepelychi se ha mostrado como uno de los lugares más interesantes y misteriosos de la Zona. Justo cuando me dirigía hacia allí, sentí el tamaño de estas áreas boscosas, y cada segundo que paso aquí me hace sentir cada vez más incómodo.</text>
+  </string>
+  <string id="ls_TS_chapter_7_name">
+    <text>En las redes de la Araña</text>
+  </string>
+  <string id="ls_TS_chapter_7_desc">
+    <text>A nuestro equipo se le ha encomendado la tarea de investigar el silencio de radio en el lago Yantar.</text>
+  </string>
+  <string id="ls_TS_chapter_8_name">
+    <text>Cara a Cara</text>
+  </string>
+  <string id="ls_TS_chapter_8_desc">
+    <text>La desaparición del profesor Dubinin dejó a la dirección del instituto muy preocupada. Me han encargado encontrar pistas sobre su desaparición o, mejor aún, sobre el propio profesor.</text>
+  </string>
+  <string id="ls_TS_chapter_9_name">
+    <text>Fin del Juego</text>
+  </string>
+  <string id="ls_TS_chapter_9_desc">
+    <text>Es hora de llegar al fondo de lo que se esconde en este laboratorio subterráneo: quiénes son Termite y sus mercenarios, así como qué está haciendo el profesor Dubinin aquí.</text>
+  </string>
+  <string id="agr_composer_task_wait_time">
+    <text>MANTENER POSICIÓN</text>
+  </string>
+  <string id="agr_composer_task_wait_controller_zone_time">
+    <text>MIDIENDO ACTIVIDAD PSI</text>
+  </string>
+  <string id="gar_stalker_nimble_order_complete_message_1">
+    <text>Stalker, tu pedido está listo. Puedes venir a buscarlo.</text>
+  </string>
+  <string id="gar_stalker_nimble_order_complete_message_2">
+    <text>Tu pedido ha llegado. Entra un momento.</text>
+  </string>
+  <string id="gar_stalker_nimble_order_complete_message_3">
+    <text>Ven a buscar tus cosas, stalker.</text>
+  </string>
+  <string id="esc_stalker_liar_reward_message">
+    <text>Amigo, hablé con Sid. Ven a la aldea y te daré tu recompensa. Estaré en el fuego con mis muchachos.</text>
+  </string>
+  <string id="gar_stalker_google_chrome_actor_leave_message">
+    <text>No eres el más hablador, stalker. Toma estas coordenadas de escondite como premio. Buenas vibras para tí.</text>
+  </string>
+  <string id="esc_actor_stalker_task_sos_message">
+    <text>Señal de SOS recibidas</text>
+  </string>
+  <string id="esc_actor_stalker_task_open_box_message">
+    <text>Has accedido a elementos de la caja personal de Axe.</text>
+  </string>
+  <string id="esc_fake_final_message_box_answer">
+    <text>¿REALMENTE QUIERES DEJAR LA ZONA?</text>
+  </string>
+  <string id="esc_fake_final_message_box_locked">
+    <text>NO HAY VUELTA ATRÁS</text>
+  </string>
+  <string id="esc_pre_final_message_title">
+    <text>¡ADVERTENCIA!</text>
+  </string>
+  <string id="esc_pre_final_message_text">
+    <text>SIGUEN UNA SERIE DE EVENTOS DECISIVOS. ASEGÚRATE DE COMPLETAR TODAS TUS TAREAS ANTES DE SEGUIR, PARA NO PERDER EL PROGRESO QUE HAS LOGRADO.</text>
+  </string>
+  <string id="esc_pre_final_message_confirm">
+    <text>CONTINUAR</text>
+  </string>
+</string_table>

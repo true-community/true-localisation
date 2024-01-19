@@ -3,435 +3,437 @@ function init() end
 local bGFunc = false
 
 local function gts(s)
-	return game.translate_string(s)
+  return game.translate_string(s)
 end
 
 function give_task(name)
-	if name then
-		task_manager.get_task_manager():give_task(name)
-	end
+  if name then
+    task_manager.get_task_manager():give_task(name)
+  end
 end
 
 function give_treasure(treasure)
-	if treasure then
-		treasure_manager.get_treasure_manager():give_treasure(treasure)
-	end
+  if treasure then
+    treasure_manager.get_treasure_manager():give_treasure(treasure)
+  end
 end
 
 function RelocActInvInBox(oBoxSId)
-	local oBox = get_story_object(oBoxSId)
-	if oBox then
-		local function TransferItems(oItem)
-			if oItem:section() ~= "wpn_binoc" and oItem:clsid() ~= clsid.wpn_knife_s and oItem:section() ~= "device_torch" then
-				db.actor:transfer_item(oItem, oBox)
-			end
-		end
-		db.actor:inventory_for_each(TransferItems)
-		local detector = db.actor:item_in_slot(9)
-		if detector ~= nil then
-			db.actor:transfer_item(detector, oBox)
-		end
-	end
+  local oBox = get_story_object(oBoxSId)
+  if oBox then
+    local function TransferItems(oItem)
+      if oItem:section() ~= "wpn_binoc" and oItem:clsid() ~= clsid.wpn_knife_s and oItem:section() ~= "device_torch" then
+        db.actor:transfer_item(oItem, oBox)
+      end
+    end
+    db.actor:inventory_for_each(TransferItems)
+    local detector = db.actor:item_in_slot(9)
+    if detector ~= nil then
+      db.actor:transfer_item(detector, oBox)
+    end
+  end
 end
 
 function RelocBoxInBox(oBoxSId1, oBoxSId2)
-	local oBox1 = get_story_object(oBoxSId1)
-	local oBox2 = get_story_object(oBoxSId2)
+  local oBox1 = get_story_object(oBoxSId1)
+  local oBox2 = get_story_object(oBoxSId2)
 
-	if oBox1 and oBox2 then
-		local function TransferItems(oDummy, oItem)
-			oBox1:transfer_item(oItem, oBox2)
-		end
+  if oBox1 and oBox2 then
+    local function TransferItems(oDummy, oItem)
+      oBox1:transfer_item(oItem, oBox2)
+    end
 
-		oBox1:iterate_inventory_box(TransferItems)
-	end
+    oBox1:iterate_inventory_box(TransferItems)
+  end
 end
 
 function RelocActInvInBoxNoArmorInSlot(oBoxSId)
-	local oBox = get_story_object(oBoxSId)
-	if oBox then
-		local function TransferItems(oItem)
-			if oItem:section() ~= "wpn_binoc" and oItem:clsid() ~= clsid.wpn_knife_s and oItem:section() ~= "device_torch" and db.actor:item_in_slot(7) and db.actor:item_in_slot(7):id() ~= oItem:id() then
-				db.actor:transfer_item(oItem, oBox)
-			end
-		end
-		db.actor:inventory_for_each(TransferItems)
-		local detector = db.actor:item_in_slot(9)
-		if detector ~= nil then
-			db.actor:transfer_item(detector, oBox)
-		end
-	end
+  local oBox = get_story_object(oBoxSId)
+  if oBox then
+    local function TransferItems(oItem)
+      if oItem:section() ~= "wpn_binoc" and oItem:clsid() ~= clsid.wpn_knife_s and oItem:section() ~= "device_torch" and db.actor:item_in_slot(7) and db.actor:item_in_slot(7):id() ~= oItem:id() then
+        db.actor:transfer_item(oItem, oBox)
+      end
+    end
+    db.actor:inventory_for_each(TransferItems)
+    local detector = db.actor:item_in_slot(9)
+    if detector ~= nil then
+      db.actor:transfer_item(detector, oBox)
+    end
+  end
 end
 
 function RelocActInvInBoxNoArmorInSlot2(oBoxSId)
-	local oBox = get_story_object(oBoxSId)
-	if oBox then
-		local function TransferItems(oItem)
-			local id = db.actor:item_in_slot(7) and db.actor:item_in_slot(7):id() or -1
-			if id ~= oItem:id() then
-				db.actor:transfer_item(oItem, oBox)
-			end
-		end
-		db.actor:inventory_for_each(TransferItems)
-		local detector = db.actor:item_in_slot(9)
-		if detector ~= nil then
-			db.actor:transfer_item(detector, oBox)
-		end
-	end
+  local oBox = get_story_object(oBoxSId)
+  if oBox then
+    local function TransferItems(oItem)
+      local id = db.actor:item_in_slot(7) and db.actor:item_in_slot(7):id() or -1
+      if id ~= oItem:id() then
+        db.actor:transfer_item(oItem, oBox)
+      end
+    end
+    db.actor:inventory_for_each(TransferItems)
+    local detector = db.actor:item_in_slot(9)
+    if detector ~= nil then
+      db.actor:transfer_item(detector, oBox)
+    end
+  end
 end
 
 function RelocActAllInvInBox(oBoxSId)
-	local oBox = get_story_object(oBoxSId)
-	if oBox then
-		local function TransferItems(npc, oItem)
-			if oItem:section() ~= "bolt" and oItem:section() ~= "device_pda" then
-				db.actor:transfer_item(oItem, oBox)
-			end
-		end
-		db.actor:iterate_inventory(TransferItems, nil)
-		local detector = db.actor:item_in_slot(9)
-		if detector ~= nil then
-			db.actor:transfer_item(detector, oBox)
-		end
-	end
+  local oBox = get_story_object(oBoxSId)
+  if oBox then
+    local function TransferItems(npc, oItem)
+      if oItem:section() ~= "bolt" and oItem:section() ~= "device_pda" then
+        db.actor:transfer_item(oItem, oBox)
+      end
+    end
+    db.actor:iterate_inventory(TransferItems, nil)
+    local detector = db.actor:item_in_slot(9)
+    if detector ~= nil then
+      db.actor:transfer_item(detector, oBox)
+    end
+  end
 end
 
 function RemoveAllActorItems()
-	local function RemoveItems(npc, oItem)
-		if oItem:section() ~= "bolt" and oItem:section() ~= "device_pda" then
-			alife():release(alife():object(oItem:id()), true)
-		end
-	end
-	db.actor:iterate_inventory(RemoveItems, nil)
+  local function RemoveItems(npc, oItem)
+    if oItem:section() ~= "bolt" and oItem:section() ~= "device_pda" then
+      alife():release(alife():object(oItem:id()), true)
+    end
+  end
+  db.actor:iterate_inventory(RemoveItems, nil)
 end
 
 function RelocActInvInBoxWeapons(oBoxSId)
-	local oBox = get_story_object(oBoxSId)
-	if oBox then
-		local function TransferItems(oItem)
-			if oItem:section() ~= "wpn_binoc" and oItem:clsid() ~= clsid.wpn_knife_s and oItem:section() ~= "device_torch" and isWeapon(oItem) ~= false then
-				db.actor:transfer_item(oItem, oBox)
-			end
-		end
-		db.actor:inventory_for_each(TransferItems)
-		local detector = db.actor:item_in_slot(9)
-		if detector ~= nil then
-			db.actor:transfer_item(detector, oBox)
-		end
-	end
+  local oBox = get_story_object(oBoxSId)
+  if oBox then
+    local function TransferItems(oItem)
+      if oItem:section() ~= "wpn_binoc" and oItem:clsid() ~= clsid.wpn_knife_s and oItem:section() ~= "device_torch" and isWeapon(oItem) ~= false then
+        db.actor:transfer_item(oItem, oBox)
+      end
+    end
+    db.actor:inventory_for_each(TransferItems)
+    local detector = db.actor:item_in_slot(9)
+    if detector ~= nil then
+      db.actor:transfer_item(detector, oBox)
+    end
+  end
 end
 
 function RelocActInvFromBox(oBoxSId, bMsg, ids)
-	local aItems = {}
-	local oBox = get_story_object(oBoxSId)
+  local aItems = {}
+  local oBox = get_story_object(oBoxSId)
 
-	if oBox then
-		local function TransferItems(oDummy, oItem)
-			if ids == nil or ids[oItem:id()] then
-				oBox:transfer_item(oItem, db.actor)
-				local sItem = oItem:section()
+  if oBox then
+    local function TransferItems(oDummy, oItem)
+      if ids == nil or ids[oItem:id()] then
+        oBox:transfer_item(oItem, db.actor)
+        local sItem = oItem:section()
 
-				if not aItems[sItem] then
-					aItems[sItem] = 0
-				end
+        if not aItems[sItem] then
+          aItems[sItem] = 0
+        end
 
-				if aItems[sItem] then
-					aItems[sItem] = aItems[sItem] + 1
-				end
-			end
-		end
+        if aItems[sItem] then
+          aItems[sItem] = aItems[sItem] + 1
+        end
+      end
+    end
 
-		oBox:iterate_inventory_box(TransferItems)
+    oBox:iterate_inventory_box(TransferItems)
 
-		if bMsg then
-			for k, v in pairs(aItems) do
-				news_manager.relocate_item(db.actor, "in", k, v)
-			end
-		end
-	end
+    if bMsg then
+      for k, v in pairs(aItems) do
+        news_manager.relocate_item(db.actor, "in", k, v)
+      end
+    end
+  end
 end
 
 function SaveVariable(sVarName, oValue)
-	xr_logic.pstor_store(db.actor, sVarName, oValue or 0)
+  xr_logic.pstor_store(db.actor, sVarName, oValue or 0)
 end
 
 function WriteVariable(sVarName, Value)
-	if Value ~= nil then
-		db.storage[sVarName] = Value
-	else
-		abort("! WriteVariable: sVarName[%s] value is nil", sVarName)
-	end
+  if Value ~= nil then
+    db.storage[sVarName] = Value
+  else
+    abort("! WriteVariable: sVarName[%s] value is nil", sVarName)
+  end
 end
 
 function LoadVariable(sVarName, oDefValue)
-	return xr_logic.pstor_retrieve(db.actor, sVarName, oDefValue or 0)
+  return xr_logic.pstor_retrieve(db.actor, sVarName, oDefValue or 0)
 end
 
 function DelVariable(sVarName)
-	if db.storage[db.actor:id()].pstor[sVarName] then
-		db.storage[db.actor:id()].pstor[sVarName] = nil
-	end
+  if db.storage[db.actor:id()].pstor[sVarName] then
+    db.storage[db.actor:id()].pstor[sVarName] = nil
+  end
 end
 
 function IncrVariable(sVarName, iUpValue)
-	if not iUpValue then iUpValue = 1 end
+  if not iUpValue then iUpValue = 1 end
 
-	local iValue = LoadVariable(sVarName, 0)
-	xr_logic.pstor_store(db.actor, sVarName, iValue + iUpValue)
+  local iValue = LoadVariable(sVarName, 0)
+  xr_logic.pstor_store(db.actor, sVarName, iValue + iUpValue)
 end
 
-function AddMapSpot(oId,sSpotName,sText,bSer)
-	if oId and not HasMapSpot(oId,sSpotName) then
-		sText = sText or ""
-		if bSer then
-			level.map_add_object_spot_ser(oId,sSpotName,sText)
-		else
-			level.map_add_object_spot(oId,sSpotName,sText)
-		end
-	end
+function AddMapSpot(oId, sSpotName, sText, bSer)
+  if oId and not HasMapSpot(oId, sSpotName) then
+    sText = sText or ""
+    if bSer then
+      level.map_add_object_spot_ser(oId, sSpotName, sText)
+    else
+      level.map_add_object_spot(oId, sSpotName, sText)
+    end
+  end
 end
 
-function HasMapSpot(oId,sSpotName)
-	if oId and level.map_has_object_spot(oId,sSpotName)==0 then
-		return false
-	end
-	return true
+function HasMapSpot(oId, sSpotName)
+  if oId and level.map_has_object_spot(oId, sSpotName) == 0 then
+    return false
+  end
+  return true
 end
 
-function RemoveMapSpot(oId,sSpotName)
-	if oId and HasMapSpot(oId,sSpotName) then
-		level.map_remove_object_spot(oId,sSpotName)
-	end
+function RemoveMapSpot(oId, sSpotName)
+  if oId and HasMapSpot(oId, sSpotName) then
+    level.map_remove_object_spot(oId, sSpotName)
+  end
 end
 
 function remove_brkbl_objects()
-	if has_alife_info("remove_brkbl_objects") then
-		return
-	end
+  if has_alife_info("remove_brkbl_objects") then
+    return
+  end
 
-	for i = 1, 65534 do
-		local obj = alife():object(i)
-		if obj and string.find(obj:name(), "brkbl#") then
-			log_ts("Remove brkbl objects: " .. obj:name())
-			alife():release(obj, true)
-		end
-	end
+  for i = 1, 65534 do
+    local obj = alife():object(i)
+    if obj and string.find(obj:name(), "brkbl#") then
+      log_ts("Remove brkbl objects: " .. obj:name())
+      alife():release(obj, true)
+    end
+  end
 
-	give_info("remove_brkbl_objects")
+  give_info("remove_brkbl_objects")
 end
 
 function remove_random_loot_objects()
-	if has_alife_info("remove_random_loot_objects") then
-		return
-	end
+  if has_alife_info("remove_random_loot_objects") then
+    return
+  end
 
-	local difficulty = level.get_game_difficulty()
+  local difficulty = level.get_game_difficulty()
 
-	local difficulty_prob_map = {
-		[0] = 0.7, -- novice
-		[1] = 0.5, -- stalker
-		[2] = 0.3, -- veteran
-		[3] = 0.1, -- master
-	}
+  local difficulty_prob_map = {
+    [0] = 0.7, -- novice
+    [1] = 0.5, -- stalker
+    [2] = 0.3, -- veteran
+    [3] = 0.1, -- master
+  }
 
-	local prob = difficulty_prob_map[difficulty]
+  local prob = difficulty_prob_map[difficulty]
 
-	for i = 1, 65534 do
-		local obj = alife():object(i)
-		if obj then
-			local ini = obj:spawn_ini()
-			if ini and ini:section_exist("randomize_spawn") then
-				local percent = utils.cfg_get_number(ini, "randomize_spawn", "spawn_prob", nil, false, prob)*100
-				if math.random(100) > percent then
-					alife():release(obj, true)
-				end
-				--log_ts("$ name: %s, percent: %f", obj:name(), percent)
-			end
-		end
-	end
+  for i = 1, 65534 do
+    local obj = alife():object(i)
+    if obj then
+      local ini = obj:spawn_ini()
+      if ini and ini:section_exist("randomize_spawn") then
+        local percent = utils.cfg_get_number(ini, "randomize_spawn", "spawn_prob", nil, false, prob) * 100
+        if math.random(100) > percent then
+          alife():release(obj, true)
+        end
+        --log_ts("$ name: %s, percent: %f", obj:name(), percent)
+      end
+    end
+  end
 
-	give_info("remove_random_loot_objects")
+  give_info("remove_random_loot_objects")
 end
 
 function ObjSetSwitchOnline(story_obj_id)
-	local obj_id = nil
-	local type_id = type(story_obj_id)
+  local obj_id = nil
+  local type_id = type(story_obj_id)
 
-	if type_id == "string" then
-		obj_id = story_objects.get_story_objects_registry():get(story_obj_id)
-	elseif type_id == "number" then
-		obj_id = story_obj_id
-	else
-		log_ts("! Error type '%s' for 'story_obj_id' in function ObjSetSwitchOnline!", type_id)
-		return
-	end
+  if type_id == "string" then
+    obj_id = story_objects.get_story_objects_registry():get(story_obj_id)
+  elseif type_id == "number" then
+    obj_id = story_obj_id
+  else
+    log_ts("! Error type '%s' for 'story_obj_id' in function ObjSetSwitchOnline!", type_id)
+    return
+  end
 
-	if obj_id ~= nil then
-		local sobj = alife():object(obj_id)
-		if sobj ~= nil then
-			alife():set_switch_online(sobj.id, true)
-			alife():set_switch_offline(sobj.id, false)
-			log_ts("& ObjSetSwitchOnline: %s", story_obj_id)
-		else
-			log_ts("! ObjSetSwitchOnline: 'sobj' == nil (%s)", story_obj_id)
-		end
-	else
-		log_ts("! ObjSetSwitchOnline: 'obj_id' == nil (%s)", story_obj_id)
-	end
+  if obj_id ~= nil then
+    local sobj = alife():object(obj_id)
+    if sobj ~= nil then
+      alife():set_switch_online(sobj.id, true)
+      alife():set_switch_offline(sobj.id, false)
+      log_ts("& ObjSetSwitchOnline: %s", story_obj_id)
+    else
+      log_ts("! ObjSetSwitchOnline: 'sobj' == nil (%s)", story_obj_id)
+    end
+  else
+    log_ts("! ObjSetSwitchOnline: 'obj_id' == nil (%s)", story_obj_id)
+  end
 end
 
 function ObjSetSwitchOffline(story_obj_id)
-	local obj_id = nil
-	local type_id = type(story_obj_id)
+  local obj_id = nil
+  local type_id = type(story_obj_id)
 
-	if type_id == "string" then
-		obj_id = story_objects.get_story_objects_registry():get(story_obj_id)
-	elseif type_id == "number" then
-		obj_id = story_obj_id
-	else
-		log_ts("! Error type '%s' for 'story_obj_id' in function ObjSetSwitchOffline!", type_id)
-		return
-	end
+  if type_id == "string" then
+    obj_id = story_objects.get_story_objects_registry():get(story_obj_id)
+  elseif type_id == "number" then
+    obj_id = story_obj_id
+  else
+    log_ts("! Error type '%s' for 'story_obj_id' in function ObjSetSwitchOffline!", type_id)
+    return
+  end
 
-	if obj_id ~= nil then
-		local sobj = alife():object(obj_id)
-		if sobj ~= nil then
-			alife():set_switch_online(sobj.id, false)
-			alife():set_switch_offline(sobj.id, true)
-			log_ts("& ObjSetSwitchOffline: %s", story_obj_id)
-		else
-			log_ts("! ObjSetSwitchOffline: 'sobj' == nil (%s)", story_obj_id)
-		end
-	else
-		log_ts("! ObjSetSwitchOffline: 'obj_id' == nil (%s)", story_obj_id)
-	end
+  if obj_id ~= nil then
+    local sobj = alife():object(obj_id)
+    if sobj ~= nil then
+      alife():set_switch_online(sobj.id, false)
+      alife():set_switch_offline(sobj.id, true)
+      log_ts("& ObjSetSwitchOffline: %s", story_obj_id)
+    else
+      log_ts("! ObjSetSwitchOffline: 'sobj' == nil (%s)", story_obj_id)
+    end
+  else
+    log_ts("! ObjSetSwitchOffline: 'obj_id' == nil (%s)", story_obj_id)
+  end
 end
 
 if not bGFunc then
-	local GFunc =	{
-					  ["RActInvInBox"]			= RelocActInvInBox,
-					  ["RActAllInvInBox"]		= RelocActAllInvInBox,
-					  ["RActInvInBoxWpns"]		= RelocActInvInBoxWeapons,
-					  ["RActInvInBoxArmor"]		= RelocActInvInBoxNoArmorInSlot,
-					  ["RActInvInBoxArmor2"]	= RelocActInvInBoxNoArmorInSlot2,
-					  ["RActInvFromBox"]		= RelocActInvFromBox,
-					  ["RBoxInBox"]				= RelocBoxInBox,
-					  ["GiveTreasure"]			= GiveTreasure,
-					  ["WriteVariable"]			= WriteVariable,
-					  ["SaveVariable"]			= SaveVariable,
-					  ["LoadVariable"]			= LoadVariable,
-					  ["DelVariable"]			= DelVariable,
-					  ["IncrVariable"]			= IncrVariable,
-					  ["ObjSetSwitchOnline"]	= ObjSetSwitchOnline,
-					  ["ObjSetSwitchOffline"]	= ObjSetSwitchOffline,
-					  ["AddMapSpot"]			= AddMapSpot,
-					  ["HasMapSpot"]			= HasMapSpot,
-					  ["RemoveAllActorItems"]	= RemoveAllActorItems,
-					  ["RemoveMapSpot"]			= RemoveMapSpot
-				  }
+  local GFunc = {
+    ["RActInvInBox"]        = RelocActInvInBox,
+    ["RActAllInvInBox"]     = RelocActAllInvInBox,
+    ["RActInvInBoxWpns"]    = RelocActInvInBoxWeapons,
+    ["RActInvInBoxArmor"]   = RelocActInvInBoxNoArmorInSlot,
+    ["RActInvInBoxArmor2"]  = RelocActInvInBoxNoArmorInSlot2,
+    ["RActInvFromBox"]      = RelocActInvFromBox,
+    ["RBoxInBox"]           = RelocBoxInBox,
+    ["GiveTreasure"]        = GiveTreasure,
+    ["WriteVariable"]       = WriteVariable,
+    ["SaveVariable"]        = SaveVariable,
+    ["LoadVariable"]        = LoadVariable,
+    ["DelVariable"]         = DelVariable,
+    ["IncrVariable"]        = IncrVariable,
+    ["ObjSetSwitchOnline"]  = ObjSetSwitchOnline,
+    ["ObjSetSwitchOffline"] = ObjSetSwitchOffline,
+    ["AddMapSpot"]          = AddMapSpot,
+    ["HasMapSpot"]          = HasMapSpot,
+    ["RemoveAllActorItems"] = RemoveAllActorItems,
+    ["RemoveMapSpot"]       = RemoveMapSpot
+  }
 
-	local Module = _G
-	setfenv(1, Module)
-	for k,v in pairs(GFunc) do
-		Module[k] = v
-		setfenv(Module[k], Module)
-	end
-	bGFunc = true
+  local Module = _G
+  setfenv(1, Module)
+  for k, v in pairs(GFunc) do
+    Module[k] = v
+    setfenv(Module[k], Module)
+  end
+  bGFunc = true
 end
 
 function add_spots_for_smarts()
-	for k, v in pairs(sim_board.get_sim_board().smarts_by_names) do
-		if not level.map_has_object_spot(v.id, "green_location") then
-			level.map_add_object_spot_ser(v.id, "green_location", k)
-		end
-	end
+  for k, v in pairs(sim_board.get_sim_board().smarts_by_names) do
+    if not level.map_has_object_spot(v.id, "green_location") then
+      level.map_add_object_spot_ser(v.id, "green_location", k)
+    end
+  end
 end
 
 function clear_pda_tasks()
-	give_info("clear_pda_tasks")
+  give_info("clear_pda_tasks")
 
-	local function clear_pda_tasks_end()
-		disable_info("clear_pda_tasks")
-	end
+  local function clear_pda_tasks_end()
+    disable_info("clear_pda_tasks")
+  end
 
-	local function clear_pda_tasks_precondition()
-		return xr_conditions.counter_equal(db.actor, nil, {"active_tasks", 0})
-	end
+  local function clear_pda_tasks_precondition()
+    return xr_conditions.counter_equal(db.actor, nil, { "active_tasks", 0 })
+  end
 
-	level.add_call(clear_pda_tasks_precondition, clear_pda_tasks_end)
+  level.add_call(clear_pda_tasks_precondition, clear_pda_tasks_end)
 end
 
 function a_test()
-	local sm = surge_manager.get_surge_manager()
-	sm:respawn_artefacts_and_replace_anomaly_zone()
+  local sm = surge_manager.get_surge_manager()
+  sm:respawn_artefacts_and_replace_anomaly_zone()
 end
 
 function set_character_icon(obj, icon)
-	log_ts("set_character_icon: obj = '%s', icon = '%s'", obj:name(), icon)
-	if obj and icon then
-		obj:set_character_icon(icon)
-	end
+  log_ts("set_character_icon: obj = '%s', icon = '%s'", obj:name(), icon)
+  if obj and icon then
+    obj:set_character_icon(icon)
+  end
 end
 
 function set_actor_name(name)
-	if name then
-		log_ts("# set_actor_name: '%s'", name)
-		db.actor:set_actor_name(name)
-	end
+  if name then
+    log_ts("# set_actor_name: '%s'", name)
+    db.actor:set_actor_name(name)
+  end
 end
 
 function set_character_community(obj, community)
-	if obj and community then
-		obj:set_character_community(community, 0, 0)
-	end
+  if obj and community then
+    obj:set_character_community(community, 0, 0)
+  end
 end
 
 function set_player_hud_section_prefix(prefix)
-	if prefix then
-		log_ts("# set_player_hud_section_prefix: '%s'", prefix)
-		db.actor:set_hud_section_prefix(prefix)
-	end
+  if prefix then
+    log_ts("# set_player_hud_section_prefix: '%s'", prefix)
+    db.actor:set_hud_section_prefix(prefix)
+  end
 end
 
 function load_actor_parameters(actor_sect)
-	if actor_sect then
-		log_ts("# load_actor_parameters: '%s'", actor_sect)
+  if actor_sect then
+    log_ts("# load_actor_parameters: '%s'", actor_sect)
 
-		local ini = system_ini()
-		local hud_section_prefix = utils.cfg_get_string(ini, actor_sect, "player_hud_section_prefix", db.actor, false, "", "")
-		local sound_postfix = utils.cfg_get_string(ini, actor_sect, "sound_postfix", db.actor, false, "", "")
-		local head_visual = utils.cfg_get_string(ini, actor_sect, "head_visual", db.actor, false, "", "")
-		local jump_speed = utils.cfg_get_number(ini, actor_sect, "jump_speed", db.actor, false, 6)
-		local sprint_koef = utils.cfg_get_number(ini, actor_sect, "sprint_koef", db.actor, false, 2.3)
-		local run_coef = utils.cfg_get_number(ini, actor_sect, "run_coef", db.actor, false, 1.6)
-		local runback_coef = utils.cfg_get_number(ini, actor_sect, "run_back_coef", db.actor, false, 1.8)
+    local ini = system_ini()
+    local hud_section_prefix = utils.cfg_get_string(ini, actor_sect, "player_hud_section_prefix", db.actor, false, "", "")
+    local sound_postfix = utils.cfg_get_string(ini, actor_sect, "sound_postfix", db.actor, false, "", "")
+    local head_visual = utils.cfg_get_string(ini, actor_sect, "head_visual", db.actor, false, "", "")
+    local jump_speed = utils.cfg_get_number(ini, actor_sect, "jump_speed", db.actor, false, 6)
+    local sprint_koef = utils.cfg_get_number(ini, actor_sect, "sprint_koef", db.actor, false, 2.3)
+    local run_coef = utils.cfg_get_number(ini, actor_sect, "run_coef", db.actor, false, 1.6)
+    local runback_coef = utils.cfg_get_number(ini, actor_sect, "run_back_coef", db.actor, false, 1.8)
 
-		set_player_hud_section_prefix(hud_section_prefix)
-		db.actor:set_actor_sound_postfix(sound_postfix)
-		db.actor:set_head_visual(head_visual)
-		db.actor:set_actor_jump_speed(jump_speed)
-		db.actor:set_actor_sprint_koef(sprint_koef)
-		db.actor:set_actor_run_coef(run_coef)
-		db.actor:set_actor_runback_coef(runback_coef)
-	end
+    set_player_hud_section_prefix(hud_section_prefix)
+    db.actor:set_actor_sound_postfix(sound_postfix)
+    db.actor:set_head_visual(head_visual)
+    db.actor:set_actor_jump_speed(jump_speed)
+    db.actor:set_actor_sprint_koef(sprint_koef)
+    db.actor:set_actor_run_coef(run_coef)
+    db.actor:set_actor_runback_coef(runback_coef)
+  end
 end
 
 function clear_game_news()
-	log_ts("# clear_game_news...")
-	db.actor:clear_game_news()
+  log_ts("# clear_game_news...")
+  db.actor:clear_game_news()
 end
 
 local function actor_is_scientist()
-	return has_alife_info("mil_merc_leader_final_monolog_compl") and not has_alife_info("mlab_scientist_boss_mid_final_scene_compl")
+  return has_alife_info("mil_merc_leader_final_monolog_compl") and
+  not has_alife_info("mlab_scientist_boss_mid_final_scene_compl")
 end
 
 local function actor_is_soldier_sky()
-	return has_alife_info("mil_heli_final_task_actor_heli_down_scene_start") and not has_alife_info("mil_merc_leader_final_monolog_compl")
+  return has_alife_info("mil_heli_final_task_actor_heli_down_scene_start") and
+  not has_alife_info("mil_merc_leader_final_monolog_compl")
 end
 
 local current_outfit_id = -1
 function change_outfit_callback()
-	--[[local outfit_id = db.actor:get_current_outfit() and db.actor:get_current_outfit():id() or -1
+  --[[local outfit_id = db.actor:get_current_outfit() and db.actor:get_current_outfit():id() or -1
 
 	if outfit_id ~= current_outfit_id then
 		if has_alife_info("start_second_character_story") then
@@ -450,895 +452,900 @@ function change_outfit_callback()
 end
 
 function play_sound_by_path(sound_path, subtitles_speaker, subtitles_times, is_radio)
-	if sound_path then
-		local sound	= xr_sound.get_safe_sound_object(sound_path)
-		sound:play_at_pos(db.actor, vector(), 0, sound_object.s2d)
+  if sound_path then
+    local sound = xr_sound.get_safe_sound_object(sound_path)
+    sound:play_at_pos(db.actor, vector(), 0, sound_object.s2d)
 
-		if level.present() then
-			ts_subtitles.show_subtitles(db.actor, sound_path, subtitles_speaker, subtitles_times, is_radio)
-			log_ts("^ play_sound_by_path: sound = '%s'", sound_path)
-		end
+    if level.present() then
+      ts_subtitles.show_subtitles(db.actor, sound_path, subtitles_speaker, subtitles_times, is_radio)
+      log_ts("^ play_sound_by_path: sound = '%s'", sound_path)
+    end
 
-		return sound
-	end
+    return sound
+  end
 
-	return nil
+  return nil
 end
 
 function is_playing_sound_by_path(sound_path)
-	local sound	= xr_sound.get_safe_sound_object(sound_path)
-	return sound and sound:playing()
+  local sound = xr_sound.get_safe_sound_object(sound_path)
+  return sound and sound:playing()
 end
 
 function play_sound_by_path_3d(sound_path, id, subtitles_speaker, subtitles_times, is_radio)
-	if sound_path and id then
-		local obj
+  if sound_path and id then
+    local obj
 
-		if type(id) == "string" then
-			obj = get_story_object(id)
-		elseif type(id) == "number" then
-			obj = level.object_by_id(id)
-		end
+    if type(id) == "string" then
+      obj = get_story_object(id)
+    elseif type(id) == "number" then
+      obj = level.object_by_id(id)
+    end
 
-		if obj then
-			local sound	= xr_sound.get_safe_sound_object(sound_path)
-			sound:play_at_pos(obj, obj:position(), 0, sound_object.s3d)
-			ts_subtitles.show_subtitles(db.actor, sound_path, subtitles_speaker, subtitles_times, is_radio)
-			log_ts("^ play_sound_by_path_3d: sound = '%s', obj = '%s'", sound_path, id)
-		else
-			log_ts("! play_sound_by_path_3d: obj '%s' == nil!", id)
-		end
-	end
+    if obj then
+      local sound = xr_sound.get_safe_sound_object(sound_path)
+      sound:play_at_pos(obj, obj:position(), 0, sound_object.s3d)
+      ts_subtitles.show_subtitles(db.actor, sound_path, subtitles_speaker, subtitles_times, is_radio)
+      log_ts("^ play_sound_by_path_3d: sound = '%s', obj = '%s'", sound_path, id)
+    else
+      log_ts("! play_sound_by_path_3d: obj '%s' == nil!", id)
+    end
+  end
 end
 
 function check_actor_outfit(outfit_sect)
-	return db.actor:get_current_outfit() and db.actor:get_current_outfit():section() == outfit_sect
+  return db.actor:get_current_outfit() and db.actor:get_current_outfit():section() == outfit_sect
 end
 
 function get_file_name(path)
-	local reverse_path = string.reverse(path)
-	return string.reverse(string.sub(reverse_path, 1, (string.find(reverse_path, "\\") or #reverse_path + 1) - 1))
+  local reverse_path = string.reverse(path)
+  return string.reverse(string.sub(reverse_path, 1, (string.find(reverse_path, "\\") or #reverse_path + 1) - 1))
 end
 
 local function is_valid_sound_command(cmd)
-	return cmd == "snd_volume_eff" or cmd == "snd_volume_music"
+  return cmd == "snd_volume_eff" or cmd == "snd_volume_music"
 end
 
 function volume_effects_off(cmd)
-	if is_valid_sound_command(cmd) then
-		if cmd == "snd_volume_eff" then
-			level.set_snd_volume(0)
-		elseif cmd == "snd_volume_music" then
-			level.set_snd_music_volume(0)
-		end
-		log_ts("^ volume_effects_off: 1 -> 0")
-	else
-		log_ts("^ volume_effects_off: invalid argument, cmd = %s!", cmd)
-	end
+  if is_valid_sound_command(cmd) then
+    if cmd == "snd_volume_eff" then
+      level.set_snd_volume(0)
+    elseif cmd == "snd_volume_music" then
+      level.set_snd_music_volume(0)
+    end
+    log_ts("^ volume_effects_off: 1 -> 0")
+  else
+    log_ts("^ volume_effects_off: invalid argument, cmd = %s!", cmd)
+  end
 end
 
 function volume_effects_on(cmd)
-	if is_valid_sound_command(cmd) then
-		if cmd == "snd_volume_eff" then
-			level.set_snd_volume(1)
-		elseif cmd == "snd_volume_music" then
-			level.set_snd_music_volume(1)
-		end
-		log_ts("^ volume_effects_on: 0 -> 1")
-	else
-		log_ts("^ volume_effects_on: invalid argument, cmd = %s!", cmd)
-	end
+  if is_valid_sound_command(cmd) then
+    if cmd == "snd_volume_eff" then
+      level.set_snd_volume(1)
+    elseif cmd == "snd_volume_music" then
+      level.set_snd_music_volume(1)
+    end
+    log_ts("^ volume_effects_on: 0 -> 1")
+  else
+    log_ts("^ volume_effects_on: invalid argument, cmd = %s!", cmd)
+  end
 end
 
 particle_object_by_path = {}
 
 function get_safe_particles_object(path)
-	particle_object_by_path[#particle_object_by_path + 1] = particles_object(path)
-	return particle_object_by_path[#particle_object_by_path]
+  particle_object_by_path[#particle_object_by_path + 1] = particles_object(path)
+  return particle_object_by_path[#particle_object_by_path]
 end
 
 function play_particle_on_path_ts(particle_name, path_name, path_point)
-	if particle_name and path_name then
-		local particle = get_safe_particles_object(particle_name)
+  if particle_name and path_name then
+    local particle = get_safe_particles_object(particle_name)
 
-		if not level.patrol_path_exists(path_name) then
-			log_ts("! play_particle_on_path_ts: path %s doesnt exist.", tostring(path_name))
-			return
-		end
+    if not level.patrol_path_exists(path_name) then
+      log_ts("! play_particle_on_path_ts: path %s doesnt exist.", tostring(path_name))
+      return
+    end
 
-		local path = patrol(path_name)
-		particle:play_at_pos(path:point(tonumber(path_point) or 0))
-		log_ts("^ play_particle_on_path_ts: particle = '%s', path = '%s'", particle_name, path_point)
-	end
+    local path = patrol(path_name)
+    particle:play_at_pos(path:point(tonumber(path_point) or 0))
+    log_ts("^ play_particle_on_path_ts: particle = '%s', path = '%s'", particle_name, path_point)
+  end
 end
 
 function messages_disabled()
-	return has_alife_info("bar_arena_fight") or (has_alife_info("start_second_character_story") and not has_alife_info("start_second_character_story_unlock"))
+  return has_alife_info("bar_arena_fight") or
+  (has_alife_info("start_second_character_story") and not has_alife_info("start_second_character_story_unlock"))
 end
 
 function can_show_messages()
-	return not ui_sleep_dialog.get_sleep_dialog().sleep_active and not actor_menu.dead_body_searching
+  return not ui_sleep_dialog.get_sleep_dialog().sleep_active and not actor_menu.dead_body_searching
 end
 
 local send_tip_sounds = {}
 
 function send_tip(text, icon, showtime, sound)
-	if messages_disabled() then
-		return
-	end
+  if messages_disabled() then
+    return
+  end
 
-	level.add_call(
-		can_show_messages,
+  level.add_call(
+    can_show_messages,
 
-		function ()
-			local snd = tostring(sound)
+    function()
+      local snd = tostring(sound)
 
-			if snd ~= "false" then
-				snd = #snd > 0 and snd ~= "nil" and snd or "device\\pda\\pda_news"
+      if snd ~= "false" then
+        snd = #snd > 0 and snd ~= "nil" and snd or "device\\pda\\pda_news"
 
-				if send_tip_sounds[snd] == nil then
-					send_tip_sounds[snd] = sound_object(snd)
-				end
+        if send_tip_sounds[snd] == nil then
+          send_tip_sounds[snd] = sound_object(snd)
+        end
 
-				if send_tip_sounds[snd] and not send_tip_sounds[snd]:playing() then
-					send_tip_sounds[snd]:play_at_pos(db.actor, vector(), 0, sound_object.s2d)
-				end
-			end
+        if send_tip_sounds[snd] and not send_tip_sounds[snd]:playing() then
+          send_tip_sounds[snd]:play_at_pos(db.actor, vector(), 0, sound_object.s2d)
+        end
+      end
 
-			db.actor:give_game_news("", text, icon, 0, (showtime or 10) * 1000, 0, true)
-		end
-	)
+      db.actor:give_game_news("", text, icon, 0, (showtime or 10) * 1000, 0, true)
+    end
+  )
 end
 
 function send_tip_info(info_text, showtime, sound)
-	send_tip("%c[info_orange]" .. game.translate_string("pda_new_info") .. ": %c[subs_text]" .. game.translate_string(info_text), "ui_inGame2_TS_HUD_msg_note", showtime, sound)
+  send_tip(
+  "%c[info_orange]" .. game.translate_string("pda_new_info") .. ": %c[subs_text]" .. game.translate_string(info_text),
+    "ui_inGame2_TS_HUD_msg_note", showtime, sound)
 end
 
 local localization = {
-	["rus"] = {
-		["à"] = "À",
-		["á"] = "Á",
-		["â"] = "Â",
-		["ã"] = "Ã",
-		["ä"] = "Ä",
-		["å"] = "Å",
-		["¸"] = "¨",
-		["æ"] = "Æ",
-		["ç"] = "Ç",
-		["è"] = "È",
-		["é"] = "É",
-		["ê"] = "Ê",
-		["ë"] = "Ë",
-		["ì"] = "Ì",
-		["í"] = "Í",
-		["î"] = "Î",
-		["ï"] = "Ï",
-		["ð"] = "Ð",
-		["ñ"] = "Ñ",
-		["ò"] = "Ò",
-		["ó"] = "Ó",
-		["ô"] = "Ô",
-		["õ"] = "Õ",
-		["ö"] = "Ö",
-		["÷"] = "×",
-		["ø"] = "Ø",
-		["ù"] = "Ù",
-		["ú"] = "Ú",
-		["û"] = "Û",
-		["ü"] = "Ü",
-		["ý"] = "Ý",
-		["þ"] = "Þ",
-		["ÿ"] = "ß"
-	},
-	["ukr"] = {
-		["i"] = "I", --/ eng
-		["³"] = "²", --/ bel-ukr
-		["¿"] = "¯",
-		["´"] = "¥",
-		["º"] = "ª",
-	},
-	["eng"] = {
-		["a"] = "A",
-		["b"] = "B",
-		["c"] = "C",
-		["d"] = "D",
-		["e"] = "E",
-		["f"] = "F",
-		["g"] = "G",
-		["h"] = "H",
-		["i"] = "I",
-		["j"] = "J",
-		["k"] = "K",
-		["l"] = "L",
-		["m"] = "M",
-		["n"] = "N",
-		["o"] = "O",
-		["p"] = "P",
-		["q"] = "Q",
-		["r"] = "R",
-		["s"] = "S",
-		["t"] = "T",
-		["u"] = "U",
-		["v"] = "V",
-		["w"] = "W",
-		["x"] = "X",
-		["y"] = "Y",
-		["z"] = "Z"
-	},
+  ["rus"] = {
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½"
+  },
+  ["ukr"] = {
+    ["i"] = "I", --/ eng
+    ["ï¿½"] = "ï¿½", --/ bel-ukr
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+    ["ï¿½"] = "ï¿½",
+  },
+  ["eng"] = {
+    ["a"] = "A",
+    ["b"] = "B",
+    ["c"] = "C",
+    ["d"] = "D",
+    ["e"] = "E",
+    ["f"] = "F",
+    ["g"] = "G",
+    ["h"] = "H",
+    ["i"] = "I",
+    ["j"] = "J",
+    ["k"] = "K",
+    ["l"] = "L",
+    ["m"] = "M",
+    ["n"] = "N",
+    ["o"] = "O",
+    ["p"] = "P",
+    ["q"] = "Q",
+    ["r"] = "R",
+    ["s"] = "S",
+    ["t"] = "T",
+    ["u"] = "U",
+    ["v"] = "V",
+    ["w"] = "W",
+    ["x"] = "X",
+    ["y"] = "Y",
+    ["z"] = "Z"
+  },
   -- TODO: remove this warning when these languages are translated properly (falling back to English for now)
   ["fra"] = {
     ["a"] = "A",
-		["b"] = "B",
-		["c"] = "C",
-		["d"] = "D",
-		["e"] = "E",
-		["f"] = "F",
-		["g"] = "G",
-		["h"] = "H",
-		["i"] = "I",
-		["j"] = "J",
-		["k"] = "K",
-		["l"] = "L",
-		["m"] = "M",
-		["n"] = "N",
-		["o"] = "O",
-		["p"] = "P",
-		["q"] = "Q",
-		["r"] = "R",
-		["s"] = "S",
-		["t"] = "T",
-		["u"] = "U",
-		["v"] = "V",
-		["w"] = "W",
-		["x"] = "X",
-		["y"] = "Y",
-		["z"] = "Z"
+    ["b"] = "B",
+    ["c"] = "C",
+    ["d"] = "D",
+    ["e"] = "E",
+    ["f"] = "F",
+    ["g"] = "G",
+    ["h"] = "H",
+    ["i"] = "I",
+    ["j"] = "J",
+    ["k"] = "K",
+    ["l"] = "L",
+    ["m"] = "M",
+    ["n"] = "N",
+    ["o"] = "O",
+    ["p"] = "P",
+    ["q"] = "Q",
+    ["r"] = "R",
+    ["s"] = "S",
+    ["t"] = "T",
+    ["u"] = "U",
+    ["v"] = "V",
+    ["w"] = "W",
+    ["x"] = "X",
+    ["y"] = "Y",
+    ["z"] = "Z"
   },
   ["ger"] = {
     ["a"] = "A",
-		["b"] = "B",
-		["c"] = "C",
-		["d"] = "D",
-		["e"] = "E",
-		["f"] = "F",
-		["g"] = "G",
-		["h"] = "H",
-		["i"] = "I",
-		["j"] = "J",
-		["k"] = "K",
-		["l"] = "L",
-		["m"] = "M",
-		["n"] = "N",
-		["o"] = "O",
-		["p"] = "P",
-		["q"] = "Q",
-		["r"] = "R",
-		["s"] = "S",
-		["t"] = "T",
-		["u"] = "U",
-		["v"] = "V",
-		["w"] = "W",
-		["x"] = "X",
-		["y"] = "Y",
-		["z"] = "Z"
+    ["b"] = "B",
+    ["c"] = "C",
+    ["d"] = "D",
+    ["e"] = "E",
+    ["f"] = "F",
+    ["g"] = "G",
+    ["h"] = "H",
+    ["i"] = "I",
+    ["j"] = "J",
+    ["k"] = "K",
+    ["l"] = "L",
+    ["m"] = "M",
+    ["n"] = "N",
+    ["o"] = "O",
+    ["p"] = "P",
+    ["q"] = "Q",
+    ["r"] = "R",
+    ["s"] = "S",
+    ["t"] = "T",
+    ["u"] = "U",
+    ["v"] = "V",
+    ["w"] = "W",
+    ["x"] = "X",
+    ["y"] = "Y",
+    ["z"] = "Z"
   },
   ["ita"] = {
     ["a"] = "A",
-		["b"] = "B",
-		["c"] = "C",
-		["d"] = "D",
-		["e"] = "E",
-		["f"] = "F",
-		["g"] = "G",
-		["h"] = "H",
-		["i"] = "I",
-		["j"] = "J",
-		["k"] = "K",
-		["l"] = "L",
-		["m"] = "M",
-		["n"] = "N",
-		["o"] = "O",
-		["p"] = "P",
-		["q"] = "Q",
-		["r"] = "R",
-		["s"] = "S",
-		["t"] = "T",
-		["u"] = "U",
-		["v"] = "V",
-		["w"] = "W",
-		["x"] = "X",
-		["y"] = "Y",
-		["z"] = "Z"
+    ["b"] = "B",
+    ["c"] = "C",
+    ["d"] = "D",
+    ["e"] = "E",
+    ["f"] = "F",
+    ["g"] = "G",
+    ["h"] = "H",
+    ["i"] = "I",
+    ["j"] = "J",
+    ["k"] = "K",
+    ["l"] = "L",
+    ["m"] = "M",
+    ["n"] = "N",
+    ["o"] = "O",
+    ["p"] = "P",
+    ["q"] = "Q",
+    ["r"] = "R",
+    ["s"] = "S",
+    ["t"] = "T",
+    ["u"] = "U",
+    ["v"] = "V",
+    ["w"] = "W",
+    ["x"] = "X",
+    ["y"] = "Y",
+    ["z"] = "Z"
   },
   ["pol"] = {
     ["a"] = "A",
-		["b"] = "B",
-		["c"] = "C",
-		["d"] = "D",
-		["e"] = "E",
-		["f"] = "F",
-		["g"] = "G",
-		["h"] = "H",
-		["i"] = "I",
-		["j"] = "J",
-		["k"] = "K",
-		["l"] = "L",
-		["m"] = "M",
-		["n"] = "N",
-		["o"] = "O",
-		["p"] = "P",
-		["q"] = "Q",
-		["r"] = "R",
-		["s"] = "S",
-		["t"] = "T",
-		["u"] = "U",
-		["v"] = "V",
-		["w"] = "W",
-		["x"] = "X",
-		["y"] = "Y",
-		["z"] = "Z"
+    ["b"] = "B",
+    ["c"] = "C",
+    ["d"] = "D",
+    ["e"] = "E",
+    ["f"] = "F",
+    ["g"] = "G",
+    ["h"] = "H",
+    ["i"] = "I",
+    ["j"] = "J",
+    ["k"] = "K",
+    ["l"] = "L",
+    ["m"] = "M",
+    ["n"] = "N",
+    ["o"] = "O",
+    ["p"] = "P",
+    ["q"] = "Q",
+    ["r"] = "R",
+    ["s"] = "S",
+    ["t"] = "T",
+    ["u"] = "U",
+    ["v"] = "V",
+    ["w"] = "W",
+    ["x"] = "X",
+    ["y"] = "Y",
+    ["z"] = "Z"
   },
   ["spa"] = {
     ["a"] = "A",
-		["b"] = "B",
-		["c"] = "C",
-		["d"] = "D",
-		["e"] = "E",
-		["f"] = "F",
-		["g"] = "G",
-		["h"] = "H",
-		["i"] = "I",
-		["j"] = "J",
-		["k"] = "K",
-		["l"] = "L",
-		["m"] = "M",
-		["n"] = "N",
-		["o"] = "O",
-		["p"] = "P",
-		["q"] = "Q",
-		["r"] = "R",
-		["s"] = "S",
-		["t"] = "T",
-		["u"] = "U",
-		["v"] = "V",
-		["w"] = "W",
-		["x"] = "X",
-		["y"] = "Y",
-		["z"] = "Z"
+    ["b"] = "B",
+    ["c"] = "C",
+    ["d"] = "D",
+    ["e"] = "E",
+    ["f"] = "F",
+    ["g"] = "G",
+    ["h"] = "H",
+    ["i"] = "I",
+    ["j"] = "J",
+    ["k"] = "K",
+    ["l"] = "L",
+    ["m"] = "M",
+    ["n"] = "N",
+    ["o"] = "O",
+    ["p"] = "P",
+    ["q"] = "Q",
+    ["r"] = "R",
+    ["s"] = "S",
+    ["t"] = "T",
+    ["u"] = "U",
+    ["v"] = "V",
+    ["w"] = "W",
+    ["x"] = "X",
+    ["y"] = "Y",
+    ["z"] = "Z"
   }
 }
 
 function string_upper(s)
-	for n, _ in pairs(localization) do
-	    for k, v in pairs(localization[n]) do
-	        s = s:gsub(k, v)
-	    end
-	end
-    return string.upper(s)
+  for n, _ in pairs(localization) do
+    for k, v in pairs(localization[n]) do
+      s = s:gsub(k, v)
+    end
+  end
+  return string.upper(s)
 end
 
 local keys_to_eng = {
-	["à"] = "F",
-	["á"] = ",",
-	["â"] = "D",
-	["ã"] = "U",
-	["ä"] = "L",
-	["å"] = "T",
-	["¸"] = "~",
-	["æ"] = ";",
-	["ç"] = "P",
-	["è"] = "B",
-	["é"] = "Q",
-	["ê"] = "R",
-	["ë"] = "K",
-	["ì"] = "V",
-	["í"] = "Y",
-	["î"] = "J",
-	["ï"] = "G",
-	["ð"] = "H",
-	["ñ"] = "C",
-	["ò"] = "N",
-	["ó"] = "E",
-	["ô"] = "A",
-	["õ"] = "[",
-	["ö"] = "W",
-	["÷"] = "X",
-	["ø"] = "I",
-	["ù"] = "O",
-	["ú"] = "]",
-	["û"] = "S",
-	["ü"] = "M",
-	["ý"] = "'",
-	["þ"] = ".",
-	["ÿ"] = "Z",
-	["i"] = "S",
-	["¿"] = "]",
-	["´"] = "¥",
-	["º"] = "'",
+  ["ï¿½"] = "F",
+  ["ï¿½"] = ",",
+  ["ï¿½"] = "D",
+  ["ï¿½"] = "U",
+  ["ï¿½"] = "L",
+  ["ï¿½"] = "T",
+  ["ï¿½"] = "~",
+  ["ï¿½"] = ";",
+  ["ï¿½"] = "P",
+  ["ï¿½"] = "B",
+  ["ï¿½"] = "Q",
+  ["ï¿½"] = "R",
+  ["ï¿½"] = "K",
+  ["ï¿½"] = "V",
+  ["ï¿½"] = "Y",
+  ["ï¿½"] = "J",
+  ["ï¿½"] = "G",
+  ["ï¿½"] = "H",
+  ["ï¿½"] = "C",
+  ["ï¿½"] = "N",
+  ["ï¿½"] = "E",
+  ["ï¿½"] = "A",
+  ["ï¿½"] = "[",
+  ["ï¿½"] = "W",
+  ["ï¿½"] = "X",
+  ["ï¿½"] = "I",
+  ["ï¿½"] = "O",
+  ["ï¿½"] = "]",
+  ["ï¿½"] = "S",
+  ["ï¿½"] = "M",
+  ["ï¿½"] = "'",
+  ["ï¿½"] = ".",
+  ["ï¿½"] = "Z",
+  ["i"] = "S",
+  ["ï¿½"] = "]",
+  ["ï¿½"] = "ï¿½",
+  ["ï¿½"] = "'",
 }
 
 function format_key_name(s)
-	local language = get_console():get_string("g_language")
-	if language == "rus" or language == "ukr" or language == "bel" then
-		return keys_to_eng[s] or s
-	else
-		return s
-	end
+  local language = get_console():get_string("g_language")
+  if language == "rus" or language == "ukr" or language == "bel" then
+    return keys_to_eng[s] or s
+  else
+    return s
+  end
 end
 
 local wallmark_objects_table = {}
 
 function create_wallmark(texture, pos, dir, dist, size)
-	local wallmark_obj = wallmark_object()
-	wallmark_obj:create(texture, pos, dir, dist, size)
-	table.insert(wallmark_objects_table, wallmark_obj)
+  local wallmark_obj = wallmark_object()
+  wallmark_obj:create(texture, pos, dir, dist, size)
+  table.insert(wallmark_objects_table, wallmark_obj)
 end
 
 function destroy_wallmarks()
-	for i = 1, #wallmark_objects_table do
-		wallmark_objects_table[i]:destroy()
-	end
-	clear_table(wallmark_objects_table)
+  for i = 1, #wallmark_objects_table do
+    wallmark_objects_table[i]:destroy()
+  end
+  clear_table(wallmark_objects_table)
 end
 
 function on_actor_spawn()
-	if not alife() then
-		return
-	end
+  if not alife() then
+    return
+  end
 
-	if not has_alife_info("tasks_counter_start") then
-		xr_effects.set_counter(db.actor, nil, {"active_tasks", 0})
-		give_info("tasks_counter_start")
-	end
+  if not has_alife_info("tasks_counter_start") then
+    xr_effects.set_counter(db.actor, nil, { "active_tasks", 0 })
+    give_info("tasks_counter_start")
+  end
 
-	ts_utils.remove_brkbl_objects()
-	ts_utils.remove_random_loot_objects()
+  ts_utils.remove_brkbl_objects()
+  ts_utils.remove_random_loot_objects()
 
-	if not string.find(command_line(), "-ignore_set_sound") then
-		ts_utils.volume_effects_on("snd_volume_eff")
-		ts_utils.volume_effects_on("snd_volume_music")
-	end
+  if not string.find(command_line(), "-ignore_set_sound") then
+    ts_utils.volume_effects_on("snd_volume_eff")
+    ts_utils.volume_effects_on("snd_volume_music")
+  end
 
-	if xr_conditions.squad_exist(db.actor, nil, {"esc_bridge_special_squad"}) then
-		xr_effects.remove_squad(db.actor, nil, {"esc_bridge_special_squad"})
-	end
+  if xr_conditions.squad_exist(db.actor, nil, { "esc_bridge_special_squad" }) then
+    xr_effects.remove_squad(db.actor, nil, { "esc_bridge_special_squad" })
+  end
 
-	if has_alife_info("lock_save") then
-		disable_info("lock_save")
-	end
+  if has_alife_info("lock_save") then
+    disable_info("lock_save")
+  end
 
-	consoles_debug.getconsole()
+  consoles_debug.getconsole()
 
-	if not has_alife_info("oskolok_on_levels_created") then
-		create_oskolok_on_level("esc")
-		create_oskolok_on_level("gar")
-		create_oskolok_on_level("agr")
-		create_oskolok_on_level("val")
-		create_oskolok_on_level("nsp")
-		give_info("oskolok_on_levels_created")
-	end
+  if not has_alife_info("oskolok_on_levels_created") then
+    create_oskolok_on_level("esc")
+    create_oskolok_on_level("gar")
+    create_oskolok_on_level("agr")
+    create_oskolok_on_level("val")
+    create_oskolok_on_level("nsp")
+    give_info("oskolok_on_levels_created")
+  end
 
-	if level.name() == "ts_millab" then
-		for i = 1, 4 do
-			give_info("mlab_scientist_zombie_scene_" .. i .. "_teleport_after_load")
-		end
-	end
+  if level.name() == "ts_millab" then
+    for i = 1, 4 do
+      give_info("mlab_scientist_zombie_scene_" .. i .. "_teleport_after_load")
+    end
+  end
 
-	if level.name() == "ts_test_level" then
-		for i = 1, 4 do
-			local texture = "wm\\wm_blood_drop_" .. tostring(i)
-			local pos = vector():set(-6-i*1.5, 1.6, -2.35)
-			local dir = vector():set(0, -1, 0)
-			local dist = 10
-			local size = 0.5
+  if level.name() == "ts_test_level" then
+    for i = 1, 4 do
+      local texture = "wm\\wm_blood_drop_" .. tostring(i)
+      local pos = vector():set(-6 - i * 1.5, 1.6, -2.35)
+      local dir = vector():set(0, -1, 0)
+      local dist = 10
+      local size = 0.5
 
-			create_wallmark(texture, pos, dir, dist, size)
-		end
-	end
+      create_wallmark(texture, pos, dir, dist, size)
+    end
+  end
 
-	if level.name() == "ts_nshep" and has_alife_info("nsp_hunter_retrieve_scanner_compl") then
-		xr_effects.nsp_general_boar_task_add_blood_drops()
-	end
+  if level.name() == "ts_nshep" and has_alife_info("nsp_hunter_retrieve_scanner_compl") then
+    xr_effects.nsp_general_boar_task_add_blood_drops()
+  end
 
-	if not has_alife_info("actor_global_treasure_created") then
-		actor_global_treasure_create()
-	end
+  if not has_alife_info("actor_global_treasure_created") then
+    actor_global_treasure_create()
+  end
 
-	if not has_alife_info("actor_arrived_" .. level.name()) then
-		db.actor:add_article("encyclopedia_locations_" .. level.name())
-		give_info("actor_arrived_" .. level.name())
-	end
+  if not has_alife_info("actor_arrived_" .. level.name()) then
+    db.actor:add_article("encyclopedia_locations_" .. level.name())
+    give_info("actor_arrived_" .. level.name())
+  end
 
-	if not ts_engine_calls.pda_global_map_enabled() then
-		disable_radar(true)
-	elseif has_alife_info("radar_disabled") then
-		disable_radar()
-	else
-		enable_radar()
-	end
+  if not ts_engine_calls.pda_global_map_enabled() then
+    disable_radar(true)
+  elseif has_alife_info("radar_disabled") then
+    disable_radar()
+  else
+    enable_radar()
+  end
 
-	if has_alife_info("hud_disabled") then
-		disable_hud()
-	end
+  if has_alife_info("hud_disabled") then
+    disable_hud()
+  end
 
-	get_hud():AddCustomStatic("antifreeze_static", true)
-	-- get_hud():AddCustomStatic("vignette_static", true)
+  get_hud():AddCustomStatic("antifreeze_static", true)
+  -- get_hud():AddCustomStatic("vignette_static", true)
 
-	check_scenario_actions()
+  check_scenario_actions()
 end
 
 function on_actor_destroy()
-	destroy_wallmarks()
+  destroy_wallmarks()
 end
 
 function on_actor_first_update()
 end
 
 function actor_global_treasure_create(level_name)
-	local place_zone_id = get_story_object_id("actor_global_treasure_place_" .. (level_name or level.name()))
+  local place_zone_id = get_story_object_id("actor_global_treasure_place_" .. (level_name or level.name()))
 
-	if place_zone_id == nil then
-		return
-	end
+  if place_zone_id == nil then
+    return
+  end
 
-	local place_zone = alife():object(place_zone_id)
+  local place_zone = alife():object(place_zone_id)
 
-	if place_zone ~= nil then
-		local position = place_zone.position
-		local gvid = place_zone.m_game_vertex_id
-		local lvid = place_zone.m_level_vertex_id
+  if place_zone ~= nil then
+    local position = place_zone.position
+    local gvid = place_zone.m_game_vertex_id
+    local lvid = place_zone.m_level_vertex_id
 
-		local actor_treasure_id = get_story_object_id("actor_global_treasure")
+    local actor_treasure_id = get_story_object_id("actor_global_treasure")
 
-		if actor_treasure_id == nil then
-			local actor_treasure = alife():create("actor_global_treasure", position, lvid, gvid)
-			actor_treasure:use_ai_locations(false)
-			level.map_add_object_spot_ser(actor_treasure.id, "ts_actor_box_location", "st_actor_global_treasure")
-			give_info("actor_global_treasure_created")
-		end
+    if actor_treasure_id == nil then
+      local actor_treasure = alife():create("actor_global_treasure", position, lvid, gvid)
+      actor_treasure:use_ai_locations(false)
+      level.map_add_object_spot_ser(actor_treasure.id, "ts_actor_box_location", "st_actor_global_treasure")
+      give_info("actor_global_treasure_created")
+    end
 
-		actor_global_treasure_teleport(level.name())
-	end
+    actor_global_treasure_teleport(level.name())
+  end
 end
 
 function actor_global_treasure_teleport(level_name)
-	local place_zone_id = get_story_object_id("actor_global_treasure_place_" .. (level_name or level.name()))
+  local place_zone_id = get_story_object_id("actor_global_treasure_place_" .. (level_name or level.name()))
 
-	if place_zone_id == nil then
-		return
-	end
+  if place_zone_id == nil then
+    return
+  end
 
-	local place_zone = alife():object(place_zone_id)
-	if place_zone ~= nil then
-		local position = place_zone.position
-		local direction = place_zone.angle
-		local gvid = place_zone.m_game_vertex_id
-		local lvid = place_zone.m_level_vertex_id
+  local place_zone = alife():object(place_zone_id)
+  if place_zone ~= nil then
+    local position = place_zone.position
+    local direction = place_zone.angle
+    local gvid = place_zone.m_game_vertex_id
+    local lvid = place_zone.m_level_vertex_id
 
-		local actor_treasure_id = get_story_object_id("actor_global_treasure")
+    local actor_treasure_id = get_story_object_id("actor_global_treasure")
 
-		if actor_treasure_id == nil then
-			actor_global_treasure_create(level_name or level.name())
-			actor_treasure_id = get_story_object_id("actor_global_treasure")
-		end
+    if actor_treasure_id == nil then
+      actor_global_treasure_create(level_name or level.name())
+      actor_treasure_id = get_story_object_id("actor_global_treasure")
+    end
 
-		if actor_treasure_id ~= nil then
-			alife():teleport_object(actor_treasure_id, gvid, lvid, position, direction)
-		end
-	end
+    if actor_treasure_id ~= nil then
+      alife():teleport_object(actor_treasure_id, gvid, lvid, position, direction)
+    end
+  end
 end
 
 function actor_global_treasure_update_visual(actor_treasure)
-	local visuals = {}
-	local default_visual = "dynamics\\ts_dyn\\ts_actor_box_1"
+  local visuals = {}
+  local default_visual = "dynamics\\ts_dyn\\ts_actor_box_1"
 
-	-- visuals["escape"] = "dynamics\\equipment_cache\\equipment_box_01_case"
-	-- visuals["garbage"] = "dynamics\\equipment_cache\\equipment_box_02_case"
-	-- visuals["agroprom"] = "dynamics\\ts_dyn\\ts_actor_box_1"
-	-- visuals["military"] = "dynamics\\ts_dyn\\ts_actor_box_1"
-	-- visuals["darkvalley"] = "dynamics\\ts_dyn\\ts_actor_box_1"
-	-- visuals["bar"] = "dynamics\\ts_dyn\\ts_actor_box_1"
-	-- visuals["ts_nshep"] = "dynamics\\ts_dyn\\ts_actor_box_1"
-	-- visuals["yantar"] = "dynamics\\ts_dyn\\ts_actor_box_1"
-	-- visuals["ts_test_level"] = "dynamics\\ts_dyn\\ts_actor_box_1"
+  -- visuals["escape"] = "dynamics\\equipment_cache\\equipment_box_01_case"
+  -- visuals["garbage"] = "dynamics\\equipment_cache\\equipment_box_02_case"
+  -- visuals["agroprom"] = "dynamics\\ts_dyn\\ts_actor_box_1"
+  -- visuals["military"] = "dynamics\\ts_dyn\\ts_actor_box_1"
+  -- visuals["darkvalley"] = "dynamics\\ts_dyn\\ts_actor_box_1"
+  -- visuals["bar"] = "dynamics\\ts_dyn\\ts_actor_box_1"
+  -- visuals["ts_nshep"] = "dynamics\\ts_dyn\\ts_actor_box_1"
+  -- visuals["yantar"] = "dynamics\\ts_dyn\\ts_actor_box_1"
+  -- visuals["ts_test_level"] = "dynamics\\ts_dyn\\ts_actor_box_1"
 
-	actor_treasure:set_visual_name(visuals[level.name()] or default_visual)
+  actor_treasure:set_visual_name(visuals[level.name()] or default_visual)
 end
 
 function enable_radar()
-	get_hud():ShowRadarStatic(true)
-	disable_info("radar_disabled")
+  get_hud():ShowRadarStatic(true)
+  disable_info("radar_disabled")
 end
 
 function disable_radar(dont_give_disabled_info)
-	get_hud():ShowRadarStatic(false)
-	if not dont_give_disabled_info then
-		give_info("radar_disabled")
-	end
-	log_ts("disable_radar")
+  get_hud():ShowRadarStatic(false)
+  if not dont_give_disabled_info then
+    give_info("radar_disabled")
+  end
+  log_ts("disable_radar")
 end
 
 function enable_hud()
-	get_hud():ShowMainIngameWnd(true)
-	disable_info("hud_disabled")
+  get_hud():ShowMainIngameWnd(true)
+  disable_info("hud_disabled")
 end
 
 function disable_hud()
-	get_hud():ShowMainIngameWnd(false)
-	give_info("hud_disabled")
+  get_hud():ShowMainIngameWnd(false)
+  give_info("hud_disabled")
 end
 
 function set_actor_health(health)
-	if health <= 0 then
-		db.actor:kill(db.actor)
-		return
-	end
+  if health <= 0 then
+    db.actor:kill(db.actor)
+    return
+  end
 
-	db.actor.health = 1;
-	health = 1 - health
+  db.actor.health = 1;
+  health = 1 - health
 
-	local start_time = time_global()
+  local start_time = time_global()
 
-	level.add_call(
-		function()
-			return time_global() - start_time > 10
-		end,
+  level.add_call(
+    function()
+      return time_global() - start_time > 10
+    end,
 
-		function()
-			db.actor.health = -health
-		end
-	)
+    function()
+      db.actor.health = -health
+    end
+  )
 end
 
 function control_chapters(next_level)
-	local conditions = {
-		[1] = {
-			current_level = "escape",
-			next_level = "garbage",
-			need_info = "esc_provodnik_robbery_compl_dlg"
-		},
-		[2] = {
-			current_level = "garbage",
-			next_level = "darkvalley",
-			need_info = "gar_stalker_trader_bandits_dialog_compl"
-		},
-		[3] = {
-			current_level = "darkvalley",
-			next_level = "ts_valley_katakomb",
-			need_info = "val_treasure_scene_end"
-		},
-		[4] = {
-			current_level = "ts_valley_katakomb",
-			next_level = "garbage",
-			need_info = "kat_boss_monster_death"
-		},
-		[5] = {
-			current_level = "escape",
-			next_level = "ts_nshep",
-			need_info = "esc_jurok_new_meet_second_dialog_nshep_info"
-		},
-		[6] = {
-			current_level = "escape",
-			next_level = "agroprom",
-			need_info = "start_second_character_story"
-		},
-		[7] = {
-			current_level = "yantar",
-			next_level = "agroprom",
-			need_info = "yan_final_task_scene_compl"
-		},
-		[8] = {
-			current_level = "military",
-			next_level = "ts_millab",
-			need_info = "mil_merc_leader_final_monolog_compl"
-		},
-		[9] = {
-			current_level = "ts_millab",
-			next_level = "military",
-			need_info = "mlab_scientist_boss_final_door_open"
-		}
-	}
+  local conditions = {
+    [1] = {
+      current_level = "escape",
+      next_level = "garbage",
+      need_info = "esc_provodnik_robbery_compl_dlg"
+    },
+    [2] = {
+      current_level = "garbage",
+      next_level = "darkvalley",
+      need_info = "gar_stalker_trader_bandits_dialog_compl"
+    },
+    [3] = {
+      current_level = "darkvalley",
+      next_level = "ts_valley_katakomb",
+      need_info = "val_treasure_scene_end"
+    },
+    [4] = {
+      current_level = "ts_valley_katakomb",
+      next_level = "garbage",
+      need_info = "kat_boss_monster_death"
+    },
+    [5] = {
+      current_level = "escape",
+      next_level = "ts_nshep",
+      need_info = "esc_jurok_new_meet_second_dialog_nshep_info"
+    },
+    [6] = {
+      current_level = "escape",
+      next_level = "agroprom",
+      need_info = "start_second_character_story"
+    },
+    [7] = {
+      current_level = "yantar",
+      next_level = "agroprom",
+      need_info = "yan_final_task_scene_compl"
+    },
+    [8] = {
+      current_level = "military",
+      next_level = "ts_millab",
+      need_info = "mil_merc_leader_final_monolog_compl"
+    },
+    [9] = {
+      current_level = "ts_millab",
+      next_level = "military",
+      need_info = "mlab_scientist_boss_final_door_open"
+    }
+  }
 
-	for k, v in pairs(conditions) do
-		local lock_info = "chapter_" .. k .. "_clear"
-		local cond = not has_alife_info(lock_info)
-					 and v.current_level == level.name()
-					 and v.next_level == next_level
-					 and has_alife_info(v.need_info)
+  for k, v in pairs(conditions) do
+    local lock_info = "chapter_" .. k .. "_clear"
+    local cond = not has_alife_info(lock_info)
+        and v.current_level == level.name()
+        and v.next_level == next_level
+        and has_alife_info(v.need_info)
 
-		if cond then
-			level.set_game_chapter(0)
-			give_info(lock_info)
-			break
-		end
-	end
+    if cond then
+      level.set_game_chapter(0)
+      give_info(lock_info)
+      break
+    end
+  end
 end
 
 function get_character_texture()
-	local function get_actor_prefix()
-		if has_alife_info("start_second_character_story") then
-			if has_alife_info("mil_heli_final_task_actor_heli_down_scene_start") and not has_alife_info("mil_merc_leader_final_monolog_compl") then
-				return "soldier_sky"
-			end
-			return "soldier"
-		end
+  local function get_actor_prefix()
+    if has_alife_info("start_second_character_story") then
+      if has_alife_info("mil_heli_final_task_actor_heli_down_scene_start") and not has_alife_info("mil_merc_leader_final_monolog_compl") then
+        return "soldier_sky"
+      end
+      return "soldier"
+    end
 
-		return "stalker"
-	end
+    return "stalker"
+  end
 
-	local outfit = db.actor:get_current_outfit() and db.actor:get_current_outfit():section() or "sviter"
-	local actor_prefix = get_actor_prefix()
+  local outfit = db.actor:get_current_outfit() and db.actor:get_current_outfit():section() or "sviter"
+  local actor_prefix = get_actor_prefix()
 
-	if actor_prefix == "soldier_sky" and outfit ~= "sviter" then
-		outfit = "military_outfit"
-	end
+  if actor_prefix == "soldier_sky" and outfit ~= "sviter" then
+    outfit = "military_outfit"
+  end
 
-	return "ui_inGame2_" .. actor_prefix .. "_actor_" .. outfit
+  return "ui_inGame2_" .. actor_prefix .. "_actor_" .. outfit
 end
 
 function call_delay(func, time)
-	local start_time = time_global()
+  local start_time = time_global()
 
-	local condition = function()
-		return time_global() - start_time >= time
-	end
+  local condition = function()
+    return time_global() - start_time >= time
+  end
 
-	level.add_call(condition, func)
+  level.add_call(condition, func)
 end
 
 function actor_can_jump()
-	return not actor_is_scientist()
+  return not actor_is_scientist()
 end
 
 function actor_can_crouch()
-	return not actor_is_scientist()
+  return not actor_is_scientist()
 end
 
 function outfit_is_dressed(outfit_section)
-    local outfit = db.actor:get_current_outfit()
+  local outfit = db.actor:get_current_outfit()
 
-    if outfit_section ~= nil then
-        return outfit and outfit:section() == outfit_section
-    end
+  if outfit_section ~= nil then
+    return outfit and outfit:section() == outfit_section
+  end
 
-    return outfit ~= nil
+  return outfit ~= nil
 end
 
 function can_save()
-	return not db.actor:is_talking() and not has_alife_info("lock_save")
+  return not db.actor:is_talking() and not has_alife_info("lock_save")
 end
 
 function create_ammo(section, position, lvi, gvi, pid, num)
-	local ini = system_ini()
+  local ini = system_ini()
 
-	local num_in_box = ini:r_u32(section, "box_size")
-	local t = {}
-	while num > num_in_box do
-		local obj = alife():create_ammo(section, position, lvi,	gvi, pid, num_in_box)
-		table.insert(t, obj)
-		num = num - num_in_box
-	end
-	local obj = alife():create_ammo(section, position, lvi,	gvi, pid, num)
+  local num_in_box = ini:r_u32(section, "box_size")
+  local t = {}
+  while num > num_in_box do
+    local obj = alife():create_ammo(section, position, lvi, gvi, pid, num_in_box)
     table.insert(t, obj)
-	return t
+    num = num - num_in_box
+  end
+  local obj = alife():create_ammo(section, position, lvi, gvi, pid, num)
+  table.insert(t, obj)
+  return t
 end
 
 function spawn_actor_item(section, show_message, replace_active_item)
-	local sobj = alife():create(section, vector(), 0, 0, 0)
+  local sobj = alife():create(section, vector(), 0, 0, 0)
 
-	if show_message == nil then
-		show_message = true
-	end
+  if show_message == nil then
+    show_message = true
+  end
 
-	if show_message then
-		local message = gts("general_in_item")
-		local item_name = gts(system_ini():r_string(section, "inv_name"))
+  if show_message then
+    local message = gts("general_in_item")
+    local item_name = gts(system_ini():r_string(section, "inv_name"))
 
-		if db.actor:is_talking() then
-			db.actor:give_talk_message2(message, item_name, "ui_inGame2_Predmet_poluchen", "iconed_answer_item")
-		else
-			db.actor:give_game_news(message, item_name, "ui_inGame2_Predmet_poluchen", 0, 3000, false)
-		end
-	end
+    if db.actor:is_talking() then
+      db.actor:give_talk_message2(message, item_name, "ui_inGame2_Predmet_poluchen", "iconed_answer_item")
+    else
+      db.actor:give_game_news(message, item_name, "ui_inGame2_Predmet_poluchen", 0, 3000, false)
+    end
+  end
 
-	local function activate_callback(k, v, obj)
-		if obj ~= nil then
-			db.actor:make_item_active(obj)
-		end
-	end
+  local function activate_callback(k, v, obj)
+    if obj ~= nil then
+      db.actor:make_item_active(obj)
+    end
+  end
 
-	if replace_active_item then
-		level.client_spawn_manager():add(sobj.id, 0, activate_callback, 0)
-	end
+  if replace_active_item then
+    level.client_spawn_manager():add(sobj.id, 0, activate_callback, 0)
+  end
 end
 
 function check_scenario_actions()
-	if has_alife_info("esc_scientists_task_first_scene_end") and not (has_alife_info("esc_scientists_task_base_cancel_jobs_start") or has_alife_info("esc_scientists_task_make_decision_start") or has_alife_info("esc_scientiscts_task_fly_village_scene_compl") or has_alife_info("esc_scientists_task_fly_village_scene_cancel")) then
-		give_info("esc_scientists_task_ignore_fucking_actor")
-	end
+  if has_alife_info("esc_scientists_task_first_scene_end") and not (has_alife_info("esc_scientists_task_base_cancel_jobs_start") or has_alife_info("esc_scientists_task_make_decision_start") or has_alife_info("esc_scientiscts_task_fly_village_scene_compl") or has_alife_info("esc_scientists_task_fly_village_scene_cancel")) then
+    give_info("esc_scientists_task_ignore_fucking_actor")
+  end
 
-	if level.name() ~= "garbage" and has_alife_info("gar_spend_desertir_save") and not (has_alife_info("gar_jurok_desertir_complete") or has_alife_info("gar_jurok_desertir_task_fail")) then
-		give_info("gar_jurok_desertir_task_fail")
-	end
+  if level.name() ~= "garbage" and has_alife_info("gar_spend_desertir_save") and not (has_alife_info("gar_jurok_desertir_complete") or has_alife_info("gar_jurok_desertir_task_fail")) then
+    give_info("gar_jurok_desertir_task_fail")
+  end
 
-	if has_alife_info("esc_go_to_gar_started") and
-		level.name() ~= "escape" and
-		not has_alife_info("esc_stalker_car_fail_task_out_escape") and
-		not has_alife_info("esc_stalker_car_wound_dialog_compl") and
-		not has_alife_info("esc_stalker_car_reversed_task_spawn_banda") and
-		not has_alife_info("esc_stalker_car_fail_task")
-	then
-		give_info("esc_stalker_car_fail_task_out_escape")
-	end
+  if has_alife_info("esc_go_to_gar_started") and
+      level.name() ~= "escape" and
+      not has_alife_info("esc_stalker_car_fail_task_out_escape") and
+      not has_alife_info("esc_stalker_car_wound_dialog_compl") and
+      not has_alife_info("esc_stalker_car_reversed_task_spawn_banda") and
+      not has_alife_info("esc_stalker_car_fail_task")
+  then
+    give_info("esc_stalker_car_fail_task_out_escape")
+  end
 end
 
 function actor_use_gas()
-	local ini = system_ini()
+  local ini = system_ini()
 
-	local helmet = db.actor:item_in_slot(12)
-	local helmet_is_gas = helmet and helmet:uses_actor_gas_sounds()
-	local show_helmet = get_console():get_bool("g_show_actor_helmet")
-	local use_gas_by_helmet = show_helmet and helmet_is_gas
+  local helmet = db.actor:item_in_slot(12)
+  local helmet_is_gas = helmet and helmet:uses_actor_gas_sounds()
+  local show_helmet = get_console():get_bool("g_show_actor_helmet")
+  local use_gas_by_helmet = show_helmet and helmet_is_gas
 
-	local outfit = db.actor:get_current_outfit()
-	local use_gas_by_outfit = outfit and outfit:uses_actor_gas_sounds()
+  local outfit = db.actor:get_current_outfit()
+  local use_gas_by_outfit = outfit and outfit:uses_actor_gas_sounds()
 
-	return use_gas_by_helmet or use_gas_by_outfit
+  return use_gas_by_helmet or use_gas_by_outfit
 end
 
 saved_game_extension = ".scop"
 
 function get_last_save()
-	local saves_list = getFS():file_list_open_ex("$game_saves$", bit_or(FS.FS_ListFiles, FS.FS_RootOnly), "*" .. saved_game_extension)
+  local saves_list = getFS():file_list_open_ex("$game_saves$", bit_or(FS.FS_ListFiles, FS.FS_RootOnly),
+    "*" .. saved_game_extension)
 
-	if saves_list:Size() == 0 then
-		return nil
-	end
+  if saves_list:Size() == 0 then
+    return nil
+  end
 
-	saves_list:Sort(FS.FS_sort_by_modif_down)
+  saves_list:Sort(FS.FS_sort_by_modif_down)
 
-	return saves_list:GetAt(0)
+  return saves_list:GetAt(0)
 end
 
 function get_save_file_name(file)
-	return file and string.sub(file:NameFull(), 0, #file:NameFull() - #saved_game_extension) or nil
+  return file and string.sub(file:NameFull(), 0, #file:NameFull() - #saved_game_extension) or nil
 end
 
 function create_oskolok_on_level(level_prefix)
-	local oskolok_list = {"af_oskolok_vikidish", "af_oskolok_sirota", "af_oskolok_shmatok"}
-	local prob = 0.25
-	local path_count = 0
-	local max_count_on_level = 4
+  local oskolok_list = { "af_oskolok_vikidish", "af_oskolok_sirota", "af_oskolok_shmatok" }
+  local prob = 0.25
+  local path_count = 0
+  local max_count_on_level = 4
 
-	while true do
-		local path_name = level_prefix .. "_oskolok_point_" .. (path_count + 1)
+  while true do
+    local path_name = level_prefix .. "_oskolok_point_" .. (path_count + 1)
 
-		if not level.patrol_path_exists(path_name) then
-			break
-		end
+    if not level.patrol_path_exists(path_name) then
+      break
+    end
 
-		path_count = path_count + 1
-	end
+    path_count = path_count + 1
+  end
 
-	local created_count = 0
+  local created_count = 0
 
-	if path_count > 0 then
-		for i = 1, path_count do
-			if math.random() <= prob then
-				local path = patrol(level_prefix .. "_oskolok_point_" .. i)
-				local oskolok_section = oskolok_list[math.random(1, #oskolok_list)]
+  if path_count > 0 then
+    for i = 1, path_count do
+      if math.random() <= prob then
+        local path = patrol(level_prefix .. "_oskolok_point_" .. i)
+        local oskolok_section = oskolok_list[math.random(1, #oskolok_list)]
 
-				local oskolok = alife():create(oskolok_section, path:point(0), path:level_vertex_id(0), path:game_vertex_id(0))
-				oskolok:use_ai_locations(false)
-				-- AddMapSpot(oskolok.id, "storyline_task_location", "oskolok", true)
-				created_count = created_count + 1
-			end
+        local oskolok = alife():create(oskolok_section, path:point(0), path:level_vertex_id(0), path:game_vertex_id(0))
+        oskolok:use_ai_locations(false)
+        -- AddMapSpot(oskolok.id, "storyline_task_location", "oskolok", true)
+        created_count = created_count + 1
+      end
 
-			if created_count >= max_count_on_level then
-				break
-			end
-		end
-	end
+      if created_count >= max_count_on_level then
+        break
+      end
+    end
+  end
 
-	log_ts("$ create_oskolok_on_level: level_prefix = %s, path_count = %d, created_count = %d", level_prefix, path_count, created_count)
+  log_ts("$ create_oskolok_on_level: level_prefix = %s, path_count = %d, created_count = %d", level_prefix, path_count,
+    created_count)
 end
