@@ -1,0 +1,347 @@
+<string_table>
+  <string id="actor_inventory_box_use">
+    <text>Otwórz skrytkę ($$ACTION_USE$$)</text>
+  </string>
+  <string id="cant_walk">
+    <text>Wyczerpanie nie pozwala ci iść dalej</text>
+  </string>
+  <string id="cant_walk_weight">
+    <text>Nadmierne obciążenie nie pozwala ci iść dalej</text>
+  </string>
+  <string id="car_character_use">
+    <text>Otwórz drzwi ($$ACTION_USE$$)</text>
+  </string>
+  <string id="character_use">
+    <text>Rozmawiaj ($$ACTION_USE$$)</text>
+  </string>
+  <string id="dead_character_use">
+    <text>Przeszukaj ciało ($$ACTION_USE$$)</text>
+  </string>
+  <string id="dead_character_use_or_drag">
+    <text>Przeszukaj ciało ($$ACTION_USE$$)\nPrzeciągnij ciało (SHIFT+$$ACTION_USE$$)</text>
+  </string>
+  <string id="general_complete_task">
+    <text>Zadanie wykonane:</text>
+  </string>
+  <string id="general_fail_task">
+    <text>Zadanie nie powiodło się:</text>
+  </string>
+  <string id="general_in_item">
+    <text>Otrzymany przedmiot:</text>
+  </string>
+  <string id="general_in_money">
+    <text>Otrzymane pieniądze:</text>
+  </string>
+  <string id="general_new_task">
+    <text>Nowe zadanie:</text>
+  </string>
+  <string id="general_out_item">
+    <text>Utracony przedmiot:</text>
+  </string>
+  <string id="general_out_money">
+    <text>Utracone pieniądze:</text>
+  </string>
+  <string id="general_reverse_task">
+    <text>Zadanie anulowane:</text>
+  </string>
+  <string id="general_update_task">
+    <text>Nowe informacje o zadaniu:</text>
+  </string>
+  <string id="gun_jammed">
+    <text>Broń się zacięła. Musisz przeładować.</text>
+  </string>
+  <string id="inventory_box_use">
+    <text>Przeszukaj skrzynkę ($$ACTION_USE$$)</text>
+  </string>
+  <string id="inventory_item_use">
+    <text>Podnieś przedmiot ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b10_ufo_searching_tips">
+    <text>Przeszukaj samolot ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b1_bar_door">
+    <text>Drzwi się zacięły</text>
+  </string>
+  <string id="jup_b1_door_is_closed">
+    <text>Drzwi są zamknięte od środka</text>
+  </string>
+  <string id="jup_b202_treasures_closed">
+    <text>Sejf zamknięty</text>
+  </string>
+  <string id="jup_b205_tip_door_closed">
+    <text>Potrzebny jest kod</text>
+  </string>
+  <string id="jup_b205_tip_door_decode">
+    <text>Wprowadź kod ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b206_use_plant">
+    <text>Podnieś roślinę ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b209_scanner_place_tips">
+    <text>Ustaw skaner ($$ACTION_USE$$)</text>
+  </string>
+  <string id="jup_b209_scanner_remove_tips">
+    <text>Weź skaner ($$ACTION_USE$$)</text>
+  </string>
+  <string id="lx8_raduga">
+    <text>Supresor agresji Tęcza\nmodel zewnętrznego kompleksu emisji\nskala1:20</text>
+  </string>
+  <string id="pas_b400_tip_switcher">
+    <text>Użyj przełącznika ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a18_use_idol">
+    <text>Zbadaj urządzenie ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a25_blow_up_enter_door">
+    <text>Podłóż ładunki wybuchowe ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_a28_talk_with_stupid_medic">
+    <text>Odzyskaj ($$ACTION_USE$$)</text>
+  </string>
+  <string id="pri_b306_elevator_door_locked_used">
+    <text>Brak zasilania windy</text>
+  </string>
+  <string id="pri_b306_generator_use">
+    <text>Włącz generator ($$ACTION_USE$$)</text>
+  </string>
+  <string id="sleep_ok_button">
+    <text>Śpij</text>
+  </string>
+  <string id="sleep_warning_all_pleasures">
+    <text>Nie możesz spać! Gwałtownie krwawisz, a aktualny stopień napromieniowania zagraża twojemu życiu. Użyj lekarstw lub odwiedź medyka. </text>
+  </string>
+  <string id="sleep_warning_bleeding">
+    <text>Nie możesz spać! Gwałtownie krwawisz. Użyj lekarstw lub odwiedź medyka.</text>
+  </string>
+  <string id="sleep_warning_radiation">
+    <text>Nie możesz spać! Aktualny stopień napromieniowania zagraża twojemu życiu. Użyj lekarstw lub odwiedź medyka. </text>
+  </string>
+  <string id="sleep_zone_tip">
+    <text>Śpij ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_ach_balance_advocate">
+    <text>Udało ci się zdobyć osiągnięcie „Obrońca równowagi”.</text>
+  </string>
+  <string id="st_ach_battle_systems_master">
+    <text>Udało ci się zdobyć osiągnięcie „Ekspert systemów obronnych”.</text>
+  </string>
+  <string id="st_ach_detective">
+    <text>Udało ci się zdobyć osiągnięcie „Detektyw”.</text>
+  </string>
+  <string id="st_ach_diplomat">
+    <text>Udało ci się zdobyć osiągnięcie „Dyplomata”. </text>
+  </string>
+  <string id="st_ach_friend_of_duty">
+    <text>Udało ci się zdobyć osiągnięcie „Przyjaciel Powinności”.</text>
+  </string>
+  <string id="st_ach_friend_of_freedom">
+    <text>Udało ci się zdobyć osiągnięcie „Przyjaciel Wolności”.</text>
+  </string>
+  <string id="st_ach_friend_of_stalkers">
+    <text>Udało ci się zdobyć osiągnięcie „Przyjaciel stalkerów”.</text>
+  </string>
+  <string id="st_ach_herald_of_justice">
+    <text>Udało ci się zdobyć osiągnięcie „Wysłannik sprawiedliwości”.</text>
+  </string>
+  <string id="st_ach_high_tech_master">
+    <text>Udało ci się zdobyć osiągnięcie „Ekspert wysokiej technologii”.</text>
+  </string>
+  <string id="st_ach_information_dealer">
+    <text>Udało ci się zdobyć osiągnięcie „Handlarz informacjami”.</text>
+  </string>
+  <string id="st_ach_keeper_of_secrets">
+    <text>Udało ci się zdobyć osiągnięcie „Strażnik sekretów”.</text>
+  </string>
+  <string id="st_ach_kingpin">
+    <text>Udało ci się zdobyć osiągnięcie „Szef”.</text>
+  </string>
+  <string id="st_ach_leader">
+    <text>Udało ci się zdobyć osiągnięcie „Przywódca”.</text>
+  </string>
+  <string id="st_ach_mutant_hunter">
+    <text>Udało ci się zdobyć osiągnięcie „Łowca mutantów”.</text>
+  </string>
+  <string id="st_ach_one_of_the_lads">
+    <text>Udało ci się zdobyć osiągnięcie „Jeden z nas”.</text>
+  </string>
+  <string id="st_ach_pioneer">
+    <text>Udało ci się zdobyć osiągnięcie „Pionier”.</text>
+  </string>
+  <string id="st_ach_research_man">
+    <text>Udało ci się zdobyć osiągnięcie „Asystent”.</text>
+  </string>
+  <string id="st_ach_seeker">
+    <text>Udało ci się zdobyć osiągnięcie „Łowca artefaktów”.</text>
+  </string>
+  <string id="st_ach_skilled_stalker">
+    <text>Udało ci się zdobyć osiągnięcie „Doświadczony stalker”.</text>
+  </string>
+  <string id="st_ach_wealthy">
+    <text>Udało ci się zdobyć osiągnięcie „Bogaty klient”.</text>
+  </string>
+  <string id="st_autosave">
+    <text>Autozapis…</text>
+  </string>
+  <string id="st_can_use_weapon_now">
+    <text>Możesz teraz wyjąć broń.</text>
+  </string>
+  <string id="st_codelock">
+    <text>Zamek szyfrowy ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_detective_news">
+    <text>W nagrodę za rozwiązanie tajemnicy zaginionych stalkerów w twojej skrytce na Skadowsku zostały umieszczone środki medyczne.</text>
+  </string>
+  <string id="st_duty_first_reward_news">
+    <text>W nagrodę za pomoc Powinności w twojej skrytce na stacji Janów umieszczony został kombinezon PS5-M Uniwersalna ochrona.</text>
+  </string>
+  <string id="st_duty_second_reward_news">
+    <text>W nagrodę za pomoc Powinności w twojej skrytce na stacji Janów umieszczony został kombinezon Pancerz Powinności PSZ-9d. </text>
+  </string>
+  <string id="st_freedom_first_reward_news">
+    <text>W nagrodę za pomoc Wolności w twojej skrytce na stacji Janów umieszczony został kombinezon Powiew Wolności.</text>
+  </string>
+  <string id="st_freedom_second_reward_news">
+    <text>W nagrodę za pomoc Wolności w twojej skrytce na stacji Janów umieszczony został kombinezon Strażnik wolności.</text>
+  </string>
+  <string id="st_freeplay_text_ok">
+    <text>Nie udało ci się dotrzeć do helikopterów i drużyna ewakuacyjna opuściła Zonę bez ciebie.</text>
+  </string>
+  <string id="st_freeplay_text_yes_no">
+    <text>Czy na pewno chcesz opuścić Zonę? Powrót jest niemożliwy.</text>
+  </string>
+  <string id="st_game_over">
+    <text>Koniec gry.</text>
+  </string>
+  <string id="st_game_over_press_jump">
+    <text>Naciśnij klawisz ($$ACTION_JUMP$$), aby wyjść do menu głównego.</text>
+  </string>
+  <string id="st_game_paused">
+    <text>Pauza</text>
+  </string>
+  <string id="st_game_saved">
+    <text>Gra zapisana</text>
+  </string>
+  <string id="st_herald_of_justice_news">
+    <text>W nagrodę za pomoc w zdemaskowaniu Sroki w twojej skrytce na Skadowsku umieszczony został artefakt.</text>
+  </string>
+  <string id="st_jup_b41_door_locked">
+    <text>Musisz poczekać, aż dok zostanie uszczelniony.</text>
+  </string>
+  <string id="st_lx8_button_press_true">
+    <text>Przyznano dostęp</text>
+  </string>
+  <string id="st_lx8_lift_button">
+    <text>Jedź windą do góry ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_pri_b306_go_down">
+    <text>Jedź windą w dół ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_psy_danger">
+    <text>Krytyczny poziom emisji psionicznych. Opuść natychmiast zagrożony obszar.</text>
+  </string>
+  <string id="st_radiation_danger">
+    <text>Niebezpieczny poziom promieniowania. Aby przejść dalej, niezbędna jest ochrona.</text>
+  </string>
+  <string id="st_search_helicopter">
+    <text>Zbadaj helikopter ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_search_treasure">
+    <text>Przeszukaj schowek ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_sleep_hours">
+    <text>g.</text>
+  </string>
+  <string id="st_tip">
+    <text>Wiadomość</text>
+  </string>
+  <string id="tip_door_blocked">
+    <text>Drzwi zablokowane</text>
+  </string>
+  <string id="tip_door_close">
+    <text>Zamknij drzwi ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_door_closed_base_alarm">
+    <text>Drzwi zamknięte - obóz jest w stanie pogotowia</text>
+  </string>
+  <string id="tip_door_closed_hide_weapon">
+    <text>Drzwi zamknięte - musisz schować broń</text>
+  </string>
+  <string id="tip_door_locked">
+    <text>Drzwi zamknięte</text>
+  </string>
+  <string id="tip_door_no_electricity">
+    <text>Brak zasilania drzwi</text>
+  </string>
+  <string id="tip_door_open">
+    <text>Otwórz drzwi ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_gate_locked">
+    <text>Brama zablokowana</text>
+  </string>
+  <string id="tip_need_access_card">
+    <text>Użyj karty dostępu ($$ACTION_USE$$)</text>
+  </string>
+  <string id="tip_no_access_card">
+    <text>Wymagana karta dostępu</text>
+  </string>
+  <string id="tip_open_another_site">
+    <text>Drzwi nie można otworzyć z tej strony</text>
+  </string>
+  <string id="ui_st_mp_experience_grow">
+    <text>-</text>
+  </string>
+  <string id="zat_b12_conteiner_full_locked">
+    <text>Pojemnik jest zamknięty. Aby go otworzyć, potrzebne są dwa klucze.</text>
+  </string>
+  <string id="zat_b12_conteiner_has_one_key">
+    <text>Użyj klucza ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b12_conteiner_has_two_key">
+    <text>Użyj kluczy ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b12_conteiner_locked">
+    <text>Pojemnik jest zamknięty. Aby go otworzyć, potrzebny jest drugi klucz.</text>
+  </string>
+  <string id="zat_b12_conteiner_open">
+    <text>Otwórz pojemnik ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b14_door_locked_hint">
+    <text>Mechanizm drzwi został zablokowany od środka.</text>
+  </string>
+  <string id="zat_b57_balon_use_hint">
+    <text>Podłącz zbiornik z gazem ($$ACTION_USE$$) </text>
+  </string>
+  <string id="zat_b57_gas_warning">
+    <text>Uwaga! Zagrożenie chemiczne!</text>
+  </string>
+  <string id="zat_b57_vintil_press">
+    <text>Otwórz zawór ($$ACTION_USE$$)</text>
+  </string>
+  <string id="zat_b33_car_searching_tip">
+    <text>Przeszukaj samochód ($$ACTION_USE$$)</text>
+  </string>
+  <string id="st_resupply_ready">
+    <text>Możesz uzupełnić swój zapas środków medycznych, odwiedzając poruczników Rogowca i Kiryłowa.</text>
+  </string>
+  <string id="st_surge_while_asleep">
+    <text>Niedawno w Zonie nastąpiła emisja.</text>
+  </string>
+  <string id="st_ach_marked_by_zone">
+    <text>Udało ci się zdobyć osiągnięcie „Naznaczony przez Zonę".</text>
+  </string>
+  <string id="st_mutant_hunter_news">
+    <text>W nagrodę za eliminację niebezpiecznych mutantów w twojej skrytce na stacji Janów została umieszczona amunicja.</text>
+  </string>
+  <string id="st_found_old_treasure">
+    <text>Otrzymano współrzędne schowka, który już wcześniej został odkryty.</text>
+  </string>
+  <string id="st_got_treasure">
+    <text>Znaleziono schowek</text>
+  </string>
+  <string id="st_found_new_treasure">
+    <text>Otrzymano współrzędne schowka</text>
+  </string>
+  <string id="st_press_any_key">
+    <text>Naciśnij dowolny klawisz, aby rozpocząć grę</text>
+  </string>
+</string_table>
