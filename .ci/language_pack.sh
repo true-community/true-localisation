@@ -19,16 +19,24 @@ for locale_code in $(jq -r  '.[] | keys[]' $LANG_FILE); do
   cp -r ./gamedata_UTF-8/configs/ui ./tmp/$locale_code/gamedata/configs/ui
 
   find ./gamedata_UTF-8/configs/text/$locale_code -name "*.xml" -type f | while read file; do
+    target_encoding=$(jq -r ".locales.${locale_code}.encoding" $LANG_FILE)
 
-    iconv -f utf-8 -t $(jq -r ".locales.${locale_code}.encoding" $LANG_FILE)//IGNORE $file > ./tmp/$locale_code/gamedata/configs/text/$locale_code/$(basename $file) 2> /dev/null || echo " $file"
+    echo $file
+    iconv -sc -f utf-8 -t $target_encoding $file > ./tmp/$locale_code/gamedata/configs/text/$locale_code/$(basename $file)
+    sed -i "1s/^/<?xml version=\"1.0\" encoding=\"$target_encoding\"?>\n/" ./tmp/$locale_code/gamedata/configs/text/$locale_code/$(basename $file)
   done
 
-  # True Stalker credits file has cyrillic characters...
-  iconv -f utf-8 -t windows-1251 ./gamedata_UTF-8/configs/text/$locale_code/st_ui_ts_credits.xml > ./tmp/$locale_code/gamedata/configs/text/$locale_code/st_ui_ts_credits.xml 2> /dev/null
+  # only build language packs for locales that have at least one XML file
+  if [ "$(ls $(find ./tmp/$locale_code/gamedata/configs/text/$locale_code -type d) | wc -l)" -ne "0" ]; then
+    mkdir -p ./tmp/$locale_code/gamedata/textures/fonts 2> /dev/null || true
+    cp -r ./gamedata_UTF-8/textures/fonts ./tmp/$locale_code/gamedata/textures/fonts
 
-  # package dir into archive
-  [ ! -z "${locale_code}" ] && 7z a ./releases/${ARCHIVE_NAME_PREFIX}$(jq -r ".locales.${locale_code}.name" $LANG_FILE)${ARCHIVE_NAME_POSTFIX}.7z ./tmp/$locale_code/gamedata >/dev/null
+    # package dir into archive
+    [ ! -z "${locale_code}" ] && 7z a ./releases/${ARCHIVE_NAME_PREFIX}$(jq -r ".locales.${locale_code}.name" $LANG_FILE)${ARCHIVE_NAME_POSTFIX}.7z ./tmp/$locale_code/gamedata >/dev/null
+  else
+    echo "Skipping compilation: $locale_code"
 
-  # remove "blank" locales (archives smaller than 7 kb)
-  find ./releases -type f -name "*.7z" -size -7k -delete
+    # create 0-byte placeholder
+    # touch "./releases/${ARCHIVE_NAME_PREFIX}$(jq -r ".locales.${locale_code}.name" $LANG_FILE)${ARCHIVE_NAME_POSTFIX}.7z"
+  fi
 done

@@ -1,0 +1,33 @@
+<string_table>
+  <string id="gunsl_detector_simple">
+    <text>Echo-Detektor</text>
+  </string>
+  <string id="gunsl_detector_simple_descr">
+    <text>Dieser veraltete Detektor für Anomalien gibt ein Alarmsignal aus, wenn man sich einer Anomalie nähert und dabei Anomaliepartikel in eine spezielle Kammer des Geräts eindringen. Er kann auch Artefakte aufspüren und zeigt die Entfernung zum nächsten Artefakt an (je nach Distanz ändert sich die Frequenz des ausgegebenen Tons). Um in den Artefaktsuchmodus zu gelangen, muss die vordere Abdeckung geöffnet werden. Aufgrund der einfachen Bauart kann der Echo-Detektor lediglich zum Aufspüren der gewöhnlichsten Artefakte genutzt werden.</text>
+  </string>
+  <string id="gunsl_detector_advanced">
+    <text>Peil-Detektor</text>
+  </string>
+  <string id="gunsl_detector_advanced_descr">
+    <text>Dieser Anomaliedetektor der neuesten Generation kann Anomalieformationen aufspüren und verfügt über ein Farbdiodenfeld, das nicht nur die Richtung von Artefakten anzeigt, sondern auch die Entfernung. Um in den Artefaktsuchmodus zu gelangen, muss die vordere Abdeckung geöffnet werden. Leider wurde das Gerät mit einer veralteten Liste von erfassbaren Artefakten programmiert.</text>
+  </string>
+  <string id="gunsl_detector_elite">
+    <text>Veles-Detektor</text>
+  </string>
+  <string id="gunsl_detector_elite_descr">
+    <text>Ein wissenschaftlicher Detektor der neuesten Generation. Mit drei modernen Detektorkammern werden die Positionen der Artefakte auf einem speziellen Bildschirm angezeigt. Im geschlossenen Zustand registriert das Gerät nur Radioaktivität und Anomalien. Um in den Artefaktsuchmodus zu gelangen, muss die vordere LED-Anzeige geöffnet werden. Im Suchmodus kann der Detektor alle wissenschaftlich bekannten Artefakte aufspüren.</text>
+  </string>
+  <string id="gunsl_detector_scientific">
+    <text>Prototyp Swarog-Detektor</text>
+  </string>
+  <string id="gunsl_detector_scientific_descr">
+    <text>Der Prototyp eines Scanners für Anomaliefrequenzen mit erweiterten Funktionen. Dieses Gerät bietet ein Programm, mit dem man statische Gebiete anomaler Aktivität identifizieren und weiterhin Artefakte aufspüren kann. Die Positionen der Anomaliegebiete und Artefakte werden auf einer speziellen Anzeige dargestellt. Der Artefaktsuchmodus, der durch das Öffnen der vorderen LED-Anzeige aktiviert wird, wurde so eingestellt, dass Anomalieformationen entdeckt werden können, die momentan wissenschaftlich noch gar nicht erfasst sind.</text>
+  </string>
+  <string id="gunsl_detector_torch">
+    <text>Taschenlampe</text>
+  </string>
+  <string id="gunsl_detector_torch_descr">
+    <text>Eine gewöhnliche Taschenlampe, leicht und angenehm in der Hand. Sie ist nicht mit Halterungen ausgestattet und kann daher nicht an einer Waffe angebracht werden. Trotzdem kann sie zusammen mit einer Pistole anstelle eines Artefaktdetektors verwendet werden.</text>
+  </string>
+</string_table>
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 02.01.2024 18:29:14 -->

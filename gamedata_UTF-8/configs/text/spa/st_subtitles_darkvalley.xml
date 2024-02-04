@@ -1,0 +1,485 @@
+<string_table>
+  <string id="st_val_bandit_bookmaker_meet_bye_1">
+    <text>¡Me encanta cuando las hojas vuelan con el viento!</text>
+  </string>
+  <string id="st_val_bandit_bookmaker_meet_bye_2">
+    <text>¡Háganlos pedazos!</text>
+  </string>
+  <string id="st_val_bandit_bookmaker_meet_bye_3">
+    <text>¡Destripar alimañas!\n¡A eso le llamo diversión!</text>
+  </string>
+  <string id="st_val_bandit_bookmaker_meet_greet_1">
+    <text>Pongamos agujeros\nen algunos pichones.</text>
+  </string>
+  <string id="st_val_bandit_bookmaker_meet_greet_2">
+    <text>Algo me dice que\nesos cuervos están cayendo.</text>
+  </string>
+  <string id="st_val_bandit_bookmaker_meet_greet_3">
+    <text>¡Ven a disparar, hermano!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_lose_1">
+    <text>Este tipo no sabe disparar una mierda.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_lose_2">
+    <text>Terrible. Disparate a tí la próxima.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_lose_3">
+    <text>Debes tener resaca\nsi disparas tan mal.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_1">
+    <text>Tomo el riesgo.\nApuesto 50 a ese tipo.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_2">
+    <text>No hay forma de que ponga\nmi dinero por ese perdedor.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_3">
+    <text>¡Ver esto va a ser divertido! ¡JA!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_response_1">
+    <text>Veamos si puede\nsostener bien su arma.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_response_2">
+    <text>¡Ese idiota no tiene ninguna chance!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_prepare_response_3">
+    <text>Parece que podría estar bien preparado.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_shooting_1">
+    <text>¡Por ahí! ¿No puedes ver?</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_shooting_2">
+    <text>¡Derríbalos!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_shooting_3">
+    <text>¿Al menos sabes siquiera\ncómo usar esa cosa?</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_shooting_4">
+    <text>¡Vamos amigo, yo creo en ti!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_shooting_5">
+    <text>A las alas ¡Las alas!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_win_1">
+    <text>A eso le llamo un buen tirador\n¡Eso estuvo genial!</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_win_2">
+    <text>Wow, amigo. Eres un\nfrancotirador de primera.</text>
+  </string>
+  <string id="st_val_bandit_minigame_comment_win_3">
+    <text>¿Vieron eso?\n¡Eso fué mierda de la buena!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_gone_1">
+    <text>Hey ¿A dónde vas?\n¿Acaso no estás para otra?</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_gone_2">
+    <text>Hey, amigo ¡Vuelve!\n¡Lo estabas haciendo bien!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_gone_3">
+    <text>¡Vuelve! esta es la buena\nSé lo que te digo.</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_lose_1">
+    <text>Te quedaste sin suerte.\nIntenta una vez más</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_lose_2">
+    <text>Intenta otra vez.\nEsta es la buena.</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_lose_3">
+    <text>Cosas que pasan. Prueba de nuevo.</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_first_1">
+    <text>¡Hey! ¡Rompiste mi record!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_first_2">
+    <text>Hey, toma esto.</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_npc_1">
+    <text>¡Hey! tenemos un nuevo campeón</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_npc_2">
+    <text>El que gana se queda con todo.</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_player_1">
+    <text>¡Rompiste tu propio record!</text>
+  </string>
+  <string id="st_val_bandit_minigame_man_win_player_2">
+    <text>Toma una recompensa.</text>
+  </string>
+  <string id="st_val_bandit_desertir_actor_angry">
+    <text>¿A dónde vas? idiota</text>
+  </string>
+  <string id="st_val_bandit_desertir_bandit_alarm_message_1">
+    <text>Hey, stalker ¿Estás ahí?</text>
+  </string>
+  <string id="st_val_bandit_desertir_bandit_alarm_message_2">
+    <text>Deja todo y ven. Tengo algo importante.</text>
+  </string>
+  <string id="st_val_bandit_leader_katakomb_message_1">
+    <text>No deberías haber hecho eso, stalker.</text>
+  </string>
+  <string id="st_val_bandit_leader_katakomb_message_2">
+    <text>No saldrás con vida.</text>
+  </string>
+  <string id="st_val_bandit_desertir_blood">
+    <text>¡Esto es un baño de sangre!</text>
+  </string>
+  <string id="st_val_bandit_desertir_bye_1">
+    <text>Así que...\nvuelve si necesitas algo.</text>
+  </string>
+  <string id="st_val_bandit_desertir_bye_2">
+    <text>Nos vemos.</text>
+  </string>
+  <string id="st_val_bandit_desertir_catch_up">
+    <text>Parece tranquilo. Síganlo, chicos</text>
+  </string>
+  <string id="st_val_bandit_desertir_check_all_1">
+    <text>Revisen el resto de los cuerpos.</text>
+  </string>
+  <string id="st_val_bandit_desertir_check_all_2">
+    <text>Algo no está bien...</text>
+  </string>
+  <string id="st_val_bandit_desertir_cold">
+    <text>Ahí vienen los escalofríos...</text>
+  </string>
+  <string id="st_val_bandit_desertir_danger">
+    <text>¡Cuidado!</text>
+  </string>
+  <string id="st_val_bandit_desertir_death_treasure_1_cc">
+    <text>[Llora del dolor]</text>
+  </string>
+  <string id="st_val_bandit_desertir_death_treasure_2_cc">
+    <text>[Llora del dolor]</text>
+  </string>
+  <string id="st_val_bandit_desertir_disappointment">
+    <text>¡Maldición!</text>
+  </string>
+  <string id="st_val_bandit_desertir_dont_steps">
+    <text>¡Silencio! No hagas ruido.</text>
+  </string>
+  <string id="st_val_bandit_desertir_final_relax_1">
+    <text>¡Mierda! Este lugar está lleno de mutantes.</text>
+  </string>
+  <string id="st_val_bandit_desertir_final_relax_2">
+    <text>¡No nos vas a tomar tán facilmente!</text>
+  </string>
+  <string id="st_val_bandit_desertir_go_boom_lab_1">
+    <text>Vuela la entrada al laboratorio\ny alcánzanos luego.</text>
+  </string>
+  <string id="st_val_bandit_desertir_go_boom_lab_2">
+    <text>¡Vamos!\nApurate y vuela la entrada.</text>
+  </string>
+  <string id="st_val_bandit_desertir_go_boom_lab_3">
+    <text>¡Bombardea la entrada\ny alcanzanos luego!</text>
+  </string>
+  <string id="st_val_bandit_desertir_go_check_corpse_1">
+    <text>¡Hey!</text>
+  </string>
+  <string id="st_val_bandit_desertir_go_check_corpse_2">
+    <text>Revisa ese cuerpo de ahí.\nEres el más cercano a el.</text>
+  </string>
+  <string id="st_val_bandit_desertir_hello_1">
+    <text>¡Hey!</text>
+  </string>
+  <string id="st_val_bandit_desertir_hello_2">
+    <text>¡Hola, amigo!</text>
+  </string>
+  <string id="st_val_bandit_desertir_hide_weapon_1">
+    <text>¿Qué mierda haces?</text>
+  </string>
+  <string id="st_val_bandit_desertir_hide_weapon_2">
+    <text>No hay nadie aquí.\n¡Baja el arma!</text>
+  </string>
+  <string id="st_val_bandit_desertir_is_not_polter_1">
+    <text>No debería ser un poltergeist.</text>
+  </string>
+  <string id="st_val_bandit_desertir_is_not_polter_2">
+    <text>Tenemos que revisar todo el lugar.</text>
+  </string>
+  <string id="st_val_bandit_desertir_is_not_polter_3">
+    <text>Masol, revisa el cuerpo.</text>
+  </string>
+  <string id="st_val_bandit_desertir_is_not_polter_4">
+    <text>Hay que descubrir como terminaron así.</text>
+  </string>
+  <string id="st_val_bandit_desertir_is_not_polter_5">
+    <text>Tengan cuidado.</text>
+  </string>
+  <string id="st_val_bandit_desertir_little_space">
+    <text>Uno a la vez.\nNo hay vuelta atrás.</text>
+  </string>
+  <string id="st_val_bandit_desertir_monster_death">
+    <text>¡Vamos afuera y hablamos!</text>
+  </string>
+  <string id="st_val_bandit_desertir_move_forward">
+    <text>¡No tengas miedo, sigue caminando!</text>
+  </string>
+  <string id="st_val_bandit_desertir_near">
+    <text>Ya casi estamos.</text>
+  </string>
+  <string id="st_val_bandit_desertir_present_actor_1">
+    <text>Encontré otro voluntario.</text>
+  </string>
+  <string id="st_val_bandit_desertir_present_actor_2">
+    <text>Es un stalker experimentado,</text>
+  </string>
+  <string id="st_val_bandit_desertir_present_actor_3">
+    <text>nos vendría bien la ayuda.</text>
+  </string>
+  <string id="st_val_bandit_desertir_present_actor_4">
+    <text>¿Listo?</text>
+  </string>
+  <string id="st_val_bandit_desertir_psy_pain">
+    <text>¡Mierad! ¡Mi cabeza!</text>
+  </string>
+  <string id="st_val_bandit_desertir_robbery_1">
+    <text>¡Vamos, muchachos!</text>
+  </string>
+  <string id="st_val_bandit_desertir_robbery_2">
+    <text>Agarren las cosas caras\ny salgamos de aquí</text>
+  </string>
+  <string id="st_val_bandit_desertir_robbery_3">
+    <text>antes de que esos idiotas despierten.</text>
+  </string>
+  <string id="st_val_bandit_desertir_search_monster_1">
+    <text>Bien, tengan cuidado.</text>
+  </string>
+  <string id="st_val_bandit_desertir_search_monster_2">
+    <text>Revisen cada esquina.</text>
+  </string>
+  <string id="st_val_bandit_desertir_search_monster_3">
+    <text>Si quedó algún mutante aquí\nhay que ocuparnos de ellos.</text>
+  </string>
+  <string id="st_val_bandit_desertir_see_monster">
+    <text>¡Lo veo! ¡Disparen!</text>
+  </string>
+  <string id="st_val_bandit_desertir_silent_treasure">
+    <text>¡Silencio! Escucho algo...</text>
+  </string>
+  <string id="st_val_bandit_desertir_start_attack_treasure">
+    <text>¡Dejenlos, muchachos!</text>
+  </string>
+  <string id="st_val_bandit_desertir_start_squad">
+    <text>¿Cómo va todo por aquí?</text>
+  </string>
+  <string id="st_val_bandit_desertir_surprised_treasure">
+    <text>¡Rayos!</text>
+  </string>
+  <string id="st_val_bandit_desertir_teeth">
+    <text>Carajo ¿Qué será lo que me hace doler el diente?</text>
+  </string>
+  <string id="st_val_bandit_desertir_wait_actor">
+    <text>Dijo que estaría aquí pronto.\nHicimos un trato, así que esperemos.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_check_corpse_1">
+    <text>¡Parece que le destruyeron el cuello!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_check_corpse_2">
+    <text>No veo heridas de bala.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_come_go">
+    <text>¡Vamos!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_dread">
+    <text>Mierda ¿Para qué vine aquí en primer lugar?</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_fear">
+    <text>Me hiela la sangre.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_friend_1">
+    <text>¡No! ¡Tolyan!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_friend_2">
+    <text>Agh...</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_friend_treasure_reaction">
+    <text>¡Es como si hubiésemos encontrado petroleo!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_go">
+    <text>No hay que perder el tiempo dando vueltas ¡Vamos!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_lab_want_eat_1">
+    <text>Me comería un caballo ahora mismo.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_lab_want_eat_2">
+    <text>Muero de hambre...</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_relax">
+    <text>Mierda ¡Es por ahí!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_see_monster_1">
+    <text>¡Ugh! ¡Está en la esquina!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_see_monster_2">
+    <text>¡Acabaré contigo, maldita mierda!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_situation_1">
+    <text>Está todo en silencio.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_situation_2">
+    <text>Nadie ha entrado ni salido.</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_situation_3">
+    <text>Ya quiero irme ¡Esto me está matando!</text>
+  </string>
+  <string id="st_val_desertir_team_bandit_wait_actor">
+    <text>¿Dónde mierda está Echo?</text>
+  </string>
+  <string id="st_val_bandit_leader_bye_1">
+    <text>La salida es por ahí.</text>
+  </string>
+  <string id="st_val_bandit_leader_bye_2">
+    <text>Puedes salir.</text>
+  </string>
+  <string id="st_val_bandit_leader_bye_3">
+    <text>Sal de aquí.</text>
+  </string>
+  <string id="st_val_bandit_leader_hello_1">
+    <text>¿Qué necesitas, stalker?</text>
+  </string>
+  <string id="st_val_bandit_leader_hello_2">
+    <text>¿Qué pasa? Escúpelo.</text>
+  </string>
+  <string id="st_val_bandit_leader_hello_3">
+    <text>¿Sí? ¿Qué pasa?</text>
+  </string>
+  <string id="st_val_bandit_leader_threat_1">
+    <text>Si vuelves a amenazarnos</text>
+  </string>
+  <string id="st_val_bandit_leader_threat_2">
+    <text>tu cabeza saldrá rodando ¡Marica!</text>
+  </string>
+  <string id="st_val_bandit_leader_treasure_angry_1">
+    <text>Vamos a mostrar a esas ratas</text>
+  </string>
+  <string id="st_val_bandit_leader_treasure_angry_2">
+    <text>como hacemos las cosas por aquí.\n¡Atrapen a esos bastardos!</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_bye_1">
+    <text>Sin botín, no vale la pena.</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_bye_2">
+    <text>¿Dónde desentierras tanta basura?</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_bye_3">
+    <text>Un placer hacer negocios contigo.</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_greet_1">
+    <text>Revisa lo que quieras, tengo de todo.</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_greet_2">
+    <text>¿Qué llevas ahí?\nMuestrame, hijo.</text>
+  </string>
+  <string id="st_val_bandit_trader_meet_greet_3">
+    <text>¿Me traes botín? Que buen chico.</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_actor_fear">
+    <text>Hombre, no te estarás cagando en nosotros ¿No?</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_come_go">
+    <text>No te quedes ahí parado ¡Ven!</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_complete_stop">
+    <text>Despacio ¡No hagas movimientos bruscos!</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_relax">
+    <text>Ok. Vete.</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_wait_stay_1">
+    <text>Alto ahí, amiguito.</text>
+  </string>
+  <string id="st_val_bandits_garbage_actor_wait_stay_2">
+    <text>¡Deja tus manos a la vista!</text>
+  </string>
+  <string id="st_val_stalker_base_gauss">
+    <text>Hey, amigo. Ven, hablemos de negocios.</text>
+  </string>
+  <string id="st_val_monster_labx18_danger">
+    <text>No hagas eso...</text>
+  </string>
+  <string id="st_val_stalker_prisoner_need_help_see_actor">
+    <text>¡Ayuda, stalker! ¡No creo que la cuente!</text>
+  </string>
+  <string id="st_val_stalker_prisoner_need_help_pult_info_1">
+    <text>¡Ayuda, hermano!</text>
+  </string>
+  <string id="st_val_stalker_prisoner_need_help_pult_info_2">
+    <text>¡Sáquenme de aquí!</text>
+  </string>
+  <string id="st_val_stalker_prisoner_need_help_pult_info_3">
+    <text>Los controles están en la pared.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_help_thanx">
+    <text>Gracias amigo, te debo una.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_help_final">
+    <text>Amigo, si alguna vez vas al bar,\n¡Ven a verme!</text>
+  </string>
+  <string id="st_val_stalker_prisoner_hello_1">
+    <text>Holaa</text>
+  </string>
+  <string id="st_val_stalker_prisoner_hello_2">
+    <text>Que bueno verte.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_hello_3">
+    <text>Dime.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_bye_1">
+    <text>Cuidate, stalker.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_bye_2">
+    <text>Adios, amigo.</text>
+  </string>
+  <string id="st_val_stalker_prisoner_bye_3">
+    <text>Nos vemos.</text>
+  </string>
+  <string id="st_val_bandits_base_passage_1_treasure_scene_attack">
+    <text>¡Están acabados, idiotas!</text>
+  </string>
+  <string id="st_val_bandits_base_passage_2_treasure_scene_attack">
+    <text>¡Rompanles el culo!</text>
+  </string>
+  <string id="st_val_bandit_desertir_dynamite_compl_1">
+    <text>¿Terminaste con la carga?</text>
+  </string>
+  <string id="st_val_bandit_desertir_dynamite_compl_2">
+    <text>Ve al punto de encuentro. Está en tu mapa.</text>
+  </string>
+  <string id="st_val_scientist_good_message_1">
+    <text>Gracias por el trabajo, stalker.</text>
+  </string>
+  <string id="st_val_scientist_good_message_2">
+    <text>Si me necesitas,\nestaré en nuestra base en Agroprom.</text>
+  </string>
+  <string id="st_val_scientist_bad_message_1">
+    <text>Jovencito, veo que no estás\na la altura de mi encargo.</text>
+  </string>
+  <string id="st_val_scientist_bad_message_2">
+    <text>El dispositivo que llevas es muy valioso.</text>
+  </string>
+  <string id="st_val_scientist_bad_message_3">
+    <text>Si es posible,\ntraelo a nuestra base en Agroprom.</text>
+  </string>
+  <string id="st_val_scientist_bad_message_4">
+    <text>Si no lo traes,\ntu reputación sufrirá las consecuencias.</text>
+  </string>
+  <string id="st_val_scientist_bad_message_5">
+    <text>¡Que te vaya bien!</text>
+  </string>
+  <string id="st_val_actor_case_with_stones_reaction">
+    <text>Ay, ¡Esos hijos de puta!</text>
+  </string>
+  <string id="st_val_composer_task_stalker_leader_see_actor">
+    <text>Stalker, no te muevas, te tengo en la mira. Ven, hablemos.</text>
+  </string>
+  <string id="st_val_composer_task_stalker_follower_kill_actor">
+    <text>Bueno, nos vemos, stalker.</text>
+  </string>
+  <string id="st_val_composer_task_bandit_savior_hello_1">
+    <text>Oye tu, bella durmiente.</text>
+  </string>
+  <string id="st_val_composer_task_bandit_savior_hello_2">
+    <text>Abre los ojos. No esperes un beso.</text>
+  </string>
+  <string id="st_val_stalker_technic_friend_sos">
+    <text>Mierda ¡Vienen zombis por todos lados!</text>
+  </string>
+</string_table>

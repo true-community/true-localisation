@@ -1,0 +1,448 @@
+<string_table>
+  <!-- Grenades -->
+  <string id="gunsl_wpn_grenade_f1">
+    <text>F-1 Granate</text>
+  </string>
+  <string id="gunsl_wpn_grenade_f1_descr">
+    <text>Eine defensive Handgranate mit Splitterwirkung, die mittlere Körperpanzerung durchdringen kann. Die Granate weist einen letalen Wirkungsradius von 7m auf. Stalker gelangen in den Besitz von F1 Granaten, indem sie mit Soldaten handeln, die vorgeben, sie im Kampf gegen Mutanten eingesetzt zu haben.</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgd5">
+    <text>RGD-5 Granate</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgd5_descr">
+    <text>Eine offensive Handgranate mit einem kleinen letalen Wirkungsradius von 5m. Stalker setzen sie aufgrund ihres geringen Anschaffungspreises häufig zum "Ausräuchern" von Mutanten ein.</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgn">
+    <text>RGN-Granate</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgn_descr">
+    <text>Offensive Anti-Personen-Granate mit einem Kontaktzünder. Die Granate detoniert beim Aufprall, aber der Zünder ist vor dem Anzünden geschützt, wenn er in gefährliche Nähe des Trägers fällt. Explosionsradius von etwa 4 m.</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgo">
+    <text>RGO-Granate</text>
+  </string>
+  <string id="gunsl_wpn_grenade_rgo_descr">
+    <text>Verteidigungsgranate mit Kontaktzünder. Die Granate detoniert beim Aufprall, aber der Zünder ist vor dem Anzünden geschützt, wenn er in gefährliche Nähe des Trägers fällt. Explosionsradius von etwa 6 m.</text>
+  </string>
+  <string id="gunsl_wpn_grenade_smoke">
+    <text>RDG-M Rauchgranate</text>
+  </string>
+  <string id="gunsl_wpn_grenade_smoke_descr">
+    <text>Handgehaltene Rauchgranate, die in einem Feuergefecht bei jeder taktischen Bewegung schnell Deckung schafft. Es dauert 10 Sekunden, bis sich der Nebelschirm vollständig gebildet hat.</text>
+  </string>
+  <string id="gunsl_wpn_grenade_flashbang">
+    <text>CTS 7290 Blendgranate</text>
+  </string>
+  <string id="gunsl_wpn_grenade_flashbang_descr">
+    <text>Eine weniger tödliche Granate, die zur vorübergehenden Desorientierung von Kämpfern eingesetzt wird, indem sie einen blendenden Lichtblitz und einen sehr lauten "Knall" erzeugt. Diese Granate wurde in den USA hergestellt und gelangte wahrscheinlich über Söldnergruppen oder ausländische Forschungsinteressen in die Zone.</text>
+  </string>
+  <!-- Misc -->
+  <string id="gunsl_wpn_knife">
+    <text>Kampfmesser OTs-04</text>
+  </string>
+  <string id="gunsl_wpn_knife_descr">
+    <text>Das OTs-04-Messer wurde Ende der 80er — Anfang der 90er Jahre im Zentralen Design-Forschungsbüro in Tula entwickelt und war für Spezialkräfte der internen Truppen des Innenministeriums der UdSSR bestimmt. Das Messer hat ein modernes, aggressives Design. Die speerförmige Klinge ist einschneidig ausgeführt. Die Klinge ist durch lange Abschläge geformt. An der Vorderseite des Schafts ist eine falsche Klinge geschärft, der größte Teil des Schafts ist eine Säge mit feinen Zähnen.</text>
+  </string>
+  <string id="gunsl_wpn_knife_6x4">
+    <text>Produkt 6X4</text>
+  </string>
+  <string id="gunsl_wpn_knife_6x4_descr">
+    <text>Ein militärisches Bajonett, das von den Streitkräften der UdSSR zur Verwendung mit den Sturmgewehren AKM und AK74 eingeführt wurde. Es wurde auf der Grundlage des Bajonetts 6X3 entwickelt. Die wichtigsten Änderungen betrafen das Design der Scheide und die Form des Griffs. Es wurde im Rüstungswerk Tula und im Mechanischen Werk Ischewsk hergestellt, bis es durch das Bajonettmesser 6X5 für die Sturmgewehre AK74 und AN-94 ersetzt wurde.</text>
+  </string>
+  <!-- Pistols -->
+  <string id="gunsl_wpn_pm">
+    <text>PM</text>
+  </string>
+  <string id="gunsl_wpn_pm_descr">
+    <text>Die Makarov-Pistole, ein Erbe der Sowjetzeit, ist in der Zone eine der häufigsten Waffen. Sie ist äußerst kompakt, zuverlässig und einfach zu bedienen. Zu den negativen Eigenschaften zählen jedoch leider die niedrige Mannstoppwirkung, kurze Reichweite, sowie die geringe Magazinkapazität.</text>
+  </string>
+  <string id="gunsl_wpn_pmm">
+    <text>PMM-12 "Premium"</text>
+  </string>
+  <string id="gunsl_wpn_pmm_descr">
+    <text>Diese modernisierte Makarov-Pistole wurde Anfang der 90er Jahre auf Basis der PM-Pistole entwickelt. Der Verschlussmechanismus, sowie der Rahmen wurde verstärkt, um stärkere Munition abfeuern zu können.\n \n %c[01,255,128,0] Dieses personalisierte Exemplar der Pistole wurde Degtarew als Zeichen der Anerkennung überreicht für "das erfolgreiche Ausführen höchstgefährlicher Staatsbefehle sowie für Tapferkeit und Mut bei der Ausübung seiner Pflichten". %c[01,255,128,0]</text>
+  </string>
+  <string id="gunsl_wpn_pb">
+    <text>PB</text>
+  </string>
+  <string id="gunsl_wpn_pb_descr">
+    <text>Diese schallgedämpfte PB-Pistole wurde in den 60er Jahren auf Basis der Makarov-Pistole für das Personal des KGB entwickelt. Hauptmerkmal der Waffe ist der integrierte Schalldämpfer.</text>
+  </string>
+  <string id="gunsl_wpn_fort12">
+    <text>FORT-12</text>
+  </string>
+  <string id="gunsl_wpn_fort12_descr">
+    <text>Eine in der Ukraine hergestellte Pistole, die hauptsächlich zur Bewaffnung von Strafverfolgungs- und Sicherheitsbehörden entwickelt wurde. Im Vergleich zur PM-Pistole weist dieses Fabrikat eine höhere Magazinkapazität, Genauigkeit und Geschossgeschwindigkeit auf. Zwar gibt es auch bei diesem Modell noch "Kinderkrankheiten" auszumerzen, dennoch ist diese Pistole bei Stalkern sehr beliebt.</text>
+  </string>
+  <string id="gunsl_wpn_fort17">
+    <text>FORT-17</text>
+  </string>
+  <string id="gunsl_wpn_fort17_descr">
+    <text>Ukrainische Selbstladepistole, entworfen und hergestellt von NPO "Fort". Die FORT-17 ist eine Modifikation der FORT-12 Pistole, mit einem Polymerrahmen aus stoßfestem glasfaserverstärkten Polyamid, mit austauschbaren Griffpolstern. Zusätzlich ist die Montage einer Piccatiny-Schiene möglich, um taktisches Zubehör an der Waffe anzubringen.</text>
+  </string>
+  <string id="gunsl_wpn_gsh18">
+    <text>GSh-18</text>
+  </string>
+  <string id="gunsl_wpn_gsh18_descr">
+    <text>Russische Pistole, die Ende der 90er Jahre im Tuli Instrument Design Büro entwickelt wurde, um die immer obsoleter werdende PM-Pistole zu ersetzen. Das geringe Gewicht und die hohe Magazinkapazität sprechen für sich. Seit 2001 wird diese Waffe in Serie hergestellt und wird derzeit von verschiedenen Staatsorganen und der russischen Armee verwendet.</text>
+  </string>
+  <string id="gunsl_wpn_grach">
+    <text>PYA "GRACH"</text>
+  </string>
+  <string id="gunsl_wpn_grach_descr">
+    <text>Die Yarygin-Pistole wurde in den 90er Jahren entwickelt, um die den modernen Ansprüchen nicht mehr gerecht werdende PM-Pistole zu ersetzen. Als Gewinner des im Rahmen des F&E-Programms organisierten "Grach" Wettbewerbs wurde diese Pistole von der russischen Armee als neue Standard Faustfeuerwaffe übernommen. Die Pistole zeichnet sich durch eine hohe Schussgenauigkeit und Zuverlässigkeit aus und ist somit auch bei Stalkern sehr beliebt.</text>
+  </string>
+  <string id="gunsl_wpn_stechkin">
+    <text>APS</text>
+  </string>
+  <string id="gunsl_wpn_stechkin_descr">
+    <text>Eine automatische Pistole, die Ende der 1940er Jahre vom Designer I. Ya. Stechkin entwickelt wurde. Sie wurde 1951 zeitgleich mit der Makarov-Pistole von den Streitkräften der UdSSR ins Inventar genommen, übertraf diese jedoch bei weitem in Sachen Feuerkraft und Genauigkeit. Allerdings erweist sich das Tragen in der Zone aufgrund der großen Abmessungen eher als unpraktisch.</text>
+  </string>
+  <string id="gunsl_wpn_apb">
+    <text>APB</text>
+  </string>
+  <string id="gunsl_wpn_apb_descr">
+    <text>Eine schallgedämpfte Ausführung der berühmten Stechkin-Pistole, die insbesondere für Spezialeinheiten entwickelt wurde. Sie wurde 1972, also 14 Jahre nach ihrem Vorgänger in Betrieb genommen. Die Unterschiede zur APB sind bis auf den Schalldämpfer minimal.</text>
+  </string>
+  <string id="gunsl_wpn_tt33">
+    <text>TT</text>
+  </string>
+  <string id="gunsl_wpn_tt33_descr">
+    <text>Die erste Selbstladepistole der Sowjetischen Streitkräfte. 1930 vom sowjetischen Designer F. V. Tokarev entwickelt und schon im Zweiten Weltkrieg bewährt. Bei Stalkern aufgrund der einfachen Wartung beliebt.</text>
+  </string>
+  <string id="gunsl_wpn_sr1m">
+    <text>SR1MP "Gyurza"</text>
+  </string>
+  <string id="gunsl_wpn_sr1m_descr">
+    <text>Eine der modernsten russischen Pistolen, die man in der Zone finden kann. Diese Pistole wurde entickelt, um auch Zielen mit Körperpanzerung erfolgreich entgegentreten zu können. Dank der Schienen am vorderen Teil des Rahmens ist es möglich verschiedenes taktisches Zubehör an der Waffe anzubringen. Trotz der hervorragenden Eigenschaften der Pistole ist es in der Zone eher schwierig Munition für diese Waffe zu finden.</text>
+  </string>
+  <string id="gunsl_wpn_beretta">
+    <text>BERETTA 92FS</text>
+  </string>
+  <string id="gunsl_wpn_beretta_descr">
+    <text>Diese Pistole genießt weltweit den Ruf einer zuverlässigen, wenn auch etwas sperrigen Waffe und ist bei vielen Armeen und Polizeieinheiten im Einsatz. Dank der leistungsstarken Munition und des geräumigen Magazins ist sie allerdings auch bei Kriminellen und Banditen beliebt. In der Zone wird man jedoch wohl kaum neuere Modelle finden.</text>
+  </string>
+  <string id="gunsl_wpn_walther">
+    <text>WALTHER P99</text>
+  </string>
+  <string id="gunsl_wpn_walther_descr">
+    <text>Eine exzellente Pistole westlicher Produktion mit hoher Zuverlässigkeit, einem geräumigen Magazin und exzellenter Ergonomie. Sowohl für Profis, als auch für Anfänger mit genügend Geld eine exzellente Wahl.</text>
+  </string>
+  <string id="gunsl_wpn_hpsa">
+    <text>BROWNING HI-POWER</text>
+  </string>
+  <string id="gunsl_wpn_hpsa_descr">
+    <text>Selbstladende Pistole von J. Browning und Didier Sav aus der ersten Hälfte des 20. Jahrhunderts. Trotz ihres hohen Alters noch immer eine der beliebtesten Pistolen weltweit.</text>
+  </string>
+  <string id="gunsl_wpn_glock17">
+    <text>GLOCK 17</text>
+  </string>
+  <string id="gunsl_wpn_glock17_descr">
+    <text>In den 80er Jahren von GLOCK für die österreichische Armee hergestellte Pistole. Dieses Fabrikat zeigt auf, wie erfolgreich der Einsatz von Polymerteilen in modernen Waffensystemen sein kann. Wunderbare Ergonomie, Zuverlässigkeit, sowie das Fehlen einer Traditionellen Sicherung machen diese Pistole zu einer der beliebtesten zivilen Selbstverteidigungswaffen der Welt.</text>
+  </string>
+  <string id="gunsl_wpn_colt1911">
+    <text>COLT M1911A1</text>
+  </string>
+  <string id="gunsl_wpn_colt1911_descr">
+    <text>Ein verbessertes Modell der Pistole, die zu einem Klassiker der Selbsladewaffen des 20. Jahrhunderts geworden ist. Der einzige Nachteil dieser Waffe ist die geringe Magazinkapazität.</text>
+  </string>
+  <string id="gunsl_wpn_sig220">
+    <text>SIG-Sauer P220</text>
+  </string>
+  <string id="gunsl_wpn_sig220_descr">
+    <text>Ein bei vielen Spezialeinheiten beliebtes Pistolenmodell, das über hervorragende Ergonomische Eigenschaften und eine hohe Schussgenauigkeit verfügt. Die geringe Magazinkapazität wird durch die hohe Zuverlässigkeit und das leistungsstarke Spannfutter ausgeglichen.</text>
+  </string>
+  <string id="gunsl_wpn_sig220_nimble">
+    <text>SIG-Sauer P220R</text>
+  </string>
+  <string id="gunsl_wpn_sig220_nimble_descr">
+    <text>Taktische Modifikation der beliebten SIG-Sauer P220. Ausgestattet mit einer Schienenhalterung zur Installation von zusätzlichem taktischen Zubehör wie Taschenlampen oder Lasern.</text>
+  </string>
+  <string id="gunsl_wpn_usp">
+    <text>HK USP Tactical</text>
+  </string>
+  <string id="gunsl_wpn_usp_descr">
+    <text>Die Hauptmerkmale dieser deutschen Pistole sind ihre hohe Zuverlässigkeit und Schussgenauigkeit. Bei Veteranen der Zone sehr beliebt. Die taktische Variante verfügt über einen längeren Lauf mit Gewinde zur Installation eines Schalldämpfers.</text>
+  </string>
+  <string id="gunsl_wpn_usp_match">
+    <text>HK USP Match</text>
+  </string>
+  <string id="gunsl_wpn_usp_match_descr">
+    <text>Wettkampfvariante der HK USP, mit einem zusätzlichen Laufkompensator zur Reduzierung des Mündungsknalls auf Kosten des Gesamtgewichts. Die Produktion der USP Match wurde 1999 eingestellt, und es gibt nur noch wenige Exemplare, die die Grenzen der Zone überschreiten. Dieses Exemplar soll sich im Besitz des skrupellosen Söldners Wolfshund befunden haben, und viele seiner Innereien wurden präzise abgestimmt, was es zu einer wirklich einzigartigen Waffe macht.</text>
+  </string>
+  <string id="gunsl_wpn_fiveseven">
+    <text>FN Five-seveN USG</text>
+  </string>
+  <string id="gunsl_wpn_fiveseven_descr">
+    <text>Entwickelt in den späten 90er Jahren als Begleitwaffe zur FN P90. Ihr geringes Gewicht, die große Magazinkapazität und die leistungsstarke Munition machen die Five-seveN zu einer der besten Pistolen auf dem Markt, weshalb sie wohl auch bei Söldnern sehr beliebt ist.</text>
+  </string>
+  <string id="gunsl_wpn_eagle">
+    <text>DESERT EAGLE Mark XIX</text>
+  </string>
+  <string id="gunsl_wpn_eagle_descr">
+    <text>Eine echte "Taschenkanone". Groß, schwer und extrem Leistungsstark. Sie wurde als Spezialwaffe für die Großwildjagd, sowie für das Sportschießen entwickelt. Aufgrund des hohen Preises, des Gewichts und der eher klobigen Bauweise ist sie in der Zone nicht sehr weit verbreitet.</text>
+  </string>
+  <string id="gunsl_wpn_deagle_uniq">
+    <text>"Steppenadler"</text>
+  </string>
+  <string id="gunsl_wpn_deagle_uniq_descr">
+    <text>%c[01,255,128,0]Eine ungewöhnliche Modifikation der DESERT EAGLE Pistole. Der maßgeschneiderte Holzgriff liegt gut in der Handfläche und sorgt so für eine bessere Ergonomie und Genauigkeit. %c[01,255,255,255] </text>
+  </string>
+  <!-- Shotguns -->
+  <string id="gunsl_wpn_bm16">
+    <text>TOZ-66</text>
+  </string>
+  <string id="gunsl_wpn_bm16_descr">
+    <text>Leistungsstarkes Jagdgewehr. Verbreitet in den Reihen der Banditen und unerfahrenen Stalker. Sehr effektiv im Nahkampf.</text>
+  </string>
+  <string id="gunsl_wpn_toz34">
+    <text>TOZ-34</text>
+  </string>
+  <string id="gunsl_wpn_toz34_descr">
+    <text>Weit verbreitetes Jagdgewehr. Sowohl im Kampf gegen Mutanten, als auch gegen schwach gepanzerte Gegner äußerst wirkungsvoll. Aufgrund der guten Erschwinglichkeit häufig von Banditen und Anfängern geführte Waffe.</text>
+  </string>
+  <string id="gunsl_wpn_wincheaster1300">
+    <text>Winchester 1300</text>
+  </string>
+  <string id="gunsl_wpn_wincheaster1300_descr">
+    <text>Eine im Westen hergestellte Pump-Action Schrotflinte mit glattem Lauf, die aufgrund ihrer Zuverlässigkeit und hohen Nachladegeschwindigkeit weit verbreitet ist. Alle Teile dieser Waffe sind mit einer Korrosionsschutzbeschichtung versehen.</text>
+  </string>
+  <string id="gunsl_wpn_wincheaster1300_trapper">
+    <text>"Raubtier"</text>
+  </string>
+  <string id="gunsl_wpn_wincheaster1300_trapper_descr">
+    <text>Diese maßgefertigte Schrotflinte ist das ehemalige Eigentum von Trapper. Die Hauptanforderung des Besitzers an diese Waffe war die Fähigkeit, auch den zähesten Mutanten mit nur einem Schuss töten zu können.</text>
+  </string>
+  <string id="gunsl_wpn_spas12">
+    <text>Franchi SPAS-12</text>
+  </string>
+  <string id="gunsl_wpn_spas12_descr">
+    <text>Die 1979 von Grund auf als robuste Militärflinte konzipierte Dual-Mode SPAS-12 kann entweder als traditionelle Pump-Action-Flinte oder als Halbautomatik verwendet werden. Aufgrund ihrer Vielseitigkeit und schieren Feuerkraft ist sie bei Polizei und Sturmtruppen gleichermaßen beliebt. Zusätzlich zu ihren unzähligen Auftritten in Filmen und im Fernsehen über Jahrzehnte hinweg ist sie nun auch in der Zone sehr gefragt, da sie trotz ihres relativ hohen Gewichts und Preises sehr effizient beim Ausschalten von Mutanten ist.</text>
+  </string>
+  <string id="gunsl_wpn_spas12_nimble">
+    <text>Franchi SPAS-12 "Karabiner"</text>
+  </string>
+  <string id="gunsl_wpn_spas12_nimble_descr">
+    <text>Eine der wenigen angepassten SPAS-12 Schrotflinten, die in den frühen 1990er Jahren an eine Eliteeinheit der Carabinieri ausgegeben wurden, die sich häufig mit der Mafia im Nahkampf messen musste. Die grundlegenden Mechanismen und Funktionen sind die gleichen, aber viele Komponenten wurden aufgerüstet, um den Rückstoß bei jedem Schuss deutlich zu dämpfen.</text>
+  </string>
+  <string id="gunsl_wpn_protecta">
+    <text>Armsel Protecta</text>
+  </string>
+  <string id="gunsl_wpn_protecta_descr">
+    <text>Eine südafrikanische 12-Kaliber-Kampfschrotflinte mit drehbarem Zylinder und hoher Feuerrate, die für die Bereitschaftspolizei, an die sie ursprünglich verteilt wurde, eine extrem hohe Feuerkraft erzeugen kann. Die Vorteile werden durch die Masse und das beträchtliche Gewicht sowie die lange Nachladezeit ein wenig geschmälert, dennoch bleibt sie ein furchteinflößender Anblick in der Zone.</text>
+  </string>
+  <string id="gunsl_wpn_saiga12">
+    <text>Saiga 12K</text>
+  </string>
+  <string id="gunsl_wpn_saiga12_descr">
+    <text>Vollautomatische Schrotflinte, Kaliber 12, mit Pistolengriff und klappbarem Kunststoffkolben. Die Konstruktion basiert auf der Kalaschnikow-Serie von Sturmgewehren, was sie extrem zuverlässig und mechanisch einfach macht. Eine ausgezeichnete Allround-Wahl für jedes Wild in der Zone bis hin zur mittleren Entfernung. Eine einfache Schwalbenschwanzmontage auf dem Gehäusedeckel ermöglicht die Anbringung verschiedener Arten von Visieren und Optiken.</text>
+  </string>
+  <!-- Sniper -->
+  <string id="gunsl_wpn_vintorez">
+    <text>WSS "Wintorez"</text>
+  </string>
+  <string id="gunsl_wpn_vintorez_descr">
+    <text>Sowjetisches Scharfschützengewehr, das 1987 für verdeckte Operationen entwickelt wurde, bei denen die Position des Schützen durch den integrierten Schalldämpfer und den Mündungsfeuerdämpfer verdeckt wird. Die verfügbare 9x39-mm-Unterschallmunition ist sowohl präzise als auch effektiv, selbst gegen weiche Ziele, die eine GOST-zertifizierte Schutzweste der Klasse 3 tragen. Trotz der geringen Magazinkapazität sind diese Gewehre bei Stalkern sehr begehrt. Leider führt der Schalldämpfer zu einem natürlichen Verlust an Mündungsgeschwindigkeit, was zu einem steilen Abfall der Geschossflugbahn führt, die stark von den Absehen der Fernoptiken abweicht.</text>
+  </string>
+  <string id="gunsl_wpn_vintorez_nimble">
+    <text>WSSM Wintorez "Flut"</text>
+  </string>
+  <string id="gunsl_wpn_vintorez_nimble_descr">
+    <text>Eine modifizierte Version des Originals, die an militärische Aufklärungseinheiten verteilt wurde, um die in der Zone wachsenden Zombieherden auszurotten. Mehrere Komponenten wurden ausgetauscht, um die Gesamtstoppleistung auf Kosten der Feuerrate zu erhöhen.</text>
+  </string>
+  <string id="gunsl_wpn_svd">
+    <text>SWD Dragunow</text>
+  </string>
+  <string id="gunsl_wpn_svd_descr">
+    <text>Ein legendäres Scharfschützengewehr, das seit über einem halben Jahrhundert auf dem Waffenmarkt ist und in fast ebenso vielen Konflikten eingesetzt wurde. In dieser Zeit hat es sich als äußerst zuverlässige und einfach zu bedienende Waffe bewährt. Ursprünglich sollte es Ziele jenseits der Reichweite von Standard-Maschinengewehren bekämpfen, aber Stalker schätzen es für seine Fähigkeit, selbst die dicksten Mutantenhäute und Panzerwesten zu durchdringen.</text>
+  </string>
+  <string id="gunsl_wpn_svd_nimble">
+    <text>SWD Dragunov " Luchs "</text>
+  </string>
+  <string id="gunsl_wpn_svd_nimble_descr">
+    <text>Eine handgefertigte Version der SWD Dragunow, deren Komponenten und Mechanismen alle verfeinert und sorgfältig überarbeitet wurden. Das Ergebnis ist ein hervorragendes Beispiel für Feuerkraft und Präzision in einem einzigen Paket für große Entfernungen, wobei das ursprüngliche Erscheinungsbild erhalten bleibt.</text>
+  </string>
+  <string id="gunsl_wpn_svu">
+    <text>SWU</text>
+  </string>
+  <string id="gunsl_wpn_svu_descr">
+    <text>Eine modernisierte Version des SWD-Scharfschützengewehrs in Form eines kompakten Bullpups, das für schnelle Eingreiftruppen entwickelt wurde. Es ermöglicht eine schnellere Feuerrate und ist deutlich leichter als sein Vorgänger, wobei die Präzision im mittleren Bereich mit der des Originals vergleichbar ist, auf dem es basiert. Diese Eigenschaften haben ihr die Bewunderung sowohl des heutigen Militärs als auch der Pirschjäger eingebracht.</text>
+  </string>
+  <string id="gunsl_wpn_svu_nimble">
+    <text>SWU-A</text>
+  </string>
+  <string id="gunsl_wpn_svu_nimble_descr">
+    <text>Die ehemalige Lieblingswaffe von Max, dem legendären Hüter der Freiheit. Installiert mit Optionen für Einzelschuss- oder vollautomatischen Feuermodus. Sie kann auch weiter modifiziert werden, um größere Standardmagazine aufzunehmen.</text>
+  </string>
+  <string id="gunsl_wpn_gauss">
+    <text>Gaussgewehr</text>
+  </string>
+  <string id="gunsl_wpn_gauss_descr">
+    <text>Dieses extrem schussgenaue High-Tech-Gewehr, das unter der Bezeichnung Forschungsobjekt 62 bekannt ist, wurde in Geheimlabors in der Zone entwickelt. Seine Funktionsweise besteht darin, dass die Projektile mit Elektromagneten auf sehr hohe Geschwindigkeiten beschleunigt werden, was in einer schier unglaublichen Stoppwirkung bei so gut wie keinem Rückstoß resultiert. Die Waffe wird durch eingekapselte Artefaktteile in den Batterien betrieben. An der linken Seite des Gehäuses befindet sich ein Display, mit dem der Status der Waffenkomponenten überwacht werden kann.</text>
+  </string>
+  <string id="gunsl_wpn_umirotvoritel">
+    <text>Unbekannte Waffe</text>
+  </string>
+  <string id="gunsl_wpn_umirotvoritel_descr">
+    <text>Ein nicht identifiziertes Exemplar, dessen Wirkmechanismus noch nicht bekannt ist. Wie dem auch sei, die Waffe funktioniert eindeutig nicht richtig: Das Drücken des Abzugs führt zu keinem Ergebnis.</text>
+  </string>
+  <!-- Assault -->
+  <string id="gunsl_wpn_ak74u">
+    <text>AKS-74U</text>
+  </string>
+  <string id="gunsl_wpn_ak74u_descr">
+    <text>Eine verkürzte Modifikation des Sturmgewehrs AK-74, das Ende der 70er Jahre entwickelt wurde. In erster Linie für die Ausstattung von Fallschirmjägern und den Besatzungen von Kampffahrzeugen vorgesehen.</text>
+  </string>
+  <string id="gunsl_wpn_ak74ub">
+    <text>AKS-74UB</text>
+  </string>
+  <string id="gunsl_wpn_ak74ub_descr">
+    <text>%c[01,255,128,0] Eine verkürzte Version des AK-74-Sturmgewehrs für Spezialeinheiten. Ausgestattet mit einem PBS-4 Schalldämpfer. Der Standard Holzschaft wurde durch einen Kunststoffschaft ersetzt. %c[01,255,255,255]</text>
+  </string>
+  <string id="gunsl_wpn_ak74">
+    <text>AK-74M</text>
+  </string>
+  <string id="gunsl_wpn_ak74_descr">
+    <text>Dieses Modell von 1974 ist mit einem faltbaren Polymerschaft, sowie einer universellen Prismenschiene ausgestattet. Der Kompensator mindert den Rückstoß deutlich.</text>
+  </string>
+  <string id="gunsl_wpn_ak101_name">
+    <text>AK-101</text>
+  </string>
+  <string id="gunsl_wpn_ak101_descr">
+    <text>Eine relativ junge Entwicklung, die es ermöglichen sollte auch auf dem westlichen Markt Fuß zu fassen. Der Hauptunterschied zwischen dieser Waffe und dem Basismodell der AK.47M besteht in der Verwendung von NATO-Munition.</text>
+  </string>
+  <string id="gunsl_wpn_ak103_name">
+    <text>AK-103</text>
+  </string>
+  <string id="gunsl_wpn_ak103_descr">
+    <text>Eine relativ neue Entwicklung des weltberühmten Waffenkonzerns, die geschaffen wurde, um die Märkte der Länder des Nordatlantikbündnisses zu erschließen. Der Hauptunterschied zwischen dieser Waffe und dem Basismodell AK-74M ist ein anderes Laufkaliber und die Verwendung von Standard-AKM-Munition.</text>
+  </string>
+  <string id="gunsl_wpn_an94">
+    <text>AN-94 "Abakan"</text>
+  </string>
+  <string id="gunsl_wpn_an94_descr">
+    <text>Ein modernes Sturmgewehr, dass die alternde AK-74 ersetzen soll. Hauptmerkmal ist der 2-Schuss-Feuerstoß, sowie die gute Mannstoppwirkung und Durchschlagskraft.</text>
+  </string>
+  <string id="gunsl_wpn_groza">
+    <text>OZ-14 "Groza"</text>
+  </string>
+  <string id="gunsl_wpn_groza_descr">
+    <text>Ein Sturmgewehr im "Bullpup"-Design mit integriertem Granatwerfer. Der Name "Groza" der soviel wie "Gewitter" oder auch "Schrecken" bedeutet sprechen für sich.</text>
+  </string>
+  <string id="gunsl_wpn_groza_nimble">
+    <text>"Sturm"</text>
+  </string>
+  <string id="gunsl_wpn_groza_nimble_descr">
+    <text>Komplexe Modifikation der OZ-14 "Groza". Mit erhöhter Magazinkapazität.</text>
+  </string>
+  <string id="gunsl_wpn_val">
+    <text>AS "Wal"</text>
+  </string>
+  <string id="gunsl_wpn_val_descr">
+    <text>Dieses auf Basis der WSS "Wintorez" entwickelte Sturmgewehr ermöglicht es dem Schützen selbst gepanzerte Ziele ohne Preisgabe der eigenen Position auszuschalten.</text>
+  </string>
+  <string id="gunsl_wpn_bizon">
+    <text>PP-19 "Bison"</text>
+  </string>
+  <string id="gunsl_wpn_bizon_descr">
+    <text>Eine Maschinenpistole, die Anfang der 90er Jahre im Auftrag des russischen Innenministeriums entwickelt wurde. Aufgrund der Ähnlichkeit zur Kalaschnikow-Serie sind auch hier viele Teile austauschbar. Die Waffe ist mit einem kompakten Schneckenmagazin mit recht hoher Kapazität ausgestattet, sowie einer Prismenschiene zur Installation von Optiken.</text>
+  </string>
+  <string id="gunsl_wpn_p90">
+    <text>FN P90</text>
+  </string>
+  <string id="gunsl_wpn_p90_descr">
+    <text>Diese belgische Maschinenpistole wurde Mitte der 90er Jahre von FN Herstal zur Verwendung von Panzerbesatzungen entwickelt. Das progressive Design bietet eine hohe Ergonomie..</text>
+  </string>
+  <string id="gunsl_wpn_mp5">
+    <text>H&K MP5</text>
+  </string>
+  <string id="gunsl_wpn_mp5_descr">
+    <text>Diese Maschinenpistole ist aufgrund ihrer Zuverlässigkeit, Benutzerfreundlichkeit und hohen Schussgenauigkeit zu Recht beliebt und wird noch immer von vielen Armeen und Polizeieinheiten verschiedener Länder verwendet.</text>
+  </string>
+  <string id="gunsl_wpn_ump45">
+    <text>H&K UMP45</text>
+  </string>
+  <string id="gunsl_wpn_ump45_descr">
+    <text>Diese Maschinenpistole wurde in den 1990er Jahren zur Ergänzung der MP5-Reihe entwickelt. Das Ziel war die Schaffung einer genauen, kompakten Waffe für den Häuserkampf.</text>
+  </string>
+  <string id="gunsl_wpn_mp5sd">
+    <text>H&K MP5-SD</text>
+  </string>
+  <string id="gunsl_wpn_mp5sd_descr">
+    <text>Schallgedämpfte Ausführung der MP5.</text>
+  </string>
+  <string id="gunsl_wpn_l85">
+    <text>L85A2</text>
+  </string>
+  <string id="gunsl_wpn_l85_descr">
+    <text>Britisches Maschinengewehr im "Bullpup"-Design. Eine hohe Einzelschussgenauigkeit, sowie die zahlreichen Modifikationsmöglichkeiten sprechen nur für diese Waffe.</text>
+  </string>
+  <string id="gunsl_wpn_lr300">
+    <text>LR-300</text>
+  </string>
+  <string id="gunsl_wpn_lr300_descr">
+    <text>Eine neue Entwicklung in dieser berühmten Waffenfamilie. Die Änderungen wurden im oberen Teil der Stahlkonstruktion vorgenommen, die aus dem Lauf, dem Gasrohr und dem Verschlusssystem besteht. So wurde das Gewicht der Waffe verringert, ihre Ergonomie verbessert und das Gassystem aufgewertet. Die Waffe ist äußerst schussgenau, auch wenn sie zum Verschmutzen neigt und damit nicht die beste Wahl für die schwierigen Umstände in der Zone darstellt.</text>
+  </string>
+  <string id="gunsl_wpn_sig550">
+    <text>SIG 550</text>
+  </string>
+  <string id="gunsl_wpn_sig550_descr">
+    <text>Ein relativ neues Sturmgewehr, das trotz des nicht besonders aufregenden Designs schnell auf der ganzen Welt Anhänger gefunden hat. Waffen dieser Serie gehören zu den besten ihrer Klasse und sind berühmt für ihre Zuverlässigkeit, Schussgenauigkeit sowie einfache Bedienung. Obwohl dieses Sturmgewehr in der Zone recht schwierig beschafft werden kann, wird es häufig von erfahrenen Stalkern zu entsprechenden Preisen bestellt.</text>
+  </string>
+  <string id="gunsl_wpn_sig552">
+    <text>SIG SG-552 Kommando</text>
+  </string>
+  <string id="gunsl_wpn_sig552_descr">
+    <text>Eine verkürzte Version des Schweizer Sturmgewehrs SIG SG-550 für Spezialeinheiten. Wie das Basismodell auch sehr zuverlässig und genau.</text>
+  </string>
+  <string id="gunsl_wpn_sig552_strelok">
+    <text>Streloks SIG SG-552</text>
+  </string>
+  <string id="gunsl_wpn_sig552_strelok_descr">
+    <text>Auch wenn es nicht mehr wirklich neu ist, kann man leicht erkennen, dass sich der vorherige Besitzer sehr gut um die Waffe gekümmert hat: Sie wurde auseinandergenommen und wieder zusammengesetzt, nachdem jede Komponente auf optimale Leistung hin feinjustiert wurde. Dadurch ist die Stoppwirkung erhöht. Der Buchstabe "S" und 16 kleine Kerben sind in den Kolben der Waffe eingeritzt.</text>
+  </string>
+  <string id="gunsl_wpn_g36">
+    <text>H&K G36</text>
+  </string>
+  <string id="gunsl_wpn_g36_descr">
+    <text>Ein neues Mitglied der Gewehrfamilie aus westlicher Produktion, das sich erheblich von seinen Vorgängern unterscheidet. Es hat eine Automatikbasis mit einem halbverriegelten Verschlusssystem und ähnelt mehr einem amerikanischen, gasbetriebenen automatischen Sturmgewehr mit einem kurzhubigen Gaskolben. Diese Änderungen machen das Gewehr zu einem hervorragenden Beispiel einer modernen Waffe — leicht, zuverlässig und ergonomisch.</text>
+  </string>
+  <string id="gunsl_wpn_fn2000">
+    <text>FN F2000</text>
+  </string>
+  <string id="gunsl_wpn_fn2000_descr">
+    <text>Diese futuristisch anmutende Waffe im "Bullpup"-Design ist eigentlich ein seriengefertigtes modulares System, das aus einem Gewehr und einer Granatenvorrichtung mit einer computergestützten Feuersteuerung und einem 40mm-Granatwerfer besteht. Trotz ihrer Größe ist die Waffe äußerst ergonomisch, lässt sich einfach bedienen und profitiert von ihren guten technischen Eigenschaften.</text>
+  </string>
+  <!-- Heavy -->
+  <string id="gunsl_wpn_pkm">
+    <text>RPK-74</text>
+  </string>
+  <string id="gunsl_wpn_pkm_descr">
+    <text>Modifikation eines Maschinengewehrs mit Minitionsgurt. Trotz des hohen Gewichts und der mangelhaften Genauigkeit ist es in der Zone sehr beliebt.</text>
+  </string>
+  <string id="gunsl_wpn_pkm_zulus">
+    <text>Zulus RPK-74</text>
+  </string>
+  <string id="gunsl_wpn_pkm_zulus_descr">
+    <text>Diese Waffe hat zuvor Zulu gehört. Ihre Spezialfunktionen beinhalten u.a. eine erhöhte Munitionierung und einen besonders verlässlichen Abzugsmechanismus. Die Modifikationen haben zwar das Gesamtgewicht der Waffe erhöht, aber das war für den letzten Besitzer kein Problem.</text>
+  </string>
+  <string id="gunsl_wpn_rg6">
+    <text>"Bulldog-6"</text>
+  </string>
+  <string id="gunsl_wpn_rg6_descr">
+    <text>Dieser Revolver-Granatwerfer verfügt über sechs gezogene Frontladerläufe, die alle einem Unterlaufgranatwerfer entsprechen. Die Trommel wird ebenfalls von vorne geladen. Die Waffe wird häufig für das schnelle Unterdrücken von gegnerischen Feuerstellungen und — im freien Feld — gegen verschanzte Feinde oder besonders starke Mutanten eingesetzt.</text>
+  </string>
+  <string id="gunsl_wpn_rpg7">
+    <text>RPG-7W</text>
+  </string>
+  <string id="gunsl_wpn_rpg7_descr">
+    <text>Dieser Granatwerfer aus den 60er Jahren gelangte aus Armeelagern in die Zone. Die Waffe hat ein rückstoßfreies Einzelschusssystem mit glattem Lauf und einem hinten offenen Rohr. Sie verfügt über ein optisches PGO-27 Zielfernrohr mit 2,7-facher Vergrößerung. Obwohl sie wegen ihrer Größe und ihres Gewichts nicht gerade wie geschaffen für Stalker ist, hat sie dank ihrer zerstörerischen Wirkung und der einfachen Handhabung ihre Anhänger in der Zone.</text>
+  </string>
+  <string id="gunsl_wpn_rgm-40">
+    <text>RGM-40 "Schlagring"</text>
+  </string>
+  <string id="gunsl_wpn_rgm-40_descr">
+    <text>Russischer GP-30 Einzelschuss-Granatwerfer, der für den freistehenden Einsatz umgestaltet wurde. Mit Teleskopschaft, AK-ähnlichem Pistolengriff und aufklappbarem Visier. Wird in erster Linie von Strafverfolgungsbehörden zum Streuen von nicht-tödlicher Munition wie Tränengas verwendet, kann aber auch jede handelsübliche hülsenlose 40-mm-Granate abfeuern, einschließlich der hochexplosiven Varianten WOG-25 und WOG-25P.</text>
+  </string>
+</string_table>
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 02.01.2024 21:00:30 -->

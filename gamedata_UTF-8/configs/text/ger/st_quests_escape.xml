@@ -1,0 +1,870 @@
+<string_table>
+  <string id="esc_task_actor_treasure">
+    <text>Versteck</text>
+  </string>
+  <string id="esc_task_actor_treasure_start_name">
+    <text>Schnapp dir die Beute</text>
+  </string>
+  <string id="esc_task_actor_treasure_start_text">
+    <text>Ich habe meine Sachen vor nicht allzu langer Zeit in einem Versteck deponiert. Ich hoffe, sie sind noch da.</text>
+  </string>
+  <string id="esc_trader_take_job">
+    <text>ERSTE ERGEBNISSE</text>
+  </string>
+  <string id="esc_trader_take_job_start_name">
+    <text>Sprich mit dem Händler</text>
+  </string>
+  <string id="esc_trader_take_job_start_text">
+    <text>Jurok und ich sollten aufhören, uns so zu besaufen. Ich sollte mich nach Arbeit umsehen, vielleicht hat Sidorowitsch welche.</text>
+  </string>
+  <string id="esc_trader_search_collector_arts">
+    <text>NEUE EXPEDITION</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_start_name">
+    <text>Finde den Artefaktsammler</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_start_text">
+    <text>Es ist schon verdammt lange her, dass ich mich im Kordon herumgetrieben habe. Ich wurde von Sidorowitsch gebeten, jemanden zu finden, der Artefakte sammelt, laut ihm hat er sich auf den Weg zum Tunnel unter der Brücke mit den Elektroanomalien gemacht.</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_pda_taken_name">
+    <text>Sidorowitsch über den Tod des Sammlers informieren</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_pda_taken_text">
+    <text>Ich habe die Leiche des Artefaktsammlers gefunden. Zeit, mich bei Sidorowitsch zu melden.</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_go_back_name">
+    <text>Sidorowitsch über den "Tod" des Sammlers informieren oder ihn ausliefern</text>
+  </string>
+  <string id="esc_trader_search_collector_arts_go_back_text">
+    <text>Der Sammler hat sich eine anständige Summe von dem Händler geliehen und beschlossen, seinen Tod vorzutäuschen, indem er den Körper eines anderen benutzt... Ich muss mir überlegen, wie ich damit umgehe.</text>
+  </string>
+  <string id="esc_find_art_kutek">
+    <text>ELEKTRO-TUNNEL</text>
+  </string>
+  <string id="esc_find_art_kutek_start_name">
+    <text>Das Artefakt aus der Anomalie holen</text>
+  </string>
+  <string id="esc_find_art_kutek_start_text">
+    <text>Laut der Notiz des Artefaktsammlers gibt es ein Artefakt im Tunnel. Ich muss es mir ansehen.</text>
+  </string>
+  <string id="arts_for_trader">
+    <text>ARTEFAKTE FÜR DEN HÄNDLER</text>
+  </string>
+  <string id="trader_arts_inspect_first_anomaly_name">
+    <text>Prüfe die erste Anomalie auf Artefakte</text>
+  </string>
+  <string id="trader_arts_inspect_second_anomaly_name">
+    <text>Prüfe die zweite Anomalie auf Artefakte</text>
+  </string>
+  <string id="trader_arts_inspect_third_anomaly_name">
+    <text>Prüfe die dritte Anomalie auf Artefakte</text>
+  </string>
+  <string id="trader_arts_inspect_anomalies_text">
+    <text>Sidorowitsch hat versprochen, für jedes Artefakt, das ihm gebracht wird, gut zu zahlen, und ich brauche das Geld jetzt wirklich. Ich kann es kaum erwarten, in die Zone zu gehen.</text>
+  </string>
+  <string id="arts_for_trader_back_name">
+    <text>Zurück zu Sidorowitsch</text>
+  </string>
+  <string id="fatalities_army">
+    <text>ANOMALIE-VERLUSTE</text>
+  </string>
+  <string id="fatalities_army_start_name">
+    <text>Untersuche den Ort des Todes der Soldaten</text>
+  </string>
+  <string id="fatalities_army_start_text">
+    <text>Jurok hat mir mitgeteilt, dass die Soldaten, die hinter uns hergeschickt wurden, in einer Anomalie gestorben sind. Vielleicht haben sie etwas Nützliches bei sich. Ich sollte es überprüfen.</text>
+  </string>
+  <string id="esc_mechanic_night_polters">
+    <text>Seltsames Leuchten</text>
+  </string>
+  <string id="esc_mechanic_night_polters_wait_night_name">
+    <text>Warte bis zum Einbruch der Dunkelheit</text>
+  </string>
+  <string id="esc_mechanic_night_polters_wait_night_text">
+    <text>Ich muss warten, bis es spät wird, um Michalitschs Theorie zu bestätigen, dass leuchtende Objekte in der Nacht Artefakte sind. Ich warte besser bis 2 Uhr morgens, um sicher zu sein.</text>
+  </string>
+  <string id="mechanic_go_check_anomaly_name">
+    <text>Gehe zur Anomalie</text>
+  </string>
+  <string id="mechanic_go_check_anomaly_text">
+    <text>Es ist an der Zeit, zur Anomalie zu gehen und zu versuchen, die Artefakte zu finden, von denen mir der Techniker erzählt hat.</text>
+  </string>
+  <string id="mechanic_kill_polters_name">
+    <text>Töte die Poltergeister oder gehe zurück</text>
+  </string>
+  <string id="mechanic_kill_polters_text">
+    <text>Das Leuchten stammt nicht von Artefakten, sondern von Poltergeistern, die nachts in der Anomalie erscheinen. Sie sind diejenigen, die hinter den fesselnden Lichtillusionen stecken...</text>
+  </string>
+  <string id="mechanic_squad_polters_death_name">
+    <text>Erzähle Michalitsch von den Poltergeistern</text>
+  </string>
+  <string id="mechanic_squad_polters_death_text">
+    <text>Es ist an der Zeit, Michalitsch zu erzählen, was ich in der Anomalie gesehen habe.</text>
+  </string>
+  <string id="esc_fanat_logovo_start">
+    <text>ALTE BEKANNTE</text>
+  </string>
+  <string id="esc_fanat_logovo_start_dlg_name">
+    <text>Sprich mit Fanatiker</text>
+  </string>
+  <string id="esc_fanat_logovo_start_dlg_text">
+    <text>Der Händler hat mir gesagt, dass Fanatiker Hilfe brauchen könnte... und ich brauche jetzt wirklich etwas Geld.</text>
+  </string>
+  <string id="esc_fanat_logovo">
+    <text>MUTANTEN LAGER</text>
+  </string>
+  <string id="logovo_take_dinamit_name">
+    <text>Nimm das Dynamit</text>
+  </string>
+  <string id="logovo_take_dinamit_text">
+    <text>Fanatiker sagte mir, ich solle etwas Dynamit besorgen, während er und seine Jungs sich auf den Weg zur Stelle machen. Ich muss irgendwo in der Nähe der Lokomotive suchen.</text>
+  </string>
+  <string id="logovo_go_marker_name">
+    <text>Erreiche das Ziel</text>
+  </string>
+  <string id="logovo_go_marker_text">
+    <text>Fanatic hat mir die Koordinaten des Verstecks geschickt. Ich sollte mich auf den Weg dorthin machen. Er und seine Jungs warten schon auf mich.</text>
+  </string>
+  <string id="logovo_put_dinamit_name">
+    <text>Platziere das Dynamit</text>
+  </string>
+  <string id="logovo_put_dinamit_text">
+    <text>Fanatiker und seine Jungs werden mir Deckung geben, während ich das Dynamit anbringe. Ich hoffe, alles geht gut.</text>
+  </string>
+  <string id="logovo_speak_fanat_name">
+    <text>Sprich mit Fanatiker</text>
+  </string>
+  <string id="logovo_speak_fanat_text">
+    <text>Es knallte wie eine Kanone. Zeit für Fanatiker, mir meine Belohnung zu überreichen.</text>
+  </string>
+  <string id="esc_actor_repair_ar">
+    <text>ERSTES GEWEHR</text>
+  </string>
+  <string id="esc_actor_repair_ar_start_name">
+    <text>Rede mit dem Techniker</text>
+  </string>
+  <string id="esc_actor_repair_ar_start_text">
+    <text>Fanatiker belohnte mich mit seiner alternden, aber voll funktionsfähigen AK. Sie muss gewartet werden, um wieder schießen zu können.</text>
+  </string>
+  <string id="esc_actor_repair_ar_wait_name">
+    <text>Warte, bis der Techniker die Reparatur beendet hat</text>
+  </string>
+  <string id="esc_actor_repair_ar_wait_text">
+    <text>Michalitsch wird mir Bescheid geben, wenn er meine AK fertig repariert hat. In der Zwischenzeit könnte ich einige Arbeiten erledigen.</text>
+  </string>
+  <string id="esc_actor_repair_ar_final_name">
+    <text>Hole dir die AK vom Techniker</text>
+  </string>
+  <string id="esc_actor_repair_ar_final_text">
+    <text>Michalitsch hat mir mitgeteilt, dass die Arbeit erledigt ist. Zeit, mein Gewehr abzuholen.</text>
+  </string>
+  <string id="fanat_friend_quest">
+    <text>Wächter</text>
+  </string>
+  <string id="fanat_friend_quest_start_name">
+    <text>Sammle das Geld von dem Stalker ein</text>
+  </string>
+  <string id="fanat_friend_quest_start_text">
+    <text>Wowka Zerbrochen hat mir gesagt, dass der Schwindler irgendwo in der Nähe der Mühle ist. Ich muss seine Schulden eintreiben — achttausend.</text>
+  </string>
+  <string id="fanat_friend_quest_vibil_name">
+    <text>Gib Wowka das Geld</text>
+  </string>
+  <string id="fanat_friend_quest_vibil_text">
+    <text>Sicherlich ein schlüpfriger Typ, aber ich habe das Geld. Jetzt muss ich nur noch zurückkommen.</text>
+  </string>
+  <string id="esc_trader_take_job_second">
+    <text>ARBEIT IM KORDON</text>
+  </string>
+  <string id="esc_trader_take_job_2_start_name">
+    <text>Sprich mit Sidorowitsch</text>
+  </string>
+  <string id="esc_trader_take_job_2_start_text">
+    <text>Was ist nur in letzter Zeit mit mir los? Schon wieder sturzbetrunken... Der Kopf explodiert gleich! Ich werde mit Sid über die Arbeit reden. Sonst komme ich nie zur Müllhalde, bei diesem Tempo...</text>
+  </string>
+  <string id="esc_defence_village">
+    <text>ÜBERFALL AUF DAS DORF</text>
+  </string>
+  <string id="esc_defence_village_start_name">
+    <text>Bekämpfe die Mutanten</text>
+  </string>
+  <string id="esc_defence_village_start_text">
+    <text>Verdammt noch mal, wo kommen die denn her?! Die Wissenschaftler und ihr verdammtes Gerät sind an all dem schuld!</text>
+  </string>
+  <string id="esc_defence_village_tech_name">
+    <text>Zurück zum Techniker</text>
+  </string>
+  <string id="esc_defence_village_tech_text">
+    <text>Der Angriff wird abgewehrt. Es ist an der Zeit, die Natur dieses Mutanten-Anzugs-Gerät herauszufinden...</text>
+  </string>
+  <string id="esc_technic_device_atp_task">
+    <text>ARBEIT FÜR EINEN ANZUG</text>
+  </string>
+  <string id="esc_technic_device_atp_task_start_name">
+    <text>Installiere das Gerät des Wissenschaftlers an der Fahrzeugstation</text>
+  </string>
+  <string id="esc_technic_device_atp_task_start_text">
+    <text>Michalitsch bat mich, das Gerät der Wissenschaftler im Banditenlager an der Fahrzeugstation zu installieren und versprach, mir danach einen Anzug zu geben.</text>
+  </string>
+  <string id="esc_technic_device_atp_task_final_name">
+    <text>Rückkehr zu Michalitsch</text>
+  </string>
+  <string id="esc_technic_device_atp_task_final_text">
+    <text>Der Auftrag ist erledigt. Zeit, den versprochenen Anzug von Michalitsch zu besorgen.</text>
+  </string>
+  <string id="esc_trader_fail_speak_jurok">
+    <text>EIN FREUND IN NOT</text>
+  </string>
+  <string id="esc_trader_fail_speak_jurok_start_name">
+    <text>Mit Jurok sprechen</text>
+  </string>
+  <string id="esc_trader_fail_speak_jurok_start_text">
+    <text>Der Händler wird in nächster Zeit keine Geschäfte mit mir machen. Ich sollte mich auf den Weg zu Jurok machen, da ich hier sonst niemanden habe, dem ich vertrauen kann. Ich hoffe, dass er bereits nüchtern ist und mir einen Rat geben kann...</text>
+  </string>
+  <string id="travel_task_provodnik">
+    <text>ARBEIT ALS REISEFÜHRER</text>
+  </string>
+  <string id="travel_task_provodnik_go_tonnel_name">
+    <text>Gehe zum Tunnel</text>
+  </string>
+  <string id="travel_task_provodnik_go_tonnel_text">
+    <text>Jurok war völlig besoffen, kein Wunder. Aber das macht nichts, ich werde ein paar Neulinge für ihn führen und etwas Geld verdienen. Und ich muss es früh am Morgen tun, sonst endet es wie beim letzten Mal...</text>
+  </string>
+  <string id="travel_task_provodnik_go_village_name">
+    <text>Bring die Neulinge ins Dorf</text>
+  </string>
+  <string id="travel_task_provodnik_go_village_text">
+    <text>Irgendetwas ist seltsam an diesen Leuten... Wie auch immer, ich bringe sie an ihren Bestimmungsort und bekomme etwas Bargeld. Dann werde ich mich für meine Reise zur Müllhalde eindecken.</text>
+  </string>
+  <string id="travel_robbery_speak">
+    <text>Überfall</text>
+  </string>
+  <string id="travel_robbery_speak_start_name">
+    <text>Zurück zum Dorf</text>
+  </string>
+  <string id="travel_robbery_speak_start_text">
+    <text>Gut gemacht, wie du im Kordon einen Mord begangen hast, Axt... Wo zum Teufel soll ich diese Bastarde jetzt finden? Wo ist mein Zeug? Ich werde zu Jurok gehen.</text>
+  </string>
+  <string id="travel_robbery_task">
+    <text>DIEBESGUT</text>
+  </string>
+  <string id="travel_robbery_task_grabitely_name">
+    <text>Finde die Diebe</text>
+  </string>
+  <string id="travel_robbery_task_grabitely_text">
+    <text>Diese Bastarde sind gerade erst in die Zone gekommen und leben schon von Diebstählen. Aber ich werde sie finden! Jurok sagte mir, ich solle in der Mühle oder auf dem Bauerhhof nach ihnen suchen.</text>
+  </string>
+  <string id="travel_robbery_task_items_name">
+    <text>Nimm die Sachen</text>
+  </string>
+  <string id="travel_robbery_task_items_text">
+    <text>Gott sei Dank sind meine Sachen unversehrt! Die Bastarde hatten keine Zeit, es zu verkaufen.</text>
+  </string>
+  <string id="travel_robbery_task_go_back_name">
+    <text>Zurück zu Jurok</text>
+  </string>
+  <string id="travel_robbery_task_go_back_text">
+    <text>Ich bin fertig mit den Dieben. Ich muss die Pistole zu Yurok zurückbringen.</text>
+  </string>
+  <string id="go_to_garbage">
+    <text>ANGST VOR DEM UNBEKANNTEN</text>
+  </string>
+  <string id="go_to_garbage_start_name">
+    <text>Geh zur Müllhalde</text>
+  </string>
+  <string id="go_to_garbage_start_text">
+    <text>Endlich bin ich fertig mit diesem langweiligen Kordon. Es ist Zeit für eine neue Umgebung! Ich fühle mich zwar eingeschüchtert, aber ich würde sehr gerne andere Teile der Zone sehen.</text>
+  </string>
+  <string id="trader_notebook_task">
+    <text>GELEGENHEITSARBEITEN</text>
+  </string>
+  <string id="trader_notebook_go_technic_name">
+    <text>Hol den Laptop des Händlers</text>
+  </string>
+  <string id="trader_notebook_go_technic_text">
+    <text>Offenbar hat Sid seinen Laptop mit seinen monströsen Händen kaputt gemacht. Er wird gerade vom Techniker repariert und ich muss ihn abholen.</text>
+  </string>
+  <string id="trader_notebook_go_trader_name">
+    <text>Bringe den Laptop zu Sidorowitsch</text>
+  </string>
+  <string id="trader_notebook_go_trader_text">
+    <text>Ich bringe den ramponierten Laptop zu seinem Besitzer.</text>
+  </string>
+  <string id="stalker_car_benzin_task">
+    <text>VORTEILHAFTES ANGEBOT</text>
+  </string>
+  <string id="stalker_car_benzin_task_go_village_name">
+    <text>Gehen Sie zum Techniker für Benzin</text>
+  </string>
+  <string id="stalker_car_benzin_task_go_village_text">
+    <text>Jemand hat ein nagelneues Auto direkt an der Straße gefunden und mich gebeten, Benzin zu holen, während er darauf aufpasst.</text>
+  </string>
+  <string id="stalker_car_benzin_task_go_car_name">
+    <text>Bring den Kanister zum Stalker</text>
+  </string>
+  <string id="stalker_car_benzin_task_go_car_text">
+    <text>Noch ein Tausender im Wind... Warum habe ich mich auf diesen Mist eingelassen? Ich hoffe, die Entschädigung wird fair sein.</text>
+  </string>
+  <string id="help_stalker_car">
+    <text>GEFÄHRTE IN SCHWIERIGKEITEN</text>
+  </string>
+  <string id="help_stalker_name">
+    <text>Hilf dem Stalker</text>
+  </string>
+  <string id="help_stalker_text">
+    <text>Ein Stalker wird von Banditen überfallen und bittet um Hilfe. Ich sollte ihn nicht im Stich lassen.</text>
+  </string>
+  <string id="visit_stancia">
+    <text>TRÄUME</text>
+  </string>
+  <string id="visit_stancia_start_name">
+    <text>Besuch das KKW von Tschernobyl</text>
+  </string>
+  <string id="visit_stancia_start_text">
+    <text>Mann, die vielen Geschichten, die ich über das Zentrum der Zone gehört habe, sind unglaublich! Ich will einfach nur dorthin, Artefakte jagen und den Wunschgönner sehen!</text>
+  </string>
+  <string id="esc_trader_job">
+    <text>ARBEIT FÜR DEN HÄNDLER</text>
+  </string>
+  <string id="esc_task_for_trailer">
+    <text>VERMISSTER STALKER</text>
+  </string>
+  <string id="esc_task_for_trailer_search_stalker_name">
+    <text>Spuren von Kirjucha finden</text>
+  </string>
+  <string id="esc_task_for_trailer_search_stalker_text">
+    <text>Ein Stalker namens Puck hat mich gebeten, seinen vermissten Freund zu finden, wenn möglich. Er ist wahrscheinlich irgendwo jenseits der Brücke.</text>
+  </string>
+  <string id="esc_task_for_trailer_follow_the_sounds_name">
+    <text>Folge den Hilferufen</text>
+  </string>
+  <string id="esc_task_for_trailer_follow_the_sounds_text">
+    <text>In der Nähe der Mühle schreit jemand um Hilfe. Ich sollte das überprüfen.</text>
+  </string>
+  <string id="esc_task_for_trailer_kill_flesh_name">
+    <text>Töte das ungewöhnliche Fleisch</text>
+  </string>
+  <string id="esc_task_for_trailer_kill_flesh_text">
+    <text>Die Mühle wird von einer Art sprechendem Fleisch bewohnt. Es scheint, dass dies die Ursache für den Tod vieler Stalker ist.</text>
+  </string>
+  <string id="esc_task_for_trailer_help_stalker_name">
+    <text>Dem Überlebenden helfen</text>
+  </string>
+  <string id="esc_task_for_trailer_help_stalker_text">
+    <text>Ich muss den Überlebenden zu den Geschehnissen in der Mühle befragen und versuchen, ihn an einen sicheren Ort zu bringen.</text>
+  </string>
+  <string id="esc_task_for_trailer_start_village_name">
+    <text>Geh ins Dorf und hol Hilfe</text>
+  </string>
+  <string id="esc_task_for_trailer_start_village_text">
+    <text>Ich muss Puck erzählen, was passiert ist und dass sein Kamerad gestorben ist, und dann entscheiden, wie es weitergeht.</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_ready_name">
+    <text>Sprich mit Puck über die Aufgabe</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_ready_text">
+    <text>Wenn ich so weit bin, sollte ich mit Puck sprechen. Wir werden das ungewöhnliche Fleisch eliminieren.</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_start_name">
+    <text>Schieß die Herde Fleisch ab</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_start_text">
+    <text>Es ist Zeit, die Stalker zu rächen, die in der Mühle gestorben sind. Gott sei mit uns...</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_surge_name">
+    <text>Verstecke dich vor der Emission im Tunnel</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_surge_text">
+    <text>Der Zeitpunkt hätte nicht schlechter gewählt werden können! Ich muss so schnell wie möglich in den Tunnel.</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_surge_defence_name">
+    <text>Position im Tunnel halten</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_surge_defence_text">
+    <text>Trotz der Emission scheinen sich die Biester an uns festzubeißen. Wir dürfen sie nicht an uns heranlassen.</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_go_village_name">
+    <text>Zurück zum Dorf</text>
+  </string>
+  <string id="esc_task_for_trailer_attack_go_village_text">
+    <text>Nun, das war schon etwas... aber wir haben es geschafft! Zeit, zurück zu gehen und sich auszuruhen.</text>
+  </string>
+  <string id="esc_repair_nimble_rifle">
+    <text>EINZIGARTIGE GROSA</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_go_technic_name">
+    <text>Michalitsch um eine Reparatur bitten</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_go_technic_text">
+    <text>Das ist eine Waffe, von der man nur träumen kann! Andererseits ist sie nicht kampffähig. Ich werde mit Michalitsch sprechen und um Hilfe bitten.</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_search_technic_materials_name">
+    <text>Materialien für Michalitsch finden</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_search_technic_materials_text">
+    <text>Michalitsch erklärte sich bereit, mir kostenlos bei der Reparatur der Groza zu helfen, bat mich aber, ihm Material für die Arbeit zu besorgen. Er sagte mir, ich solle in das unterirdische Netzwerk im Hangar der Müllhalde gehen. Ich werde alles mitbringen, was ich finde.</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_final_technic_materials_name">
+    <text>Gib Michalitsch die Materialien</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_final_technic_materials_text">
+    <text>Schließlich sammelte ich die Sachen für den Techniker ein. Zeit, zurückzukehren und meine Waffe zu sehen.</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_wait_time_name">
+    <text>Warte, bis der Techniker die Reparatur beendet hat</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_wait_time_text">
+    <text>Michalitsch wird mir Bescheid geben, wenn er das Gewehr repariert hat. In der Zwischenzeit kann ich meine Arbeit machen.</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_take_name">
+    <text>Hol die Waffe ab</text>
+  </string>
+  <string id="esc_repair_nimble_rifle_take_text">
+    <text>Michalitsch hat mir mitgeteilt, dass die Reparatur abgeschlossen ist. Zeit, die Waffe abzuholen, auf die ich gewartet habe.</text>
+  </string>
+  <string id="esc_village_new_meet">
+    <text>ALTE FREUNDE</text>
+  </string>
+  <string id="esc_village_new_meet_start_name">
+    <text>Treffen mit Jurok</text>
+  </string>
+  <string id="esc_village_new_meet_start_text">
+    <text>Es ist schon eine Weile her, dass ich das letzte Mal im Kordon war. Ich habe sogar angefangen, diesen Ort zu vermissen. Mein Freund Jurok hat mich gebeten, im Dorf der Neulinge vorbeizuschauen. Er hat etwas mit mir zu besprechen.</text>
+  </string>
+  <string id="esc_strange_things">
+    <text>MERKWÜRDIGE DINGE</text>
+  </string>
+  <string id="esc_strange_things_speak_fanat_name">
+    <text>Sprich mit Fanatiker</text>
+  </string>
+  <string id="esc_strange_things_speak_fanat_text">
+    <text> Jurok ist besorgt über einige Probleme, die aufgetaucht sind und hat mir deshalb eine Nachricht geschickt. Ich muss von Fanatiker erfahren, was passiert ist.</text>
+  </string>
+  <string id="esc_strange_things_start_go_name">
+    <text>Gehe zum Söldnerlager</text>
+  </string>
+  <string id="esc_strange_things_start_go_text">
+    <text>Fanatiker hat mir von einer Söldnergruppe erzählt, die drei Stalker aus dem Dorf der Neulinge zur Strecke gebracht hat. Wir gehen im Morgengrauen zu ihrem Lager, um eine Rechnung zu begleichen.</text>
+  </string>
+  <string id="esc_strange_things_attack_mercs_name">
+    <text>Angriff auf die Söldner</text>
+  </string>
+  <string id="esc_strange_things_attack_mercs_text">
+    <text>Ich sollte meinen Kameraden helfen, das Söldnerlager anzugreifen.</text>
+  </string>
+  <string id="esc_strange_things_attack_speak_fanat_name">
+    <text>Sprich mit Fanatiker</text>
+  </string>
+  <string id="esc_strange_things_attack_speak_fanat_text">
+    <text>Die Söldner sind spurlos aus dem Lager verschwunden. Ich muss Fanatiker fragen und sehen, was er dazu zu sagen hat.</text>
+  </string>
+  <string id="esc_jurok_drunk_task">
+    <text>DINGE ÄNDERN SICH NIE</text>
+  </string>
+  <string id="esc_jurok_drunk_task_start_name">
+    <text>Trinke am Feuer mit Jurok</text>
+  </string>
+  <string id="esc_jurok_drunk_task_start_text">
+    <text>Das letzte Mal bin ich kaum auf die Beine gekommen und schon werde ich wieder auf einen Drink eingeladen. Einen alten Freund würde ich nicht ausschlagen Ich habe sowieso nichts zu tun.</text>
+  </string>
+  <string id="esc_scientists_task">
+    <text>Überwachung</text>
+  </string>
+  <string id="esc_scientists_task_start_name">
+    <text>Erreiche den Außenposten</text>
+  </string>
+  <string id="esc_scientists_task_start_text">
+    <text>Sidorowitsch hat mich gebeten, den Wissenschaftlern zu folgen. Ihre Gruppe ist gerade dabei, den Kontrollpunkt zu erreichen.</text>
+  </string>
+  <string id="esc_scientists_task_wait_alarm_name">
+    <text>Warte, bis der Alarm verstummt</text>
+  </string>
+  <string id="esc_scientists_task_wait_alarm_text">
+    <text>Ich bin entdeckt worden. Ich sollte besser nicht in einen Kampf verwickelt werden, sondern warten, bis sich alles beruhigt hat. Vielleicht ein Nickerchen im Dorf machen?</text>
+  </string>
+  <string id="esc_scientists_task_jobs_cancel_name">
+    <text>Teile Sidorowitsch mit, dass die Arbeit der Wissenschaftler abgebrochen wurde.</text>
+  </string>
+  <string id="esc_scientists_task_jobs_cancel_text">
+    <text>Nachdem die Kämpfe ausgebrochen waren, brach das Militär alle Feldforschungen der Wissenschaftler ab. Ich bezweifle, dass sie in nächster Zeit wieder auftauchen werden.</text>
+  </string>
+  <string id="esc_scientists_task_follow_the_scientists_name">
+    <text>Folge den Wissenschaftlern</text>
+  </string>
+  <string id="esc_scientists_task_follow_the_scientists_text">
+    <text>Ich muss den Wissenschaftlern vorsichtig folgen und herausfinden, wonach sie im Kordon suchen.</text>
+  </string>
+  <string id="esc_scientists_task_make_decision_name">
+    <text>Triff eine Entscheidung</text>
+  </string>
+  <string id="esc_scientists_task_make_decision_text">
+    <text>Verdammt noch mal! Ich muss mich aus der Sache herauswinden. Wenn ich Sidorowitsch sage, dass ich versagt habe, ist mein Ruf ruiniert. Was, wenn ich versuche, die Soldaten zu beseitigen und so herausfinde, was die Wissenschaftler wollten? Mein Herz rast wie ein Presslufthammer...</text>
+  </string>
+  <string id="esc_scientists_task_talk_scientist_name">
+    <text>Rede mit den Wissenschaftlern</text>
+  </string>
+  <string id="esc_scientists_task_talk_scientist_text">
+    <text>Ich habe großen Mist gebaut... Die Soldaten sind tot. Ich sollte mit den Wissenschaftlern reden, jetzt wo ich so ein Schlamassel angerichtet habe.</text>
+  </string>
+  <string id="esc_scientists_task_check_corpses_name">
+    <text>Durchsuche die Leichen der Wissenschaftler</text>
+  </string>
+  <string id="esc_scientists_task_check_corpses_text">
+    <text>Nun, was geschehen ist, ist geschehen. Ich sollte die Leichen der Wissenschaftler untersuchen. Vielleicht finde ich etwas Nützliches.</text>
+  </string>
+  <string id="esc_scientists_task_fail_speak_trader_name">
+    <text>Rückkehr zu Sidorowitsch</text>
+  </string>
+  <string id="esc_scientists_task_fail_speak_trader_text">
+    <text>Es ist mir gelungen, das Gerät von den Wissenschaftlern zu bekommen. Ich werde Sidorowitsch sagen, dass keine weiteren Feldforschungen durchgeführt werden.</text>
+  </string>
+  <string id="esc_scientiscts_task_fly_village_compl_name">
+    <text>Zurück zum Händler</text>
+  </string>
+  <string id="esc_scientiscts_task_fly_village_compl_text">
+    <text>Ich bin den Wissenschaftlern gefolgt. Es ist Zeit, Sidorowitsch die Details zu erzählen und meine Belohnung zu holen.</text>
+  </string>
+  <string id="esc_scientiscts_task_fly_village_scene_cancel_name">
+    <text>Pucks Informationen an Sidorowitsch weitergeben</text>
+  </string>
+  <string id="esc_scientiscts_task_fly_village_scene_cancel_text">
+    <text>Ein Stalker namens Puck hat alle Stalker darüber informiert, dass die Wissenschaftler und das Militär ein Gerät im fliegenden Dorf bei der Fahrzeugstation installiert haben. Ich werde dem Händler davon erzählen.</text>
+  </string>
+  <string id="esc_technic_scientists_device_task">
+    <text>TECHNIKERARBEIT</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_start_name">
+    <text>Bring Michalitsch das Gerät der Wissenschaftler</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_start_text">
+    <text>Michalitsch bat mich, ihm das Gerät der Wissenschaftler zu bringen. Es muss für einen Techniker von besonderem Interesse sein.</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_teleports_go_name">
+    <text>Hol dir das Gerät der Wissenschaftler, indem du die Teleporter betrittst.</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_teleports_go_text">
+    <text>Ich habe noch nie einen Teleporter betreten. Hoffentlich werde ich nicht in Stücke gerissen... Andererseits ist die Intelligenzbestie problemlos durchgekommen. Ich muss nur einen sicheren Weg finden, um das Gerät zu erreichen.</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_final_talk_name">
+    <text>Gib das Gerät der Wissenschaftler an Michalitsch</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_final_talk_text">
+    <text>Ich habe das Ding. Jetzt zurück zum Techniker. Er hat mir eine Belohnung versprochen.</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_name">
+    <text>Hol dir das Gerät der Wissenschaftler im anomalen Dorf</text>
+  </string>
+  <string id="esc_technic_scientists_device_task_fly_village_cancel_take_device_text">
+    <text>Ich habe noch nie einen Teleporter betreten. Hoffentlich werde ich nicht in Stücke gerissen ... aber wenn der Wissenschaftler es geschafft hat, kann ich es auch. Ich muss nur einen sicheren Weg finden, um das Gerät zu erreichen.</text>
+  </string>
+  <string id="esc_sweep_task">
+    <text>REINIGUNG</text>
+  </string>
+  <string id="esc_sweep_task_kill_dogs_name">
+    <text>Kümmere dich um die Mutanten in der Nähe des Tunnels.</text>
+  </string>
+  <string id="esc_sweep_task_kill_dogs_text">
+    <text>Sidorowitsch hat mich gebeten, die Biester in der Nähe des Elektrotunnels loszuwerden.</text>
+  </string>
+  <string id="esc_sweep_task_final_talk_name">
+    <text>Zurückkehren und Belohnung abholen</text>
+  </string>
+  <string id="esc_sweep_task_final_talk_text">
+    <text>Die Biester sind tot. Zeit, meine Belohnung von Sidorowitsch abzuholen.</text>
+  </string>
+  <string id="find_the_missing_stalker">
+    <text>MEISTER AUS DEM KORDON</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_start_name">
+    <text>Finde den Stalker namens Stumm</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_start_text">
+    <text>Die Stalker des Kordon haben einen Kameraden von ihnen verloren. Sie sagen, er war auf einer Erkundungstour bei den Armeelagern. Wenn ich mich dort aufhalte, werde ich nach Informationen über ihn suchen müssen.</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_help_name">
+    <text>Rette Stumm</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_help_text">
+    <text>Stumm, der Stalker aus Grausams Gruppe, ist hinter Banditengittern gelandet. Ich muss ihn irgendwie retten...</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_take_reward_name">
+    <text>Triff die Stalker in der Bar</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_take_reward_text">
+    <text>Es ist mir gelungen, den Stalker namens Stumm aus der Gefangenschaft der Banditen zu befreien. Er schlug mir vor, in die Bar zu gehen, um seine Flucht zu feiern.</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_take_second_reward_name">
+    <text>Zurück zu Grausam</text>
+  </string>
+  <string id="esc_find_the_missing_stalker_take_second_reward_text">
+    <text>Ich konnte den Freund von Grausam befreien, der irgendwie im Dunklen Tal gelandet ist. Mute sagte mir, dass die Jungs aus seiner Gruppe sich freuen werden, mich zu sehen, und schlug vor, dass wir seine Flucht feiern. Ich sollte mich auf den Weg zu ihnen machen.</text>
+  </string>
+  <string id="esc_visit_trader_task">
+    <text>VON FEIND ZU FEIND</text>
+  </string>
+  <string id="esc_visit_trader_task_talk_with_leader_name">
+    <text>Rede mit dem Kontrollpunkt-Kommandanten</text>
+  </string>
+  <string id="esc_visit_trader_task_talk_with_leader_text">
+    <text>Ich sollte mit dem Kommandanten sprechen, um die Ermittlungen voranzutreiben. Im Moment ist jede Information nützlich.</text>
+  </string>
+  <string id="esc_visit_trader_task_talk_with_prison_stalkers_name">
+    <text>Vernehmung der verhafteten Stalker</text>
+  </string>
+  <string id="esc_visit_trader_task_talk_with_prison_stalkers_text">
+    <text>Die Gefangenen am Kontrollpunkt könnten etwas Nützliches wissen. Ich sollte sie fragen, bevor ich zu Sidorowitsch gehe. Vielleicht wissen sie mehr über den Stalker, den wir suchen.</text>
+  </string>
+  <string id="esc_visit_trader_task_start_name">
+    <text>Stalker-Klamotten anziehen</text>
+  </string>
+  <string id="esc_visit_trader_task_start_text">
+    <text>Mit militärischer Ausrüstung ins Dorf zu gehen, ist ein sicherer Weg, um die Stalker zu provozieren. Der Kommandant informierte mich über eine Kiste mit konfiszierten Waren von Eindringlingen. Ich sollte mir geeignete Kleidung besorgen oder sogar ganz ohne alles gehen.</text>
+  </string>
+  <string id="esc_visit_trader_task_go_name">
+    <text>Rede mit Sidorowitsch</text>
+  </string>
+  <string id="esc_visit_trader_task_go_text">
+    <text>Es ist an der Zeit, mit Sidorowitsch über einen Stalker namens Axt zu sprechen — unter diesem Namen kennen ihn die Einheimischen, wenn mich der Gefangene nicht angelogen hat.</text>
+  </string>
+  <string id="esc_first_actor_bridge_task">
+    <text>AUF DER SPUR DES STALKERS</text>
+  </string>
+  <string id="esc_first_actor_bridge_task_start_name">
+    <text>Gehe zur eingestürzten Brücke</text>
+  </string>
+  <string id="esc_first_actor_bridge_task_start_text">
+    <text>Sidorowitsch hat mir nichts über den Stalker erzählt, aber er hat mir seinen angeblichen genauen Aufenthaltsort genannt. Ich habe das Gefühl, dass der alte Mann mich hinters Licht führt und dass da etwas dran ist.</text>
+  </string>
+  <string id="esc_first_actor_bridge_task_fail_name">
+    <text>Suche nach Spuren im Kordon</text>
+  </string>
+  <string id="esc_first_actor_bridge_task_fail_text">
+    <text>Ich konnte Sidorowitsch in meiner Verkleidung nicht erreichen, und die Einheimischen halten sich einfach bedeckt. Ich werde selbst nach Informationen über den Stalker suchen müssen. Ich sollte tiefer in den Kordon eindringen — vielleicht kann mir jemand einen Hinweis geben.</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task">
+    <text>WISSENSCHAFTLER IN NOT</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_start_name">
+    <text>Gehe zur Müllhalde</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_start_text">
+    <text>Der Oberst bat mich, einen Wissenschaftler zu retten, der mit einer teuren Ausrüstung in die Hände von Banditen geraten war. Aber warum hat er sich ohne Begleitung auf den Weg gemacht?</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_help_name">
+    <text>Hilf dem Assistenten</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_help_text">
+    <text>Ich bin auf der Müllhalde. Es ist Zeit, einen Wissenschaftler zu retten, der in Schwierigkeiten steckt.</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_kill_bandits_name">
+    <text>Töte die Banditen und rette Kowal</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_kill_bandits_text">
+    <text>Der Wissenschaftler, der gerettet werden musste, stellte sich als Kowal heraus. Die Banditen haben ihn zusammen mit einem neuen Detektor, den er bei sich trug, gefangen genommen. Der Oberst fängt an, mit seinen Geschäften aus der Reihe zu tanzen... Aber ich werde ihm trotzdem helfen müssen.</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_talk_name">
+    <text>Sprich mit Kowal</text>
+  </string>
+  <string id="esc_scientist_in_trouble_task_talk_text">
+    <text>Die Banditen stellen keine Bedrohung mehr dar. Zeit, diesem "Wissenschaftler" ein paar Fragen zu stellen.</text>
+  </string>
+  <string id="esc_composer_task">
+    <text>Alte Garde</text>
+  </string>
+  <string id="esc_composer_task_talk_with_gar_trader_name">
+    <text>Rede mit Kostil</text>
+  </string>
+  <string id="esc_composer_task_talk_with_gar_trader_text">
+    <text>Kostil sagte, er habe etwas Dringendes zu erledigen. Ich muss zu ihm gehen.</text>
+  </string>
+  <string id="esc_composer_task_start_name">
+    <text>Treffen mit den Stalkern</text>
+  </string>
+  <string id="esc_composer_task_start_text">
+    <text>Sidorowitsch schickt mich zur Müllhalde, um einer Gruppe von Stalkern zu helfen. Ich muss für ihre Sicherheit sorgen, während sie nach Artefakten suchen.</text>
+  </string>
+  <string id="esc_composer_task_actor_check_corpses_name">
+    <text>Untersuche den Fundort der toten Stalker</text>
+  </string>
+  <string id="esc_composer_task_actor_check_corpses_text">
+    <text>Die ganze Gruppe ist tot. Ich sollte den Ort untersuchen, an dem sie gestorben sind, und die Leichen nach Informationen durchsuchen.</text>
+  </string>
+  <string id="esc_composer_task_meet_merc_leader_name">
+    <text>Treffen mit Wesir</text>
+  </string>
+  <string id="esc_composer_task_meet_merc_leader_text">
+    <text>Ich habe den PDA eines Söldners gefunden, der auf einen bestimmten Wesir hinweist. Nach ihren Vorschriften sollte der PDA zu ihrem Anführer gebracht werden. Nach den Koordinaten zu urteilen, soll ich ins Dunkle Tal gehen.</text>
+  </string>
+  <string id="esc_composer_task_check_spare_seat_name">
+    <text>Überprüfe den Ausweichtreffpunkt</text>
+  </string>
+  <string id="esc_composer_task_check_spare_seat_text">
+    <text>Wesir hat mich mit einem seiner Männer geschickt, um einen Ausweichtreffpunkt zu finden. Mir ist nicht viel klar, aber ich konnte mich nicht weigern. Sie verhielten sich schlampig und hätten mich auf der Stelle umbringen können.</text>
+  </string>
+  <string id="esc_composer_task_check_bandit_savior_treasure_name">
+    <text>Lies den PDA des Stalkers im Versteck von Haufen</text>
+  </string>
+  <string id="esc_composer_task_check_bandit_savior_treasure_text">
+    <text>Haufen hat, wo die Stalker-Gruppe gestorben ist, einen PDA gefunden und ihn vorübergehend in seinem Versteck gelassen, um sicherzugehen, dass ihm niemand folgt. Die Lage hat sich beruhigt, so dass ich dort nachsehen und versuchen kann, einige nützliche Informationen zu finden.</text>
+  </string>
+  <string id="esc_composer_task_check_bandit_savior_treasure_compl_name">
+    <text>Rede mit Haufen</text>
+  </string>
+  <string id="esc_composer_task_check_bandit_savior_treasure_compl_text">
+    <text>Die Informationen aus dem PDA des Stalkers zeichnen ein recht interessantes Bild. Ich sollte weitere Pläne mit Haufen besprechen.</text>
+  </string>
+  <string id="esc_composer_task_find_survivors_name">
+    <text>Finde Überlebende aus der Stalker-Gruppe und erfahre, was passiert ist</text>
+  </string>
+  <string id="esc_composer_task_find_survivors_text">
+    <text>Ein Bandit namens Haufen, hat mich gerettet, als ich von einem von Wesirs Männern mit einer Waffe bedroht wurde. Jetzt muss ich Informationen über die Lieferung bekommen, die die Stalker bei sich hatten. Haufen hat bei einem der Stalker einen PDA gefunden, der den Aufenthaltsort eines ihrer Kameraden anzeigt. Ich muss dorthin gehen und mehr Details herausfinden.</text>
+  </string>
+  <string id="esc_composer_task_wait_time_name">
+    <text>Warte auf Smischlows Anweisungen</text>
+  </string>
+  <string id="esc_composer_task_wait_time_text">
+    <text>Ein gewisser Professor Smischlow kontrolliert aus der Ferne den Zustand des mysteriösen Geräts, das offenbar alles andere als harmlos ist. Wir müssen auf Anweisungen von Smischlow warten und unsere Positionen in der Nähe dieses Geräts halten.</text>
+  </string>
+  <string id="esc_composer_task_talk_after_attack_name">
+    <text>Rede mit Haufen</text>
+  </string>
+  <string id="esc_composer_task_talk_after_attack_text">
+    <text>Wir haben den Angriff abgewehrt und haben weitere Anweisungen von Smischlow erhalten. Ich muss unser weiteres Vorgehen mit Haufen besprechen und entscheiden, was wir mit diesem Vögelchen machen.</text>
+  </string>
+  <string id="esc_composer_task_get_to_the_fork_name">
+    <text>Am Scheideweg</text>
+  </string>
+  <string id="esc_composer_task_get_to_the_fork_text">
+    <text>Während wir uns auf die Müllhaldel zubewegen, müssen wir entscheiden, wem wir das Gerät geben: Smischlow oder Turows Leuten, die wir noch nicht wirklich kennengelernt haben.</text>
+  </string>
+  <string id="esc_composer_task_wait_to_garbage_name">
+    <text>Entscheide, was als nächstes zu tun ist</text>
+  </string>
+  <string id="esc_composer_task_wait_to_garbage_text">
+    <text>Wir sind an einem Scheideweg angelangt. Jetzt müssen wir ein für alle Mal entscheiden, wer das Gerät bekommt: Turow oder Smischlow.</text>
+  </string>
+  <string id="esc_composer_task_controler_kill_name">
+    <text>Schalte den Kontrolleur aus und nimm Messungen vor</text>
+  </string>
+  <string id="esc_composer_task_controler_kill_text">
+    <text>Turow verlangte Messungen in unmittelbarer Nähe eines Kontrolleurs, der zuvor getötet werden musste.</text>
+  </string>
+  <string id="esc_composer_task_controler_kill_complete_name">
+    <text>Zurück zu Turow</text>
+  </string>
+  <string id="esc_composer_task_controler_kill_complete_text">
+    <text>Mit Gottes Hilfe ist es uns gelungen, den Kontrolleur zu töten und Messungen vorzunehmen. Wir sollten zu Turow gehen.</text>
+  </string>
+  <string id="esc_composer_task_visit_scientist_genius_name">
+    <text>Treffen mit Smischlow</text>
+  </string>
+  <string id="esc_composer_task_visit_scientist_genius_text">
+    <text>noch ohne Beschreibung</text>
+  </string>
+  <string id="esc_composer_task_visit_trader_name">
+    <text>Besorge dir einen Satz Psi-Blocker von Sidorowitsch.</text>
+  </string>
+  <string id="esc_composer_task_visit_trader_text">
+    <text>Smischlow braucht die Psi-Blocker-Medikamente. Er hat einen Handel mit Sidorowitsch abgeschlossen, ich muss sie nur noch besorgen.</text>
+  </string>
+  <string id="esc_composer_task_drugs_complete_name">
+    <text>Bring die Drogen zu Smischlow</text>
+  </string>
+  <string id="esc_composer_task_drugs_complete_text">
+    <text>Der Händler hat mir freundlicherweise einen Satz Psi-Blocker gegeben. Zeit, zu Smischlow aufzubrechen.</text>
+  </string>
+  <string id="esc_composer_task_scientist_wait_actor_name">
+    <text>Lass Smischlow wissen, dass du bereit bist</text>
+  </string>
+  <string id="esc_composer_task_scientist_wait_actor_text">
+    <text>Smischlow wartet darauf, sich in Richtung Turow zu bewegen. Wir müssen unser Geschäft so schnell wie möglich abschließen und uns auf den Weg machen.</text>
+  </string>
+  <string id="esc_composer_task_visit_scientist_boss_final_name">
+    <text>Auf dem Weg zu Turow</text>
+  </string>
+  <string id="esc_composer_task_visit_scientist_boss_final_text">
+    <text>keine Daten</text>
+  </string>
+  <string id="esc_stalker_liar_task">
+    <text>TRANSMUTATION</text>
+  </string>
+  <string id="esc_stalker_liar_task_wait_name">
+    <text>Finde das Artefakt mit Fresssack</text>
+  </string>
+  <string id="esc_stalker_liar_task_wait_text">
+    <text>Ein Stalker aus dem Dorf, Fresssack, sagte, er habe ein ungewöhnliches Artefakt hinter dem Bahndamm gesehen. Ich sollte mit ihm dorthin gehen und nachsehen, ob das stimmt.</text>
+  </string>
+  <string id="esc_stalker_liar_task_take_artefact_name">
+    <text>Hole das Artefakt</text>
+  </string>
+  <string id="esc_stalker_liar_task_take_artefact_text">
+    <text>Ich sollte Fresssack folgen und das Artefakt holen, von dem er gesprochen hat.</text>
+  </string>
+  <string id="esc_stalker_liar_task_artefact_talk_name">
+    <text>Zeige Fresssack das Artefakt</text>
+  </string>
+  <string id="esc_stalker_liar_task_artefact_talk_text">
+    <text>Fresssack hat nicht gelogen: Wir haben wirklich ein seltenes Artefakt beim Bauernhof gefunden. Es wird Zeit, das mit ihm zu besprechen.</text>
+  </string>
+  <string id="esc_stalker_liar_task_artefact_wait_trade_name">
+    <text>Warte, bis Fresssack das Artefakt verkauft hat</text>
+  </string>
+  <string id="esc_stalker_liar_task_artefact_wait_trade_text">
+    <text>Der Auftrag ist erledigt. Fresssack hat mir gesagt, dass er seine Sachen zu Ende bringt, das Artefakt verkauft und mich dann wissen lässt, wann ich meinen Anteil abholen kann.</text>
+  </string>
+  <string id="esc_stalker_liar_task_take_reward_name">
+    <text>Meinen Anteil kassieren</text>
+  </string>
+  <string id="esc_stalker_liar_task_take_reward_text">
+    <text>Fresssack hat das Artefakt verkauft. Zeit, meinen Anteil von ihm zu bekommen.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_task_name">
+    <text>Hilf Michalitsch</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_1_task_start_name">
+    <text>Finde Werkzeuge für einfache Arbeiten</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_1_task_start_text">
+    <text>Michalitsch bat mich, ihm Werkzeuge für einfache Arbeiten zu besorgen, damit er einfache Verbesserungen an der Ausrüstung von Stalkern vornehmen kann.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_1_task_final_name">
+    <text>Bringe Michalitsch Werkzeuge für einfache Arbeiten</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_1_task_final_text">
+    <text>Es ist mir gelungen, Werkzeuge für einfache Arbeiten zu finden. Jetzt wird Michalitsch zumindest einige Upgrades für meine Ausrüstung vornehmen können.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_2_task_start_name">
+    <text>Finde Werkzeuge für feine Arbeiten</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_2_task_start_text">
+    <text>Michalitsch braucht Werkzeuge für Feinarbeiten, um einige relativ komplexe Waffen- und Rüstungsverbesserungen vorzunehmen.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_2_task_final_name">
+    <text>Bringe Michalitsch Werkzeuge für feine Arbeiten</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_2_task_final_text">
+    <text>Ich habe Werkzeuge für Feinarbeiten gefunden. Michalitsch wird nun in der Lage sein, komplexe Ausrüstungs-Verbesseungen durchzuführen.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_3_task_start_name">
+    <text>Kalibrierungswerkzeuge finden</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_3_task_start_text">
+    <text>Michalitsch braucht Kalibrierungswerkzeuge. Wenn ich sie finde, kann er fast alle Änderungen an meiner Ausrüstung vornehmen.</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_3_task_final_name">
+    <text>Bringe Michalitsch Kalibrierungswerkzeuge</text>
+  </string>
+  <string id="esc_stalker_technic_toolkit_3_task_final_text">
+    <text>Ich habe die Kalibrierungswerkzeuge. Michalitsch wird keine Schwierigkeiten mehr haben, komplexe Upgrades durchzuführen.</text>
+  </string>
+  <string id="esc_actor_stalker_sos_task">
+    <text>MERKWÜRDIGES SIGNAL</text>
+  </string>
+  <string id="esc_actor_stalker_sos_task_title">
+    <text>Reagiere auf ein SOS-Signal</text>
+  </string>
+  <string id="esc_actor_stalker_sos_task_descr">
+    <text>Aus dem Getreidesilo kommt ein ständiges SOS-Signal. Es könnte sich lohnen, das zu überprüfen.</text>
+  </string>
+</string_table>
+<!--Created/Modified with S.T.A.L.K.E.R. Dialog Extended Editor by Marty Sheppard/ Version: 0.96i ( 2017/02/17) =!!= Last changed: 05.01.2024 22:23:55 -->

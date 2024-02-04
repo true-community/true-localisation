@@ -1,0 +1,590 @@
+<string_table>
+  <string id="Clear">
+    <text>Despejado</text>
+  </string>
+  <string id="Cloudy">
+    <text>Nublado</text>
+  </string>
+  <string id="Default">
+    <text>MEDIO</text>
+  </string>
+  <string id="Extreme">
+    <text>MÁXIMO</text>
+  </string>
+  <string id="High">
+    <text>ALTO</text>
+  </string>
+  <string id="Low">
+    <text>BAJO</text>
+  </string>
+  <string id="Minimum">
+    <text>MÍNIMO</text>
+  </string>
+  <string id="Night">
+    <text>Noche</text>
+  </string>
+  <string id="Rain">
+    <text>Lluvia</text>
+  </string>
+  <string id="game type">
+    <text>TIPO DE JUEGO</text>
+  </string>
+  <string id="gd_master">
+    <text>MAESTRO</text>
+  </string>
+  <string id="gd_novice">
+    <text>NOVATO</text>
+  </string>
+  <string id="gd_veteran">
+    <text>VETERANO</text>
+  </string>
+  <string id="renderer_r1">
+    <text>DIRECTX 9</text>
+  </string>
+  <string id="renderer_r2">
+    <text>DIRECTX 9</text>
+  </string>
+  <string id="renderer_r2.5">
+    <text>DIRECTX 9+</text>
+  </string>
+  <string id="renderer_r3">
+    <text>DIRECTX 10</text>
+  </string>
+  <string id="renderer_r4">
+    <text>DIRECTX 11</text>
+  </string>
+  <string id="st_opt_high">
+    <text>ALTO</text>
+  </string>
+  <string id="st_opt_low">
+    <text>BAJO</text>
+  </string>
+  <string id="st_opt_medium">
+    <text>MEDIO</text>
+  </string>
+  <string id="st_opt_off">
+    <text>APAGADO</text>
+  </string>
+  <string id="st_opt_windowed">
+    <text>VENTANA</text>
+  </string>
+  <string id="st_opt_borderless">
+    <text>VENTANA SIN BORDES</text>
+  </string>
+  <string id="st_opt_fullscreen">
+    <text>PANTALLA COMPLETA</text>
+  </string>
+  <string id="ui_mm_60_hz">
+    <text>FRECUENCIA DE 60HZ</text>
+  </string>
+  <string id="ui_mm_r2_reflections">
+    <text>REFLEJOS DEL AGUA</text>
+  </string>
+  <string id="ui_mm_r2_wet_surface">
+    <text>CHARCOS</text>
+  </string>
+  <string id="ui_mm_r3_grass_interactive">
+    <text>VEGETACIÓN INTERACTIVA</text>
+  </string>
+  <string id="ui_mm_r3_new_rain_drops">
+    <text>GOTAS DE LLUVIA</text>
+  </string>
+  <string id="ui_mm_action">
+    <text>ACCIÓN</text>
+  </string>
+  <string id="ui_mm_advanced">
+    <text>AVANZADO</text>
+  </string>
+  <string id="ui_mm_alternative">
+    <text>ALTERNATIVO</text>
+  </string>
+  <string id="ui_mm_anisotropic">
+    <text>FILTRADO ANISOTRÓPICO</text>
+  </string>
+  <string id="ui_mm_apply">
+    <text>APLICAR</text>
+  </string>
+  <string id="ui_mm_back">
+    <text>ATRÁS</text>
+  </string>
+  <string id="ui_mm_blood">
+    <text>SANGRE</text>
+  </string>
+  <string id="ui_mm_brightness">
+    <text>BRILLO</text>
+  </string>
+  <string id="ui_mm_cancel">
+    <text>CANCELAR</text>
+  </string>
+  <string id="ui_mm_contrast">
+    <text>CONTRASTE</text>
+  </string>
+  <string id="ui_mm_controls">
+    <text>CONTROLES</text>
+  </string>
+  <string id="ui_mm_credits">
+    <text>CRÉDITOS</text>
+  </string>
+  <string id="ui_mm_crosshair_distance">
+    <text>DISTANCIA OBJETIVO EN LA MIRA</text>
+  </string>
+  <string id="ui_mm_default">
+    <text>POR DEFECTO</text>
+  </string>
+  <string id="ui_mm_delete">
+    <text>BORRAR</text>
+  </string>
+  <string id="ui_mm_delete_existing_file_q">
+    <text>BORRAR ARCHIVO GUARDADO</text>
+  </string>
+  <string id="ui_mm_filling_save_list">
+    <text>CARGANDO LISTA DE ARCHIVOS GUARDADOS...</text>
+  </string>
+  <string id="ui_mm_detail_density">
+    <text>DENSIDAD DE DETALLE DE LA HIERBA</text>
+  </string>
+  <string id="ui_mm_difficulty">
+    <text>DIFICULTAD</text>
+  </string>
+  <string id="ui_mm_dof">
+    <text>PROFUNDIDAD DE CAMPO</text>
+  </string>
+  <string id="ui_mm_vignette">
+    <text>VIÑETA</text>
+  </string>
+  <string id="ui_mm_vibrance">
+    <text>SATURACIÓN</text>
+  </string>
+  <string id="ui_mm_vibrance_intensity">
+    <text>INTENSIDAD DE SATURACIÓN</text>
+  </string>
+  <string id="ui_mm_dyn_crosshair">
+    <text>MIRA DINÁMICA</text>
+  </string>
+  <string id="ui_mm_dynamic_music">
+    <text>MÚSICA DINÁMICA</text>
+  </string>
+  <string id="ui_mm_eax">
+    <text>EAX</text>
+  </string>
+  <string id="ui_mm_streamer_mode">
+    <text>MODO STREAMER</text>
+  </string>
+  <string id="ui_mm_monitor">
+    <text>MONITOR</text>
+  </string>
+  <string id="ui_mm_screenmode">
+    <text>PANTALLA COMPLETA</text>
+  </string>
+  <string id="ui_mm_gameplay">
+    <text>JUEGO</text>
+  </string>
+  <string id="ui_mm_gamma">
+    <text>GAMMA</text>
+  </string>
+  <string id="ui_mm_geometry_lod">
+    <text>DETALLE DE OBJETOS</text>
+  </string>
+  <string id="ui_mm_invert_mouse">
+    <text>INVERTIR EL RATÓN</text>
+  </string>
+  <string id="ui_mm_key">
+    <text>TECLA</text>
+  </string>
+  <string id="ui_mm_keyboard_setup">
+    <text>CONFIGURACIÓN DEL TECLADO</text>
+  </string>
+  <string id="ui_mm_last_save">
+    <text>ÚLTIMO GUARDADO</text>
+  </string>
+  <string id="ui_mm_light_distance">
+    <text>DISTANCIA DE ILUMINACIÓN</text>
+  </string>
+  <string id="ui_mm_load">
+    <text>CARGAR</text>
+  </string>
+  <string id="ui_mm_load_game_menu">
+    <text>CARGAR</text>
+  </string>
+  <string id="ui_mm_load_game_menu_caption">
+    <text>CARGAR JUEGO</text>
+  </string>
+  <string id="ui_mm_save_game_menu_caption">
+    <text>GUARDAR PARTIDA</text>
+  </string>
+  <string id="ui_mm_load_game">
+    <text>CARGAR</text>
+  </string>
+  <string id="ui_mm_master">
+    <text>MAESTRO</text>
+  </string>
+  <string id="ui_mm_master_volume">
+    <text>VOLUMEN DE EFECTOS</text>
+  </string>
+  <string id="ui_mm_hud_weapon_volume">
+    <text>VOLUMEN DEL ARMA DEL PERSONAJE</text>
+  </string>
+  <string id="ui_mm_mouse_sense">
+    <text>SENSIBILIDAD DEL RATÓN</text>
+  </string>
+  <string id="ui_mm_msaa_alphatest">
+    <text>SUAVIZAR OBJETOS DE PRUEBA</text>
+  </string>
+  <string id="ui_mm_msaa_opt">
+    <text>OPTIMIZAR MSAA</text>
+  </string>
+  <string id="ui_mm_multiplayer">
+    <text>MULTIJUGADOR</text>
+  </string>
+  <string id="ui_mm_music_volume">
+    <text>VOLUMEN DE MÚSICA DE FONDO</text>
+  </string>
+  <string id="ui_mm_need_restart">
+    <text>SE REQUIERE REINICIAR EL JUEGO</text>
+  </string>
+  <string id="ui_mm_network_game">
+    <text>MULTIJUGADOR</text>
+  </string>
+  <string id="ui_mm_play">
+    <text>JUGAR</text>
+  </string>
+  <string id="ui_mm_newgame">
+    <text>NUEVO JUEGO</text>
+  </string>
+  <string id="ui_mm_novice">
+    <text>NOVATO</text>
+  </string>
+  <string id="ui_mm_npc_torch">
+    <text>LINTERNAS NPC</text>
+  </string>
+  <string id="ui_mm_options">
+    <text>OPCIONES</text>
+  </string>
+  <string id="ui_mm_options_n">
+    <text>OPCIONES</text>
+  </string>
+  <string id="ui_mm_particles_distance">
+    <text>DISTANCIA DE PARTÍCULAS</text>
+  </string>
+  <string id="ui_mm_quality_presets">
+    <text>AJUSTES DE CALIDAD</text>
+  </string>
+  <string id="ui_mm_quit2windows">
+    <text>SALIR</text>
+  </string>
+  <string id="ui_mm_quit_game">
+    <text>MENÚ PRINCIPAL</text>
+  </string>
+  <string id="ui_mm_quit_game_message">
+    <text>SALIR AL MENÚ</text>
+  </string>
+  <string id="ui_mm_quit_windows_message">
+    <text>SALIR DEL JUEGO</text>
+  </string>
+  <string id="ui_mm_r2_detail_bump">
+    <text>IMPACTOS DETALLADOS</text>
+  </string>
+  <string id="ui_mm_r2_steep_parallax">
+    <text>PARALAJE</text>
+  </string>
+  <string id="ui_mm_r2_sun">
+    <text>SOMBRAS DEL SOL</text>
+  </string>
+  <string id="ui_mm_r2_sun_details">
+    <text>SOMBRAS DE LA HIERBA</text>
+  </string>
+  <string id="ui_mm_r2_sun_quality">
+    <text>CALIDAD DEL SOL</text>
+  </string>
+  <string id="ui_mm_r3_DX10_1">
+    <text>USAR DX10.1</text>
+  </string>
+  <string id="ui_mm_r3_MSAA">
+    <text>SUAVIZADO DE PANTALLA COMPLETA</text>
+  </string>
+  <string id="ui_mm_r3_dynamic_wet_surfaces">
+    <text>SUPERFICIES MOJADAS</text>
+  </string>
+  <string id="ui_mm_r3_gbuffer_opt">
+    <text>OPTIMIZAR EL BUFFER GEOMÉTRICO</text>
+  </string>
+  <string id="ui_mm_r3_volumetric_smoke">
+    <text>HUMO VOLUMÉTRICO</text>
+  </string>
+  <string id="ui_mm_render_2">
+    <text>RENDERIZACIÓN 2</text>
+  </string>
+  <string id="ui_mm_renderer">
+    <text>TIPO DE RENDERIZACIÓN</text>
+  </string>
+  <string id="ui_mm_resolution">
+    <text>RESOLUCIÓN</text>
+  </string>
+  <string id="ui_mm_return_game">
+    <text>CONTINUAR</text>
+  </string>
+  <string id="ui_mm_save">
+    <text>GUARDAR</text>
+  </string>
+  <string id="ui_mm_save_game">
+    <text>GUARDAR</text>
+  </string>
+  <string id="ui_mm_save_game_menu">
+    <text>GUARDAR</text>
+  </string>
+  <string id="ui_mm_show_crosshair">
+    <text>MOSTRAR LA MIRA</text>
+  </string>
+  <string id="ui_mm_crosshair_build">
+    <text>PUNTO DE LA MIRA</text>
+  </string>
+  <string id="ui_mm_fov_val">
+    <text>CAMPO DE VISIÓN</text>
+  </string>
+  <string id="ui_mm_show_weapon">
+    <text>MOSTRAR ARMA</text>
+  </string>
+  <string id="ui_mm_simply">
+    <text>BÁSICO</text>
+  </string>
+  <string id="ui_mm_snd_device">
+    <text>DISPOSITIVO DE SONIDO</text>
+  </string>
+  <string id="ui_mm_soft_particles">
+    <text>PARTÍCULAS SUAVES</text>
+  </string>
+  <string id="ui_mm_soft_water">
+    <text>AGUA SUAVE</text>
+  </string>
+  <string id="ui_mm_sound">
+    <text>SONIDO</text>
+  </string>
+  <string id="ui_mm_sound_quality">
+    <text>CALIDAD DEL SONIDO</text>
+  </string>
+  <string id="ui_mm_stalker">
+    <text>STALKER</text>
+  </string>
+  <string id="ui_mm_sun_quality">
+    <text>CALIDAD DE LAS SOMBRAS</text>
+  </string>
+  <string id="ui_mm_particles_opt">
+    <text>OPTIMIZACIÓN DE PARTÍCULAS</text>
+  </string>
+  <string id="ui_mm_particles_distance">
+    <text>DISTANCIA DE RENDERIZACIÓN DE PARTÍCULAS</text>
+  </string>
+  <string id="ui_mm_sun_shafts">
+    <text>RAYOS DE SOL</text>
+  </string>
+  <string id="ui_mm_r3_msaa">
+    <text>MSAA</text>
+  </string>
+  <string id="ui_mm_switch_torch">
+    <text>LA IA UTILIZA LINTERNAS</text>
+  </string>
+  <string id="ui_mm_texture_quality">
+    <text>DETALLE DE TEXTURA</text>
+  </string>
+  <string id="ui_mm_tips">
+    <text>IDENTIFICACIÓN DEL NPC</text>
+  </string>
+  <string id="ui_mm_wpn_auto_reload">
+    <text>RECARGA AUTOMÁTICA DE LAS ARMAS</text>
+  </string>
+  <string id="ui_mm_veteran">
+    <text>VETERANO</text>
+  </string>
+  <string id="ui_mm_video">
+    <text>VIDEO</text>
+  </string>
+  <string id="ui_mm_vis_distance">
+    <text>DISTANCIA DE VISIÓN</text>
+  </string>
+  <string id="ui_mm_volumetric_light">
+    <text>LUZ VOLUMÉTRICA</text>
+  </string>
+  <string id="ui_mm_vsync">
+    <text>SINCRONIZACIÓN VERTICAL</text>
+  </string>
+  <string id="ui_st_invalid_saved_game">
+    <text>VERSIONES INCOMPATIBLES</text>
+  </string>
+  <string id="ui_st_invalid_saved_file_name">
+    <text>CARACTERES NO VÁLIDOS EN EL NOMBRE DEL ARCHIVO</text>
+  </string>
+  <string id="ui_st_reset">
+    <text>Reiniciar</text>
+  </string>
+  <string id="ui_st_sell_all">
+    <text>Vender todo</text>
+  </string>
+  <string id="version">
+    <text>Versión</text>
+  </string>
+  <string id="ui_mm_crouch_toggle">
+    <text>MODO DE AGACHADO</text>
+  </string>
+  <string id="ui_mm_sprint_toggle">
+    <text>MODO DE CORRER</text>
+  </string>
+  <string id="ui_mm_aim_toggle">
+    <text>MODO DE APUNTAR</text>
+  </string>
+  <string id="ui_mm_active_task_toggle">
+    <text>MODO DE MISIÓN ACTIVA</text>
+  </string>
+  <string id="ui_mm_important_save">
+    <text>GUARDADO AUTOMÁTICO</text>
+  </string>
+  <string id="ui_mm_r1_detail_textures">
+    <text>TEXTURAS DETALLADAS</text>
+  </string>
+  <string id="ui_mm_ssao_quality">
+    <text>CALIDAD SSAO</text>
+  </string>
+  <string id="ui_mm_ssao_text">
+    <text>MODO SSAO</text>
+  </string>
+  <string id="st_opt_default">
+    <text>SSAO (PREDETERMINADO)</text>
+  </string>
+  <string id="st_opt_hdao">
+    <text>HDAO (AMD)</text>
+  </string>
+  <string id="st_opt_hbao">
+    <text>HBAO (NVIDIA)</text>
+  </string>
+  <string id="ui_st_disable_hud">
+    <text>MOSTRAR INTERFAZ</text>
+  </string>
+  <string id="gd_stalker">
+    <text>STALKER</text>
+  </string>
+  <string id="st_opt_extreme">
+    <text>EXTREMO</text>
+  </string>
+  <string id="st_opt_ultra">
+    <text>ULTRA</text>
+  </string>
+  <string id="ui_mm_r4_enable_tessellation">
+    <text>TESELACIÓN</text>
+  </string>
+  <string id="ui_mm_confirm_changes">
+    <text>APLICAR CAMBIOS</text>
+  </string>
+  <string id="ui_mm_actor_shadow">
+    <text>SOMBRA DEL PERSONAJE</text>
+  </string>
+  <string id="ui_mm_bloodmarks">
+    <text>MANCHAS DE SANGRE EN MODELOS</text>
+  </string>
+  <string id="ui_mm_sun_details">
+    <text>SOMBRAS DE LA HIERBA</text>
+  </string>
+  <string id="ui_mm_keypress_on_start">
+    <text>PAUSAR DESPUÉS DE CARGAR</text>
+  </string>
+  <string id="ui_mm_subtitles">
+    <text>SUBTÍTULOS</text>
+  </string>
+  <string id="ui_mm_subtitles_slow">
+    <text>SUBTÍTULOS CON DESVANECIMIENTO SUAVE</text>
+  </string>
+  <string id="ui_mm_subtitles_font">
+    <text>TAMAÑO DE SUBTÍTULOS</text>
+  </string>
+  <string id="ui_mm_talk_font">
+    <text>TAMAÑO DEL TEXTO DEL DIÁLOGO</text>
+  </string>
+  <string id="st_opt_subtitles_font_small">
+    <text>PEQUEÑO</text>
+  </string>
+  <string id="st_opt_subtitles_font_medium">
+    <text>MEDIO</text>
+  </string>
+  <string id="st_opt_subtitles_font_large">
+    <text>GRANDE</text>
+  </string>
+  <string id="ui_st_want_to_leave_game">
+    <text>SALIR AL MENÚ</text>
+  </string>
+  <string id="st_btn_yes">
+    <text>SÍ</text>
+  </string>
+  <string id="st_btn_not">
+    <text>NO</text>
+  </string>
+  <string id="st_btn_ok">
+    <text>OK</text>
+  </string>
+  <string id="st_btn_return">
+    <text>ATRAS</text>
+  </string>
+  <string id="ui_st_load_game_warning">
+    <text>LOS DATOS NO GUARDADOS SE PERDERAN</text>
+  </string>
+  <string id="ui_st_save_file_name_is_empty">
+    <text>NO HAY NOMBRE INTRODUCIDO</text>
+  </string>
+  <string id="ui_st_save_file_exist_owerwrite">
+    <text>ESTE NOMBRE YA EXISTE</text>
+  </string>
+  <string id="st_btn_overwrite">
+    <text>SOBRESCRIBIR</text>
+  </string>
+  <string id="ui_st_save_save_name_exist">
+    <text>ESTE NOMBRE GUARDADO YA ESTÁ EN USO</text>
+  </string>
+  <string id="st_btn_save_more">
+    <text>GUARDAR MAS</text>
+  </string>
+  <string id="ui_st_mm_error">
+    <text>ERROR</text>
+  </string>
+  <string id="st_mm_lock_save">
+    <text>NO PUEDES GUARDAR EL JUEGO AHORA</text>
+  </string>
+  <string id="ui_st_off">
+    <text>DESACTIVADO</text>
+  </string>
+  <string id="ui_st_on">
+    <text>ACTIVADO</text>
+  </string>
+  <string id="ui_st_press">
+    <text>PRESIONAR</text>
+  </string>
+  <string id="ui_st_hold">
+    <text>MANTENER</text>
+  </string>
+  <string id="mouse1">
+    <text>BIR</text>
+  </string>
+  <string id="mouse2">
+    <text>BDR</text>
+  </string>
+  <string id="ui_mm_hud_strafes">
+    <text>INERCIA DEL ARMA</text>
+  </string>
+  <string id="ui_mm_hud_bobbing">
+    <text>CAMBIAR BALANCEO DEL ARMA</text>
+  </string>
+  <string id="ui_mm_hud_collision">
+    <text>COLISIÓN DEL HUD</text>
+  </string>
+  <string id="ui_mm_multi_item_pickup">
+    <text>RECOGIDA DE VARIOS ARTÍCULOS</text>
+  </string>
+  <string id="ui_mm_slow_crouch">
+    <text>AGACHARSE SUAVE</text>
+  </string>
+  <string id="ui_mm_reload_dof">
+    <text>PROFUNDIDAD DE CAMPO AL RECARGAR</text>
+  </string>
+  <string id="ui_mm_show_actor_helmet">
+    <text>MOSTRAR CASCO EN EL PERSONAJE</text>
+  </string>
+  <string id="st_mm_cant_find_saves">
+    <text>GUARDADOS NO ENCONTRADOS</text>
+  </string>
+</string_table>

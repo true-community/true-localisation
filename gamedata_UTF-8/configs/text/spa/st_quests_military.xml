@@ -1,0 +1,290 @@
+<string_table>
+  <string id="mil_search_unknowns_task">
+    <text>BUSCAR A LAS PERSONAS MISTERIOSAS</text>
+  </string>
+  <string id="mil_search_unknowns_task_talk_with_trader_name">
+    <text>Alcanzar al comerciante</text>
+  </string>
+  <string id="mil_search_unknowns_task_talk_with_trader_text">
+    <text>Koval está muerto; al salvarme, sacrificó su propia vida. De todos modos, necesito terminar lo que se empezó. Tal vez ya estoy cerca de la verdad. En este momento, debo rastrear al comerciante local, quien debería ayudarme a ponerme en contacto con los stalkers que se encontraron con el grupo desconocido... y ese grupo probablemente tenga algo que ver con la desaparición del profesor.</text>
+  </string>
+  <string id="mil_search_unknowns_task_stalkers_lager_name">
+    <text>Ir al campamento de Chord</text>
+  </string>
+  <string id="mil_search_unknowns_task_stalkers_lager_text">
+    <text>El comerciante me dio la ubicación aproximada de un grupo de stalkers bajo el liderazgo de un tal Chord, cuya ayuda necesitaré en la investigación. Debería buscar en esa área.</text>
+  </string>
+  <string id="mil_mercs_prison_task">
+    <text>ENGAÑADO</text>
+  </string>
+  <string id="mil_mercs_prison_task_start_name">
+    <text>Seguir a los mercenarios</text>
+  </string>
+  <string id="mil_mercs_prison_task_start_text">
+    <text>De repente, me encontré con el stalker que estaba buscando en los Almacenes del Ejército. En medio de nuestra conversación, fuimos capturados por mercenarios. Me pregunto qué quieren de nosotros.</text>
+  </string>
+  <string id="mil_after_katakomb_task">
+    <text>FIN DE LA LÍNEA</text>
+  </string>
+  <string id="mil_after_katakomb_task_talk_with_merc_leader_name">
+    <text>Hablar con Termite</text>
+  </string>
+  <string id="mil_after_katakomb_task_talk_with_merc_leader_text">
+    <text>Logré escapar con vida del subsuelo con Termite. Debería hablar con él y dirigirme a recoger las cosas que los mercenarios nos quitaron.</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_with_merc_leader_name">
+    <text>Matar a los mercenarios con Termite</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_with_merc_leader_text">
+    <text>Salimos con vida. Nuestro objetivo ahora es recuperar nuestras pertenencias, después de lo cual descubriremos la identidad de este Termite y veremos cómo está conectado con el profesor Dubinin.</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_name">
+    <text>Matar a los mercenarios solo</text>
+  </string>
+  <string id="mil_after_katakomb_task_kill_mercs_text">
+    <text>Es como si Termite se esfumara en el aire después de recibir un disparo. Estoy seguro de que nos encontraremos nuevamente tarde o temprano. Tiene vínculos con el profesor Dubinin de una forma u otra.</text>
+  </string>
+  <string id="mil_after_katakomb_take_actor_items_name">
+    <text>Recoger las pertenencias</text>
+  </string>
+  <string id="mil_after_katakomb_take_actor_items_text">
+    <text>Es hora de recoger mis cosas y largarme de aquí.</text>
+  </string>
+  <string id="mil_after_katakomb_search_code_name">
+    <text>Encontrar el código de la caja fuerte de los mercenarios</text>
+  </string>
+  <string id="mil_after_katakomb_search_code_text">
+    <text>La caja fuerte que contiene las cosas está cerrada con llave. Debería revisar los cadáveres de los mercenarios.</text>
+  </string>
+  <string id="mil_after_katakomb_open_safe_name">
+    <text>Abrir la caja fuerte</text>
+  </string>
+  <string id="mil_after_katakomb_open_safe_text">
+    <text>El código de la caja fuerte estaba en uno de los cadáveres de los mercenarios. Ahora puedo recoger mis cosas.</text>
+  </string>
+  <string id="mil_after_katakomb_trader_task">
+    <text>DEUDA IMPAGA</text>
+  </string>
+  <string id="mil_after_katakomb_trader_task_start_name">
+    <text>Volver al comerciante</text>
+  </string>
+  <string id="mil_after_katakomb_trader_task_start_text">
+    <text>Mientras espero a mi grupo, debería regresar con el comerciante. No estaría de más obtener más información sobre los Almacenes del Ejército y contarle las malas noticias; nadie le pagará más.</text>
+  </string>
+  <string id="mil_after_katakomb_trader_alternative_task">
+    <text>COMERCIANTE LOCAL</text>
+  </string>
+  <string id="mil_after_katakomb_trader_alternative_task_start_name">
+    <text>Hablar con el comerciante</text>
+  </string>
+  <string id="mil_after_katakomb_trader_alternative_task_start_text">
+    <text>Todavía no he pasado a ver al comerciante local. Debería obtener más información sobre estas áreas, ya que todas las pistas del profesor Dubinin desaparecieron con Termite.</text>
+  </string>
+  <string id="mil_after_katakomb_trader_sleep_task">
+    <text>DESCANSO</text>
+  </string>
+  <string id="mil_after_katakomb_trader_sleep_task_start_name">
+    <text>Dormir unas horas</text>
+  </string>
+  <string id="mil_after_katakomb_trader_sleep_task_start_text">
+    <text>He estado de pie durante varios días seguidos. Mientras mi escuadrón se dirige a los Almacenes del Ejército, debería descansar un poco.</text>
+  </string>
+  <string id="mil_plan_interception_task">
+    <text>PLAN DE INTERCEPCIÓN</text>
+  </string>
+  <string id="mil_plan_interception_task_start_name">
+    <text>Ir a la base militar</text>
+  </string>
+  <string id="mil_plan_interception_task_start_text">
+    <text>Decidimos interceptar las señales de los stalkers desconocidos para averiguar su ubicación. Para maximizar el radio del equipo de intercepción, debemos encontrar un punto alto, y las torres en la base militar abandonada serán perfectas. No debemos olvidar las advertencias del comerciante sobre esa área.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_tower_name">
+    <text>Hablar con Sky</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_tower_text">
+    <text>Parece que hemos encontrado la torre adecuada para instalar el equipo. Debería hablar con Sky.</text>
+  </string>
+  <string id="mil_plan_interception_task_device_place_name">
+    <text>Instalar el equipo en la torre</text>
+  </string>
+  <string id="mil_plan_interception_task_device_place_text">
+    <text>Estamos en posición. Ahora debemos instalar el equipo en la torre y comenzar la exploración.</text>
+  </string>
+  <string id="mil_plan_interception_task_leave_the_base_name">
+    <text>Abandonar la base militar</text>
+  </string>
+  <string id="mil_plan_interception_task_leave_the_base_text">
+    <text>Después de configurar el equipo, interceptamos varias señales. Deberíamos salir de la base lo antes posible y revisar las áreas desde donde provinieron las señales.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_after_leave_name">
+    <text>Hablar con Sky sobre los datos</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_after_leave_text">
+    <text>Lo que sucedió en la base militar ahora es cosa del pasado. El objetivo de configurar el dispositivo fue exitoso. Debería hablar ahora con Sky para averiguar qué tipo de datos se recibieron.</text>
+  </string>
+  <string id="mil_plan_interception_task_check_heli_zone_name">
+    <text>Seguir al escuadrón al helicóptero</text>
+  </string>
+  <string id="mil_plan_interception_task_check_heli_zone_text">
+    <text>Tenemos una fijación en una señal fuertemente encriptada proveniente del helicóptero accidentado. Deberíamos revisar esa área.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_heli_name">
+    <text>Hablar con Sky</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_heli_text">
+    <text>Llegar al helicóptero no parece tan fácil. Debería discutir esto con Sky.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_trader_heli_name">
+    <text>Preguntarle al comerciante sobre el helicóptero</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_trader_heli_text">
+    <text>Hemos descubierto un pasaje oculto debajo del helicóptero. Por otro lado, potentes emisiones psi nos impiden llegar allí. Deberíamos encontrar una forma de atravesarlo o buscar una entrada diferente. El comerciante Bison podría darnos más información.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_technic_pda_name">
+    <text>Preguntar a Sky sobre la ubicación del stalker</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_sky_technic_pda_text">
+    <text>El comerciante me dio el número de identificación de una PDA perteneciente a un stalker en particular; él podría ayudarnos con las emisiones psi. Ahora solo tengo que encontrarlo. Sky debería ayudarme.</text>
+  </string>
+  <string id="mil_plan_interception_task_search_stalker_technic_name">
+    <text>Ir a la señal del stalker</text>
+  </string>
+  <string id="mil_plan_interception_task_search_stalker_technic_text">
+    <text>Se ha observado al artesano stalker con información sobre el helicóptero en las inmediaciones del pueblo. Los stalkers locales llaman a este lugar Bloodsuckerwood.</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_stalker_name">
+    <text>Averiguar más sobre las emisiones psi del stalker</text>
+  </string>
+  <string id="mil_plan_interception_task_talk_with_stalker_text">
+    <text>Debo averiguar más sobre las emisiones psi alrededor del helicóptero lo antes posible, a través del artesano stalker local.</text>
+  </string>
+  <string id="mil_plan_interception_task_get_psy_helm_name">
+    <text>Armar un psy-casco</text>
+  </string>
+  <string id="mil_plan_interception_task_get_psy_helm_text">
+    <text>Para llegar al helicóptero, tengo que armar un psy-casco, o mejor aún, varios, para que yo y el escuadrón podamos investigar lo que está sucediendo allí.</text>
+  </string>
+  <string id="mil_plan_interception_task_final_name">
+    <text>Llegar a los stalkers desconocidos</text>
+  </string>
+  <string id="mil_plan_interception_task_final_text">
+    <text>Tengo todo lo necesario para llegar al helicóptero. Ahora solo tengo que descubrir qué se oculta en esa entrada en la cabina; es muy probable que sea donde Termite se estableció con su facción secreta.</text>
+  </string>
+  <string id="mil_village_prisoner_task">
+    <text>PRISIONERO BAJO EL SUELO</text>
+  </string>
+  <string id="mil_village_prisoner_task_kill_bloodsuckers_name">
+    <text>Matar a los chupasangres en el pueblo</text>
+  </string>
+  <string id="mil_village_prisoner_task_kill_bloodsuckers_text">
+    <text>El stalker que estoy buscando quedó atrapado en un sótano de una de las casas al escapar de los chupasangres. Debería limpiar la zona y ayudar al pobre tipo.</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_with_technic_name">
+    <text>Matar a los chupasangres en el pueblo</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_with_technic_text">
+    <text>Los chupasangres están muertos. Ahora debo encontrar una manera de liberar al stalker atrapado en el sótano.</text>
+  </string>
+  <string id="mil_village_prisoner_task_search_ladder_name">
+    <text>Encontrar una escalera en el pueblo</text>
+  </string>
+  <string id="mil_village_prisoner_task_search_ladder_text">
+    <text>Para liberar al stalker artesano, necesito encontrar una escalera en algún lugar del pueblo.</text>
+  </string>
+  <string id="mil_village_prisoner_task_ladder_compl_name">
+    <text>Liberar al stalker</text>
+  </string>
+  <string id="mil_village_prisoner_task_ladder_compl_text">
+    <text>Encontré una escalera. Ahora solo tengo que liberar al stalker del sótano.</text>
+  </string>
+  <string id="mil_village_prisoner_task_follow_stalker_name">
+    <text>Llevar a Marmot a un transformador</text>
+  </string>
+  <string id="mil_village_prisoner_task_follow_stalker_text">
+    <text>Una extraña anomalía apareció en el pueblo. Los vehículos que fueron abandonados aquí por los habitantes locales en 1986 comenzaron a funcionar de repente. El pueblo parecía ser habitable nuevamente, aunque sus nuevos habitantes resultaron no ser stalkers, sino chupasangres. Un stalker llamado Marmot está tratando de descifrar la naturaleza de esta anomalía. Debería ayudarlo para que me ayude.</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_final_name">
+    <text>Hablar con Marmot</text>
+  </string>
+  <string id="mil_village_prisoner_task_talk_final_text">
+    <text>Parece que Marmot encontró algún tipo de artefacto, y debe ser lo que vino a buscar aquí en primer lugar. Debería discutir nuestro próximo movimiento con él.</text>
+  </string>
+  <string id="mil_psy_helm_task">
+    <text>PSY-HELM</text>
+  </string>
+  <string id="mil_psy_helm_task_start_name">
+    <text>Ir a la base militar con Marmot</text>
+  </string>
+  <string id="mil_psy_helm_task_start_text">
+    <text>Marmot acordó ayudarme a armar un psy-casco que debería ofrecer protección contra las emisiones psi alrededor del helicóptero. Sin embargo, para armarlo, necesitamos encontrar los componentes adecuados. Podrían estar presentes en la base militar abandonada... pero, ¿sus residentes recibirán bien a cualquier visitante?</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_go_name">
+    <text>Entrar en el almacén</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_go_text">
+    <text>Debo llegar al almacén y buscar los componentes necesarios para armar un psy-casco.</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_drop_vodka_name">
+    <text>Darle vodka al dueño del almacén</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_drop_vodka_text">
+    <text>La entrada del almacén está cerrada con llave, y el dueño está quejándose de no tener ninguna bebida. Debería intentar darle un poco de vodka, ya que derribar la puerta no será una tarea fácil.</text>
+  </string>
+  <string id="mil_psy_helm_task_cover_technic_name">
+    <text>Proteger a Marmot</text>
+  </string>
+  <string id="mil_psy_helm_task_cover_technic_text">
+    <text>Debo quedarme con Marmot mientras limpia el almacén. Mientras lo hacemos, buscaré algo que pueda usar también.</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_compl_name">
+    <text>Hablar con Marmot</text>
+  </string>
+  <string id="mil_psy_helm_task_warehouse_compl_text">
+    <text>Hemos saqueado el almacén. Debería preguntarle a Marmot si podemos regresar.</text>
+  </string>
+  <string id="mil_psy_helm_task_go_technic_home_name">
+    <text>Regresar con Marmot a su cabaña</text>
+  </string>
+  <string id="mil_psy_helm_task_go_technic_home_text">
+    <text>Hemos encontrado todas las partes necesarias para armar el casco... pero, desafortunadamente, solo para uno. Ahora solo tengo que esperar a que Marmot lo ensamble.</text>
+  </string>
+  <string id="mil_psy_helm_task_kill_mercs_name">
+    <text>Matar a los atacantes</text>
+  </string>
+  <string id="mil_psy_helm_task_kill_mercs_text">
+    <text>Alguien nos atacó. Parece ser la gente de Termite. Debemos ocuparnos de ellos, o de lo contrario no saldremos de aquí con vida.</text>
+  </string>
+  <string id="mil_psy_helm_task_wait_final_name">
+    <text>Esperar a que Marmot termine</text>
+  </string>
+  <string id="mil_psy_helm_task_wait_final_text">
+    <text>Casi hemos terminado. Ahora solo tengo que esperar a que el técnico termine de armar el casco.</text>
+  </string>
+  <string id="mil_heli_final_task">
+    <text>EN EL OBJETIVO</text>
+  </string>
+  <string id="mil_heli_final_task_start_name">
+    <text>Ir al helicóptero</text>
+  </string>
+  <string id="mil_heli_final_task_start_text">
+    <text>El psy-casco ha sido ensamblado. Es hora de reunir a las tropas y dirigirse al helicóptero.</text>
+  </string>
+  <string id="mil_helicopter_defence_task">
+    <text>REFUERZO</text>
+  </string>
+  <string id="mil_helicopter_defence_task_start_name">
+    <text>Mantener la posición junto al helicóptero</text>
+  </string>
+  <string id="mil_helicopter_defence_task_start_text">
+    <text>Zhuravlyov se adentró bajo tierra. Nuestro objetivo actual es vigilar la entrada y estar alerta ante posibles amenazas.</text>
+  </string>
+  <string id="mil_skylight_error_task">
+    <text>FALLO</text>
+  </string>
+  <string id="mil_skylight_error_task_start_name">
+    <text>Revisar el equipo en la base militar</text>
+  </string>
+  <string id="mil_skylight_error_task_start_text">
+    <text>El equipo que instalamos en la torre en la base militar dejó de funcionar abruptamente. Debo verificar qué está sucediendo.</text>
+  </string>
+</string_table>

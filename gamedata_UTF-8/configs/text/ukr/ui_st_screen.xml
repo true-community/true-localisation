@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
   <string id="cant_walk">
     <text>Ви занадто виснажені, щоб рухатися</text>
@@ -238,10 +237,10 @@
     <text>Повідомлення</text>
   </string>
   <string id="tip_door_closed_base_alarm">
-    <text>Двері замкнено  -  у таборі тривога</text>
+    <text>Двері замкнено  —  у таборі тривога</text>
   </string>
   <string id="tip_door_closed_hide_weapon">
-    <text>Двері замкнено  -  необхідно сховати зброю</text>
+    <text>Двері замкнено  —  необхідно сховати зброю</text>
   </string>
   <string id="tip_door_locked">
     <text>%c[ts_ui_red] ДВЕРI ЗАМКНЕНО</text>
@@ -265,7 +264,7 @@
     <text>-</text>
   </string>
   <string id="zat_b12_conteiner_full_locked">
-    <text>Контейнер замкнено  -  необхідно два ключі</text>
+    <text>Контейнер замкнено  —  необхідно два ключі</text>
   </string>
   <string id="zat_b12_conteiner_has_one_key">
     <text>Використати ключ ($$ACTION_USE$$)</text>
@@ -274,7 +273,7 @@
     <text>Використати ключі ($$ACTION_USE$$)</text>
   </string>
   <string id="zat_b12_conteiner_locked">
-    <text>Контейнер замкнено  -  потрібен другий ключ</text>
+    <text>Контейнер замкнено  —  потрібен другий ключ</text>
   </string>
   <string id="zat_b12_conteiner_open">
     <text>Відчинити контейнер ($$ACTION_USE$$)</text>
