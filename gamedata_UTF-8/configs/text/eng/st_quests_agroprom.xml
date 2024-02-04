@@ -1,4 +1,4 @@
-<string_table>
+﻿<string_table>
   <string id="agroprom_docs">
     <text>LOCKED-UP CASE</text>
   </string>
@@ -69,7 +69,7 @@
     <text>Kill the digger leader</text>
   </string>
   <string id="agr_diggers_not_full_go_attack_leader_text">
-    <text>The easy way didn't work � I'll have to do this by sheer force. The code is likely held by the leader.</text>
+    <text>The easy way didn't work — I'll have to do this by sheer force. The code is likely held by the leader.</text>
   </string>
   <string id="agr_stalker_help_sos_task">
     <text>DISTRESS SIGNAL</text>
@@ -144,7 +144,7 @@
     <text>Talk to Dubinin's assistant</text>
   </string>
   <string id="agr_scientific_job_start_speak_assistant_text">
-    <text>I signed up to contribute to the scientist effort by studying artifact transmutation. I was given a pass and paid quite handsomely. Doesn't seem like a tough job, and my instructions are crystal clear � better to rummage in anomalies than run from mutants and sneak off bandit boxes.</text>
+    <text>I signed up to contribute to the scientist effort by studying artifact transmutation. I was given a pass and paid quite handsomely. Doesn't seem like a tough job, and my instructions are crystal clear — better to rummage in anomalies than run from mutants and sneak off bandit boxes.</text>
   </string>
   <string id="agr_scientific_job_start_go_name">
     <text>Go to the anomalous swamp</text>
@@ -234,19 +234,19 @@
     <text>Talk to the squad</text>
   </string>
   <string id="agr_before_sending_talk_with_squad_text">
-    <text>My squad was at last trusted with a serious operation. Its outcome will decide everything: either I keep protecting the scientist chambers until the contract expires or I keep advancing to the center of the Zone. I need to prepare for the departure and exchange a few words with my squadmates.</text>
+    <text>My squad was at last trusted with a serious operation. Its outcome will decide everything: either I'm stuck here protecting scientists until my contract expires or I keep advancing towards the center of the Zone. I need to prepare for the departure and exchange a few words with my squadmates.</text>
   </string>
   <string id="agr_before_sending_talk_with_koval_name">
     <text>Talk to Koval</text>
   </string>
   <string id="agr_before_sending_talk_with_koval_text">
-    <text>Before commencing the operation, I need to get to know more about Koval. He's a strange one, rarely speaking to other milstalkers, keeping to himself and disappearing from the facility. So why does the colonel tolerate all that and even insist on sending him off with our team? His signal is coming from the edges of Agroprom. I'll go check it out.</text>
+    <text>Before commencing the operation, I should get to know more about Koval. He's one strange man — rarely speaks to other military stalkers, always keeps to himself and is frequently missing from the facility. And why does the colonel tolerate all of that and even insist on sending him off with my team? Who knows. Apparently he's somewhere in the outskirts of Agroprom, judging by his PDA signal. I'll have to go find him there.</text>
   </string>
   <string id="agr_before_sending_go_sleep_name">
     <text>Rest until morning</text>
   </string>
   <string id="agr_before_sending_go_sleep_text">
-    <text>The squad is ready to launch the operation. For now, though, I should get some rest and build up my strength. Yantar's always given me strange and sullen feelings � it's always felt damp, hopeless... and ridden with death, even while the mobile bunker was in operation and while stalkers flocked to sign up for work and go artifact hunting. But what about now? There have been all kinds of legends about the lake for a month now. Stalkers stay as far away from it as possible, the scientists haven't made contact with anyone and the anomalies have become increasingly active. What did Sakharov research? Are they still alive? We'll have our answers tomorrow.</text>
+    <text>Our team is ready to launch the operation. For now, though, I should get some rest and build up my strength. Yantar's always given me strange and sullen feelings — it's always felt damp, hopeless... and ridden with death, even while the mobile bunker was in operation and while stalkers flocked to sign up for work and go artifact hunting. But what about now? There have been all kinds of legends about the lake for a month now. Stalkers stay as far away from it as possible, the scientists haven't made contact with anyone and the anomalies have become increasingly active. What did Sakharov research? Are they still alive? We'll have our answers tomorrow.</text>
   </string>
   <string id="agr_after_yantar_task">
     <text>RISE AND SHINE</text>
@@ -258,7 +258,7 @@
     <text>After reporting the mission's success to the colonel, we decided to celebrate our return from such hazardous areas. We had a good time. The boys are still sleeping, except Hottabych. I'll go have a talk with him.</text>
   </string>
   <string id="agr_after_yantar_task_to_wash_name">
-    <text>Head to the bathroom</text>
+    <text>Head to the washer</text>
   </string>
   <string id="agr_after_yantar_task_to_wash_text">
     <text>I need to freshen up before seeing the colonel.</text>
@@ -276,40 +276,40 @@
     <text>MISSING SCIENTIST</text>
   </string>
   <string id="agr_scientist_boss_search_task_start_name">
-    <text>Have a word with the group</text>
+    <text>Have a word with my squad</text>
   </string>
   <string id="agr_scientist_boss_search_task_start_text">
-    <text>The colonel set the objective of finding a missing scientist named Dubinin. I'll be searching for him on my own in order not to draw any attention. Beforehand, I need to inform my group about this mission so that they can render assistance should the need arise.</text>
+    <text>The colonel set the objective of finding a missing scientist named Dubinin. I'll be searching for him on my own in order not to draw any attention. I'll need to inform my squad about this mission beforehand so that they can render assistance should the need arise.</text>
   </string>
   <string id="agr_scientist_boss_search_task_talk_with_soldiers_name">
     <text>Have a word with the military stalkers</text>
   </string>
   <string id="agr_scientist_boss_search_task_talk_with_soldiers_text">
-    <text>The military stalkers might know more about how the scientist disappeared, having previously acted as an escort for him during fieldwork. I should question them.</text>
+    <text>The military stalkers might know more about Dubinin's disappearance, having previously acted as an escort for him during field work. I should question them.</text>
   </string>
   <string id="agr_scientist_boss_search_task_check_tonnel_name">
     <text>Examine the tunnel at Agroprom</text>
   </string>
   <string id="agr_scientist_boss_search_task_check_tonnel_text">
-    <text>According to the stalkers, a scientist landed in an anomaly in a tunnel at Agroprom. It could be Dubinin. I should examine that area and confirm my suspicions.</text>
+    <text>According to the stalkers, a scientist stepped into an anomaly in a tunnel at Agroprom. It could be Dubinin. I should examine that area and confirm my suspicions.</text>
   </string>
   <string id="agr_scientist_boss_search_task_go_back_name">
     <text>Take the remains to an expert</text>
   </string>
   <string id="agr_scientist_boss_search_task_go_back_text">
-    <text>Human remains and scraps of Dubinin's signature scientist suit were located by the anomaly. To confirm that it's really him, I should take the genetic material to the scientist facility.</text>
+    <text>Human remains and scraps of Dubinin's signature scientist suit were located by the anomaly. To confirm that it's really him, I should take the remains back to the complex.</text>
   </string>
   <string id="agr_scientist_boss_search_task_heli_name">
-    <text>Go to the Cordon</text>
+    <text>Head to the Cordon</text>
   </string>
   <string id="agr_scientist_boss_search_task_heli_text">
-    <text>A scientific expedition is preparing to fly to Dityatki. Perhaps they'll bring me on board so I don't have to trudge to Sidorovich on foot.</text>
+    <text>A scientific expedition is preparing to fly over to the Dityatki southern checkpoint. Perhaps they'll bring me on board so I don't have to trudge to Sidorovich on foot.</text>
   </string>
   <string id="agr_scientist_boss_global_state_name">
     <text>Find clues behind Dubinin's disappearance</text>
   </string>
   <string id="agr_scientist_boss_global_state_text">
-    <text>For all intents and purposes, I've been given free rein on the operation. I must find all possible clues to find out what happened to professor Dubinin.</text>
+    <text>For all intents and purposes, I've been given free rein on the operation. I must find all possible clues to find out what happened to Professor Dubinin.</text>
   </string>
   <string id="agr_tonnel_dogs_task">
     <text>DOG ATTACK</text>
@@ -318,7 +318,7 @@
     <text>Help the field group fight off the attack</text>
   </string>
   <string id="agr_tonnel_dogs_task_kill_dogs_text">
-    <text>These mutant attacks on assistants in the field are nothing out of the ordinary. I should help my colleagues protect the scientists.</text>
+    <text>These mutant attacks on assistants out in the field are nothing out of the ordinary. I should help my colleagues protect the scientists.</text>
   </string>
   <string id="agr_tonnel_dogs_task_talk_name">
     <text>Talk to Kridov</text>

@@ -1,4 +1,4 @@
-<string_table>
+﻿<string_table>
   <string id="actor_inventory_box_use">
     <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]OPEN PERSONAL STASH</text>
   </string>
@@ -135,7 +135,7 @@
     <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PICK UP THE SAMPLE</text>
   </string>
   <string id="nsp_brawl_place_artefact_text">
-    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]BURY THE TRANSMUTE</text>
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]BURY THE CONTAINER</text>
   </string>
   <string id="nsp_bell_use_text">
     <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]RING THE BELL</text>
@@ -189,7 +189,7 @@
     <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]LISTEN TO THE RECORDING</text>
   </string>
   <string id="yan_bunker_zombie_door_try_open">
-    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]PULL THE DOOR HARD</text>
+    <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]BREACH THE DOOR</text>
   </string>
   <string id="yan_factory_emitter_switcher_off">
     <text>%c[info_orange][$$ACTION_USE$$] %c[info_title]SHUT DOWN THE ANTENNA</text>
