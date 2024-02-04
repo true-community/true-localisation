@@ -1,0 +1,686 @@
+<string_table>
+  <string id="jup_a10_actor_agree_back_vano_duties_name">
+    <text>Długi: zanieś pieniądze bandytom</text>
+  </string>
+  <string id="jup_a10_actor_agree_back_vano_duties_text">
+    <text>Wano jest winien bandytom pieniądze za kombinezon, ale nie może go spłacić, bo odsetki rosną zbyt szybko. Poprosił cię o rozwiązanie tego problemu.</text>
+  </string>
+  <string id="jup_a10_actor_back_vano_duties_name">
+    <text>Długi: wróć do Wano</text>
+  </string>
+  <string id="jup_a10_actor_back_vano_duties_text">
+    <text>Powiedz Wano, jak poszła spłata jego długu.</text>
+  </string>
+  <string id="jup_a10_kill_all_bandit_name">
+    <text>Długi: rozpraw się z bandytami</text>
+  </string>
+  <string id="jup_a10_kill_all_bandit_text">
+    <text>Spłata długów Wano przybrała paskudny obrót. Zabij bandytów.</text>
+  </string>
+  <string id="jup_a12_free_prisoner_get_reward_name">
+    <text>Zakładnik: odbierz nagrodę od przyjaciół Mitaja</text>
+  </string>
+  <string id="jup_a12_free_prisoner_get_reward_text">
+    <text>Mitaj został uwolniony. Spotkaj się w barze z jego przyjaciółmi, aby odebrać nagrodę.</text>
+  </string>
+  <string id="jup_a12_free_prisoner_name">
+    <text>Zakładnik: uwolnij Mitaja</text>
+  </string>
+  <string id="jup_a12_free_prisoner_not_ready_name">
+    <text>Zakładnik: powiedz Grizliemu, że jesteś gotowy</text>
+  </string>
+  <string id="jup_a12_free_prisoner_not_ready_text">
+    <text>Musisz porozmawiać z Grizlim, zanim spróbujesz uwolnić zakładnika.</text>
+  </string>
+  <string id="jup_a12_free_prisoner_power_name">
+    <text>Zakładnik: uwolnij Mitaja siłą</text>
+  </string>
+  <string id="jup_a12_free_prisoner_power_text">
+    <text>Musisz zabić bandytów, aby uwolnić stalkera zwanego Mitajem.</text>
+  </string>
+  <string id="jup_a12_free_prisoner_power_wait_name">
+    <text>Zakładnik: spotkaj się ze stalkerami</text>
+  </string>
+  <string id="jup_a12_free_prisoner_power_wait_text">
+    <text>Stalkerzy pomogą ci uwolnić zakładnika. Musisz spotkać się z nimi w nocy, aby wspólnie zaatakować bandytów.</text>
+  </string>
+  <string id="jup_a12_free_prisoner_ransom_name">
+    <text>Zakładnik: uzgodnij zapłatę okupu za uwolnienie Mitaja</text>
+  </string>
+  <string id="jup_a12_free_prisoner_ransom_text">
+    <text>Uzgodnij z dowódcą bandytów zapłatę okupu za uwolnienie stalkera zwanego Mitajem.</text>
+  </string>
+  <string id="jup_a12_free_prisoner_text">
+    <text>Uwolnij stalkera zwanego Mitajem, który został wzięty na zakładnika przez bandytów.</text>
+  </string>
+  <string id="jup_a12_guide_prisoner_name">
+    <text>Zakładnik: wyprowadź Mitaja z obozu bandytów</text>
+  </string>
+  <string id="jup_a12_guide_prisoner_text">
+    <text>Obóz bandytów jest zbyt niebezpieczny, żeby się po nim kręcić. Musisz odeskortować Mitaja poza obóz.</text>
+  </string>
+  <string id="jup_a12_talk_with_prisoner_name">
+    <text>Zakładnik: porozmawiaj z Mitajem</text>
+  </string>
+  <string id="jup_a12_talk_with_prisoner_text">
+    <text>Mitaj jest względnie bezpieczny. Porozmawiaj z nim na temat planu dalszego działania.</text>
+  </string>
+  <string id="jup_a9_way_to_pripyat_tech_name">
+    <text>Droga do Prypeci: porozmawiaj z technikiem na temat tunelu</text>
+  </string>
+  <string id="jup_a9_way_to_pripyat_tech_text">
+    <text>Znalezione przez ciebie dokumenty jasno stwierdzają, że pod fabryką Jupiter znajduje się podziemny tunel prowadzący do Prypeci. W tunelu nie ma energii i jest on wypełniony gazem, a wejście zostało zablokowane. Musisz znaleźć technika, który potrafi włączyć generator i otworzyć śluzę.</text>
+  </string>
+  <string id="jup_b10_ufo_memory_at_text">
+    <text>Moduł pamięci jest w rękach eksperta. Musisz poczekać, aż zostanie odblokowany.</text>
+  </string>
+  <string id="jup_b10_ufo_memory_name">
+    <text>Samolot bezzałogowy: odblokuj moduł pamięci</text>
+  </string>
+  <string id="jup_b10_ufo_memory_nitro_name">
+    <text>Samolot bezzałogowy: odbierz moduł pamięci od Azota</text>
+  </string>
+  <string id="jup_b10_ufo_memory_novikov_name">
+    <text>Samolot bezzałogowy: odbierz moduł pamięci od Nowikowa</text>
+  </string>
+  <string id="jup_b10_ufo_memory_repaired_by_nitro_text">
+    <text>Azot odblokował moduł pamięci. Odbierz go, żeby zobaczyć, jakie informacje zawiera.</text>
+  </string>
+  <string id="jup_b10_ufo_memory_repaired_by_novikov_text">
+    <text>Nowikow odblokował moduł pamięci. Odbierz go, żeby zobaczyć, jakie informacje zawiera.</text>
+  </string>
+  <string id="jup_b10_ufo_memory_started_text">
+    <text>Udało ci się ocalić moduł pamięci z samolotu bezzałogowego. Musisz go odblokować, żeby dostać się do zawartych w nim informacji.</text>
+  </string>
+  <string id="jup_b10_ufo_memory_wait_name">
+    <text>Samolot bezzałogowy: poczekaj, aż moduł pamięci zostanie odblokowany</text>
+  </string>
+  <string id="jup_b16_oasis_art_name">
+    <text>Oaza: znajdź dowód</text>
+  </string>
+  <string id="jup_b16_oasis_art_text">
+    <text>Oaza została odnaleziona i naprawdę ma lecznicze właściwości. Musisz znaleźć jakiś dowód, żeby dostarczyć go naukowcom.</text>
+  </string>
+  <string id="jup_b16_oasis_artifact_back_name">
+    <text>Oaza: zanieś dowód naukowcom</text>
+  </string>
+  <string id="jup_b16_oasis_artifact_back_text">
+    <text>Oaza została odnaleziona i naprawdę ma lecznicze właściwości. Musisz zabrać znaleziony tam artefakt do naukowców jako dowód.</text>
+  </string>
+  <string id="jup_b16_oasis_name">
+    <text>Oaza: sprawdź, czy legenda jest prawdziwa</text>
+  </string>
+  <string id="jup_b16_oasis_text">
+    <text>Oziorski, naukowiec z bunkra, poprosił cię o odnalezienie Oazy, legendarnego miejsca w Zonie. Według plotek, powinny się tam znajdować jakieś wody lecznicze, ale nikt tak naprawdę nie wie, czy ona istnieje.</text>
+  </string>
+  <string id="jup_b19_agreed_to_go_name">
+    <text>Kopaczi: idź z Wujkiem Jarem</text>
+  </string>
+  <string id="jup_b19_agreed_to_go_text">
+    <text>Wujek Jar potrzebuje pomocy w jakiejś sprawie. Idź z nim do wioski Kopaczi.</text>
+  </string>
+  <string id="jup_b19_destroy_mercs_name">
+    <text>Kopaczi: zabij najemników</text>
+  </string>
+  <string id="jup_b19_destroy_mercs_text">
+    <text>Wygląda na to, że Wujek Jar spodziewał się przybycia najemników. Musisz ich zabić.</text>
+  </string>
+  <string id="jup_b19_following_yar_name">
+    <text>Kopaczi: trzymaj się blisko Wujka Jara</text>
+  </string>
+  <string id="jup_b19_following_yar_text">
+    <text>Wujek Jar poprosił cię o trzymanie się blisko niego i siedzenie cicho.</text>
+  </string>
+  <string id="jup_b19_talk_to_yar_name">
+    <text>Kopaczi: porozmawiaj z Wujkiem Jarem</text>
+  </string>
+  <string id="jup_b19_talk_to_yar_text">
+    <text>Najemnicy nie żyją. Musisz porozmawiać z Wujkiem Jarem, aby wyjaśnił, co się stało.</text>
+  </string>
+  <string id="jup_b1_bring_art_back_name">
+    <text>Okresowe emisje psioniczne: zabierz anormalny twór do naukowców</text>
+  </string>
+  <string id="jup_b1_bring_art_back_text">
+    <text>Zgodnie z umową, zabierz znalezioną próbkę do Hermana. Wygląda na to, że ten przedmiot, częściowo przekształcony przez działanie anomalii, jest źródłem okresowych emisji psionicznych.</text>
+  </string>
+  <string id="jup_b1_get_art_name">
+    <text>Okresowe emisje psioniczne: zbadaj źródło</text>
+  </string>
+  <string id="jup_b1_get_art_text">
+    <text>Zbadaj tunele w poszukiwaniu jakiegoś tworu wykazującego anomalię. Naukowcy wierzą, że okresowe pole psioniczne ma źródło, które prawdopodobnie przypomina artefakt.</text>
+  </string>
+  <string id="jup_b1_join_squad_name">
+    <text>Okresowe emisje psioniczne: spotkaj się z drużyną Topola</text>
+  </string>
+  <string id="jup_b1_join_squad_text">
+    <text>Drużyna Topola wybrała się do tunelu, w którym występują okresowe emisje psioniczne. Musisz się tam z nimi spotkać.</text>
+  </string>
+  <string id="jup_b1_meet_squad_name">
+    <text>Okresowe emisje psioniczne: porozmawiaj z Topolem</text>
+  </string>
+  <string id="jup_b1_meet_squad_text">
+    <text>Dołącz do drużyny Topola idącej do tunelu, w którym występują okresowe emisje psioniczne. Zgodnie z umową, stalkerzy będą ochraniać tunel, podczas gdy ty będziesz szukać tego, czego chcą naukowcy.</text>
+  </string>
+  <string id="jup_b200_tech_materials_brought_all_text">
+    <text>Musisz zabrać wszystkie znalezione materiały radiotechniczne do Azota.</text>
+  </string>
+  <string id="jup_b200_tech_materials_brought_some_text">
+    <text>Azot potrzebuje materiałów radiotechnicznych. Możesz mu dać to, co już masz, lub postarać się znaleźć coś jeszcze.</text>
+  </string>
+  <string id="jup_b200_tech_materials_name">
+    <text>Sprzęt radiowy: znajdź materiały dla Azota</text>
+  </string>
+  <string id="jup_b200_tech_materials_text">
+    <text>Azot potrzebuje materiałów radiotechnicznych. Mówi, że najlepiej poszukać ich w cementowni.</text>
+  </string>
+  <string id="jup_b202_actor_items_stolen_01_name">
+    <text>Kradzież: dowiedz się, kto jest odpowiedzialny za kradzież</text>
+  </string>
+  <string id="jup_b202_actor_items_stolen_01_text">
+    <text>Popytaj stalkerów w Janowie, czy nie widzieli kogoś podejrzanego, kto mógłby ukraść coś z prywatnej skrytki.</text>
+  </string>
+  <string id="jup_b202_actor_items_stolen_02_name">
+    <text>Kradzież: sprawdź na podstacji</text>
+  </string>
+  <string id="jup_b202_actor_items_stolen_02_text">
+    <text>Musisz sprawdzić podstację, ponieważ w tamtą stronę skierował się podejrzany stalker, który może być odpowiedzialny za kradzież.</text>
+  </string>
+  <string id="jup_b202_actor_items_stolen_03_name">
+    <text>Kradzież: zabierz swoje rzeczy</text>
+  </string>
+  <string id="jup_b202_actor_items_stolen_03_text">
+    <text>Wszystkie przedmioty, które ukradł Sęk, powinny być w schowku w kanałach za podstacją.</text>
+  </string>
+  <string id="jup_b206_anomalous_grove_get_plant_name">
+    <text>Nietypowa roślina: zdobądź próbkę rośliny</text>
+  </string>
+  <string id="jup_b206_anomalous_grove_get_plant_text">
+    <text>Obszar pełen nietypowej roślinności pojawił się w pobliżu krawędzi kamieniołomów. Oziorski poprosił cię o przyniesienie próbki roślin do badań.</text>
+  </string>
+  <string id="jup_b206_anomalous_grove_have_plant_name">
+    <text>Nietypowa roślina: daj próbkę Oziorskiemu</text>
+  </string>
+  <string id="jup_b206_anomalous_grove_have_plant_text">
+    <text>Musisz zabrać próbkę rośliny do Oziorskiego. W zamian Oziorski przekona Hermana, żeby dał ci kombinezon naukowca.</text>
+  </string>
+  <string id="jup_b208_burers_hunt_kill_burers_name">
+    <text>Polowanie: zabij niezidentyfikowane mutanty</text>
+  </string>
+  <string id="jup_b208_burers_hunt_kill_burers_text">
+    <text>Grupa stalkerów napotkała niezidentyfikowane mutanty w tunelach na północ od fabryki Jupiter. Zbadaj ten teren i zabij mutanty.</text>
+  </string>
+  <string id="jup_b208_burers_hunt_take_reward_name">
+    <text>Polowanie: odbierz od Trapera nagrodę za zabicie mutantów w tunelu</text>
+  </string>
+  <string id="jup_b208_burers_hunt_take_reward_text">
+    <text>Mutanty w tunelu na północ od fabryki Jupiter zostały zabite. Musisz poinformować o tym Trapera i odebrać swoją nagrodę.</text>
+  </string>
+  <string id="jup_b209_hypotheses_1_name">
+    <text>Hipoteza: umieść skaner w centrum osuwiska</text>
+  </string>
+  <string id="jup_b209_hypotheses_1_text">
+    <text>Umieść skaner w centrum osuwiska, aby sprawdzić hipotezę Oziorskiego.</text>
+  </string>
+  <string id="jup_b209_hypotheses_2_name">
+    <text>Hipoteza: poczekaj na zakończenie eksperymentu</text>
+  </string>
+  <string id="jup_b209_hypotheses_2_text">
+    <text>Skaner jest teraz aktywny i zaczął rejestrować obecność mutantów. Musisz poczekać na zebranie wystarczającej ilości danych, by potwierdzić lub obalić hipotezę.</text>
+  </string>
+  <string id="jup_b209_hypotheses_3_name">
+    <text>Hipoteza: zabierz skaner</text>
+  </string>
+  <string id="jup_b209_hypotheses_3_text">
+    <text>Zebrano wystarczającą ilość danych, by potwierdzić hipotezę Oziorskiego. Zabierz skaner.</text>
+  </string>
+  <string id="jup_b209_hypotheses_4_name">
+    <text>Hipoteza: daj skaner Oziorskiemu</text>
+  </string>
+  <string id="jup_b209_hypotheses_4_text">
+    <text>Musisz dać skaner Oziorskiemu. Zebrane dane powinny wystarczyć, by potwierdzić jego hipotezę.</text>
+  </string>
+  <string id="jup_b211_kill_bloodsuckers_name">
+    <text>Polowanie: zabij bagienne pijawki</text>
+  </string>
+  <string id="jup_b211_kill_bloodsuckers_text">
+    <text>Zaobserwowano grupę bagiennych pijawek na Mokradłach za cementownią. Miejscowi stalkerzy poprosili cię o ich zabicie.</text>
+  </string>
+  <string id="jup_b211_take_reward_name">
+    <text>Polowanie: odbierz od Trapera nagrodę za zabicie pijawek</text>
+  </string>
+  <string id="jup_b211_take_reward_text">
+    <text>Bagienne pijawki są martwe. Odbierz od Trapera nagrodę zaoferowaną przez miejscowych stalkerów.</text>
+  </string>
+  <string id="jup_b212_jupiter_kill_chimera_name">
+    <text>Nocne polowanie: zabij chimerę</text>
+  </string>
+  <string id="jup_b212_jupiter_kill_chimera_text">
+    <text>Chimery są drapieżnikami nocnymi. Nikt nie wie, gdzie ta ma swoje dzienne legowisko. Musisz ją zabić w nocy, gdy wychodzi na polowanie niedaleko kompleksu wentylacyjnego.</text>
+  </string>
+  <string id="jup_b212_jupiter_tell_animalboy_about_chimera_name">
+    <text>Nocne polowanie: powiedz Traperowi, że chimera została zabita</text>
+  </string>
+  <string id="jup_b212_jupiter_tell_animalboy_about_chimera_text">
+    <text>Mordercza chimera nie żyje, a łowca Lis został pomszczony. Powiedz o tym Traperowi.</text>
+  </string>
+  <string id="jup_b217_get_tools_1_2_name">
+    <text>Narzędzia: przynieś Azotowi narzędzia</text>
+  </string>
+  <string id="jup_b217_get_tools_1_2_text">
+    <text>Azot poprosił cię o zdobycie dwóch zestawów narzędzi: jednego podstawowego i jednego do precyzyjnej pracy. Technik zapłaci ci za narzędzia i będzie w stanie wykonać bardziej zaawansowane modyfikacje broni i pancerzy.</text>
+  </string>
+  <string id="jup_b217_get_tools_1_3_name">
+    <text>Narzędzia: przynieś Azotowi narzędzia</text>
+  </string>
+  <string id="jup_b217_get_tools_1_3_text">
+    <text>Azot poprosił cię o zdobycie dwóch zestawów narzędzi: jednego podstawowego i jednego do kalibracji. Technik zapłaci ci za narzędzia i będzie w stanie wykonać bardziej zaawansowane modyfikacje broni i pancerzy.</text>
+  </string>
+  <string id="jup_b217_get_tools_1_name">
+    <text>Narzędzia: przynieś Azotowi narzędzia</text>
+  </string>
+  <string id="jup_b217_get_tools_1_text">
+    <text>Azot poprosił cię o zdobycie zestawu narzędzi podstawowych. Technik zapłaci ci za narzędzia i będzie w stanie wykonać bardziej zaawansowane modyfikacje broni i pancerzy.</text>
+  </string>
+  <string id="jup_b217_get_tools_2_3_name">
+    <text>Narzędzia: przynieś Azotowi narzędzia</text>
+  </string>
+  <string id="jup_b217_get_tools_2_3_text">
+    <text>Azot poprosił cię o zdobycie dwóch zestawów narzędzi: jednego do precyzyjnej pracy i jednego do kalibracji. Technik zapłaci ci za narzędzia i będzie w stanie wykonać bardziej zaawansowane modyfikacje broni i pancerzy.</text>
+  </string>
+  <string id="jup_b217_get_tools_2_name">
+    <text>Narzędzia: przynieś Azotowi narzędzia</text>
+  </string>
+  <string id="jup_b217_get_tools_2_text">
+    <text>Azot poprosił cię o zdobycie zestawu narzędzi do precyzyjnej pracy. Technik zapłaci ci za narzędzia i będzie w stanie wykonać bardziej zaawansowane modyfikacje broni i pancerzy.</text>
+  </string>
+  <string id="jup_b217_get_tools_3_name">
+    <text>Narzędzia: przynieś Azotowi narzędzia</text>
+  </string>
+  <string id="jup_b217_get_tools_3_text">
+    <text>Azot poprosił cię o zdobycie zestawu narzędzi do kalibracji. Technik zapłaci ci za narzędzia i będzie w stanie wykonać bardziej zaawansowane modyfikacje broni i pancerzy.</text>
+  </string>
+  <string id="jup_b217_mechanic_toolkit_search_name">
+    <text>Narzędzia: przynieś Azotowi narzędzia</text>
+  </string>
+  <string id="jup_b217_mechanic_toolkit_search_text">
+    <text>Azot poprosił cię o zdobycie trzech zestawów narzędzi: jednego podstawowego, jednego do precyzyjnej pracy i jednego do kalibracji. Technik zapłaci ci za narzędzia i będzie w stanie wykonać bardziej zaawansowane modyfikacje broni i pancerzy.</text>
+  </string>
+  <string id="jup_b218_actor_outfit_name">
+    <text>Prypeć 1: znajdź kombinezon z aparatem tlenowym o zamkniętym obiegu</text>
+  </string>
+  <string id="jup_b218_actor_outfit_text">
+    <text>Ponieważ tunel Prypeć 1 został wypełniony dwutlenkiem węgla wymieszanym z jakąś nieznaną substancją, będziesz potrzebować kombinezonu z aparatem tlenowym o zamkniętym obiegu.</text>
+  </string>
+  <string id="jup_b218_monolith_guide_to_zulus_name">
+    <text>Prypeć 1: zaprowadź Włóczęgę do Zulusa</text>
+  </string>
+  <string id="jup_b218_monolith_guide_to_zulus_text">
+    <text>Musisz zaprowadzić Włóczęgę do Zulusa i przedstawić go jako nowego członka drużyny. Zulus może nie być zbyt przyjazny, jeżeli wojownik w mundurze Monolitu pojawi się u niego samotnie.</text>
+  </string>
+  <string id="jup_b218_monolith_name">
+    <text>Prypeć 1: porozmawiaj z Włóczęgą na temat kombinezonu ochronnego</text>
+  </string>
+  <string id="jup_b218_monolith_text">
+    <text>Tunel Prypeć 1 został wypełniony dwutlenkiem węgla wymieszanym z jakąś nieznaną substancją. Musisz poinformować Włóczęgę, że aby przez niego przejść, będzie potrzebował kombinezonu z aparatem tlenowym o zamkniętym obiegu.</text>
+  </string>
+  <string id="jup_b218_pripyat_group_gathering_name">
+    <text>Prypeć 1: zbierz ekipę na wyprawę do Prypeci</text>
+  </string>
+  <string id="jup_b218_pripyat_group_gathering_text">
+    <text>Azot mógłby otworzyć śluzę tunelu Prypeć 1, ale nie zgadza się pójść do fabryki Jupiter bez ochrony. Zalecił też, żeby zebrać kilku ludzi na przeprawę przez tunel. Masz już Zulusa, który zasugerował, żeby nowych ludzi wysyłać bezpośrednio do niego.</text>
+  </string>
+  <string id="jup_b218_pripyat_group_zulus_talk_name">
+    <text>Prypeć 1: porozmawiaj z Zulusem na temat wyprawy do Prypeci</text>
+  </string>
+  <string id="jup_b218_pripyat_group_zulus_talk_text">
+    <text>Azot mógłby otworzyć śluzę tunelu Prypeć 1, ale nie zgadza się pójść do fabryki Jupiter bez ochrony. Zalecił też, żeby zebrać kilku ludzi na przeprawę przez tunel. Zasugerował ci rozmowę z Zulusem, który mógłby pomóc w sformowaniu drużyny.</text>
+  </string>
+  <string id="jup_b218_soldier_guide_to_zulus_name">
+    <text>Prypeć 1: zaprowadź Sokołowa do Zulusa</text>
+  </string>
+  <string id="jup_b218_soldier_guide_to_zulus_text">
+    <text>Sokołow zgodził się pójść do Prypeci. Mógłby zabrać ze sobą kombinezon naukowca, gdy będzie opuszczał bunkier. Zaprowadź go do Zulusa i przedstaw jako nowego członka drużyny.</text>
+  </string>
+  <string id="jup_b218_soldier_name">
+    <text>Prypeć 1: porozmawiaj z Sokołowem na temat kombinezonu ochronnego</text>
+  </string>
+  <string id="jup_b218_soldier_talk_to_scientist_name">
+    <text>Prypeć 1: porozmawiaj z Oziorskim na temat kombinezonu dla Sokołowa</text>
+  </string>
+  <string id="jup_b218_soldier_talk_to_scientist_text">
+    <text>Sokołow zgodził się nosić kombinezon naukowca dla ochrony, ale Herman raczej nie da mu zabrać żadnego z bunkra. Porozmawiaj z Oziorskim - jest sympatyczniejszy i łatwiej się z nim dogadać.</text>
+  </string>
+  <string id="jup_b218_soldier_tell_outfit_name">
+    <text>Prypeć 1: powiedz Sokołowowi o kombinezonie naukowca</text>
+  </string>
+  <string id="jup_b218_soldier_tell_outfit_text">
+    <text>Oziorski jest bardzo zadowolony z próbki roślin. Poprosił cię o przekazanie Sokołowowi, że może odebrać kombinezon naukowca od Hermana.</text>
+  </string>
+  <string id="jup_b218_soldier_text">
+    <text>Tunel Prypeć 1 został wypełniony dwutlenkiem węgla wymieszanym z jakąś nieznaną substancją. Musisz poinformować Sokołowa, że aby przez niego przejść, będzie potrzebował kombinezonu z aparatem tlenowym o zamkniętym obiegu.</text>
+  </string>
+  <string id="jup_b218_stalker_bring_money_name">
+    <text>Prypeć 1: zdobądź dla Wano pieniądze na kombinezon</text>
+  </string>
+  <string id="jup_b218_stalker_bring_money_text">
+    <text>Kombinezon, za który Wano był winien bandytom pieniądze, miał aparat tlenowy o zamkniętym obiegu. Wano musiał go zastawić, żeby spłacić dług. Teraz potrzebuje 3000, żeby go z powrotem wykupić.</text>
+  </string>
+  <string id="jup_b218_stalker_guide_to_zulus_name">
+    <text>Prypeć 1: zaprowadź Wano do Zulusa</text>
+  </string>
+  <string id="jup_b218_stalker_guide_to_zulus_text">
+    <text>Wano jest chętny, by pójść do Prypeci. Zaprowadź go do Zulusa i przedstaw jako nowego członka drużyny. Wano może po drodze wykupić swój kombinezon.</text>
+  </string>
+  <string id="jup_b218_stalker_name">
+    <text>Prypeć 1: porozmawiaj z Wano na temat kombinezonu ochronnego</text>
+  </string>
+  <string id="jup_b218_stalker_text">
+    <text>Tunel Prypeć 1 został wypełniony dwutlenkiem węgla wymieszanym z jakąś nieznaną substancją. Musisz poinformować Wano, że aby przez niego przejść, będzie potrzebował kombinezonu z aparatem tlenowym o zamkniętym obiegu.</text>
+  </string>
+  <string id="jup_b25_accuse_flint_end_text">
+    <text>Flint, znany też jako Sroka, to podstępny sukinsyn. Musisz go zdemaskować przed stalkerami na Zatonie i przed innymi frakcjami. To będzie dla niego niezła nauczka.</text>
+  </string>
+  <string id="jup_b25_accuse_flint_first_text">
+    <text>Flint wyraźnie się popisuje i gada o rzeczach, których nawet nie widział na oczy. Dobrze byłoby ujawnić jego oszustwa.</text>
+  </string>
+  <string id="jup_b25_accuse_flint_name">
+    <text>Fałszywe zasługi: rozpraw się z Flintem</text>
+  </string>
+  <string id="jup_b25_accuse_flint_second_text">
+    <text>Flint przywłaszcza sobie zasługi innych. Trzeba go nauczyć, żeby uważał na to, co gada.</text>
+  </string>
+  <string id="jup_b25_accuse_flint_third_text">
+    <text>Szpanerstwo Flinta przekracza wszelkie wyobrażenie - porozmawiaj z nim i wyjaśnij mu wszystko tak, żeby zrozumiał o co chodzi.</text>
+  </string>
+  <string id="jup_b25_senya_accuse_flint_text">
+    <text>Flint, znany też jako Sroka, to podstępny sukinsyn. Musisz go zdemaskować przed stalkerami na Zatonie i przed innymi frakcjami - to będzie najlepsza zemsta.</text>
+  </string>
+  <string id="jup_b32_get_scanners_task_name">
+    <text>Badania nad anomaliami: odbierz skanery od technika</text>
+  </string>
+  <string id="jup_b32_get_scanners_task_text">
+    <text>Odbierz skanery od Nowikowa. Herman chce zebrać dane statystyczne na temat tworzenia się artefaktów. Żeby mógł to zrobić, trzeba umieścić skanery w środku kilku anomalii.</text>
+  </string>
+  <string id="jup_b32_task_name">
+    <text>Badania nad anomaliami: umieść skaner w anomalii</text>
+  </string>
+  <string id="jup_b32_task_reward_name">
+    <text>Badania nad anomaliami: odbierz swoją nagrodę</text>
+  </string>
+  <string id="jup_b32_task_reward_text">
+    <text>Odbierz nagrodę obiecaną ci za umieszczenie skanerów w anomaliach. Teraz, gdy skanery są już na miejscach, Herman może zacząć zbierać dane na temat tworzenia się artefaktów.</text>
+  </string>
+  <string id="jup_b32_task_text">
+    <text>Umieść skaner w środku anomalii. Herman chce zebrać dane statystyczne na temat tworzenia się artefaktów. Żeby mógł to zrobić, trzeba umieścić skanery w środku kilku anomalii.</text>
+  </string>
+  <string id="jup_b43_bring_fuzz_kolobok_name">
+    <text>Kontrakt z naukowcami: przynieś Garriemu artefakt zwany Kulebiakem</text>
+  </string>
+  <string id="jup_b43_bring_fuzz_kolobok_text">
+    <text>Garri potrzebuje artefaktu zwanego Kulebiakiem, aby wypełnić swój kontrakt z naukowcami. Przynieś mu ten artefakt.</text>
+  </string>
+  <string id="jup_b43_bring_mincer_meat_name">
+    <text>Kontrakt z naukowcami: przynieś Garriemu artefakt zwany Kotletem</text>
+  </string>
+  <string id="jup_b43_bring_mincer_meat_text">
+    <text>Garri potrzebuje artefaktu zwanego Kotletem, aby wypełnić swój kontrakt z naukowcami. Przynieś mu ten artefakt.</text>
+  </string>
+  <string id="jup_b43_contract_started_name">
+    <text>Kontrakt z naukowcami: przynieś Garriemu artefakty Kotlet i Kulebiak</text>
+  </string>
+  <string id="jup_b43_contract_started_text">
+    <text>Garriemu potrzebne są dwa artefakty, Kotlet i Kulebiak, aby mógł wypełnić swój kontrakt z naukowcami. Przynieś mu te artefakty.</text>
+  </string>
+  <string id="jup_b43_thanks_for_2_artifacts_name">
+    <text>Kontrakt z naukowcami: dostarczono artefakty</text>
+  </string>
+  <string id="jup_b43_thanks_for_2_artifacts_text">
+    <text>Garri ma oba artefakty i jego kontrakt został wypełniony.</text>
+  </string>
+  <string id="jup_b46_duty_founder_pda_name">
+    <text>Historia Powinności: przekaż PDA założyciela Powinności zainteresowanym</text>
+  </string>
+  <string id="jup_b46_duty_founder_pda_text">
+    <text>Udało ci się znaleźć PDA założyciela Powinności, który zginął w anomalii. Zabierz go do kogoś, kto byłby zainteresowany ostatnimi chwilami życia lidera frakcji.</text>
+  </string>
+  <string id="jup_b46_spatial_bubble_name">
+    <text>Aktywność anomalii: zbadaj teren używając ulepszonego detektora</text>
+  </string>
+  <string id="jup_b46_spatial_bubble_text">
+    <text>Skanery naukowców zarejestrowały nietypową aktywność na północ od bunkra. Zbadaj ten teren używając ulepszonego detektora.</text>
+  </string>
+  <string id="jup_b47_bunker_guards_01_name">
+    <text>Ochrona naukowców: znajdź wiarygodnych ludzi</text>
+  </string>
+  <string id="jup_b47_bunker_guards_01_text">
+    <text>Bunkier naukowców jest niestrzeżony. Znajdź wiarygodnych ludzi do jego ochrony.</text>
+  </string>
+  <string id="jup_b47_bunker_guards_02_name">
+    <text>Ochrona naukowców: wróć do Hermana po nagrodę</text>
+  </string>
+  <string id="jup_b47_bunker_guards_02_text">
+    <text>Udało ci się znaleźć strażników do bunkra naukowców. Wróć do Hermana po należną ci nagrodę.</text>
+  </string>
+  <string id="jup_b47_jupiter_products_01_name">
+    <text>Ostatnie zmiany: znajdź dokumenty w fabryce Jupiter</text>
+  </string>
+  <string id="jup_b47_jupiter_products_01_text">
+    <text>Herman jest zainteresowany ostatnimi zmianami w fabryce Jupiter. Znajdź dokumenty w części administracyjnej zakładu.</text>
+  </string>
+  <string id="jup_b47_jupiter_products_02_name">
+    <text>Ostatnie zmiany: zanieś dokumenty Hermanowi</text>
+  </string>
+  <string id="jup_b47_jupiter_products_02_text">
+    <text>Znalezione dokumenty wskazują, że cała dokumentacja techniczna została przeniesiona poza fabrykę. To niewiele, ale Herman powinien się o tym dowiedzieć.</text>
+  </string>
+  <string id="jup_b47_jupiter_products_03_name">
+    <text>Ostatnie zmiany: zabierz dokumenty i PDA Czarnego do Hermana</text>
+  </string>
+  <string id="jup_b47_jupiter_products_03_text">
+    <text>Podczas twojego szperania w dokumentach, najemnicy przypuścili atak. Według PDA znalezionego przy Czarnym, ich liderze, zostali wysłani, by uniemożliwić naukowcom poszukiwanie dokumentów. Znalezione dokumenty wskazują, że cała dokumentacja techniczna została przeniesiona poza fabrykę. Przekaż tę informację Hermanowi i pokaż mu PDA Czarnego.</text>
+  </string>
+  <string id="jup_b4_monolith_squad_help_name">
+    <text>Ocaleni z Monolitu: zapytaj na stacji Janów o schronienie</text>
+  </string>
+  <string id="jup_b4_monolith_squad_help_text">
+    <text>Grupa wojowników Monolitu uwolniła się spod uroku, którym była opętana. Szukają teraz schronienia przed emisją i mutantami. Musisz porozmawiać z mieszkańcami stacji Janów, by pozwolili drużynie Monolitu ukryć się na niej.</text>
+  </string>
+  <string id="jup_b4_stalkers_come_duty_text">
+    <text>Zaprowadź ludzi Powinności odpowiedzialnych za rekrutację do byłej załogi Monolitu. Jeżeli wojownicy Monolitu wstąpią do Powinności, będą mogli schronić się na stacji Janów przed emisją i mutantami.</text>
+  </string>
+  <string id="jup_b4_stalkers_come_freedom_text">
+    <text>Zaprowadź ludzi Wolności, odpowiedzialnych za rekrutację, do byłej załogi Monolitu. Jeżeli wojownicy Monolitu wstąpią do Wolności, będą mogli schronić się na stacji Janów przed emisją i mutantami.</text>
+  </string>
+  <string id="jup_b4_stalkers_come_name">
+    <text>Ocaleni z Monolitu: zaprowadź na miejsce odpowiedzialnych za rekrutację</text>
+  </string>
+  <string id="jup_b6_anom_1_guard_name">
+    <text>Badania nad anomaliami: ochraniaj stalkerów</text>
+  </string>
+  <string id="jup_b6_anom_1_guard_text">
+    <text>Wygląda na to, że wykonywanie pomiarów w anomalii przyciągnęło mutanty. Musisz ochraniać stalkerów, dopóki nie zbiorą wszystkich potrzebnych danych.</text>
+  </string>
+  <string id="jup_b6_anom_2_guard_name">
+    <text>Badania nad anomaliami: ochraniaj stalkerów</text>
+  </string>
+  <string id="jup_b6_anom_2_guard_text">
+    <text>Wygląda na to, że wykonywanie pomiarów w anomalii przyciągnęło zombi z Kopaczi. Musisz ochraniać stalkerów, dopóki nie zbiorą wszystkich potrzebnych danych.</text>
+  </string>
+  <string id="jup_b6_get_reward_name">
+    <text>Badania nad anomaliami: porozmawiaj z Hermanem</text>
+  </string>
+  <string id="jup_b6_get_reward_text">
+    <text>Pomiary w anomalii zostały ukończone - poinformuj o tym naukowców i odbierz nagrodę.</text>
+  </string>
+  <string id="jup_b6_get_to_anomal_place_name">
+    <text>Badania nad anomaliami: porozmawiaj ze stalkerami</text>
+  </string>
+  <string id="jup_b6_get_to_anomal_place_text">
+    <text>Porozmawiaj z drużyną stalkerów odpowiedzialną za pomiary - musicie zdecydować, do której anomalii się wybierzecie.</text>
+  </string>
+  <string id="jup_b6_travel_home_name">
+    <text>Badania nad anomaliami: porozmawiaj ze stalkerami</text>
+  </string>
+  <string id="jup_b6_travel_home_text">
+    <text>Wszystkie potrzebne pomiary zostały wykonane, możesz więc razem z drużyną wrócić do bunkra naukowców.</text>
+  </string>
+  <string id="jup_b6_travel_name">
+    <text>Badania nad anomaliami: porozmawiaj ze stalkerami</text>
+  </string>
+  <string id="jup_b6_travel_text">
+    <text>Pomiary w anomalii zostały wykonane. Porozmawiaj z drużyną, dokąd się teraz wybierzecie.</text>
+  </string>
+  <string id="jup_b6_watch_topol_squad_six_name">
+    <text>Badania nad anomaliami: ochraniaj stalkerów</text>
+  </string>
+  <string id="jup_b6_watch_topol_squad_six_text">
+    <text>Herman zaoferował ci pracę, polegającą na ochronie stalkerów, gdy ci będą wykonywać pomiary w anomaliach.</text>
+  </string>
+  <string id="jup_b8_heli_4_crash_name">
+    <text>Ogończa 4: zbadaj miejsce katastrofy</text>
+  </string>
+  <string id="jup_b8_heli_4_crash_name_2">
+    <text>Ogończa 4: znajdź przyczynę spalenia się elektroniki</text>
+  </string>
+  <string id="jup_b8_heli_4_crash_text">
+    <text>Zbadaj miejsce katastrofy Ogończy 4.</text>
+  </string>
+  <string id="jup_b8_heli_4_crash_text_2">
+    <text>Musisz znaleźć źródło silnego wyładowania elektrycznego, które uderzyło w śmigłowiec Ogończa 4.</text>
+  </string>
+  <string id="jup_b9_blackbox_decrypting_name">
+    <text>Ogończa 1: daj technikowi czarną skrzynkę do odszyfrowania</text>
+  </string>
+  <string id="jup_b9_blackbox_decrypting_text">
+    <text>Czarna skrzynka z Ogończy 1 przetrwała katastrofę. Musi zostać zabrana do technika, który ją zdeszyfruje, aby dostać się do zawartych w niej informacji.</text>
+  </string>
+  <string id="jup_b9_blackbox_descrypted_after_3_name">
+    <text>Ogończa 1: poczekaj na odszyfrowanie danych z czarnej skrzynki</text>
+  </string>
+  <string id="jup_b9_blackbox_descrypted_after_3_text">
+    <text>Azot zgodził się zdeszyfrować czarną skrzynkę. Powiedział, że zajmie to około trzech godzin. Musisz poczekać, aż skończy.</text>
+  </string>
+  <string id="jup_b9_go_for_blackbox_descryption_name">
+    <text>Ogończa 1: wróć do Azota po informacje z czarnej skrzynki</text>
+  </string>
+  <string id="jup_b9_go_for_blackbox_descryption_text">
+    <text>Azot powinien już skończyć deszyfrację. Spotkaj się z nim, aby otrzymać informacje z czarnej skrzynki.</text>
+  </string>
+  <string id="jup_b9_heli_1_crash_name">
+    <text>Ogończa 1: zbadaj miejsce katastrofy</text>
+  </string>
+  <string id="jup_b9_heli_1_crash_text">
+    <text>Zbadaj miejsce katastrofy Ogończy 1.</text>
+  </string>
+  <string id="pas_b400_pripyat_name">
+    <text>Prypeć 1: dostań się do Prypeci</text>
+  </string>
+  <string id="pas_b400_pripyat_text">
+    <text>Musisz przejść tunelem Prypeć 1 i dotrzeć do wojskowego punktu ewakuacyjnego w Prypeci.</text>
+  </string>
+  <string id="zat_a9_way_gases_check_chemistry_workshop_name">
+    <text>Droga do Prypeci: zbadaj pracownię chemiczną w fabryce Jupiter</text>
+  </string>
+  <string id="zat_a9_way_gases_check_chemistry_workshop_text">
+    <text>W pracowni chemicznej powinny znajdować się informacje na temat wypełnienia tunelu Prypeć 1 jakimś rodzajem gazu.</text>
+  </string>
+  <string id="zat_a9_way_gates_check_corps_name">
+    <text>Droga do Prypeci: zbadaj część administracyjną fabryki Jupiter</text>
+  </string>
+  <string id="zat_a9_way_gates_check_corps_text">
+    <text>Przewodnik nie zna bezpiecznej drogi do Prypeci, ale zasugerował ci, gdzie możesz znaleźć informacje na temat podziemnych tuneli prowadzących z fabryki Jupiter do miasta. Zacznij od części administracyjnej.</text>
+  </string>
+  <string id="zat_a9_way_gates_check_electrical_workshop_name">
+    <text>Droga do Prypeci: zbadaj część laboratoryjną fabryki Jupiter</text>
+  </string>
+  <string id="zat_a9_way_gates_check_electrical_workshop_text">
+    <text>Dokumenty znalezione w części administracyjnej wspominają o przeniesieniu kompleksu produkcyjnego poza fabrykę. Informacje dotyczące tej kwestii powinny znajdować się w części laboratoryjnej.</text>
+  </string>
+  <string id="zat_a9_way_gates_check_transport_workshop_name">
+    <text>Droga do Prypeci: sprawdź śluzę transportową tunelu Prypeć 1</text>
+  </string>
+  <string id="zat_a9_way_gates_check_transport_workshop_text">
+    <text>Wejście do tunelu znajduje się za śluzą transportową. Zbadaj ten teren w poszukiwaniu jakichkolwiek informacji na temat tunelu.</text>
+  </string>
+  <string id="zat_a9_way_to_pripyat_check_archives_name">
+    <text>Droga do Prypeci: zbadaj Departament 1 fabryki Jupiter</text>
+  </string>
+  <string id="zat_a9_way_to_pripyat_check_archives_text">
+    <text>Informacje na temat tunelu Prypeć 1 powinny znajdować się w Departamencie 1. Mogą być one bardzo przydatne, więc spróbuj tam poszukać.</text>
+  </string>
+  <string id="zat_a9_way_to_pripyat_check_delivery_department_name">
+    <text>Droga do Prypeci: zbadaj dział dostaw fabryki Jupiter</text>
+  </string>
+  <string id="zat_a9_way_to_pripyat_check_delivery_department_text">
+    <text>Wnioskując z notatki w laboratorium, przeniesienie miało zostać przeprowadzone przez dział dostaw, więc sprawdź również tam.</text>
+  </string>
+  <string id="zat_a9_way_to_pripyat_check_repair_workshop_name">
+    <text>Droga do Prypeci: zbadaj warsztat naprawczy fabryki Jupiter</text>
+  </string>
+  <string id="zat_a9_way_to_pripyat_check_repair_workshop_text">
+    <text>W dziale dostaw znajdowały się informacje na temat strat podczas transportu czegoś, co nazywano obiektem 62. Według dokumentacji, za tę kwestię był odpowiedzialny warsztat naprawczy - sprawdź tam.</text>
+  </string>
+  <string id="zat_a9_way_to_pripyat_tell_stalker_guide_name">
+    <text>Droga do Prypeci: porozmawiaj z przewodnikiem</text>
+  </string>
+  <string id="zat_a9_way_to_pripyat_tell_stalker_guide_text">
+    <text>Z nagrania z czarnej skrzynki jednego ze śmigłowców wynika, że jednostki wojskowe miały zgrupować się w punkcie ewakuacyjnym B28. Według map znalezionych w innym śmigłowcu biorącym udział w misji, miejsce to znajduje się w Prypeci. Musisz znaleźć sposób, by się tam dostać - porozmawiaj o tym z przewodnikiem.</text>
+  </string>
+  <string id="zat_b207_depot_reward_task_name">
+    <text>Magazyn Powinności: zabierz, co ci się należy</text>
+  </string>
+  <string id="zat_b207_morgan_depot_task_name">
+    <text>Magazyn Powinności: spotkaj się z Morganem</text>
+  </string>
+  <string id="zat_b207_morgan_depot_task_text">
+    <text>Handlarz Morgan zaoferował ci dostęp do magazynu Powinności w zamian za milczenie na temat jego interesu. Zgodnie z umową, masz się z nim spotkać niedaleko kamieniołomów.</text>
+  </string>
+  <string id="pas_b400_pripyat_gate_text">
+    <text>Musisz otworzyć bramę, aby przejść dalej.</text>
+  </string>
+  <string id="pas_b400_pripyat_door_text">
+    <text>Musisz otworzyć drzwi, aby przejść dalej.</text>
+  </string>
+  <string id="pas_b400_pripyat_hall_door_text">
+    <text>Musisz aktywować zasilanie w bramie, aby przejść dalej.</text>
+  </string>
+  <string id="pas_b400_pripyat_control_text">
+    <text>Musisz odblokować bramę, aby przejść dalej. Prawdopodobnie można to zrobić w sterowni.</text>
+  </string>
+  <string id="jup_b6_employ_stalkers_name">
+    <text>Grupa badawcza: wynajmij odpowiednich ludzi</text>
+  </string>
+  <string id="jup_b6_employ_stalkers_text">
+    <text>Członkowie grupy badawczej pracującej dla naukowców zginęli. Musisz zatrudnić nowych ludzi, aby kontynuować badania.</text>
+  </string>
+  <string id="jup_b6_employ_stalkers_reward_name">
+    <text>Grupa badawcza: wróć do Hermana po nagrodę</text>
+  </string>
+  <string id="jup_b6_employ_stalkers_reward_text">
+    <text>Udało ci się znaleźć odpowiednich ludzi do nowej grupy badawczej. Możesz wrócić do Hermana, aby odebrać nagrodę.</text>
+  </string>
+  <string id="jup_b218_soldier_do_scientist_quest_name">
+    <text>Prypeć 1: wypełnij misję Oziorskiego</text>
+  </string>
+  <string id="jup_b218_soldier_do_scientist_quest_text">
+    <text>Musisz wypełnić misję Oziorskiego dotyczącą nietypowej rośliny, aby zdobyć kombinezon ochronny dla Sokołowa.</text>
+  </string>
+  <string id="jup_b200_tech_materials_inside_text">
+    <text>Azot potrzebuje materiałów radiotechnicznych. Musisz je znaleźć w cementowni.</text>
+  </string>
+  <string id="jup_b25_flint_and_senya_text">
+    <text>To Flint pozwolił Drzazdze zginąć w anomalii. Porozmawiaj z nim i dowiedz się, dlaczego to zrobił.</text>
+  </string>
+  <string id="jup_b25_revenge_senya_name">
+    <text>Zemsta: pomścij Drzazgę</text>
+  </string>
+  <string id="jup_b25_revenge_senya_text">
+    <text>Dowiedz się, kto porzucił Drzazgę na śmierć w anomalii, zabrał artefakt i odszedł. Niestety, Drzazga nie zdołał powiedzieć, kto to był. Wiadomo tylko, że jest członkiem Wolności.</text>
+  </string>
+  <string id="zat_b207_depot_reward_task_duty_text">
+    <text>Podpułkownik Szulga pozwolił ci zabrać z magazynu Powinności co tylko chcesz, o ile zdołasz go odbić od oddziału Wolności.</text>
+  </string>
+  <string id="zat_b207_depot_reward_task_freedom_text">
+    <text>Loki pozwolił ci brać z magazynu Powinności co tylko chcesz, dopóki jest on w posiadaniu wojowników Wolności.</text>
+  </string>
+</string_table>
